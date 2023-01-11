@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-11 11:26:37.077"
+[1] "Updated at 2023-01-11 11:30:02.390"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -167,19 +167,4 @@
 [1] "-----------------------------------"
                   bet           date_time
 1 under AS Roma/Genoa 2023-01-12 12:00:00
-[1] "New commit ID #9412"
- of 13.3 percent."
-[1] "--Sportsbook Odds--"
-[1] "AS Roma Barstool Odds are: 69.23"
-[1] "The Barstool Odds of a Draw are: 22.22"
-[1] "Genoa Barstool Odds are: 16"
-[1] "AS Roma Adjusted Barstool Odds are: 64.43"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.679"
-[1] "Genoa Adjusted Barstool Odds are: 14.891"
-[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 68.49"
-[1] "Genoa's Barstool Odds to cover the 0.5 spread are: 35.71"
-[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-                  bet           date_time
-1 under AS Roma/Genoa 2023-01-12 12:00:00
-[1] "New commit ID #9412"
+[1] "New commit ID #1471"
