@@ -555,15 +555,3 @@
 4                           Angers 2023-01-11 12:00:00
 5 under Paris Saint-Germain/Angers 2023-01-11 12:00:00
 6             over Strasbourg/Lens 2023-01-11 12:00:00
-cloning into 'C:/Users/CORSAIR GAMING/Documents/FotMob Soccer Modelling/French Ligue 1/Soccer_Models'...
-Receiving objects:   2% (1/46),   48 kb
-Receiving objects:  13% (6/46),   48 kb
-Receiving objects:  21% (10/46),   48 kb
-Receiving objects:  32% (15/46),   48 kb
-Receiving objects:  41% (19/46),   48 kb
-Receiving objects:  52% (24/46),   48 kb
-Receiving objects:  63% (29/46),   48 kb
-Receiving objects:  71% (33/46),   48 kb
-Receiving objects:  82% (38/46),   48 kb
-Receiving objects:  91% (42/46),   48 kb
-Receiving objects: 100% (46/46),   48 kb, done.
