@@ -1,3 +1,5 @@
+[1] "Updated at 2023-01-11 09:27:10.728"
+[1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Fulham 1.9045 to Chelsea 1.4464"
@@ -445,7 +447,7 @@
 4        Brighton and Hove Albion ATS 2023-01-14 07:00:00
 5                     Southampton ATS 2023-01-14 07:00:00
 6 under Wolverhampton/West Ham United 2023-01-14 07:00:00
-[1] "New commit ID #2044"
+[1] "New commit ID #5303"
              player team number  odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Antonee Robinson  FUL     34  1.88          NA  0.6532   0.1213    passes Premier League      0.5319         NA        NA         NA       NA
 2: Antonee Robinson  FUL     30  1.34          NA  0.8599   0.1136    passes Premier League      0.7463         NA        NA         NA       NA
