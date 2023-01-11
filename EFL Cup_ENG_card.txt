@@ -110,18 +110,6 @@
 [1] "-----------------------------------"
           bet           date_time
 1 Southampton 2023-01-11 12:00:00
-cloning into 'C:/Users/CORSAIR GAMING/Documents/FotMob Soccer Modelling/English EFL Cup/Soccer_Models'...
-Receiving objects:   2% (1/43),   47 kb
-Receiving objects:  11% (5/43),   47 kb
-Receiving objects:  23% (10/43),   47 kb
-Receiving objects:  32% (14/43),   47 kb
-Receiving objects:  41% (18/43),   47 kb
-Receiving objects:  51% (22/43),   47 kb
-Receiving objects:  62% (27/43),   47 kb
-Receiving objects:  72% (31/43),   47 kb
-Receiving objects:  81% (35/43),   47 kb
-Receiving objects:  93% (40/43),   47 kb
-Receiving objects: 100% (43/43),   47 kb, done.
 
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Nottingham Forest 1.6825 to Wolverhampton 1.1293"
@@ -234,15 +222,115 @@ Receiving objects: 100% (43/43),   47 kb, done.
 [1] "-----------------------------------"
           bet           date_time
 1 Southampton 2023-01-11 12:00:00
-cloning into 'C:/Users/CORSAIR GAMING/Documents/FotMob Soccer Modelling/English EFL Cup/Soccer_Models'...
-Receiving objects:   2% (1/43),   47 kb
-Receiving objects:  11% (5/43),   47 kb
-Receiving objects:  23% (10/43),   47 kb
-Receiving objects:  32% (14/43),   47 kb
-Receiving objects:  41% (18/43),   47 kb
-Receiving objects:  51% (22/43),   47 kb
-Receiving objects:  62% (27/43),   47 kb
-Receiving objects:  72% (31/43),   47 kb
-Receiving objects:  81% (35/43),   47 kb
-Receiving objects:  93% (40/43),   47 kb
-Receiving objects: 100% (43/43),   47 kb, done.
+
+[1] "--Pass/Shot Model--"
+[1] "The pass/shot predicted score is Nottingham Forest 1.6825 to Wolverhampton 1.1293"
+[1] "The pass/shot predicted total is 2.8118"
+[1] "Nottingham Forest pass/shot Predicted Win %: 50.53"
+[1] "The pass/shot Predicted Draw % is: 24.11"
+[1] "Wolverhampton pass/shot Predicted Win %: 25.36"
+[1] "--XG Model--"
+[1] "The xg model predicted score is Nottingham Forest 1.8929 to Wolverhampton 1.1828"
+[1] "The xg model predicted total is 3.0757"
+[1] "Nottingham Forest xg model Predicted Win %: 54.13"
+[1] "The xg model Predicted Draw % is: 22.38"
+[1] "Wolverhampton xg model Predicted Win %: 23.49"
+[1] "--XGoT Model--"
+[1] "The xgot model predicted score is Nottingham Forest 2.1432 to Wolverhampton 1.1837"
+[1] "The xgot model predicted total is 3.3269"
+[1] "Nottingham Forest xgot model Predicted Win %: 59.43"
+[1] "The xgot model Predicted Draw % is: 20.71"
+[1] "Wolverhampton xgot model Predicted Win %: 19.86"
+[1] "--XA Model--"
+[1] "The xa model predicted score is Nottingham Forest 1.2332 to Wolverhampton 0.9577"
+[1] "The xa model predicted total is 2.1909"
+[1] "Nottingham Forest xa model Predicted Win %: 42.45"
+[1] "The xa model Predicted Draw % is: 29.43"
+[1] "Wolverhampton xa model Predicted Win %: 28.12"
+[1] "--XGExp Model--"
+[1] "The XGExp model predicted score is Nottingham Forest 1.7657 to Wolverhampton 0.7701"
+[1] "The XGExp model predicted total is 2.5358"
+[1] "Nottingham Forest XGExp model Predicted Win %: 61.06"
+[1] "The XGExp model Predicted Draw % is: 23.45"
+[1] "Wolverhampton XGExp model Predicted Win %: 15.49"
+[1] "--XAExp Model--"
+[1] "The XAExp model predicted score is Nottingham Forest 0.7953 to Wolverhampton 0.8957"
+[1] "The XAExp model predicted total is 1.691"
+[1] "Nottingham Forest XAExp model Predicted Win %: 30.28"
+[1] "The XAExp model Predicted Draw % is: 34.46"
+[1] "Wolverhampton XAExp model Predicted Win %: 35.26"
+[1] "--Mean 6 Models--"
+[1] "Our modelled likelihood of Nottingham Forest winning this match is 49.65 percent, with a minimum chance of 30.28 percent, and a maximum chance of 61.06 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 25.76 percent, with a minimum chance of 20.71 percent, and a maximum chance of 34.46 percent."
+[1] "Our modelled likelihood of Wolverhampton winning this match is 24.6 percent, with a minimum chance of 15.49 percent, and a maximum chance of 35.26 percent."
+[1] "Our modelled likelihood of Nottingham Forest winning this match OR DRAW is 49.77 percent, with a minimum chance of 64.74 percent, and a maximum chance of 84.51 percent."
+[1] "Our modelled likelihood of Wolverhampton winning this match OR DRAW is 33.23 percent, with a minimum chance of 38.94 percent, and a maximum chance of 69.72 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 48.29 percent, with a high likelihood of 64.59 and a low likelihood of 24.04 percent."
+[1] "--Sportsbook Odds--"
+[1] "Nottingham Forest Barstool Odds are: 37.04"
+[1] "The Barstool Odds are is: 31.75"
+[1] "Wolverhampton Barstool Odds are: 35.09"
+[1] "Nottingham Forest Adjusted Barstool Odds are: 35.657"
+[1] "The Adjusted Barstool Odds are: 30.564"
+[1] "Wolverhampton Adjusted Barstool Odds are: 33.779"
+[1] "Nottingham Forest's Barstool Odds to cover the -0.5 spread are: 37.74"
+[1] "Wolverhampton's Barstool Odds to cover the 0.5 spread are: 67.11"
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
+[1] "-----------------------------------"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "The pass/shot predicted score is Southampton 0.7988 to Manchester City 1.8023"
+[1] "The pass/shot predicted total is 2.6011"
+[1] "Southampton pass/shot Predicted Win %: 16.44"
+[1] "The pass/shot Predicted Draw % is: 22.54"
+[1] "Manchester City pass/shot Predicted Win %: 61.02"
+[1] "--XG Model--"
+[1] "The xg model predicted score is Southampton 0.776 to Manchester City 2.2676"
+[1] "The xg model predicted total is 3.0436"
+[1] "Southampton xg model Predicted Win %: 11.35"
+[1] "The xg model Predicted Draw % is: 17.76"
+[1] "Manchester City xg model Predicted Win %: 70.89"
+[1] "--XGoT Model--"
+[1] "The xgot model predicted score is Southampton 0.6933 to Manchester City 1.7809"
+[1] "The xgot model predicted total is 2.4742"
+[1] "Southampton xgot model Predicted Win %: 14.14"
+[1] "The xgot model Predicted Draw % is: 22.57"
+[1] "Manchester City xgot model Predicted Win %: 63.29"
+[1] "--XA Model--"
+[1] "The xa model predicted score is Southampton 0.8336 to Manchester City 1.7623"
+[1] "The xa model predicted total is 2.5959"
+[1] "Southampton xa model Predicted Win %: 17.92"
+[1] "The xa model Predicted Draw % is: 22.78"
+[1] "Manchester City xa model Predicted Win %: 59.3"
+[1] "--XGExp Model--"
+[1] "The XGExp model predicted score is Southampton 0.9915 to Manchester City 3.0314"
+[1] "The XGExp model predicted total is 4.0229"
+[1] "Southampton XGExp model Predicted Win %: 9.18"
+[1] "The XGExp model Predicted Draw % is: 13.07"
+[1] "Manchester City XGExp model Predicted Win %: 77.75"
+[1] "--XAExp Model--"
+[1] "The XAExp model predicted score is Southampton 0.8608 to Manchester City 2.3912"
+[1] "The XAExp model predicted total is 3.252"
+[1] "Southampton XAExp model Predicted Win %: 11.99"
+[1] "The XAExp model Predicted Draw % is: 17.22"
+[1] "Manchester City XAExp model Predicted Win %: 70.79"
+[1] "--Mean 6 Models--"
+[1] "Our modelled likelihood of Southampton winning this match is 13.5 percent, with a minimum chance of 9.18 percent, and a maximum chance of 17.92 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 19.32 percent, with a minimum chance of 13.07 percent, and a maximum chance of 22.78 percent."
+[1] "Our modelled likelihood of Manchester City winning this match is 67.17 percent, with a minimum chance of 59.3 percent, and a maximum chance of 77.75 percent."
+[1] "Our modelled likelihood of Southampton winning this match OR DRAW is 23.68 percent, with a minimum chance of 22.25 percent, and a maximum chance of 40.7 percent."
+[1] "Our modelled likelihood of Manchester City winning this match OR DRAW is 62.39 percent, with a minimum chance of 82.08 percent, and a maximum chance of 90.82 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 57.64 percent, with a high likelihood of 76.52 and a low likelihood of 44.95 percent."
+[1] "--Sportsbook Odds--"
+[1] "Southampton Barstool Odds are: 7.14"
+[1] "The Barstool Odds are is: 16"
+[1] "Manchester City Barstool Odds are: 81.82"
+[1] "Southampton Adjusted Barstool Odds are: 6.803"
+[1] "The Adjusted Barstool Odds are: 15.244"
+[1] "Manchester City Adjusted Barstool Odds are: 77.954"
+[1] "Southampton's Barstool Odds to cover the  spread are: NA"
+[1] "Manchester City's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97 percent chance of the over 2.5 hitting."
+[1] "-----------------------------------"
+          bet           date_time
+1 Southampton 2023-01-11 12:00:00
