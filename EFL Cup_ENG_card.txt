@@ -238,3 +238,16 @@ Receiving objects:  73% (25/34),   44 kb
 Receiving objects:  82% (28/34),   44 kb
 Receiving objects:  91% (31/34),   44 kb
 Receiving objects: 100% (34/34),   44 kb, done.
+[7412812] 2023-01-11: First commit
+cloning into 'C:/Users/CORSAIR GAMING/Documents/FotMob Soccer Modelling/English EFL Cup/Soccer_Models'...
+Receiving objects:   2% (1/37),   46 kb
+Receiving objects:  13% (5/37),   46 kb
+Receiving objects:  21% (8/37),   46 kb
+Receiving objects:  32% (12/37),   46 kb
+Receiving objects:  43% (16/37),   46 kb
+Receiving objects:  51% (19/37),   46 kb
+Receiving objects:  62% (23/37),   46 kb
+Receiving objects:  72% (27/37),   46 kb
+Receiving objects:  81% (30/37),   46 kb
+Receiving objects:  91% (34/37),   46 kb
+Receiving objects: 100% (37/37),   46 kb, done.
