@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-11 09:26:03.940"
+[1] "Updated at 2023-01-11 09:51:15.494"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -108,14 +108,8 @@
 [1] "Manchester City Adjusted Barstool Odds are: 77.295"
 [1] "Southampton's Barstool Odds to cover the  spread are: NA"
 [1] "Manchester City's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.46, which is a 68.49 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
           bet           date_time
 1 Southampton 2023-01-11 12:00:00
-[1] "New commit ID #3187"
-"
-[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-          bet           date_time
-1 Southampton 2023-01-11 12:00:00
-[1] "New commit ID #3187"
+[1] "New commit ID #6797"
