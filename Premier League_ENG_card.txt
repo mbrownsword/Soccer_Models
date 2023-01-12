@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-12 11:08:18.239"
+[1] "Updated at 2023-01-12 11:16:33.443"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -45,15 +45,15 @@
 [1] "Our modelled likelihood of Chelsea winning this match OR DRAW is 41.08 percent, with a minimum chance of 42.16 percent, and a maximum chance of 59.1 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 64.04 percent, with a high likelihood of 78.86 and a low likelihood of 38.08 percent."
 [1] "--Sportsbook Odds--"
-[1] "Fulham Barstool Odds are: 25"
+[1] "Fulham Barstool Odds are: 25.64"
 [1] "The Barstool Odds of a Draw are: 28.99"
-[1] "Chelsea Barstool Odds are: 51.28"
-[1] "Fulham Adjusted Barstool Odds are: 23.748"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.539"
-[1] "Chelsea Adjusted Barstool Odds are: 48.713"
-[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 53.19"
-[1] "Chelsea's Barstool Odds to cover the -0.5 spread are: 51.02"
-[1] "Barstool's line for the total is 2.5 at 2.17, which is a 46.08 percent chance of the over 2.5 hitting."
+[1] "Chelsea Barstool Odds are: 50"
+[1] "Fulham Adjusted Barstool Odds are: 24.505"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.707"
+[1] "Chelsea Adjusted Barstool Odds are: 47.787"
+[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 54.35"
+[1] "Chelsea's Barstool Odds to cover the -0.5 spread are: 50.51"
+[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -446,7 +446,7 @@
 3            Brighton and Hove Albion 2023-01-14 07:00:00
 4        Brighton and Hove Albion ATS 2023-01-14 07:00:00
 5 under Wolverhampton/West Ham United 2023-01-14 07:00:00
-[1] "New commit ID #2590"
+[1] "New commit ID #3454"
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Joao Palhinha  FUL      5 1.88      0.5319  0.6531   0.1212   tackles Premier League          NA         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
