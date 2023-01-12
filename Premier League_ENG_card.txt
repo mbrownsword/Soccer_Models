@@ -1,49 +1,49 @@
-[1] "Updated at 2023-01-12 11:04:41.188"
+[1] "Updated at 2023-01-12 11:08:18.239"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Fulham 0.0594 to Chelsea 0.0594"
-[1] "The pass/shot predicted total is 0.1188"
-[1] "Fulham pass/shot Predicted Win %: 5.44"
-[1] "The pass/shot Predicted Draw % is: 89.4"
-[1] "Chelsea pass/shot Predicted Win %: 5.16"
+[1] "The pass/shot predicted score is Fulham 1.7069 to Chelsea 1.5992"
+[1] "The pass/shot predicted total is 3.3061"
+[1] "Fulham pass/shot Predicted Win %: 40.9"
+[1] "The pass/shot Predicted Draw % is: 23.15"
+[1] "Chelsea pass/shot Predicted Win %: 35.95"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Fulham 0 to Chelsea 0"
-[1] "The xg model predicted total is 0"
-[1] "Fulham xg model Predicted Win %: 0"
-[1] "The xg model Predicted Draw % is: 100"
-[1] "Chelsea xg model Predicted Win %: 0"
+[1] "The xg model predicted score is Fulham 2.1586 to Chelsea 1.6626"
+[1] "The xg model predicted total is 3.8212"
+[1] "Fulham xg model Predicted Win %: 49.49"
+[1] "The xg model Predicted Draw % is: 20.94"
+[1] "Chelsea xg model Predicted Win %: 29.57"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Fulham 0 to Chelsea 0"
-[1] "The xgot model predicted total is 0"
-[1] "Fulham xgot model Predicted Win %: 0"
-[1] "The xgot model Predicted Draw % is: 100"
-[1] "Chelsea xgot model Predicted Win %: 0"
+[1] "The xgot model predicted score is Fulham 1.9631 to Chelsea 1.5169"
+[1] "The xgot model predicted total is 3.48"
+[1] "Fulham xgot model Predicted Win %: 48.11"
+[1] "The xgot model Predicted Draw % is: 22.36"
+[1] "Chelsea xgot model Predicted Win %: 29.53"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Fulham 0.543 to Chelsea 0.4368"
-[1] "The xa model predicted total is 0.9798"
-[1] "Fulham xa model Predicted Win %: 30.29"
-[1] "The xa model Predicted Draw % is: 46.97"
-[1] "Chelsea xa model Predicted Win %: 22.74"
+[1] "The xa model predicted score is Fulham 1.3536 to Chelsea 0.8595"
+[1] "The xa model predicted total is 2.2131"
+[1] "Fulham xa model Predicted Win %: 48.34"
+[1] "The xa model Predicted Draw % is: 28.34"
+[1] "Chelsea xa model Predicted Win %: 23.32"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Fulham 0 to Chelsea 0"
-[1] "The XGExp model predicted total is 0"
-[1] "Fulham XGExp model Predicted Win %: 0"
-[1] "The XGExp model Predicted Draw % is: 100"
-[1] "Chelsea XGExp model Predicted Win %: 0"
+[1] "The XGExp model predicted score is Fulham 2.5497 to Chelsea 1.6416"
+[1] "The XGExp model predicted total is 4.1913"
+[1] "Fulham XGExp model Predicted Win %: 57.84"
+[1] "The XGExp model Predicted Draw % is: 18.37"
+[1] "Chelsea XGExp model Predicted Win %: 23.79"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Fulham 0.543 to Chelsea 0.4368"
-[1] "The XAExp model predicted total is 0.9798"
-[1] "Fulham XAExp model Predicted Win %: 30.29"
-[1] "The XAExp model Predicted Draw % is: 46.97"
-[1] "Chelsea XAExp model Predicted Win %: 22.74"
+[1] "The XAExp model predicted score is Fulham 1.7124 to Chelsea 1.0694"
+[1] "The XAExp model predicted total is 2.7818"
+[1] "Fulham XAExp model Predicted Win %: 52.37"
+[1] "The XAExp model Predicted Draw % is: 24.22"
+[1] "Chelsea XAExp model Predicted Win %: 23.41"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Fulham winning this match is 11 percent, with a minimum chance of 0 percent, and a maximum chance of 30.29 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 80.56 percent, with a minimum chance of 46.97 percent, and a maximum chance of 100 percent."
-[1] "Our modelled likelihood of Chelsea winning this match is 8.44 percent, with a minimum chance of 0 percent, and a maximum chance of 22.74 percent."
-[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 50.71 percent, with a minimum chance of 77.26 percent, and a maximum chance of 100 percent."
-[1] "Our modelled likelihood of Chelsea winning this match OR DRAW is 49.29 percent, with a minimum chance of 69.71 percent, and a maximum chance of 100 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 0.54 percent, with a high likelihood of 7.66 and a low likelihood of 0 percent."
+[1] "Our modelled likelihood of Fulham winning this match is 49.51 percent, with a minimum chance of 40.9 percent, and a maximum chance of 57.84 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 22.9 percent, with a minimum chance of 18.37 percent, and a maximum chance of 28.34 percent."
+[1] "Our modelled likelihood of Chelsea winning this match is 27.6 percent, with a minimum chance of 23.32 percent, and a maximum chance of 35.95 percent."
+[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 58.92 percent, with a minimum chance of 64.05 percent, and a maximum chance of 76.68 percent."
+[1] "Our modelled likelihood of Chelsea winning this match OR DRAW is 41.08 percent, with a minimum chance of 42.16 percent, and a maximum chance of 59.1 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 64.04 percent, with a high likelihood of 78.86 and a low likelihood of 38.08 percent."
 [1] "--Sportsbook Odds--"
 [1] "Fulham Barstool Odds are: 25"
 [1] "The Barstool Odds of a Draw are: 28.99"
@@ -53,7 +53,7 @@
 [1] "Chelsea Adjusted Barstool Odds are: 48.713"
 [1] "Fulham's Barstool Odds to cover the 0.5 spread are: 53.19"
 [1] "Chelsea's Barstool Odds to cover the -0.5 spread are: 51.02"
-[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.17, which is a 46.08 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -375,14 +375,14 @@
 [1] "Our modelled likelihood of West Ham United winning this match OR DRAW is 53.93 percent, with a minimum chance of 62.48 percent, and a maximum chance of 82.73 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 26.68 percent, with a high likelihood of 40.32 and a low likelihood of 12.44 percent."
 [1] "--Sportsbook Odds--"
-[1] "Wolverhampton Barstool Odds are: 38.46"
+[1] "Wolverhampton Barstool Odds are: 37.04"
 [1] "The Barstool Odds of a Draw are: 30.3"
-[1] "West Ham United Barstool Odds are: 35.09"
-[1] "Wolverhampton Adjusted Barstool Odds are: 37.034"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.177"
-[1] "West Ham United Adjusted Barstool Odds are: 33.789"
-[1] "Wolverhampton's Barstool Odds to cover the 0.5 spread are: 68.03"
-[1] "West Ham United's Barstool Odds to cover the -0.5 spread are: 36.36"
+[1] "West Ham United Barstool Odds are: 37.04"
+[1] "Wolverhampton Adjusted Barstool Odds are: 35.486"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.029"
+[1] "West Ham United Adjusted Barstool Odds are: 35.486"
+[1] "Wolverhampton's Barstool Odds to cover the 0.5 spread are: 66.67"
+[1] "West Ham United's Barstool Odds to cover the -0.5 spread are: 37.74"
 [1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
@@ -441,19 +441,24 @@
 [1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
                                   bet           date_time
-1                 draw Fulham/Chelsea 2023-01-12 12:00:00
-2                under Fulham/Chelsea 2023-01-12 12:00:00
-3                          Fulham ATS 2023-01-12 12:00:00
-4            Brighton and Hove Albion 2023-01-14 07:00:00
-5        Brighton and Hove Albion ATS 2023-01-14 07:00:00
-6 under Wolverhampton/West Ham United 2023-01-14 07:00:00
-[1] "New commit ID #9597"
+1                              Fulham 2023-01-12 12:00:00
+2                          Fulham ATS 2023-01-12 12:00:00
+3            Brighton and Hove Albion 2023-01-14 07:00:00
+4        Brighton and Hove Albion ATS 2023-01-14 07:00:00
+5 under Wolverhampton/West Ham United 2023-01-14 07:00:00
+[1] "New commit ID #2590"
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Joao Palhinha  FUL      5 1.88      0.5319  0.6531   0.1212   tackles Premier League          NA         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Declan Rice  WHU      2 1.74      0.5747  0.7243   0.1496   tackles Premier League          NA         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Declan Rice  WHU      4  5.1      0.1961  0.3241    0.128   tackles Premier League          NA         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Declan Rice  WHU      3 2.58      0.3876   0.518   0.1304   tackles Premier League          NA         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Antonee Robinson  FUL     34 1.88          NA  0.7381   0.2062    passes Premier League      0.5319         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Antonee Robinson  FUL     30 1.34          NA  0.9064   0.1601    passes Premier League      0.7463         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Tyrone Mings  AVL     48 1.58          NA  0.8133   0.1804    passes Premier League      0.6329         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
