@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-13 07:56:12.748"
+[1] "Updated at 2023-01-13 08:43:00.872"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -503,80 +503,7 @@
 5                  Verona ATS 2023-01-14 11:45:00
 6         under Torino/Spezia 2023-01-15 06:00:00
 7    under AS Roma/Fiorentina 2023-01-15 11:45:00
-[1] "New commit ID #2616"
-            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Patrick Ciurria  MON      4 4.55          NA  0.4115   0.1917     shots Serie A     0.2198        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Patrick Ciurria  MON      3 2.38          NA  0.6059   0.1857     shots Serie A     0.4202        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Patrick Ciurria  MON      5 10.2          NA   0.248     0.15     shots Serie A      0.098        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Teun Koopmeiners  ATA      3   14          NA  0.2014     0.13      sogs Serie A         NA    0.0714         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Teun Koopmeiners  ATA      2    5          NA   0.405    0.205      sogs Serie A         NA       0.2         NA       NA
-
-[1] "The pass/shot predicted score is AS Roma 1.2096 to Fiorentina 1.0448"
-[1] "The pass/shot predicted total is 2.2544"
-[1] "AS Roma pass/shot Predicted Win %: 39.67"
-[1] "The pass/shot Predicted Draw % is: 29.41"
-[1] "Fiorentina pass/shot Predicted Win %: 30.92"
-[1] "--XG Model--"
-[1] "The xg model predicted score is AS Roma 1.3678 to Fiorentina 0.2899"
-[1] "The xg model predicted total is 1.6577"
-[1] "AS Roma xg model Predicted Win %: 65.31"
-[1] "The xg model Predicted Draw % is: 27.17"
-[1] "Fiorentina xg model Predicted Win %: 7.52"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is AS Roma 0.9223 to Fiorentina 0.3653"
-[1] "The xgot model predicted total is 1.2876"
-[1] "AS Roma xgot model Predicted Win %: 48.63"
-[1] "The xgot model Predicted Draw % is: 37.41"
-[1] "Fiorentina xgot model Predicted Win %: 13.96"
-[1] "--XA Model--"
-[1] "The xa model predicted score is AS Roma 1.4959 to Fiorentina 0.8676"
-[1] "The xa model predicted total is 2.3635"
-[1] "AS Roma xa model Predicted Win %: 52.15"
-[1] "The xa model Predicted Draw % is: 26.41"
-[1] "Fiorentina xa model Predicted Win %: 21.44"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is AS Roma 1.0851 to Fiorentina 0.5034"
-[1] "The XGExp model predicted total is 1.5885"
-[1] "AS Roma XGExp model Predicted Win %: 49.95"
-[1] "The XGExp model Predicted Draw % is: 33.55"
-[1] "Fiorentina XGExp model Predicted Win %: 16.5"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is AS Roma 1.4179 to Fiorentina 0.8182"
-[1] "The XAExp model predicted total is 2.2361"
-[1] "AS Roma XAExp model Predicted Win %: 51.22"
-[1] "The XAExp model Predicted Draw % is: 27.57"
-[1] "Fiorentina XAExp model Predicted Win %: 21.21"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of AS Roma winning this match is 51.15 percent, with a minimum chance of 39.67 percent, and a maximum chance of 65.31 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 30.25 percent, with a minimum chance of 26.41 percent, and a maximum chance of 37.41 percent."
-[1] "Our modelled likelihood of Fiorentina winning this match is 18.59 percent, with a minimum chance of 7.52 percent, and a maximum chance of 30.92 percent."
-[1] "Our modelled likelihood of AS Roma winning this match OR DRAW is 81.41 percent, with a minimum chance of 69.08 percent, and a maximum chance of 92.48 percent."
-[1] "Our modelled likelihood of Fiorentina winning this match OR DRAW is 48.84 percent, with a minimum chance of 34.69 percent, and a maximum chance of 60.33 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 29.57 percent, with a high likelihood of 42.07 and a low likelihood of 14 percent."
-[1] "--Sportsbook Odds--"
-[1] "AS Roma Barstool Odds are: 50.51"
-[1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Fiorentina Barstool Odds are: 26.67"
-[1] "AS Roma Adjusted Barstool Odds are: 47.764"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.017"
-[1] "Fiorentina Adjusted Barstool Odds are: 25.22"
-[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 50.51"
-[1] "Fiorentina's Barstool Odds to cover the 0.5 spread are: 53.76"
-[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-                          bet           date_time
-1                       Monza 2023-01-14 06:00:00
-2                   Monza ATS 2023-01-14 06:00:00
-3  draw Internazionale/Verona 2023-01-14 11:45:00
-4 under Internazionale/Verona 2023-01-14 11:45:00
-5                  Verona ATS 2023-01-14 11:45:00
-6         under Torino/Spezia 2023-01-15 06:00:00
-7    under AS Roma/Fiorentina 2023-01-15 11:45:00
-[1] "New commit ID #2616"
+[1] "New commit ID #9914"
             player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
 1: Patrick Ciurria  MON      4 4.55          NA  0.4115   0.1917     shots Serie A     0.2198        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
