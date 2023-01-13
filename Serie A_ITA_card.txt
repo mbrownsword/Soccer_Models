@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-12 15:50:14.497"
+[1] "Updated at 2023-01-12 17:34:08.107"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -503,7 +503,7 @@
 5 under Internazionale/Verona 2023-01-14 11:45:00
 6         under Torino/Spezia 2023-01-15 06:00:00
 7    under AS Roma/Fiorentina 2023-01-15 11:45:00
-[1] "New commit ID #4777"
+[1] "New commit ID #532"
            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
 1: Matteo Pessina  MON      3  6.3          NA  0.4857    0.327     shots Serie A     0.1587        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
