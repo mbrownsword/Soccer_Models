@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-12 17:32:51.371"
+[1] "Updated at 2023-01-12 17:49:50.697"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -45,15 +45,15 @@
 [1] "Our modelled likelihood of Leeds United winning this match OR DRAW is 47.61 percent, with a minimum chance of 47.92 percent, and a maximum chance of 68.05 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 61.77 percent, with a high likelihood of 72.35 and a low likelihood of 50.63 percent."
 [1] "--Sportsbook Odds--"
-[1] "Aston Villa Barstool Odds are: 53.19"
-[1] "The Barstool Odds of a Draw are: 26.67"
+[1] "Aston Villa Barstool Odds are: 52.38"
+[1] "The Barstool Odds of a Draw are: 27.03"
 [1] "Leeds United Barstool Odds are: 25"
-[1] "Aston Villa Adjusted Barstool Odds are: 50.725"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.434"
-[1] "Leeds United Adjusted Barstool Odds are: 23.841"
-[1] "Aston Villa's Barstool Odds to cover the -0.5 spread are: 53.19"
-[1] "Leeds United's Barstool Odds to cover the 0.5 spread are: 51.28"
-[1] "Barstool's line for the total is 2.5 at 1.77, which is a 56.5 percent chance of the over 2.5 hitting."
+[1] "Aston Villa Adjusted Barstool Odds are: 50.168"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.888"
+[1] "Leeds United Adjusted Barstool Odds are: 23.944"
+[1] "Aston Villa's Barstool Odds to cover the -0.5 spread are: 52.63"
+[1] "Leeds United's Barstool Odds to cover the 0.5 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -391,7 +391,7 @@
 3 under Wolverhampton/West Ham United 2023-01-14 07:00:00
 4                 West Ham United ATS 2023-01-14 07:00:00
 5                     AFC Bournemouth 2023-01-14 09:30:00
-[1] "New commit ID #2336"
+[1] "New commit ID #853"
          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Tyrone Mings  AVL     48 1.58          NA  0.8133   0.1804    passes Premier League      0.6329         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
