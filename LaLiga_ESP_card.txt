@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-13 07:57:30.032"
+[1] "Updated at 2023-01-13 08:44:16.656"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -46,13 +46,13 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 28.48 percent, with a high likelihood of 43.25 and a low likelihood of 17.26 percent."
 [1] "--Sportsbook Odds--"
 [1] "Celta Vigo Barstool Odds are: 35.71"
-[1] "The Barstool Odds of a Draw are: 32.79"
-[1] "Villarreal Barstool Odds are: 36.36"
-[1] "Celta Vigo Adjusted Barstool Odds are: 34.055"
-[1] "The Adjusted Barstool Odds of a Draw are: 31.27"
-[1] "Villarreal Adjusted Barstool Odds are: 34.675"
-[1] "Celta Vigo's Barstool Odds to cover the 0.5 spread are: 68.03"
-[1] "Villarreal's Barstool Odds to cover the -0.5 spread are: 36.36"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Villarreal Barstool Odds are: 37.74"
+[1] "Celta Vigo Adjusted Barstool Odds are: 33.945"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.181"
+[1] "Villarreal Adjusted Barstool Odds are: 35.875"
+[1] "Celta Vigo's Barstool Odds to cover the 0.5 spread are: 67.11"
+[1] "Villarreal's Barstool Odds to cover the -0.5 spread are: 37.04"
 [1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
@@ -279,7 +279,7 @@
 1 under Celta Vigo/Villarreal 2023-01-13 12:00:00
 2      under Osasuna/Mallorca 2023-01-14 09:30:00
 3             Athletic Bilbao 2023-01-14 12:00:00
-[1] "New commit ID #442"
+[1] "New commit ID #7931"
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ivan Rakitic  SEV     56 1.58          NA  0.7869    0.154    passes LaLiga      0.6329         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
