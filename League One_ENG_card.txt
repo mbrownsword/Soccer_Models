@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-13 07:40:04.504"
+[1] "Updated at 2023-01-13 08:36:42.158"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -540,15 +540,15 @@
 [1] "Our modelled likelihood of Peterborough United winning this match OR DRAW is 66.68 percent, with a minimum chance of 57.27 percent, and a maximum chance of 86.18 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 25.46 percent, with a high likelihood of 47.62 and a low likelihood of 14.16 percent."
 [1] "--Sportsbook Odds--"
-[1] "Port Vale Barstool Odds are: 37.04"
+[1] "Port Vale Barstool Odds are: 35.71"
 [1] "The Barstool Odds of a Draw are: 30.77"
-[1] "Peterborough United Barstool Odds are: 39.22"
-[1] "Port Vale Adjusted Barstool Odds are: 34.607"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.749"
-[1] "Peterborough United Adjusted Barstool Odds are: 36.644"
-[1] "Port Vale's Barstool Odds to cover the -0.5 spread are: 36.36"
-[1] "Peterborough United's Barstool Odds to cover the 0.5 spread are: 68.49"
-[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.5 hitting."
+[1] "Peterborough United Barstool Odds are: 40"
+[1] "Port Vale Adjusted Barstool Odds are: 33.537"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.897"
+[1] "Peterborough United Adjusted Barstool Odds are: 37.566"
+[1] "Port Vale's Barstool Odds to cover the -0.5 spread are: 35.09"
+[1] "Peterborough United's Barstool Odds to cover the 0.5 spread are: 69.93"
+[1] "Barstool's line for the total is 2.5 at 2.07, which is a 48.31 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
                                   bet           date_time
 1             under Bolton/Portsmouth 2023-01-14 07:00:00
@@ -559,4 +559,4 @@
 6  under Fleetwood Town/Oxford United 2023-01-14 07:00:00
 7                 Plymouth Argyle ATS 2023-01-14 07:00:00
 8 under Port Vale/Peterborough United 2023-01-16 12:00:00
-[1] "New commit ID #2915"
+[1] "New commit ID #9589"
