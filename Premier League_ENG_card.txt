@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-12 15:48:52.695"
+[1] "Updated at 2023-01-12 16:15:47.971"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -107,7 +107,7 @@
 [1] "The Adjusted Barstool Odds of a Draw are: 24.417"
 [1] "Manchester City Adjusted Barstool Odds are: 52.909"
 [1] "Manchester United's Barstool Odds to cover the 0.5 spread are: 49.5"
-[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 55.25"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 54.95"
 [1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
@@ -391,7 +391,7 @@
 3 under Wolverhampton/West Ham United 2023-01-14 07:00:00
 4                 West Ham United ATS 2023-01-14 07:00:00
 5                     AFC Bournemouth 2023-01-14 09:30:00
-[1] "New commit ID #3112"
+[1] "New commit ID #9637"
          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Tyrone Mings  AVL     48 1.58          NA  0.8133   0.1804    passes Premier League      0.6329         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
