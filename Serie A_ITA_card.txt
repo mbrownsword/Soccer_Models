@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-13 08:43:00.872"
+[1] "Updated at 2023-01-13 09:15:46.257"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -503,7 +503,7 @@
 5                  Verona ATS 2023-01-14 11:45:00
 6         under Torino/Spezia 2023-01-15 06:00:00
 7    under AS Roma/Fiorentina 2023-01-15 11:45:00
-[1] "New commit ID #9914"
+[1] "New commit ID #765"
             player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
 1: Patrick Ciurria  MON      4 4.55          NA  0.4115   0.1917     shots Serie A     0.2198        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
