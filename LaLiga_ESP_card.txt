@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-12 15:51:33.894"
+[1] "Updated at 2023-01-12 17:35:22.925"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -278,7 +278,7 @@
                           bet           date_time
 1 under Celta Vigo/Villarreal 2023-01-13 12:00:00
 2      under Osasuna/Mallorca 2023-01-14 09:30:00
-[1] "New commit ID #8991"
+[1] "New commit ID #296"
         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Isi Palazon  RAY     32 1.49          NA  0.8595   0.1884    passes LaLiga      0.6711         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
