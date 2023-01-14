@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-13 09:09:29.768"
+[1] "Updated at 2023-01-13 17:44:22.432"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -108,7 +108,7 @@
 [1] "Portsmouth Adjusted Barstool Odds are: 26.048"
 [1] "Bolton's Barstool Odds to cover the -0.5 spread are: 49.02"
 [1] "Portsmouth's Barstool Odds to cover the 0.5 spread are: 55.56"
-[1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.04, which is a 49.02 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -559,4 +559,4 @@
 6  under Fleetwood Town/Oxford United 2023-01-14 07:00:00
 7                 Plymouth Argyle ATS 2023-01-14 07:00:00
 8 under Port Vale/Peterborough United 2023-01-16 12:00:00
-[1] "New commit ID #6476"
+[1] "New commit ID #7930"
