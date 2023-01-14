@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-13 17:49:48.134"
+[1] "Updated at 2023-01-13 21:45:09"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -100,15 +100,15 @@
 [1] "Our modelled likelihood of Lorient winning this match OR DRAW is 39.84 percent, with a minimum chance of 29.09 percent, and a maximum chance of 49.51 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 65.46 percent, with a high likelihood of 79.74 and a low likelihood of 53.37 percent."
 [1] "--Sportsbook Odds--"
-[1] "Marseille Barstool Odds are: 75"
-[1] "The Barstool Odds of a Draw are: 18.18"
-[1] "Lorient Barstool Odds are: 12.5"
-[1] "Marseille Adjusted Barstool Odds are: 70.969"
-[1] "The Adjusted Barstool Odds of a Draw are: 17.203"
-[1] "Lorient Adjusted Barstool Odds are: 11.828"
-[1] "Marseille's Barstool Odds to cover the -0.5 spread are: 72.99"
-[1] "Lorient's Barstool Odds to cover the 0.5 spread are: 31.25"
-[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29 percent chance of the over 2.5 hitting."
+[1] "Marseille Barstool Odds are: 74.07"
+[1] "The Barstool Odds of a Draw are: 18.52"
+[1] "Lorient Barstool Odds are: 13.33"
+[1] "Marseille Adjusted Barstool Odds are: 69.93"
+[1] "The Adjusted Barstool Odds of a Draw are: 17.485"
+[1] "Lorient Adjusted Barstool Odds are: 12.585"
+[1] "Marseille's Barstool Odds to cover the -0.5 spread are: 72.46"
+[1] "Lorient's Barstool Odds to cover the 0.5 spread are: 32.26"
+[1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -156,14 +156,14 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 50.1 percent, with a high likelihood of 63.14 and a low likelihood of 41.63 percent."
 [1] "--Sportsbook Odds--"
 [1] "Lyon Barstool Odds are: 64.52"
-[1] "The Barstool Odds of a Draw are: 22.73"
+[1] "The Barstool Odds of a Draw are: 22.22"
 [1] "Strasbourg Barstool Odds are: 18.52"
-[1] "Lyon Adjusted Barstool Odds are: 61"
-[1] "The Adjusted Barstool Odds of a Draw are: 21.49"
-[1] "Strasbourg Adjusted Barstool Odds are: 17.51"
+[1] "Lyon Adjusted Barstool Odds are: 61.296"
+[1] "The Adjusted Barstool Odds of a Draw are: 21.11"
+[1] "Strasbourg Adjusted Barstool Odds are: 17.595"
 [1] "Lyon's Barstool Odds to cover the -0.5 spread are: 63.29"
 [1] "Strasbourg's Barstool Odds to cover the 0.5 spread are: 41.15"
-[1] "Barstool's line for the total is 2.5 at 1.72, which is a 58.14 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -550,14 +550,15 @@
 [1] "Paris Saint-Germain's Barstool Odds to cover the -1 spread are: 54.95"
 [1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-                                    bet           date_time
-1                        Strasbourg ATS 2023-01-14 12:00:00
-2                     draw Lille/Troyes 2023-01-15 04:00:00
-3              under Montpellier/Nantes 2023-01-15 06:00:00
-4                       over Reims/Nice 2023-01-15 06:00:00
-5                              Toulouse 2023-01-15 06:00:00
-6             draw AS Monaco/AC Ajaccio 2023-01-15 08:05:00
-7                            AC Ajaccio 2023-01-15 08:05:00
-8                        AC Ajaccio ATS 2023-01-15 08:05:00
-9 over Stade Rennes/Paris Saint-Germain 2023-01-15 11:45:00
-[1] "New commit ID #1132"
+                                     bet           date_time
+1                   draw Lyon/Strasbourg 2023-01-14 12:00:00
+2                         Strasbourg ATS 2023-01-14 12:00:00
+3                      draw Lille/Troyes 2023-01-15 04:00:00
+4               under Montpellier/Nantes 2023-01-15 06:00:00
+5                        over Reims/Nice 2023-01-15 06:00:00
+6                               Toulouse 2023-01-15 06:00:00
+7              draw AS Monaco/AC Ajaccio 2023-01-15 08:05:00
+8                             AC Ajaccio 2023-01-15 08:05:00
+9                         AC Ajaccio ATS 2023-01-15 08:05:00
+10 over Stade Rennes/Paris Saint-Germain 2023-01-15 11:45:00
+[1] "New commit ID #7277"
