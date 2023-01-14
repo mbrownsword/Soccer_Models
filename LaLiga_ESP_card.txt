@@ -1,60 +1,5 @@
-[1] "Updated at 2023-01-13 11:15:26.728"
+[1] "Updated at 2023-01-13 17:55:02.085"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Celta Vigo 1.3637 to Villarreal 0.9021"
-[1] "The pass/shot predicted total is 2.2658"
-[1] "Celta Vigo pass/shot Predicted Win %: 47.61"
-[1] "The pass/shot Predicted Draw % is: 28.08"
-[1] "Villarreal pass/shot Predicted Win %: 24.31"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Celta Vigo 0.7137 to Villarreal 0.8232"
-[1] "The xg model predicted total is 1.5369"
-[1] "Celta Vigo xg model Predicted Win %: 28.85"
-[1] "The xg model Predicted Draw % is: 36.48"
-[1] "Villarreal xg model Predicted Win %: 34.67"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Celta Vigo 1.0123 to Villarreal 0.5261"
-[1] "The xgot model predicted total is 1.5384"
-[1] "Celta Vigo xgot model Predicted Win %: 47.17"
-[1] "The xgot model Predicted Draw % is: 34.62"
-[1] "Villarreal xgot model Predicted Win %: 18.21"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Celta Vigo 0.9824 to Villarreal 0.8844"
-[1] "The xa model predicted total is 1.8668"
-[1] "Celta Vigo xa model Predicted Win %: 36.79"
-[1] "The xa model Predicted Draw % is: 32.35"
-[1] "Villarreal xa model Predicted Win %: 30.86"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Celta Vigo 0.9098 to Villarreal 0.6059"
-[1] "The XGExp model predicted total is 1.5157"
-[1] "Celta Vigo XGExp model Predicted Win %: 41.47"
-[1] "The XGExp model Predicted Draw % is: 35.95"
-[1] "Villarreal XGExp model Predicted Win %: 22.58"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Celta Vigo 0.9145 to Villarreal 0.8626"
-[1] "The XAExp model predicted total is 1.7771"
-[1] "Celta Vigo XAExp model Predicted Win %: 35.19"
-[1] "The XAExp model Predicted Draw % is: 33.22"
-[1] "Villarreal XAExp model Predicted Win %: 31.59"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Celta Vigo winning this match is 39.51 percent, with a minimum chance of 28.85 percent, and a maximum chance of 47.61 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 33.45 percent, with a minimum chance of 28.08 percent, and a maximum chance of 36.48 percent."
-[1] "Our modelled likelihood of Villarreal winning this match is 27.04 percent, with a minimum chance of 18.21 percent, and a maximum chance of 34.67 percent."
-[1] "Our modelled likelihood of Celta Vigo winning this match OR DRAW is 72.96 percent, with a minimum chance of 65.33 percent, and a maximum chance of 81.79 percent."
-[1] "Our modelled likelihood of Villarreal winning this match OR DRAW is 60.49 percent, with a minimum chance of 52.39 percent, and a maximum chance of 71.15 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 25.61 percent, with a high likelihood of 39.49 and a low likelihood of 19.51 percent."
-[1] "--Sportsbook Odds--"
-[1] "Celta Vigo Barstool Odds are: 35.09"
-[1] "The Barstool Odds of a Draw are: 32.26"
-[1] "Villarreal Barstool Odds are: 38.1"
-[1] "Celta Vigo Adjusted Barstool Odds are: 33.276"
-[1] "The Adjusted Barstool Odds of a Draw are: 30.593"
-[1] "Villarreal Adjusted Barstool Odds are: 36.131"
-[1] "Celta Vigo's Barstool Odds to cover the 0.5 spread are: 66.67"
-[1] "Villarreal's Barstool Odds to cover the -0.5 spread are: 37.74"
-[1] "Barstool's line for the total is 2.5 at 2.07, which is a 48.31 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Real Valladolid 1.1574 to Rayo Vallecano 1.0765"
@@ -275,29 +220,10 @@
 [1] "Espanyol's Barstool Odds to cover the 0.5 spread are: 65.36"
 [1] "Barstool's line for the total is 2.5 at 2.7, which is a 37.04 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-                          bet           date_time
-1 under Celta Vigo/Villarreal 2023-01-13 12:00:00
-2      under Osasuna/Mallorca 2023-01-14 09:30:00
-3             Athletic Bilbao 2023-01-14 12:00:00
-[1] "New commit ID #8993"
-             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Samuel Chukwueze  VIL      2    4        0.25  0.3769   0.1269   tackles LaLiga          NA         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Francis Coquelin  VIL     31 1.85          NA  0.6735    0.133    passes LaLiga      0.5405         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Francis Coquelin  VIL     27 1.51          NA  0.8784   0.2161    passes LaLiga      0.6623         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manu Trigueros  VIL     44 1.87          NA  0.9951   0.4603    passes LaLiga      0.5348         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manu Trigueros  VIL     52  2.8          NA  0.9312   0.5741    passes LaLiga      0.3571         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manu Trigueros  VIL     56  3.6          NA  0.8309   0.5531    passes LaLiga      0.2778         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manu Trigueros  VIL     60    5          NA  0.6712   0.4712    passes LaLiga         0.2         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manu Trigueros  VIL     40 1.53          NA  0.9992   0.3456    passes LaLiga      0.6536         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manu Trigueros  VIL     48 2.33          NA  0.9786   0.5494    passes LaLiga      0.4292         NA        NA         NA       NA
+                     bet           date_time
+1 under Osasuna/Mallorca 2023-01-14 09:30:00
+2        Athletic Bilbao 2023-01-14 12:00:00
+[1] "New commit ID #7465"
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ivan Rakitic  SEV     56 1.58          NA  0.7869    0.154    passes LaLiga      0.6329         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -365,6 +291,10 @@
         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Rodrigo Ely  ALM     39 1.54          NA  0.9483   0.2989    passes LaLiga      0.6494         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Christian Stuani  GIR      4 3.55          NA   0.384   0.1023     shots LaLiga          NA     0.2817        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ander Guevara  RSO      1  7.5          NA  0.2658   0.1325      sogs LaLiga          NA         NA    0.1333         NA       NA
+ayer team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Christian Stuani  GIR      4 3.55          NA   0.384   0.1023     shots LaLiga          NA     0.2817        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ander Guevara  RSO      1  7.5          NA  0.2658   0.1325      sogs LaLiga          NA         NA    0.1333         NA       NA
