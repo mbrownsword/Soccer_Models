@@ -1,60 +1,5 @@
-[1] "Updated at 2023-01-14 09:14:20"
+[1] "Updated at 2023-01-14 10:14:54"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Osasuna 1.2219 to Mallorca 1.0956"
-[1] "The pass/shot predicted total is 2.3175"
-[1] "Osasuna pass/shot Predicted Win %: 38.95"
-[1] "The pass/shot Predicted Draw % is: 28.88"
-[1] "Mallorca pass/shot Predicted Win %: 32.17"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Osasuna 0.9201 to Mallorca 1.2493"
-[1] "The xg model predicted total is 2.1694"
-[1] "Osasuna xg model Predicted Win %: 27.93"
-[1] "The xg model Predicted Draw % is: 28.77"
-[1] "Mallorca xg model Predicted Win %: 43.3"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Osasuna 1.2626 to Mallorca 0.9935"
-[1] "The xgot model predicted total is 2.2561"
-[1] "Osasuna xgot model Predicted Win %: 42.46"
-[1] "The xgot model Predicted Draw % is: 28.85"
-[1] "Mallorca xgot model Predicted Win %: 28.69"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Osasuna 1.0874 to Mallorca 0.555"
-[1] "The xa model predicted total is 1.6424"
-[1] "Osasuna xa model Predicted Win %: 48.72"
-[1] "The xa model Predicted Draw % is: 33.23"
-[1] "Mallorca xa model Predicted Win %: 18.05"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Osasuna 0.8452 to Mallorca 1.5408"
-[1] "The XGExp model predicted total is 2.386"
-[1] "Osasuna XGExp model Predicted Win %: 21.22"
-[1] "The XGExp model Predicted Draw % is: 25.58"
-[1] "Mallorca XGExp model Predicted Win %: 53.2"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Osasuna 1.0047 to Mallorca 0.7074"
-[1] "The XAExp model predicted total is 1.7121"
-[1] "Osasuna XAExp model Predicted Win %: 41.99"
-[1] "The XAExp model Predicted Draw % is: 33.76"
-[1] "Mallorca XAExp model Predicted Win %: 24.25"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Osasuna winning this match is 36.88 percent, with a minimum chance of 21.22 percent, and a maximum chance of 48.72 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 29.84 percent, with a minimum chance of 25.58 percent, and a maximum chance of 33.76 percent."
-[1] "Our modelled likelihood of Mallorca winning this match is 33.28 percent, with a minimum chance of 18.05 percent, and a maximum chance of 53.2 percent."
-[1] "Our modelled likelihood of Osasuna winning this match OR DRAW is 66.72 percent, with a minimum chance of 46.8 percent, and a maximum chance of 81.95 percent."
-[1] "Our modelled likelihood of Mallorca winning this match OR DRAW is 63.12 percent, with a minimum chance of 51.28 percent, and a maximum chance of 78.78 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 34.51 percent, with a high likelihood of 42.66 and a low likelihood of 22.76 percent."
-[1] "--Sportsbook Odds--"
-[1] "Osasuna Barstool Odds are: 46.51"
-[1] "The Barstool Odds of a Draw are: 33.9"
-[1] "Mallorca Barstool Odds are: 25"
-[1] "Osasuna Adjusted Barstool Odds are: 44.123"
-[1] "The Adjusted Barstool Odds of a Draw are: 32.16"
-[1] "Mallorca Adjusted Barstool Odds are: 23.717"
-[1] "Osasuna's Barstool Odds to cover the -0.5 spread are: 46.3"
-[1] "Mallorca's Barstool Odds to cover the 0.5 spread are: 58.14"
-[1] "Barstool's line for the total is 2.5 at 2.9, which is a 34.48 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Real Sociedad 1.2236 to Athletic Bilbao 1.3105"
@@ -222,91 +167,11 @@
 [1] "-----------------------------------"
               bet           date_time
 1 Athletic Bilbao 2023-01-14 12:00:00
-[1] "New commit ID #4000"
+[1] "New commit ID #218"
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ruben Sobrino  CAD      2 2.18      0.4587  0.5927    0.134   tackles LaLiga          NA         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ruben Sobrino  CAD      3    4        0.25  0.3688   0.1188   tackles LaLiga          NA         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Garcia  OSA     34 1.89          NA  0.9995   0.4704    passes LaLiga      0.5291         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Garcia  OSA     38 2.36          NA  0.9965   0.5728    passes LaLiga      0.4237         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Garcia  OSA     42 2.84          NA  0.9826   0.6305    passes LaLiga      0.3521         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Garcia  OSA     50 5.05          NA  0.8363   0.6383    passes LaLiga       0.198         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Garcia  OSA     30 1.54          NA       1   0.3506    passes LaLiga      0.6494         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Garcia  OSA     46 3.65          NA  0.9378   0.6638    passes LaLiga       0.274         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     17 1.85          NA  0.7082   0.1677    passes LaLiga      0.5405         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     13 1.51          NA  0.9357   0.2734    passes LaLiga      0.6623         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     30 2.26          NA   0.871   0.4285    passes LaLiga      0.4425         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     26 1.82          NA  0.9676   0.4181    passes LaLiga      0.5495         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     38 3.48          NA  0.4157   0.1283    passes LaLiga      0.2874         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     22  1.5          NA  0.9953   0.3286    passes LaLiga      0.6667         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     34 2.71          NA  0.6723   0.3033    passes LaLiga       0.369         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: David Garcia  OSA     44 1.87          NA  0.9657   0.4309    passes LaLiga      0.5348         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: David Garcia  OSA     56 3.55          NA  0.5676   0.2859    passes LaLiga      0.2817         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: David Garcia  OSA     40 1.53          NA  0.9919   0.3383    passes LaLiga      0.6536         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: David Garcia  OSA     52 2.77          NA    0.76    0.399    passes LaLiga       0.361         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: David Garcia  OSA     48 2.32          NA  0.8955   0.4645    passes LaLiga       0.431         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: David Garcia  OSA     60  4.9          NA   0.362   0.1579    passes LaLiga      0.2041         NA        NA         NA       NA
-                      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manuel Sanchez De La Pena  OSA     35 1.82          NA  0.9064   0.3569    passes LaLiga      0.5495         NA        NA         NA       NA
-                      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manuel Sanchez De La Pena  OSA     43 2.69          NA  0.5277    0.156    passes LaLiga      0.3717         NA        NA         NA       NA
-                      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manuel Sanchez De La Pena  OSA     39 2.25          NA  0.7529   0.3085    passes LaLiga      0.4444         NA        NA         NA       NA
-                      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Manuel Sanchez De La Pena  OSA     31 1.49          NA   0.976   0.3049    passes LaLiga      0.6711         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Moi Gomez  OSA     39 1.53          NA   0.756   0.1024    passes LaLiga      0.6536         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kike Garcia  OSA     21 1.86          NA       1   0.4624    passes LaLiga      0.5376         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kike Garcia  OSA     25 2.31          NA       1   0.5671    passes LaLiga      0.4329         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kike Garcia  OSA     29 2.78          NA       1   0.6403    passes LaLiga      0.3597         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kike Garcia  OSA     33 3.55          NA  0.9997    0.718    passes LaLiga      0.2817         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kike Garcia  OSA     37 4.95          NA  0.9978   0.7958    passes LaLiga       0.202         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kike Garcia  OSA     17 1.52          NA       1   0.3421    passes LaLiga      0.6579         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Aimar Oroz  OSA     27 1.84          NA  0.9488   0.4053    passes LaLiga      0.5435         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Aimar Oroz  OSA     35 2.75          NA  0.5975   0.2339    passes LaLiga      0.3636         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Aimar Oroz  OSA     31 2.29          NA  0.8227    0.386    passes LaLiga      0.4367         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Aimar Oroz  OSA     23 1.51          NA  0.9912   0.3289    passes LaLiga      0.6623         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Unai Garcia  OSA     41  1.9          NA  0.9879   0.4616    passes LaLiga      0.5263         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Unai Garcia  OSA     49 2.85          NA  0.8681   0.5172    passes LaLiga      0.3509         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Unai Garcia  OSA     37 1.55          NA  0.9978   0.3526    passes LaLiga      0.6452         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Unai Garcia  OSA     53 3.65          NA   0.716    0.442    passes LaLiga       0.274         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Unai Garcia  OSA     45 2.37          NA  0.9533   0.5314    passes LaLiga      0.4219         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Unai Garcia  OSA     57  5.1          NA  0.5153   0.3192    passes LaLiga      0.1961         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Brais Mendez  RSO     45 1.53          NA  0.8062   0.1526    passes LaLiga      0.6536         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
