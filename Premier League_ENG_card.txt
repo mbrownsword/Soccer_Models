@@ -1,379 +1,104 @@
-[1] "Updated at 2023-01-13 21:26:53"
+[1] "Updated at 2023-01-14 09:11:03"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Manchester United 1.417 to Manchester City 1.2243"
-[1] "The pass/shot predicted total is 2.6413"
-[1] "Manchester United pass/shot Predicted Win %: 41.59"
-[1] "The pass/shot Predicted Draw % is: 26.36"
-[1] "Manchester City pass/shot Predicted Win %: 32.05"
+[1] "The pass/shot predicted score is Brentford 2.0553 to AFC Bournemouth 1.2603"
+[1] "The pass/shot predicted total is 3.3156"
+[1] "Brentford pass/shot Predicted Win %: 55.87"
+[1] "The pass/shot Predicted Draw % is: 21.77"
+[1] "AFC Bournemouth pass/shot Predicted Win %: 22.36"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Manchester United 1.1038 to Manchester City 1.8917"
-[1] "The xg model predicted total is 2.9955"
-[1] "Manchester United xg model Predicted Win %: 22.32"
-[1] "The xg model Predicted Draw % is: 22.24"
-[1] "Manchester City xg model Predicted Win %: 55.44"
+[1] "The xg model predicted score is Brentford 2.1893 to AFC Bournemouth 1.4666"
+[1] "The xg model predicted total is 3.6559"
+[1] "Brentford xg model Predicted Win %: 54.18"
+[1] "The xg model Predicted Draw % is: 20.78"
+[1] "AFC Bournemouth xg model Predicted Win %: 25.04"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Manchester United 1.6741 to Manchester City 1.4985"
-[1] "The xgot model predicted total is 3.1726"
-[1] "Manchester United xgot model Predicted Win %: 42.08"
-[1] "The xgot model Predicted Draw % is: 23.74"
-[1] "Manchester City xgot model Predicted Win %: 34.18"
+[1] "The xgot model predicted score is Brentford 3.9995 to AFC Bournemouth 1.7233"
+[1] "The xgot model predicted total is 5.7228"
+[1] "Brentford xgot model Predicted Win %: 77.53"
+[1] "The xgot model Predicted Draw % is: 11.35"
+[1] "AFC Bournemouth xgot model Predicted Win %: 11.12"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Manchester United 1.768 to Manchester City 1.4767"
-[1] "The xa model predicted total is 3.2447"
-[1] "Manchester United xa model Predicted Win %: 44.58"
-[1] "The xa model Predicted Draw % is: 23.26"
-[1] "Manchester City xa model Predicted Win %: 32.16"
+[1] "The xa model predicted score is Brentford 1.7823 to AFC Bournemouth 0.8832"
+[1] "The xa model predicted total is 2.6655"
+[1] "Brentford xa model Predicted Win %: 58.36"
+[1] "The xa model Predicted Draw % is: 23.58"
+[1] "AFC Bournemouth xa model Predicted Win %: 18.06"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Manchester United 1.2497 to Manchester City 1.9049"
-[1] "The XGExp model predicted total is 3.1546"
-[1] "Manchester United XGExp model Predicted Win %: 25.16"
-[1] "The XGExp model Predicted Draw % is: 22.42"
-[1] "Manchester City XGExp model Predicted Win %: 52.42"
+[1] "The XGExp model predicted score is Brentford 2.805 to AFC Bournemouth 1.9764"
+[1] "The XGExp model predicted total is 4.7814"
+[1] "Brentford XGExp model Predicted Win %: 55.53"
+[1] "The XGExp model Predicted Draw % is: 17.87"
+[1] "AFC Bournemouth XGExp model Predicted Win %: 26.6"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Manchester United 2.0501 to Manchester City 2.1828"
-[1] "The XAExp model predicted total is 4.2329"
-[1] "Manchester United XAExp model Predicted Win %: 37.83"
-[1] "The XAExp model Predicted Draw % is: 19.54"
-[1] "Manchester City XAExp model Predicted Win %: 42.63"
+[1] "The XAExp model predicted score is Brentford 1.9297 to AFC Bournemouth 0.9026"
+[1] "The XAExp model predicted total is 2.8323"
+[1] "Brentford XAExp model Predicted Win %: 61.34"
+[1] "The XAExp model Predicted Draw % is: 21.95"
+[1] "AFC Bournemouth XAExp model Predicted Win %: 16.71"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Manchester United winning this match is 35.59 percent, with a minimum chance of 22.32 percent, and a maximum chance of 44.58 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 22.93 percent, with a minimum chance of 19.54 percent, and a maximum chance of 26.36 percent."
-[1] "Our modelled likelihood of Manchester City winning this match is 41.48 percent, with a minimum chance of 32.05 percent, and a maximum chance of 55.44 percent."
-[1] "Our modelled likelihood of Manchester United winning this match OR DRAW is 58.52 percent, with a minimum chance of 44.56 percent, and a maximum chance of 67.95 percent."
-[1] "Our modelled likelihood of Manchester City winning this match OR DRAW is 64.41 percent, with a minimum chance of 55.42 percent, and a maximum chance of 77.68 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 62.84 percent, with a high likelihood of 79.41 and a low likelihood of 49.19 percent."
-[1] "--Sportsbook Odds--"
-[1] "Manchester United Barstool Odds are: 25.64"
-[1] "The Barstool Odds of a Draw are: 25.64"
-[1] "Manchester City Barstool Odds are: 53.19"
-[1] "Manchester United Adjusted Barstool Odds are: 24.543"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.543"
-[1] "Manchester City Adjusted Barstool Odds are: 50.914"
-[1] "Manchester United's Barstool Odds to cover the 0.5 spread are: 50.76"
-[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 53.76"
-[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Brighton and Hove Albion 1.7082 to Liverpool 1.4721"
-[1] "The pass/shot predicted total is 3.1803"
-[1] "Brighton and Hove Albion pass/shot Predicted Win %: 43.35"
-[1] "The pass/shot Predicted Draw % is: 23.55"
-[1] "Liverpool pass/shot Predicted Win %: 33.1"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Brighton and Hove Albion 1.6037 to Liverpool 1.6467"
-[1] "The xg model predicted total is 3.2504"
-[1] "Brighton and Hove Albion xg model Predicted Win %: 37.57"
-[1] "The xg model Predicted Draw % is: 23.71"
-[1] "Liverpool xg model Predicted Win %: 38.72"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Brighton and Hove Albion 1.9574 to Liverpool 1.3026"
-[1] "The xgot model predicted total is 3.26"
-[1] "Brighton and Hove Albion xgot model Predicted Win %: 52.66"
-[1] "The xgot model Predicted Draw % is: 22.41"
-[1] "Liverpool xgot model Predicted Win %: 24.93"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Brighton and Hove Albion 1.7098 to Liverpool 1.4737"
-[1] "The xa model predicted total is 3.1835"
-[1] "Brighton and Hove Albion xa model Predicted Win %: 43.39"
-[1] "The xa model Predicted Draw % is: 23.54"
-[1] "Liverpool xa model Predicted Win %: 33.07"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Brighton and Hove Albion 2.226 to Liverpool 1.5276"
-[1] "The XGExp model predicted total is 3.7536"
-[1] "Brighton and Hove Albion XGExp model Predicted Win %: 53.67"
-[1] "The XGExp model Predicted Draw % is: 20.66"
-[1] "Liverpool XGExp model Predicted Win %: 25.67"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Brighton and Hove Albion 1.8553 to Liverpool 1.2202"
-[1] "The XAExp model predicted total is 3.0755"
-[1] "Brighton and Hove Albion XAExp model Predicted Win %: 52.34"
-[1] "The XAExp model Predicted Draw % is: 22.82"
-[1] "Liverpool XAExp model Predicted Win %: 24.84"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Brighton and Hove Albion winning this match is 47.16 percent, with a minimum chance of 37.57 percent, and a maximum chance of 53.67 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 22.78 percent, with a minimum chance of 20.66 percent, and a maximum chance of 23.71 percent."
-[1] "Our modelled likelihood of Liverpool winning this match is 30.06 percent, with a minimum chance of 24.84 percent, and a maximum chance of 38.72 percent."
-[1] "Our modelled likelihood of Brighton and Hove Albion winning this match OR DRAW is 69.95 percent, with a minimum chance of 61.28 percent, and a maximum chance of 75.16 percent."
-[1] "Our modelled likelihood of Liverpool winning this match OR DRAW is 52.84 percent, with a minimum chance of 46.33 percent, and a maximum chance of 62.43 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 63.73 percent, with a high likelihood of 72.35 and a low likelihood of 59.35 percent."
-[1] "--Sportsbook Odds--"
-[1] "Brighton and Hove Albion Barstool Odds are: 31.25"
-[1] "The Barstool Odds of a Draw are: 26.67"
-[1] "Liverpool Barstool Odds are: 45.87"
-[1] "Brighton and Hove Albion Adjusted Barstool Odds are: 30.109"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.696"
-[1] "Liverpool Adjusted Barstool Odds are: 44.195"
-[1] "Brighton and Hove Albion's Barstool Odds to cover the 0.5 spread are: 57.8"
-[1] "Liverpool's Barstool Odds to cover the -0.5 spread are: 46.51"
-[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Everton 1.0576 to Southampton 1.317"
-[1] "The pass/shot predicted total is 2.3746"
-[1] "Everton pass/shot Predicted Win %: 30.38"
-[1] "The pass/shot Predicted Draw % is: 27.73"
-[1] "Southampton pass/shot Predicted Win %: 41.89"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Everton 1.0843 to Southampton 0.8962"
-[1] "The xg model predicted total is 1.9805"
-[1] "Everton xg model Predicted Win %: 39.63"
-[1] "The xg model Predicted Draw % is: 31.14"
-[1] "Southampton xg model Predicted Win %: 29.23"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Everton 0.767 to Southampton 0.6224"
-[1] "The xgot model predicted total is 1.3894"
-[1] "Everton xgot model Predicted Win %: 35.75"
-[1] "The xgot model Predicted Draw % is: 38.28"
-[1] "Southampton xgot model Predicted Win %: 25.97"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Everton 1.1343 to Southampton 1.5115"
-[1] "The xa model predicted total is 2.6458"
-[1] "Everton xa model Predicted Win %: 28.78"
-[1] "The xa model Predicted Draw % is: 25.57"
-[1] "Southampton xa model Predicted Win %: 45.65"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Everton 0.6595 to Southampton 1.0405"
-[1] "The XGExp model predicted total is 1.7"
-[1] "Everton XGExp model Predicted Win %: 23.17"
-[1] "The XGExp model Predicted Draw % is: 33.15"
-[1] "Southampton XGExp model Predicted Win %: 43.68"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Everton 1.1941 to Southampton 1.4188"
-[1] "The XAExp model predicted total is 2.6129"
-[1] "Everton XAExp model Predicted Win %: 31.96"
-[1] "The XAExp model Predicted Draw % is: 25.9"
-[1] "Southampton XAExp model Predicted Win %: 42.14"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Everton winning this match is 31.61 percent, with a minimum chance of 23.17 percent, and a maximum chance of 39.63 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 30.29 percent, with a minimum chance of 25.57 percent, and a maximum chance of 38.28 percent."
-[1] "Our modelled likelihood of Southampton winning this match is 38.09 percent, with a minimum chance of 25.97 percent, and a maximum chance of 45.65 percent."
-[1] "Our modelled likelihood of Everton winning this match OR DRAW is 61.91 percent, with a minimum chance of 54.35 percent, and a maximum chance of 74.03 percent."
-[1] "Our modelled likelihood of Southampton winning this match OR DRAW is 68.39 percent, with a minimum chance of 60.37 percent, and a maximum chance of 76.83 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 35.5 percent, with a high likelihood of 49.3 and a low likelihood of 16.4 percent."
-[1] "--Sportsbook Odds--"
-[1] "Everton Barstool Odds are: 47.62"
-[1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Southampton Barstool Odds are: 27.78"
-[1] "Everton Adjusted Barstool Odds are: 45.802"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.479"
-[1] "Southampton Adjusted Barstool Odds are: 26.719"
-[1] "Everton's Barstool Odds to cover the 0.5 spread are: 75.19"
-[1] "Southampton's Barstool Odds to cover the -0.5 spread are: 28.99"
-[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Nottingham Forest 1.2379 to Leicester City 1.4624"
-[1] "The pass/shot predicted total is 2.7003"
-[1] "Nottingham Forest pass/shot Predicted Win %: 32.14"
-[1] "The pass/shot Predicted Draw % is: 25.61"
-[1] "Leicester City pass/shot Predicted Win %: 42.25"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Nottingham Forest 1.6384 to Leicester City 1.4306"
-[1] "The xg model predicted total is 3.069"
-[1] "Nottingham Forest xg model Predicted Win %: 42.54"
-[1] "The xg model Predicted Draw % is: 24.18"
-[1] "Leicester City xg model Predicted Win %: 33.28"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Nottingham Forest 1.4266 to Leicester City 1.474"
-[1] "The xgot model predicted total is 2.9006"
-[1] "Nottingham Forest xgot model Predicted Win %: 37"
-[1] "The xgot model Predicted Draw % is: 24.57"
-[1] "Leicester City xgot model Predicted Win %: 38.43"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Nottingham Forest 1.0155 to Leicester City 1.3881"
-[1] "The xa model predicted total is 2.4036"
-[1] "Nottingham Forest xa model Predicted Win %: 28.29"
-[1] "The xa model Predicted Draw % is: 26.6"
-[1] "Leicester City xa model Predicted Win %: 45.11"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Nottingham Forest 1.5117 to Leicester City 1.3432"
-[1] "The XGExp model predicted total is 2.8549"
-[1] "Nottingham Forest XGExp model Predicted Win %: 41.61"
-[1] "The XGExp model Predicted Draw % is: 24.91"
-[1] "Leicester City XGExp model Predicted Win %: 33.48"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Nottingham Forest 0.7693 to Leicester City 1.215"
-[1] "The XAExp model predicted total is 1.9843"
-[1] "Nottingham Forest XAExp model Predicted Win %: 23.94"
-[1] "The XAExp model Predicted Draw % is: 29.92"
-[1] "Leicester City XAExp model Predicted Win %: 46.14"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Nottingham Forest winning this match is 34.25 percent, with a minimum chance of 23.94 percent, and a maximum chance of 42.54 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 25.96 percent, with a minimum chance of 24.18 percent, and a maximum chance of 29.92 percent."
-[1] "Our modelled likelihood of Leicester City winning this match is 39.78 percent, with a minimum chance of 33.28 percent, and a maximum chance of 46.14 percent."
-[1] "Our modelled likelihood of Nottingham Forest winning this match OR DRAW is 60.22 percent, with a minimum chance of 53.86 percent, and a maximum chance of 66.72 percent."
-[1] "Our modelled likelihood of Leicester City winning this match OR DRAW is 65.75 percent, with a minimum chance of 57.46 percent, and a maximum chance of 76.06 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 49.46 percent, with a high likelihood of 59.21 and a low likelihood of 31.91 percent."
-[1] "--Sportsbook Odds--"
-[1] "Nottingham Forest Barstool Odds are: 40"
-[1] "The Barstool Odds of a Draw are: 29.41"
-[1] "Leicester City Barstool Odds are: 35.09"
-[1] "Nottingham Forest Adjusted Barstool Odds are: 38.278"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.144"
-[1] "Leicester City Adjusted Barstool Odds are: 33.579"
-[1] "Nottingham Forest's Barstool Odds to cover the 0.5 spread are: 68.03"
-[1] "Leicester City's Barstool Odds to cover the -0.5 spread are: 36.36"
-[1] "Barstool's line for the total is 2.5 at 2, which is a 50 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Wolverhampton 1.4221 to West Ham United 1.0761"
-[1] "The pass/shot predicted total is 2.4982"
-[1] "Wolverhampton pass/shot Predicted Win %: 45.12"
-[1] "The pass/shot Predicted Draw % is: 26.74"
-[1] "West Ham United pass/shot Predicted Win %: 28.14"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Wolverhampton 0.9252 to West Ham United 1.1697"
-[1] "The xg model predicted total is 2.0949"
-[1] "Wolverhampton xg model Predicted Win %: 29.32"
-[1] "The xg model Predicted Draw % is: 29.87"
-[1] "West Ham United xg model Predicted Win %: 40.81"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Wolverhampton 0.5031 to West Ham United 1.4305"
-[1] "The xgot model predicted total is 1.9336"
-[1] "Wolverhampton xgot model Predicted Win %: 13.32"
-[1] "The xgot model Predicted Draw % is: 26.99"
-[1] "West Ham United xgot model Predicted Win %: 59.69"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Wolverhampton 0.7364 to West Ham United 0.8367"
-[1] "The xa model predicted total is 1.5731"
-[1] "Wolverhampton xa model Predicted Win %: 29.3"
-[1] "The xa model Predicted Draw % is: 36.01"
-[1] "West Ham United xa model Predicted Win %: 34.69"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Wolverhampton 0.5254 to West Ham United 0.6706"
-[1] "The XGExp model predicted total is 1.196"
-[1] "Wolverhampton XGExp model Predicted Win %: 24.92"
-[1] "The XGExp model Predicted Draw % is: 41.87"
-[1] "West Ham United XGExp model Predicted Win %: 33.21"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Wolverhampton 0.9591 to West Ham United 0.8458"
-[1] "The XAExp model predicted total is 1.8049"
-[1] "Wolverhampton XAExp model Predicted Win %: 37"
-[1] "The XAExp model Predicted Draw % is: 32.94"
-[1] "West Ham United XAExp model Predicted Win %: 30.06"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Wolverhampton winning this match is 29.83 percent, with a minimum chance of 13.32 percent, and a maximum chance of 45.12 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 32.4 percent, with a minimum chance of 26.74 percent, and a maximum chance of 41.87 percent."
-[1] "Our modelled likelihood of West Ham United winning this match is 37.77 percent, with a minimum chance of 28.14 percent, and a maximum chance of 59.69 percent."
-[1] "Our modelled likelihood of Wolverhampton winning this match OR DRAW is 62.23 percent, with a minimum chance of 40.31 percent, and a maximum chance of 71.86 percent."
-[1] "Our modelled likelihood of West Ham United winning this match OR DRAW is 70.17 percent, with a minimum chance of 54.88 percent, and a maximum chance of 86.68 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 28.28 percent, with a high likelihood of 45.57 and a low likelihood of 11.96 percent."
-[1] "--Sportsbook Odds--"
-[1] "Wolverhampton Barstool Odds are: 38.1"
-[1] "The Barstool Odds of a Draw are: 30.77"
-[1] "West Ham United Barstool Odds are: 35.71"
-[1] "Wolverhampton Adjusted Barstool Odds are: 36.431"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.422"
-[1] "West Ham United Adjusted Barstool Odds are: 34.146"
-[1] "Wolverhampton's Barstool Odds to cover the 0.5 spread are: 68.03"
-[1] "West Ham United's Barstool Odds to cover the -0.5 spread are: 36.36"
-[1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Brentford 2.0833 to AFC Bournemouth 1.2621"
-[1] "The pass/shot predicted total is 3.3454"
-[1] "Brentford pass/shot Predicted Win %: 56.32"
-[1] "The pass/shot Predicted Draw % is: 21.63"
-[1] "AFC Bournemouth pass/shot Predicted Win %: 22.05"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Brentford 2.8054 to AFC Bournemouth 1.3329"
-[1] "The xg model predicted total is 4.1383"
-[1] "Brentford xg model Predicted Win %: 68.35"
-[1] "The xg model Predicted Draw % is: 16.04"
-[1] "AFC Bournemouth xg model Predicted Win %: 15.61"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Brentford 3.998 to AFC Bournemouth 1.8619"
-[1] "The xgot model predicted total is 5.8599"
-[1] "Brentford xgot model Predicted Win %: 75.34"
-[1] "The xgot model Predicted Draw % is: 11.94"
-[1] "AFC Bournemouth xgot model Predicted Win %: 12.72"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Brentford 1.7823 to AFC Bournemouth 0.9335"
-[1] "The xa model predicted total is 2.7158"
-[1] "Brentford xa model Predicted Win %: 57.17"
-[1] "The xa model Predicted Draw % is: 23.59"
-[1] "AFC Bournemouth xa model Predicted Win %: 19.24"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Brentford 2.9685 to AFC Bournemouth 1.7673"
-[1] "The XGExp model predicted total is 4.7358"
-[1] "Brentford XGExp model Predicted Win %: 62.51"
-[1] "The XGExp model Predicted Draw % is: 16.59"
-[1] "AFC Bournemouth XGExp model Predicted Win %: 20.9"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Brentford 1.9509 to AFC Bournemouth 1.2247"
-[1] "The XAExp model predicted total is 3.1756"
-[1] "Brentford XAExp model Predicted Win %: 54.3"
-[1] "The XAExp model Predicted Draw % is: 22.27"
-[1] "AFC Bournemouth XAExp model Predicted Win %: 23.43"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Brentford winning this match is 62.33 percent, with a minimum chance of 54.3 percent, and a maximum chance of 75.34 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 18.68 percent, with a minimum chance of 11.94 percent, and a maximum chance of 23.59 percent."
-[1] "Our modelled likelihood of AFC Bournemouth winning this match is 18.99 percent, with a minimum chance of 12.72 percent, and a maximum chance of 23.43 percent."
-[1] "Our modelled likelihood of Brentford winning this match OR DRAW is 81.01 percent, with a minimum chance of 76.57 percent, and a maximum chance of 87.28 percent."
-[1] "Our modelled likelihood of AFC Bournemouth winning this match OR DRAW is 37.67 percent, with a minimum chance of 24.66 percent, and a maximum chance of 45.7 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 76.12 percent, with a high likelihood of 93.15 and a low likelihood of 51.02 percent."
+[1] "Our modelled likelihood of Brentford winning this match is 60.47 percent, with a minimum chance of 54.18 percent, and a maximum chance of 77.53 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 19.55 percent, with a minimum chance of 11.35 percent, and a maximum chance of 23.58 percent."
+[1] "Our modelled likelihood of AFC Bournemouth winning this match is 19.98 percent, with a minimum chance of 11.12 percent, and a maximum chance of 26.6 percent."
+[1] "Our modelled likelihood of Brentford winning this match OR DRAW is 80.02 percent, with a minimum chance of 73.4 percent, and a maximum chance of 88.88 percent."
+[1] "Our modelled likelihood of AFC Bournemouth winning this match OR DRAW is 39.53 percent, with a minimum chance of 22.47 percent, and a maximum chance of 45.82 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 73.57 percent, with a high likelihood of 92.45 and a low likelihood of 49.79 percent."
 [1] "--Sportsbook Odds--"
 [1] "Brentford Barstool Odds are: 62.5"
-[1] "The Barstool Odds of a Draw are: 23.26"
-[1] "AFC Bournemouth Barstool Odds are: 18.18"
-[1] "Brentford Adjusted Barstool Odds are: 60.131"
-[1] "The Adjusted Barstool Odds of a Draw are: 22.378"
-[1] "AFC Bournemouth Adjusted Barstool Odds are: 17.491"
-[1] "Brentford's Barstool Odds to cover the -0.5 spread are: 62.5"
-[1] "AFC Bournemouth's Barstool Odds to cover the 0.5 spread are: 42.02"
-[1] "Barstool's line for the total is 2.5 at 1.77, which is a 56.5 percent chance of the over 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "AFC Bournemouth Barstool Odds are: 17.86"
+[1] "Brentford Adjusted Barstool Odds are: 59.32"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.728"
+[1] "AFC Bournemouth Adjusted Barstool Odds are: 16.951"
+[1] "Brentford's Barstool Odds to cover the -0.5 spread are: 61.73"
+[1] "AFC Bournemouth's Barstool Odds to cover the 0.5 spread are: 42.55"
+[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Chelsea 1.1357 to Crystal Palace 1.1227"
-[1] "The pass/shot predicted total is 2.2584"
-[1] "Chelsea pass/shot Predicted Win %: 36.06"
-[1] "The pass/shot Predicted Draw % is: 29.24"
-[1] "Crystal Palace pass/shot Predicted Win %: 34.7"
+[1] "The pass/shot predicted score is Chelsea 1.2182 to Crystal Palace 1.2069"
+[1] "The pass/shot predicted total is 2.4251"
+[1] "Chelsea pass/shot Predicted Win %: 36.59"
+[1] "The pass/shot Predicted Draw % is: 27.9"
+[1] "Crystal Palace pass/shot Predicted Win %: 35.51"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Chelsea 1.2093 to Crystal Palace 1.5676"
-[1] "The xg model predicted total is 2.7769"
-[1] "Chelsea xg model Predicted Win %: 29.7"
-[1] "The xg model Predicted Draw % is: 24.98"
-[1] "Crystal Palace xg model Predicted Win %: 45.32"
+[1] "The xg model predicted score is Chelsea 1.524 to Crystal Palace 2.0021"
+[1] "The xg model predicted total is 3.5261"
+[1] "Chelsea xg model Predicted Win %: 29.55"
+[1] "The xg model Predicted Draw % is: 21.82"
+[1] "Crystal Palace xg model Predicted Win %: 48.63"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Chelsea 0.9051 to Crystal Palace 1.4898"
-[1] "The xgot model predicted total is 2.3949"
-[1] "Chelsea xgot model Predicted Win %: 23.55"
-[1] "The xgot model Predicted Draw % is: 25.87"
-[1] "Crystal Palace xgot model Predicted Win %: 50.58"
+[1] "The xgot model predicted score is Chelsea 1.4229 to Crystal Palace 1.7527"
+[1] "The xgot model predicted total is 3.1756"
+[1] "Chelsea xgot model Predicted Win %: 31.69"
+[1] "The xgot model Predicted Draw % is: 22.98"
+[1] "Crystal Palace xgot model Predicted Win %: 45.33"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Chelsea 1.6202 to Crystal Palace 1.0149"
-[1] "The xa model predicted total is 2.6351"
-[1] "Chelsea xa model Predicted Win %: 51.55"
-[1] "The xa model Predicted Draw % is: 25.07"
-[1] "Crystal Palace xa model Predicted Win %: 23.38"
+[1] "The xa model predicted score is Chelsea 1.7179 to Crystal Palace 1.0333"
+[1] "The xa model predicted total is 2.7512"
+[1] "Chelsea xa model Predicted Win %: 53.25"
+[1] "The xa model Predicted Draw % is: 24.29"
+[1] "Crystal Palace xa model Predicted Win %: 22.46"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Chelsea 1.1361 to Crystal Palace 1.5177"
-[1] "The XGExp model predicted total is 2.6538"
-[1] "Chelsea XGExp model Predicted Win %: 28.69"
-[1] "The XGExp model Predicted Draw % is: 25.57"
-[1] "Crystal Palace XGExp model Predicted Win %: 45.74"
+[1] "The XGExp model predicted score is Chelsea 1.4627 to Crystal Palace 1.8133"
+[1] "The XGExp model predicted total is 3.276"
+[1] "Chelsea XGExp model Predicted Win %: 31.37"
+[1] "The XGExp model Predicted Draw % is: 22.88"
+[1] "Crystal Palace XGExp model Predicted Win %: 45.75"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Chelsea 1.7821 to Crystal Palace 1.5235"
-[1] "The XAExp model predicted total is 3.3056"
-[1] "Chelsea XAExp model Predicted Win %: 43.94"
-[1] "The XAExp model Predicted Draw % is: 23.23"
-[1] "Crystal Palace XAExp model Predicted Win %: 32.83"
+[1] "The XAExp model predicted score is Chelsea 1.7291 to Crystal Palace 1.4581"
+[1] "The XAExp model predicted total is 3.1872"
+[1] "Chelsea XAExp model Predicted Win %: 44.14"
+[1] "The XAExp model Predicted Draw % is: 23.38"
+[1] "Crystal Palace XAExp model Predicted Win %: 32.48"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Chelsea winning this match is 35.58 percent, with a minimum chance of 23.55 percent, and a maximum chance of 51.55 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 25.66 percent, with a minimum chance of 23.23 percent, and a maximum chance of 29.24 percent."
-[1] "Our modelled likelihood of Crystal Palace winning this match is 38.76 percent, with a minimum chance of 23.38 percent, and a maximum chance of 50.58 percent."
-[1] "Our modelled likelihood of Chelsea winning this match OR DRAW is 61.24 percent, with a minimum chance of 49.42 percent, and a maximum chance of 76.62 percent."
-[1] "Our modelled likelihood of Crystal Palace winning this match OR DRAW is 64.42 percent, with a minimum chance of 48.45 percent, and a maximum chance of 76.45 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 49.92 percent, with a high likelihood of 64.17 and a low likelihood of 39.29 percent."
+[1] "Our modelled likelihood of Chelsea winning this match is 37.76 percent, with a minimum chance of 29.55 percent, and a maximum chance of 53.25 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 23.88 percent, with a minimum chance of 21.82 percent, and a maximum chance of 27.9 percent."
+[1] "Our modelled likelihood of Crystal Palace winning this match is 38.36 percent, with a minimum chance of 22.46 percent, and a maximum chance of 48.63 percent."
+[1] "Our modelled likelihood of Chelsea winning this match OR DRAW is 61.64 percent, with a minimum chance of 51.37 percent, and a maximum chance of 77.54 percent."
+[1] "Our modelled likelihood of Crystal Palace winning this match OR DRAW is 62.24 percent, with a minimum chance of 46.75 percent, and a maximum chance of 70.45 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 58.94 percent, with a high likelihood of 68.39 and a low likelihood of 43.68 percent."
 [1] "--Sportsbook Odds--"
 [1] "Chelsea Barstool Odds are: 60.98"
 [1] "The Barstool Odds of a Draw are: 25.64"
@@ -387,351 +112,247 @@
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Newcastle 2.0366 to Fulham 0.9587"
-[1] "The pass/shot predicted total is 2.9953"
-[1] "Newcastle pass/shot Predicted Win %: 62.51"
-[1] "The pass/shot Predicted Draw % is: 20.92"
-[1] "Fulham pass/shot Predicted Win %: 16.57"
+[1] "The pass/shot predicted score is Newcastle 1.9928 to Fulham 0.9779"
+[1] "The pass/shot predicted total is 2.9707"
+[1] "Newcastle pass/shot Predicted Win %: 60.9"
+[1] "The pass/shot Predicted Draw % is: 21.59"
+[1] "Fulham pass/shot Predicted Win %: 17.51"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Newcastle 2.6995 to Fulham 1.0084"
-[1] "The xg model predicted total is 3.7079"
-[1] "Newcastle xg model Predicted Win %: 73.19"
-[1] "The xg model Predicted Draw % is: 15.37"
-[1] "Fulham xg model Predicted Win %: 11.44"
+[1] "The xg model predicted score is Newcastle 2.7519 to Fulham 0.9888"
+[1] "The xg model predicted total is 3.7407"
+[1] "Newcastle xg model Predicted Win %: 74.47"
+[1] "The xg model Predicted Draw % is: 14.77"
+[1] "Fulham xg model Predicted Win %: 10.76"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Newcastle 2.443 to Fulham 1.1767"
-[1] "The xgot model predicted total is 3.6197"
-[1] "Newcastle xgot model Predicted Win %: 65.65"
-[1] "The xgot model Predicted Draw % is: 18.03"
-[1] "Fulham xgot model Predicted Win %: 16.32"
+[1] "The xgot model predicted score is Newcastle 2.3719 to Fulham 1.211"
+[1] "The xgot model predicted total is 3.5829"
+[1] "Newcastle xgot model Predicted Win %: 63.53"
+[1] "The xgot model Predicted Draw % is: 18.77"
+[1] "Fulham xgot model Predicted Win %: 17.7"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Newcastle 1.7501 to Fulham 0.8742"
-[1] "The xa model predicted total is 2.6243"
-[1] "Newcastle xa model Predicted Win %: 57.86"
-[1] "The xa model Predicted Draw % is: 23.79"
-[1] "Fulham xa model Predicted Win %: 18.35"
+[1] "The xa model predicted score is Newcastle 1.7217 to Fulham 0.8844"
+[1] "The xa model predicted total is 2.6061"
+[1] "Newcastle xa model Predicted Win %: 56.89"
+[1] "The xa model Predicted Draw % is: 24.3"
+[1] "Fulham xa model Predicted Win %: 18.81"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Newcastle 2.7462 to Fulham 1.6451"
-[1] "The XGExp model predicted total is 4.3913"
-[1] "Newcastle XGExp model Predicted Win %: 61.36"
-[1] "The XGExp model Predicted Draw % is: 17.17"
-[1] "Fulham XGExp model Predicted Win %: 21.47"
+[1] "The XGExp model predicted score is Newcastle 2.7954 to Fulham 1.6746"
+[1] "The XGExp model predicted total is 4.47"
+[1] "Newcastle XGExp model Predicted Win %: 61.56"
+[1] "The XGExp model Predicted Draw % is: 16.89"
+[1] "Fulham XGExp model Predicted Win %: 21.55"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Newcastle 1.7922 to Fulham 1.3687"
-[1] "The XAExp model predicted total is 3.1609"
-[1] "Newcastle XAExp model Predicted Win %: 47.37"
-[1] "The XAExp model Predicted Draw % is: 23.23"
-[1] "Fulham XAExp model Predicted Win %: 29.4"
+[1] "The XAExp model predicted score is Newcastle 1.7675 to Fulham 1.3901"
+[1] "The XAExp model predicted total is 3.1576"
+[1] "Newcastle XAExp model Predicted Win %: 46.29"
+[1] "The XAExp model Predicted Draw % is: 23.47"
+[1] "Fulham XAExp model Predicted Win %: 30.24"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Newcastle winning this match is 61.32 percent, with a minimum chance of 47.37 percent, and a maximum chance of 73.19 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 19.75 percent, with a minimum chance of 15.37 percent, and a maximum chance of 23.79 percent."
-[1] "Our modelled likelihood of Fulham winning this match is 18.92 percent, with a minimum chance of 11.44 percent, and a maximum chance of 29.4 percent."
-[1] "Our modelled likelihood of Newcastle winning this match OR DRAW is 81.08 percent, with a minimum chance of 70.6 percent, and a maximum chance of 88.56 percent."
-[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 38.68 percent, with a minimum chance of 26.81 percent, and a maximum chance of 52.63 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 66.34 percent, with a high likelihood of 81.38 and a low likelihood of 48.76 percent."
+[1] "Our modelled likelihood of Newcastle winning this match is 60.61 percent, with a minimum chance of 46.29 percent, and a maximum chance of 74.47 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 19.96 percent, with a minimum chance of 14.77 percent, and a maximum chance of 24.3 percent."
+[1] "Our modelled likelihood of Fulham winning this match is 19.43 percent, with a minimum chance of 10.76 percent, and a maximum chance of 30.24 percent."
+[1] "Our modelled likelihood of Newcastle winning this match OR DRAW is 80.57 percent, with a minimum chance of 69.76 percent, and a maximum chance of 89.24 percent."
+[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 39.39 percent, with a minimum chance of 25.53 percent, and a maximum chance of 53.71 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 66.44 percent, with a high likelihood of 82.3 and a low likelihood of 48.31 percent."
 [1] "--Sportsbook Odds--"
 [1] "Newcastle Barstool Odds are: 67.57"
-[1] "The Barstool Odds of a Draw are: 21.05"
+[1] "The Barstool Odds of a Draw are: 21.74"
 [1] "Fulham Barstool Odds are: 15.38"
-[1] "Newcastle Adjusted Barstool Odds are: 64.971"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.24"
-[1] "Fulham Adjusted Barstool Odds are: 14.788"
+[1] "Newcastle Adjusted Barstool Odds are: 64.543"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.766"
+[1] "Fulham Adjusted Barstool Odds are: 14.691"
 [1] "Newcastle's Barstool Odds to cover the -0.5 spread are: 67.11"
-[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 37.04"
+[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 37.74"
 [1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Tottenham Hotspur 1.4437 to Arsenal 1.4021"
-[1] "The pass/shot predicted total is 2.8458"
-[1] "Tottenham Hotspur pass/shot Predicted Win %: 38.69"
-[1] "The pass/shot Predicted Draw % is: 24.99"
-[1] "Arsenal pass/shot Predicted Win %: 36.32"
+[1] "The pass/shot predicted score is Tottenham Hotspur 1.6301 to Arsenal 1.4289"
+[1] "The pass/shot predicted total is 3.059"
+[1] "Tottenham Hotspur pass/shot Predicted Win %: 42.39"
+[1] "The pass/shot Predicted Draw % is: 24.23"
+[1] "Arsenal pass/shot Predicted Win %: 33.38"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Tottenham Hotspur 1.3566 to Arsenal 1.5371"
-[1] "The xg model predicted total is 2.8937"
-[1] "Tottenham Hotspur xg model Predicted Win %: 33.98"
-[1] "The xg model Predicted Draw % is: 24.68"
-[1] "Arsenal xg model Predicted Win %: 41.34"
+[1] "The xg model predicted score is Tottenham Hotspur 1.6842 to Arsenal 1.4492"
+[1] "The xg model predicted total is 3.1334"
+[1] "Tottenham Hotspur xg model Predicted Win %: 43.36"
+[1] "The xg model Predicted Draw % is: 23.56"
+[1] "Arsenal xg model Predicted Win %: 33.08"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Tottenham Hotspur 1.4901 to Arsenal 1.3643"
-[1] "The xgot model predicted total is 2.8544"
-[1] "Tottenham Hotspur xgot model Predicted Win %: 40.64"
-[1] "The xgot model Predicted Draw % is: 24.9"
-[1] "Arsenal xgot model Predicted Win %: 34.46"
+[1] "The xgot model predicted score is Tottenham Hotspur 2.0198 to Arsenal 1.2879"
+[1] "The xgot model predicted total is 3.3077"
+[1] "Tottenham Hotspur xgot model Predicted Win %: 54.57"
+[1] "The xgot model Predicted Draw % is: 21.95"
+[1] "Arsenal xgot model Predicted Win %: 23.48"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Tottenham Hotspur 1.2758 to Arsenal 1.3851"
-[1] "The xa model predicted total is 2.6609"
-[1] "Tottenham Hotspur xa model Predicted Win %: 34.76"
-[1] "The xa model Predicted Draw % is: 25.81"
-[1] "Arsenal xa model Predicted Win %: 39.43"
+[1] "The xa model predicted score is Tottenham Hotspur 1.2016 to Arsenal 1.4247"
+[1] "The xa model predicted total is 2.6263"
+[1] "Tottenham Hotspur xa model Predicted Win %: 32"
+[1] "The xa model Predicted Draw % is: 25.9"
+[1] "Arsenal xa model Predicted Win %: 42.1"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Tottenham Hotspur 2.3782 to Arsenal 1.8754"
-[1] "The XGExp model predicted total is 4.2536"
-[1] "Tottenham Hotspur XGExp model Predicted Win %: 50.13"
-[1] "The XGExp model Predicted Draw % is: 19.11"
-[1] "Arsenal XGExp model Predicted Win %: 30.76"
+[1] "The XGExp model predicted score is Tottenham Hotspur 2.1531 to Arsenal 1.9972"
+[1] "The XGExp model predicted total is 4.1503"
+[1] "Tottenham Hotspur XGExp model Predicted Win %: 43.26"
+[1] "The XGExp model Predicted Draw % is: 19.76"
+[1] "Arsenal XGExp model Predicted Win %: 36.98"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Tottenham Hotspur 1.9577 to Arsenal 1.997"
-[1] "The XAExp model predicted total is 3.9547"
-[1] "Tottenham Hotspur XAExp model Predicted Win %: 38.88"
-[1] "The XAExp model Predicted Draw % is: 20.77"
-[1] "Arsenal XAExp model Predicted Win %: 40.35"
+[1] "The XAExp model predicted score is Tottenham Hotspur 1.6445 to Arsenal 1.7742"
+[1] "The XAExp model predicted total is 3.4187"
+[1] "Tottenham Hotspur XAExp model Predicted Win %: 35.84"
+[1] "The XAExp model Predicted Draw % is: 23.09"
+[1] "Arsenal XAExp model Predicted Win %: 41.07"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 39.51 percent, with a minimum chance of 33.98 percent, and a maximum chance of 50.13 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 23.38 percent, with a minimum chance of 19.11 percent, and a maximum chance of 25.81 percent."
-[1] "Our modelled likelihood of Arsenal winning this match is 37.11 percent, with a minimum chance of 30.76 percent, and a maximum chance of 41.34 percent."
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 62.89 percent, with a minimum chance of 58.66 percent, and a maximum chance of 69.24 percent."
-[1] "Our modelled likelihood of Arsenal winning this match OR DRAW is 60.49 percent, with a minimum chance of 49.87 percent, and a maximum chance of 66.02 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 62.92 percent, with a high likelihood of 79.68 and a low likelihood of 49.68 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 41.9 percent, with a minimum chance of 32 percent, and a maximum chance of 54.57 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 23.08 percent, with a minimum chance of 19.76 percent, and a maximum chance of 25.9 percent."
+[1] "Our modelled likelihood of Arsenal winning this match is 35.02 percent, with a minimum chance of 23.48 percent, and a maximum chance of 42.1 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 64.98 percent, with a minimum chance of 57.9 percent, and a maximum chance of 76.52 percent."
+[1] "Our modelled likelihood of Arsenal winning this match OR DRAW is 58.1 percent, with a minimum chance of 45.43 percent, and a maximum chance of 68 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 63.71 percent, with a high likelihood of 78.31 and a low likelihood of 48.81 percent."
 [1] "--Sportsbook Odds--"
-[1] "Tottenham Hotspur Barstool Odds are: 30.77"
+[1] "Tottenham Hotspur Barstool Odds are: 32.26"
 [1] "The Barstool Odds of a Draw are: 26.67"
-[1] "Arsenal Barstool Odds are: 46.73"
-[1] "Tottenham Hotspur Adjusted Barstool Odds are: 29.538"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.602"
-[1] "Arsenal Adjusted Barstool Odds are: 44.859"
-[1] "Tottenham Hotspur's Barstool Odds to cover the 0.5 spread are: 57.14"
-[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 47.62"
+[1] "Arsenal Barstool Odds are: 45.45"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 30.906"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.551"
+[1] "Arsenal Adjusted Barstool Odds are: 43.543"
+[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 33.33"
+[1] "Arsenal's Barstool Odds to cover the 0.5 spread are: 70.92"
 [1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-                           bet           date_time
-1     Brighton and Hove Albion 2023-01-14 07:00:00
-2 Brighton and Hove Albion ATS 2023-01-14 07:00:00
-3               Crystal Palace 2023-01-15 06:00:00
-4           Crystal Palace ATS 2023-01-15 06:00:00
-5            Tottenham Hotspur 2023-01-15 08:30:00
-6        Tottenham Hotspur ATS 2023-01-15 08:30:00
-[1] "New commit ID #1511"
-                    player team number  odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alex Oxlade-Chamberlain  LIV      3 10.65      0.0939  0.2429    0.149   tackles Premier League          NA         NA        NA         NA       NA
-                    player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alex Oxlade-Chamberlain  LIV      2 3.65       0.274  0.4568   0.1828   tackles Premier League          NA         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     41 1.88          NA  0.9981   0.4662    passes Premier League      0.5319         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     45 1.96          NA  0.9898   0.4796    passes Premier League      0.5102         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     37 1.44          NA  0.9997   0.3053    passes Premier League      0.6944         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     57 3.06          NA  0.7589   0.4321    passes Premier League      0.3268         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     49  2.2          NA  0.9613   0.5068    passes Premier League      0.4545         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     53 2.52          NA  0.8903   0.4935    passes Premier League      0.3968         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     51 1.88          NA  0.9964   0.4645    passes Premier League      0.5319         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     59 2.04          NA   0.952   0.4618    passes Premier League      0.4902         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     55 1.96          NA   0.985   0.4748    passes Premier League      0.5102         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     63 2.17          NA  0.8789   0.4181    passes Premier League      0.4608         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     47 1.39          NA  0.9994     0.28    passes Premier League      0.7194         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     67 2.44          NA  0.7533   0.3435    passes Premier League      0.4098         NA        NA         NA       NA
+                 bet           date_time
+1     Crystal Palace 2023-01-15 06:00:00
+2 Crystal Palace ATS 2023-01-15 06:00:00
+[1] "New commit ID #3922"
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ryan Christie  BOU      3  8.2       0.122  0.2235   0.1015   tackles Premier League          NA         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ryan Christie  BOU      2 3.16      0.3165  0.4331   0.1166   tackles Premier League          NA         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eddie Nketiah  ARS      2 5.85      0.1709  0.3039    0.133   tackles Premier League          NA         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lewis Cook  BOU     36  1.5          NA  0.8161   0.1494    passes Premier League      0.6667         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ryan Christie  BOU     21 1.51          NA  0.8206   0.1583    passes Premier League      0.6623         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lloyd Kelly  BOU     46 1.84          NA  0.9457   0.4022    passes Premier League      0.5435         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lloyd Kelly  BOU     50 2.29          NA  0.8528   0.4161    passes Premier League      0.4367         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lloyd Kelly  BOU     58  3.5          NA  0.4911   0.2054    passes Premier League      0.2857         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lloyd Kelly  BOU     54 2.75          NA  0.6938   0.3302    passes Premier League      0.3636         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lloyd Kelly  BOU     42 1.51          NA  0.9853    0.323    passes Premier League      0.6623         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Marcos Senesi  BOU     50 1.88          NA    0.72   0.1881    passes Premier League      0.5319         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Marcos Senesi  BOU     46 1.56          NA  0.8739   0.2329    passes Premier League       0.641         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Marcus Rashford  MUN     16 1.51          NA  0.9158   0.2535    passes Premier League      0.6623         NA        NA         NA       NA
+1: Jefferson Lerma  BOU     48 1.88          NA  0.7607   0.2288    passes Premier League      0.5319         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Marcus Rashford  MUN     20 1.85          NA  0.6849   0.1444    passes Premier League      0.5405         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN     56 1.58          NA  0.8024   0.1695    passes Premier League      0.6329         NA        NA         NA       NA
+1: Jefferson Lerma  BOU     44 1.41          NA  0.8999   0.1907    passes Premier League      0.7092         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Chris Mepham  BOU     47 1.88          NA  0.7365   0.2046    passes Premier League      0.5319         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Chris Mepham  BOU     43  1.6          NA  0.8872   0.2622    passes Premier League       0.625         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Joao Palhinha  FUL     33 1.88          NA  0.6426   0.1107    passes Premier League      0.5319         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Joao Palhinha  FUL     29 1.51          NA   0.856   0.1937    passes Premier League      0.6623         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Anthony Martial  MUN     14 1.51          NA  0.7862   0.1239    passes Premier League      0.6623         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lisandro Martinez  MUN     50 1.85          NA  0.6939   0.1534    passes Premier League      0.5405         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lisandro Martinez  MUN     46 1.58          NA  0.8577   0.2248    passes Premier League      0.6329         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vitaliy Mykolenko  EVE     46  2.3          NA  0.7502   0.3154    passes Premier League      0.4348         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vitaliy Mykolenko  EVE     42 1.85          NA  0.8962   0.3557    passes Premier League      0.5405         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vitaliy Mykolenko  EVE     50 2.76          NA  0.5425   0.1802    passes Premier League      0.3623         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vitaliy Mykolenko  EVE     38 1.51          NA  0.9688   0.3065    passes Premier League      0.6623         NA        NA         NA       NA
+1: Kieran Trippier  NEW     63 2.19          NA   0.618   0.1614    passes Premier League      0.4566         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: James Tarkowski  EVE     63 1.85          NA  0.7913   0.2508    passes Premier League      0.5405         NA        NA         NA       NA
+1: Kieran Trippier  NEW     51 1.53          NA  0.9676    0.314    passes Premier League      0.6536         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: James Tarkowski  EVE     67 2.17          NA  0.6265   0.1657    passes Premier League      0.4608         NA        NA         NA       NA
+1: Kieran Trippier  NEW     55 1.88          NA  0.9064   0.3745    passes Premier League      0.5319         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: James Tarkowski  EVE     59 1.58          NA  0.9048   0.2719    passes Premier League      0.6329         NA        NA         NA       NA
+1: Kieran Trippier  NEW     59 1.96          NA  0.7893   0.2791    passes Premier League      0.5102         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Seamus Coleman  EVE     33 1.51          NA  0.7666   0.1043    passes Premier League      0.6623         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Conor Coady  EVE     62 1.85          NA   0.825   0.2845    passes Premier League      0.5405         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Conor Coady  EVE     66 2.17          NA  0.6715   0.2107    passes Premier League      0.4608         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Conor Coady  EVE     58 1.58          NA  0.9245   0.2916    passes Premier League      0.6329         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Idrissa Gueye  EVE     43 1.85          NA    0.89   0.3495    passes Premier League      0.5405         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Idrissa Gueye  EVE     47 2.23          NA  0.7414    0.293    passes Premier League      0.4484         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Idrissa Gueye  EVE     51 2.59          NA  0.5337   0.1476    passes Premier League      0.3861         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Idrissa Gueye  EVE     39 1.55          NA  0.9659   0.3207    passes Premier League      0.6452         NA        NA         NA       NA
+1: Joseph Willock  NEW     24  1.4          NA    0.89   0.1757    passes Premier League      0.7143         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Fabian Schar  NEW     61 2.44          NA   0.569   0.1592    passes Premier League      0.4098         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Fabian Schar  NEW     57 2.17          NA   0.754   0.2932    passes Premier League      0.4608         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Fabian Schar  NEW     49 1.58          NA    0.96   0.3271    passes Premier League      0.6329         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Fabian Schar  NEW     53 1.85          NA  0.8873   0.3468    passes Premier League      0.5405         NA        NA         NA       NA
+     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dan Burn  NEW     47 1.85          NA  0.6991   0.1586    passes Premier League      0.5405         NA        NA         NA       NA
+     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dan Burn  NEW     43 1.53          NA  0.8649   0.2113    passes Premier League      0.6536         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sean Longstaff  NEW     32 1.82          NA  0.9133   0.3638    passes Premier League      0.5495         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sean Longstaff  NEW     40 2.71          NA  0.5252   0.1562    passes Premier League       0.369         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sean Longstaff  NEW     36 2.26          NA  0.7582   0.3157    passes Premier League      0.4425         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sean Longstaff  NEW     28  1.5          NA  0.9798   0.3131    passes Premier League      0.6667         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Thiago Silva  CHE     86 1.87          NA  0.7404   0.2056    passes Premier League      0.5348         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Thiago Silva  CHE     90 2.15          NA  0.5882   0.1231    passes Premier League      0.4651         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Thiago Silva  CHE     82 1.61          NA  0.8583   0.2372    passes Premier League      0.6211         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Amadou Mvom Onana  EVE     34 1.85          NA  0.6601   0.1196    passes Premier League      0.5405         NA        NA         NA       NA
+1: Kalidou Koulibaly  CHE     71 1.84          NA  0.9715    0.428    passes Premier League      0.5435         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Amadou Mvom Onana  EVE     30 1.51          NA   0.864   0.2017    passes Premier League      0.6623         NA        NA         NA       NA
+1: Kalidou Koulibaly  CHE     75 2.12          NA  0.9268   0.4551    passes Premier League      0.4717         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kalidou Koulibaly  CHE     79 2.35          NA  0.8435    0.418    passes Premier League      0.4255         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kalidou Koulibaly  CHE     67 1.58          NA   0.991   0.3581    passes Premier League      0.6329         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kalidou Koulibaly  CHE     87 3.39          NA  0.5568   0.2618    passes Premier League       0.295         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kalidou Koulibaly  CHE     83 2.74          NA  0.7164   0.3514    passes Premier League       0.365         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Romeo Lavia  SOU     41 1.85          NA  0.7964   0.2559    passes Premier League      0.5405         NA        NA         NA       NA
+1: Bukayo Saka  ARS     31 1.83          NA  0.7295   0.1831    passes Premier League      0.5464         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Romeo Lavia  SOU     45  2.3          NA  0.5913   0.1565    passes Premier League      0.4348         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Romeo Lavia  SOU     37 1.51          NA  0.9259   0.2636    passes Premier League      0.6623         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pascal Gross  BHA     56 2.18          NA  0.9364   0.4777    passes Premier League      0.4587         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pascal Gross  BHA     52 1.86          NA  0.9796    0.442    passes Premier League      0.5376         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pascal Gross  BHA     68  3.7          NA  0.5128   0.2425    passes Premier League      0.2703         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pascal Gross  BHA     60 2.45          NA  0.8454   0.4372    passes Premier League      0.4082         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pascal Gross  BHA     64 2.92          NA  0.6983   0.3558    passes Premier League      0.3425         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pascal Gross  BHA     48 1.58          NA  0.9951   0.3622    passes Premier League      0.6329         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mohamed Salah  LIV     25 1.49          NA  0.8601    0.189    passes Premier League      0.6711         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Thomas  LEI     66 2.17          NA  0.6125   0.1517    passes Premier League      0.4608         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Thomas  LEI     62 1.85          NA  0.7818   0.2413    passes Premier League      0.5405         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Thomas  LEI     58 1.58          NA  0.8999    0.267    passes Premier League      0.6329         NA        NA         NA       NA
+1: Bukayo Saka  ARS     27  1.5          NA  0.9075   0.2408    passes Premier League      0.6667         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Youri Tielemans  LEI     73 1.85          NA  0.6624   0.1219    passes Premier League      0.5405         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Youri Tielemans  LEI     69 1.58          NA  0.8121   0.1792    passes Premier League      0.6329         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Scott McKenna  NOF     41 1.85          NA  0.9667   0.4262    passes Premier League      0.5405         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Scott McKenna  NOF     45 2.12          NA  0.8945   0.4228    passes Premier League      0.4717         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Scott McKenna  NOF     53 2.68          NA  0.5527   0.1796    passes Premier League      0.3731         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Scott McKenna  NOF     37  1.6          NA  0.9926   0.3676    passes Premier League       0.625         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Scott McKenna  NOF     49 2.32          NA   0.753    0.322    passes Premier League       0.431         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Joe Worrall  NOF     58 1.85          NA  0.6455    0.105    passes Premier League      0.5405         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Joe Worrall  NOF     54 1.58          NA  0.8153   0.1824    passes Premier League      0.6329         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Daniel Amartey  LEI     78 2.09          NA  0.7365    0.258    passes Premier League      0.4785         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Daniel Amartey  LEI     74 1.85          NA  0.8605     0.32    passes Premier League      0.5405         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Daniel Amartey  LEI     82 2.26          NA  0.5756   0.1331    passes Premier League      0.4425         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Daniel Amartey  LEI     70 1.62          NA  0.9382   0.3209    passes Premier League      0.6173         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Remo Freuler  NOF     45 1.85          NA  0.7797   0.2392    passes Premier League      0.5405         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Remo Freuler  NOF     49 2.22          NA  0.5785    0.128    passes Premier League      0.4505         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Remo Freuler  NOF     41 1.55          NA  0.9133   0.2681    passes Premier League      0.6452         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ryan Yates  NOF     35 1.85          NA  0.6696   0.1291    passes Premier League      0.5405         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ryan Yates  NOF     31 1.51          NA  0.8674   0.2051    passes Premier League      0.6623         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Wout Faes  LEI     89 1.85          NA  0.7584   0.2179    passes Premier League      0.5405         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Wout Faes  LEI     93 2.17          NA  0.6128    0.152    passes Premier League      0.4608         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Wout Faes  LEI     85 1.58          NA   0.869   0.2361    passes Premier League      0.6329         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jarrod Bowen  WHU     18  1.5          NA  0.8068   0.1401    passes Premier League      0.6667         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Aaron Cresswell  WHU     55 1.59          NA  0.7567   0.1278    passes Premier League      0.6289         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Craig Dawson  WHU     41 1.85          NA  0.7911   0.2506    passes Premier League      0.5405         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Craig Dawson  WHU     45  2.3          NA   0.584   0.1492    passes Premier League      0.4348         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Craig Dawson  WHU     37 1.51          NA  0.9233    0.261    passes Premier League      0.6623         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Max Kilman  WOL     56 1.82          NA  0.7293   0.1798    passes Premier League      0.5495         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Max Kilman  WOL     52 1.56          NA  0.8732   0.2322    passes Premier League       0.641         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Thilo Kehrer  WHU     41 1.86          NA  0.9695   0.4319    passes Premier League      0.5376         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Thilo Kehrer  WHU     45 2.11          NA  0.9017   0.4278    passes Premier League      0.4739         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Thilo Kehrer  WHU     53 2.59          NA  0.5692   0.1831    passes Premier League      0.3861         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Thilo Kehrer  WHU     37 1.63          NA  0.9933   0.3798    passes Premier League      0.6135         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Thilo Kehrer  WHU     49 2.28          NA  0.7659   0.3273    passes Premier League      0.4386         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jordan Zemura  BOU     33 2.37          NA  0.5424   0.1205    passes Premier League      0.4219         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jordan Zemura  BOU     29  1.9          NA  0.7906   0.2643    passes Premier League      0.5263         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jordan Zemura  BOU     25 1.55          NA  0.9386   0.2934    passes Premier League      0.6452         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lewis Cook  BOU     40 1.83          NA  0.7989   0.2525    passes Premier League      0.5464         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lewis Cook  BOU     44 2.27          NA  0.5922   0.1517    passes Premier League      0.4405         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lewis Cook  BOU     36  1.5          NA  0.9282   0.2615    passes Premier League      0.6667         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieffer Moore  BOU     20 1.82          NA  0.8649   0.3154    passes Premier League      0.5495         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieffer Moore  BOU     24 2.26          NA  0.6105    0.168    passes Premier League      0.4425         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieffer Moore  BOU     16  1.5          NA  0.9761   0.3094    passes Premier League      0.6667         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jefferson Lerma  BOU     56 2.04          NA  0.6035   0.1133    passes Premier League      0.4902         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jefferson Lerma  BOU     52 1.96          NA  0.7874   0.2772    passes Premier League      0.5102         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jefferson Lerma  BOU     48 1.88          NA  0.9109    0.379    passes Premier League      0.5319         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jefferson Lerma  BOU     44 1.41          NA  0.9719   0.2627    passes Premier League      0.7092         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Bukayo Saka  ARS     31 1.83          NA  0.7634    0.217    passes Premier League      0.5464         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Bukayo Saka  ARS     27  1.5          NA  0.9235   0.2568    passes Premier League      0.6667         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Martin Odegaard  ARS     41 1.52          NA  0.7983   0.1404    passes Premier League      0.6579         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ben White  ARS     54  1.6          NA  0.7367   0.1117    passes Premier League       0.625         NA        NA         NA       NA
+1: Martin Odegaard  ARS     41 1.52          NA  0.7625   0.1046    passes Premier League      0.6579         NA        NA         NA       NA
                player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Gabriel Martinelli  ARS     29 1.82          NA  0.6981   0.1486    passes Premier League      0.5495         NA        NA         NA       NA
+1: Gabriel Martinelli  ARS     29 1.82          NA  0.6619   0.1124    passes Premier League      0.5495         NA        NA         NA       NA
                player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Gabriel Martinelli  ARS     25  1.5          NA  0.8961   0.2294    passes Premier League      0.6667         NA        NA         NA       NA
+1: Gabriel Martinelli  ARS     25  1.5          NA  0.8771   0.2104    passes Premier League      0.6667         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: William Saliba  ARS     68 1.47          NA  0.8465   0.1662    passes Premier League      0.6803         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: William Saliba  ARS     72 1.71          NA  0.7098    0.125    passes Premier League      0.5848         NA        NA         NA       NA
+1: William Saliba  ARS     68 1.47          NA  0.8068   0.1265    passes Premier League      0.6803         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     28 1.82          NA  0.6535    0.104    passes Premier League      0.5495         NA        NA         NA       NA
+1: Eddie Nketiah  ARS     21 1.84          NA  0.9053   0.3618    passes Premier League      0.5435         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     24 1.49          NA  0.8753   0.2042    passes Premier League      0.6711         NA        NA         NA       NA
+1: Eddie Nketiah  ARS     25 2.29          NA  0.6962   0.2595    passes Premier League      0.4367         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mohamed Salah  LIV      6  7.4          NA  0.4317   0.2966     shots Premier League          NA     0.1351        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mohamed Salah  LIV      4 2.14          NA  0.7454   0.2781     shots Premier League          NA     0.4673        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mohamed Salah  LIV      8   32          NA  0.1782    0.147     shots Premier League          NA     0.0312        NA         NA       NA
-          player team number  odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mohamed Salah  LIV      7 18.05          NA  0.2892   0.2338     shots Premier League          NA     0.0554        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mohamed Salah  LIV      5 3.65          NA  0.5916   0.3176     shots Premier League          NA      0.274        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mohamed Salah  LIV      3 1.34          NA  0.8687   0.1224     shots Premier League          NA     0.7463        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Brennan Johnson  NOF      3  4.8          NA  0.4277   0.2194     shots Premier League          NA     0.2083        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Brennan Johnson  NOF      4 11.8          NA  0.2441   0.1594     shots Premier League          NA     0.0847        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Brennan Johnson  NOF      2 2.27          NA  0.6479   0.2074     shots Premier League          NA     0.4405        NA         NA       NA
+1: Eddie Nketiah  ARS     17 1.51          NA  0.9847   0.3224    passes Premier League      0.6623         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kalidou Koulibaly  CHE      2 7.55          NA  0.2436   0.1111     shots Premier League          NA     0.1325        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Harry Kane  TOT      3  2.1          NA  0.5783   0.1021     shots Premier League          NA     0.4762        NA         NA       NA
+1: Harry Kane  TOT      3  2.1          NA  0.6526   0.1764     shots Premier League          NA     0.4762        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      2  3.7          NA  0.4185   0.1482     shots Premier League          NA     0.2703        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      3 9.25          NA   0.212   0.1039     shots Premier League          NA     0.1081        NA         NA       NA
+         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      2  3.7          NA  0.4185   0.1482     shots Premier League          NA     0.2703        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      3 9.25          NA   0.212   0.1039     shots Premier League          NA     0.1081        NA         NA       NA
+statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Martinelli  ARS     25  1.5          NA  0.8771   0.2104    passes Premier League      0.6667         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: William Saliba  ARS     68 1.47          NA  0.8068   0.1265    passes Premier League      0.6803         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eddie Nketiah  ARS     21 1.84          NA  0.9053   0.3618    passes Premier League      0.5435         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eddie Nketiah  ARS     25 2.29          NA  0.6962   0.2595    passes Premier League      0.4367         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eddie Nketiah  ARS     17 1.51          NA  0.9847   0.3224    passes Premier League      0.6623         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kalidou Koulibaly  CHE      2 7.55          NA  0.2436   0.1111     shots Premier League          NA     0.1325        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Harry Kane  TOT      3  2.1          NA  0.6526   0.1764     shots Premier League          NA     0.4762        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      2  3.7          NA  0.4185   0.1482     shots Premier League          NA     0.2703        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      3 9.25          NA   0.212   0.1039     shots Premier League          NA     0.1081        NA         NA       NA
