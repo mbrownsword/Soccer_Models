@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-13 17:55:02.085"
+[1] "Updated at 2023-01-13 21:48:19"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -45,15 +45,15 @@
 [1] "Our modelled likelihood of Rayo Vallecano winning this match OR DRAW is 74.04 percent, with a minimum chance of 62.46 percent, and a maximum chance of 83.99 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 43.58 percent, with a high likelihood of 55.02 and a low likelihood of 36.93 percent."
 [1] "--Sportsbook Odds--"
-[1] "Real Valladolid Barstool Odds are: 36.36"
-[1] "The Barstool Odds of a Draw are: 30.3"
-[1] "Rayo Vallecano Barstool Odds are: 38.46"
-[1] "Real Valladolid Adjusted Barstool Odds are: 34.589"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.824"
-[1] "Rayo Vallecano Adjusted Barstool Odds are: 36.587"
+[1] "Real Valladolid Barstool Odds are: 35.71"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Rayo Vallecano Barstool Odds are: 37.74"
+[1] "Real Valladolid Adjusted Barstool Odds are: 33.945"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.181"
+[1] "Rayo Vallecano Adjusted Barstool Odds are: 35.875"
 [1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 66.67"
-[1] "Rayo Vallecano's Barstool Odds to cover the -0.5 spread are: 38.46"
-[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
+[1] "Rayo Vallecano's Barstool Odds to cover the -0.5 spread are: 37.74"
+[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -223,7 +223,7 @@
                      bet           date_time
 1 under Osasuna/Mallorca 2023-01-14 09:30:00
 2        Athletic Bilbao 2023-01-14 12:00:00
-[1] "New commit ID #7465"
+[1] "New commit ID #1189"
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ivan Rakitic  SEV     56 1.58          NA  0.7869    0.154    passes LaLiga      0.6329         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -291,10 +291,6 @@
         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Rodrigo Ely  ALM     39 1.54          NA  0.9483   0.2989    passes LaLiga      0.6494         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Stuani  GIR      4 3.55          NA   0.384   0.1023     shots LaLiga          NA     0.2817        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ander Guevara  RSO      1  7.5          NA  0.2658   0.1325      sogs LaLiga          NA         NA    0.1333         NA       NA
-ayer team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Christian Stuani  GIR      4 3.55          NA   0.384   0.1023     shots LaLiga          NA     0.2817        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ander Guevara  RSO      1  7.5          NA  0.2658   0.1325      sogs LaLiga          NA         NA    0.1333         NA       NA
