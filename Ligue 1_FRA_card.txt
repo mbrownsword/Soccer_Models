@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-14 10:12:24"
+[1] "Updated at 2023-01-14 10:44:23"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -381,9 +381,9 @@
 [1] "AS Monaco Adjusted Barstool Odds are: 69.29"
 [1] "The Adjusted Barstool Odds of a Draw are: 18.898"
 [1] "AC Ajaccio Adjusted Barstool Odds are: 11.811"
-[1] "AS Monaco's Barstool Odds to cover the -0.5 spread are: 70.92"
-[1] "AC Ajaccio's Barstool Odds to cover the 0.5 spread are: 33.33"
-[1] "Barstool's line for the total is 2.5 at 1.77, which is a 56.5 percent chance of the over 2.5 hitting."
+[1] "AS Monaco's Barstool Odds to cover the -0.5 spread are: 71.43"
+[1] "AC Ajaccio's Barstool Odds to cover the 0.5 spread are: 32.79"
+[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -436,9 +436,9 @@
 [1] "Stade Rennes Adjusted Barstool Odds are: 16.192"
 [1] "The Adjusted Barstool Odds of a Draw are: 18.785"
 [1] "Paris Saint-Germain Adjusted Barstool Odds are: 65.023"
-[1] "Stade Rennes's Barstool Odds to cover the -0.5 spread are: 18.18"
-[1] "Paris Saint-Germain's Barstool Odds to cover the 0.5 spread are: 85.47"
-[1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94 percent chance of the over 2.5 hitting."
+[1] "Stade Rennes's Barstool Odds to cover the  spread are: NA"
+[1] "Paris Saint-Germain's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.52, which is a 65.79 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
                         bet           date_time
 1            Strasbourg ATS 2023-01-14 12:00:00
@@ -447,14 +447,4 @@
 4 draw AS Monaco/AC Ajaccio 2023-01-15 08:05:00
 5                AC Ajaccio 2023-01-15 08:05:00
 6            AC Ajaccio ATS 2023-01-15 08:05:00
-[1] "New commit ID #1847"
- hitting."
-[1] "-----------------------------------"
-                        bet           date_time
-1            Strasbourg ATS 2023-01-14 12:00:00
-2  under Montpellier/Nantes 2023-01-15 06:00:00
-3                  Toulouse 2023-01-15 06:00:00
-4 draw AS Monaco/AC Ajaccio 2023-01-15 08:05:00
-5                AC Ajaccio 2023-01-15 08:05:00
-6            AC Ajaccio ATS 2023-01-15 08:05:00
-[1] "New commit ID #1847"
+[1] "New commit ID #8405"
