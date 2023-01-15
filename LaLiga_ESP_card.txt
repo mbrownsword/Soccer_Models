@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-14 16:53:56"
+[1] "Updated at 2023-01-14 17:56:16.918"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -112,7 +112,7 @@
 [1] "-----------------------------------"
   bet           date_time
 1     2023-01-14 05:00:00
-[1] "New commit ID #8299"
+[1] "New commit ID #6722"
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ruben Sobrino  CAD      2 2.18      0.4587  0.5927    0.134   tackles LaLiga          NA         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
