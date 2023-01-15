@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-14 16:52:43"
+[1] "Updated at 2023-01-14 17:55:13.570"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -334,7 +334,7 @@
 1    under Torino/Spezia 2023-01-15 06:00:00
 2                AS Roma 2023-01-15 11:45:00
 3 under Empoli/Sampdoria 2023-01-16 11:45:00
-[1] "New commit ID #2885"
+[1] "New commit ID #7674"
             player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
 1: Gerard Deulofeu  UDI      2  6.4      0.1562  0.2601   0.1039   tackles Serie A         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
