@@ -1,70 +1,84 @@
-[1] "Updated at 2023-01-15 20:42:06.343"
+[1] "Updated at 2023-01-16 11:12:12.662"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Cadiz 1.5323 to Elche 1.0327"
-[1] "The pass/shot predicted total is 2.565"
-[1] "Cadiz pass/shot Predicted Win %: 49.07"
-[1] "The pass/shot Predicted Draw % is: 25.63"
-[1] "Elche pass/shot Predicted Win %: 25.3"
+[1] "The pass/shot predicted score is Cadiz 1.6987 to Elche 1.301"
+[1] "The pass/shot predicted total is 2.9997"
+[1] "Cadiz pass/shot Predicted Win %: 46.8"
+[1] "The pass/shot Predicted Draw % is: 24.28"
+[1] "Elche pass/shot Predicted Win %: 28.92"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Cadiz 1.622 to Elche 0.8292"
-[1] "The xg model predicted total is 2.4512"
-[1] "Cadiz xg model Predicted Win %: 56.35"
-[1] "The xg model Predicted Draw % is: 24.96"
-[1] "Elche xg model Predicted Win %: 18.69"
+[1] "The xg model predicted score is Cadiz 2.0144 to Elche 0.8522"
+[1] "The xg model predicted total is 2.8666"
+[1] "Cadiz xg model Predicted Win %: 64.63"
+[1] "The xg model Predicted Draw % is: 20.82"
+[1] "Elche xg model Predicted Win %: 14.55"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Cadiz 1.8634 to Elche 0.5728"
-[1] "The xgot model predicted total is 2.4362"
-[1] "Cadiz xgot model Predicted Win %: 68.29"
-[1] "The xgot model Predicted Draw % is: 21.64"
-[1] "Elche xgot model Predicted Win %: 10.07"
+[1] "The xgot model predicted score is Cadiz 3.0357 to Elche 0.5233"
+[1] "The xgot model predicted total is 3.559"
+[1] "Cadiz xgot model Predicted Win %: 86.92"
+[1] "The xgot model Predicted Draw % is: 9.86"
+[1] "Elche xgot model Predicted Win %: 3.22"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Cadiz 1.6633 to Elche 1.1209"
-[1] "The xa model predicted total is 2.7842"
-[1] "Cadiz xa model Predicted Win %: 50.24"
-[1] "The xa model Predicted Draw % is: 24.33"
-[1] "Elche xa model Predicted Win %: 25.43"
+[1] "The xa model predicted score is Cadiz 1.5397 to Elche 1.4454"
+[1] "The xa model predicted total is 2.9851"
+[1] "Cadiz xa model Predicted Win %: 40.18"
+[1] "The xa model Predicted Draw % is: 24.13"
+[1] "Elche xa model Predicted Win %: 35.69"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Cadiz 1.1776 to Elche 1.0776"
-[1] "The XGExp model predicted total is 2.2552"
-[1] "Cadiz XGExp model Predicted Win %: 38.01"
-[1] "The XGExp model Predicted Draw % is: 29.36"
-[1] "Elche XGExp model Predicted Win %: 32.63"
+[1] "The XGExp model predicted score is Cadiz 1.5996 to Elche 0.8999"
+[1] "The XGExp model predicted total is 2.4995"
+[1] "Cadiz XGExp model Predicted Win %: 53.94"
+[1] "The XGExp model Predicted Draw % is: 25.23"
+[1] "Elche XGExp model Predicted Win %: 20.83"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Cadiz 1.5325 to Elche 1.5575"
-[1] "The XAExp model predicted total is 3.09"
-[1] "Cadiz XAExp model Predicted Win %: 37.92"
-[1] "The XAExp model Predicted Draw % is: 23.86"
-[1] "Elche XAExp model Predicted Win %: 38.22"
+[1] "The XAExp model predicted score is Cadiz 1.4326 to Elche 1.8925"
+[1] "The XAExp model predicted total is 3.3251"
+[1] "Cadiz XAExp model Predicted Win %: 29.51"
+[1] "The XAExp model Predicted Draw % is: 22.34"
+[1] "Elche XAExp model Predicted Win %: 48.15"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Cadiz winning this match is 49.98 percent, with a minimum chance of 37.92 percent, and a maximum chance of 68.29 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 24.96 percent, with a minimum chance of 21.64 percent, and a maximum chance of 29.36 percent."
-[1] "Our modelled likelihood of Elche winning this match is 25.06 percent, with a minimum chance of 10.07 percent, and a maximum chance of 38.22 percent."
-[1] "Our modelled likelihood of Cadiz winning this match OR DRAW is 74.94 percent, with a minimum chance of 61.78 percent, and a maximum chance of 89.93 percent."
-[1] "Our modelled likelihood of Elche winning this match OR DRAW is 50.02 percent, with a minimum chance of 31.71 percent, and a maximum chance of 62.08 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 48.08 percent, with a high likelihood of 59.67 and a low likelihood of 39.2 percent."
+[1] "Our modelled likelihood of Cadiz winning this match is 53.66 percent, with a minimum chance of 29.51 percent, and a maximum chance of 86.92 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 21.11 percent, with a minimum chance of 9.86 percent, and a maximum chance of 25.23 percent."
+[1] "Our modelled likelihood of Elche winning this match is 25.23 percent, with a minimum chance of 3.22 percent, and a maximum chance of 48.15 percent."
+[1] "Our modelled likelihood of Cadiz winning this match OR DRAW is 74.77 percent, with a minimum chance of 51.85 percent, and a maximum chance of 96.78 percent."
+[1] "Our modelled likelihood of Elche winning this match OR DRAW is 46.34 percent, with a minimum chance of 13.08 percent, and a maximum chance of 70.49 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 58.55 percent, with a high likelihood of 68.99 and a low likelihood of 45.61 percent."
 [1] "--Sportsbook Odds--"
-[1] "Cadiz Barstool Odds are: 52.38"
+[1] "Cadiz Barstool Odds are: 54.05"
 [1] "The Barstool Odds of a Draw are: 30.3"
-[1] "Elche Barstool Odds are: 22.73"
-[1] "Cadiz Adjusted Barstool Odds are: 49.692"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.745"
-[1] "Elche Adjusted Barstool Odds are: 21.563"
-[1] "Cadiz's Barstool Odds to cover the -0.5 spread are: 52.36"
-[1] "Elche's Barstool Odds to cover the 0.5 spread are: 52.08"
+[1] "Elche Barstool Odds are: 21.74"
+[1] "Cadiz Adjusted Barstool Odds are: 50.947"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.561"
+[1] "Elche Adjusted Barstool Odds are: 20.492"
+[1] "Cadiz's Barstool Odds to cover the -0.5 spread are: 53.76"
+[1] "Elche's Barstool Odds to cover the 0.5 spread are: 50.51"
 [1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-  bet           date_time
-1     2023-01-15 05:00:00
-[1] "New commit ID #1861"
+               bet           date_time
+1 over Cadiz/Elche 2023-01-16 12:00:00
+[1] "New commit ID #6129"
            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Diego Gonzalez  ELC     43 1.83          NA  0.6939   0.1475    passes LaLiga      0.5464         NA        NA         NA       NA
+1: Anthony Lozano  CAD      2  6.4      0.1562  0.2904   0.1342   tackles LaLiga          NA         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Diego Gonzalez  ELC     39 1.51          NA  0.8675   0.2052    passes LaLiga      0.6623         NA        NA         NA       NA
+1: Diego Gonzalez  ELC     43 1.83          NA  0.7985   0.2521    passes LaLiga      0.5464         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Anthony Lozano  CAD     15 1.51          NA  0.8692   0.2069    passes LaLiga      0.6623         NA        NA         NA       NA
+1: Diego Gonzalez  ELC     47 2.26          NA  0.5993   0.1568    passes LaLiga      0.4425         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Diego Gonzalez  ELC     39 1.51          NA  0.9249   0.2626    passes LaLiga      0.6623         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Sobrino  CAD     22 1.51          NA  0.8389   0.1766    passes LaLiga      0.6623         NA        NA         NA       NA
+1: Ruben Sobrino  CAD     22 1.51          NA  0.7979   0.1356    passes LaLiga      0.6623         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Fali  CAD     51 2.73          NA  0.5807   0.2144    passes LaLiga      0.3663         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Fali  CAD     43 1.85          NA  0.9103   0.3698    passes LaLiga      0.5405         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Fali  CAD     47 2.29          NA   0.778   0.3413    passes LaLiga      0.4367         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Fali  CAD     39 1.52          NA  0.9737   0.3158    passes LaLiga      0.6579         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Brian Ocampo  CAD     19 1.51          NA  0.8649   0.2026    passes LaLiga      0.6623         NA        NA         NA       NA
+1: Brian Ocampo  CAD     19 1.51          NA  0.8304   0.1681    passes LaLiga      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luis Hernandez  CAD     56 1.85          NA  0.6911   0.1506    passes LaLiga      0.5405         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luis Hernandez  CAD     52 1.58          NA  0.8487   0.2158    passes LaLiga      0.6329         NA        NA         NA       NA
