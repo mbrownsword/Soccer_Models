@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-15 22:16:21.002"
+[1] "Updated at 2023-01-16 09:46:17.788"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -393,7 +393,7 @@
 5                         FC Augsburg 2023-01-22 06:30:00
 6 under Borussia Dortmund/FC Augsburg 2023-01-22 06:30:00
 7                     FC Augsburg ATS 2023-01-22 06:30:00
-[1] "New commit ID #2487"
+[1] "New commit ID #5580"
       player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Alex Kral  S04      2 2.27      0.4405  0.7241   0.2836   tackles Bundesliga         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
