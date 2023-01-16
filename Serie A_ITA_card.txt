@@ -1,12 +1,12 @@
-[1] "Updated at 2023-01-15 20:41:22.635"
+[1] "Updated at 2023-01-16 11:05:06.532"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Empoli 1.3528 to Sampdoria 1.447"
-[1] "The pass/shot predicted total is 2.7998"
-[1] "Empoli pass/shot Predicted Win %: 35.64"
-[1] "The pass/shot Predicted Draw % is: 24.98"
-[1] "Sampdoria pass/shot Predicted Win %: 39.38"
+[1] "The pass/shot predicted score is Empoli 1.1354 to Sampdoria 1.69"
+[1] "The pass/shot predicted total is 2.8254"
+[1] "Empoli pass/shot Predicted Win %: 26.07"
+[1] "The pass/shot Predicted Draw % is: 23.7"
+[1] "Sampdoria pass/shot Predicted Win %: 50.23"
 [1] "--XG Model--"
 [1] "The xg model predicted score is Empoli 0.9574 to Sampdoria 1.4166"
 [1] "The xg model predicted total is 2.374"
@@ -14,69 +14,69 @@
 [1] "The xg model Predicted Draw % is: 26.43"
 [1] "Sampdoria xg model Predicted Win %: 47.41"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Empoli 1.1151 to Sampdoria 0.7079"
-[1] "The xgot model predicted total is 1.823"
-[1] "Empoli xgot model Predicted Win %: 45.18"
-[1] "The xgot model Predicted Draw % is: 32.38"
-[1] "Sampdoria xgot model Predicted Win %: 22.44"
+[1] "The xgot model predicted score is Empoli 0.9975 to Sampdoria 0.7718"
+[1] "The xgot model predicted total is 1.7693"
+[1] "Empoli xgot model Predicted Win %: 39.99"
+[1] "The xgot model Predicted Draw % is: 33.34"
+[1] "Sampdoria xgot model Predicted Win %: 26.67"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Empoli 1.0661 to Sampdoria 1.1116"
-[1] "The xa model predicted total is 2.1777"
-[1] "Empoli xa model Predicted Win %: 34.49"
-[1] "The xa model Predicted Draw % is: 29.62"
-[1] "Sampdoria xa model Predicted Win %: 35.89"
+[1] "The xa model predicted score is Empoli 0.9523 to Sampdoria 1.2535"
+[1] "The xa model predicted total is 2.2058"
+[1] "Empoli xa model Predicted Win %: 28.77"
+[1] "The xa model Predicted Draw % is: 28.49"
+[1] "Sampdoria xa model Predicted Win %: 42.74"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Empoli 1.23 to Sampdoria 1.223"
-[1] "The XGExp model predicted total is 2.453"
-[1] "Empoli XGExp model Predicted Win %: 36.56"
-[1] "The XGExp model Predicted Draw % is: 27.73"
-[1] "Sampdoria XGExp model Predicted Win %: 35.71"
+[1] "The XGExp model predicted score is Empoli 1.2189 to Sampdoria 1.2309"
+[1] "The XGExp model predicted total is 2.4498"
+[1] "Empoli XGExp model Predicted Win %: 36.09"
+[1] "The XGExp model Predicted Draw % is: 27.85"
+[1] "Sampdoria XGExp model Predicted Win %: 36.06"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Empoli 0.8303 to Sampdoria 0.9996"
-[1] "The XAExp model predicted total is 1.8299"
-[1] "Empoli XAExp model Predicted Win %: 29.35"
-[1] "The XAExp model Predicted Draw % is: 32.71"
-[1] "Sampdoria XAExp model Predicted Win %: 37.94"
+[1] "The XAExp model predicted score is Empoli 0.8756 to Sampdoria 1.123"
+[1] "The XAExp model predicted total is 1.9986"
+[1] "Empoli XAExp model Predicted Win %: 28.63"
+[1] "The XAExp model Predicted Draw % is: 30.8"
+[1] "Sampdoria XAExp model Predicted Win %: 40.57"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Empoli winning this match is 34.56 percent, with a minimum chance of 26.16 percent, and a maximum chance of 45.18 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 28.98 percent, with a minimum chance of 24.98 percent, and a maximum chance of 32.71 percent."
-[1] "Our modelled likelihood of Sampdoria winning this match is 36.46 percent, with a minimum chance of 22.44 percent, and a maximum chance of 47.41 percent."
-[1] "Our modelled likelihood of Empoli winning this match OR DRAW is 63.54 percent, with a minimum chance of 52.59 percent, and a maximum chance of 77.56 percent."
-[1] "Our modelled likelihood of Sampdoria winning this match OR DRAW is 65.44 percent, with a minimum chance of 54.82 percent, and a maximum chance of 73.84 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 38.88 percent, with a high likelihood of 53.05 and a low likelihood of 27.55 percent."
+[1] "Our modelled likelihood of Empoli winning this match is 30.95 percent, with a minimum chance of 26.07 percent, and a maximum chance of 39.99 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 28.43 percent, with a minimum chance of 23.7 percent, and a maximum chance of 33.34 percent."
+[1] "Our modelled likelihood of Sampdoria winning this match is 40.61 percent, with a minimum chance of 26.67 percent, and a maximum chance of 50.23 percent."
+[1] "Our modelled likelihood of Empoli winning this match OR DRAW is 59.39 percent, with a minimum chance of 49.77 percent, and a maximum chance of 73.33 percent."
+[1] "Our modelled likelihood of Sampdoria winning this match OR DRAW is 69.05 percent, with a minimum chance of 60.01 percent, and a maximum chance of 73.93 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 39.61 percent, with a high likelihood of 53.66 and a low likelihood of 26.12 percent."
 [1] "--Sportsbook Odds--"
-[1] "Empoli Barstool Odds are: 44.44"
-[1] "The Barstool Odds of a Draw are: 33.9"
+[1] "Empoli Barstool Odds are: 46.73"
+[1] "The Barstool Odds of a Draw are: 30.77"
 [1] "Sampdoria Barstool Odds are: 27.78"
-[1] "Empoli Adjusted Barstool Odds are: 41.877"
-[1] "The Adjusted Barstool Odds of a Draw are: 31.945"
-[1] "Sampdoria Adjusted Barstool Odds are: 26.178"
-[1] "Empoli's Barstool Odds to cover the -0.5 spread are: 43.86"
-[1] "Sampdoria's Barstool Odds to cover the 0.5 spread are: 60.24"
-[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17 percent chance of the over 2.5 hitting."
+[1] "Empoli Adjusted Barstool Odds are: 44.386"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.227"
+[1] "Sampdoria Adjusted Barstool Odds are: 26.387"
+[1] "Empoli's Barstool Odds to cover the -0.5 spread are: 47.17"
+[1] "Sampdoria's Barstool Odds to cover the 0.5 spread are: 57.14"
+[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-  bet           date_time
-1     2023-01-15 03:30:00
-[1] "New commit ID #4960"
+            bet           date_time
+1 Sampdoria ATS 2023-01-16 11:45:00
+[1] "New commit ID #5391"
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Mehdi Leris  SAM      3 1.94      0.5155  0.8599   0.3444   tackles Serie A         NA        NA         NA       NA
+1: Mehdi Leris  SAM      3 1.94      0.5155  0.8478   0.3323   tackles Serie A         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Mehdi Leris  SAM      5  4.3      0.2326  0.5748   0.3422   tackles Serie A         NA        NA         NA       NA
+1: Mehdi Leris  SAM      5  4.3      0.2326  0.5526     0.32   tackles Serie A         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Mehdi Leris  SAM      6 7.65      0.1307  0.4144   0.2837   tackles Serie A         NA        NA         NA       NA
+1: Mehdi Leris  SAM      6 7.65      0.1307  0.3919   0.2612   tackles Serie A         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Mehdi Leris  SAM      4 2.56      0.3906  0.7318   0.3412   tackles Serie A         NA        NA         NA       NA
+1: Mehdi Leris  SAM      4 2.56      0.3906  0.7135   0.3229   tackles Serie A         NA        NA         NA       NA
         player team number  odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Mehdi Leris  SAM      7 13.65      0.0733  0.2739   0.2006   tackles Serie A         NA        NA         NA       NA
+1: Mehdi Leris  SAM      7 13.65      0.0733  0.2545   0.1812   tackles Serie A         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Mehdi Leris  SAM      2 1.36      0.7353  0.9435   0.2082   tackles Serie A         NA        NA         NA       NA
+1: Mehdi Leris  SAM      2 1.36      0.7353  0.9375   0.2022   tackles Serie A         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Ronaldo Vieira  SAM      2 2.03      0.4926  0.8308   0.3382   tackles Serie A         NA        NA         NA       NA
+1: Ronaldo Vieira  SAM      2 2.03      0.4926  0.8191   0.3265   tackles Serie A         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Ronaldo Vieira  SAM      3  3.5      0.2857  0.6643   0.3786   tackles Serie A         NA        NA         NA       NA
+1: Ronaldo Vieira  SAM      3  3.5      0.2857  0.6468   0.3611   tackles Serie A         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Ronaldo Vieira  SAM      4 8.15      0.1227  0.4754   0.3527   tackles Serie A         NA        NA         NA       NA
+1: Ronaldo Vieira  SAM      4 8.15      0.1227  0.4557    0.333   tackles Serie A         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Ronaldo Vieira  SAM      6 24.2      0.0413  0.1741   0.1328   tackles Serie A         NA        NA         NA       NA
+1: Ronaldo Vieira  SAM      6 24.2      0.0413  0.1608   0.1195   tackles Serie A         NA        NA         NA       NA
            player team number  odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Ronaldo Vieira  SAM      5 16.35      0.0612  0.3038   0.2426   tackles Serie A         NA        NA         NA       NA
+1: Ronaldo Vieira  SAM      5 16.35      0.0612  0.2862    0.225   tackles Serie A         NA        NA         NA       NA
