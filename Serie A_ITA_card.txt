@@ -1,60 +1,5 @@
-[1] "Updated at 2023-01-15 10:55:20.453"
+[1] "Updated at 2023-01-15 20:41:22.635"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is AS Roma 1.1671 to Fiorentina 0.9058"
-[1] "The pass/shot predicted total is 2.0729"
-[1] "AS Roma pass/shot Predicted Win %: 41.6"
-[1] "The pass/shot Predicted Draw % is: 30.63"
-[1] "Fiorentina pass/shot Predicted Win %: 27.77"
-[1] "--XG Model--"
-[1] "The xg model predicted score is AS Roma 1.003 to Fiorentina 0.466"
-[1] "The xg model predicted total is 1.469"
-[1] "AS Roma xg model Predicted Win %: 48.6"
-[1] "The xg model Predicted Draw % is: 35.1"
-[1] "Fiorentina xg model Predicted Win %: 16.3"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is AS Roma 0.8528 to Fiorentina 0.3258"
-[1] "The xgot model predicted total is 1.1786"
-[1] "AS Roma xgot model Predicted Win %: 46.92"
-[1] "The xgot model Predicted Draw % is: 39.95"
-[1] "Fiorentina xgot model Predicted Win %: 13.13"
-[1] "--XA Model--"
-[1] "The xa model predicted score is AS Roma 1.38 to Fiorentina 1.1099"
-[1] "The xa model predicted total is 2.4899"
-[1] "AS Roma xa model Predicted Win %: 43.15"
-[1] "The xa model Predicted Draw % is: 27.19"
-[1] "Fiorentina xa model Predicted Win %: 29.66"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is AS Roma 0.9851 to Fiorentina 0.3964"
-[1] "The XGExp model predicted total is 1.3815"
-[1] "AS Roma XGExp model Predicted Win %: 49.89"
-[1] "The XGExp model Predicted Draw % is: 35.77"
-[1] "Fiorentina XGExp model Predicted Win %: 14.34"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is AS Roma 1.3241 to Fiorentina 0.9168"
-[1] "The XAExp model predicted total is 2.2409"
-[1] "AS Roma XAExp model Predicted Win %: 46.15"
-[1] "The XAExp model Predicted Draw % is: 28.52"
-[1] "Fiorentina XAExp model Predicted Win %: 25.33"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of AS Roma winning this match is 46.05 percent, with a minimum chance of 41.6 percent, and a maximum chance of 49.89 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 32.86 percent, with a minimum chance of 27.19 percent, and a maximum chance of 39.95 percent."
-[1] "Our modelled likelihood of Fiorentina winning this match is 21.09 percent, with a minimum chance of 13.13 percent, and a maximum chance of 29.66 percent."
-[1] "Our modelled likelihood of AS Roma winning this match OR DRAW is 78.91 percent, with a minimum chance of 70.34 percent, and a maximum chance of 86.87 percent."
-[1] "Our modelled likelihood of Fiorentina winning this match OR DRAW is 53.95 percent, with a minimum chance of 50.11 percent, and a maximum chance of 58.4 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 27.08 percent, with a high likelihood of 45.36 and a low likelihood of 11.59 percent."
-[1] "--Sportsbook Odds--"
-[1] "AS Roma Barstool Odds are: 47.62"
-[1] "The Barstool Odds of a Draw are: 30.3"
-[1] "Fiorentina Barstool Odds are: 27.78"
-[1] "AS Roma Adjusted Barstool Odds are: 45.052"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.666"
-[1] "Fiorentina Adjusted Barstool Odds are: 26.282"
-[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 47.17"
-[1] "Fiorentina's Barstool Odds to cover the 0.5 spread are: 57.14"
-[1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Empoli 1.3528 to Sampdoria 1.447"
@@ -112,9 +57,7 @@
 [1] "-----------------------------------"
   bet           date_time
 1     2023-01-15 03:30:00
-[1] "New commit ID #1676"
-              player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Cristiano Biraghi  FIO      4 5.15      0.1942  0.2973   0.1031   tackles Serie A         NA        NA         NA       NA
+[1] "New commit ID #4960"
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
 1: Mehdi Leris  SAM      3 1.94      0.5155  0.8599   0.3444   tackles Serie A         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
@@ -137,9 +80,3 @@
 1: Ronaldo Vieira  SAM      6 24.2      0.0413  0.1741   0.1328   tackles Serie A         NA        NA         NA       NA
            player team number  odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
 1: Ronaldo Vieira  SAM      5 16.35      0.0612  0.3038   0.2426   tackles Serie A         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Sofyan Amrabat  FIO      4   46          NA  0.1246   0.1029     shots Serie A     0.0217        NA         NA       NA
-           player team number  odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Sofyan Amrabat  FIO      2 10.05          NA  0.4852   0.3857     shots Serie A     0.0995        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
-1: Sofyan Amrabat  FIO      3   22          NA  0.2671   0.2216     shots Serie A     0.0455        NA         NA       NA
