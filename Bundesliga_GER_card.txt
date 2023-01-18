@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-16 09:46:17.788"
+[1] "Updated at 2023-01-18 15:01:38.505"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -45,15 +45,15 @@
 [1] "Our modelled likelihood of Bayern Munich winning this match OR DRAW is 65.61 percent, with a minimum chance of 56.37 percent, and a maximum chance of 74.43 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 74.26 percent, with a high likelihood of 88.42 and a low likelihood of 51.86 percent."
 [1] "--Sportsbook Odds--"
-[1] "RB Leipzig Barstool Odds are: 25"
+[1] "RB Leipzig Barstool Odds are: 25.64"
 [1] "The Barstool Odds of a Draw are: 25"
-[1] "Bayern Munich Barstool Odds are: 56.52"
-[1] "RB Leipzig Adjusted Barstool Odds are: 23.47"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.47"
-[1] "Bayern Munich Adjusted Barstool Odds are: 53.06"
-[1] "RB Leipzig's Barstool Odds to cover the 0.5 spread are: 48.31"
-[1] "Bayern Munich's Barstool Odds to cover the -0.5 spread are: 55.87"
-[1] "Barstool's line for the total is 2.5 at 1.42, which is a 70.42 percent chance of the over 2.5 hitting."
+[1] "Bayern Munich Barstool Odds are: 55.56"
+[1] "RB Leipzig Adjusted Barstool Odds are: 24.143"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.54"
+[1] "Bayern Munich Adjusted Barstool Odds are: 52.316"
+[1] "RB Leipzig's Barstool Odds to cover the 0.5 spread are: 49.02"
+[1] "Bayern Munich's Barstool Odds to cover the -0.5 spread are: 55.25"
+[1] "Barstool's line for the total is 2.5 at 1.4, which is a 71.43 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -100,15 +100,15 @@
 [1] "Our modelled likelihood of Schalke 04 winning this match OR DRAW is 21.72 percent, with a minimum chance of 13.55 percent, and a maximum chance of 28.09 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 52.88 percent, with a high likelihood of 65.63 and a low likelihood of 37.2 percent."
 [1] "--Sportsbook Odds--"
-[1] "Eintracht Frankfurt Barstool Odds are: 70.42"
-[1] "The Barstool Odds of a Draw are: 20.83"
-[1] "Schalke 04 Barstool Odds are: 14.81"
-[1] "Eintracht Frankfurt Adjusted Barstool Odds are: 66.396"
-[1] "The Adjusted Barstool Odds of a Draw are: 19.64"
-[1] "Schalke 04 Adjusted Barstool Odds are: 13.964"
-[1] "Eintracht Frankfurt's Barstool Odds to cover the -0.5 spread are: 69.93"
-[1] "Schalke 04's Barstool Odds to cover the 0.5 spread are: 33.9"
-[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29 percent chance of the over 2.5 hitting."
+[1] "Eintracht Frankfurt Barstool Odds are: 73.33"
+[1] "The Barstool Odds of a Draw are: 19.05"
+[1] "Schalke 04 Barstool Odds are: 13.33"
+[1] "Eintracht Frankfurt Adjusted Barstool Odds are: 69.369"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.021"
+[1] "Schalke 04 Adjusted Barstool Odds are: 12.61"
+[1] "Eintracht Frankfurt's Barstool Odds to cover the -0.5 spread are: 72.99"
+[1] "Schalke 04's Barstool Odds to cover the 0.5 spread are: 31.25"
+[1] "Barstool's line for the total is 2.5 at 1.53, which is a 65.36 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -386,14 +386,12 @@
 [1] "Barstool's line for the total is 2.5 at 1.4, which is a 71.43 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
                                   bet           date_time
-1                          RB Leipzig 2023-01-20 11:30:00
-2                      RB Leipzig ATS 2023-01-20 11:30:00
-3                 Eintracht Frankfurt 2023-01-21 06:30:00
-4  draw Borussia Dortmund/FC Augsburg 2023-01-22 06:30:00
-5                         FC Augsburg 2023-01-22 06:30:00
-6 under Borussia Dortmund/FC Augsburg 2023-01-22 06:30:00
-7                     FC Augsburg ATS 2023-01-22 06:30:00
-[1] "New commit ID #5580"
+1                      RB Leipzig ATS 2023-01-20 11:30:00
+2  draw Borussia Dortmund/FC Augsburg 2023-01-22 06:30:00
+3                         FC Augsburg 2023-01-22 06:30:00
+4 under Borussia Dortmund/FC Augsburg 2023-01-22 06:30:00
+5                     FC Augsburg ATS 2023-01-22 06:30:00
+[1] "New commit ID #8086"
       player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Alex Kral  S04      2 2.27      0.4405  0.7241   0.2836   tackles Bundesliga         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
@@ -402,10 +400,6 @@
 1: Alex Kral  S04      3 3.42      0.2924  0.5177   0.2253   tackles Bundesliga         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Alex Kral  S04      4  6.8      0.1471  0.3238   0.1767   tackles Bundesliga         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Julian Ryerson   UB      2 3.26          NA  0.4648   0.1581     shots Bundesliga     0.3067        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Julian Ryerson   UB      3 8.15          NA  0.2496   0.1269     shots Bundesliga     0.1227        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Ritsu Doan  SCF      2 2.25          NA  0.6739   0.2295     shots Bundesliga     0.4444        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
