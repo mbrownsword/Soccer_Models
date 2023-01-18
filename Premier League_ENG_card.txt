@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-18 11:08:01.682"
+[1] "Updated at 2023-01-18 11:26:46.763"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -45,19 +45,19 @@
 [1] "Our modelled likelihood of Manchester United winning this match OR DRAW is 80.93 percent, with a minimum chance of 70.4 percent, and a maximum chance of 88.08 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 40.55 percent, with a high likelihood of 57.95 and a low likelihood of 22.47 percent."
 [1] "--Sportsbook Odds--"
-[1] "Crystal Palace Barstool Odds are: 18.18"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Manchester United Barstool Odds are: 60.98"
-[1] "Crystal Palace Adjusted Barstool Odds are: 17.454"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.002"
-[1] "Manchester United Adjusted Barstool Odds are: 58.545"
-[1] "Crystal Palace's Barstool Odds to cover the 1 spread are: 55.56"
-[1] "Manchester United's Barstool Odds to cover the -1 spread are: 48.78"
-[1] "Barstool's line for the total is 2.5 at 1.85, which is a 54.05 percent chance of the over 2.5 hitting."
+[1] "Crystal Palace Barstool Odds are: 19.05"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Manchester United Barstool Odds are: 60.61"
+[1] "Crystal Palace Adjusted Barstool Odds are: 18.091"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.349"
+[1] "Manchester United Adjusted Barstool Odds are: 57.559"
+[1] "Crystal Palace's Barstool Odds to cover the 0.75 spread are: 50"
+[1] "Manchester United's Barstool Odds to cover the -0.75 spread are: 55.56"
+[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
   bet           date_time
 1     2023-01-18 12:00:00
-[1] "New commit ID #5324"
+[1] "New commit ID #3227"
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Luke Shaw  MUN      2 1.88      0.5319  0.6359    0.104   tackles Premier League          NA         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -94,10 +94,6 @@
 1: Aaron Wan-Bissaka  MUN     45 1.89          NA  0.6901    0.161    passes Premier League      0.5291         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Aaron Wan-Bissaka  MUN     41 1.54          NA  0.8622   0.2128    passes Premier League      0.6494         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Raphael Varane  MUN     49 1.85          NA  0.6735    0.133    passes Premier League      0.5405         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Raphael Varane  MUN     45 1.51          NA   0.846   0.1837    passes Premier League      0.6623         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Wilfried Zaha  CRY     21 1.53          NA  0.8431   0.1895    passes Premier League      0.6536         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -116,3 +112,5 @@
 1: Luke Shaw  MUN     65 1.57          NA  0.9963   0.3594    passes Premier League      0.6369         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Luke Shaw  MUN     81 2.88          NA  0.8085   0.4613    passes Premier League      0.3472         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Raphael Varane  MUN     46 1.58          NA  0.8093   0.1764    passes Premier League      0.6329         NA        NA         NA       NA
