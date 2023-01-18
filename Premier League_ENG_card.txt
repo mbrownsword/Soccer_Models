@@ -1,116 +1,84 @@
-[1] "Updated at 2023-01-18 11:26:46.763"
+[1] "Updated at 2023-01-18 14:01:57.579"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Crystal Palace 0.7802 to Manchester United 1.9132"
-[1] "The pass/shot predicted total is 2.6934"
-[1] "Crystal Palace pass/shot Predicted Win %: 14.74"
-[1] "The pass/shot Predicted Draw % is: 21.26"
-[1] "Manchester United pass/shot Predicted Win %: 64"
+[1] "The pass/shot predicted score is Manchester City 1.9332 to Tottenham Hotspur 1.6491"
+[1] "The pass/shot predicted total is 3.5823"
+[1] "Manchester City pass/shot Predicted Win %: 44.9"
+[1] "The pass/shot Predicted Draw % is: 22.08"
+[1] "Tottenham Hotspur pass/shot Predicted Win %: 33.02"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Crystal Palace 0.6484 to Manchester United 1.3575"
-[1] "The xg model predicted total is 2.0059"
-[1] "Crystal Palace xg model Predicted Win %: 18.18"
-[1] "The xg model Predicted Draw % is: 28.11"
-[1] "Manchester United xg model Predicted Win %: 53.71"
+[1] "The xg model predicted score is Manchester City 2.1117 to Tottenham Hotspur 1.3862"
+[1] "The xg model predicted total is 3.4979"
+[1] "Manchester City xg model Predicted Win %: 54.06"
+[1] "The xg model Predicted Draw % is: 21.48"
+[1] "Tottenham Hotspur xg model Predicted Win %: 24.46"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Crystal Palace 0.6093 to Manchester United 1.0219"
-[1] "The xgot model predicted total is 1.6312"
-[1] "Crystal Palace xgot model Predicted Win %: 21.56"
-[1] "The xgot model Predicted Draw % is: 33.86"
-[1] "Manchester United xgot model Predicted Win %: 44.58"
+[1] "The xgot model predicted score is Manchester City 2.2999 to Tottenham Hotspur 1.742"
+[1] "The xgot model predicted total is 4.0419"
+[1] "Manchester City xgot model Predicted Win %: 50.69"
+[1] "The xgot model Predicted Draw % is: 20.08"
+[1] "Tottenham Hotspur xgot model Predicted Win %: 29.23"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Crystal Palace 0.8289 to Manchester United 1.7246"
-[1] "The xa model predicted total is 2.5535"
-[1] "Crystal Palace xa model Predicted Win %: 18.44"
-[1] "The xa model Predicted Draw % is: 23.12"
-[1] "Manchester United xa model Predicted Win %: 58.44"
+[1] "The xa model predicted score is Manchester City 1.9472 to Tottenham Hotspur 1.1414"
+[1] "The xa model predicted total is 3.0886"
+[1] "Manchester City xa model Predicted Win %: 56.15"
+[1] "The xa model Predicted Draw % is: 22.18"
+[1] "Tottenham Hotspur xa model Predicted Win %: 21.67"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Crystal Palace 0.4633 to Manchester United 1.4764"
-[1] "The XGExp model predicted total is 1.9397"
-[1] "Crystal Palace XGExp model Predicted Win %: 11.92"
-[1] "The XGExp model Predicted Draw % is: 26.07"
-[1] "Manchester United XGExp model Predicted Win %: 62.01"
+[1] "The XGExp model predicted score is Manchester City 2.1109 to Tottenham Hotspur 2.647"
+[1] "The XGExp model predicted total is 4.7579"
+[1] "Manchester City XGExp model Predicted Win %: 31.83"
+[1] "The XGExp model Predicted Draw % is: 18.1"
+[1] "Tottenham Hotspur XGExp model Predicted Win %: 50.07"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Crystal Palace 1.3003 to Manchester United 1.7115"
-[1] "The XAExp model predicted total is 3.0118"
-[1] "Crystal Palace XAExp model Predicted Win %: 29.6"
-[1] "The XAExp model Predicted Draw % is: 23.4"
-[1] "Manchester United XAExp model Predicted Win %: 47"
+[1] "The XAExp model predicted score is Manchester City 2.361 to Tottenham Hotspur 1.5674"
+[1] "The XAExp model predicted total is 3.9284"
+[1] "Manchester City XAExp model Predicted Win %: 55.68"
+[1] "The XAExp model Predicted Draw % is: 19.5"
+[1] "Tottenham Hotspur XAExp model Predicted Win %: 24.82"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Crystal Palace winning this match is 19.07 percent, with a minimum chance of 11.92 percent, and a maximum chance of 29.6 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 25.97 percent, with a minimum chance of 21.26 percent, and a maximum chance of 33.86 percent."
-[1] "Our modelled likelihood of Manchester United winning this match is 54.96 percent, with a minimum chance of 44.58 percent, and a maximum chance of 64 percent."
-[1] "Our modelled likelihood of Crystal Palace winning this match OR DRAW is 45.04 percent, with a minimum chance of 36 percent, and a maximum chance of 55.42 percent."
-[1] "Our modelled likelihood of Manchester United winning this match OR DRAW is 80.93 percent, with a minimum chance of 70.4 percent, and a maximum chance of 88.08 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 40.55 percent, with a high likelihood of 57.95 and a low likelihood of 22.47 percent."
+[1] "Our modelled likelihood of Manchester City winning this match is 48.88 percent, with a minimum chance of 31.83 percent, and a maximum chance of 56.15 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 20.57 percent, with a minimum chance of 18.1 percent, and a maximum chance of 22.18 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 30.55 percent, with a minimum chance of 21.67 percent, and a maximum chance of 50.07 percent."
+[1] "Our modelled likelihood of Manchester City winning this match OR DRAW is 69.46 percent, with a minimum chance of 49.93 percent, and a maximum chance of 78.33 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 51.12 percent, with a minimum chance of 43.85 percent, and a maximum chance of 68.17 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 73.37 percent, with a high likelihood of 85.34 and a low likelihood of 59.64 percent."
 [1] "--Sportsbook Odds--"
-[1] "Crystal Palace Barstool Odds are: 19.05"
-[1] "The Barstool Odds of a Draw are: 25.64"
-[1] "Manchester United Barstool Odds are: 60.61"
-[1] "Crystal Palace Adjusted Barstool Odds are: 18.091"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.349"
-[1] "Manchester United Adjusted Barstool Odds are: 57.559"
-[1] "Crystal Palace's Barstool Odds to cover the 0.75 spread are: 50"
-[1] "Manchester United's Barstool Odds to cover the -0.75 spread are: 55.56"
-[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76 percent chance of the over 2.5 hitting."
+[1] "Manchester City Barstool Odds are: 74.07"
+[1] "The Barstool Odds of a Draw are: 17.86"
+[1] "Tottenham Hotspur Barstool Odds are: 12.5"
+[1] "Manchester City Adjusted Barstool Odds are: 70.928"
+[1] "The Adjusted Barstool Odds of a Draw are: 17.102"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 11.97"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 73.53"
+[1] "Tottenham Hotspur's Barstool Odds to cover the 0.5 spread are: 30.77"
+[1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-  bet           date_time
-1     2023-01-18 12:00:00
-[1] "New commit ID #3227"
+                                     bet           date_time
+1 draw Manchester City/Tottenham Hotspur 2023-01-19 12:00:00
+2                      Tottenham Hotspur 2023-01-19 12:00:00
+3                  Tottenham Hotspur ATS 2023-01-19 12:00:00
+[1] "New commit ID #7847"
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN      2 1.88      0.5319  0.6359    0.104   tackles Premier League          NA         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lisandro Martinez  MUN      4  4.8      0.2083  0.3233    0.115   tackles Premier League          NA         NA        NA         NA       NA
+1: Eric Dier  TOT     50 1.88          NA  0.8012   0.2693    passes Premier League      0.5319         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     54 2.13          NA  0.6186   0.1491    passes Premier League      0.4695         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     46 1.58          NA    0.92   0.2871    passes Premier League      0.6329         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     40 1.85          NA  0.8628   0.3223    passes Premier League      0.5405         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     44 2.16          NA  0.6887   0.2257    passes Premier League       0.463         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     36 1.58          NA  0.9567   0.3238    passes Premier League      0.6329         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Bruno Fernandes  MUN     47 1.59          NA  0.8113   0.1824    passes Premier League      0.6289         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     55 1.54          NA  0.9194     0.27    passes Premier League      0.6494         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     59  1.7          NA  0.8124   0.2242    passes Premier League      0.5882         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Eriksen  MUN     63 1.98          NA  0.6494   0.1443    passes Premier League      0.5051         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     64 1.88          NA  0.9356   0.4037    passes Premier League      0.5319         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     72 2.44          NA  0.7165   0.3067    passes Premier League      0.4098         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     68 2.17          NA   0.851   0.3902    passes Premier League      0.4608         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     76  2.9          NA  0.5447   0.1999    passes Premier League      0.3448         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Casemiro  MUN     60 1.59          NA  0.9776   0.3487    passes Premier League      0.6289         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lisandro Martinez  MUN     66 1.85          NA  0.8884   0.3479    passes Premier League      0.5405         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lisandro Martinez  MUN     70 2.12          NA  0.7717      0.3    passes Premier League      0.4717         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lisandro Martinez  MUN     74 2.32          NA  0.6101   0.1791    passes Premier League       0.431         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Lisandro Martinez  MUN     62 1.61          NA  0.9555   0.3344    passes Premier League      0.6211         NA        NA         NA       NA
-                 player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jean-Philippe Mateta  CRY     12 1.51          NA  0.8911   0.2288    passes Premier League      0.6623         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Aaron Wan-Bissaka  MUN     45 1.89          NA  0.6901    0.161    passes Premier League      0.5291         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Aaron Wan-Bissaka  MUN     41 1.54          NA  0.8622   0.2128    passes Premier League      0.6494         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Wilfried Zaha  CRY     21 1.53          NA  0.8431   0.1895    passes Premier League      0.6536         NA        NA         NA       NA
+1: Kevin De Bruyne  MCI     44 1.51          NA  0.7625   0.1002    passes Premier League      0.6623         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     95 1.88          NA  0.6447   0.1128    passes Premier League      0.5319         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     91 1.59          NA  0.7824   0.1535    passes Premier League      0.6289         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Marcus Rashford  MUN     27 1.87          NA  0.7396   0.2048    passes Premier League      0.5348         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Marcus Rashford  MUN     23 1.53          NA  0.9203   0.2667    passes Premier League      0.6536         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN     77 2.42          NA  0.9052    0.492    passes Premier League      0.4132         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN     73 2.15          NA  0.9607   0.4956    passes Premier League      0.4651         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN     69 1.84          NA  0.9866   0.4431    passes Premier League      0.5435         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN     85 3.65          NA    0.67    0.396    passes Premier League       0.274         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN     65 1.57          NA  0.9963   0.3594    passes Premier League      0.6369         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luke Shaw  MUN     81 2.88          NA  0.8085   0.4613    passes Premier League      0.3472         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Raphael Varane  MUN     46 1.58          NA  0.8093   0.1764    passes Premier League      0.6329         NA        NA         NA       NA
+1: Cristian Romero  TOT     46 1.58          NA  0.7603   0.1274    passes Premier League      0.6329         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     17 1.51          NA  0.8614   0.1991    passes Premier League      0.6623         NA        NA         NA       NA
