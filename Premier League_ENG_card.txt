@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-19 11:05:08.721"
+[1] "Updated at 2023-01-19 11:26:19.245"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -45,20 +45,19 @@
 [1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 45.83 percent, with a minimum chance of 37.56 percent, and a maximum chance of 57.25 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 59.86 percent, with a high likelihood of 74.71 and a low likelihood of 46.52 percent."
 [1] "--Sportsbook Odds--"
-[1] "Manchester City Barstool Odds are: 71.43"
-[1] "The Barstool Odds of a Draw are: 19.23"
-[1] "Tottenham Hotspur Barstool Odds are: 14.29"
-[1] "Manchester City Adjusted Barstool Odds are: 68.061"
-[1] "The Adjusted Barstool Odds of a Draw are: 18.323"
-[1] "Tottenham Hotspur Adjusted Barstool Odds are: 13.616"
-[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 70.42"
-[1] "Tottenham Hotspur's Barstool Odds to cover the 0.5 spread are: 33.9"
-[1] "Barstool's line for the total is 2.5 at 1.48, which is a 67.57 percent chance of the over 2.5 hitting."
+[1] "Manchester City Barstool Odds are: 67.57"
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Tottenham Hotspur Barstool Odds are: 15.38"
+[1] "Manchester City Adjusted Barstool Odds are: 64.543"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.766"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 14.691"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 67.11"
+[1] "Tottenham Hotspur's Barstool Odds to cover the 0.5 spread are: 37.74"
+[1] "Barstool's line for the total is 2.5 at 1.53, which is a 65.36 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-                    bet           date_time
-1     Tottenham Hotspur 2023-01-19 12:00:00
-2 Tottenham Hotspur ATS 2023-01-19 12:00:00
-[1] "New commit ID #6603"
+                bet           date_time
+1 Tottenham Hotspur 2023-01-19 12:00:00
+[1] "New commit ID #5930"
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Eric Dier  TOT     50 1.88          NA  0.9617   0.4298    passes Premier League      0.5319         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -103,10 +102,6 @@
 1: Son Heung-Min  TOT     23 1.85          NA  0.9135    0.373    passes Premier League      0.5405         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Son Heung-Min  TOT     19 1.51          NA  0.9851   0.3228    passes Premier League      0.6623         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rico Lewis  MCI     43 1.51          NA  0.8414   0.1791    passes Premier League      0.6623         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rico Lewis  MCI     47 1.85          NA   0.662   0.1215    passes Premier League      0.5405         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Cristian Romero  TOT     54 2.17          NA  0.6523   0.1915    passes Premier League      0.4608         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
