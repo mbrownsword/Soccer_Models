@@ -1,84 +1,131 @@
-[1] "Updated at 2023-01-18 14:01:57.579"
+[1] "Updated at 2023-01-19 11:05:08.721"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Manchester City 1.9332 to Tottenham Hotspur 1.6491"
-[1] "The pass/shot predicted total is 3.5823"
-[1] "Manchester City pass/shot Predicted Win %: 44.9"
-[1] "The pass/shot Predicted Draw % is: 22.08"
-[1] "Tottenham Hotspur pass/shot Predicted Win %: 33.02"
+[1] "The pass/shot predicted score is Manchester City 1.6603 to Tottenham Hotspur 1.271"
+[1] "The pass/shot predicted total is 2.9313"
+[1] "Manchester City pass/shot Predicted Win %: 46.61"
+[1] "The pass/shot Predicted Draw % is: 24.61"
+[1] "Tottenham Hotspur pass/shot Predicted Win %: 28.78"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Manchester City 2.1117 to Tottenham Hotspur 1.3862"
-[1] "The xg model predicted total is 3.4979"
-[1] "Manchester City xg model Predicted Win %: 54.06"
-[1] "The xg model Predicted Draw % is: 21.48"
-[1] "Tottenham Hotspur xg model Predicted Win %: 24.46"
+[1] "The xg model predicted score is Manchester City 1.7457 to Tottenham Hotspur 0.7894"
+[1] "The xg model predicted total is 2.5351"
+[1] "Manchester City xg model Predicted Win %: 60.2"
+[1] "The xg model Predicted Draw % is: 23.49"
+[1] "Tottenham Hotspur xg model Predicted Win %: 16.31"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Manchester City 2.2999 to Tottenham Hotspur 1.742"
-[1] "The xgot model predicted total is 4.0419"
-[1] "Manchester City xgot model Predicted Win %: 50.69"
-[1] "The xgot model Predicted Draw % is: 20.08"
-[1] "Tottenham Hotspur xgot model Predicted Win %: 29.23"
+[1] "The xgot model predicted score is Manchester City 1.6142 to Tottenham Hotspur 1.0017"
+[1] "The xgot model predicted total is 2.6159"
+[1] "Manchester City xgot model Predicted Win %: 51.69"
+[1] "The xgot model Predicted Draw % is: 25.16"
+[1] "Tottenham Hotspur xgot model Predicted Win %: 23.15"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Manchester City 1.9472 to Tottenham Hotspur 1.1414"
-[1] "The xa model predicted total is 3.0886"
-[1] "Manchester City xa model Predicted Win %: 56.15"
-[1] "The xa model Predicted Draw % is: 22.18"
-[1] "Tottenham Hotspur xa model Predicted Win %: 21.67"
+[1] "The xa model predicted score is Manchester City 1.98 to Tottenham Hotspur 0.9064"
+[1] "The xa model predicted total is 2.8864"
+[1] "Manchester City xa model Predicted Win %: 62.44"
+[1] "The xa model Predicted Draw % is: 21.41"
+[1] "Tottenham Hotspur xa model Predicted Win %: 16.15"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Manchester City 2.1109 to Tottenham Hotspur 2.647"
-[1] "The XGExp model predicted total is 4.7579"
-[1] "Manchester City XGExp model Predicted Win %: 31.83"
-[1] "The XGExp model Predicted Draw % is: 18.1"
-[1] "Tottenham Hotspur XGExp model Predicted Win %: 50.07"
+[1] "The XGExp model predicted score is Manchester City 2.0307 to Tottenham Hotspur 1.8706"
+[1] "The XGExp model predicted total is 3.9013"
+[1] "Manchester City XGExp model Predicted Win %: 42.75"
+[1] "The XGExp model Predicted Draw % is: 20.93"
+[1] "Tottenham Hotspur XGExp model Predicted Win %: 36.32"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Manchester City 2.361 to Tottenham Hotspur 1.5674"
-[1] "The XAExp model predicted total is 3.9284"
-[1] "Manchester City XAExp model Predicted Win %: 55.68"
-[1] "The XAExp model Predicted Draw % is: 19.5"
-[1] "Tottenham Hotspur XAExp model Predicted Win %: 24.82"
+[1] "The XAExp model predicted score is Manchester City 2.3947 to Tottenham Hotspur 1.3302"
+[1] "The XAExp model predicted total is 3.7249"
+[1] "Manchester City XAExp model Predicted Win %: 61.31"
+[1] "The XAExp model Predicted Draw % is: 18.99"
+[1] "Tottenham Hotspur XAExp model Predicted Win %: 19.7"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Manchester City winning this match is 48.88 percent, with a minimum chance of 31.83 percent, and a maximum chance of 56.15 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 20.57 percent, with a minimum chance of 18.1 percent, and a maximum chance of 22.18 percent."
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 30.55 percent, with a minimum chance of 21.67 percent, and a maximum chance of 50.07 percent."
-[1] "Our modelled likelihood of Manchester City winning this match OR DRAW is 69.46 percent, with a minimum chance of 49.93 percent, and a maximum chance of 78.33 percent."
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 51.12 percent, with a minimum chance of 43.85 percent, and a maximum chance of 68.17 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 73.37 percent, with a high likelihood of 85.34 and a low likelihood of 59.64 percent."
+[1] "Our modelled likelihood of Manchester City winning this match is 54.17 percent, with a minimum chance of 42.75 percent, and a maximum chance of 62.44 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 22.43 percent, with a minimum chance of 18.99 percent, and a maximum chance of 25.16 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 23.4 percent, with a minimum chance of 16.15 percent, and a maximum chance of 36.32 percent."
+[1] "Our modelled likelihood of Manchester City winning this match OR DRAW is 76.6 percent, with a minimum chance of 63.68 percent, and a maximum chance of 83.85 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 45.83 percent, with a minimum chance of 37.56 percent, and a maximum chance of 57.25 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 59.86 percent, with a high likelihood of 74.71 and a low likelihood of 46.52 percent."
 [1] "--Sportsbook Odds--"
-[1] "Manchester City Barstool Odds are: 74.07"
-[1] "The Barstool Odds of a Draw are: 17.86"
-[1] "Tottenham Hotspur Barstool Odds are: 12.5"
-[1] "Manchester City Adjusted Barstool Odds are: 70.928"
-[1] "The Adjusted Barstool Odds of a Draw are: 17.102"
-[1] "Tottenham Hotspur Adjusted Barstool Odds are: 11.97"
-[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 73.53"
-[1] "Tottenham Hotspur's Barstool Odds to cover the 0.5 spread are: 30.77"
-[1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94 percent chance of the over 2.5 hitting."
+[1] "Manchester City Barstool Odds are: 71.43"
+[1] "The Barstool Odds of a Draw are: 19.23"
+[1] "Tottenham Hotspur Barstool Odds are: 14.29"
+[1] "Manchester City Adjusted Barstool Odds are: 68.061"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.323"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 13.616"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 70.42"
+[1] "Tottenham Hotspur's Barstool Odds to cover the 0.5 spread are: 33.9"
+[1] "Barstool's line for the total is 2.5 at 1.48, which is a 67.57 percent chance of the over 2.5 hitting."
 [1] "-----------------------------------"
-                                     bet           date_time
-1 draw Manchester City/Tottenham Hotspur 2023-01-19 12:00:00
-2                      Tottenham Hotspur 2023-01-19 12:00:00
-3                  Tottenham Hotspur ATS 2023-01-19 12:00:00
-[1] "New commit ID #7847"
+                    bet           date_time
+1     Tottenham Hotspur 2023-01-19 12:00:00
+2 Tottenham Hotspur ATS 2023-01-19 12:00:00
+[1] "New commit ID #6603"
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Eric Dier  TOT     50 1.88          NA  0.8012   0.2693    passes Premier League      0.5319         NA        NA         NA       NA
+1: Eric Dier  TOT     50 1.88          NA  0.9617   0.4298    passes Premier League      0.5319         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Eric Dier  TOT     54 2.13          NA  0.6186   0.1491    passes Premier League      0.4695         NA        NA         NA       NA
+1: Eric Dier  TOT     62 2.85          NA  0.5824   0.2315    passes Premier League      0.3509         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Eric Dier  TOT     46 1.58          NA    0.92   0.2871    passes Premier League      0.6329         NA        NA         NA       NA
+1: Eric Dier  TOT     58  2.4          NA  0.7632   0.3465    passes Premier League      0.4167         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     54 2.13          NA   0.892   0.4225    passes Premier League      0.4695         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     66  3.6          NA  0.3859   0.1081    passes Premier League      0.2778         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     46 1.58          NA  0.9898   0.3569    passes Premier League      0.6329         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ben Davies  TOT     40 1.85          NA  0.8628   0.3223    passes Premier League      0.5405         NA        NA         NA       NA
+1: Ben Davies  TOT     40 1.85          NA  0.9776   0.4371    passes Premier League      0.5405         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ben Davies  TOT     44 2.16          NA  0.6887   0.2257    passes Premier League       0.463         NA        NA         NA       NA
+1: Ben Davies  TOT     44 2.16          NA  0.9221   0.4591    passes Premier League       0.463         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ben Davies  TOT     36 1.58          NA  0.9567   0.3238    passes Premier League      0.6329         NA        NA         NA       NA
+1: Ben Davies  TOT     48 2.41          NA  0.8022   0.3873    passes Premier League      0.4149         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     52 2.84          NA  0.6158   0.2637    passes Premier League      0.3521         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     56 3.55          NA  0.4026   0.1209    passes Premier League      0.2817         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     36 1.58          NA  0.9955   0.3626    passes Premier League      0.6329         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Harry Kane  TOT     18 1.85          NA  0.7327   0.1922    passes Premier League      0.5405         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Harry Kane  TOT     14 1.51          NA  0.9408   0.2785    passes Premier League      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     25  2.8          NA  0.7595   0.4024    passes Premier League      0.3571         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     17 1.87          NA  0.9904   0.4556    passes Premier League      0.5348         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     21 2.33          NA   0.933   0.5038    passes Premier League      0.4292         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     29  3.6          NA  0.4804   0.2026    passes Premier League      0.2778         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     13 1.53          NA  0.9994   0.3458    passes Premier League      0.6536         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     27  2.3          NA  0.7246   0.2898    passes Premier League      0.4348         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     23 1.85          NA  0.9135    0.373    passes Premier League      0.5405         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     19 1.51          NA  0.9851   0.3228    passes Premier League      0.6623         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Rico Lewis  MCI     43 1.51          NA  0.8414   0.1791    passes Premier League      0.6623         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Rico Lewis  MCI     47 1.85          NA   0.662   0.1215    passes Premier League      0.5405         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kevin De Bruyne  MCI     44 1.51          NA  0.7625   0.1002    passes Premier League      0.6623         NA        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Rodri  MCI     95 1.88          NA  0.6447   0.1128    passes Premier League      0.5319         NA        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Rodri  MCI     91 1.59          NA  0.7824   0.1535    passes Premier League      0.6289         NA        NA         NA       NA
+1: Cristian Romero  TOT     54 2.17          NA  0.6523   0.1915    passes Premier League      0.4608         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Cristian Romero  TOT     46 1.58          NA  0.7603   0.1274    passes Premier League      0.6329         NA        NA         NA       NA
+1: Cristian Romero  TOT     50 1.85          NA   0.825   0.2845    passes Premier League      0.5405         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Cristian Romero  TOT     46 1.58          NA  0.9322   0.2993    passes Premier League      0.6329         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Julian Alvarez  MCI     26 2.31          NA    0.81   0.3771    passes Premier League      0.4329         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Julian Alvarez  MCI     30 2.78          NA  0.5562   0.1965    passes Premier League      0.3597         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Julian Alvarez  MCI     22 1.86          NA  0.9507   0.4131    passes Premier League      0.5376         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Julian Alvarez  MCI     18 1.52          NA  0.9933   0.3354    passes Premier League      0.6579         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Dejan Kulusevski  TOT     17 1.51          NA  0.8614   0.1991    passes Premier League      0.6623         NA        NA         NA       NA
+1: Dejan Kulusevski  TOT     17 1.51          NA  0.8014   0.1391    passes Premier League      0.6623         NA        NA         NA       NA
+                  player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pierre-Emile Hojbjerg  TOT     52    2          NA  0.6456   0.1456    passes Premier League         0.5         NA        NA         NA       NA
+                  player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pierre-Emile Hojbjerg  TOT     48 1.88          NA  0.8231   0.2912    passes Premier League      0.5319         NA        NA         NA       NA
+                  player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pierre-Emile Hojbjerg  TOT     44 1.54          NA  0.9328   0.2834    passes Premier League      0.6494         NA        NA         NA       NA
