@@ -1,137 +1,5 @@
-[1] "Updated at 2023-01-20 11:23:02.907"
+[1] "Updated at 2023-01-20 14:16:09.779"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Sheffield United 1.4643 to Hull City 0.7196"
-[1] "The pass/shot predicted total is 2.1839"
-[1] "Sheffield United pass/shot Predicted Win %: 54.98"
-[1] "The pass/shot Predicted Draw % is: 26.81"
-[1] "Hull City pass/shot Predicted Win %: 18.21"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Sheffield United 1.6931 to Hull City 0.6233"
-[1] "The xg model predicted total is 2.3164"
-[1] "Sheffield United xg model Predicted Win %: 62.54"
-[1] "The xg model Predicted Draw % is: 24.2"
-[1] "Hull City xg model Predicted Win %: 13.26"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Sheffield United 1.3071 to Hull City 1.1903"
-[1] "The xgot model predicted total is 2.4974"
-[1] "Sheffield United xgot model Predicted Win %: 39.44"
-[1] "The xgot model Predicted Draw % is: 26.68"
-[1] "Hull City xgot model Predicted Win %: 33.88"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Sheffield United 1.9809 to Hull City 1.0998"
-[1] "The xa model predicted total is 3.0807"
-[1] "Sheffield United xa model Predicted Win %: 57.4"
-[1] "The xa model Predicted Draw % is: 21.6"
-[1] "Hull City xa model Predicted Win %: 21"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Sheffield United 2.4589 to Hull City 1.0593"
-[1] "The XGExp model predicted total is 3.5182"
-[1] "Sheffield United XGExp model Predicted Win %: 68.4"
-[1] "The XGExp model Predicted Draw % is: 17.53"
-[1] "Hull City XGExp model Predicted Win %: 14.07"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Sheffield United 2.2119 to Hull City 1.1269"
-[1] "The XAExp model predicted total is 3.3388"
-[1] "Sheffield United XAExp model Predicted Win %: 62.16"
-[1] "The XAExp model Predicted Draw % is: 19.89"
-[1] "Hull City XAExp model Predicted Win %: 17.95"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Sheffield United winning this match is 57.49 percent, with a minimum chance of 39.44 percent, and a maximum chance of 68.4 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 22.78 percent, with a minimum chance of 17.53 percent, and a maximum chance of 26.81 percent."
-[1] "Our modelled likelihood of Hull City winning this match is 19.73 percent, with a minimum chance of 13.26 percent, and a maximum chance of 33.88 percent."
-[1] "Our modelled likelihood of Sheffield United winning this match OR DRAW is 80.27 percent, with a minimum chance of 66.12 percent, and a maximum chance of 86.74 percent."
-[1] "Our modelled likelihood of Hull City winning this match OR DRAW is 42.51 percent, with a minimum chance of 31.6 percent, and a maximum chance of 60.56 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 53.59 percent, with a high likelihood of 68.25 and a low likelihood of 37.3 percent."
-[1] "--Sportsbook Odds--"
-[1] "Sheffield United Barstool Odds are: 62.5"
-[1] "The Barstool Odds of a Draw are: 26.67"
-[1] "Hull City Barstool Odds are: 17.39"
-[1] "Sheffield United Adjusted Barstool Odds are: 58.652"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.028"
-[1] "Hull City Adjusted Barstool Odds are: 16.319"
-[1] "Sheffield United's Barstool Odds to cover the -0.5 spread are: 62.5"
-[1] "Hull City's Barstool Odds to cover the 0.5 spread are: 42.55"
-[1] "Barstool's line for the total is 2.5 at 1.96, which is a 51.02 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-
-/players/1253827/daniel-jebbison    /players/202181/jack-robinson   /players/210971/oliver-norwood        /players/295062/john-egan         /players/492589/max-lowe     /players/540963/sander-berge 
-                          0.0878                           0.1954                           0.0273                           0.0726                           0.0722                           0.1231 
-    /players/789646/jayden-bogle /players/793820/anel-ahmedhodzic     /players/940442/thomas-doyle    /players/965764/iliman-ndiaye                             none 
-                          0.3353                           0.1992                           0.0333                           0.4193                           0.1711 
-
-   /players/1079103/jacob-greaves    /players/212418/cyrus-christie     /players/430429/greg-docherty /players/470539/jean-michael-seri   /players/683880/oscar-estupinan 
-                           0.1240                            0.0905                            0.0458                            0.0983                            0.4114 
-     /players/807930/regan-slater                              none 
-                           0.0414                            0.3927 
-[1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Burnley 1.3085 to West Bromwich Albion 1.0661"
-[1] "The pass/shot predicted total is 2.3746"
-[1] "Burnley pass/shot Predicted Win %: 43.34"
-[1] "The pass/shot Predicted Draw % is: 26.85"
-[1] "West Bromwich Albion pass/shot Predicted Win %: 29.81"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Burnley 1.5307 to West Bromwich Albion 1.503"
-[1] "The xg model predicted total is 3.0337"
-[1] "Burnley xg model Predicted Win %: 38.99"
-[1] "The xg model Predicted Draw % is: 24.09"
-[1] "West Bromwich Albion xg model Predicted Win %: 36.92"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Burnley 1.8597 to West Bromwich Albion 1.415"
-[1] "The xgot model predicted total is 3.2747"
-[1] "Burnley xgot model Predicted Win %: 47.88"
-[1] "The xgot model Predicted Draw % is: 22.54"
-[1] "West Bromwich Albion xgot model Predicted Win %: 29.58"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Burnley 0.9122 to West Bromwich Albion 1.0996"
-[1] "The xa model predicted total is 2.0118"
-[1] "Burnley xa model Predicted Win %: 30.29"
-[1] "The xa model Predicted Draw % is: 30.74"
-[1] "West Bromwich Albion xa model Predicted Win %: 38.97"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Burnley 2.5036 to West Bromwich Albion 1.6094"
-[1] "The XGExp model predicted total is 4.113"
-[1] "Burnley XGExp model Predicted Win %: 57.25"
-[1] "The XGExp model Predicted Draw % is: 18.71"
-[1] "West Bromwich Albion XGExp model Predicted Win %: 24.04"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Burnley 1.5393 to West Bromwich Albion 1.0492"
-[1] "The XAExp model predicted total is 2.5885"
-[1] "Burnley XAExp model Predicted Win %: 48.43"
-[1] "The XAExp model Predicted Draw % is: 25.43"
-[1] "West Bromwich Albion XAExp model Predicted Win %: 26.14"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Burnley winning this match is 44.36 percent, with a minimum chance of 30.29 percent, and a maximum chance of 57.25 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 24.73 percent, with a minimum chance of 18.71 percent, and a maximum chance of 30.74 percent."
-[1] "Our modelled likelihood of West Bromwich Albion winning this match is 30.91 percent, with a minimum chance of 24.04 percent, and a maximum chance of 38.97 percent."
-[1] "Our modelled likelihood of Burnley winning this match OR DRAW is 69.09 percent, with a minimum chance of 61.03 percent, and a maximum chance of 75.96 percent."
-[1] "Our modelled likelihood of West Bromwich Albion winning this match OR DRAW is 55.64 percent, with a minimum chance of 42.75 percent, and a maximum chance of 69.71 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 55.39 percent, with a high likelihood of 77.8 and a low likelihood of 32.65 percent."
-[1] "--Sportsbook Odds--"
-[1] "Burnley Barstool Odds are: 45.45"
-[1] "The Barstool Odds of a Draw are: 31.75"
-[1] "West Bromwich Albion Barstool Odds are: 28.99"
-[1] "Burnley Adjusted Barstool Odds are: 42.801"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.899"
-[1] "West Bromwich Albion Adjusted Barstool Odds are: 27.3"
-[1] "Burnley's Barstool Odds to cover the -0.5 spread are: 45.45"
-[1] "West Bromwich Albion's Barstool Odds to cover the 0.5 spread are: 59.52"
-[1] "Barstool's line for the total is 2.5 at 2.33, which is a 42.92 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-
-/players/1069536/anass-zaroury  /players/107280/ashley-barnes /players/289137/charlie-taylor /players/484878/connor-roberts /players/494597/josh-brownhill /players/559077/samuel-bastien 
-                        0.3156                         0.2015                         0.0165                         0.0839                         0.1548                         0.0648 
-   /players/623716/josh-cullen    /players/861447/louis-beyer   /players/877700/nathan-tella    /players/966026/ian-maatsen                           none 
-                        0.0141                         0.1049                         0.2632                         0.1859                         0.2256 
-
-    /players/1136396/daryl-dike    /players/214339/okay-yokuslu     /players/287892/jed-wallace  /players/295069/conor-townsend      /players/541822/john-swift /players/609733/darnell-furlong 
-                         0.2975                          0.2174                          0.1075                          0.0711                          0.0940                          0.0854 
- /players/654091/grady-diangana  /players/789574/jayson-molumby      /players/789578/dara-oshea                            none 
-                         0.1102                          0.0668                          0.0990                          0.2880 
-[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Coventry City 1.6124 to Norwich City 1.2282"
@@ -183,20 +51,10 @@
 [1] "Coventry City Adjusted Barstool Odds are: 33.537"
 [1] "The Adjusted Barstool Odds of a Draw are: 28.897"
 [1] "Norwich City Adjusted Barstool Odds are: 37.566"
-[1] "Coventry City's Barstool Odds to cover the -0.5 spread are: 35.09"
-[1] "Norwich City's Barstool Odds to cover the 0.5 spread are: 69.44"
+[1] "Coventry City's Barstool Odds to cover the 0.5 spread are: 65.36"
+[1] "Norwich City's Barstool Odds to cover the -0.5 spread are: 39.22"
 [1] "Barstool's line for the total is 2.5 at 1.9, which is a 52.63 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-   /players/184367/matt-godden   /players/191174/jake-bidwell /players/213066/kyle-mcfadzean    /players/426180/jamie-allen /players/664500/viktor-gykeres      /players/689302/ben-sheaf 
-                        0.1815                         0.0513                         0.0927                         0.0760                         0.5704                         0.0148 
- /players/775355/gustavo-hamer /players/955366/jonathan-panzo                           none 
-                        0.2491                         0.0053                         0.2110 
-
-/players/1050822/andrew-omobamidele       /players/1113670/aaron-ramsey    /players/1129081/marcelino-nunez        /players/202180/grant-hanley          /players/66578/teemu-pukki 
-                             0.2606                              0.1543                              0.0505                              0.0506                              0.2329 
-     /players/848011/joshua-sargent        /players/902710/gabriel-sara          /players/956621/max-aarons                                none 
-                             0.2356                              0.0003                              0.0888                              0.3012 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -253,16 +111,6 @@
 [1] "Preston North End's Barstool Odds to cover the 0.5 spread are: 60.61"
 [1] "Barstool's line for the total is 2.5 at 2.5, which is a 40 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-     /players/190424/scott-hogan     /players/210389/maxime-colin   /players/614574/juninho-bacuna    /players/688271/auston-trusty       /players/72436/troy-deeney /players/963949/emmanuel-longelo 
-                          0.2940                           0.0964                           0.0858                           0.1682                           0.1988                           0.0952 
-                            none 
-                          0.3554 
-
-/players/193531/gregory-cunningham       /players/231801/robert-brady       /players/600812/ben-whiteman      /players/768325/jordan-storey /players/789645/emil-riis-jakobsen 
-                            0.2909                             0.0008                             0.0960                             0.2139                             0.2535 
-      /players/942365/troy-parrott                               none 
-                            0.1598                             0.3190 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -319,16 +167,6 @@
 [1] "Huddersfield Town's Barstool Odds to cover the 0.5 spread are: 59.88"
 [1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-   /players/1081081/sonny-carey     /players/115977/gary-madine /players/1229058/charlie-patino /players/562884/kenneth-dougall     /players/608535/jerry-yates /players/629786/marvin-ekpiteta 
-                         0.0222                          0.1870                          0.2643                          0.1007                          0.3098                          0.0272 
-/players/729449/callum-connolly     /players/844937/josh-bowler                            none 
-                         0.0524                          0.1440                          0.2880 
-
- /players/1030830/jack-rudoni /players/104258/jordan-rhodes    /players/181234/danny-ward      /players/183747/tom-lees  /players/244530/josh-ruffels  /players/480787/duane-holmes 
-                       0.1431                        0.2299                        0.1246                        0.1144                        0.1892                        0.0301 
- /players/488960/michal-helik  /players/746408/david-kasumu                          none 
-                       0.1377                        0.0028                        0.3477 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -385,14 +223,6 @@
 [1] "Blackburn's Barstool Odds to cover the 0.5 spread are: 58.48"
 [1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-  /players/1127480/tommy-conway /players/184360/andreas-weimann     /players/243132/nahki-wells      /players/552569/mark-sykes /players/894804/robert-atkinson                            none 
-                         0.3745                          0.1927                          0.4866                          0.0889                          0.1772                          0.1943 
-
-/players/491827/sammie-szmodics   /players/502421/sam-gallagher     /players/611489/ryan-hedges    /players/694558/dominic-hyam   /players/765563/scott-wharton    /players/789556/lewis-travis 
-                         0.2431                          0.1259                          0.0872                          0.0480                          0.0282                          0.1311 
-   /players/820581/ben-brereton                            none 
-                         0.2677                          0.3713 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -445,18 +275,10 @@
 [1] "Cardiff City Adjusted Barstool Odds are: 30.076"
 [1] "The Adjusted Barstool Odds of a Draw are: 31.074"
 [1] "Millwall Adjusted Barstool Odds are: 38.85"
-[1] "Cardiff City's Barstool Odds to cover the -0.5 spread are: 31.75"
-[1] "Millwall's Barstool Odds to cover the 0.5 spread are: 72.99"
+[1] "Cardiff City's Barstool Odds to cover the 0.5 spread are: 64.1"
+[1] "Millwall's Barstool Odds to cover the -0.5 spread are: 40.82"
 [1] "Barstool's line for the total is 2.5 at 2.45, which is a 40.82 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-  /players/438115/callum-odowda /players/504085/callum-robinson        /players/563058/perry-ng     /players/664506/ryan-wintle    /players/760398/cedric-kipre     /players/819872/mark-harris 
-                         0.2227                          0.2211                          0.0501                          0.0726                          0.0550                          0.1872 
-                           none 
-                         0.4140 
-
-      /players/169225/tom-bradshaw /players/230907/andreas-voglsammer        /players/568577/jake-cooper      /players/873559/zian-flemming                               none 
-                            0.3664                             0.0344                             0.0855                             0.4091                             0.3323 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -509,20 +331,10 @@
 [1] "Queens Park Rangers Adjusted Barstool Odds are: 35.812"
 [1] "The Adjusted Barstool Odds of a Draw are: 29.373"
 [1] "Swansea City Adjusted Barstool Odds are: 34.815"
-[1] "Queens Park Rangers's Barstool Odds to cover the -0.5 spread are: 37.74"
-[1] "Swansea City's Barstool Odds to cover the 0.5 spread are: 67.11"
+[1] "Queens Park Rangers's Barstool Odds to cover the 0.5 spread are: 68.03"
+[1] "Swansea City's Barstool Odds to cover the -0.5 spread are: 36.36"
 [1] "Barstool's line for the total is 2.5 at 2.05, which is a 48.78 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-   /players/1077905/ethan-laird /players/1203512/tim-iroegbunam    /players/564816/kenneth-paal     /players/676504/ilias-chair  /players/70078/stefan-johansen       /players/748456/sam-field 
-                         0.0131                          0.0131                          0.0818                          0.2311                          0.2715                          0.1003 
-    /players/767173/jimmy-dunne    /players/768635/lyndon-dykes                            none 
-                         0.0882                          0.3697                          0.2681 
-
-/players/1075519/matthew-sorinola        /players/259809/jay-fulton      /players/435513/ryan-manning       /players/478357/matt-grimes        /players/792540/joel-piroe 
-                           0.0624                            0.0561                            0.1510                            0.0294                            0.3248 
-    /players/798641/harry-darling   /players/817720/michael-obafemi     /players/962706/oliver-cooper                              none 
-                           0.1124                            0.2146                            0.1466                            0.2979 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -579,16 +391,6 @@
 [1] "Reading's Barstool Odds to cover the 0.5 spread are: 50"
 [1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-      /players/1113903/liam-delap      /players/23268/phil-jagielka      /players/363340/dwight-gayle       /players/538499/lewis-baker        /players/722741/josh-tymon 
-                           0.3193                            0.1291                            0.0911                            0.0964                            0.1396 
-       /players/798603/ben-wilmot /players/807925/william-smallbone                              none 
-                           0.1922                            0.0592                            0.3186 
-
-      /players/201734/jeff-hendrick         /players/212714/thomas-ince          /players/361747/lucas-joao         /players/47382/andy-carroll /players/643668/mamadou-loum-ndiaye 
-                             0.0508                              0.1522                              0.1586                              0.2177                              0.0232 
-       /players/789508/tom-mcintyre                                none 
-                             0.1169                              0.4646 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -645,16 +447,6 @@
 [1] "Rotherham United's Barstool Odds to cover the 0.5 spread are: 39.22"
 [1] "Barstool's line for the total is 2.5 at 1.89, which is a 52.91 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-        /players/1021382/joao-pedro            /players/520670/ken-sema /players/632305/francisco-sierralta        /players/724368/keinan-davis        /players/771294/ismaila-sarr 
-                             0.4209                              0.0867                              0.0912                              0.4164                              0.2306 
-                               none 
-                             0.2159 
-
-     /players/23260/richard-wood /players/395740/conor-washington /players/674009/chiedozie-ogbene  /players/682547/daniel-barlaser  /players/761834/oliver-rathbone    /players/820094/cohen-bramall 
-                          0.1597                           0.2126                           0.2374                           0.0021                           0.1318                           0.0487 
-                            none 
-                          0.4231 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -707,16 +499,10 @@
 [1] "Wigan Adjusted Barstool Odds are: 33.085"
 [1] "The Adjusted Barstool Odds of a Draw are: 29.936"
 [1] "Luton Town Adjusted Barstool Odds are: 36.979"
-[1] "Wigan's Barstool Odds to cover the -0.5 spread are: 34.72"
-[1] "Luton Town's Barstool Odds to cover the 0.5 spread are: 69.93"
+[1] "Wigan's Barstool Odds to cover the 0.5 spread are: 65.79"
+[1] "Luton Town's Barstool Odds to cover the -0.5 spread are: 39.22"
 [1] "Barstool's line for the total is 2.5 at 2.25, which is a 44.44 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-   /players/170400/tom-naylor /players/175947/james-mcclean    /players/290409/will-keane   /players/607858/curtis-tilt   /players/767738/callum-lang                          none 
-                       0.0695                        0.0923                        0.1393                        0.1401                        0.0509                        0.6018 
-
-  /players/259301/jordan-clark    /players/471271/amarii-bell     /players/539939/james-bree /players/562725/carlton-morris /players/733712/allan-campbell                           none 
-                        0.1690                         0.1147                         0.0096                         0.2419                         0.1755                         0.4585 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -769,18 +555,10 @@
 [1] "Sunderland Adjusted Barstool Odds are: 31.84"
 [1] "The Adjusted Barstool Odds of a Draw are: 29.821"
 [1] "Middlesbrough Adjusted Barstool Odds are: 38.339"
-[1] "Sunderland's Barstool Odds to cover the -0.5 spread are: 33.9"
-[1] "Middlesbrough's Barstool Odds to cover the 0.5 spread are: 70.92"
+[1] "Sunderland's Barstool Odds to cover the 0.5 spread are: 64.52"
+[1] "Middlesbrough's Barstool Odds to cover the -0.5 spread are: 40.32"
 [1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-  /players/1070052/amad-diallo /players/1118480/dennis-cirkin   /players/620124/lynden-gooch   /players/776159/ross-stewart    /players/914402/jack-clarke    /players/982246/daniel-neil 
-                        0.3060                         0.0425                         0.0674                         0.3124                         0.1356                         0.1184 
-   /players/982284/ellis-simms                           none 
-                        0.2286                         0.2616 
-
-  /players/1118697/isaiah-jones  /players/1128945/rodrigo-muniz /players/524651/darragh-lenihan    /players/733486/riley-mcgree  /players/982394/hayden-hackney                            none 
-                         0.2820                          0.3359                          0.0171                          0.3123                          0.1025                          0.2932 
 [1] "_____________________________________________________________________________________________________________________________"
                           bet           date_time
 1               Coventry City 2023-01-21 04:30:00
@@ -788,4 +566,4 @@
 3    under Stoke City/Reading 2023-01-21 07:00:00
 4       draw Wigan/Luton Town 2023-01-21 07:00:00
 5      under Wigan/Luton Town 2023-01-21 07:00:00
-[1] "New commit ID #4510"
+[1] "New commit ID #9583"
