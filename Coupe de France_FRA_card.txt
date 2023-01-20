@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-20 11:45:36.564"
+[1] "Updated at 2023-01-20 11:57:08.130"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -57,14 +57,16 @@
 [1] "-------------------------------------------------------------------------"
 
   /players/261313/jordan-veretout    /players/304345/sead-kolasinac /players/459658/ruslan-malinovsky      /players/478112/samuel-gigot      /players/50047/alexis-snchez 
-                           0.2033                            0.2187                            0.1057                            0.2384                            0.4629 
- /players/562719/valentin-rongier  /players/800609/matteo-guendouzi      /players/957118/nuno-tavares                              none 
-                           0.0621                            0.1139                            0.2550                            0.1606 
+                           0.1865                            0.2025                            0.0983                            0.2281                            0.4363 
+ /players/562719/valentin-rongier  /players/800609/matteo-guendouzi      /players/957118/nuno-tavares                              none                          own goal 
+                           0.0568                            0.1068                            0.2360                            0.1606                            0.1436 
 
      /players/1173250/arthur-theate    /players/1177358/adrien-truffert   /players/1200631/lesley-ugochukwu         /players/1339208/dsiré-doué        /players/426892/hamari-traor 
-                             0.0224                              0.0350                              0.0327                              0.1796                              0.1475 
+                             0.0210                              0.0322                              0.0300                              0.1642                              0.1357 
 /players/441871/benjamin-bourigeaud           /players/717174/joe-rodon         /players/762721/lovro-majer        /players/844437/amine-gouiri                                none 
-                             0.3362                              0.0736                              0.2530                              0.4863                              0.1697 
+                             0.3158                              0.0681                              0.2349                              0.4608                              0.1697 
+                           own goal 
+                             0.1403 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -123,14 +125,14 @@
 [1] "-------------------------------------------------------------------------"
 
      /players/1079554/anthony-rouault     /players/208929/brecht-dejaeghere          /players/490656/rafael-ratao /players/505059/branco-van-den-boomen       /players/614602/stijn-spierings 
-                               0.1739                                0.2989                                0.3357                                0.1982                                0.1177 
-    /players/846761/zakaria-aboukhlal        /players/885085/thijs-dallinga                                  none 
-                               0.3661                                0.3465                                0.1263 
+                               0.1672                                0.2790                                0.3181                                0.1790                                0.1092 
+    /players/846761/zakaria-aboukhlal        /players/885085/thijs-dallinga                                  none                              own goal 
+                               0.3448                                0.3237                                0.1263                                0.1538 
 
         /players/179823/ryad-nouri     /players/179845/romain-hamouma        /players/46431/cdric-avinel     /players/517981/cyrille-bayala  /players/640292/vincent-marchetti 
-                            0.2988                             0.2023                             0.1193                             0.2142                             0.0860 
-/players/971794/mounaim-el-idrissy                               none 
-                            0.1132                             0.3362 
+                            0.2790                             0.1888                             0.1082                             0.1998                             0.0801 
+/players/971794/mounaim-el-idrissy                               none                           own goal 
+                            0.1081                             0.3362                             0.0854 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -189,16 +191,16 @@
 [1] "-------------------------------------------------------------------------"
 
  /players/148830/benjamin-andr        /players/185949/ismaily    /players/199834/rmy-cabella       /players/26552/jos-fonte /players/466478/jonathan-bamba     /players/684978/adam-ounas 
-                        0.0325                         0.1412                         0.2070                         0.0237                         0.2210                         0.1342 
-   /players/848667/angel-gomes    /players/866358/tiago-djalo /players/939569/jonathan-david                           none 
-                        0.0779                         0.1474                         0.2589                         0.2566 
+                        0.0299                         0.1300                         0.1932                         0.0218                         0.2050                         0.1251 
+   /players/848667/angel-gomes    /players/866358/tiago-djalo /players/939569/jonathan-david                           none                       own goal 
+                        0.0729                         0.1353                         0.2409                         0.2566                         0.0998 
 
    /players/1003255/jean-lambert-evans              /players/1285468/noah-sow /players/188114/laglais-xavier-kouassi        /players/303334/mohamed-yattara            /players/586199/erwin-koffi 
-                                0.0164                                 0.0083                                 0.0092                                 0.0176                                 0.0090 
+                                0.0158                                 0.0074                                 0.0088                                 0.0161                                 0.0081 
              /players/766586/jean-ruiz        /players/820734/steeve-beusnard            /players/94010/henri-saivet       /players/950504/mons-bassouamina         /players/979749/eddy-sylvestre 
-                                0.0092                                 0.0168                                 0.0167                                 0.0171                                 0.0183 
-                                  none 
-                                0.8819 
+                                0.0083                                 0.0154                                 0.0154                                 0.0170                                 0.0155 
+                                  none                               own goal 
+                                0.8819                                 0.0111 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -257,12 +259,12 @@
 [1] "-------------------------------------------------------------------------"
 
   /players/1053677/amadou-sagna /players/1177376/samy-benchamma /players/1177966/joris-moutachy  /players/605858/bilal-boutobba  /players/751195/moataz-zemzemi   /players/78185/charles-kabore 
-                         0.1084                          0.0013                          0.0011                          0.1037                          0.1114                          0.1080 
-  /players/820067/lenny-vallier    /players/820306/yanis-merdji  /players/864290/ibrahima-conte    /players/953689/guy-marcelin                            none 
-                         0.0009                          0.1960                          0.0012                          0.0008                          0.5106 
+                         0.1028                          0.0008                          0.0011                          0.1030                          0.0983                          0.0975 
+  /players/820067/lenny-vallier    /players/820306/yanis-merdji  /players/864290/ibrahima-conte    /players/953689/guy-marcelin                            none                        own goal 
+                         0.0009                          0.1812                          0.0010                          0.0008                          0.5106                          0.0511 
 
- /players/192316/mathias-autret /players/352844/julian-jeanvier      /players/46241/mbaye-niang           /players/493731/jubal                            none 
-                         0.0265                          0.1147                          0.1498                          0.1019                          0.6754 
+ /players/192316/mathias-autret /players/352844/julian-jeanvier      /players/46241/mbaye-niang           /players/493731/jubal                            none                        own goal 
+                         0.0245                          0.1091                          0.1385                          0.0948                          0.6754                          0.0308 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -321,14 +323,14 @@
 [1] "-------------------------------------------------------------------------"
 
        /players/291219/islam-slimani       /players/501543/franck-honorat       /players/561869/haris-belkebla    /players/660462/pierre-lees-melou /players/725398/mathias-pereira-lage 
-                              0.3237                               0.2552                               0.1079                               0.1363                               0.0603 
-         /players/988119/noah-fadiga                                 none 
-                              0.1321                               0.3449 
+                              0.3044                               0.2400                               0.1041                               0.1265                               0.0556 
+         /players/988119/noah-fadiga                                 none                             own goal 
+                              0.1174                               0.3449                               0.0845 
 
    /players/1074642/salis-abdul-samed          /players/1138769/david-costa /players/402419/przemyslaw-frankowski        /players/578756/deiver-machado           /players/602211/seko-fofana 
-                               0.1077                                0.0328                                0.2536                                0.1327                                0.3113 
-       /players/612699/florian-sotoca     /players/747767/ikoma-lois-openda                                  none 
-                               0.3673                                0.4044                                0.1580 
+                               0.1008                                0.0301                                0.2368                                0.1232                                0.2920 
+       /players/612699/florian-sotoca     /players/747767/ikoma-lois-openda                                  none                              own goal 
+                               0.3440                                0.3796                                0.1580                                0.1428 
 [1] "_____________________________________________________________________________________________________________________________"
                   bet           date_time
 1        Stade Rennes 2023-01-20 12:10:00
@@ -337,4 +339,4 @@
 4             Pau ATS 2023-01-22 09:30:00
 5  draw Niort/Auxerre 2023-01-22 09:30:00
 6 under Niort/Auxerre 2023-01-22 09:30:00
-[1] "New commit ID #9335"
+[1] "New commit ID #4967"
