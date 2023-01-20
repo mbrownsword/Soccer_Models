@@ -1,113 +1,49 @@
-[1] "Updated at 2023-01-20 10:23:47.803"
+[1] "Updated at 2023-01-20 12:55:47.691"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is FC Arouca 1.611 to Portimonense 1.087"
-[1] "The pass/shot predicted total is 2.698"
-[1] "FC Arouca pass/shot Predicted Win %: 49.84"
-[1] "The pass/shot Predicted Draw % is: 24.49"
-[1] "Portimonense pass/shot Predicted Win %: 25.67"
+[1] "The pass/shot predicted score is Sporting CP 1.6511 to Vizela 0.7618"
+[1] "The pass/shot predicted total is 2.4129"
+[1] "Sporting CP pass/shot Predicted Win %: 59.52"
+[1] "The pass/shot Predicted Draw % is: 23.87"
+[1] "Vizela pass/shot Predicted Win %: 16.61"
 [1] "--XG Model--"
-[1] "The xg model predicted score is FC Arouca 0.9092 to Portimonense 0.8697"
-[1] "The xg model predicted total is 1.7789"
-[1] "FC Arouca xg model Predicted Win %: 34.47"
-[1] "The xg model Predicted Draw % is: 34.1"
-[1] "Portimonense xg model Predicted Win %: 31.43"
+[1] "The xg model predicted score is Sporting CP 1.4697 to Vizela 0.7471"
+[1] "The xg model predicted total is 2.2168"
+[1] "Sporting CP xg model Predicted Win %: 54.48"
+[1] "The xg model Predicted Draw % is: 26.68"
+[1] "Vizela xg model Predicted Win %: 18.84"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is FC Arouca 1.227 to Portimonense 0.55"
-[1] "The xgot model predicted total is 1.777"
-[1] "FC Arouca xgot model Predicted Win %: 53.23"
-[1] "The xgot model Predicted Draw % is: 31"
-[1] "Portimonense xgot model Predicted Win %: 15.77"
+[1] "The xgot model predicted score is Sporting CP 1.288 to Vizela 1.0206"
+[1] "The xgot model predicted total is 2.3086"
+[1] "Sporting CP xgot model Predicted Win %: 43.86"
+[1] "The xgot model Predicted Draw % is: 27.51"
+[1] "Vizela xgot model Predicted Win %: 28.63"
 [1] "--XA Model--"
-[1] "The xa model predicted score is FC Arouca 1.8705 to Portimonense 0.6984"
-[1] "The xa model predicted total is 2.5689"
-[1] "FC Arouca xa model Predicted Win %: 66.13"
-[1] "The xa model Predicted Draw % is: 21.45"
-[1] "Portimonense xa model Predicted Win %: 12.42"
+[1] "The xa model predicted score is Sporting CP 1.7404 to Vizela 0.8243"
+[1] "The xa model predicted total is 2.5647"
+[1] "Sporting CP xa model Predicted Win %: 59.13"
+[1] "The xa model Predicted Draw % is: 23.32"
+[1] "Vizela xa model Predicted Win %: 17.55"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is FC Arouca 1.2194 to Portimonense 0.4883"
-[1] "The XGExp model predicted total is 1.7077"
-[1] "FC Arouca XGExp model Predicted Win %: 55.19"
-[1] "The XGExp model Predicted Draw % is: 30.79"
-[1] "Portimonense XGExp model Predicted Win %: 14.02"
+[1] "The XGExp model predicted score is Sporting CP 1.5209 to Vizela 0.6995"
+[1] "The XGExp model predicted total is 2.2204"
+[1] "Sporting CP XGExp model Predicted Win %: 56.76"
+[1] "The XGExp model Predicted Draw % is: 26.08"
+[1] "Vizela XGExp model Predicted Win %: 17.16"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is FC Arouca 1.7404 to Portimonense 0.4899"
-[1] "The XAExp model predicted total is 2.2303"
-[1] "FC Arouca XAExp model Predicted Win %: 67.67"
-[1] "The XAExp model Predicted Draw % is: 22.52"
-[1] "Portimonense XAExp model Predicted Win %: 9.81"
+[1] "The XAExp model predicted score is Sporting CP 1.909 to Vizela 0.8019"
+[1] "The XAExp model predicted total is 2.7109"
+[1] "Sporting CP XAExp model Predicted Win %: 63.89"
+[1] "The XAExp model Predicted Draw % is: 21.45"
+[1] "Vizela XAExp model Predicted Win %: 14.66"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of FC Arouca winning this match is 54.42 percent, with a minimum chance of 34.47 percent, and a maximum chance of 67.67 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 27.39 percent, with a minimum chance of 21.45 percent, and a maximum chance of 34.1 percent."
-[1] "Our modelled likelihood of Portimonense winning this match is 18.19 percent, with a minimum chance of 9.81 percent, and a maximum chance of 31.43 percent."
-[1] "Our modelled likelihood of FC Arouca winning this match OR DRAW is 81.81 percent, with a minimum chance of 68.57 percent, and a maximum chance of 90.19 percent."
-[1] "Our modelled likelihood of Portimonense winning this match OR DRAW is 45.58 percent, with a minimum chance of 32.33 percent, and a maximum chance of 65.53 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 35.76 percent, with a high likelihood of 50.59 and a low likelihood of 24.48 percent."
-[1] "--Sportsbook Odds--"
-[1] "FC Arouca Barstool Odds are: 43.48"
-[1] "The Barstool Odds of a Draw are: 31.25"
-[1] "Portimonense Barstool Odds are: 32.79"
-[1] "FC Arouca Adjusted Barstool Odds are: 40.439"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.064"
-[1] "Portimonense Adjusted Barstool Odds are: 30.497"
-[1] "FC Arouca's Barstool Odds to cover the -0.5 spread are: 42.55"
-[1] "Portimonense's Barstool Odds to cover the 0.5 spread are: 62.5"
-[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-
-    /players/1195556/quaresma       /players/1248736/antony  /players/289213/nino-galovic /players/689050/morlaye-sylla    /players/793033/joao-basso  /players/855623/oday-dabbagh 
-                       0.2260                        0.2415                        0.0042                        0.0876                        0.1721                        0.4478 
-                         none 
-                       0.2550 
-
-/players/662588/moustapha-seck  /players/824636/paulo-estrela /players/940134/pedro-henrique  /players/958533/mohamed-diaby                           none 
-                        0.0232                         0.0640                         0.2779                         0.2248                         0.5184 
-[1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Sporting CP 1.8398 to Vizela 0.8902"
-[1] "The pass/shot predicted total is 2.73"
-[1] "Sporting CP pass/shot Predicted Win %: 60.17"
-[1] "The pass/shot Predicted Draw % is: 22.19"
-[1] "Vizela pass/shot Predicted Win %: 17.64"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Sporting CP 1.1614 to Vizela 1.2208"
-[1] "The xg model predicted total is 2.3822"
-[1] "Sporting CP xg model Predicted Win %: 34.25"
-[1] "The xg model Predicted Draw % is: 28.54"
-[1] "Vizela xg model Predicted Win %: 37.21"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Sporting CP 1.5592 to Vizela 1.27"
-[1] "The xgot model predicted total is 2.8292"
-[1] "Sporting CP xgot model Predicted Win %: 44.07"
-[1] "The xgot model Predicted Draw % is: 24.69"
-[1] "Vizela xgot model Predicted Win %: 31.24"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Sporting CP 2.0244 to Vizela 0.8303"
-[1] "The xa model predicted total is 2.8547"
-[1] "Sporting CP xa model Predicted Win %: 65.83"
-[1] "The xa model Predicted Draw % is: 20.58"
-[1] "Vizela xa model Predicted Win %: 13.59"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Sporting CP 1.3947 to Vizela 1.0968"
-[1] "The XGExp model predicted total is 2.4915"
-[1] "Sporting CP XGExp model Predicted Win %: 44.28"
-[1] "The XGExp model Predicted Draw % is: 26.31"
-[1] "Vizela XGExp model Predicted Win %: 29.41"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Sporting CP 2.1921 to Vizela 0.7791"
-[1] "The XAExp model predicted total is 2.9712"
-[1] "Sporting CP XAExp model Predicted Win %: 70"
-[1] "The XAExp model Predicted Draw % is: 18.63"
-[1] "Vizela XAExp model Predicted Win %: 11.37"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Sporting CP winning this match is 53.1 percent, with a minimum chance of 34.25 percent, and a maximum chance of 70 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 23.49 percent, with a minimum chance of 18.63 percent, and a maximum chance of 28.54 percent."
-[1] "Our modelled likelihood of Vizela winning this match is 23.41 percent, with a minimum chance of 11.37 percent, and a maximum chance of 37.21 percent."
-[1] "Our modelled likelihood of Sporting CP winning this match OR DRAW is 76.59 percent, with a minimum chance of 62.79 percent, and a maximum chance of 88.63 percent."
-[1] "Our modelled likelihood of Vizela winning this match OR DRAW is 46.9 percent, with a minimum chance of 30 percent, and a maximum chance of 65.75 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 50.88 percent, with a high likelihood of 57.03 and a low likelihood of 42.57 percent."
+[1] "Our modelled likelihood of Sporting CP winning this match is 56.27 percent, with a minimum chance of 43.86 percent, and a maximum chance of 63.89 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 24.82 percent, with a minimum chance of 21.45 percent, and a maximum chance of 27.51 percent."
+[1] "Our modelled likelihood of Vizela winning this match is 18.91 percent, with a minimum chance of 14.66 percent, and a maximum chance of 28.63 percent."
+[1] "Our modelled likelihood of Sporting CP winning this match OR DRAW is 81.09 percent, with a minimum chance of 71.37 percent, and a maximum chance of 85.34 percent."
+[1] "Our modelled likelihood of Vizela winning this match OR DRAW is 43.73 percent, with a minimum chance of 36.11 percent, and a maximum chance of 56.14 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 43.18 percent, with a high likelihood of 50.91 and a low likelihood of 38.18 percent."
 [1] "--Sportsbook Odds--"
 [1] "Sporting CP Barstool Odds are: 78.74"
 [1] "The Barstool Odds of a Draw are: 18.18"
@@ -119,16 +55,6 @@
 [1] "Vizela's Barstool Odds to cover the 0.5 spread are: 25.97"
 [1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-    /players/554283/nuno-santos  /players/637744/marcus-edwards         /players/732282/trincao /players/875133/pedro-goncalves /players/915102/hidemasa-morita     /players/941573/pedro-porro 
-                         0.4359                          0.2000                          0.0219                          0.2511                          0.3732                          0.0921 
-                           none 
-                         0.1975 
-
-      /players/1130889/anderson   /players/1150871/kiko-bondoso   /players/1188608/nuno-moreira   /players/500934/raphael-guzzo            /players/667952/samu /players/936603/milutin-osmajic 
-                         0.2007                          0.0935                          0.0083                          0.1088                          0.1547                          0.3144 
-                           none 
-                         0.3757 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -181,18 +107,10 @@
 [1] "Pacos Ferreira Adjusted Barstool Odds are: 13.239"
 [1] "The Adjusted Barstool Odds of a Draw are: 20.586"
 [1] "Braga Adjusted Barstool Odds are: 66.176"
-[1] "Pacos Ferreira's Barstool Odds to cover the 0.5 spread are: 33.9"
-[1] "Braga's Barstool Odds to cover the -0.5 spread are: 70.92"
+[1] "Pacos Ferreira's Barstool Odds to cover the -0.5 spread are: 13.33"
+[1] "Braga's Barstool Odds to cover the 0.5 spread are: 90.09"
 [1] "Barstool's line for the total is 2.5 at 1.74, which is a 57.47 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-            /players/1069628/matchoi /players/1295898/ndri-philippe-koffi            /players/952234/ze-uilton                                 none 
-                              0.1892                               0.0396                               0.2669                               0.5774 
-
-/players/1215057/vitor-oliveira   /players/191793/nuno-sequeira   /players/361321/iuri-medeiros   /players/432591/ricardo-horta     /players/605507/andre-horta      /players/649945/al-musrati 
-                         0.3689                          0.1011                          0.3115                          0.3582                          0.0808                          0.1712 
-    /players/696932/simon-banza    /players/821312/sikou-niakat   /players/866509/vitor-tormena                            none 
-                         0.3883                          0.0809                          0.0116                          0.1131 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -245,18 +163,10 @@
 [1] "Santa Clara Adjusted Barstool Odds are: 9.871"
 [1] "The Adjusted Barstool Odds of a Draw are: 18.026"
 [1] "Benfica Adjusted Barstool Odds are: 72.103"
-[1] "Santa Clara's Barstool Odds to cover the 0.5 spread are: 27.78"
-[1] "Benfica's Barstool Odds to cover the -0.5 spread are: 76.92"
+[1] "Santa Clara's Barstool Odds to cover the 1.5 spread are: 52.36"
+[1] "Benfica's Barstool Odds to cover the -1.5 spread are: 52.36"
 [1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-   /players/1285527/bruno-almeida /players/624459/cristian-gonzalez   /players/793670/kennedy-boateng                              none 
-                           0.1601                            0.0798                            0.2734                            0.5777 
-
-/players/1137705/enzo-fernandez  /players/1292092/antonio-silva   /players/288406/alex-grimaldo       /players/300916/joao-mrio      /players/477023/rafa-silva     /players/793066/david-neres 
-                         0.0664                          0.0777                          0.0678                          0.3036                          0.2682                          0.3674 
-  /players/940087/goncalo-ramos                            none 
-                         0.4082                          0.1534 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -309,18 +219,10 @@
 [1] "Guimaraes Adjusted Barstool Odds are: 12.401"
 [1] "The Adjusted Barstool Odds of a Draw are: 21.146"
 [1] "FC Porto Adjusted Barstool Odds are: 66.453"
-[1] "Guimaraes's Barstool Odds to cover the 0.5 spread are: 33.9"
-[1] "FC Porto's Barstool Odds to cover the -0.5 spread are: 70.92"
+[1] "Guimaraes's Barstool Odds to cover the -0.5 spread are: 13.33"
+[1] "FC Porto's Barstool Odds to cover the 0.5 spread are: 90.91"
 [1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
- /players/1218555/andre-amaro   /players/422812/tiago-silva /players/854081/nelson-da-luz      /players/876734/anderson                          none 
-                       0.1564                        0.0905                        0.2124                        0.0202                        0.6006 
-
-      /players/1098096/evanilson     /players/320618/mateus-uribe    /players/361751/fabio-cardoso            /players/397019/otvio     /players/619506/mehdi-taremi /players/776972/wenderson-galeno 
-                          0.4360                           0.0449                           0.0917                           0.1311                           0.4531                           0.3274 
-     /players/80497/ivan-marcano             /players/850356/pepe                             none 
-                          0.2478                           0.0733                           0.1307 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -377,14 +279,6 @@
 [1] "Estoril Praia's Barstool Odds to cover the 0.5 spread are: 63.69"
 [1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-/players/267368/claudio-winck   /players/579808/joel-tagueu         /players/666937/vitor         /players/737814/xadas /players/816256/matheus-costa  /players/819916/andr-vidigal 
-                       0.0734                        0.2515                        0.0263                        0.2209                        0.0139                        0.3798 
-  /players/882823/leo-andrade                          none 
-                       0.2182                        0.2569 
-
-/players/1072317/tiago-gouveia        /players/1227341/erison  /players/1397857/tiago-santos /players/522640/chico-geraldes   /players/822258/pedro-alvaro                           none 
-                        0.3318                         0.3110                         0.1028                         0.0887                         0.0104                         0.3790 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -441,14 +335,6 @@
 [1] "Gil Vicente's Barstool Odds to cover the 0.5 spread are: 63.29"
 [1] "Barstool's line for the total is 2.5 at 2.25, which is a 44.44 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-    /players/1077665/lucas-soares    /players/1281236/leonardo-lelo    /players/211118/rafael-martins       /players/304615/angelo-neto    /players/643712/saviour-godwin 
-                           0.0157                            0.1253                            0.3920                            0.2454                            0.3339 
-/players/648371/takahiro-kunimoto                              none 
-                           0.1848                            0.2169 
-
-     /players/164053/pedro-tiba /players/164323/ruben-fernandes          /players/586719/murilo            /players/671855/fran        /players/816001/carvalho                            none 
-                         0.0408                          0.0061                          0.3132                          0.6567                          0.0238                          0.2235 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -505,16 +391,6 @@
 [1] "Rio Ave's Barstool Odds to cover the 0.5 spread are: 59.52"
 [1] "Barstool's line for the total is 2.5 at 2.38, which is a 42.02 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-        /players/1009832/ivan-jaime           /players/1033147/riccieli         /players/1093297/lex-millán  /players/1186780/alexandre-penetra       /players/388532/ivo-rodrigues 
-                             0.3360                              0.0193                              0.3040                              0.2328                              0.1073 
-/players/686460/santiago-colombatto          /players/784876/enea-mihaj     /players/813549/zaydou-youssouf  /players/940333/jos-luis-rodriguez                                none 
-                             0.0530                              0.0074                              0.2111                              0.1139                              0.2075 
-
-        /players/1079456/costinha     /players/1088053/miguel-baeza   /players/361710/aderllan-santos  /players/561219/emmanuel-boateng              /players/767713/guga 
-                           0.1435                            0.0576                            0.0562                            0.1465                            0.2101 
-     /players/776584/pedro-amaral /players/841352/abdul-aziz-yakubu       /players/844440/paulo-vitor                              none 
-                           0.1941                            0.2552                            0.0457                            0.2991 
 [1] "_____________________________________________________________________________________________________________________________"
                         bet           date_time
 1   draw Sporting CP/Vizela 2023-01-20 13:15:00
@@ -523,4 +399,16 @@
 4                Vizela ATS 2023-01-20 13:15:00
 5 under Santa Clara/Benfica 2023-01-21 10:00:00
 6 over Casa Pia/Gil Vicente 2023-01-22 10:00:00
-[1] "New commit ID #9232"
+[1] "New commit ID #7640"
+d are: 59.52"
+[1] "Barstool's line for the total is 2.5 at 2.38, which is a 42.02 percent chance of the over 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                        bet           date_time
+1   draw Sporting CP/Vizela 2023-01-20 13:15:00
+2                    Vizela 2023-01-20 13:15:00
+3  under Sporting CP/Vizela 2023-01-20 13:15:00
+4                Vizela ATS 2023-01-20 13:15:00
+5 under Santa Clara/Benfica 2023-01-21 10:00:00
+6 over Casa Pia/Gil Vicente 2023-01-22 10:00:00
+[1] "New commit ID #7640"
