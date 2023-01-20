@@ -1,71 +1,5 @@
-[1] "Updated at 2023-01-20 10:59:19.924"
+[1] "Updated at 2023-01-20 14:35:35.134"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is RB Leipzig 1.3412 to Bayern Munich 1.6381"
-[1] "The pass/shot predicted total is 2.9793"
-[1] "RB Leipzig pass/shot Predicted Win %: 30.78"
-[1] "The pass/shot Predicted Draw % is: 24.51"
-[1] "Bayern Munich pass/shot Predicted Win %: 44.71"
-[1] "--XG Model--"
-[1] "The xg model predicted score is RB Leipzig 1.645 to Bayern Munich 1.7441"
-[1] "The xg model predicted total is 3.3891"
-[1] "RB Leipzig xg model Predicted Win %: 35.99"
-[1] "The xg model Predicted Draw % is: 22.92"
-[1] "Bayern Munich xg model Predicted Win %: 41.09"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is RB Leipzig 2.3389 to Bayern Munich 1.7574"
-[1] "The xgot model predicted total is 4.0963"
-[1] "RB Leipzig xgot model Predicted Win %: 51.47"
-[1] "The xgot model Predicted Draw % is: 19.1"
-[1] "Bayern Munich xgot model Predicted Win %: 29.43"
-[1] "--XA Model--"
-[1] "The xa model predicted score is RB Leipzig 1.0496 to Bayern Munich 1.5893"
-[1] "The xa model predicted total is 2.6389"
-[1] "RB Leipzig xa model Predicted Win %: 26.28"
-[1] "The xa model Predicted Draw % is: 24.87"
-[1] "Bayern Munich xa model Predicted Win %: 48.85"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is RB Leipzig 1.7048 to Bayern Munich 3.0126"
-[1] "The XGExp model predicted total is 4.7174"
-[1] "RB Leipzig XGExp model Predicted Win %: 19.72"
-[1] "The XGExp model Predicted Draw % is: 15.9"
-[1] "Bayern Munich XGExp model Predicted Win %: 64.38"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is RB Leipzig 1.3344 to Bayern Munich 1.8249"
-[1] "The XAExp model predicted total is 3.1593"
-[1] "RB Leipzig XAExp model Predicted Win %: 28.08"
-[1] "The XAExp model Predicted Draw % is: 23.32"
-[1] "Bayern Munich XAExp model Predicted Win %: 48.6"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of RB Leipzig winning this match is 32.05 percent, with a minimum chance of 19.72 percent, and a maximum chance of 51.47 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 21.77 percent, with a minimum chance of 15.9 percent, and a maximum chance of 24.87 percent."
-[1] "Our modelled likelihood of Bayern Munich winning this match is 46.18 percent, with a minimum chance of 29.43 percent, and a maximum chance of 64.38 percent."
-[1] "Our modelled likelihood of RB Leipzig winning this match OR DRAW is 53.82 percent, with a minimum chance of 35.62 percent, and a maximum chance of 70.57 percent."
-[1] "Our modelled likelihood of Bayern Munich winning this match OR DRAW is 67.95 percent, with a minimum chance of 48.53 percent, and a maximum chance of 80.28 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 67.85 percent, with a high likelihood of 84.94 and a low likelihood of 49.13 percent."
-[1] "--Sportsbook Odds--"
-[1] "RB Leipzig Barstool Odds are: 27.03"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Bayern Munich Barstool Odds are: 54.05"
-[1] "RB Leipzig Adjusted Barstool Odds are: 25.481"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.567"
-[1] "Bayern Munich Adjusted Barstool Odds are: 50.952"
-[1] "RB Leipzig's Barstool Odds to cover the 0.5 spread are: 50.51"
-[1] "Bayern Munich's Barstool Odds to cover the -0.5 spread are: 53.76"
-[1] "Barstool's line for the total is 2.5 at 1.44, which is a 69.44 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-
-  /players/1039600/mohamed-simakan      /players/171980/emil-forsberg        /players/278856/willi-orban         /players/388523/andr-silva          /players/614834/dani-olmo 
-                            0.1608                             0.2839                             0.2255                             0.3222                             0.0617 
-    /players/620027/xaver-schlager /players/846005/dominik-szoboszlai                               none 
-                            0.1600                             0.1426                             0.2268 
-
-         /players/1156141/jamal-musiala           /players/343748/leon-goretzka            /players/385437/serge-gnabry          /players/460632/joshua-kimmich               /players/530859/leroy-san 
-                                 0.3249                                  0.0618                                  0.3649                                  0.0564                                  0.2289 
-        /players/611223/benjamin-pavard        /players/769895/matthijs-de-ligt /players/95082/eric-maxim-choupo-moting                                    none 
-                                 0.0394                                  0.1183                                  0.3904                                  0.1628 
-[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Eintracht Frankfurt 1.9863 to Schalke 04 0.4444"
@@ -121,18 +55,6 @@
 [1] "Schalke 04's Barstool Odds to cover the 0.5 spread are: 30.3"
 [1] "Barstool's line for the total is 2.5 at 1.52, which is a 65.79 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-     /players/1040889/eric-ebimbe   /players/1077685/hrvoje-smolcic    /players/1175708/ansgar-knauff        /players/177714/mario-gtze     /players/621515/daichi-kamada 
-                           0.2218                            0.0693                            0.1319                            0.1147                            0.4623 
-  /players/643448/kristijan-jakic       /players/707970/djibril-sow       /players/787242/evan-ndicka /players/823825/randal-kolo-muani   /players/958335/jesper-lindstrm 
-                           0.1676                            0.1916                            0.0150                            0.2871                            0.4991 
-                             none 
-                           0.0748 
-
-/players/1242110/henning-matriciani         /players/261654/jere-uronen        /players/626890/marius-blter     /players/941494/soichiro-kozuki        /players/95095/simon-terodde 
-                             0.0007                              0.0043                              0.0426                              0.0563                              0.2003 
-         /players/992060/tom-krauss                                none 
-                             0.0486                              0.6870 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -185,20 +107,10 @@
 [1] "1. FC Union Berlin Adjusted Barstool Odds are: 42.107"
 [1] "The Adjusted Barstool Odds of a Draw are: 28.283"
 [1] "TSG Hoffenheim Adjusted Barstool Odds are: 29.61"
-[1] "1. FC Union Berlin's Barstool Odds to cover the 0.5 spread are: 73.53"
-[1] "TSG Hoffenheim's Barstool Odds to cover the -0.5 spread are: 30.77"
+[1] "1. FC Union Berlin's Barstool Odds to cover the -0.5 spread are: 44.44"
+[1] "TSG Hoffenheim's Barstool Odds to cover the 0.5 spread are: 59.88"
 [1] "Barstool's line for the total is 2.5 at 1.93, which is a 51.81 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-    /players/259296/robin-knoche     /players/304348/rani-khedira    /players/304354/janik-haberer /players/359312/niko-giesselmann  /players/495222/sheraldo-becker    /players/614923/kevin-behrens 
-                          0.0330                           0.0149                           0.2870                           0.0387                           0.2441                           0.1849 
-  /players/724196/danilho-doekhi     /players/926447/paul-jaeckel                             none 
-                          0.2244                           0.2152                           0.2648 
-
-      /players/1071186/angelo-stiller            /players/167589/kevin-vogt       /players/173461/andrej-kramaric           /players/447959/robert-skov        /players/640742/kasper-dolberg 
-                               0.0053                                0.0002                                0.0741                                0.2751                                0.1285 
-/players/747718/christoph-baumgartner         /players/784495/dennis-geiger            /players/845990/ozan-kabak                                  none 
-                               0.1706                                0.2690                                0.1555                                0.2970 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -251,20 +163,10 @@
 [1] "VfB Stuttgart Adjusted Barstool Odds are: 39.52"
 [1] "The Adjusted Barstool Odds of a Draw are: 27.494"
 [1] "Mainz Adjusted Barstool Odds are: 32.986"
-[1] "VfB Stuttgart's Barstool Odds to cover the 0.5 spread are: 69.93"
-[1] "Mainz's Barstool Odds to cover the -0.5 spread are: 34.48"
+[1] "VfB Stuttgart's Barstool Odds to cover the -0.5 spread are: 41.67"
+[1] "Mainz's Barstool Odds to cover the 0.5 spread are: 62.5"
 [1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-           /players/1050859/enzo-millot             /players/1164506/tiago-toms       /players/1192854/naouirou-ahamada             /players/202643/wataru-endo         /players/448540/sehrou-guirassy 
-                                 0.1845                                  0.2423                                  0.1875                                  0.1932                                  0.4652 
-         /players/664970/waldemar-anton /players/719219/konstantinos-mavropanos    /players/959404/silas-katompa-mvumpa                                    none 
-                                 0.0828                                  0.0644                                  0.1178                                  0.1755 
-
-      /players/176953/karim-onisiwo        /players/303905/dominik-kohr   /players/443733/marcus-ingvartsen /players/451335/edimilson-fernandes      /players/459000/alexander-hack 
-                             0.1175                              0.0971                              0.3329                              0.0253                              0.0007 
-       /players/523749/jae-sung-lee       /players/684981/aaron-caricol        /players/771401/anthony-caci                                none 
-                             0.0505                              0.1306                              0.2412                              0.3419 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -317,22 +219,10 @@
 [1] "VfL Bochum Adjusted Barstool Odds are: 40.516"
 [1] "The Adjusted Barstool Odds of a Draw are: 27.204"
 [1] "Hertha Berlin Adjusted Barstool Odds are: 32.28"
-[1] "VfL Bochum's Barstool Odds to cover the 0.5 spread are: 70.42"
-[1] "Hertha Berlin's Barstool Odds to cover the -0.5 spread are: 33.9"
+[1] "VfL Bochum's Barstool Odds to cover the -0.5 spread are: 42.55"
+[1] "Hertha Berlin's Barstool Odds to cover the 0.5 spread are: 61.73"
 [1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-        /players/114076/cristian-gamboa           /players/207039/danilo-soares         /players/210420/anthony-losilla             /players/276739/kevin-stger         /players/290201/philipp-hofmann 
-                                 0.0727                                  0.0006                                  0.0224                                  0.1065                                  0.2517 
-           /players/430856/takuma-asano             /players/433859/ivan-ordets          /players/620563/philipp-frster /players/782361/christopher-antwi-adjej     /players/900523/keven-schlotterbeck 
-                                 0.0133                                  0.2295                                  0.1594                                  0.3720                                  0.0159 
-                                   none 
-                                 0.2454 
-
-/players/402975/jean-paul-botius    /players/612277/lucas-tousart    /players/642418/marco-richter      /players/667790/suat-serdar   /players/797800/wilfried-kanga    /players/92666/stevan-jovetic 
-                          0.0021                           0.0851                           0.2044                           0.2035                           0.2162                           0.2101 
-                            none 
-                          0.3703 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -385,20 +275,10 @@
 [1] "VfL Wolfsburg Adjusted Barstool Odds are: 37.356"
 [1] "The Adjusted Barstool Odds of a Draw are: 28.012"
 [1] "SC Freiburg Adjusted Barstool Odds are: 34.632"
-[1] "VfL Wolfsburg's Barstool Odds to cover the 0.5 spread are: 68.03"
-[1] "SC Freiburg's Barstool Odds to cover the -0.5 spread are: 36.36"
+[1] "VfL Wolfsburg's Barstool Odds to cover the -0.5 spread are: 39.22"
+[1] "SC Freiburg's Barstool Odds to cover the 0.5 spread are: 64.94"
 [1] "Barstool's line for the total is 2.5 at 1.93, which is a 51.81 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-  /players/1073498/patrick-wimmer /players/1097466/micky-van-de-ven /players/298915/maximilian-arnold  /players/450976/yannick-gerhardt        /players/883087/ridle-baku 
-                           0.1582                            0.0756                            0.1413                            0.0899                            0.1920 
-       /players/889785/jonas-wind      /players/966019/felix-nmecha                              none 
-                           0.2935                            0.1124                            0.3131 
-
-/players/198316/michael-gregoritsch     /players/303912/matthias-ginter         /players/307209/lukas-kbler     /players/355358/christian-gnter      /players/400625/vincenzo-grifo 
-                             0.1439                              0.1387                              0.3090                              0.0211                              0.2114 
- /players/620577/daniel-kofi-kyereh                                none 
-                             0.0858                              0.3725 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -455,16 +335,6 @@
 [1] "FC Augsburg's Barstool Odds to cover the 0.5 spread are: 28.57"
 [1] "Barstool's line for the total is 2.5 at 1.38, which is a 72.46 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-/players/1002058/nico-schlotterbeck    /players/1077894/jude-bellingham  /players/1174708/youssoufa-moukoko          /players/129944/marco-reus    /players/352994/raphal-guerreiro 
-                             0.1459                              0.1836                              0.4034                              0.2420                              0.0705 
-         /players/447084/niklas-sle       /players/516846/julian-brandt       /players/660301/donyell-malen                                none 
-                             0.0575                              0.3280                              0.0594                              0.1777 
-
-/players/276760/florian-niederlechner        /players/597737/mergim-berisha          /players/731338/robert-gumny        /players/767800/felix-uduokhai     /players/840241/ermedin-demirovic 
-                               0.2714                                0.2819                                0.1689                                0.0414                                0.0612 
-                                 none 
-                               0.3940 
 [1] "_____________________________________________________________________________________________________________________________"
                                   bet           date_time
 1                 Eintracht Frankfurt 2023-01-21 06:30:00
@@ -472,11 +342,7 @@
 3                         FC Augsburg 2023-01-22 06:30:00
 4 under Borussia Dortmund/FC Augsburg 2023-01-22 06:30:00
 5                     FC Augsburg ATS 2023-01-22 06:30:00
-[1] "New commit ID #5683"
-               player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Dominik Szoboszlai  RBL      2 2.84      0.3521  0.5217   0.1696   tackles Bundesliga         NA        NA         NA       NA
-               player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Dominik Szoboszlai  RBL      3  7.5      0.1333  0.2999   0.1666   tackles Bundesliga         NA        NA         NA       NA
+[1] "New commit ID #7215"
           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Danilo Soares  BOC      6  3.8      0.2632  0.3908   0.1276   tackles Bundesliga         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
