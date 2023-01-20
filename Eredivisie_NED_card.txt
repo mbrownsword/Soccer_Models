@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-20 10:14:44.348"
+[1] "Updated at 2023-01-20 10:16:48.341"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -54,7 +54,18 @@
 [1] "Excelsior's Barstool Odds to cover the -0.5 spread are: 40"
 [1] "FC Volendam's Barstool Odds to cover the 0.5 spread are: 64.1"
 [1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+  /players/1075242/nathan-tjoe-a-on    /players/1075956/reda-kharchouch    /players/1088043/marouan-azarkan        /players/1180499/julian-baas         /players/767797/adrian-fein 
+                             0.2948                              0.3514                              0.1375                              0.0972                              0.0104 
+     /players/770402/siebe-horemans /players/860740/redouan-el-yaakoubi      /players/929665/kenzo-goudmijn                                none 
+                             0.1900                              0.1516                              0.0868                              0.2220 
+
+ /players/1080657/benaissa-benamar /players/1110045/gaetano-oristanio  /players/1221333/florent-da-silva       /players/278807/robert-mhren   /players/528050/bilal-ould-chikh 
+                            0.1601                             0.2550                             0.4217                             0.3301                             0.0580 
+      /players/775537/carel-eiting    /players/979963/xavier-mbuyamba                               none 
+                            0.1645                             0.0821                             0.1881 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is NEC 0.9028 to Emmen 1.3937"
@@ -109,7 +120,18 @@
 [1] "NEC's Barstool Odds to cover the -0.5 spread are: 50"
 [1] "Emmen's Barstool Odds to cover the 0.5 spread are: 54.05"
 [1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+    /players/1329268/nils-rossen       /players/39213/lasse-schne     /players/639782/ivan-marquez    /players/703044/landry-dimata /players/773831/philippe-sandler  /players/875306/magnus-mattsson 
+                          0.0786                           0.0955                           0.1173                           0.1027                           0.2720                           0.0004 
+   /players/983047/elayis-tavsan                             none 
+                          0.0926                           0.4398 
+
+/players/1065453/mohamed-bouchouari     /players/110142/jeroen-veldmate   /players/412708/richairo-zivkovic  /players/513810/ahmed-el-messaoudi /players/915365/ole-ter-haar-romeny 
+                             0.0486                              0.1876                              0.1103                              0.1472                              0.2284 
+          /players/935788/jari-vlak                                none 
+                             0.1414                              0.4030 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Cambuur Leeuwarden 1.5203 to Sparta 1.3366"
@@ -164,7 +186,16 @@
 [1] "Cambuur Leeuwarden's Barstool Odds to cover the 0.5 spread are: 61.35"
 [1] "Sparta's Barstool Odds to cover the -0.5 spread are: 42.55"
 [1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+/players/873551/mees-hoedemakers    /players/907821/michael-breij                             none 
+                          0.2966                           0.3692                           0.4576 
+
+   /players/1035643/sven-mijnans     /players/150589/bart-vriends  /players/521471/vito-van-crooij /players/630278/tobias-lauritsen  /players/902675/joshua-kitolano       /players/950861/koki-saito 
+                          0.1290                           0.0962                           0.4182                           0.5560                           0.1381                           0.3301 
+                            none 
+                          0.1268 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is PSV 2.025 to Vitesse 1.1035"
@@ -219,7 +250,18 @@
 [1] "PSV's Barstool Odds to cover the  spread are: NA"
 [1] "Vitesse's Barstool Odds to cover the  spread are: NA"
 [1] "Barstool's line for the total is 2.5 at 1.37, which is a 72.99 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+/players/1030829/jarrad-branthwaite        /players/1173787/xavi-simons     /players/1203194/johan-bakayoko        /players/150201/luuk-de-jong      /players/497838/rick-gutiérrez 
+                             0.1714                              0.5022                              0.4174                              0.3216                              0.1238 
+     /players/562267/anwar-el-ghazi      /players/794244/armando-obispo      /players/795371/ibrahim-sangar                                none 
+                             0.2350                              0.1291                              0.2594                              0.0815 
+
+/players/1051411/kacper-kozlowski   /players/1110703/bartosz-bialek  /players/1183512/million-manhoef    /players/1386551/ryan-flamingo   /players/310785/sondre-tronstad 
+                           0.1970                            0.1541                            0.1446                            0.0857                            0.1385 
+   /players/352366/mitchell-dijks        /players/464981/matus-bero /players/556027/maximilian-wittek                              none 
+                           0.0266                            0.1234                            0.0398                            0.3827 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is RKC 1.9048 to Go Ahead Eagles 1.1375"
@@ -274,7 +316,18 @@
 [1] "RKC's Barstool Odds to cover the -0.5 spread are: 42.02"
 [1] "Go Ahead Eagles's Barstool Odds to cover the 0.5 spread are: 62.5"
 [1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+   /players/1073472/thierry-lutonda        /players/109652/vurnon-anita       /players/1113809/mika-biereth      /players/1119702/yassin-oukili      /players/279116/mats-seuntjens 
+                             0.2013                              0.1909                              0.6775                              0.3120                              0.1524 
+/players/604344/dario-van-den-buijs       /players/637741/pelle-clement       /players/912071/shawn-adewoye                                none 
+                             0.2028                              0.1591                              0.0300                              0.0835 
+
+  /players/1033342/enric-llansana /players/1049004/oliver-edvardsen   /players/1072516/bobby-adekanye   /players/629567/tesfaldet-tekie        /players/630494/mats-deijl 
+                           0.0010                            0.2972                            0.2595                            0.0418                            0.0113 
+     /players/655095/isac-lidberg     /players/664562/gerrit-nauber /players/774237/willum-willumsson         /players/937412/jay-idzes                              none 
+                           0.3295                            0.0101                            0.2921                            0.0174                            0.2517 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Heerenveen 1.8416 to FC Groningen 0.8057"
@@ -329,7 +382,18 @@
 [1] "Heerenveen's Barstool Odds to cover the -0.5 spread are: 59.52"
 [1] "FC Groningen's Barstool Odds to cover the 0.5 spread are: 44.84"
 [1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+    /players/1074750/milan-van-ewijk           /players/1156568/amin-sarr            /players/384446/thom-haye        /players/424879/sven-van-beek    /players/492494/pawel-bochniewicz 
+                              0.4696                               0.0945                               0.1956                               0.0077                               0.0956 
+         /players/521272/anas-tahiri          /players/788379/mats-khlert /players/949481/sydney-van-hooijdonk                                 none 
+                              0.1567                               0.2432                               0.2958                               0.1591 
+
+ /players/1036401/ricardo-pepi  /players/1127054/tomas-suslov /players/248151/joey-pelupessy   /players/665167/laros-duarte /players/957358/radinio-balker  /players/988082/florian-krger 
+                        0.2054                         0.0770                         0.0406                         0.0272                         0.1429                         0.0237 
+                          none 
+                        0.5876 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is FC Twente 1.9117 to FC Utrecht 0.5988"
@@ -384,7 +448,18 @@
 [1] "FC Twente's Barstool Odds to cover the -0.5 spread are: 58.48"
 [1] "FC Utrecht's Barstool Odds to cover the 0.5 spread are: 45.45"
 [1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+      /players/1074967/ramiz-zerrouki         /players/1087476/mathias-kjlø /players/116750/ricky-van-wolfswinkel       /players/253120/virgil-misidjan         /players/389845/joshua-brenet 
+                               0.1148                                0.1439                                0.4768                                0.2963                                0.2536 
+          /players/623540/vclav-cerny           /players/662735/michel-vlap             /players/883503/gijs-smal                                  none 
+                               0.3509                                0.0371                                0.0754                                0.1230 
+
+            /players/104045/bas-dost       /players/188557/jens-toornstra /players/304668/sander-van-de-streek         /players/466861/sean-klaiber        /players/884272/modibo-sagnan 
+                              0.1320                               0.0195                               0.2771                               0.0712                               0.1325 
+                                none 
+                              0.5010 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Feyenoord 1.849 to Ajax 1.2867"
@@ -439,7 +514,18 @@
 [1] "Feyenoord's Barstool Odds to cover the 0 spread are: 51.02"
 [1] "Ajax's Barstool Odds to cover the 0 spread are: 53.19"
 [1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+       /players/727897/david-hancko    /players/760743/javairo-dilrosun /players/765466/sebastian-szymanski     /players/767256/jacob-rasmussen              /players/931862/danilo 
+                             0.0652                              0.1627                              0.2739                              0.2402                              0.2689 
+         /players/935409/orkun-kkcü      /players/970563/quinten-timber                                none 
+                             0.2607                              0.1311                              0.2192 
+
+ /players/1180321/devyne-rensch /players/209786/steven-berghuis   /players/298448/davy-klaassen   /players/877401/calvin-bassey   /players/940446/brian-brobbey      /players/94267/dusan-tadic 
+                         0.1006                          0.2101                          0.1598                          0.1561                          0.2174                          0.0516 
+ /players/970565/kenneth-taylor                            none 
+                         0.2503                          0.2866 
+[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is AZ 2.0737 to Fortuna Sittard 0.6589"
@@ -494,7 +580,16 @@
 [1] "AZ's Barstool Odds to cover the -0.5 spread are: 75.76"
 [1] "Fortuna Sittard's Barstool Odds to cover the 0.5 spread are: 28.17"
 [1] "Barstool's line for the total is 2.5 at 1.56, which is a 64.1 percent chance of the over 2.5 hitting."
-[1] "-----------------------------------"
+[1] "-------------------------------------------------------------------------"
+
+   /players/1195281/milos-kerkez     /players/209384/jordy-clasie       /players/632870/hkon-evjen     /players/689680/jens-odgaard  /players/737061/jesper-karlsson      /players/813428/dani-de-wit 
+                          0.1425                           0.0932                           0.0850                           0.5353                           0.3310                           0.3459 
+/players/868344/tijani-reijnders                             none 
+                          0.0659                           0.1389 
+
+ /players/1166329/rodrigo-guth    /players/253121/paul-gladon /players/279116/mats-seuntjens /players/660897/arianit-ferati  /players/670030/inigo-cordoba                           none 
+                        0.1375                         0.1177                         0.0063                         0.0741                         0.1230                         0.6254 
+[1] "_____________________________________________________________________________________________________________________________"
                        bet           date_time
 1          under NEC/Emmen 2023-01-21 09:45:00
 2                Emmen ATS 2023-01-21 09:45:00
@@ -502,4 +597,4 @@
 4 over RKC/Go Ahead Eagles 2023-01-21 12:00:00
 5                FC Twente 2023-01-22 05:30:00
 6 under AZ/Fortuna Sittard 2023-01-22 07:45:00
-[1] "New commit ID #617"
+[1] "New commit ID #8761"
