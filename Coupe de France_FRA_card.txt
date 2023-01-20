@@ -1,73 +1,5 @@
-[1] "Updated at 2023-01-20 11:59:06.186"
+[1] "Updated at 2023-01-20 14:14:42.579"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Marseille 0.9317 to Stade Rennes 0.9801"
-[1] "The pass/shot predicted total is 1.9118"
-[1] "Marseille pass/shot Predicted Win %: 33.53"
-[1] "The pass/shot Predicted Draw % is: 32.2"
-[1] "Stade Rennes pass/shot Predicted Win %: 34.27"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Marseille 2.4691 to Stade Rennes 2.356"
-[1] "The xg model predicted total is 4.8251"
-[1] "Marseille xg model Predicted Win %: 42.2"
-[1] "The xg model Predicted Draw % is: 19.7"
-[1] "Stade Rennes xg model Predicted Win %: 38.1"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Marseille 1.7554 to Stade Rennes 2.5825"
-[1] "The xgot model predicted total is 4.3379"
-[1] "Marseille xgot model Predicted Win %: 25.73"
-[1] "The xgot model Predicted Draw % is: 18.67"
-[1] "Stade Rennes xgot model Predicted Win %: 55.6"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Marseille 2.0823 to Stade Rennes 1.7918"
-[1] "The xa model predicted total is 3.8741"
-[1] "Marseille xa model Predicted Win %: 45.88"
-[1] "The xa model Predicted Draw % is: 20.54"
-[1] "Stade Rennes xa model Predicted Win %: 33.58"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Marseille 2.5922 to Stade Rennes 2.2013"
-[1] "The XGExp model predicted total is 4.7935"
-[1] "Marseille XGExp model Predicted Win %: 47.83"
-[1] "The XGExp model Predicted Draw % is: 19.07"
-[1] "Stade Rennes XGExp model Predicted Win %: 33.1"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Marseille 2.109 to Stade Rennes 1.757"
-[1] "The XAExp model predicted total is 3.866"
-[1] "Marseille XAExp model Predicted Win %: 46.46"
-[1] "The XAExp model Predicted Draw % is: 21.13"
-[1] "Stade Rennes XAExp model Predicted Win %: 32.41"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Marseille winning this match is 40.27 percent, with a minimum chance of 25.73 percent, and a maximum chance of 47.83 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 21.88 percent, with a minimum chance of 18.67 percent, and a maximum chance of 32.2 percent."
-[1] "Our modelled likelihood of Stade Rennes winning this match is 37.84 percent, with a minimum chance of 32.41 percent, and a maximum chance of 55.6 percent."
-[1] "Our modelled likelihood of Marseille winning this match OR DRAW is 62.16 percent, with a minimum chance of 44.4 percent, and a maximum chance of 67.59 percent."
-[1] "Our modelled likelihood of Stade Rennes winning this match OR DRAW is 59.73 percent, with a minimum chance of 52.17 percent, and a maximum chance of 74.27 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 75.22 percent, with a high likelihood of 85.98 and a low likelihood of 29.94 percent."
-[1] "--Sportsbook Odds--"
-[1] "Marseille Barstool Odds are: 58.82"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Stade Rennes Barstool Odds are: 21.74"
-[1] "Marseille Adjusted Barstool Odds are: 54.292"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.641"
-[1] "Stade Rennes Adjusted Barstool Odds are: 20.066"
-[1] "Marseille's Barstool Odds to cover the -0.75 spread are: 50.51"
-[1] "Stade Rennes's Barstool Odds to cover the 0.75 spread are: 54.05"
-[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-
-  /players/261313/jordan-veretout    /players/304345/sead-kolasinac /players/459658/ruslan-malinovsky      /players/478112/samuel-gigot      /players/50047/alexis-snchez 
-                           0.1912                            0.2117                            0.0951                            0.2319                            0.4474 
- /players/562719/valentin-rongier  /players/800609/matteo-guendouzi      /players/957118/nuno-tavares                              none                          own goal 
-                           0.0587                            0.1148                            0.2422                            0.1606                            0.0922 
-
-     /players/1173250/arthur-theate    /players/1177358/adrien-truffert   /players/1200631/lesley-ugochukwu         /players/1339208/dsiré-doué        /players/426892/hamari-traor 
-                             0.0216                              0.0332                              0.0310                              0.1697                              0.1423 
-/players/441871/benjamin-bourigeaud           /players/717174/joe-rodon         /players/762721/lovro-majer        /players/844437/amine-gouiri                                none 
-                             0.3238                              0.0708                              0.2437                              0.4712                              0.1697 
-                           own goal 
-                             0.0857 
-[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Toulouse 1.4381 to AC Ajaccio 0.4962"
@@ -119,20 +51,10 @@
 [1] "Toulouse Adjusted Barstool Odds are: 52.971"
 [1] "The Adjusted Barstool Odds of a Draw are: 26.875"
 [1] "AC Ajaccio Adjusted Barstool Odds are: 20.154"
-[1] "Toulouse's Barstool Odds to cover the  spread are: NA"
-[1] "AC Ajaccio's Barstool Odds to cover the  spread are: NA"
+[1] "Toulouse's Barstool Odds to cover the -1.75 spread are: 23.53"
+[1] "AC Ajaccio's Barstool Odds to cover the 1.75 spread are: 81.3"
 [1] "Barstool's line for the total is 2.5 at 2.05, which is a 48.78 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-     /players/1079554/anthony-rouault     /players/208929/brecht-dejaeghere          /players/490656/rafael-ratao /players/505059/branco-van-den-boomen       /players/614602/stijn-spierings 
-                               0.1719                                0.2871                                0.3237                                0.1874                                0.1079 
-    /players/846761/zakaria-aboukhlal        /players/885085/thijs-dallinga                                  none                              own goal 
-                               0.3524                                0.3346                                0.1263                                0.1008 
-
-        /players/179823/ryad-nouri     /players/179845/romain-hamouma        /players/46431/cdric-avinel     /players/517981/cyrille-bayala  /players/640292/vincent-marchetti 
-                            0.2876                             0.1928                             0.1139                             0.2051                             0.0804 
-/players/971794/mounaim-el-idrissy                               none                           own goal 
-                            0.1104                             0.3362                             0.0549 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -185,22 +107,10 @@
 [1] "Lille Adjusted Barstool Odds are: 80.451"
 [1] "The Adjusted Barstool Odds of a Draw are: 13.747"
 [1] "Pau Adjusted Barstool Odds are: 5.802"
-[1] "Lille's Barstool Odds to cover the -0.5 spread are: 85.47"
-[1] "Pau's Barstool Odds to cover the 0.5 spread are: 18.87"
+[1] "Lille's Barstool Odds to cover the  spread are: NA"
+[1] "Pau's Barstool Odds to cover the  spread are: NA"
 [1] "Barstool's line for the total is 2.5 at 1.55, which is a 64.52 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
- /players/148830/benjamin-andr        /players/185949/ismaily    /players/199834/rmy-cabella       /players/26552/jos-fonte /players/466478/jonathan-bamba     /players/684978/adam-ounas 
-                        0.0307                         0.1356                         0.1983                         0.0225                         0.2111                         0.1286 
-   /players/848667/angel-gomes    /players/866358/tiago-djalo /players/939569/jonathan-david                           none                       own goal 
-                        0.0774                         0.1394                         0.2480                         0.2566                         0.0601 
-
-   /players/1003255/jean-lambert-evans              /players/1285468/noah-sow /players/188114/laglais-xavier-kouassi        /players/303334/mohamed-yattara            /players/586199/erwin-koffi 
-                                0.0162                                 0.0081                                 0.0081                                 0.0159                                 0.0088 
-             /players/766586/jean-ruiz        /players/820734/steeve-beusnard            /players/94010/henri-saivet       /players/950504/mons-bassouamina         /players/979749/eddy-sylvestre 
-                                0.0085                                 0.0162                                 0.0156                                 0.0169                                 0.0173 
-                                  none                               own goal 
-                                0.8819                                 0.0072 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -253,18 +163,10 @@
 [1] "Niort Adjusted Barstool Odds are: 25.677"
 [1] "The Adjusted Barstool Odds of a Draw are: 30.308"
 [1] "Auxerre Adjusted Barstool Odds are: 44.015"
-[1] "Niort's Barstool Odds to cover the -0.5 spread are: 26.32"
-[1] "Auxerre's Barstool Odds to cover the 0.5 spread are: 78.12"
+[1] "Niort's Barstool Odds to cover the 0.5 spread are: 57.8"
+[1] "Auxerre's Barstool Odds to cover the -0.5 spread are: 47.17"
 [1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-  /players/1053677/amadou-sagna /players/1177376/samy-benchamma /players/1177966/joris-moutachy  /players/605858/bilal-boutobba  /players/751195/moataz-zemzemi   /players/78185/charles-kabore 
-                         0.1056                          0.0009                          0.0010                          0.1049                          0.0988                          0.1020 
-  /players/820067/lenny-vallier    /players/820306/yanis-merdji  /players/864290/ibrahima-conte    /players/953689/guy-marcelin                            none                        own goal 
-                         0.0009                          0.1875                          0.0011                          0.0008                          0.5106                          0.0325 
-
- /players/192316/mathias-autret /players/352844/julian-jeanvier      /players/46241/mbaye-niang           /players/493731/jubal                            none                        own goal 
-                         0.0233                          0.1123                          0.1430                          0.0971                          0.6754                          0.0208 
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -321,22 +223,11 @@
 [1] "Lens's Barstool Odds to cover the  spread are: NA"
 [1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
-
-       /players/291219/islam-slimani       /players/501543/franck-honorat       /players/561869/haris-belkebla    /players/660462/pierre-lees-melou /players/725398/mathias-pereira-lage 
-                              0.3121                               0.2462                               0.1056                               0.1316                               0.0553 
-         /players/988119/noah-fadiga                                 none                             own goal 
-                              0.1210                               0.3449                               0.0561 
-
-   /players/1074642/salis-abdul-samed          /players/1138769/david-costa /players/402419/przemyslaw-frankowski        /players/578756/deiver-machado           /players/602211/seko-fofana 
-                               0.1020                                0.0311                                0.2416                                0.1313                                0.2996 
-       /players/612699/florian-sotoca     /players/747767/ikoma-lois-openda                                  none                              own goal 
-                               0.3537                                0.3888                                0.1580                                0.0885 
 [1] "_____________________________________________________________________________________________________________________________"
                   bet           date_time
-1        Stade Rennes 2023-01-20 12:10:00
-2      draw Lille/Pau 2023-01-22 09:30:00
-3     under Lille/Pau 2023-01-22 09:30:00
-4             Pau ATS 2023-01-22 09:30:00
-5  draw Niort/Auxerre 2023-01-22 09:30:00
-6 under Niort/Auxerre 2023-01-22 09:30:00
-[1] "New commit ID #9418"
+1      draw Lille/Pau 2023-01-22 09:30:00
+2     under Lille/Pau 2023-01-22 09:30:00
+3  draw Niort/Auxerre 2023-01-22 09:30:00
+4 under Niort/Auxerre 2023-01-22 09:30:00
+5           Niort ATS 2023-01-22 09:30:00
+[1] "New commit ID #9971"
