@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-20 16:35:35.884"
+[1] "Updated at 2023-01-20 16:56:51.680"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -342,7 +342,7 @@
 3                         FC Augsburg 2023-01-22 06:30:00
 4 under Borussia Dortmund/FC Augsburg 2023-01-22 06:30:00
 5                     FC Augsburg ATS 2023-01-22 06:30:00
-[1] "New commit ID #884"
+[1] "New commit ID #6423"
           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Danilo Soares  BOC      6  3.8      0.2632  0.3908   0.1276   tackles Bundesliga         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
