@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-20 14:59:51.980"
+[1] "Updated at 2023-01-20 16:27:34.440"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -46,13 +46,13 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 40.86 percent, with a high likelihood of 55.41 and a low likelihood of 31.26 percent."
 [1] "--Sportsbook Odds--"
 [1] "Rayo Vallecano Barstool Odds are: 33.33"
-[1] "The Barstool Odds of a Draw are: 30.77"
-[1] "Real Sociedad Barstool Odds are: 41.67"
-[1] "Rayo Vallecano Adjusted Barstool Odds are: 31.512"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.091"
-[1] "Real Sociedad Adjusted Barstool Odds are: 39.397"
-[1] "Rayo Vallecano's Barstool Odds to cover the 0.5 spread are: 62.5"
-[1] "Real Sociedad's Barstool Odds to cover the -0.5 spread are: 41.67"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Real Sociedad Barstool Odds are: 40.82"
+[1] "Rayo Vallecano Adjusted Barstool Odds are: 31.622"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.649"
+[1] "Real Sociedad Adjusted Barstool Odds are: 38.729"
+[1] "Rayo Vallecano's Barstool Odds to cover the 0.5 spread are: 63.29"
+[1] "Real Sociedad's Barstool Odds to cover the -0.5 spread are: 41.15"
 [1] "Barstool's line for the total is 2.5 at 2.45, which is a 40.82 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -158,14 +158,14 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 49.46 percent, with a high likelihood of 55.98 and a low likelihood of 42.11 percent."
 [1] "--Sportsbook Odds--"
 [1] "Atletico Madrid Barstool Odds are: 73.33"
-[1] "The Barstool Odds of a Draw are: 20.83"
-[1] "Real Valladolid Barstool Odds are: 11.76"
-[1] "Atletico Madrid Adjusted Barstool Odds are: 69.231"
-[1] "The Adjusted Barstool Odds of a Draw are: 19.666"
-[1] "Real Valladolid Adjusted Barstool Odds are: 11.103"
-[1] "Atletico Madrid's Barstool Odds to cover the -0.5 spread are: 71.43"
-[1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 32.79"
-[1] "Barstool's line for the total is 2.5 at 1.9, which is a 52.63 percent chance of the over 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 21.05"
+[1] "Real Valladolid Barstool Odds are: 12.5"
+[1] "Atletico Madrid Adjusted Barstool Odds are: 68.61"
+[1] "The Adjusted Barstool Odds of a Draw are: 19.695"
+[1] "Real Valladolid Adjusted Barstool Odds are: 11.695"
+[1] "Atletico Madrid's Barstool Odds to cover the -0.5 spread are: 70.42"
+[1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 33.9"
+[1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -214,14 +214,14 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 44.35 percent, with a high likelihood of 51.25 and a low likelihood of 28.87 percent."
 [1] "--Sportsbook Odds--"
 [1] "Sevilla FC Barstool Odds are: 60.61"
-[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "The Barstool Odds of a Draw are: 25.64"
 [1] "Cadiz Barstool Odds are: 19.05"
-[1] "Sevilla FC Adjusted Barstool Odds are: 57.19"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.835"
-[1] "Cadiz Adjusted Barstool Odds are: 17.975"
+[1] "Sevilla FC Adjusted Barstool Odds are: 57.559"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.349"
+[1] "Cadiz Adjusted Barstool Odds are: 18.091"
 [1] "Sevilla FC's Barstool Odds to cover the -0.5 spread are: 59.88"
-[1] "Cadiz's Barstool Odds to cover the 0.5 spread are: 44.84"
-[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87 percent chance of the over 2.5 hitting."
+[1] "Cadiz's Barstool Odds to cover the 0.5 spread are: 44.44"
+[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -448,11 +448,67 @@
 [1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "The pass/shot predicted score is Valencia 1.5144 to Almeria 0.9362"
+[1] "The pass/shot predicted total is 2.4506"
+[1] "Valencia pass/shot Predicted Win %: 50.7"
+[1] "The pass/shot Predicted Draw % is: 25.46"
+[1] "Almeria pass/shot Predicted Win %: 23.84"
+[1] "--XG Model--"
+[1] "The xg model predicted score is Valencia 1.1662 to Almeria 0.9391"
+[1] "The xg model predicted total is 2.1053"
+[1] "Valencia xg model Predicted Win %: 41.42"
+[1] "The xg model Predicted Draw % is: 29.3"
+[1] "Almeria xg model Predicted Win %: 29.28"
+[1] "--XGoT Model--"
+[1] "The xgot model predicted score is Valencia 1.7367 to Almeria 0.9078"
+[1] "The xgot model predicted total is 2.6445"
+[1] "Valencia xgot model Predicted Win %: 57.26"
+[1] "The xgot model Predicted Draw % is: 23.67"
+[1] "Almeria xgot model Predicted Win %: 19.07"
+[1] "--XA Model--"
+[1] "The xa model predicted score is Valencia 1.7581 to Almeria 0.9066"
+[1] "The xa model predicted total is 2.6647"
+[1] "Valencia xa model Predicted Win %: 57.41"
+[1] "The xa model Predicted Draw % is: 23.78"
+[1] "Almeria xa model Predicted Win %: 18.81"
+[1] "--XGExp Model--"
+[1] "The XGExp model predicted score is Valencia 1.5709 to Almeria 1.2862"
+[1] "The XGExp model predicted total is 2.8571"
+[1] "Valencia XGExp model Predicted Win %: 44.14"
+[1] "The XGExp model Predicted Draw % is: 24.25"
+[1] "Almeria XGExp model Predicted Win %: 31.61"
+[1] "--XAExp Model--"
+[1] "The XAExp model predicted score is Valencia 1.9199 to Almeria 0.8961"
+[1] "The XAExp model predicted total is 2.816"
+[1] "Valencia XAExp model Predicted Win %: 61.7"
+[1] "The XAExp model Predicted Draw % is: 21.81"
+[1] "Almeria XAExp model Predicted Win %: 16.49"
+[1] "--Mean 6 Models--"
+[1] "Our modelled likelihood of Valencia winning this match is 52.11 percent, with a minimum chance of 41.42 percent, and a maximum chance of 61.7 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 24.71 percent, with a minimum chance of 21.81 percent, and a maximum chance of 29.3 percent."
+[1] "Our modelled likelihood of Almeria winning this match is 23.18 percent, with a minimum chance of 16.49 percent, and a maximum chance of 31.61 percent."
+[1] "Our modelled likelihood of Valencia winning this match OR DRAW is 76.82 percent, with a minimum chance of 68.39 percent, and a maximum chance of 83.51 percent."
+[1] "Our modelled likelihood of Almeria winning this match OR DRAW is 47.89 percent, with a minimum chance of 38.3 percent, and a maximum chance of 58.58 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 47.9 percent, with a high likelihood of 54.4 and a low likelihood of 35.18 percent."
+[1] "--Sportsbook Odds--"
+[1] "Valencia Barstool Odds are: 62.5"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Almeria Barstool Odds are: 18.52"
+[1] "Valencia Adjusted Barstool Odds are: 58.951"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.58"
+[1] "Almeria Adjusted Barstool Odds are: 17.468"
+[1] "Valencia's Barstool Odds to cover the -0.5 spread are: 61.35"
+[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 42.92"
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
                      bet           date_time
 1                  Cadiz 2023-01-21 12:00:00
 2              Cadiz ATS 2023-01-21 12:00:00
 3 under Barcelona/Getafe 2023-01-22 09:30:00
-[1] "New commit ID #7260"
+[1] "New commit ID #965"
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1:   Take  RSO      2 3.37      0.2967  0.4734   0.1767   tackles LaLiga          NA         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -559,6 +615,24 @@
 1: Jordi Alba  BCN    106 1.58          NA  0.7388   0.1059    passes LaLiga      0.6329         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Vinicius Junior  RMD     27 1.51          NA  0.8433    0.181    passes LaLiga      0.6623         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Hugo Duro  VAL     22 1.85          NA       1   0.4595    passes LaLiga      0.5405         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Hugo Duro  VAL     26  2.3          NA       1   0.5652    passes LaLiga      0.4348         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Hugo Duro  VAL     30 2.76          NA  0.9997   0.6374    passes LaLiga      0.3623         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Hugo Duro  VAL     38  4.9          NA  0.9857   0.7816    passes LaLiga      0.2041         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Hugo Duro  VAL     18 1.51          NA       1   0.3377    passes LaLiga      0.6623         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Hugo Duro  VAL     34 3.55          NA  0.9975   0.7158    passes LaLiga      0.2817         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Largie Ramazani  ALM     17 1.84          NA  0.6665    0.123    passes LaLiga      0.5435         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Largie Ramazani  ALM     13 1.51          NA  0.9202   0.2579    passes LaLiga      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: El Bilal Toure  ALM     12  1.5          NA  0.9151   0.2484    passes LaLiga      0.6667         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ander Guevara  RSO      2 10.7          NA  0.3224   0.2289     shots LaLiga          NA     0.0935        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
