@@ -1,115 +1,59 @@
-[1] "Updated at 2023-01-21 09:10:06.543"
+[1] "Updated at 2023-01-21 11:16:00.933"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Atletico Madrid 1.391 to Real Valladolid 0.7039"
-[1] "The pass/shot predicted total is 2.0949"
-[1] "Atletico Madrid pass/shot Predicted Win %: 52.93"
-[1] "The pass/shot Predicted Draw % is: 28.16"
-[1] "Real Valladolid pass/shot Predicted Win %: 18.91"
+[1] "The pass/shot predicted score is Sevilla FC 1.6425 to Cadiz 0.9301"
+[1] "The pass/shot predicted total is 2.5726"
+[1] "Sevilla FC pass/shot Predicted Win %: 54.4"
+[1] "The pass/shot Predicted Draw % is: 24.43"
+[1] "Cadiz pass/shot Predicted Win %: 21.17"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Atletico Madrid 1.7251 to Real Valladolid 0.5074"
-[1] "The xg model predicted total is 2.2325"
-[1] "Atletico Madrid xg model Predicted Win %: 66.54"
-[1] "The xg model Predicted Draw % is: 23.21"
-[1] "Real Valladolid xg model Predicted Win %: 10.25"
+[1] "The xg model predicted score is Sevilla FC 0.9922 to Cadiz 1.4426"
+[1] "The xg model predicted total is 2.4348"
+[1] "Sevilla FC xg model Predicted Win %: 26.57"
+[1] "The xg model Predicted Draw % is: 26.54"
+[1] "Cadiz xg model Predicted Win %: 46.89"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Atletico Madrid 1.4458 to Real Valladolid 0.2368"
-[1] "The xgot model predicted total is 1.6826"
-[1] "Atletico Madrid xgot model Predicted Win %: 68.27"
-[1] "The xgot model Predicted Draw % is: 26.08"
-[1] "Real Valladolid xgot model Predicted Win %: 5.65"
+[1] "The xgot model predicted score is Sevilla FC 0.8325 to Cadiz 0.6956"
+[1] "The xgot model predicted total is 1.5281"
+[1] "Sevilla FC xgot model Predicted Win %: 35.87"
+[1] "The xgot model Predicted Draw % is: 36.82"
+[1] "Cadiz xgot model Predicted Win %: 27.31"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Atletico Madrid 2.3758 to Real Valladolid 0.9082"
-[1] "The xa model predicted total is 3.284"
-[1] "Atletico Madrid xa model Predicted Win %: 69.59"
-[1] "The xa model Predicted Draw % is: 17.94"
-[1] "Real Valladolid xa model Predicted Win %: 12.47"
+[1] "The xa model predicted score is Sevilla FC 1.7533 to Cadiz 0.8515"
+[1] "The xa model predicted total is 2.6048"
+[1] "Sevilla FC xa model Predicted Win %: 58.75"
+[1] "The xa model Predicted Draw % is: 23.49"
+[1] "Cadiz xa model Predicted Win %: 17.76"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Atletico Madrid 1.7298 to Real Valladolid 0.5227"
-[1] "The XGExp model predicted total is 2.2525"
-[1] "Atletico Madrid XGExp model Predicted Win %: 66.59"
-[1] "The XGExp model Predicted Draw % is: 22.74"
-[1] "Real Valladolid XGExp model Predicted Win %: 10.67"
+[1] "The XGExp model predicted score is Sevilla FC 1.0966 to Cadiz 1.3283"
+[1] "The XGExp model predicted total is 2.4249"
+[1] "Sevilla FC XGExp model Predicted Win %: 30.91"
+[1] "The XGExp model Predicted Draw % is: 27.73"
+[1] "Cadiz XGExp model Predicted Win %: 41.36"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Atletico Madrid 2.3306 to Real Valladolid 0.8195"
-[1] "The XAExp model predicted total is 3.1501"
-[1] "Atletico Madrid XAExp model Predicted Win %: 71.24"
-[1] "The XAExp model Predicted Draw % is: 17.87"
-[1] "Real Valladolid XAExp model Predicted Win %: 10.89"
+[1] "The XAExp model predicted score is Sevilla FC 1.8926 to Cadiz 0.773"
+[1] "The XAExp model predicted total is 2.6656"
+[1] "Sevilla FC XAExp model Predicted Win %: 64.32"
+[1] "The XAExp model Predicted Draw % is: 21.34"
+[1] "Cadiz XAExp model Predicted Win %: 14.34"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Atletico Madrid winning this match is 65.86 percent, with a minimum chance of 52.93 percent, and a maximum chance of 71.24 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 22.67 percent, with a minimum chance of 17.87 percent, and a maximum chance of 28.16 percent."
-[1] "Our modelled likelihood of Real Valladolid winning this match is 11.47 percent, with a minimum chance of 5.65 percent, and a maximum chance of 18.91 percent."
-[1] "Our modelled likelihood of Atletico Madrid winning this match OR DRAW is 88.53 percent, with a minimum chance of 81.09 percent, and a maximum chance of 94.35 percent."
-[1] "Our modelled likelihood of Real Valladolid winning this match OR DRAW is 34.14 percent, with a minimum chance of 28.76 percent, and a maximum chance of 47.07 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 44.32 percent, with a high likelihood of 63.74 and a low likelihood of 23.82 percent."
+[1] "Our modelled likelihood of Sevilla FC winning this match is 45.14 percent, with a minimum chance of 26.57 percent, and a maximum chance of 64.32 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 26.72 percent, with a minimum chance of 21.34 percent, and a maximum chance of 36.82 percent."
+[1] "Our modelled likelihood of Cadiz winning this match is 28.14 percent, with a minimum chance of 14.34 percent, and a maximum chance of 46.89 percent."
+[1] "Our modelled likelihood of Sevilla FC winning this match OR DRAW is 71.86 percent, with a minimum chance of 53.11 percent, and a maximum chance of 85.66 percent."
+[1] "Our modelled likelihood of Cadiz winning this match OR DRAW is 54.86 percent, with a minimum chance of 35.68 percent, and a maximum chance of 73.43 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 42.29 percent, with a high likelihood of 49.79 and a low likelihood of 19.83 percent."
 [1] "--Sportsbook Odds--"
-[1] "Atletico Madrid Barstool Odds are: 74.07"
-[1] "The Barstool Odds of a Draw are: 20"
-[1] "Real Valladolid Barstool Odds are: 11.11"
-[1] "Atletico Madrid Adjusted Barstool Odds are: 70.422"
-[1] "The Adjusted Barstool Odds of a Draw are: 19.015"
-[1] "Real Valladolid Adjusted Barstool Odds are: 10.563"
-[1] "Atletico Madrid's Barstool Odds to cover the -0.5 spread are: 72.99"
-[1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 31.25"
-[1] "Barstool's line for the total is 2.5 at 1.85, which is a 54.05 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Sevilla FC 1.3726 to Cadiz 1.2158"
-[1] "The pass/shot predicted total is 2.5884"
-[1] "Sevilla FC pass/shot Predicted Win %: 40.58"
-[1] "The pass/shot Predicted Draw % is: 26.6"
-[1] "Cadiz pass/shot Predicted Win %: 32.82"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Sevilla FC 1.2614 to Cadiz 1.4635"
-[1] "The xg model predicted total is 2.7249"
-[1] "Sevilla FC xg model Predicted Win %: 33.08"
-[1] "The xg model Predicted Draw % is: 25.87"
-[1] "Cadiz xg model Predicted Win %: 41.05"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Sevilla FC 1.209 to Cadiz 0.663"
-[1] "The xgot model predicted total is 1.872"
-[1] "Sevilla FC xgot model Predicted Win %: 48.73"
-[1] "The xgot model Predicted Draw % is: 31.34"
-[1] "Cadiz xgot model Predicted Win %: 19.93"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Sevilla FC 1.5346 to Cadiz 1.0076"
-[1] "The xa model predicted total is 2.5422"
-[1] "Sevilla FC xa model Predicted Win %: 49.38"
-[1] "The xa model Predicted Draw % is: 25.44"
-[1] "Cadiz xa model Predicted Win %: 25.18"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Sevilla FC 1.3807 to Cadiz 1.2848"
-[1] "The XGExp model predicted total is 2.6655"
-[1] "Sevilla FC XGExp model Predicted Win %: 40.18"
-[1] "The XGExp model Predicted Draw % is: 25.56"
-[1] "Cadiz XGExp model Predicted Win %: 34.26"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Sevilla FC 1.404 to Cadiz 0.9069"
-[1] "The XAExp model predicted total is 2.3109"
-[1] "Sevilla FC XAExp model Predicted Win %: 48.69"
-[1] "The XAExp model Predicted Draw % is: 26.66"
-[1] "Cadiz XAExp model Predicted Win %: 24.65"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Sevilla FC winning this match is 43.44 percent, with a minimum chance of 33.08 percent, and a maximum chance of 49.38 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 26.91 percent, with a minimum chance of 25.44 percent, and a maximum chance of 31.34 percent."
-[1] "Our modelled likelihood of Cadiz winning this match is 29.65 percent, with a minimum chance of 19.93 percent, and a maximum chance of 41.05 percent."
-[1] "Our modelled likelihood of Sevilla FC winning this match OR DRAW is 70.35 percent, with a minimum chance of 58.95 percent, and a maximum chance of 80.07 percent."
-[1] "Our modelled likelihood of Cadiz winning this match OR DRAW is 56.56 percent, with a minimum chance of 50.62 percent, and a maximum chance of 66.92 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 44.35 percent, with a high likelihood of 51.25 and a low likelihood of 28.87 percent."
-[1] "--Sportsbook Odds--"
-[1] "Sevilla FC Barstool Odds are: 60"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Cadiz Barstool Odds are: 18.18"
-[1] "Sevilla FC Adjusted Barstool Odds are: 56.625"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.217"
-[1] "Cadiz Adjusted Barstool Odds are: 17.157"
-[1] "Sevilla FC's Barstool Odds to cover the -0.5 spread are: 58.82"
-[1] "Cadiz's Barstool Odds to cover the 0.5 spread are: 45.87"
-[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting."
+[1] "Sevilla FC Barstool Odds are: 57.14"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Cadiz Barstool Odds are: 20"
+[1] "Sevilla FC Adjusted Barstool Odds are: 53.84"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.316"
+[1] "Cadiz Adjusted Barstool Odds are: 18.845"
+[1] "Sevilla FC's Barstool Odds to cover the -0.75 spread are: 50.51"
+[1] "Cadiz's Barstool Odds to cover the 0.75 spread are: 54.64"
+[1] "Barstool's line for the total is 2.5 at 2.28, which is a 43.86 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -163,8 +107,8 @@
 [1] "Villarreal Adjusted Barstool Odds are: 56.588"
 [1] "The Adjusted Barstool Odds of a Draw are: 22.456"
 [1] "Girona FC Adjusted Barstool Odds are: 20.956"
-[1] "Villarreal's Barstool Odds to cover the -0.5 spread are: 58.82"
-[1] "Girona FC's Barstool Odds to cover the 0.5 spread are: 45.87"
+[1] "Villarreal's Barstool Odds to cover the -0.75 spread are: 53.76"
+[1] "Girona FC's Barstool Odds to cover the 0.75 spread are: 51.28"
 [1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -219,8 +163,8 @@
 [1] "Elche Adjusted Barstool Odds are: 26.282"
 [1] "The Adjusted Barstool Odds of a Draw are: 28.666"
 [1] "Osasuna Adjusted Barstool Odds are: 45.052"
-[1] "Elche's Barstool Odds to cover the -0.5 spread are: 28.57"
-[1] "Osasuna's Barstool Odds to cover the 0.5 spread are: 75.19"
+[1] "Elche's Barstool Odds to cover the 0.25 spread are: 51.02"
+[1] "Osasuna's Barstool Odds to cover the -0.25 spread are: 54.35"
 [1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -269,14 +213,14 @@
 [1] "Our modelled likelihood of Getafe winning this match OR DRAW is 24.26 percent, with a minimum chance of 10.01 percent, and a maximum chance of 34.94 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 46.6 percent, with a high likelihood of 60.78 and a low likelihood of 31.32 percent."
 [1] "--Sportsbook Odds--"
-[1] "Barcelona Barstool Odds are: 86.67"
+[1] "Barcelona Barstool Odds are: 85.71"
 [1] "The Barstool Odds of a Draw are: 13.33"
-[1] "Getafe Barstool Odds are: 5.56"
-[1] "Barcelona Adjusted Barstool Odds are: 82.105"
-[1] "The Adjusted Barstool Odds of a Draw are: 12.628"
-[1] "Getafe Adjusted Barstool Odds are: 5.267"
-[1] "Barcelona's Barstool Odds to cover the -0.5 spread are: 84.03"
-[1] "Getafe's Barstool Odds to cover the 0.5 spread are: 19.61"
+[1] "Getafe Barstool Odds are: 5.88"
+[1] "Barcelona Adjusted Barstool Odds are: 81.691"
+[1] "The Adjusted Barstool Odds of a Draw are: 12.705"
+[1] "Getafe Adjusted Barstool Odds are: 5.604"
+[1] "Barcelona's Barstool Odds to cover the -2 spread are: 51.02"
+[1] "Getafe's Barstool Odds to cover the 2 spread are: 53.19"
 [1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -325,14 +269,14 @@
 [1] "Our modelled likelihood of Real Madrid winning this match OR DRAW is 66.29 percent, with a minimum chance of 55.53 percent, and a maximum chance of 75.67 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 51.33 percent, with a high likelihood of 66.09 and a low likelihood of 37.69 percent."
 [1] "--Sportsbook Odds--"
-[1] "Athletic Bilbao Barstool Odds are: 33.33"
+[1] "Athletic Bilbao Barstool Odds are: 34.48"
 [1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Real Madrid Barstool Odds are: 44.44"
-[1] "Athletic Bilbao Adjusted Barstool Odds are: 31.343"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.867"
-[1] "Real Madrid Adjusted Barstool Odds are: 41.79"
-[1] "Athletic Bilbao's Barstool Odds to cover the -0.5 spread are: 33.9"
-[1] "Real Madrid's Barstool Odds to cover the 0.5 spread are: 69.93"
+[1] "Real Madrid Barstool Odds are: 43.48"
+[1] "Athletic Bilbao Adjusted Barstool Odds are: 32.366"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.819"
+[1] "Real Madrid Adjusted Barstool Odds are: 40.815"
+[1] "Athletic Bilbao's Barstool Odds to cover the 0.25 spread are: 56.18"
+[1] "Real Madrid's Barstool Odds to cover the -0.25 spread are: 49.5"
 [1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -387,23 +331,16 @@
 [1] "Valencia Adjusted Barstool Odds are: 59.756"
 [1] "The Adjusted Barstool Odds of a Draw are: 23.474"
 [1] "Almeria Adjusted Barstool Odds are: 16.77"
-[1] "Valencia's Barstool Odds to cover the -0.5 spread are: 62.5"
-[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 42.02"
+[1] "Valencia's Barstool Odds to cover the -1 spread are: 49.5"
+[1] "Almeria's Barstool Odds to cover the 1 spread are: 54.95"
 [1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                      bet           date_time
-1                  Cadiz 2023-01-21 12:00:00
-2              Cadiz ATS 2023-01-21 12:00:00
-3                Osasuna 2023-01-22 07:15:00
-4            Osasuna ATS 2023-01-22 07:15:00
-5 under Barcelona/Getafe 2023-01-22 09:30:00
-6 under Valencia/Almeria 2023-01-23 12:00:00
-[1] "New commit ID #3006"
-          player team number  odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Morata  ATM      3 12.65      0.0791  0.2036   0.1245   tackles LaLiga          NA         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Morata  ATM      2  4.9      0.2041  0.4078   0.2037   tackles LaLiga          NA         NA        NA         NA       NA
+1                Osasuna 2023-01-22 07:15:00
+2 under Barcelona/Getafe 2023-01-22 09:30:00
+3 under Valencia/Almeria 2023-01-23 12:00:00
+[1] "New commit ID #2254"
              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Samuel Chukwueze  VIL      2 4.45      0.2247  0.3544   0.1297   tackles LaLiga          NA         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -416,22 +353,14 @@
 1: Eder Militao  RMD      2 2.18      0.4587  0.5746   0.1159   tackles LaLiga          NA         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Eder Militao  RMD      3    4        0.25  0.3505   0.1005   tackles LaLiga          NA         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Correa  ATM     29 1.51          NA  0.8473    0.185    passes LaLiga      0.6623         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antoine Griezmann  ATM     46 1.85          NA  0.8372   0.2967    passes LaLiga      0.5405         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antoine Griezmann  ATM     42 1.51          NA   0.941   0.2787    passes LaLiga      0.6623         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antoine Griezmann  ATM     50  2.3          NA  0.6622   0.2274    passes LaLiga      0.4348         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Morata  ATM     22 1.85          NA  0.7667   0.2262    passes LaLiga      0.5405         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Morata  ATM     18 1.51          NA  0.9423     0.28    passes LaLiga      0.6623         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Anthony Lozano  CAD     12 1.51          NA  0.7737   0.1114    passes LaLiga      0.6623         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV     35 1.51          NA  0.7929   0.1306    passes LaLiga      0.6623         NA        NA         NA       NA
+1:   Suso  SEV     39 1.85          NA  0.9249   0.3844    passes LaLiga      0.5405         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Suso  SEV     43  2.3          NA  0.7985   0.3637    passes LaLiga      0.4348         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Suso  SEV     47 2.76          NA  0.5993    0.237    passes LaLiga      0.3623         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Suso  SEV     35 1.51          NA  0.9804   0.3181    passes LaLiga      0.6623         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Aleix Garcia  GIR     64 1.82          NA  0.7418   0.1923    passes LaLiga      0.5495         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -528,17 +457,15 @@
 1: Largie Ramazani  ALM     13 1.51          NA  0.9202   0.2579    passes LaLiga      0.6623         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: El Bilal Toure  ALM     12  1.5          NA  0.9151   0.2484    passes LaLiga      0.6667         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Rakitic  SEV      2 3.75          NA  0.4055   0.1388     shots LaLiga          NA     0.2667        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Rakitic  SEV      3   10          NA  0.2018   0.1018     shots LaLiga          NA        0.1        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Sobrino  CAD      2  2.5          NA  0.5242   0.1242     shots LaLiga          NA        0.4        NA         NA       NA
+1: Ruben Sobrino  CAD      2  2.5          NA  0.5563   0.1563     shots LaLiga          NA        0.4        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Sobrino  CAD      3 5.45          NA  0.3021   0.1186     shots LaLiga          NA     0.1835        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Nemanja Gudelj  SEV      2 2.92          NA  0.5089   0.1664     shots LaLiga          NA     0.3425        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Nemanja Gudelj  SEV      3  7.2          NA  0.2882   0.1493     shots LaLiga          NA     0.1389        NA         NA       NA
+1: Ruben Sobrino  CAD      3 5.45          NA  0.3326   0.1491     shots LaLiga          NA     0.1835        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Alcaraz  CAD      3 5.45          NA  0.3021   0.1186     shots LaLiga          NA     0.1835        NA         NA       NA
+1: Ruben Alcaraz  CAD      3 5.45          NA  0.3326   0.1491     shots LaLiga          NA     0.1835        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Alcaraz  CAD      2  2.5          NA  0.5242   0.1242     shots LaLiga          NA        0.4        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Alcaraz  CAD      2   15          NA  0.1729   0.1062      sogs LaLiga          NA         NA    0.0667         NA       NA
+1: Ruben Alcaraz  CAD      2  2.5          NA  0.5563   0.1563     shots LaLiga          NA        0.4        NA         NA       NA
