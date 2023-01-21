@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-20 14:12:58.470"
+[1] "Updated at 2023-01-20 16:11:34.723"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -456,4 +456,16 @@
 5 under Club Brugge/Sporting de Charleroi 2023-01-22 09:30:00
 6               Sporting de Charleroi ATS 2023-01-22 09:30:00
 7            under St. Truidense/KAA Gent 2023-01-22 12:00:00
-[1] "New commit ID #9459"
+[1] "New commit ID #6883"
+47.62 percent chance of the over 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                      bet           date_time
+1            under RFC Seraing/Anderlecht 2023-01-22 07:00:00
+2                         RFC Seraing ATS 2023-01-22 07:00:00
+3  draw Club Brugge/Sporting de Charleroi 2023-01-22 09:30:00
+4                   Sporting de Charleroi 2023-01-22 09:30:00
+5 under Club Brugge/Sporting de Charleroi 2023-01-22 09:30:00
+6               Sporting de Charleroi ATS 2023-01-22 09:30:00
+7            under St. Truidense/KAA Gent 2023-01-22 12:00:00
+[1] "New commit ID #6883"
