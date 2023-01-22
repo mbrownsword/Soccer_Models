@@ -1,61 +1,5 @@
-[1] "Updated at 2023-01-21 11:16:00.933"
+[1] "Updated at 2023-01-21 17:33:31.611"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Sevilla FC 1.6425 to Cadiz 0.9301"
-[1] "The pass/shot predicted total is 2.5726"
-[1] "Sevilla FC pass/shot Predicted Win %: 54.4"
-[1] "The pass/shot Predicted Draw % is: 24.43"
-[1] "Cadiz pass/shot Predicted Win %: 21.17"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Sevilla FC 0.9922 to Cadiz 1.4426"
-[1] "The xg model predicted total is 2.4348"
-[1] "Sevilla FC xg model Predicted Win %: 26.57"
-[1] "The xg model Predicted Draw % is: 26.54"
-[1] "Cadiz xg model Predicted Win %: 46.89"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Sevilla FC 0.8325 to Cadiz 0.6956"
-[1] "The xgot model predicted total is 1.5281"
-[1] "Sevilla FC xgot model Predicted Win %: 35.87"
-[1] "The xgot model Predicted Draw % is: 36.82"
-[1] "Cadiz xgot model Predicted Win %: 27.31"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Sevilla FC 1.7533 to Cadiz 0.8515"
-[1] "The xa model predicted total is 2.6048"
-[1] "Sevilla FC xa model Predicted Win %: 58.75"
-[1] "The xa model Predicted Draw % is: 23.49"
-[1] "Cadiz xa model Predicted Win %: 17.76"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Sevilla FC 1.0966 to Cadiz 1.3283"
-[1] "The XGExp model predicted total is 2.4249"
-[1] "Sevilla FC XGExp model Predicted Win %: 30.91"
-[1] "The XGExp model Predicted Draw % is: 27.73"
-[1] "Cadiz XGExp model Predicted Win %: 41.36"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Sevilla FC 1.8926 to Cadiz 0.773"
-[1] "The XAExp model predicted total is 2.6656"
-[1] "Sevilla FC XAExp model Predicted Win %: 64.32"
-[1] "The XAExp model Predicted Draw % is: 21.34"
-[1] "Cadiz XAExp model Predicted Win %: 14.34"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Sevilla FC winning this match is 45.14 percent, with a minimum chance of 26.57 percent, and a maximum chance of 64.32 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 26.72 percent, with a minimum chance of 21.34 percent, and a maximum chance of 36.82 percent."
-[1] "Our modelled likelihood of Cadiz winning this match is 28.14 percent, with a minimum chance of 14.34 percent, and a maximum chance of 46.89 percent."
-[1] "Our modelled likelihood of Sevilla FC winning this match OR DRAW is 71.86 percent, with a minimum chance of 53.11 percent, and a maximum chance of 85.66 percent."
-[1] "Our modelled likelihood of Cadiz winning this match OR DRAW is 54.86 percent, with a minimum chance of 35.68 percent, and a maximum chance of 73.43 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 42.29 percent, with a high likelihood of 49.79 and a low likelihood of 19.83 percent."
-[1] "--Sportsbook Odds--"
-[1] "Sevilla FC Barstool Odds are: 57.14"
-[1] "The Barstool Odds of a Draw are: 28.99"
-[1] "Cadiz Barstool Odds are: 20"
-[1] "Sevilla FC Adjusted Barstool Odds are: 53.84"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.316"
-[1] "Cadiz Adjusted Barstool Odds are: 18.845"
-[1] "Sevilla FC's Barstool Odds to cover the -0.75 spread are: 50.51"
-[1] "Cadiz's Barstool Odds to cover the 0.75 spread are: 54.64"
-[1] "Barstool's line for the total is 2.5 at 2.28, which is a 43.86 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Villarreal 1.3693 to Girona FC 1.0838"
@@ -101,15 +45,15 @@
 [1] "Our modelled likelihood of Girona FC winning this match OR DRAW is 49.28 percent, with a minimum chance of 21.42 percent, and a maximum chance of 76.99 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 57.52 percent, with a high likelihood of 68.52 and a low likelihood of 44.41 percent."
 [1] "--Sportsbook Odds--"
-[1] "Villarreal Barstool Odds are: 60"
-[1] "The Barstool Odds of a Draw are: 23.81"
-[1] "Girona FC Barstool Odds are: 22.22"
-[1] "Villarreal Adjusted Barstool Odds are: 56.588"
-[1] "The Adjusted Barstool Odds of a Draw are: 22.456"
-[1] "Girona FC Adjusted Barstool Odds are: 20.956"
-[1] "Villarreal's Barstool Odds to cover the -0.75 spread are: 53.76"
-[1] "Girona FC's Barstool Odds to cover the 0.75 spread are: 51.28"
-[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8 percent chance of the over 2.5 hitting."
+[1] "Villarreal Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Girona FC Barstool Odds are: 21.74"
+[1] "Villarreal Adjusted Barstool Odds are: 55.722"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.683"
+[1] "Girona FC Adjusted Barstool Odds are: 20.595"
+[1] "Villarreal's Barstool Odds to cover the -0.5 spread are: 58.14"
+[1] "Girona FC's Barstool Odds to cover the 0.5 spread are: 46.08"
+[1] "Barstool's line for the total is 2.5 at 1.77, which is a 56.5 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -158,14 +102,14 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 43.91 percent, with a high likelihood of 57.14 and a low likelihood of 35.99 percent."
 [1] "--Sportsbook Odds--"
 [1] "Elche Barstool Odds are: 27.78"
-[1] "The Barstool Odds of a Draw are: 30.3"
-[1] "Osasuna Barstool Odds are: 47.62"
-[1] "Elche Adjusted Barstool Odds are: 26.282"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.666"
-[1] "Osasuna Adjusted Barstool Odds are: 45.052"
-[1] "Elche's Barstool Odds to cover the 0.25 spread are: 51.02"
-[1] "Osasuna's Barstool Odds to cover the -0.25 spread are: 54.35"
-[1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48 percent chance of the over 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Osasuna Barstool Odds are: 46.73"
+[1] "Elche Adjusted Barstool Odds are: 26.387"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.227"
+[1] "Osasuna Adjusted Barstool Odds are: 44.386"
+[1] "Elche's Barstool Odds to cover the -0.5 spread are: 28.57"
+[1] "Osasuna's Barstool Odds to cover the 0.5 spread are: 75.19"
+[1] "Barstool's line for the total is 2.5 at 2.35, which is a 42.55 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -213,14 +157,14 @@
 [1] "Our modelled likelihood of Getafe winning this match OR DRAW is 24.26 percent, with a minimum chance of 10.01 percent, and a maximum chance of 34.94 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 46.6 percent, with a high likelihood of 60.78 and a low likelihood of 31.32 percent."
 [1] "--Sportsbook Odds--"
-[1] "Barcelona Barstool Odds are: 85.71"
+[1] "Barcelona Barstool Odds are: 86.67"
 [1] "The Barstool Odds of a Draw are: 13.33"
-[1] "Getafe Barstool Odds are: 5.88"
-[1] "Barcelona Adjusted Barstool Odds are: 81.691"
-[1] "The Adjusted Barstool Odds of a Draw are: 12.705"
-[1] "Getafe Adjusted Barstool Odds are: 5.604"
-[1] "Barcelona's Barstool Odds to cover the -2 spread are: 51.02"
-[1] "Getafe's Barstool Odds to cover the 2 spread are: 53.19"
+[1] "Getafe Barstool Odds are: 5.56"
+[1] "Barcelona Adjusted Barstool Odds are: 82.105"
+[1] "The Adjusted Barstool Odds of a Draw are: 12.628"
+[1] "Getafe Adjusted Barstool Odds are: 5.267"
+[1] "Barcelona's Barstool Odds to cover the -0.5 spread are: 84.03"
+[1] "Getafe's Barstool Odds to cover the 0.5 spread are: 19.23"
 [1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -269,15 +213,15 @@
 [1] "Our modelled likelihood of Real Madrid winning this match OR DRAW is 66.29 percent, with a minimum chance of 55.53 percent, and a maximum chance of 75.67 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 51.33 percent, with a high likelihood of 66.09 and a low likelihood of 37.69 percent."
 [1] "--Sportsbook Odds--"
-[1] "Athletic Bilbao Barstool Odds are: 34.48"
+[1] "Athletic Bilbao Barstool Odds are: 31.75"
 [1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Real Madrid Barstool Odds are: 43.48"
-[1] "Athletic Bilbao Adjusted Barstool Odds are: 32.366"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.819"
-[1] "Real Madrid Adjusted Barstool Odds are: 40.815"
-[1] "Athletic Bilbao's Barstool Odds to cover the 0.25 spread are: 56.18"
-[1] "Real Madrid's Barstool Odds to cover the -0.25 spread are: 49.5"
-[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64 percent chance of the over 2.5 hitting."
+[1] "Real Madrid Barstool Odds are: 45.45"
+[1] "Athletic Bilbao Adjusted Barstool Odds are: 30.018"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.011"
+[1] "Real Madrid Adjusted Barstool Odds are: 42.971"
+[1] "Athletic Bilbao's Barstool Odds to cover the -0.5 spread are: 32.79"
+[1] "Real Madrid's Barstool Odds to cover the 0.5 spread are: 71.43"
+[1] "Barstool's line for the total is 2.5 at 1.88, which is a 53.19 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -325,22 +269,23 @@
 [1] "Our modelled likelihood of Almeria winning this match OR DRAW is 47.89 percent, with a minimum chance of 38.3 percent, and a maximum chance of 58.58 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 47.9 percent, with a high likelihood of 54.4 and a low likelihood of 35.18 percent."
 [1] "--Sportsbook Odds--"
-[1] "Valencia Barstool Odds are: 63.64"
-[1] "The Barstool Odds of a Draw are: 25"
+[1] "Valencia Barstool Odds are: 64.52"
+[1] "The Barstool Odds of a Draw are: 23.81"
 [1] "Almeria Barstool Odds are: 17.86"
-[1] "Valencia Adjusted Barstool Odds are: 59.756"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.474"
-[1] "Almeria Adjusted Barstool Odds are: 16.77"
-[1] "Valencia's Barstool Odds to cover the -1 spread are: 49.5"
-[1] "Almeria's Barstool Odds to cover the 1 spread are: 54.95"
+[1] "Valencia Adjusted Barstool Odds are: 60.759"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.422"
+[1] "Almeria Adjusted Barstool Odds are: 16.819"
+[1] "Valencia's Barstool Odds to cover the -0.5 spread are: 62.5"
+[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 41.67"
 [1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                      bet           date_time
 1                Osasuna 2023-01-22 07:15:00
-2 under Barcelona/Getafe 2023-01-22 09:30:00
-3 under Valencia/Almeria 2023-01-23 12:00:00
-[1] "New commit ID #2254"
+2            Osasuna ATS 2023-01-22 07:15:00
+3 under Barcelona/Getafe 2023-01-22 09:30:00
+4 under Valencia/Almeria 2023-01-23 12:00:00
+[1] "New commit ID #810"
              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Samuel Chukwueze  VIL      2 4.45      0.2247  0.3544   0.1297   tackles LaLiga          NA         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -353,14 +298,6 @@
 1: Eder Militao  RMD      2 2.18      0.4587  0.5746   0.1159   tackles LaLiga          NA         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Eder Militao  RMD      3    4        0.25  0.3505   0.1005   tackles LaLiga          NA         NA        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV     39 1.85          NA  0.9249   0.3844    passes LaLiga      0.5405         NA        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV     43  2.3          NA  0.7985   0.3637    passes LaLiga      0.4348         NA        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV     47 2.76          NA  0.5993    0.237    passes LaLiga      0.3623         NA        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV     35 1.51          NA  0.9804   0.3181    passes LaLiga      0.6623         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Aleix Garcia  GIR     64 1.82          NA  0.7418   0.1923    passes LaLiga      0.5495         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -457,15 +394,3 @@
 1: Largie Ramazani  ALM     13 1.51          NA  0.9202   0.2579    passes LaLiga      0.6623         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: El Bilal Toure  ALM     12  1.5          NA  0.9151   0.2484    passes LaLiga      0.6667         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ivan Rakitic  SEV      2 3.75          NA  0.4055   0.1388     shots LaLiga          NA     0.2667        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ivan Rakitic  SEV      3   10          NA  0.2018   0.1018     shots LaLiga          NA        0.1        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Sobrino  CAD      2  2.5          NA  0.5563   0.1563     shots LaLiga          NA        0.4        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Sobrino  CAD      3 5.45          NA  0.3326   0.1491     shots LaLiga          NA     0.1835        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Alcaraz  CAD      3 5.45          NA  0.3326   0.1491     shots LaLiga          NA     0.1835        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Alcaraz  CAD      2  2.5          NA  0.5563   0.1563     shots LaLiga          NA        0.4        NA         NA       NA
