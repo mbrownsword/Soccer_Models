@@ -1,61 +1,5 @@
-[1] "Updated at 2023-01-21 08:44:09.078"
+[1] "Updated at 2023-01-21 17:29:08.058"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Crystal Palace 0.6578 to Newcastle 1.9459"
-[1] "The pass/shot predicted total is 2.6037"
-[1] "Crystal Palace pass/shot Predicted Win %: 11.79"
-[1] "The pass/shot Predicted Draw % is: 20.79"
-[1] "Newcastle pass/shot Predicted Win %: 67.42"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Crystal Palace 0.4561 to Newcastle 1.7491"
-[1] "The xg model predicted total is 2.2052"
-[1] "Crystal Palace xg model Predicted Win %: 8.66"
-[1] "The xg model Predicted Draw % is: 21.94"
-[1] "Newcastle xg model Predicted Win %: 69.4"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Crystal Palace 0.2792 to Newcastle 1.1592"
-[1] "The xgot model predicted total is 1.4384"
-[1] "Crystal Palace xgot model Predicted Win %: 8.86"
-[1] "The xgot model Predicted Draw % is: 32.1"
-[1] "Newcastle xgot model Predicted Win %: 59.04"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Crystal Palace 0.8223 to Newcastle 1.8692"
-[1] "The xa model predicted total is 2.6915"
-[1] "Crystal Palace xa model Predicted Win %: 15.82"
-[1] "The xa model Predicted Draw % is: 22.2"
-[1] "Newcastle xa model Predicted Win %: 61.98"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Crystal Palace 0.3277 to Newcastle 1.7533"
-[1] "The XGExp model predicted total is 2.081"
-[1] "Crystal Palace XGExp model Predicted Win %: 6.03"
-[1] "The XGExp model Predicted Draw % is: 20.57"
-[1] "Newcastle XGExp model Predicted Win %: 73.4"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Crystal Palace 1.1152 to Newcastle 1.8192"
-[1] "The XAExp model predicted total is 2.9344"
-[1] "Crystal Palace XAExp model Predicted Win %: 23"
-[1] "The XAExp model Predicted Draw % is: 23.31"
-[1] "Newcastle XAExp model Predicted Win %: 53.69"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Crystal Palace winning this match is 12.36 percent, with a minimum chance of 6.03 percent, and a maximum chance of 23 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 23.48 percent, with a minimum chance of 20.57 percent, and a maximum chance of 32.1 percent."
-[1] "Our modelled likelihood of Newcastle winning this match is 64.16 percent, with a minimum chance of 53.69 percent, and a maximum chance of 73.4 percent."
-[1] "Our modelled likelihood of Crystal Palace winning this match OR DRAW is 35.84 percent, with a minimum chance of 26.6 percent, and a maximum chance of 46.31 percent."
-[1] "Our modelled likelihood of Newcastle winning this match OR DRAW is 87.64 percent, with a minimum chance of 77 percent, and a maximum chance of 93.97 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 41.08 percent, with a high likelihood of 56.19 and a low likelihood of 17.59 percent."
-[1] "--Sportsbook Odds--"
-[1] "Crystal Palace Barstool Odds are: 20.83"
-[1] "The Barstool Odds of a Draw are: 27.03"
-[1] "Newcastle Barstool Odds are: 57.14"
-[1] "Crystal Palace Adjusted Barstool Odds are: 19.838"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.743"
-[1] "Newcastle Adjusted Barstool Odds are: 54.419"
-[1] "Crystal Palace's Barstool Odds to cover the 0.75 spread are: 53.76"
-[1] "Newcastle's Barstool Odds to cover the -0.75 spread are: 51.28"
-[1] "Barstool's line for the total is 2.5 at 2.04, which is a 49.02 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Leeds United 1.6472 to Brentford 1.4346"
@@ -103,13 +47,13 @@
 [1] "--Sportsbook Odds--"
 [1] "Leeds United Barstool Odds are: 44.44"
 [1] "The Barstool Odds of a Draw are: 26.32"
-[1] "Brentford Barstool Odds are: 34.48"
-[1] "Leeds United Adjusted Barstool Odds are: 42.227"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.01"
-[1] "Brentford Adjusted Barstool Odds are: 32.763"
-[1] "Leeds United's Barstool Odds to cover the -0.25 spread are: 50.51"
-[1] "Brentford's Barstool Odds to cover the 0.25 spread are: 54.95"
-[1] "Barstool's line for the total is 2.5 at 1.63, which is a 61.35 percent chance of the over 2.5 hitting."
+[1] "Brentford Barstool Odds are: 33.9"
+[1] "Leeds United Adjusted Barstool Odds are: 42.461"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.148"
+[1] "Brentford Adjusted Barstool Odds are: 32.391"
+[1] "Leeds United's Barstool Odds to cover the -0.5 spread are: 44.44"
+[1] "Brentford's Barstool Odds to cover the 0.5 spread are: 59.88"
+[1] "Barstool's line for the total is 2.5 at 1.64, which is a 60.98 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -157,15 +101,15 @@
 [1] "Our modelled likelihood of Wolverhampton winning this match OR DRAW is 20.09 percent, with a minimum chance of 7.46 percent, and a maximum chance of 29.86 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 63.93 percent, with a high likelihood of 74.2 and a low likelihood of 56.42 percent."
 [1] "--Sportsbook Odds--"
-[1] "Manchester City Barstool Odds are: 85.71"
-[1] "The Barstool Odds of a Draw are: 13.33"
-[1] "Wolverhampton Barstool Odds are: 6.25"
-[1] "Manchester City Adjusted Barstool Odds are: 81.404"
-[1] "The Adjusted Barstool Odds of a Draw are: 12.66"
-[1] "Wolverhampton Adjusted Barstool Odds are: 5.936"
-[1] "Manchester City's Barstool Odds to cover the -2 spread are: 55.25"
-[1] "Wolverhampton's Barstool Odds to cover the 2 spread are: 49.5"
-[1] "Barstool's line for the total is 2.5 at 1.46, which is a 68.49 percent chance of the over 2.5 hitting."
+[1] "Manchester City Barstool Odds are: 83.33"
+[1] "The Barstool Odds of a Draw are: 14.81"
+[1] "Wolverhampton Barstool Odds are: 6.67"
+[1] "Manchester City Adjusted Barstool Odds are: 79.506"
+[1] "The Adjusted Barstool Odds of a Draw are: 14.13"
+[1] "Wolverhampton Adjusted Barstool Odds are: 6.364"
+[1] "Manchester City's Barstool Odds to cover the  spread are: NA"
+[1] "Wolverhampton's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -213,15 +157,15 @@
 [1] "Our modelled likelihood of Manchester United winning this match OR DRAW is 24.99 percent, with a minimum chance of 6.97 percent, and a maximum chance of 45.29 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 77.32 percent, with a high likelihood of 88.44 and a low likelihood of 61.76 percent."
 [1] "--Sportsbook Odds--"
-[1] "Arsenal Barstool Odds are: 52.63"
-[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Arsenal Barstool Odds are: 53.19"
+[1] "The Barstool Odds of a Draw are: 25.64"
 [1] "Manchester United Barstool Odds are: 25.64"
-[1] "Arsenal Adjusted Barstool Odds are: 50.32"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.165"
-[1] "Manchester United Adjusted Barstool Odds are: 24.515"
+[1] "Arsenal Adjusted Barstool Odds are: 50.914"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.543"
+[1] "Manchester United Adjusted Barstool Odds are: 24.543"
 [1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 53.19"
 [1] "Manchester United's Barstool Odds to cover the 0.5 spread are: 51.28"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -270,63 +214,21 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 70.59 percent, with a high likelihood of 89.45 and a low likelihood of 48.28 percent."
 [1] "--Sportsbook Odds--"
 [1] "Fulham Barstool Odds are: 30.3"
-[1] "The Barstool Odds of a Draw are: 26.32"
-[1] "Tottenham Hotspur Barstool Odds are: 47.62"
-[1] "Fulham Adjusted Barstool Odds are: 29.068"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.249"
-[1] "Tottenham Hotspur Adjusted Barstool Odds are: 45.683"
-[1] "Fulham's Barstool Odds to cover the 0.25 spread are: 50.76"
-[1] "Tottenham Hotspur's Barstool Odds to cover the -0.25 spread are: 54.35"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48 percent chance of the over 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Tottenham Hotspur Barstool Odds are: 48.78"
+[1] "Fulham Adjusted Barstool Odds are: 28.934"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.484"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 46.581"
+[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 55.56"
+[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 48.78"
+[1] "Barstool's line for the total is 2.5 at 1.67, which is a 59.88 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                              bet           date_time
 1   under Leeds United/Brentford 2023-01-22 06:00:00
 2                        Arsenal 2023-01-22 08:30:00
 3 over Arsenal/Manchester United 2023-01-22 08:30:00
-[1] "New commit ID #6064"
-                  player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Cheick Oumar Doucoure  CRY      3 1.88      0.5319  0.6379    0.106   tackles Premier League          NA         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieran Trippier  NEW     53 2.08          NA  0.9834   0.5026    passes Premier League      0.4808         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieran Trippier  NEW     49 1.88          NA  0.9961   0.4642    passes Premier League      0.5319         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieran Trippier  NEW     45 1.56          NA  0.9993   0.3583    passes Premier League       0.641         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieran Trippier  NEW     61 2.77          NA  0.8668   0.5058    passes Premier League       0.361         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieran Trippier  NEW     65 3.49          NA   0.732   0.4455    passes Premier League      0.2865         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kieran Trippier  NEW     57 2.34          NA  0.9468   0.5194    passes Premier League      0.4274         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Joseph Willock  NEW     28 1.82          NA  0.6782   0.1287    passes Premier League      0.5495         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Joseph Willock  NEW     24  1.5          NA  0.8884   0.2217    passes Premier League      0.6667         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Fabian Schar  NEW     66 2.17          NA  0.5778    0.117    passes Premier League      0.4608         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Fabian Schar  NEW     62 1.96          NA  0.7547   0.2445    passes Premier League      0.5102         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Fabian Schar  NEW     54 1.46          NA  0.9562   0.2713    passes Premier League      0.6849         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Fabian Schar  NEW     58 1.88          NA  0.8836   0.3517    passes Premier League      0.5319         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Dan Burn  NEW     43 1.87          NA  0.9368    0.402    passes Premier League      0.5348         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Dan Burn  NEW     51 2.71          NA  0.6533   0.2843    passes Premier League       0.369         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Dan Burn  NEW     47 2.29          NA  0.8298   0.3931    passes Premier League      0.4367         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Dan Burn  NEW     55 3.41          NA  0.4401   0.1468    passes Premier League      0.2933         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Dan Burn  NEW     39 1.54          NA   0.983   0.3336    passes Premier League      0.6494         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Miguel Almiron  NEW     28 1.53          NA  0.7555   0.1019    passes Premier League      0.6536         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Sean Longstaff  NEW     36 1.54          NA  0.8144    0.165    passes Premier League      0.6494         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Bruno Guimaraes  NEW     49 1.54          NA  0.7597   0.1103    passes Premier League      0.6494         NA        NA         NA       NA
+[1] "New commit ID #8692"
              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Brendan Aaronson  LEE     27 1.51          NA  0.8049   0.1426    passes Premier League      0.6623         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
