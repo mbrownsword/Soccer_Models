@@ -1,115 +1,115 @@
-[1] "Updated at 2023-01-21 17:29:08.058"
+[1] "Updated at 2023-01-22 05:49:00.195"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Leeds United 1.6472 to Brentford 1.4346"
-[1] "The pass/shot predicted total is 3.0818"
-[1] "Leeds United pass/shot Predicted Win %: 42.92"
-[1] "The pass/shot Predicted Draw % is: 24.35"
-[1] "Brentford pass/shot Predicted Win %: 32.73"
+[1] "The pass/shot predicted score is Leeds United 1.6485 to Brentford 1.4335"
+[1] "The pass/shot predicted total is 3.082"
+[1] "Leeds United pass/shot Predicted Win %: 42.9"
+[1] "The pass/shot Predicted Draw % is: 24.43"
+[1] "Brentford pass/shot Predicted Win %: 32.67"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Leeds United 1.3932 to Brentford 0.9815"
-[1] "The xg model predicted total is 2.3747"
-[1] "Leeds United xg model Predicted Win %: 47.24"
-[1] "The xg model Predicted Draw % is: 26.2"
-[1] "Brentford xg model Predicted Win %: 26.56"
+[1] "The xg model predicted score is Leeds United 1.4372 to Brentford 0.9552"
+[1] "The xg model predicted total is 2.3924"
+[1] "Leeds United xg model Predicted Win %: 48.62"
+[1] "The xg model Predicted Draw % is: 26.47"
+[1] "Brentford xg model Predicted Win %: 24.91"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Leeds United 1.8857 to Brentford 1.1848"
-[1] "The xgot model predicted total is 3.0705"
-[1] "Leeds United xgot model Predicted Win %: 54.02"
-[1] "The xgot model Predicted Draw % is: 22.76"
-[1] "Brentford xgot model Predicted Win %: 23.22"
+[1] "The xgot model predicted score is Leeds United 1.816 to Brentford 1.2354"
+[1] "The xgot model predicted total is 3.0514"
+[1] "Leeds United xgot model Predicted Win %: 51.52"
+[1] "The xgot model Predicted Draw % is: 23.22"
+[1] "Brentford xgot model Predicted Win %: 25.26"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Leeds United 1.298 to Brentford 0.8574"
-[1] "The xa model predicted total is 2.1554"
-[1] "Leeds United xa model Predicted Win %: 47.01"
-[1] "The xa model Predicted Draw % is: 27.87"
-[1] "Brentford xa model Predicted Win %: 25.12"
+[1] "The xa model predicted score is Leeds United 1.2986 to Brentford 0.8571"
+[1] "The xa model predicted total is 2.1557"
+[1] "Leeds United xa model Predicted Win %: 47.1"
+[1] "The xa model Predicted Draw % is: 27.9"
+[1] "Brentford xa model Predicted Win %: 25"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Leeds United 1.3419 to Brentford 1.2149"
-[1] "The XGExp model predicted total is 2.5568"
-[1] "Leeds United XGExp model Predicted Win %: 39.71"
-[1] "The XGExp model Predicted Draw % is: 26.72"
-[1] "Brentford XGExp model Predicted Win %: 33.57"
+[1] "The XGExp model predicted score is Leeds United 1.4709 to Brentford 1.4358"
+[1] "The XGExp model predicted total is 2.9067"
+[1] "Leeds United XGExp model Predicted Win %: 38.43"
+[1] "The XGExp model Predicted Draw % is: 24.69"
+[1] "Brentford XGExp model Predicted Win %: 36.88"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Leeds United 1.4047 to Brentford 0.9946"
-[1] "The XAExp model predicted total is 2.3993"
-[1] "Leeds United XAExp model Predicted Win %: 46.78"
+[1] "The XAExp model predicted score is Leeds United 1.405 to Brentford 1.0268"
+[1] "The XAExp model predicted total is 2.4318"
+[1] "Leeds United XAExp model Predicted Win %: 45.85"
 [1] "The XAExp model Predicted Draw % is: 26.52"
-[1] "Brentford XAExp model Predicted Win %: 26.7"
+[1] "Brentford XAExp model Predicted Win %: 27.63"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Leeds United winning this match is 46.28 percent, with a minimum chance of 39.71 percent, and a maximum chance of 54.02 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 25.74 percent, with a minimum chance of 22.76 percent, and a maximum chance of 27.87 percent."
-[1] "Our modelled likelihood of Brentford winning this match is 27.98 percent, with a minimum chance of 23.22 percent, and a maximum chance of 33.57 percent."
-[1] "Our modelled likelihood of Leeds United winning this match OR DRAW is 72.02 percent, with a minimum chance of 66.43 percent, and a maximum chance of 76.78 percent."
-[1] "Our modelled likelihood of Brentford winning this match OR DRAW is 53.72 percent, with a minimum chance of 45.98 percent, and a maximum chance of 60.29 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 48.32 percent, with a high likelihood of 59.49 and a low likelihood of 36.53 percent."
+[1] "Our modelled likelihood of Leeds United winning this match is 45.74 percent, with a minimum chance of 38.43 percent, and a maximum chance of 51.52 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 25.54 percent, with a minimum chance of 23.22 percent, and a maximum chance of 27.9 percent."
+[1] "Our modelled likelihood of Brentford winning this match is 28.73 percent, with a minimum chance of 24.91 percent, and a maximum chance of 36.88 percent."
+[1] "Our modelled likelihood of Leeds United winning this match OR DRAW is 71.28 percent, with a minimum chance of 63.12 percent, and a maximum chance of 75.09 percent."
+[1] "Our modelled likelihood of Brentford winning this match OR DRAW is 54.26 percent, with a minimum chance of 48.48 percent, and a maximum chance of 61.57 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 49.9 percent, with a high likelihood of 59.49 and a low likelihood of 36.54 percent."
 [1] "--Sportsbook Odds--"
-[1] "Leeds United Barstool Odds are: 44.44"
-[1] "The Barstool Odds of a Draw are: 26.32"
-[1] "Brentford Barstool Odds are: 33.9"
-[1] "Leeds United Adjusted Barstool Odds are: 42.461"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.148"
-[1] "Brentford Adjusted Barstool Odds are: 32.391"
-[1] "Leeds United's Barstool Odds to cover the -0.5 spread are: 44.44"
-[1] "Brentford's Barstool Odds to cover the 0.5 spread are: 59.88"
-[1] "Barstool's line for the total is 2.5 at 1.64, which is a 60.98 percent chance of the over 2.5 hitting."
+[1] "Leeds United Barstool Odds are: 41.67"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Brentford Barstool Odds are: 34.78"
+[1] "Leeds United Adjusted Barstool Odds are: 39.979"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.653"
+[1] "Brentford Adjusted Barstool Odds are: 33.369"
+[1] "Leeds United's Barstool Odds to cover the -0.5 spread are: 42.55"
+[1] "Brentford's Barstool Odds to cover the 0.5 spread are: 61.73"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Manchester City 2.1833 to Wolverhampton 0.7611"
-[1] "The pass/shot predicted total is 2.9444"
-[1] "Manchester City pass/shot Predicted Win %: 70.14"
-[1] "The pass/shot Predicted Draw % is: 18.98"
-[1] "Wolverhampton pass/shot Predicted Win %: 10.88"
+[1] "The pass/shot predicted score is Manchester City 2.1451 to Wolverhampton 0.7582"
+[1] "The pass/shot predicted total is 2.9033"
+[1] "Manchester City pass/shot Predicted Win %: 69.57"
+[1] "The pass/shot Predicted Draw % is: 19.3"
+[1] "Wolverhampton pass/shot Predicted Win %: 11.13"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Manchester City 2.7925 to Wolverhampton 0.2761"
-[1] "The xg model predicted total is 3.0686"
-[1] "Manchester City xg model Predicted Win %: 88.26"
-[1] "The xg model Predicted Draw % is: 9.5"
-[1] "Wolverhampton xg model Predicted Win %: 2.24"
+[1] "The xg model predicted score is Manchester City 2.6698 to Wolverhampton 0.2889"
+[1] "The xg model predicted total is 2.9587"
+[1] "Manchester City xg model Predicted Win %: 87.33"
+[1] "The xg model Predicted Draw % is: 10.04"
+[1] "Wolverhampton xg model Predicted Win %: 2.63"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Manchester City 2.7176 to Wolverhampton 0.5202"
-[1] "The xgot model predicted total is 3.2378"
-[1] "Manchester City xgot model Predicted Win %: 83.74"
-[1] "The xgot model Predicted Draw % is: 11.75"
-[1] "Wolverhampton xgot model Predicted Win %: 4.51"
+[1] "The xgot model predicted score is Manchester City 2.8854 to Wolverhampton 0.487"
+[1] "The xgot model predicted total is 3.3724"
+[1] "Manchester City xgot model Predicted Win %: 86.36"
+[1] "The xgot model Predicted Draw % is: 9.98"
+[1] "Wolverhampton xgot model Predicted Win %: 3.66"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Manchester City 2.3016 to Wolverhampton 0.7128"
-[1] "The xa model predicted total is 3.0144"
-[1] "Manchester City xa model Predicted Win %: 73.61"
-[1] "The xa model Predicted Draw % is: 17.34"
-[1] "Wolverhampton xa model Predicted Win %: 9.05"
+[1] "The xa model predicted score is Manchester City 2.2786 to Wolverhampton 0.849"
+[1] "The xa model predicted total is 3.1276"
+[1] "Manchester City xa model Predicted Win %: 69.45"
+[1] "The xa model Predicted Draw % is: 18.87"
+[1] "Wolverhampton xa model Predicted Win %: 11.68"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Manchester City 3.3391 to Wolverhampton 0.2882"
-[1] "The XGExp model predicted total is 3.6273"
-[1] "Manchester City XGExp model Predicted Win %: 92.54"
-[1] "The XGExp model Predicted Draw % is: 6.02"
-[1] "Wolverhampton XGExp model Predicted Win %: 1.44"
+[1] "The XGExp model predicted score is Manchester City 2.7631 to Wolverhampton 0.2193"
+[1] "The XGExp model predicted total is 2.9824"
+[1] "Manchester City XGExp model Predicted Win %: 89.44"
+[1] "The XGExp model Predicted Draw % is: 9.03"
+[1] "Wolverhampton XGExp model Predicted Win %: 1.53"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Manchester City 2.7445 to Wolverhampton 1.124"
-[1] "The XAExp model predicted total is 3.8685"
-[1] "Manchester City XAExp model Predicted Win %: 71.19"
-[1] "The XAExp model Predicted Draw % is: 16.1"
-[1] "Wolverhampton XAExp model Predicted Win %: 12.71"
+[1] "The XAExp model predicted score is Manchester City 2.7456 to Wolverhampton 0.8087"
+[1] "The XAExp model predicted total is 3.5543"
+[1] "Manchester City XAExp model Predicted Win %: 77.32"
+[1] "The XAExp model Predicted Draw % is: 13.89"
+[1] "Wolverhampton XAExp model Predicted Win %: 8.79"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Manchester City winning this match is 79.91 percent, with a minimum chance of 70.14 percent, and a maximum chance of 92.54 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 13.28 percent, with a minimum chance of 6.02 percent, and a maximum chance of 18.98 percent."
-[1] "Our modelled likelihood of Wolverhampton winning this match is 6.8 percent, with a minimum chance of 1.44 percent, and a maximum chance of 12.71 percent."
-[1] "Our modelled likelihood of Manchester City winning this match OR DRAW is 93.2 percent, with a minimum chance of 87.29 percent, and a maximum chance of 98.56 percent."
-[1] "Our modelled likelihood of Wolverhampton winning this match OR DRAW is 20.09 percent, with a minimum chance of 7.46 percent, and a maximum chance of 29.86 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 63.93 percent, with a high likelihood of 74.2 and a low likelihood of 56.42 percent."
+[1] "Our modelled likelihood of Manchester City winning this match is 79.91 percent, with a minimum chance of 69.45 percent, and a maximum chance of 89.44 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 13.52 percent, with a minimum chance of 9.03 percent, and a maximum chance of 19.3 percent."
+[1] "Our modelled likelihood of Wolverhampton winning this match is 6.57 percent, with a minimum chance of 1.53 percent, and a maximum chance of 11.68 percent."
+[1] "Our modelled likelihood of Manchester City winning this match OR DRAW is 93.43 percent, with a minimum chance of 88.32 percent, and a maximum chance of 98.47 percent."
+[1] "Our modelled likelihood of Wolverhampton winning this match OR DRAW is 20.09 percent, with a minimum chance of 10.56 percent, and a maximum chance of 30.55 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 60.95 percent, with a high likelihood of 68.91 and a low likelihood of 55.48 percent."
 [1] "--Sportsbook Odds--"
-[1] "Manchester City Barstool Odds are: 83.33"
-[1] "The Barstool Odds of a Draw are: 14.81"
-[1] "Wolverhampton Barstool Odds are: 6.67"
-[1] "Manchester City Adjusted Barstool Odds are: 79.506"
-[1] "The Adjusted Barstool Odds of a Draw are: 14.13"
-[1] "Wolverhampton Adjusted Barstool Odds are: 6.364"
+[1] "Manchester City Barstool Odds are: 80"
+[1] "The Barstool Odds of a Draw are: 16.67"
+[1] "Wolverhampton Barstool Odds are: 8.33"
+[1] "Manchester City Adjusted Barstool Odds are: 76.19"
+[1] "The Adjusted Barstool Odds of a Draw are: 15.876"
+[1] "Wolverhampton Adjusted Barstool Odds are: 7.933"
 [1] "Manchester City's Barstool Odds to cover the  spread are: NA"
 [1] "Wolverhampton's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -158,60 +158,60 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 77.32 percent, with a high likelihood of 88.44 and a low likelihood of 61.76 percent."
 [1] "--Sportsbook Odds--"
 [1] "Arsenal Barstool Odds are: 53.19"
-[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "The Barstool Odds of a Draw are: 26.32"
 [1] "Manchester United Barstool Odds are: 25.64"
-[1] "Arsenal Adjusted Barstool Odds are: 50.914"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.543"
-[1] "Manchester United Adjusted Barstool Odds are: 24.543"
+[1] "Arsenal Adjusted Barstool Odds are: 50.585"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.031"
+[1] "Manchester United Adjusted Barstool Odds are: 24.384"
 [1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 53.19"
 [1] "Manchester United's Barstool Odds to cover the 0.5 spread are: 51.28"
-[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.72, which is a 58.14 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Fulham 1.6634 to Tottenham Hotspur 1.8903"
-[1] "The pass/shot predicted total is 3.5537"
-[1] "Fulham pass/shot Predicted Win %: 33.7"
-[1] "The pass/shot Predicted Draw % is: 22.54"
-[1] "Tottenham Hotspur pass/shot Predicted Win %: 43.76"
+[1] "The pass/shot predicted score is Fulham 1.6479 to Tottenham Hotspur 2.1432"
+[1] "The pass/shot predicted total is 3.7911"
+[1] "Fulham pass/shot Predicted Win %: 29.82"
+[1] "The pass/shot Predicted Draw % is: 20.72"
+[1] "Tottenham Hotspur pass/shot Predicted Win %: 49.46"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Fulham 1.6494 to Tottenham Hotspur 2.0032"
-[1] "The xg model predicted total is 3.6526"
-[1] "Fulham xg model Predicted Win %: 32.5"
-[1] "The xg model Predicted Draw % is: 21.67"
-[1] "Tottenham Hotspur xg model Predicted Win %: 45.83"
+[1] "The xg model predicted score is Fulham 1.7923 to Tottenham Hotspur 2.1089"
+[1] "The xg model predicted total is 3.9012"
+[1] "Fulham xg model Predicted Win %: 33.03"
+[1] "The xg model Predicted Draw % is: 20.89"
+[1] "Tottenham Hotspur xg model Predicted Win %: 46.08"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Fulham 1.7039 to Tottenham Hotspur 1.7947"
-[1] "The xgot model predicted total is 3.4986"
-[1] "Fulham xgot model Predicted Win %: 36.02"
-[1] "The xgot model Predicted Draw % is: 22.95"
-[1] "Tottenham Hotspur xgot model Predicted Win %: 41.03"
+[1] "The xgot model predicted score is Fulham 1.5716 to Tottenham Hotspur 2.5573"
+[1] "The xgot model predicted total is 4.1289"
+[1] "Fulham xgot model Predicted Win %: 23.04"
+[1] "The xgot model Predicted Draw % is: 18.42"
+[1] "Tottenham Hotspur xgot model Predicted Win %: 58.54"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Fulham 1.3506 to Tottenham Hotspur 1.2543"
-[1] "The xa model predicted total is 2.6049"
-[1] "Fulham xa model Predicted Win %: 39.73"
-[1] "The xa model Predicted Draw % is: 26.19"
-[1] "Tottenham Hotspur xa model Predicted Win %: 34.08"
+[1] "The xa model predicted score is Fulham 1.33 to Tottenham Hotspur 1.176"
+[1] "The xa model predicted total is 2.506"
+[1] "Fulham xa model Predicted Win %: 40.22"
+[1] "The xa model Predicted Draw % is: 26.73"
+[1] "Tottenham Hotspur xa model Predicted Win %: 33.05"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Fulham 2.2641 to Tottenham Hotspur 2.9805"
-[1] "The XGExp model predicted total is 5.2446"
-[1] "Fulham XGExp model Predicted Win %: 30.13"
-[1] "The XGExp model Predicted Draw % is: 17"
-[1] "Tottenham Hotspur XGExp model Predicted Win %: 52.87"
+[1] "The XGExp model predicted score is Fulham 2.4442 to Tottenham Hotspur 2.7897"
+[1] "The XGExp model predicted total is 5.2339"
+[1] "Fulham XGExp model Predicted Win %: 35"
+[1] "The XGExp model Predicted Draw % is: 18.06"
+[1] "Tottenham Hotspur XGExp model Predicted Win %: 46.94"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Fulham 1.7718 to Tottenham Hotspur 1.569"
-[1] "The XAExp model predicted total is 3.3408"
-[1] "Fulham XAExp model Predicted Win %: 42.99"
-[1] "The XAExp model Predicted Draw % is: 22.76"
-[1] "Tottenham Hotspur XAExp model Predicted Win %: 34.25"
+[1] "The XAExp model predicted score is Fulham 1.746 to Tottenham Hotspur 1.549"
+[1] "The XAExp model predicted total is 3.295"
+[1] "Fulham XAExp model Predicted Win %: 42.86"
+[1] "The XAExp model Predicted Draw % is: 22.99"
+[1] "Tottenham Hotspur XAExp model Predicted Win %: 34.15"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Fulham winning this match is 35.84 percent, with a minimum chance of 30.13 percent, and a maximum chance of 42.99 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 22.18 percent, with a minimum chance of 17 percent, and a maximum chance of 26.19 percent."
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 41.97 percent, with a minimum chance of 34.08 percent, and a maximum chance of 52.87 percent."
-[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 58.03 percent, with a minimum chance of 47.13 percent, and a maximum chance of 65.92 percent."
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 64.16 percent, with a minimum chance of 57.01 percent, and a maximum chance of 69.87 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 70.59 percent, with a high likelihood of 89.45 and a low likelihood of 48.28 percent."
+[1] "Our modelled likelihood of Fulham winning this match is 33.99 percent, with a minimum chance of 23.04 percent, and a maximum chance of 42.86 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 21.3 percent, with a minimum chance of 18.06 percent, and a maximum chance of 26.73 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 44.7 percent, with a minimum chance of 33.05 percent, and a maximum chance of 58.54 percent."
+[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 55.3 percent, with a minimum chance of 41.46 percent, and a maximum chance of 66.95 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 66 percent, with a minimum chance of 57.14 percent, and a maximum chance of 76.96 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 73.26 percent, with a high likelihood of 89.37 and a low likelihood of 45.77 percent."
 [1] "--Sportsbook Odds--"
 [1] "Fulham Barstool Odds are: 30.3"
 [1] "The Barstool Odds of a Draw are: 25.64"
@@ -219,32 +219,27 @@
 [1] "Fulham Adjusted Barstool Odds are: 28.934"
 [1] "The Adjusted Barstool Odds of a Draw are: 24.484"
 [1] "Tottenham Hotspur Adjusted Barstool Odds are: 46.581"
-[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 55.56"
-[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 48.78"
-[1] "Barstool's line for the total is 2.5 at 1.67, which is a 59.88 percent chance of the over 2.5 hitting."
+[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 55.87"
+[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 48.54"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                              bet           date_time
-1   under Leeds United/Brentford 2023-01-22 06:00:00
-2                        Arsenal 2023-01-22 08:30:00
-3 over Arsenal/Manchester United 2023-01-22 08:30:00
-[1] "New commit ID #8692"
+1                        Arsenal 2023-01-22 08:30:00
+2 over Arsenal/Manchester United 2023-01-22 08:30:00
+[1] "New commit ID #2295"
              player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Brendan Aaronson  LEE     27 1.51          NA  0.8049   0.1426    passes Premier League      0.6623         NA        NA         NA       NA
+1: Brendan Aaronson  LEE     27 1.51          NA  0.8065   0.1442    passes Premier League      0.6623         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pelenda Da Silva  BRE     25  1.5          NA  0.8631   0.1964    passes Premier League      0.6667         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mathias Jensen  BRE     34 1.82          NA  0.6623   0.1128    passes Premier League      0.5495         NA        NA         NA       NA
+1: Mathias Jensen  BRE     34 1.82          NA  0.6977   0.1482    passes Premier League      0.5495         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mathias Jensen  BRE     30  1.5          NA  0.8653   0.1986    passes Premier League      0.6667         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Neves  WOL     45 1.85          NA  0.7935    0.253    passes Premier League      0.5405         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Neves  WOL     49 2.17          NA  0.5973   0.1365    passes Premier League      0.4608         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ruben Neves  WOL     41 1.58          NA  0.9204   0.2875    passes Premier League      0.6329         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Matheus Nunes  WOL     25 1.53          NA  0.8748   0.2212    passes Premier League      0.6536         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Matheus Nunes  WOL     29 1.85          NA  0.6576   0.1171    passes Premier League      0.5405         NA        NA         NA       NA
+1: Mathias Jensen  BRE     30  1.5          NA  0.8852   0.2185    passes Premier League      0.6667         NA        NA         NA       NA
+               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Christian Norgaard  BRE     43 1.88          NA  0.6778   0.1459    passes Premier League      0.5319         NA        NA         NA       NA
+               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Christian Norgaard  BRE     39 1.37          NA  0.8576   0.1277    passes Premier League      0.7299         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Bukayo Saka  ARS     28 1.53          NA  0.8214   0.1678    passes Premier League      0.6536         NA        NA         NA       NA
                player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -268,35 +263,23 @@
       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Ben White  ARS     47 1.41          NA  0.9185   0.2093    passes Premier League      0.7092         NA        NA         NA       NA
      player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Tim Ream  FUL     64 1.88          NA  0.7655   0.2336    passes Premier League      0.5319         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Tim Ream  FUL     68 2.03          NA  0.5944   0.1018    passes Premier League      0.4926         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Tim Ream  FUL     60 1.55          NA  0.8887   0.2435    passes Premier League      0.6452         NA        NA         NA       NA
+1: Tim Ream  FUL     60 1.55          NA   0.753   0.1078    passes Premier League      0.6452         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kenny Tete  FUL     41 1.88          NA  0.8484   0.3165    passes Premier League      0.5319         NA        NA         NA       NA
+1: Kenny Tete  FUL     41 1.88          NA  0.7207   0.1888    passes Premier League      0.5319         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kenny Tete  FUL     45 2.04          NA  0.6681   0.1779    passes Premier League      0.4902         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kenny Tete  FUL     37 1.51          NA  0.9499   0.2876    passes Premier League      0.6623         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonee Robinson  FUL     46 1.55          NA  0.8464   0.2012    passes Premier League      0.6452         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonee Robinson  FUL     50  1.9          NA  0.6762   0.1499    passes Premier League      0.5263         NA        NA         NA       NA
+1: Kenny Tete  FUL     37 1.51          NA  0.8861   0.2238    passes Premier League      0.6623         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Andreas Pereira  FUL     26  1.4          NA  0.8319   0.1176    passes Premier League      0.7143         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Tosin Adarabioyo  FUL     55 1.56          NA  0.7718   0.1308    passes Premier League       0.641         NA        NA         NA       NA
+1: Andreas Pereira  FUL     26  1.4          NA  0.8783    0.164    passes Premier League      0.7143         NA        NA         NA       NA
     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Willian  FUL     37 1.87          NA  0.6517   0.1169    passes Premier League      0.5348         NA        NA         NA       NA
+1: Willian  FUL     37 1.87          NA  0.7337   0.1989    passes Premier League      0.5348         NA        NA         NA       NA
     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Willian  FUL     33 1.53          NA  0.8525   0.1989    passes Premier League      0.6536         NA        NA         NA       NA
+1: Willian  FUL     33 1.53          NA  0.8992   0.2456    passes Premier League      0.6536         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     28 1.85          NA  0.8445    0.304    passes Premier League      0.5405         NA        NA         NA       NA
+1: Son Heung-Min  TOT     28 1.85          NA  0.8084   0.2679    passes Premier League      0.5405         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     24 1.51          NA  0.9604   0.2981    passes Premier League      0.6623         NA        NA         NA       NA
+1: Son Heung-Min  TOT     24 1.51          NA  0.9472   0.2849    passes Premier League      0.6623         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     32  2.3          NA  0.6194   0.1846    passes Premier League      0.4348         NA        NA         NA       NA
+1: Son Heung-Min  TOT     32  2.3          NA  0.5635   0.1287    passes Premier League      0.4348         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Gabriel Magalhaes  ARS      3 9.25          NA   0.595   0.4869     shots Premier League          NA     0.1081        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -328,4 +311,4 @@
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Eddie Nketiah  ARS      4   15          NA  0.1934   0.1267      sogs Premier League          NA         NA    0.0667         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Harry Kane  TOT      3    7          NA  0.2726   0.1297      sogs Premier League          NA         NA    0.1429         NA       NA
+1: Harry Kane  TOT      3    7          NA  0.2876   0.1447      sogs Premier League          NA         NA    0.1429         NA       NA
