@@ -1,61 +1,5 @@
-[1] "Updated at 2023-01-21 11:35:53.158"
+[1] "Updated at 2023-01-21 17:21:43.100"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Union Saint Gilloise 1.6714 to OH Leuven 1.0371"
-[1] "The pass/shot predicted total is 2.7085"
-[1] "Union Saint Gilloise pass/shot Predicted Win %: 52.9"
-[1] "The pass/shot Predicted Draw % is: 24.53"
-[1] "OH Leuven pass/shot Predicted Win %: 22.57"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Union Saint Gilloise 1.3913 to OH Leuven 0.7965"
-[1] "The xg model predicted total is 2.1878"
-[1] "Union Saint Gilloise xg model Predicted Win %: 51.06"
-[1] "The xg model Predicted Draw % is: 27.43"
-[1] "OH Leuven xg model Predicted Win %: 21.51"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Union Saint Gilloise 1.445 to OH Leuven 0.8124"
-[1] "The xgot model predicted total is 2.2574"
-[1] "Union Saint Gilloise xgot model Predicted Win %: 51.91"
-[1] "The xgot model Predicted Draw % is: 26.32"
-[1] "OH Leuven xgot model Predicted Win %: 21.77"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Union Saint Gilloise 1.7899 to OH Leuven 0.6204"
-[1] "The xa model predicted total is 2.4103"
-[1] "Union Saint Gilloise xa model Predicted Win %: 65.36"
-[1] "The xa model Predicted Draw % is: 22.71"
-[1] "OH Leuven xa model Predicted Win %: 11.93"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Union Saint Gilloise 1.7826 to OH Leuven 0.9672"
-[1] "The XGExp model predicted total is 2.7498"
-[1] "Union Saint Gilloise XGExp model Predicted Win %: 56.83"
-[1] "The XGExp model Predicted Draw % is: 23.11"
-[1] "OH Leuven XGExp model Predicted Win %: 20.06"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Union Saint Gilloise 2.0465 to OH Leuven 1.0019"
-[1] "The XAExp model predicted total is 3.0484"
-[1] "Union Saint Gilloise XAExp model Predicted Win %: 61.44"
-[1] "The XAExp model Predicted Draw % is: 20.7"
-[1] "OH Leuven XAExp model Predicted Win %: 17.86"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Union Saint Gilloise winning this match is 56.58 percent, with a minimum chance of 51.06 percent, and a maximum chance of 65.36 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 24.13 percent, with a minimum chance of 20.7 percent, and a maximum chance of 27.43 percent."
-[1] "Our modelled likelihood of OH Leuven winning this match is 19.28 percent, with a minimum chance of 11.93 percent, and a maximum chance of 22.57 percent."
-[1] "Our modelled likelihood of Union Saint Gilloise winning this match OR DRAW is 80.72 percent, with a minimum chance of 77.43 percent, and a maximum chance of 88.07 percent."
-[1] "Our modelled likelihood of OH Leuven winning this match OR DRAW is 43.42 percent, with a minimum chance of 34.64 percent, and a maximum chance of 48.94 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 47.16 percent, with a high likelihood of 58.76 and a low likelihood of 37.4 percent."
-[1] "--Sportsbook Odds--"
-[1] "Union Saint Gilloise Barstool Odds are: 73.33"
-[1] "The Barstool Odds of a Draw are: 20"
-[1] "OH Leuven Barstool Odds are: 14.29"
-[1] "Union Saint Gilloise Adjusted Barstool Odds are: 68.138"
-[1] "The Adjusted Barstool Odds of a Draw are: 18.584"
-[1] "OH Leuven Adjusted Barstool Odds are: 13.278"
-[1] "Union Saint Gilloise's Barstool Odds to cover the -0.5 spread are: 72.46"
-[1] "OH Leuven's Barstool Odds to cover the 0.5 spread are: 32.26"
-[1] "Barstool's line for the total is 2.5 at 1.67, which is a 59.88 percent chance of the over 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "The pass/shot predicted score is Antwerp 1.1923 to Standard Liege 0.9551"
@@ -163,8 +107,8 @@
 [1] "RFC Seraing Adjusted Barstool Odds are: 17.283"
 [1] "The Adjusted Barstool Odds of a Draw are: 23.33"
 [1] "Anderlecht Adjusted Barstool Odds are: 59.388"
-[1] "RFC Seraing's Barstool Odds to cover the -0.5 spread are: 17.86"
-[1] "Anderlecht's Barstool Odds to cover the 0.5 spread are: 85.47"
+[1] "RFC Seraing's Barstool Odds to cover the 0.5 spread are: 40.82"
+[1] "Anderlecht's Barstool Odds to cover the -0.5 spread are: 63.29"
 [1] "Barstool's line for the total is 2.5 at 1.89, which is a 52.91 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -277,17 +221,15 @@
 [1] "KAA Gent Adjusted Barstool Odds are: 43.606"
 [1] "St. Truidense's Barstool Odds to cover the -0.5 spread are: 29.41"
 [1] "KAA Gent's Barstool Odds to cover the 0.5 spread are: 74.63"
-[1] "Barstool's line for the total is 2.5 at 2.16, which is a 46.3 percent chance of the over 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                       bet           date_time
-1     draw Union Saint Gilloise/OH Leuven 2023-01-21 11:45:00
-2    under Union Saint Gilloise/OH Leuven 2023-01-21 11:45:00
-3                           OH Leuven ATS 2023-01-21 11:45:00
-4            under RFC Seraing/Anderlecht 2023-01-22 07:00:00
-5  draw Club Brugge/Sporting de Charleroi 2023-01-22 09:30:00
-6                   Sporting de Charleroi 2023-01-22 09:30:00
-7 under Club Brugge/Sporting de Charleroi 2023-01-22 09:30:00
-8               Sporting de Charleroi ATS 2023-01-22 09:30:00
-9            under St. Truidense/KAA Gent 2023-01-22 12:00:00
-[1] "New commit ID #4724"
+1            under RFC Seraing/Anderlecht 2023-01-22 07:00:00
+2                         RFC Seraing ATS 2023-01-22 07:00:00
+3  draw Club Brugge/Sporting de Charleroi 2023-01-22 09:30:00
+4                   Sporting de Charleroi 2023-01-22 09:30:00
+5 under Club Brugge/Sporting de Charleroi 2023-01-22 09:30:00
+6               Sporting de Charleroi ATS 2023-01-22 09:30:00
+7            under St. Truidense/KAA Gent 2023-01-22 12:00:00
+[1] "New commit ID #7706"
