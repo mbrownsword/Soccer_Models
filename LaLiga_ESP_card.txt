@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-22 15:20:09.121"
+[1] "Updated at 2023-01-22 21:08:46.539"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -48,18 +48,20 @@
 [1] "--Sportsbook Odds--"
 [1] "Valencia Barstool Odds are: 62.5"
 [1] "The Barstool Odds of a Draw are: 25"
-[1] "Almeria Barstool Odds are: 19.05"
-[1] "Valencia Adjusted Barstool Odds are: 58.658"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.463"
-[1] "Almeria Adjusted Barstool Odds are: 17.879"
+[1] "Almeria Barstool Odds are: 18.52"
+[1] "Valencia Adjusted Barstool Odds are: 58.951"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.58"
+[1] "Almeria Adjusted Barstool Odds are: 17.468"
 [1] "Valencia's Barstool Odds to cover the -0.5 spread are: 61.35"
 [1] "Almeria's Barstool Odds to cover the 0.5 spread are: 43.1"
-[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95 percent chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51 percent chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-01-22 05:00:00
-[1] "New commit ID #9450"
+[1] "New commit ID #4957"
+                 player_name expected_attg expected_gs
+85 /players/674518/toni-lato     0.2490147   0.1052632
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Hugo Duro  VAL     22 1.85          NA  0.9999   0.4594    passes LaLiga      0.5405         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
