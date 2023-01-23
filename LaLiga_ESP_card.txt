@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-22 21:34:50.474"
+[1] "Updated at 2023-01-23 08:21:16.268"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -46,20 +46,22 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 38.33 percent, with a high likelihood of 62.66 and a low likelihood of 18.79 percent."
 [1] "The modelled likelihood of hitting the under 2.5 is 61.67 percent, with a high likelihood of 81.21 and a low likelihood of 37.34 percent."
 [1] "--Sportsbook Odds--"
-[1] "Valencia Barstool Odds are: 62.5"
+[1] "Valencia Barstool Odds are: 63.64"
 [1] "The Barstool Odds of a Draw are: 25"
-[1] "Almeria Barstool Odds are: 18.52"
-[1] "Valencia Adjusted Barstool Odds are: 58.951"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.58"
-[1] "Almeria Adjusted Barstool Odds are: 17.468"
-[1] "Valencia's Barstool Odds to cover the -0.5 spread are: 61.35"
-[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 43.1"
-[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02 percent chance of the under 2.5 hitting."
+[1] "Almeria Barstool Odds are: 17.86"
+[1] "Valencia Adjusted Barstool Odds are: 59.756"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.474"
+[1] "Almeria Adjusted Barstool Odds are: 16.77"
+[1] "Valencia's Barstool Odds to cover the -0.5 spread are: 62.11"
+[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 42.02"
+[1] "Barstool's line for the total is 2.5 at 1.85, which is a 54.05 percent chance of the over 2.5 hitting. The line for the under is 1.95, which is a 51.28 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
-1     2023-01-22 05:00:00
-[1] "New commit ID #9328"
+1     2023-01-23 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+[1] "__________________________________"
+[1] "New commit ID #2421"
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Hugo Duro  VAL     22 1.85          NA  0.9999   0.4594    passes LaLiga      0.5405         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
