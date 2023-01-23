@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-23 14:37:48.935"
+[1] "Updated at 2023-01-23 15:34:38.316"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -525,7 +525,7 @@
 9                        Shrewsbury Town ATS 2023-01-24 11:45:00
 10     under Wycombe Wanderers/Oxford United 2023-01-24 11:45:00
 [1] "____________Anytime Goalscorers______________________"
-                     player_name expected_attg expected_gs
-141 /players/662956/robbie-cundy     0.2409167  0.09090909
+                    player_name     team expected_attg expected_gs
+81 /players/662956/robbie-cundy Barnsley     0.2409167  0.09090909
 [1] "__________________________________"
-[1] "New commit ID #4518"
+[1] "New commit ID #8738"
