@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-23 15:29:35.188"
+[1] "Updated at 2023-01-23 15:38:17.948"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -117,9 +117,9 @@
   bet           date_time
 1     2023-01-24 09:45:00
 [1] "____________Anytime Goalscorers______________________"
-                      player_name expected_attg expected_gs
-16 /players/795371/ibrahim-sangar     0.3101833         0.2
-                       player_name expected_attg expected_gs
-30 /players/902675/joshua-kitolano     0.3308667         0.2
+                      player_name team expected_attg expected_gs
+16 /players/795371/ibrahim-sangar  PSV     0.3101833         0.2
+                       player_name   team expected_attg expected_gs
+30 /players/902675/joshua-kitolano Sparta     0.3308667         0.2
 [1] "__________________________________"
-[1] "New commit ID #2024"
+[1] "New commit ID #4884"
