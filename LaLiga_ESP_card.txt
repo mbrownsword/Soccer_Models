@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-22 21:18:41.241"
+[1] "Updated at 2023-01-22 21:34:50.474"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -44,7 +44,7 @@
 [1] "Our modelled likelihood of Valencia winning this match OR DRAW is 78.68 percent, with a minimum chance of 71.52 percent, and a maximum chance of 82.42 percent."
 [1] "Our modelled likelihood of Almeria winning this match OR DRAW is 49.75 percent, with a minimum chance of 41.22 percent, and a maximum chance of 65.82 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 38.33 percent, with a high likelihood of 62.66 and a low likelihood of 18.79 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 61.67 percent, with a high likelihood of 37.34 and a low likelihood of 81.21 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 61.67 percent, with a high likelihood of 81.21 and a low likelihood of 37.34 percent."
 [1] "--Sportsbook Odds--"
 [1] "Valencia Barstool Odds are: 62.5"
 [1] "The Barstool Odds of a Draw are: 25"
@@ -59,9 +59,7 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-01-22 05:00:00
-[1] "New commit ID #9851"
-                 player_name expected_attg expected_gs
-85 /players/674518/toni-lato     0.2490147   0.1052632
+[1] "New commit ID #9328"
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Hugo Duro  VAL     22 1.85          NA  0.9999   0.4594    passes LaLiga      0.5405         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
