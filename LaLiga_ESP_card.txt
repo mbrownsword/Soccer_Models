@@ -1,84 +1,72 @@
-[1] "Updated at 2023-01-23 08:45:47.165"
+[1] "Updated at 2023-01-23 11:07:26.494"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Valencia 1.4627 to Almeria 0.7268"
-[1] "The pass/shot predicted total is 2.1895"
-[1] "Valencia pass/shot Predicted Win %: 54.76"
-[1] "The pass/shot Predicted Draw % is: 26.78"
-[1] "Almeria pass/shot Predicted Win %: 18.46"
+[1] "The pass/shot predicted score is Valencia 1.47 to Almeria 1.1065"
+[1] "The pass/shot predicted total is 2.5765"
+[1] "Valencia pass/shot Predicted Win %: 45.85"
+[1] "The pass/shot Predicted Draw % is: 25.26"
+[1] "Almeria pass/shot Predicted Win %: 28.89"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Valencia 0.7902 to Almeria 0.6967"
-[1] "The xg model predicted total is 1.4869"
-[1] "Valencia xg model Predicted Win %: 34.18"
-[1] "The xg model Predicted Draw % is: 37.34"
-[1] "Almeria xg model Predicted Win %: 28.48"
+[1] "The xg model predicted score is Valencia 0.6649 to Almeria 1.655"
+[1] "The xg model predicted total is 2.3199"
+[1] "Valencia xg model Predicted Win %: 14.41"
+[1] "The xg model Predicted Draw % is: 24.39"
+[1] "Almeria xg model Predicted Win %: 61.2"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Valencia 1.3197 to Almeria 0.6743"
-[1] "The xgot model predicted total is 1.994"
-[1] "Valencia xgot model Predicted Win %: 51.5"
-[1] "The xgot model Predicted Draw % is: 29.54"
-[1] "Almeria xgot model Predicted Win %: 18.96"
+[1] "The xgot model predicted score is Valencia 1.8058 to Almeria 0.8647"
+[1] "The xgot model predicted total is 2.6705"
+[1] "Valencia xgot model Predicted Win %: 59.79"
+[1] "The xgot model Predicted Draw % is: 22.9"
+[1] "Almeria xgot model Predicted Win %: 17.31"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Valencia 1.7219 to Almeria 0.8209"
-[1] "The xa model predicted total is 2.5428"
-[1] "Valencia xa model Predicted Win %: 58.78"
-[1] "The xa model Predicted Draw % is: 23.64"
-[1] "Almeria xa model Predicted Win %: 17.58"
+[1] "The xa model predicted score is Valencia 1.8055 to Almeria 0.8326"
+[1] "The xa model predicted total is 2.6381"
+[1] "Valencia xa model Predicted Win %: 60.67"
+[1] "The xa model Predicted Draw % is: 22.88"
+[1] "Almeria xa model Predicted Win %: 16.45"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Valencia 1.1885 to Almeria 0.7018"
-[1] "The XGExp model predicted total is 1.8903"
-[1] "Valencia XGExp model Predicted Win %: 47.2"
-[1] "The XGExp model Predicted Draw % is: 31.32"
-[1] "Almeria XGExp model Predicted Win %: 21.48"
+[1] "The XGExp model predicted score is Valencia 1.1062 to Almeria 1.5731"
+[1] "The XGExp model predicted total is 2.6793"
+[1] "Valencia XGExp model Predicted Win %: 27.09"
+[1] "The XGExp model Predicted Draw % is: 25.1"
+[1] "Almeria XGExp model Predicted Win %: 47.81"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Valencia 1.9892 to Almeria 1.2422"
-[1] "The XAExp model predicted total is 3.2314"
-[1] "Valencia XAExp model Predicted Win %: 55.09"
-[1] "The XAExp model Predicted Draw % is: 21.93"
-[1] "Almeria XAExp model Predicted Win %: 22.98"
+[1] "The XAExp model predicted score is Valencia 1.7173 to Almeria 1.3106"
+[1] "The XAExp model predicted total is 3.0279"
+[1] "Valencia XAExp model Predicted Win %: 47.39"
+[1] "The XAExp model Predicted Draw % is: 24.25"
+[1] "Almeria XAExp model Predicted Win %: 28.36"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Valencia winning this match is 50.25 percent, with a minimum chance of 34.18 percent, and a maximum chance of 58.78 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 28.42 percent, with a minimum chance of 21.93 percent, and a maximum chance of 37.34 percent."
-[1] "Our modelled likelihood of Almeria winning this match is 21.32 percent, with a minimum chance of 17.58 percent, and a maximum chance of 28.48 percent."
-[1] "Our modelled likelihood of Valencia winning this match OR DRAW is 78.68 percent, with a minimum chance of 71.52 percent, and a maximum chance of 82.42 percent."
-[1] "Our modelled likelihood of Almeria winning this match OR DRAW is 49.75 percent, with a minimum chance of 41.22 percent, and a maximum chance of 65.82 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 38.33 percent, with a high likelihood of 62.66 and a low likelihood of 18.79 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 61.67 percent, with a high likelihood of 81.21 and a low likelihood of 37.34 percent."
+[1] "Our modelled likelihood of Valencia winning this match is 42.53 percent, with a minimum chance of 14.41 percent, and a maximum chance of 60.67 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 24.13 percent, with a minimum chance of 22.88 percent, and a maximum chance of 25.26 percent."
+[1] "Our modelled likelihood of Almeria winning this match is 33.34 percent, with a minimum chance of 16.45 percent, and a maximum chance of 61.2 percent."
+[1] "Our modelled likelihood of Valencia winning this match OR DRAW is 66.66 percent, with a minimum chance of 38.8 percent, and a maximum chance of 83.55 percent."
+[1] "Our modelled likelihood of Almeria winning this match OR DRAW is 57.47 percent, with a minimum chance of 39.33 percent, and a maximum chance of 85.59 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 49.46 percent, with a high likelihood of 58.3 and a low likelihood of 40.92 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 50.54 percent, with a high likelihood of 59.08 and a low likelihood of 41.7 percent."
 [1] "--Sportsbook Odds--"
-[1] "Valencia Barstool Odds are: 63.64"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Almeria Barstool Odds are: 17.86"
-[1] "Valencia Adjusted Barstool Odds are: 59.756"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.474"
-[1] "Almeria Adjusted Barstool Odds are: 16.77"
-[1] "Valencia's Barstool Odds to cover the -0.5 spread are: 62.11"
-[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 42.55"
-[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76 percent chance of the over 2.5 hitting. The line for the under is 1.94, which is a 51.55 percent chance of the under 2.5 hitting."
+[1] "Valencia Barstool Odds are: 64.52"
+[1] "The Barstool Odds of a Draw are: 23.53"
+[1] "Almeria Barstool Odds are: 17.24"
+[1] "Valencia Adjusted Barstool Odds are: 61.278"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.348"
+[1] "Almeria Adjusted Barstool Odds are: 16.374"
+[1] "Valencia's Barstool Odds to cover the -0.5 spread are: 63.69"
+[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 40.82"
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95 percent chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-01-23 12:00:00
 [1] "____________Anytime Goalscorers______________________"
                  player_name expected_attg expected_gs
-15 /players/674518/toni-lato     0.2490147   0.1052632
+15 /players/674518/toni-lato     0.2286092   0.1111111
 [1] "__________________________________"
-[1] "New commit ID #5569"
-      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Hugo Duro  VAL     22 1.85          NA  0.9999   0.4594    passes LaLiga      0.5405         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Hugo Duro  VAL     26  2.3          NA  0.9983   0.5635    passes LaLiga      0.4348         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Hugo Duro  VAL     30 2.76          NA  0.9875   0.6252    passes LaLiga      0.3623         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Hugo Duro  VAL     38  4.9          NA  0.8257   0.6216    passes LaLiga      0.2041         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Hugo Duro  VAL     18 1.51          NA       1   0.3377    passes LaLiga      0.6623         NA        NA         NA       NA
-      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Hugo Duro  VAL     34 3.55          NA  0.9425   0.6608    passes LaLiga      0.2817         NA        NA         NA       NA
+[1] "New commit ID #5680"
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Largie Ramazani  ALM     13 1.51          NA  0.8939   0.2316    passes LaLiga      0.6623         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: El Bilal Toure  ALM     16 1.83          NA  0.8084    0.262    passes LaLiga      0.5464         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: El Bilal Toure  ALM     12  1.5          NA  0.9687    0.302    passes LaLiga      0.6667         NA        NA         NA       NA
+1: El Bilal Toure  ALM     12  1.5          NA  0.8887    0.222    passes LaLiga      0.6667         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Toni Lato  VAL      2 9.15          NA    0.21   0.1007     shots LaLiga          NA     0.1093        NA         NA       NA
+1: Toni Lato  VAL      2 9.15          NA  0.2474   0.1381     shots LaLiga          NA     0.1093        NA         NA       NA
