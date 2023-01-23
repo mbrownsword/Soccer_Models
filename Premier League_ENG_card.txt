@@ -1,90 +1,90 @@
-[1] "Updated at 2023-01-23 08:42:59.366"
+[1] "Updated at 2023-01-23 11:17:00.843"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Fulham 1.6479 to Tottenham Hotspur 2.1432"
-[1] "The pass/shot predicted total is 3.7911"
-[1] "Fulham pass/shot Predicted Win %: 29.82"
-[1] "The pass/shot Predicted Draw % is: 20.72"
-[1] "Tottenham Hotspur pass/shot Predicted Win %: 49.46"
+[1] "The pass/shot predicted score is Fulham 1.6662 to Tottenham Hotspur 1.6652"
+[1] "The pass/shot predicted total is 3.3314"
+[1] "Fulham pass/shot Predicted Win %: 37.84"
+[1] "The pass/shot Predicted Draw % is: 23.2"
+[1] "Tottenham Hotspur pass/shot Predicted Win %: 38.96"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Fulham 1.7923 to Tottenham Hotspur 2.1089"
-[1] "The xg model predicted total is 3.9012"
-[1] "Fulham xg model Predicted Win %: 33.03"
-[1] "The xg model Predicted Draw % is: 20.89"
-[1] "Tottenham Hotspur xg model Predicted Win %: 46.08"
+[1] "The xg model predicted score is Fulham 1.7382 to Tottenham Hotspur 1.6307"
+[1] "The xg model predicted total is 3.3689"
+[1] "Fulham xg model Predicted Win %: 40.69"
+[1] "The xg model Predicted Draw % is: 22.88"
+[1] "Tottenham Hotspur xg model Predicted Win %: 36.43"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Fulham 1.5716 to Tottenham Hotspur 2.5573"
-[1] "The xgot model predicted total is 4.1289"
-[1] "Fulham xgot model Predicted Win %: 23.04"
-[1] "The xgot model Predicted Draw % is: 18.42"
-[1] "Tottenham Hotspur xgot model Predicted Win %: 58.54"
+[1] "The xgot model predicted score is Fulham 1.6892 to Tottenham Hotspur 1.2302"
+[1] "The xgot model predicted total is 2.9194"
+[1] "Fulham xgot model Predicted Win %: 48.66"
+[1] "The xgot model Predicted Draw % is: 24.28"
+[1] "Tottenham Hotspur xgot model Predicted Win %: 27.06"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Fulham 1.33 to Tottenham Hotspur 1.176"
-[1] "The xa model predicted total is 2.506"
-[1] "Fulham xa model Predicted Win %: 40.22"
-[1] "The xa model Predicted Draw % is: 26.73"
-[1] "Tottenham Hotspur xa model Predicted Win %: 33.05"
+[1] "The xa model predicted score is Fulham 1.344 to Tottenham Hotspur 1.3597"
+[1] "The xa model predicted total is 2.7037"
+[1] "Fulham xa model Predicted Win %: 37.69"
+[1] "The xa model Predicted Draw % is: 25.52"
+[1] "Tottenham Hotspur xa model Predicted Win %: 36.79"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Fulham 2.4442 to Tottenham Hotspur 2.7897"
-[1] "The XGExp model predicted total is 5.2339"
-[1] "Fulham XGExp model Predicted Win %: 35"
-[1] "The XGExp model Predicted Draw % is: 18.06"
-[1] "Tottenham Hotspur XGExp model Predicted Win %: 46.94"
+[1] "The XGExp model predicted score is Fulham 2.3902 to Tottenham Hotspur 2.6107"
+[1] "The XGExp model predicted total is 5.0009"
+[1] "Fulham XGExp model Predicted Win %: 37.03"
+[1] "The XGExp model Predicted Draw % is: 18.28"
+[1] "Tottenham Hotspur XGExp model Predicted Win %: 44.69"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Fulham 1.746 to Tottenham Hotspur 1.549"
-[1] "The XAExp model predicted total is 3.295"
-[1] "Fulham XAExp model Predicted Win %: 42.86"
-[1] "The XAExp model Predicted Draw % is: 22.99"
-[1] "Tottenham Hotspur XAExp model Predicted Win %: 34.15"
+[1] "The XAExp model predicted score is Fulham 1.7596 to Tottenham Hotspur 1.6727"
+[1] "The XAExp model predicted total is 3.4323"
+[1] "Fulham XAExp model Predicted Win %: 40.22"
+[1] "The XAExp model Predicted Draw % is: 22.93"
+[1] "Tottenham Hotspur XAExp model Predicted Win %: 36.85"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Fulham winning this match is 33.99 percent, with a minimum chance of 23.04 percent, and a maximum chance of 42.86 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 21.3 percent, with a minimum chance of 18.06 percent, and a maximum chance of 26.73 percent."
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 44.7 percent, with a minimum chance of 33.05 percent, and a maximum chance of 58.54 percent."
-[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 55.3 percent, with a minimum chance of 41.46 percent, and a maximum chance of 66.95 percent."
-[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 66 percent, with a minimum chance of 57.14 percent, and a maximum chance of 76.96 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 73.26 percent, with a high likelihood of 89.37 and a low likelihood of 45.77 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 26.74 percent, with a high likelihood of 54.23 and a low likelihood of 10.63 percent."
+[1] "Our modelled likelihood of Fulham winning this match is 40.36 percent, with a minimum chance of 37.03 percent, and a maximum chance of 48.66 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 22.85 percent, with a minimum chance of 18.28 percent, and a maximum chance of 25.52 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match is 36.8 percent, with a minimum chance of 27.06 percent, and a maximum chance of 44.69 percent."
+[1] "Our modelled likelihood of Fulham winning this match OR DRAW is 63.2 percent, with a minimum chance of 55.31 percent, and a maximum chance of 72.94 percent."
+[1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 59.65 percent, with a minimum chance of 51.34 percent, and a maximum chance of 62.97 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 67.16 percent, with a high likelihood of 87.54 and a low likelihood of 50.73 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 32.84 percent, with a high likelihood of 49.27 and a low likelihood of 12.46 percent."
 [1] "--Sportsbook Odds--"
-[1] "Fulham Barstool Odds are: 31.25"
-[1] "The Barstool Odds of a Draw are: 27.03"
-[1] "Tottenham Hotspur Barstool Odds are: 46.51"
-[1] "Fulham Adjusted Barstool Odds are: 29.822"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.794"
-[1] "Tottenham Hotspur Adjusted Barstool Odds are: 44.384"
-[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 57.8"
-[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 46.73"
-[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.5 hitting. The line for the under is 2.17, which is a 46.08 percent chance of the under 2.5 hitting."
+[1] "Fulham Barstool Odds are: 31.75"
+[1] "The Barstool Odds of a Draw are: 26.67"
+[1] "Tottenham Hotspur Barstool Odds are: 45.87"
+[1] "Fulham Adjusted Barstool Odds are: 30.444"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.573"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 43.983"
+[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 58.14"
+[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 46.3"
+[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24 percent chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-01-23 12:00:00
+     bet           date_time
+1 Fulham 2023-01-23 12:15:00
 [1] "____________Anytime Goalscorers______________________"
                player_name expected_attg expected_gs
-2 /players/198444/tim-ream       0.17005  0.03030303
-                         player_name expected_attg expected_gs
-14 /players/620618/rodrigo-bentancur     0.2549167   0.1176471
+3 /players/198444/tim-ream     0.1747167  0.02941176
                  player_name expected_attg expected_gs
-17 /players/696443/issa-diop     0.1924333        0.04
+9 /players/276121/ben-davies       0.17685      0.0625
+                         player_name expected_attg expected_gs
+16 /players/620618/rodrigo-bentancur      0.234331   0.1176471
+                 player_name expected_attg expected_gs
+18 /players/696443/issa-diop     0.1986833        0.04
 [1] "__________________________________"
-[1] "New commit ID #3660"
-     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Tim Ream  FUL     60 1.55          NA   0.753   0.1078    passes Premier League      0.6452         NA        NA         NA       NA
+[1] "New commit ID #1310"
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kenny Tete  FUL     41 1.88          NA  0.7207   0.1888    passes Premier League      0.5319         NA        NA         NA       NA
+1: Kenny Tete  FUL     41 1.88          NA  0.7069    0.175    passes Premier League      0.5319         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kenny Tete  FUL     37 1.51          NA  0.8861   0.2238    passes Premier League      0.6623         NA        NA         NA       NA
+1: Kenny Tete  FUL     37 1.51          NA  0.8782   0.2159    passes Premier League      0.6623         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Harry Kane  TOT     19 1.52          NA  0.8011   0.1432    passes Premier League      0.6579         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Andreas Pereira  FUL     26  1.4          NA  0.8783    0.164    passes Premier League      0.7143         NA        NA         NA       NA
+1: Andreas Pereira  FUL     26  1.4          NA  0.8713    0.157    passes Premier League      0.7143         NA        NA         NA       NA
     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Willian  FUL     37 1.87          NA  0.7337   0.1989    passes Premier League      0.5348         NA        NA         NA       NA
+1: Willian  FUL     37 1.87          NA  0.7208    0.186    passes Premier League      0.5348         NA        NA         NA       NA
     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Willian  FUL     33 1.53          NA  0.8992   0.2456    passes Premier League      0.6536         NA        NA         NA       NA
+1: Willian  FUL     33 1.53          NA  0.8923   0.2387    passes Premier League      0.6536         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     28 1.85          NA  0.8084   0.2679    passes Premier League      0.5405         NA        NA         NA       NA
+1: Son Heung-Min  TOT     28 1.85          NA   0.799   0.2585    passes Premier League      0.5405         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     24 1.51          NA  0.9472   0.2849    passes Premier League      0.6623         NA        NA         NA       NA
+1: Son Heung-Min  TOT     24 1.51          NA  0.9435   0.2812    passes Premier League      0.6623         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Son Heung-Min  TOT     32  2.3          NA  0.5635   0.1287    passes Premier League      0.4348         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Harry Kane  TOT      3    7          NA  0.2876   0.1447      sogs Premier League          NA         NA    0.1429         NA       NA
+1: Son Heung-Min  TOT     32  2.3          NA  0.5498    0.115    passes Premier League      0.4348         NA        NA         NA       NA
