@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-23 08:21:16.268"
+[1] "Updated at 2023-01-23 08:26:09.669"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -61,7 +61,7 @@
 1     2023-01-23 12:00:00
 [1] "____________Anytime Goalscorers______________________"
 [1] "__________________________________"
-[1] "New commit ID #2421"
+[1] "New commit ID #2921"
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Hugo Duro  VAL     22 1.85          NA  0.9999   0.4594    passes LaLiga      0.5405         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
