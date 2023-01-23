@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-23 14:40:33.218"
+[1] "Updated at 2023-01-23 15:37:10.939"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -174,9 +174,9 @@
   bet           date_time
 1     2023-01-24 11:45:00
 [1] "____________Anytime Goalscorers______________________"
-                  player_name expected_attg expected_gs
-50 /players/279830/matt-smith     0.2283061   0.1176471
-                       player_name expected_attg expected_gs
-126 /players/938518/ryan-edmondson     0.2344027  0.06666667
+                      player_name            team expected_attg expected_gs
+33 /players/938518/ryan-edmondson Carlisle United     0.2344027  0.06666667
+                  player_name         team expected_attg expected_gs
+66 /players/279830/matt-smith Salford City     0.2283061   0.1176471
 [1] "__________________________________"
-[1] "New commit ID #4931"
+[1] "New commit ID #6063"
