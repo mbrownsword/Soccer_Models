@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-22 21:19:52.135"
+[1] "Updated at 2023-01-22 21:35:46.133"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -44,7 +44,7 @@
 [1] "Our modelled likelihood of Boavista winning this match OR DRAW is 72.64 percent, with a minimum chance of 55.16 percent, and a maximum chance of 82.48 percent."
 [1] "Our modelled likelihood of Chaves winning this match OR DRAW is 53.44 percent, with a minimum chance of 40.65 percent, and a maximum chance of 70.59 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 44.32 percent, with a high likelihood of 51.66 and a low likelihood of 32.08 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 55.68 percent, with a high likelihood of 48.34 and a low likelihood of 67.92 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 55.68 percent, with a high likelihood of 67.92 and a low likelihood of 48.34 percent."
 [1] "--Sportsbook Odds--"
 [1] "Boavista Barstool Odds are: 45.45"
 [1] "The Barstool Odds of a Draw are: 31.25"
@@ -59,4 +59,4 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-01-22 07:30:00
-[1] "New commit ID #9556"
+[1] "New commit ID #7939"
