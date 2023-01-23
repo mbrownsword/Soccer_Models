@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-22 21:17:08.774"
+[1] "Updated at 2023-01-22 21:33:27.478"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -44,7 +44,7 @@
 [1] "Our modelled likelihood of Bologna winning this match OR DRAW is 66.26 percent, with a minimum chance of 42.62 percent, and a maximum chance of 77.38 percent."
 [1] "Our modelled likelihood of Cremonese winning this match OR DRAW is 58.86 percent, with a minimum chance of 48.69 percent, and a maximum chance of 78.68 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 50.35 percent, with a high likelihood of 62.75 and a low likelihood of 41.74 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 49.65 percent, with a high likelihood of 37.25 and a low likelihood of 58.26 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 49.65 percent, with a high likelihood of 58.26 and a low likelihood of 37.25 percent."
 [1] "--Sportsbook Odds--"
 [1] "Bologna Barstool Odds are: 52.63"
 [1] "The Barstool Odds of a Draw are: 29.85"
@@ -101,7 +101,7 @@
 [1] "Our modelled likelihood of Internazionale winning this match OR DRAW is 84.23 percent, with a minimum chance of 70.09 percent, and a maximum chance of 94.24 percent."
 [1] "Our modelled likelihood of Empoli winning this match OR DRAW is 38.24 percent, with a minimum chance of 23.83 percent, and a maximum chance of 55.85 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 47.53 percent, with a high likelihood of 64.29 and a low likelihood of 31.02 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 52.47 percent, with a high likelihood of 35.71 and a low likelihood of 68.98 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 52.47 percent, with a high likelihood of 68.98 and a low likelihood of 35.71 percent."
 [1] "--Sportsbook Odds--"
 [1] "Internazionale Barstool Odds are: 78.74"
 [1] "The Barstool Odds of a Draw are: 17.39"
@@ -116,7 +116,7 @@
 [1] "_____________________________________________________________________________________________________________________________"
                          bet           date_time
 1 draw Internazionale/Empoli 2023-01-23 11:45:00
-[1] "New commit ID #4099"
+[1] "New commit ID #2240"
                     player_name expected_attg expected_gs
 75 /players/557325/stefan-posch         0.231  0.07692308
                       player_name expected_attg expected_gs
