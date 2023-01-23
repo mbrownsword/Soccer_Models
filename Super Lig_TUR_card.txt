@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-22 21:20:54.316"
+[1] "Updated at 2023-01-22 21:36:35.491"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -44,7 +44,7 @@
 [1] "Our modelled likelihood of Konyaspor winning this match OR DRAW is 65.54 percent, with a minimum chance of 55.2 percent, and a maximum chance of 79.93 percent."
 [1] "Our modelled likelihood of Ankaragucu winning this match OR DRAW is 60.45 percent, with a minimum chance of 45.77 percent, and a maximum chance of 70.93 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 47.6 percent, with a high likelihood of 58.27 and a low likelihood of 40.4 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 52.4 percent, with a high likelihood of 41.73 and a low likelihood of 59.6 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 52.4 percent, with a high likelihood of 59.6 and a low likelihood of 41.73 percent."
 [1] "--Sportsbook Odds--"
 [1] "Konyaspor Barstool Odds are: 50.51"
 [1] "The Barstool Odds of a Draw are: 29.85"
@@ -101,7 +101,7 @@
 [1] "Our modelled likelihood of Umraniyespor winning this match OR DRAW is 42.11 percent, with a minimum chance of 28.37 percent, and a maximum chance of 54.51 percent."
 [1] "Our modelled likelihood of Fenerbahce winning this match OR DRAW is 80.01 percent, with a minimum chance of 70.91 percent, and a maximum chance of 88.35 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 56.39 percent, with a high likelihood of 68.18 and a low likelihood of 38.72 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 43.61 percent, with a high likelihood of 31.82 and a low likelihood of 61.28 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 43.61 percent, with a high likelihood of 61.28 and a low likelihood of 31.82 percent."
 [1] "--Sportsbook Odds--"
 [1] "Umraniyespor Barstool Odds are: 17.39"
 [1] "The Barstool Odds of a Draw are: 23.26"
@@ -116,4 +116,4 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-01-22 02:30:00
-[1] "New commit ID #1191"
+[1] "New commit ID #4183"
