@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-22 21:15:39.227"
+[1] "Updated at 2023-01-22 21:31:59.194"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -44,7 +44,7 @@
 [1] "Our modelled likelihood of Fulham winning this match OR DRAW is 55.3 percent, with a minimum chance of 41.46 percent, and a maximum chance of 66.95 percent."
 [1] "Our modelled likelihood of Tottenham Hotspur winning this match OR DRAW is 66 percent, with a minimum chance of 57.14 percent, and a maximum chance of 76.96 percent."
 [1] "The modelled likelihood of hitting the over 2.5 is 73.26 percent, with a high likelihood of 89.37 and a low likelihood of 45.77 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 26.74 percent, with a high likelihood of 10.63 and a low likelihood of 54.23 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 26.74 percent, with a high likelihood of 54.23 and a low likelihood of 10.63 percent."
 [1] "--Sportsbook Odds--"
 [1] "Fulham Barstool Odds are: 30.3"
 [1] "The Barstool Odds of a Draw are: 26.32"
@@ -59,7 +59,51 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-01-22 06:00:00
-[1] "New commit ID #6198"
+[1] "New commit ID #9332"
+                player_name expected_attg expected_gs
+12 /players/198444/tim-ream       0.17005  0.02941176
+                         player_name expected_attg expected_gs
+50 /players/620618/rodrigo-bentancur     0.2549167   0.1176471
+                 player_name expected_attg expected_gs
+59 /players/696443/issa-diop     0.1924333        0.04
+     player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Tim Ream  FUL     60 1.55          NA   0.753   0.1078    passes Premier League      0.6452         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kenny Tete  FUL     41 1.88          NA  0.7207   0.1888    passes Premier League      0.5319         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kenny Tete  FUL     37 1.51          NA  0.8861   0.2238    passes Premier League      0.6623         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Andreas Pereira  FUL     26  1.4          NA  0.8783    0.164    passes Premier League      0.7143         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Willian  FUL     37 1.87          NA  0.7337   0.1989    passes Premier League      0.5348         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Willian  FUL     33 1.53          NA  0.8992   0.2456    passes Premier League      0.6536         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     28 1.85          NA  0.8084   0.2679    passes Premier League      0.5405         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     24 1.51          NA  0.9472   0.2849    passes Premier League      0.6623         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     32  2.3          NA  0.5635   0.1287    passes Premier League      0.4348         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic         league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Harry Kane  TOT      3    7          NA  0.2876   0.1447      sogs Premier League          NA         NA    0.1429         NA       NA
+elled likelihood of Tottenham Hotspur winning this match OR DRAW is 66 percent, with a minimum chance of 57.14 percent, and a maximum chance of 76.96 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 73.26 percent, with a high likelihood of 89.37 and a low likelihood of 45.77 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 26.74 percent, with a high likelihood of 54.23 and a low likelihood of 10.63 percent."
+[1] "--Sportsbook Odds--"
+[1] "Fulham Barstool Odds are: 30.3"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Tottenham Hotspur Barstool Odds are: 48.08"
+[1] "Fulham Adjusted Barstool Odds are: 28.94"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.138"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 45.922"
+[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 56.18"
+[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 48.31"
+[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.5 hitting. The line for the under is 2.18, which is a 45.87 percent chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-01-22 06:00:00
+[1] "New commit ID #9332"
                 player_name expected_attg expected_gs
 12 /players/198444/tim-ream       0.17005  0.02941176
                          player_name expected_attg expected_gs
