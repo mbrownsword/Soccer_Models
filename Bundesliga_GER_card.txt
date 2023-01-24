@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-23 16:21:58.151"
+[1] "Updated at 2023-01-23 16:26:16.298"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -236,7 +236,7 @@
                    player_name          team expected_attg expected_gs
 81 /players/202643/wataru-endo VfB Stuttgart     0.2542833  0.09090909
 [1] "__________________________________"
-[1] "New commit ID #2530"
+[1] "New commit ID #2273"
        player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Ridle Baku  WOB      2 1.63      0.6135  0.8305    0.217   tackles Bundesliga         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
