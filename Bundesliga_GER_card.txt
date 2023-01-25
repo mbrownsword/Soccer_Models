@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-25 06:50:15.454"
+[1] "Updated at 2023-01-25 06:52:15.478"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -302,7 +302,7 @@
                       player_name               team expected_attg expected_gs
 103 /players/304354/janik-haberer 1. FC Union Berlin     0.2300684       0.125
 [1] "__________________________________"
-[1] "New commit ID #2867"
+[1] "New commit ID #9173"
         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Anton Stach  MAI      2 2.84      0.3521  0.4589   0.1068   tackles Bundesliga         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
