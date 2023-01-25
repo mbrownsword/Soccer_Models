@@ -1,107 +1,50 @@
-[1] "Updated at 2023-01-25 08:46:36.999"
+[1] "Updated at 2023-01-25 10:40:19.193"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Mainz 2.0184 to Borussia Dortmund 1.5223"
-[1] "The pass/shot predicted total is 3.5407"
-[1] "Mainz pass/shot Predicted Win %: 49.74"
-[1] "The pass/shot Predicted Draw % is: 20.71"
-[1] "Borussia Dortmund pass/shot Predicted Win %: 29.55"
+[1] "The pass/shot predicted score is Bayer Leverkusen 2.7516 to VfL Bochum 0.9895"
+[1] "The pass/shot predicted total is 3.7411"
+[1] "Bayer Leverkusen pass/shot Predicted Win %: 73.69"
+[1] "The pass/shot Predicted Draw % is: 15.24"
+[1] "VfL Bochum pass/shot Predicted Win %: 11.07"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Mainz 1.5446 to Borussia Dortmund 1.8345"
-[1] "The xg model predicted total is 3.3791"
-[1] "Mainz xg model Predicted Win %: 32.28"
-[1] "The xg model Predicted Draw % is: 23.04"
-[1] "Borussia Dortmund xg model Predicted Win %: 44.68"
+[1] "The xg model predicted score is Bayer Leverkusen 4.0073 to VfL Bochum 0.8471"
+[1] "The xg model predicted total is 4.8544"
+[1] "Bayer Leverkusen xg model Predicted Win %: 89.52"
+[1] "The xg model Predicted Draw % is: 6.87"
+[1] "VfL Bochum xg model Predicted Win %: 3.61"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Mainz 1.4632 to Borussia Dortmund 1.147"
-[1] "The xgot model predicted total is 2.6102"
-[1] "Mainz xgot model Predicted Win %: 44.48"
-[1] "The xgot model Predicted Draw % is: 25.33"
-[1] "Borussia Dortmund xgot model Predicted Win %: 30.19"
+[1] "The xgot model predicted score is Bayer Leverkusen 4.5521 to VfL Bochum 1.5731"
+[1] "The xgot model predicted total is 6.1252"
+[1] "Bayer Leverkusen xgot model Predicted Win %: 84.13"
+[1] "The xgot model Predicted Draw % is: 8.55"
+[1] "VfL Bochum xgot model Predicted Win %: 7.32"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Mainz 2.023 to Borussia Dortmund 1.7382"
-[1] "The xa model predicted total is 3.7612"
-[1] "Mainz xa model Predicted Win %: 45.59"
-[1] "The xa model Predicted Draw % is: 20.89"
-[1] "Borussia Dortmund xa model Predicted Win %: 33.52"
+[1] "The xa model predicted score is Bayer Leverkusen 1.6807 to VfL Bochum 1.2387"
+[1] "The xa model predicted total is 2.9194"
+[1] "Bayer Leverkusen xa model Predicted Win %: 48.22"
+[1] "The xa model Predicted Draw % is: 24.44"
+[1] "VfL Bochum xa model Predicted Win %: 27.34"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Mainz 1.6881 to Borussia Dortmund 1.8235"
-[1] "The XGExp model predicted total is 3.5116"
-[1] "Mainz XGExp model Predicted Win %: 35.52"
-[1] "The XGExp model Predicted Draw % is: 22.7"
-[1] "Borussia Dortmund XGExp model Predicted Win %: 41.78"
+[1] "The XGExp model predicted score is Bayer Leverkusen 4.2511 to VfL Bochum 0.9678"
+[1] "The XGExp model predicted total is 5.2189"
+[1] "Bayer Leverkusen XGExp model Predicted Win %: 90.06"
+[1] "The XGExp model Predicted Draw % is: 6.44"
+[1] "VfL Bochum XGExp model Predicted Win %: 3.5"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Mainz 1.7143 to Borussia Dortmund 1.66"
-[1] "The XAExp model predicted total is 3.3743"
-[1] "Mainz XAExp model Predicted Win %: 39.65"
-[1] "The XAExp model Predicted Draw % is: 23"
-[1] "Borussia Dortmund XAExp model Predicted Win %: 37.35"
+[1] "The XAExp model predicted score is Bayer Leverkusen 1.7297 to VfL Bochum 1.0271"
+[1] "The XAExp model predicted total is 2.7568"
+[1] "Bayer Leverkusen XAExp model Predicted Win %: 54.42"
+[1] "The XAExp model Predicted Draw % is: 23.9"
+[1] "VfL Bochum XAExp model Predicted Win %: 21.68"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Mainz winning this match is 41.21 percent, with a minimum chance of 32.28 percent, and a maximum chance of 49.74 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 22.61 percent, with a minimum chance of 20.71 percent, and a maximum chance of 25.33 percent."
-[1] "Our modelled likelihood of Borussia Dortmund winning this match is 36.18 percent, with a minimum chance of 29.55 percent, and a maximum chance of 44.68 percent."
-[1] "Our modelled likelihood of Mainz winning this match OR DRAW is 63.82 percent, with a minimum chance of 55.32 percent, and a maximum chance of 70.45 percent."
-[1] "Our modelled likelihood of Borussia Dortmund winning this match OR DRAW is 58.79 percent, with a minimum chance of 50.26 percent, and a maximum chance of 67.72 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 65.3 percent, with a high likelihood of 72.48 and a low likelihood of 48.41 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 34.7 percent, with a high likelihood of 51.59 and a low likelihood of 27.52 percent."
-[1] "--Sportsbook Odds--"
-[1] "Mainz Barstool Odds are: 31.75"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Borussia Dortmund Barstool Odds are: 46.51"
-[1] "Mainz Adjusted Barstool Odds are: 29.942"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.198"
-[1] "Borussia Dortmund Adjusted Barstool Odds are: 43.861"
-[1] "Mainz's Barstool Odds to cover the 0.25 spread are: 51.02"
-[1] "Borussia Dortmund's Barstool Odds to cover the -0.25 spread are: 53.19"
-[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29 percent chance of the over 2.5 hitting. The line for the under is 2.38, which is a 42.02 percent chance of the under 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Bayer Leverkusen 2.7795 to VfL Bochum 1.4525"
-[1] "The pass/shot predicted total is 4.232"
-[1] "Bayer Leverkusen pass/shot Predicted Win %: 65.17"
-[1] "The pass/shot Predicted Draw % is: 16.36"
-[1] "VfL Bochum pass/shot Predicted Win %: 18.47"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Bayer Leverkusen 3.8124 to VfL Bochum 1.2169"
-[1] "The xg model predicted total is 5.0293"
-[1] "Bayer Leverkusen xg model Predicted Win %: 83.65"
-[1] "The xg model Predicted Draw % is: 9.07"
-[1] "VfL Bochum xg model Predicted Win %: 7.28"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Bayer Leverkusen 4.3944 to VfL Bochum 2.3445"
-[1] "The xgot model predicted total is 6.7389"
-[1] "Bayer Leverkusen xgot model Predicted Win %: 73.34"
-[1] "The xgot model Predicted Draw % is: 10.92"
-[1] "VfL Bochum xgot model Predicted Win %: 15.74"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Bayer Leverkusen 1.8161 to VfL Bochum 1.2283"
-[1] "The xa model predicted total is 3.0444"
-[1] "Bayer Leverkusen xa model Predicted Win %: 51.59"
-[1] "The xa model Predicted Draw % is: 23.37"
-[1] "VfL Bochum xa model Predicted Win %: 25.04"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Bayer Leverkusen 4.1791 to VfL Bochum 1.406"
-[1] "The XGExp model predicted total is 5.5851"
-[1] "Bayer Leverkusen XGExp model Predicted Win %: 83.37"
-[1] "The XGExp model Predicted Draw % is: 9.17"
-[1] "VfL Bochum XGExp model Predicted Win %: 7.46"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Bayer Leverkusen 1.8893 to VfL Bochum 1.1104"
-[1] "The XAExp model predicted total is 2.9997"
-[1] "Bayer Leverkusen XAExp model Predicted Win %: 56.08"
-[1] "The XAExp model Predicted Draw % is: 22.28"
-[1] "VfL Bochum XAExp model Predicted Win %: 21.64"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Bayer Leverkusen winning this match is 68.87 percent, with a minimum chance of 51.59 percent, and a maximum chance of 83.65 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 15.2 percent, with a minimum chance of 9.07 percent, and a maximum chance of 23.37 percent."
-[1] "Our modelled likelihood of VfL Bochum winning this match is 15.94 percent, with a minimum chance of 7.28 percent, and a maximum chance of 25.04 percent."
-[1] "Our modelled likelihood of Bayer Leverkusen winning this match OR DRAW is 84.06 percent, with a minimum chance of 74.96 percent, and a maximum chance of 92.72 percent."
-[1] "Our modelled likelihood of VfL Bochum winning this match OR DRAW is 31.13 percent, with a minimum chance of 16.35 percent, and a maximum chance of 48.41 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 83.79 percent, with a high likelihood of 96.4 and a low likelihood of 57.68 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 16.21 percent, with a high likelihood of 42.32 and a low likelihood of 3.6 percent."
+[1] "Our modelled likelihood of Bayer Leverkusen winning this match is 73.34 percent, with a minimum chance of 48.22 percent, and a maximum chance of 90.06 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 14.24 percent, with a minimum chance of 6.44 percent, and a maximum chance of 24.44 percent."
+[1] "Our modelled likelihood of VfL Bochum winning this match is 12.42 percent, with a minimum chance of 3.5 percent, and a maximum chance of 27.34 percent."
+[1] "Our modelled likelihood of Bayer Leverkusen winning this match OR DRAW is 87.58 percent, with a minimum chance of 72.66 percent, and a maximum chance of 96.5 percent."
+[1] "Our modelled likelihood of VfL Bochum winning this match OR DRAW is 26.66 percent, with a minimum chance of 9.94 percent, and a maximum chance of 51.78 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 79.88 percent, with a high likelihood of 94.34 and a low likelihood of 52.02 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 20.12 percent, with a high likelihood of 47.98 and a low likelihood of 5.66 percent."
 [1] "--Sportsbook Odds--"
 [1] "Bayer Leverkusen Barstool Odds are: 69.44"
 [1] "The Barstool Odds of a Draw are: 21.05"
@@ -109,56 +52,56 @@
 [1] "Bayer Leverkusen Adjusted Barstool Odds are: 65.945"
 [1] "The Adjusted Barstool Odds of a Draw are: 19.991"
 [1] "VfL Bochum Adjusted Barstool Odds are: 14.065"
-[1] "Bayer Leverkusen's Barstool Odds to cover the  spread are: NA"
-[1] "VfL Bochum's Barstool Odds to cover the  spread are: NA"
+[1] "Bayer Leverkusen's Barstool Odds to cover the -1.25 spread are: 50.51"
+[1] "VfL Bochum's Barstool Odds to cover the 1.25 spread are: 53.76"
 [1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24 percent chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is FC Augsburg 2.1195 to Borussia Monchengladbach 1.7856"
-[1] "The pass/shot predicted total is 3.9051"
-[1] "FC Augsburg pass/shot Predicted Win %: 46.2"
-[1] "The pass/shot Predicted Draw % is: 20.62"
-[1] "Borussia Monchengladbach pass/shot Predicted Win %: 33.18"
+[1] "The pass/shot predicted score is FC Augsburg 2.1036 to Borussia Monchengladbach 1.7784"
+[1] "The pass/shot predicted total is 3.882"
+[1] "FC Augsburg pass/shot Predicted Win %: 46.14"
+[1] "The pass/shot Predicted Draw % is: 20.54"
+[1] "Borussia Monchengladbach pass/shot Predicted Win %: 33.32"
 [1] "--XG Model--"
-[1] "The xg model predicted score is FC Augsburg 2.6513 to Borussia Monchengladbach 1.285"
-[1] "The xg model predicted total is 3.9363"
-[1] "FC Augsburg xg model Predicted Win %: 66.29"
-[1] "The xg model Predicted Draw % is: 17.11"
-[1] "Borussia Monchengladbach xg model Predicted Win %: 16.6"
+[1] "The xg model predicted score is FC Augsburg 2.3564 to Borussia Monchengladbach 1.2501"
+[1] "The xg model predicted total is 3.6065"
+[1] "FC Augsburg xg model Predicted Win %: 61.97"
+[1] "The xg model Predicted Draw % is: 18.91"
+[1] "Borussia Monchengladbach xg model Predicted Win %: 19.12"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is FC Augsburg 3.2154 to Borussia Monchengladbach 1.0979"
-[1] "The xgot model predicted total is 4.3133"
-[1] "FC Augsburg xgot model Predicted Win %: 78.52"
-[1] "The xgot model Predicted Draw % is: 12.18"
-[1] "Borussia Monchengladbach xgot model Predicted Win %: 9.3"
+[1] "The xgot model predicted score is FC Augsburg 2.3232 to Borussia Monchengladbach 1.1752"
+[1] "The xgot model predicted total is 3.4984"
+[1] "FC Augsburg xgot model Predicted Win %: 63.2"
+[1] "The xgot model Predicted Draw % is: 18.94"
+[1] "Borussia Monchengladbach xgot model Predicted Win %: 17.86"
 [1] "--XA Model--"
-[1] "The xa model predicted score is FC Augsburg 2.2738 to Borussia Monchengladbach 1.4839"
-[1] "The xa model predicted total is 3.7577"
-[1] "FC Augsburg xa model Predicted Win %: 56.02"
-[1] "The xa model Predicted Draw % is: 19.26"
-[1] "Borussia Monchengladbach xa model Predicted Win %: 24.72"
+[1] "The xa model predicted score is FC Augsburg 2.2138 to Borussia Monchengladbach 1.4806"
+[1] "The xa model predicted total is 3.6944"
+[1] "FC Augsburg xa model Predicted Win %: 54.3"
+[1] "The xa model Predicted Draw % is: 20.23"
+[1] "Borussia Monchengladbach xa model Predicted Win %: 25.47"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is FC Augsburg 2.6319 to Borussia Monchengladbach 1.6465"
-[1] "The XGExp model predicted total is 4.2784"
-[1] "FC Augsburg XGExp model Predicted Win %: 59.03"
-[1] "The XGExp model Predicted Draw % is: 17.33"
-[1] "Borussia Monchengladbach XGExp model Predicted Win %: 23.64"
+[1] "The XGExp model predicted score is FC Augsburg 2.337 to Borussia Monchengladbach 1.3362"
+[1] "The XGExp model predicted total is 3.6732"
+[1] "FC Augsburg XGExp model Predicted Win %: 60.41"
+[1] "The XGExp model Predicted Draw % is: 18.79"
+[1] "Borussia Monchengladbach XGExp model Predicted Win %: 20.8"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is FC Augsburg 2.4465 to Borussia Monchengladbach 1.3357"
-[1] "The XAExp model predicted total is 3.7822"
-[1] "FC Augsburg XAExp model Predicted Win %: 62.26"
-[1] "The XAExp model Predicted Draw % is: 18.33"
-[1] "Borussia Monchengladbach XAExp model Predicted Win %: 19.41"
+[1] "The XAExp model predicted score is FC Augsburg 2.3866 to Borussia Monchengladbach 1.4749"
+[1] "The XAExp model predicted total is 3.8615"
+[1] "FC Augsburg XAExp model Predicted Win %: 58.29"
+[1] "The XAExp model Predicted Draw % is: 18.79"
+[1] "Borussia Monchengladbach XAExp model Predicted Win %: 22.92"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of FC Augsburg winning this match is 61.39 percent, with a minimum chance of 46.2 percent, and a maximum chance of 78.52 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 17.47 percent, with a minimum chance of 12.18 percent, and a maximum chance of 20.62 percent."
-[1] "Our modelled likelihood of Borussia Monchengladbach winning this match is 21.14 percent, with a minimum chance of 9.3 percent, and a maximum chance of 33.18 percent."
-[1] "Our modelled likelihood of FC Augsburg winning this match OR DRAW is 78.86 percent, with a minimum chance of 66.82 percent, and a maximum chance of 90.7 percent."
-[1] "Our modelled likelihood of Borussia Monchengladbach winning this match OR DRAW is 38.61 percent, with a minimum chance of 21.48 percent, and a maximum chance of 53.8 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 76.12 percent, with a high likelihood of 80.43 and a low likelihood of 72.42 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 23.88 percent, with a high likelihood of 27.58 and a low likelihood of 19.57 percent."
+[1] "Our modelled likelihood of FC Augsburg winning this match is 57.38 percent, with a minimum chance of 46.14 percent, and a maximum chance of 63.2 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 19.37 percent, with a minimum chance of 18.79 percent, and a maximum chance of 20.54 percent."
+[1] "Our modelled likelihood of Borussia Monchengladbach winning this match is 23.25 percent, with a minimum chance of 17.86 percent, and a maximum chance of 33.32 percent."
+[1] "Our modelled likelihood of FC Augsburg winning this match OR DRAW is 76.75 percent, with a minimum chance of 66.68 percent, and a maximum chance of 82.14 percent."
+[1] "Our modelled likelihood of Borussia Monchengladbach winning this match OR DRAW is 42.61 percent, with a minimum chance of 36.8 percent, and a maximum chance of 53.86 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 71.5 percent, with a high likelihood of 74.41 and a low likelihood of 67.89 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 28.5 percent, with a high likelihood of 32.11 and a low likelihood of 25.59 percent."
 [1] "--Sportsbook Odds--"
 [1] "FC Augsburg Barstool Odds are: 31.75"
 [1] "The Barstool Odds of a Draw are: 28.57"
@@ -166,56 +109,56 @@
 [1] "FC Augsburg Adjusted Barstool Odds are: 30.018"
 [1] "The Adjusted Barstool Odds of a Draw are: 27.011"
 [1] "Borussia Monchengladbach Adjusted Barstool Odds are: 42.971"
-[1] "FC Augsburg's Barstool Odds to cover the  spread are: NA"
-[1] "Borussia Monchengladbach's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.62, which is a 61.73 percent chance of the over 2.5 hitting. The line for the under is 2.3, which is a 43.48 percent chance of the under 2.5 hitting."
+[1] "FC Augsburg's Barstool Odds to cover the 0.25 spread are: 52.08"
+[1] "Borussia Monchengladbach's Barstool Odds to cover the -0.25 spread are: 52.08"
+[1] "Barstool's line for the total is 2.5 at 1.56, which is a 64.1 percent chance of the over 2.5 hitting. The line for the under is 2.43, which is a 41.15 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is SC Freiburg 2.1083 to Eintracht Frankfurt 1.3446"
-[1] "The pass/shot predicted total is 3.4529"
-[1] "SC Freiburg pass/shot Predicted Win %: 55.28"
-[1] "The pass/shot Predicted Draw % is: 21.29"
-[1] "Eintracht Frankfurt pass/shot Predicted Win %: 23.43"
+[1] "The pass/shot predicted score is SC Freiburg 2.6932 to Eintracht Frankfurt 1.5749"
+[1] "The pass/shot predicted total is 4.2681"
+[1] "SC Freiburg pass/shot Predicted Win %: 60.92"
+[1] "The pass/shot Predicted Draw % is: 17.47"
+[1] "Eintracht Frankfurt pass/shot Predicted Win %: 21.61"
 [1] "--XG Model--"
-[1] "The xg model predicted score is SC Freiburg 1.7798 to Eintracht Frankfurt 1.2961"
-[1] "The xg model predicted total is 3.0759"
-[1] "SC Freiburg xg model Predicted Win %: 49.07"
-[1] "The xg model Predicted Draw % is: 23.64"
-[1] "Eintracht Frankfurt xg model Predicted Win %: 27.29"
+[1] "The xg model predicted score is SC Freiburg 3.3179 to Eintracht Frankfurt 1.3749"
+[1] "The xg model predicted total is 4.6928"
+[1] "SC Freiburg xg model Predicted Win %: 74.13"
+[1] "The xg model Predicted Draw % is: 13.19"
+[1] "Eintracht Frankfurt xg model Predicted Win %: 12.68"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is SC Freiburg 2.7241 to Eintracht Frankfurt 1.2308"
-[1] "The xgot model predicted total is 3.9549"
-[1] "SC Freiburg xgot model Predicted Win %: 68.85"
-[1] "The xgot model Predicted Draw % is: 16.47"
-[1] "Eintracht Frankfurt xgot model Predicted Win %: 14.68"
+[1] "The xgot model predicted score is SC Freiburg 3.7672 to Eintracht Frankfurt 1.5501"
+[1] "The xgot model predicted total is 5.3173"
+[1] "SC Freiburg xgot model Predicted Win %: 77.35"
+[1] "The xgot model Predicted Draw % is: 11.6"
+[1] "Eintracht Frankfurt xgot model Predicted Win %: 11.05"
 [1] "--XA Model--"
-[1] "The xa model predicted score is SC Freiburg 1.9987 to Eintracht Frankfurt 0.8695"
-[1] "The xa model predicted total is 2.8682"
-[1] "SC Freiburg xa model Predicted Win %: 64.88"
-[1] "The xa model Predicted Draw % is: 20.44"
-[1] "Eintracht Frankfurt xa model Predicted Win %: 14.68"
+[1] "The xa model predicted score is SC Freiburg 2.3008 to Eintracht Frankfurt 0.9878"
+[1] "The xa model predicted total is 3.2886"
+[1] "SC Freiburg xa model Predicted Win %: 66.12"
+[1] "The xa model Predicted Draw % is: 19.22"
+[1] "Eintracht Frankfurt xa model Predicted Win %: 14.66"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is SC Freiburg 1.715 to Eintracht Frankfurt 1.8233"
-[1] "The XGExp model predicted total is 3.5383"
-[1] "SC Freiburg XGExp model Predicted Win %: 35.73"
-[1] "The XGExp model Predicted Draw % is: 22.53"
-[1] "Eintracht Frankfurt XGExp model Predicted Win %: 41.74"
+[1] "The XGExp model predicted score is SC Freiburg 3.0649 to Eintracht Frankfurt 1.8525"
+[1] "The XGExp model predicted total is 4.9174"
+[1] "SC Freiburg XGExp model Predicted Win %: 62.17"
+[1] "The XGExp model Predicted Draw % is: 16.04"
+[1] "Eintracht Frankfurt XGExp model Predicted Win %: 21.79"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is SC Freiburg 1.947 to Eintracht Frankfurt 0.757"
-[1] "The XAExp model predicted total is 2.704"
-[1] "SC Freiburg XAExp model Predicted Win %: 66.15"
-[1] "The XAExp model Predicted Draw % is: 20.83"
-[1] "Eintracht Frankfurt XAExp model Predicted Win %: 13.02"
+[1] "The XAExp model predicted score is SC Freiburg 2.3724 to Eintracht Frankfurt 0.9227"
+[1] "The XAExp model predicted total is 3.2951"
+[1] "SC Freiburg XAExp model Predicted Win %: 69.57"
+[1] "The XAExp model Predicted Draw % is: 17.99"
+[1] "Eintracht Frankfurt XAExp model Predicted Win %: 12.44"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of SC Freiburg winning this match is 56.66 percent, with a minimum chance of 35.73 percent, and a maximum chance of 68.85 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 20.87 percent, with a minimum chance of 16.47 percent, and a maximum chance of 23.64 percent."
-[1] "Our modelled likelihood of Eintracht Frankfurt winning this match is 22.47 percent, with a minimum chance of 13.02 percent, and a maximum chance of 41.74 percent."
-[1] "Our modelled likelihood of SC Freiburg winning this match OR DRAW is 77.53 percent, with a minimum chance of 58.26 percent, and a maximum chance of 86.98 percent."
-[1] "Our modelled likelihood of Eintracht Frankfurt winning this match OR DRAW is 43.34 percent, with a minimum chance of 31.15 percent, and a maximum chance of 64.27 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 63.36 percent, with a high likelihood of 75.52 and a low likelihood of 50.74 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 36.64 percent, with a high likelihood of 49.26 and a low likelihood of 24.48 percent."
+[1] "Our modelled likelihood of SC Freiburg winning this match is 68.38 percent, with a minimum chance of 60.92 percent, and a maximum chance of 77.35 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 15.92 percent, with a minimum chance of 11.6 percent, and a maximum chance of 19.22 percent."
+[1] "Our modelled likelihood of Eintracht Frankfurt winning this match is 15.7 percent, with a minimum chance of 11.05 percent, and a maximum chance of 21.79 percent."
+[1] "Our modelled likelihood of SC Freiburg winning this match OR DRAW is 84.3 percent, with a minimum chance of 78.21 percent, and a maximum chance of 88.95 percent."
+[1] "Our modelled likelihood of Eintracht Frankfurt winning this match OR DRAW is 31.62 percent, with a minimum chance of 22.65 percent, and a maximum chance of 39.08 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 80.22 percent, with a high likelihood of 89.97 and a low likelihood of 63.83 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 19.78 percent, with a high likelihood of 36.17 and a low likelihood of 10.03 percent."
 [1] "--Sportsbook Odds--"
 [1] "SC Freiburg Barstool Odds are: 40.82"
 [1] "The Barstool Odds of a Draw are: 29.41"
@@ -223,56 +166,56 @@
 [1] "SC Freiburg Adjusted Barstool Odds are: 38.758"
 [1] "The Adjusted Barstool Odds of a Draw are: 27.924"
 [1] "Eintracht Frankfurt Adjusted Barstool Odds are: 33.318"
-[1] "SC Freiburg's Barstool Odds to cover the  spread are: NA"
-[1] "Eintracht Frankfurt's Barstool Odds to cover the  spread are: NA"
+[1] "SC Freiburg's Barstool Odds to cover the 0 spread are: 56.18"
+[1] "Eintracht Frankfurt's Barstool Odds to cover the 0 spread are: 48.08"
 [1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Werder Bremen 1.3701 to 1. FC Union Berlin 1.4829"
-[1] "The pass/shot predicted total is 2.853"
-[1] "Werder Bremen pass/shot Predicted Win %: 35.52"
-[1] "The pass/shot Predicted Draw % is: 24.96"
-[1] "1. FC Union Berlin pass/shot Predicted Win %: 39.52"
+[1] "The pass/shot predicted score is Werder Bremen 1.3929 to 1. FC Union Berlin 1.4401"
+[1] "The pass/shot predicted total is 2.833"
+[1] "Werder Bremen pass/shot Predicted Win %: 36.6"
+[1] "The pass/shot Predicted Draw % is: 25.23"
+[1] "1. FC Union Berlin pass/shot Predicted Win %: 38.17"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Werder Bremen 0.9621 to 1. FC Union Berlin 1.0885"
-[1] "The xg model predicted total is 2.0506"
-[1] "Werder Bremen xg model Predicted Win %: 31.99"
-[1] "The xg model Predicted Draw % is: 30.84"
-[1] "1. FC Union Berlin xg model Predicted Win %: 37.17"
+[1] "The xg model predicted score is Werder Bremen 1.0888 to 1. FC Union Berlin 0.9202"
+[1] "The xg model predicted total is 2.009"
+[1] "Werder Bremen xg model Predicted Win %: 39.7"
+[1] "The xg model Predicted Draw % is: 30.2"
+[1] "1. FC Union Berlin xg model Predicted Win %: 30.1"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Werder Bremen 1.1483 to 1. FC Union Berlin 1.3448"
-[1] "The xgot model predicted total is 2.4931"
-[1] "Werder Bremen xgot model Predicted Win %: 32.13"
-[1] "The xgot model Predicted Draw % is: 27.46"
-[1] "1. FC Union Berlin xgot model Predicted Win %: 40.41"
+[1] "The xgot model predicted score is Werder Bremen 1.2158 to 1. FC Union Berlin 1.2627"
+[1] "The xgot model predicted total is 2.4785"
+[1] "Werder Bremen xgot model Predicted Win %: 35.67"
+[1] "The xgot model Predicted Draw % is: 27.51"
+[1] "1. FC Union Berlin xgot model Predicted Win %: 36.82"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Werder Bremen 1.4572 to 1. FC Union Berlin 1.197"
-[1] "The xa model predicted total is 2.6542"
-[1] "Werder Bremen xa model Predicted Win %: 42.54"
-[1] "The xa model Predicted Draw % is: 26.24"
-[1] "1. FC Union Berlin xa model Predicted Win %: 31.22"
+[1] "The xa model predicted score is Werder Bremen 1.5096 to 1. FC Union Berlin 1.1518"
+[1] "The xa model predicted total is 2.6614"
+[1] "Werder Bremen xa model Predicted Win %: 45.55"
+[1] "The xa model Predicted Draw % is: 24.76"
+[1] "1. FC Union Berlin xa model Predicted Win %: 29.69"
 [1] "--XGExp Model--"
-[1] "The XGExp model predicted score is Werder Bremen 1.3389 to 1. FC Union Berlin 1.0813"
-[1] "The XGExp model predicted total is 2.4202"
-[1] "Werder Bremen XGExp model Predicted Win %: 43.31"
-[1] "The XGExp model Predicted Draw % is: 26.34"
-[1] "1. FC Union Berlin XGExp model Predicted Win %: 30.35"
+[1] "The XGExp model predicted score is Werder Bremen 1.305 to 1. FC Union Berlin 1.1516"
+[1] "The XGExp model predicted total is 2.4566"
+[1] "Werder Bremen XGExp model Predicted Win %: 40.13"
+[1] "The XGExp model Predicted Draw % is: 27.09"
+[1] "1. FC Union Berlin XGExp model Predicted Win %: 32.78"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Werder Bremen 1.497 to 1. FC Union Berlin 1.5368"
-[1] "The XAExp model predicted total is 3.0338"
-[1] "Werder Bremen XAExp model Predicted Win %: 37"
-[1] "The XAExp model Predicted Draw % is: 23.49"
-[1] "1. FC Union Berlin XAExp model Predicted Win %: 39.51"
+[1] "The XAExp model predicted score is Werder Bremen 1.5185 to 1. FC Union Berlin 1.3274"
+[1] "The XAExp model predicted total is 2.8459"
+[1] "Werder Bremen XAExp model Predicted Win %: 42.3"
+[1] "The XAExp model Predicted Draw % is: 24.9"
+[1] "1. FC Union Berlin XAExp model Predicted Win %: 32.8"
 [1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of Werder Bremen winning this match is 37.08 percent, with a minimum chance of 31.99 percent, and a maximum chance of 43.31 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 26.56 percent, with a minimum chance of 23.49 percent, and a maximum chance of 30.84 percent."
-[1] "Our modelled likelihood of 1. FC Union Berlin winning this match is 36.36 percent, with a minimum chance of 30.35 percent, and a maximum chance of 40.41 percent."
-[1] "Our modelled likelihood of Werder Bremen winning this match OR DRAW is 63.64 percent, with a minimum chance of 59.59 percent, and a maximum chance of 69.65 percent."
-[1] "Our modelled likelihood of 1. FC Union Berlin winning this match OR DRAW is 62.92 percent, with a minimum chance of 56.69 percent, and a maximum chance of 68.01 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 47.76 percent, with a high likelihood of 58.44 and a low likelihood of 33.7 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 52.24 percent, with a high likelihood of 66.3 and a low likelihood of 41.56 percent."
+[1] "Our modelled likelihood of Werder Bremen winning this match is 39.99 percent, with a minimum chance of 35.67 percent, and a maximum chance of 45.55 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 26.61 percent, with a minimum chance of 24.76 percent, and a maximum chance of 30.2 percent."
+[1] "Our modelled likelihood of 1. FC Union Berlin winning this match is 33.39 percent, with a minimum chance of 29.69 percent, and a maximum chance of 38.17 percent."
+[1] "Our modelled likelihood of Werder Bremen winning this match OR DRAW is 66.61 percent, with a minimum chance of 61.83 percent, and a maximum chance of 70.31 percent."
+[1] "Our modelled likelihood of 1. FC Union Berlin winning this match OR DRAW is 60.01 percent, with a minimum chance of 54.45 percent, and a maximum chance of 64.33 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 46.83 percent, with a high likelihood of 54.14 and a low likelihood of 32.58 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 53.17 percent, with a high likelihood of 67.42 and a low likelihood of 45.86 percent."
 [1] "--Sportsbook Odds--"
 [1] "Werder Bremen Barstool Odds are: 34.78"
 [1] "The Barstool Odds of a Draw are: 31.75"
@@ -280,62 +223,78 @@
 [1] "Werder Bremen Adjusted Barstool Odds are: 33.127"
 [1] "The Adjusted Barstool Odds of a Draw are: 30.241"
 [1] "1. FC Union Berlin Adjusted Barstool Odds are: 36.632"
-[1] "Werder Bremen's Barstool Odds to cover the  spread are: NA"
-[1] "1. FC Union Berlin's Barstool Odds to cover the  spread are: NA"
+[1] "Werder Bremen's Barstool Odds to cover the 0 spread are: 49.5"
+[1] "1. FC Union Berlin's Barstool Odds to cover the 0 spread are: 54.95"
 [1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                         bet           date_time
-1                                     Mainz 2023-01-25 09:30:00
-2                                 Mainz ATS 2023-01-25 09:30:00
-3                               FC Augsburg 2023-01-25 11:30:00
-4 over FC Augsburg/Borussia Monchengladbach 2023-01-25 11:30:00
+1                               FC Augsburg 2023-01-25 11:30:00
+2 over FC Augsburg/Borussia Monchengladbach 2023-01-25 11:30:00
+3                           FC Augsburg ATS 2023-01-25 11:30:00
+4                               SC Freiburg 2023-01-25 11:30:00
+5      over SC Freiburg/Eintracht Frankfurt 2023-01-25 11:30:00
+6                             Werder Bremen 2023-01-25 11:30:00
 [1] "____________Anytime Goalscorers______________________"
-                         player_name        team expected_attg expected_gs
-33 /players/840241/ermedin-demirovic FC Augsburg     0.4351645   0.3333333
                         player_name             team expected_attg expected_gs
-49 /players/966018/jeremie-frimpong Bayer Leverkusen     0.5488629   0.2439024
-                   player_name       team expected_attg expected_gs
-61 /players/276739/kevin-stger VfL Bochum     0.2772667   0.1333333
+49 /players/966018/jeremie-frimpong Bayer Leverkusen     0.6054412   0.2439024
+                               player_name       team expected_attg expected_gs
+57 /players/782361/christopher-antwi-adjej VfL Bochum     0.3092533   0.1785714
+                         player_name        team expected_attg expected_gs
+71 /players/1124533/kilian-sildillia SC Freiburg     0.2373167  0.05882353
+                     player_name        team expected_attg expected_gs
+73 /players/212865/nicolas-hfler SC Freiburg     0.2420809  0.09090909
                            player_name        team expected_attg expected_gs
-77 /players/198316/michael-gregoritsch SC Freiburg     0.5279935   0.3333333
-                      player_name               team expected_attg expected_gs
-103 /players/304354/janik-haberer 1. FC Union Berlin     0.2300684       0.125
+76 /players/198316/michael-gregoritsch SC Freiburg     0.6017177   0.3389831
 [1] "__________________________________"
-[1] "New commit ID #7543"
+[1] "New commit ID #8128"
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Kevin Stoger  BOC      5 6.85       0.146   0.455    0.309   tackles Bundesliga         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Kevin Stoger  BOC      3 1.91      0.5236  0.7875   0.2639   tackles Bundesliga         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Kevin Stoger  BOC      7 23.2      0.0431  0.1791    0.136   tackles Bundesliga         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Kevin Stoger  BOC      4 3.11      0.3215  0.6277   0.3062   tackles Bundesliga         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Kevin Stoger  BOC      6 14.4      0.0694  0.2993   0.2299   tackles Bundesliga         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Stefan Lainer  BMG      2 2.19      0.4566  0.5834   0.1268   tackles Bundesliga         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Mitchel Bakker  B04      2 3.55          NA  0.4883   0.2066     shots Bundesliga     0.2817        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Mitchel Bakker  B04      3 8.95          NA  0.2699   0.1582     shots Bundesliga     0.1117        NA         NA       NA
+1: Stefan Lainer  BMG      2 2.19      0.4566  0.5624   0.1058   tackles Bundesliga         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Nadiem Amiri  B04      2 1.66          NA  0.8428   0.2404     shots Bundesliga     0.6024        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Nadiem Amiri  B04      4 6.05          NA  0.4965   0.3312     shots Bundesliga     0.1653        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Nadiem Amiri  B04      3  2.8          NA  0.6827   0.3256     shots Bundesliga     0.3571        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Nadiem Amiri  B04      5 16.4          NA  0.3232   0.2622     shots Bundesliga      0.061        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Nadiem Amiri  B04      6   30          NA  0.1889   0.1556     shots Bundesliga     0.0333        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      2 2.33          NA   0.847   0.4178     shots Bundesliga     0.4292        NA         NA       NA
+1: Jeremie Frimpong  B04      2 2.33          NA  0.8078   0.3786     shots Bundesliga     0.4292        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      6   46          NA  0.1944   0.1727     shots Bundesliga     0.0217        NA         NA       NA
+1: Jeremie Frimpong  B04      6   46          NA  0.1492   0.1275     shots Bundesliga     0.0217        NA         NA       NA
              player team number  odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      4 12.15          NA   0.504   0.4217     shots Bundesliga     0.0823        NA         NA       NA
+1: Jeremie Frimpong  B04      4 12.15          NA  0.4377   0.3554     shots Bundesliga     0.0823        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      5   23          NA  0.3303   0.2868     shots Bundesliga     0.0435        NA         NA       NA
+1: Jeremie Frimpong  B04      5   23          NA  0.2703   0.2268     shots Bundesliga     0.0435        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      3    5          NA  0.6892   0.4892     shots Bundesliga        0.2        NA         NA       NA
+1: Jeremie Frimpong  B04      3    5          NA  0.6303   0.4303     shots Bundesliga        0.2        NA         NA       NA
+                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Michael Gregoritsch  SCF      4 3.75          NA    0.49   0.2233     shots Bundesliga     0.2667        NA         NA       NA
+                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Michael Gregoritsch  SCF      5 7.35          NA  0.3172   0.1811     shots Bundesliga     0.1361        NA         NA       NA
+                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Michael Gregoritsch  SCF      2 1.41          NA  0.8392     0.13     shots Bundesliga     0.7092        NA         NA       NA
+                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Michael Gregoritsch  SCF      3  2.1          NA  0.6771   0.2009     shots Bundesliga     0.4762        NA         NA       NA
+                player team number  odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Michael Gregoritsch  SCF      6 17.35          NA  0.1843   0.1267     shots Bundesliga     0.0576        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Exequiel Palacios  B04      2 3.55          NA  0.3866   0.1049     shots Bundesliga     0.2817        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Mitchel Bakker  B04      1    3          NA  0.5538   0.2205      sogs Bundesliga         NA    0.3333         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Mitchel Bakker  B04      2   15          NA  0.2846   0.2179      sogs Bundesliga         NA    0.0667         NA       NA
+1: Kiliann Sildillia  SCF      3   16          NA   0.274   0.2115     shots Bundesliga     0.0625        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
+1: Kiliann Sildillia  SCF      2 8.65          NA  0.4931   0.3775     shots Bundesliga     0.1156        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      2   10          NA  0.2632   0.1632      sogs Bundesliga         NA       0.1         NA       NA
+1: Jeremie Frimpong  B04      2   40          NA  0.1771   0.1521     goals Bundesliga         NA        NA      0.025       NA
              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      1  2.5          NA  0.5302   0.1302      sogs Bundesliga         NA       0.4         NA       NA
-                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Michael Gregoritsch  SCF      2  3.5          NA   0.585   0.2993      sogs Bundesliga         NA    0.2857         NA       NA
-                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Michael Gregoritsch  SCF      1 1.45          NA  0.8063   0.1166      sogs Bundesliga         NA    0.6897         NA       NA
-                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Michael Gregoritsch  SCF      4   25          NA  0.1909   0.1509      sogs Bundesliga         NA      0.04         NA       NA
-                player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Michael Gregoritsch  SCF      3   10          NA   0.361    0.261      sogs Bundesliga         NA       0.1         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
-1: Jeremie Frimpong  B04      1  4.5          NA  0.3238   0.1016     goals Bundesliga         NA        NA     0.2222       NA
+1: Jeremie Frimpong  B04      1  4.5          NA  0.4231   0.2009     goals Bundesliga         NA        NA     0.2222       NA
