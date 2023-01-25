@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-25 14:03:59.501"
+[1] "Updated at 2023-01-25 14:10:17.918"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -37,8 +37,8 @@
 [1] "Our modelled likelihood of Cambuur Leeuwarden winning this match is 37.57 percent, with a minimum chance of 17.84 percent, and a maximum chance of 61.99 percent."
 [1] "Our modelled likelihood of FC Groningen winning this match OR DRAW is 62.43 percent, with a minimum chance of 38.01 percent, and a maximum chance of 82.16 percent."
 [1] "Our modelled likelihood of Cambuur Leeuwarden winning this match OR DRAW is 60.9 percent, with a minimum chance of 42.82 percent, and a maximum chance of 81.89 percent."
-[1] "The modelled likelihood of hitting the over 2.8272124254774 is 55.98 percent, with a high likelihood of 64.04 and a low likelihood of 41.85 percent."
-[1] "The modelled likelihood of hitting the under 2.8272124254774 is 44.02 percent, with a high likelihood of 58.15 and a low likelihood of 35.96 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 55.98 percent, with a high likelihood of 64.04 and a low likelihood of 41.85 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 44.02 percent, with a high likelihood of 58.15 and a low likelihood of 35.96 percent."
 [1] "--Sportsbook Odds--"
 [1] "FC Groningen Barstool Odds are: 45.45"
 [1] "The Barstool Odds of a Draw are: 29.41"
@@ -88,8 +88,8 @@
 [1] "Our modelled likelihood of FC Volendam winning this match is 1.8 percent, with a minimum chance of 0.7 percent, and a maximum chance of 4.5 percent."
 [1] "Our modelled likelihood of Ajax winning this match OR DRAW is 98.2 percent, with a minimum chance of 95.5 percent, and a maximum chance of 99.3 percent."
 [1] "Our modelled likelihood of FC Volendam winning this match OR DRAW is 6.34 percent, with a minimum chance of 3.22 percent, and a maximum chance of 14.27 percent."
-[1] "The modelled likelihood of hitting the over 2.8272124254774 is 86.03 percent, with a high likelihood of 90.36 and a low likelihood of 73.1 percent."
-[1] "The modelled likelihood of hitting the under 2.8272124254774 is 13.97 percent, with a high likelihood of 26.9 and a low likelihood of 9.64 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 86.03 percent, with a high likelihood of 90.36 and a low likelihood of 73.1 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 13.97 percent, with a high likelihood of 26.9 and a low likelihood of 9.64 percent."
 [1] "--Sportsbook Odds--"
 [1] "Ajax Barstool Odds are: 90"
 [1] "The Barstool Odds of a Draw are: 10.53"
@@ -105,5 +105,9 @@
   bet           date_time
 1     2023-01-25 09:45:00
 [1] "____________Anytime Goalscorers______________________"
+                     player_name         team expected_attg expected_gs
+11 /players/1036401/ricardo-pepi FC Groningen     0.5042667   0.3703704
+                        player_name               team expected_attg expected_gs
+16 /players/873551/mees-hoedemakers Cambuur Leeuwarden     0.2261833       0.125
 [1] "__________________________________"
-[1] "New commit ID #7507"
+[1] "New commit ID #5992"
