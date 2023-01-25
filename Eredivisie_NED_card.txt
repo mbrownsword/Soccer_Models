@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-25 14:01:50.804"
+[1] "Updated at 2023-01-25 14:03:59.501"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -37,8 +37,8 @@
 [1] "Our modelled likelihood of Cambuur Leeuwarden winning this match is 37.57 percent, with a minimum chance of 17.84 percent, and a maximum chance of 61.99 percent."
 [1] "Our modelled likelihood of FC Groningen winning this match OR DRAW is 62.43 percent, with a minimum chance of 38.01 percent, and a maximum chance of 82.16 percent."
 [1] "Our modelled likelihood of Cambuur Leeuwarden winning this match OR DRAW is 60.9 percent, with a minimum chance of 42.82 percent, and a maximum chance of 81.89 percent."
-[1] "The modelled likelihood of hitting the over 3 is 33.6 percent, with a high likelihood of 41.95 and a low likelihood of 21.2 percent."
-[1] "The modelled likelihood of hitting the under 3 is 66.4 percent, with a high likelihood of 78.8 and a low likelihood of 58.05 percent."
+[1] "The modelled likelihood of hitting the over 2.8272124254774 is 55.98 percent, with a high likelihood of 64.04 and a low likelihood of 41.85 percent."
+[1] "The modelled likelihood of hitting the under 2.8272124254774 is 44.02 percent, with a high likelihood of 58.15 and a low likelihood of 35.96 percent."
 [1] "--Sportsbook Odds--"
 [1] "FC Groningen Barstool Odds are: 45.45"
 [1] "The Barstool Odds of a Draw are: 29.41"
@@ -48,7 +48,7 @@
 [1] "Cambuur Leeuwarden Adjusted Barstool Odds are: 29.781"
 [1] "FC Groningen's Barstool Odds to cover the -0.5 spread are: 44.44"
 [1] "Cambuur Leeuwarden's Barstool Odds to cover the 0.5 spread are: 59.52"
-[1] "Barstool's line for the total is 2.5 at 2.05, which is a 48.78 percent chance of the over 3 hitting. The line for the under is 1.78, which is a 56.18 percent chance of the under 3 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.05, which is a 48.78 percent chance of the over 2.8272124254774 hitting. The line for the under is 1.78, which is a 56.18 percent chance of the under 2.8272124254774 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -88,8 +88,8 @@
 [1] "Our modelled likelihood of FC Volendam winning this match is 1.8 percent, with a minimum chance of 0.7 percent, and a maximum chance of 4.5 percent."
 [1] "Our modelled likelihood of Ajax winning this match OR DRAW is 98.2 percent, with a minimum chance of 95.5 percent, and a maximum chance of 99.3 percent."
 [1] "Our modelled likelihood of FC Volendam winning this match OR DRAW is 6.34 percent, with a minimum chance of 3.22 percent, and a maximum chance of 14.27 percent."
-[1] "The modelled likelihood of hitting the over 3 is 71.04 percent, with a high likelihood of 78.38 and a low likelihood of 52.64 percent."
-[1] "The modelled likelihood of hitting the under 3 is 28.96 percent, with a high likelihood of 47.36 and a low likelihood of 21.62 percent."
+[1] "The modelled likelihood of hitting the over 2.8272124254774 is 86.03 percent, with a high likelihood of 90.36 and a low likelihood of 73.1 percent."
+[1] "The modelled likelihood of hitting the under 2.8272124254774 is 13.97 percent, with a high likelihood of 26.9 and a low likelihood of 9.64 percent."
 [1] "--Sportsbook Odds--"
 [1] "Ajax Barstool Odds are: 90"
 [1] "The Barstool Odds of a Draw are: 10.53"
@@ -99,16 +99,11 @@
 [1] "FC Volendam Adjusted Barstool Odds are: 6.222"
 [1] "Ajax's Barstool Odds to cover the  spread are: NA"
 [1] "FC Volendam's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.18, which is a 84.75 percent chance of the over 3 hitting. The line for the under is 4.75, which is a 21.05 percent chance of the under 3 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.18, which is a 84.75 percent chance of the over 2.8272124254774 hitting. The line for the under is 4.75, which is a 21.05 percent chance of the under 2.8272124254774 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                                    bet           date_time
-1 under FC Groningen/Cambuur Leeuwarden 2023-01-26 09:45:00
-2                under Ajax/FC Volendam 2023-01-26 12:00:00
+  bet           date_time
+1     2023-01-25 09:45:00
 [1] "____________Anytime Goalscorers______________________"
-                     player_name         team expected_attg expected_gs
-11 /players/1036401/ricardo-pepi FC Groningen     0.5042667   0.3703704
-                        player_name               team expected_attg expected_gs
-16 /players/873551/mees-hoedemakers Cambuur Leeuwarden     0.2261833       0.125
 [1] "__________________________________"
-[1] "New commit ID #9053"
+[1] "New commit ID #7507"
