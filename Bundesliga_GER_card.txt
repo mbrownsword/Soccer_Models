@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-25 06:38:16.170"
+[1] "Updated at 2023-01-25 06:50:15.454"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -285,63 +285,6 @@
 [1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is RB Leipzig 2.2345 to VfB Stuttgart 0.9712"
-[1] "The pass/shot predicted total is 3.2057"
-[1] "RB Leipzig pass/shot Predicted Win %: 65.99"
-[1] "The pass/shot Predicted Draw % is: 19.32"
-[1] "VfB Stuttgart pass/shot Predicted Win %: 14.69"
-[1] "--XG Model--"
-[1] "The xg model predicted score is RB Leipzig 2.5646 to VfB Stuttgart 1.1697"
-[1] "The xg model predicted total is 3.7343"
-[1] "RB Leipzig xg model Predicted Win %: 67.37"
-[1] "The xg model Predicted Draw % is: 17.25"
-[1] "VfB Stuttgart xg model Predicted Win %: 15.38"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is RB Leipzig 3.1354 to VfB Stuttgart 1.8605"
-[1] "The xgot model predicted total is 4.9959"
-[1] "RB Leipzig xgot model Predicted Win %: 62.83"
-[1] "The xgot model Predicted Draw % is: 16.04"
-[1] "VfB Stuttgart xgot model Predicted Win %: 21.13"
-[1] "--XA Model--"
-[1] "The xa model predicted score is RB Leipzig 1.9415 to VfB Stuttgart 1.0423"
-[1] "The xa model predicted total is 2.9838"
-[1] "RB Leipzig xa model Predicted Win %: 58.33"
-[1] "The xa model Predicted Draw % is: 21.58"
-[1] "VfB Stuttgart xa model Predicted Win %: 20.09"
-[1] "--XGExp Model--"
-[1] "The XGExp model predicted score is RB Leipzig 2.7228 to VfB Stuttgart 1.0961"
-[1] "The XGExp model predicted total is 3.8189"
-[1] "RB Leipzig XGExp model Predicted Win %: 71.24"
-[1] "The XGExp model Predicted Draw % is: 16.16"
-[1] "VfB Stuttgart XGExp model Predicted Win %: 12.6"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is RB Leipzig 1.9288 to VfB Stuttgart 0.8229"
-[1] "The XAExp model predicted total is 2.7517"
-[1] "RB Leipzig XAExp model Predicted Win %: 63.97"
-[1] "The XAExp model Predicted Draw % is: 21.23"
-[1] "VfB Stuttgart XAExp model Predicted Win %: 14.8"
-[1] "--Mean 6 Models--"
-[1] "Our modelled likelihood of RB Leipzig winning this match is 64.96 percent, with a minimum chance of 58.33 percent, and a maximum chance of 71.24 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 18.6 percent, with a minimum chance of 16.04 percent, and a maximum chance of 21.58 percent."
-[1] "Our modelled likelihood of VfB Stuttgart winning this match is 16.45 percent, with a minimum chance of 12.6 percent, and a maximum chance of 21.13 percent."
-[1] "Our modelled likelihood of RB Leipzig winning this match OR DRAW is 83.55 percent, with a minimum chance of 78.87 percent, and a maximum chance of 87.4 percent."
-[1] "Our modelled likelihood of VfB Stuttgart winning this match OR DRAW is 35.05 percent, with a minimum chance of 28.76 percent, and a maximum chance of 41.67 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 69.4 percent, with a high likelihood of 87.5 and a low likelihood of 51.89 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 30.6 percent, with a high likelihood of 48.11 and a low likelihood of 12.5 percent."
-[1] "--Sportsbook Odds--"
-[1] "RB Leipzig Barstool Odds are: 69.23"
-[1] "The Barstool Odds of a Draw are: 21.74"
-[1] "VfB Stuttgart Barstool Odds are: 15.38"
-[1] "RB Leipzig Adjusted Barstool Odds are: 65.096"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.442"
-[1] "VfB Stuttgart Adjusted Barstool Odds are: 14.462"
-[1] "RB Leipzig's Barstool Odds to cover the  spread are: NA"
-[1] "VfB Stuttgart's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5 percent chance of the over 2.5 hitting. The line for the under is 2.35, which is a 42.55 percent chance of the under 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
                                         bet           date_time
 1                                     Mainz 2023-01-25 09:30:00
 2                                 Mainz ATS 2023-01-25 09:30:00
@@ -351,21 +294,15 @@
                          player_name        team expected_attg expected_gs
 33 /players/840241/ermedin-demirovic FC Augsburg     0.4351645   0.3333333
                         player_name             team expected_attg expected_gs
-49 /players/966018/jeremie-frimpong Bayer Leverkusen     0.5488629   0.2439024
-                      player_name       team expected_attg expected_gs
-59 /players/620563/philipp-frster VfL Bochum     0.2279685       0.125
+49 /players/966018/jeremie-frimpong Bayer Leverkusen     0.5488629   0.2380952
                    player_name       team expected_attg expected_gs
-61 /players/276739/kevin-stger VfL Bochum     0.2772667       0.125
+61 /players/276739/kevin-stger VfL Bochum     0.2772667   0.1333333
                            player_name        team expected_attg expected_gs
 77 /players/198316/michael-gregoritsch SC Freiburg     0.5279935   0.3389831
                       player_name               team expected_attg expected_gs
 103 /players/304354/janik-haberer 1. FC Union Berlin     0.2300684       0.125
-                      player_name       team expected_attg expected_gs
-119 /players/171980/emil-forsberg RB Leipzig     0.2386652       0.125
-                           player_name       team expected_attg expected_gs
-120 /players/704523/christopher-nkunku RB Leipzig     0.5272333  0.09090909
 [1] "__________________________________"
-[1] "New commit ID #480"
+[1] "New commit ID #2867"
         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Anton Stach  MAI      2 2.84      0.3521  0.4589   0.1068   tackles Bundesliga         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
