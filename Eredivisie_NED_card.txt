@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-25 22:26:45.494"
+[1] "Updated at 2023-01-26 06:53:24.739"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -41,14 +41,14 @@
 [1] "The modelled likelihood of hitting the under 2.5 is 50.82 percent, with a high likelihood of 65.74 and a low likelihood of 41.97 percent."
 [1] "--Sportsbook Odds--"
 [1] "FC Groningen Barstool Odds are: 45.45"
-[1] "The Barstool Odds of a Draw are: 29.41"
-[1] "Cambuur Leeuwarden Barstool Odds are: 31.75"
-[1] "FC Groningen Adjusted Barstool Odds are: 42.632"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.587"
-[1] "Cambuur Leeuwarden Adjusted Barstool Odds are: 29.781"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Cambuur Leeuwarden Barstool Odds are: 30.77"
+[1] "FC Groningen Adjusted Barstool Odds are: 42.481"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.76"
+[1] "Cambuur Leeuwarden Adjusted Barstool Odds are: 28.76"
 [1] "FC Groningen's Barstool Odds to cover the -0.5 spread are: 44.44"
 [1] "Cambuur Leeuwarden's Barstool Odds to cover the 0.5 spread are: 59.52"
-[1] "Barstool's line for the total is 2.5 at 2.05, which is a 48.78 percent chance of the over 2.96914473684211 hitting. The line for the under is 1.78, which is a 56.18 percent chance of the under 2.96914473684211 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.25, which is a 44.44 percent chance of the over 2.96914473684211 hitting. The line for the under is 1.65, which is a 60.61 percent chance of the under 2.96914473684211 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -99,11 +99,15 @@
 [1] "FC Volendam Adjusted Barstool Odds are: 5.859"
 [1] "Ajax's Barstool Odds to cover the  spread are: NA"
 [1] "FC Volendam's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.18, which is a 84.75 percent chance of the over 2.96914473684211 hitting. The line for the under is 4.8, which is a 20.83 percent chance of the under 2.96914473684211 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.2, which is a 83.33 percent chance of the over 2.96914473684211 hitting. The line for the under is 4.6, which is a 21.74 percent chance of the under 2.96914473684211 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
-1     2023-01-25 09:45:00
+1     2023-01-26 09:45:00
 [1] "____________Anytime Goalscorers______________________"
+                     player_name         team expected_attg expected_gs
+11 /players/1036401/ricardo-pepi FC Groningen     0.4598167   0.3508772
+                        player_name               team expected_attg expected_gs
+16 /players/873551/mees-hoedemakers Cambuur Leeuwarden       0.21225   0.1111111
 [1] "__________________________________"
-[1] "New commit ID #3963"
+[1] "New commit ID #3312"
