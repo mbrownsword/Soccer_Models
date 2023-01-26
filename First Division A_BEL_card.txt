@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-26 08:43:33.559"
+[1] "Updated at 2023-01-26 13:52:23.181"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -48,7 +48,7 @@
 [1] "Eupen Adjusted Barstool Odds are: 20.829"
 [1] "Standard Liege's Barstool Odds to cover the -0.5 spread are: 57.8"
 [1] "Eupen's Barstool Odds to cover the 0.5 spread are: 46.51"
-[1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48 percent chance of the over 2.3 hitting. The line for the under is 1.94, which is a 51.55 percent chance of the under 2.3 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48 percent chance of the over 2.28790909090909 hitting. The line for the under is 1.94, which is a 51.55 percent chance of the under 2.28790909090909 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -99,7 +99,7 @@
 [1] "KV Mechelen Adjusted Barstool Odds are: 26.001"
 [1] "KVC Westerlo's Barstool Odds to cover the -0.5 spread are: 50.51"
 [1] "KV Mechelen's Barstool Odds to cover the 0.5 spread are: 53.76"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48 percent chance of the over 2.17904761904762 hitting. The line for the under is 2.14, which is a 46.73 percent chance of the under 2.17904761904762 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48 percent chance of the over 2.39879746835443 hitting. The line for the under is 2.14, which is a 46.73 percent chance of the under 2.39879746835443 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -150,7 +150,7 @@
 [1] "KV Oostende Adjusted Barstool Odds are: 30.175"
 [1] "KV Kortrijk's Barstool Odds to cover the -0.5 spread are: 47.17"
 [1] "KV Oostende's Barstool Odds to cover the 0.5 spread are: 57.47"
-[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24 percent chance of the over 2.15041666666667 hitting. The line for the under is 2.23, which is a 44.84 percent chance of the under 2.15041666666667 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24 percent chance of the over 2.45142857142857 hitting. The line for the under is 2.23, which is a 44.84 percent chance of the under 2.45142857142857 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -201,7 +201,7 @@
 [1] "St. Truidense Adjusted Barstool Odds are: 31.378"
 [1] "OH Leuven's Barstool Odds to cover the -0.5 spread are: 42.92"
 [1] "St. Truidense's Barstool Odds to cover the 0.5 spread are: 61.35"
-[1] "Barstool's line for the total is 2.5 at 1.95, which is a 51.28 percent chance of the over 2.46517857142857 hitting. The line for the under is 1.86, which is a 53.76 percent chance of the under 2.46517857142857 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.95, which is a 51.28 percent chance of the over 2.4859375 hitting. The line for the under is 1.86, which is a 53.76 percent chance of the under 2.4859375 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -252,7 +252,7 @@
 [1] "Union Saint Gilloise Adjusted Barstool Odds are: 47.997"
 [1] "Sporting de Charleroi's Barstool Odds to cover the -0.5 spread are: 27.03"
 [1] "Union Saint Gilloise's Barstool Odds to cover the 0.5 spread are: 76.92"
-[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 2.59363636363636 hitting. The line for the under is 1.97, which is a 50.76 percent chance of the under 2.59363636363636 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 2.375 hitting. The line for the under is 1.97, which is a 50.76 percent chance of the under 2.375 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -303,7 +303,7 @@
 [1] "Antwerp Adjusted Barstool Odds are: 38.354"
 [1] "Anderlecht's Barstool Odds to cover the -0.5 spread are: 36.36"
 [1] "Antwerp's Barstool Odds to cover the 0.5 spread are: 67.57"
-[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36 percent chance of the over 2.57 hitting. The line for the under is 1.89, which is a 52.91 percent chance of the under 2.57 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36 percent chance of the over 2.49823529411765 hitting. The line for the under is 1.89, which is a 52.91 percent chance of the under 2.49823529411765 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -354,7 +354,7 @@
 [1] "KAA Gent Adjusted Barstool Odds are: 43.569"
 [1] "Cercle Brugge's Barstool Odds to cover the -0.5 spread are: 30.3"
 [1] "KAA Gent's Barstool Odds to cover the 0.5 spread are: 74.07"
-[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62 percent chance of the over 2.50045454545455 hitting. The line for the under is 1.74, which is a 57.47 percent chance of the under 2.50045454545455 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62 percent chance of the over 2.40081081081081 hitting. The line for the under is 1.74, which is a 57.47 percent chance of the under 2.40081081081081 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -405,7 +405,7 @@
 [1] "Club Brugge Adjusted Barstool Odds are: 56.836"
 [1] "SV Zulte Waregem's Barstool Odds to cover the 0.5 spread are: 43.86"
 [1] "Club Brugge's Barstool Odds to cover the -0.5 spread are: 60.24"
-[1] "Barstool's line for the total is 2.5 at 1.55, which is a 64.52 percent chance of the over 2.06388888888889 hitting. The line for the under is 2.45, which is a 40.82 percent chance of the under 2.06388888888889 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.55, which is a 64.52 percent chance of the over 2.53064516129032 hitting. The line for the under is 2.45, which is a 40.82 percent chance of the under 2.53064516129032 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -456,7 +456,7 @@
 [1] "RFC Seraing Adjusted Barstool Odds are: 7.768"
 [1] "Genk's Barstool Odds to cover the -0.5 spread are: 83.33"
 [1] "RFC Seraing's Barstool Odds to cover the 0.5 spread are: 20.83"
-[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97 percent chance of the over 2.9375 hitting. The line for the under is 2.75, which is a 36.36 percent chance of the under 2.9375 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97 percent chance of the over 2.48269230769231 hitting. The line for the under is 2.75, which is a 36.36 percent chance of the under 2.48269230769231 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                              bet           date_time
@@ -471,5 +471,27 @@
 9         under Genk/RFC Seraing 2023-01-29 12:00:00
 10               RFC Seraing ATS 2023-01-29 12:00:00
 [1] "____________Anytime Goalscorers______________________"
+                    player_name           team expected_attg expected_gs
+9 /players/658658/selim-amallah Standard Liege     0.3514167  0.08333333
+                   player_name         team expected_attg expected_gs
+33 /players/881500/lyle-foster KVC Westerlo     0.2291333  0.08333333
+                       player_name        team expected_attg expected_gs
+65 /players/607120/thierry-ambrose KV Oostende     0.4042667  0.08333333
+                      player_name      team expected_attg expected_gs
+77 /players/675095/mario-gonzalez OH Leuven     0.2113577  0.08333333
+                    player_name          team expected_attg expected_gs
+88 /players/196805/gianni-bruno St. Truidense     0.3683261   0.0952381
+                          player_name                 team expected_attg expected_gs
+101 /players/332300/christian-burgess Union Saint Gilloise       0.26165   0.0952381
+                                player_name    team expected_attg expected_gs
+132 /players/1173248/michel-ange-balikwisha Antwerp     0.3107833   0.2083333
+                     player_name          team expected_attg expected_gs
+142 /players/820477/kevin-denkey Cercle Brugge       0.32785    0.212766
+                    player_name             team expected_attg expected_gs
+164 /players/38782/jelle-vossen SV Zulte Waregem     0.4711111  0.08333333
+                        player_name team expected_attg expected_gs
+186 /players/850924/joseph-paintsil Genk     0.2193615  0.05263158
+                     player_name team expected_attg expected_gs
+187 /players/412357/paul-onuachu Genk     0.3458123   0.1666667
 [1] "__________________________________"
-[1] "New commit ID #9262"
+[1] "New commit ID #8949"
