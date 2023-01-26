@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-26 08:35:38.823"
+[1] "Updated at 2023-01-26 08:38:11.248"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -37,8 +37,8 @@
 [1] "Our modelled likelihood of Eupen winning this match is 18.25 percent, with a minimum chance of 12.31 percent, and a maximum chance of 23.74 percent."
 [1] "Our modelled likelihood of Standard Liege winning this match OR DRAW is 81.75 percent, with a minimum chance of 76.26 percent, and a maximum chance of 87.69 percent."
 [1] "Our modelled likelihood of Eupen winning this match OR DRAW is 35.35 percent, with a minimum chance of 25.05 percent, and a maximum chance of 43.97 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 77.05 percent, with a high likelihood of 86.9 and a low likelihood of 69.74 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 22.95 percent, with a high likelihood of 30.26 and a low likelihood of 13.1 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 57.81 percent, with a high likelihood of 72.44 and a low likelihood of 48.49 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 42.19 percent, with a high likelihood of 51.51 and a low likelihood of 27.56 percent."
 [1] "--Sportsbook Odds--"
 [1] "Standard Liege Barstool Odds are: 58.82"
 [1] "The Barstool Odds of a Draw are: 25.64"
@@ -48,7 +48,7 @@
 [1] "Eupen Adjusted Barstool Odds are: 20.829"
 [1] "Standard Liege's Barstool Odds to cover the -0.5 spread are: 57.8"
 [1] "Eupen's Barstool Odds to cover the 0.5 spread are: 46.51"
-[1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48 percent chance of the over 2.8 hitting. The line for the under is 1.94, which is a 51.55 percent chance of the under 2.8 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48 percent chance of the over 3 hitting. The line for the under is 1.94, which is a 51.55 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -88,8 +88,8 @@
 [1] "Our modelled likelihood of KV Mechelen winning this match is 20.66 percent, with a minimum chance of 18.83 percent, and a maximum chance of 25.1 percent."
 [1] "Our modelled likelihood of KVC Westerlo winning this match OR DRAW is 79.34 percent, with a minimum chance of 74.9 percent, and a maximum chance of 81.17 percent."
 [1] "Our modelled likelihood of KV Mechelen winning this match OR DRAW is 41.65 percent, with a minimum chance of 40.03 percent, and a maximum chance of 46.48 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 63.62 percent, with a high likelihood of 67.81 and a low likelihood of 55.59 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 36.38 percent, with a high likelihood of 44.41 and a low likelihood of 32.19 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 41.49 percent, with a high likelihood of 46.21 and a low likelihood of 33.22 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 58.51 percent, with a high likelihood of 66.78 and a low likelihood of 53.79 percent."
 [1] "--Sportsbook Odds--"
 [1] "KVC Westerlo Barstool Odds are: 51.28"
 [1] "The Barstool Odds of a Draw are: 27.78"
@@ -99,7 +99,7 @@
 [1] "KV Mechelen Adjusted Barstool Odds are: 26.001"
 [1] "KVC Westerlo's Barstool Odds to cover the -0.5 spread are: 50.51"
 [1] "KV Mechelen's Barstool Odds to cover the 0.5 spread are: 53.76"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48 percent chance of the over 2.67904761904762 hitting. The line for the under is 2.14, which is a 46.73 percent chance of the under 2.67904761904762 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48 percent chance of the over 3 hitting. The line for the under is 2.14, which is a 46.73 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -139,8 +139,8 @@
 [1] "Our modelled likelihood of KV Oostende winning this match is 42.34 percent, with a minimum chance of 37.33 percent, and a maximum chance of 46.29 percent."
 [1] "Our modelled likelihood of KV Kortrijk winning this match OR DRAW is 57.66 percent, with a minimum chance of 53.71 percent, and a maximum chance of 62.67 percent."
 [1] "Our modelled likelihood of KV Oostende winning this match OR DRAW is 63.51 percent, with a minimum chance of 58.44 percent, and a maximum chance of 67.78 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 73.37 percent, with a high likelihood of 76.47 and a low likelihood of 69.51 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 26.63 percent, with a high likelihood of 30.49 and a low likelihood of 23.53 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 52.98 percent, with a high likelihood of 57.03 and a low likelihood of 48.23 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 47.02 percent, with a high likelihood of 51.77 and a low likelihood of 42.97 percent."
 [1] "--Sportsbook Odds--"
 [1] "KV Kortrijk Barstool Odds are: 47.62"
 [1] "The Barstool Odds of a Draw are: 27.03"
@@ -150,7 +150,7 @@
 [1] "KV Oostende Adjusted Barstool Odds are: 30.175"
 [1] "KV Kortrijk's Barstool Odds to cover the -0.5 spread are: 47.17"
 [1] "KV Oostende's Barstool Odds to cover the 0.5 spread are: 57.47"
-[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24 percent chance of the over 2.65041666666667 hitting. The line for the under is 2.23, which is a 44.84 percent chance of the under 2.65041666666667 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24 percent chance of the over 3 hitting. The line for the under is 2.23, which is a 44.84 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -190,8 +190,8 @@
 [1] "Our modelled likelihood of St. Truidense winning this match is 33.22 percent, with a minimum chance of 26.72 percent, and a maximum chance of 40.95 percent."
 [1] "Our modelled likelihood of OH Leuven winning this match OR DRAW is 66.78 percent, with a minimum chance of 59.05 percent, and a maximum chance of 73.28 percent."
 [1] "Our modelled likelihood of St. Truidense winning this match OR DRAW is 61.93 percent, with a minimum chance of 55.11 percent, and a maximum chance of 67.84 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 38.95 percent, with a high likelihood of 47.49 and a low likelihood of 30.78 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 61.05 percent, with a high likelihood of 69.22 and a low likelihood of 52.51 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 18.97 percent, with a high likelihood of 25.83 and a low likelihood of 13.27 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 81.03 percent, with a high likelihood of 86.73 and a low likelihood of 74.17 percent."
 [1] "--Sportsbook Odds--"
 [1] "OH Leuven Barstool Odds are: 43.48"
 [1] "The Barstool Odds of a Draw are: 29.41"
@@ -201,7 +201,7 @@
 [1] "St. Truidense Adjusted Barstool Odds are: 31.378"
 [1] "OH Leuven's Barstool Odds to cover the -0.5 spread are: 42.92"
 [1] "St. Truidense's Barstool Odds to cover the 0.5 spread are: 61.35"
-[1] "Barstool's line for the total is 2.5 at 1.95, which is a 51.28 percent chance of the over 2.96517857142857 hitting. The line for the under is 1.86, which is a 53.76 percent chance of the under 2.96517857142857 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.95, which is a 51.28 percent chance of the over 3 hitting. The line for the under is 1.86, which is a 53.76 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -252,7 +252,7 @@
 [1] "Union Saint Gilloise Adjusted Barstool Odds are: 47.997"
 [1] "Sporting de Charleroi's Barstool Odds to cover the -0.5 spread are: 27.03"
 [1] "Union Saint Gilloise's Barstool Odds to cover the 0.5 spread are: 76.92"
-[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 3.09363636363636 hitting. The line for the under is 1.97, which is a 50.76 percent chance of the under 3.09363636363636 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35 percent chance of the over 3 hitting. The line for the under is 1.97, which is a 50.76 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -303,7 +303,7 @@
 [1] "Antwerp Adjusted Barstool Odds are: 38.354"
 [1] "Anderlecht's Barstool Odds to cover the -0.5 spread are: 36.36"
 [1] "Antwerp's Barstool Odds to cover the 0.5 spread are: 67.57"
-[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36 percent chance of the over 3.07 hitting. The line for the under is 1.89, which is a 52.91 percent chance of the under 3.07 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36 percent chance of the over 3 hitting. The line for the under is 1.89, which is a 52.91 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -354,7 +354,7 @@
 [1] "KAA Gent Adjusted Barstool Odds are: 43.569"
 [1] "Cercle Brugge's Barstool Odds to cover the -0.5 spread are: 30.3"
 [1] "KAA Gent's Barstool Odds to cover the 0.5 spread are: 74.07"
-[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62 percent chance of the over 3.00045454545455 hitting. The line for the under is 1.74, which is a 57.47 percent chance of the under 3.00045454545455 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62 percent chance of the over 3 hitting. The line for the under is 1.74, which is a 57.47 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -394,8 +394,8 @@
 [1] "Our modelled likelihood of Club Brugge winning this match is 51.36 percent, with a minimum chance of 40.6 percent, and a maximum chance of 64.92 percent."
 [1] "Our modelled likelihood of SV Zulte Waregem winning this match OR DRAW is 48.64 percent, with a minimum chance of 35.08 percent, and a maximum chance of 59.4 percent."
 [1] "Our modelled likelihood of Club Brugge winning this match OR DRAW is 72.43 percent, with a minimum chance of 61.36 percent, and a maximum chance of 83.69 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 68.67 percent, with a high likelihood of 75.78 and a low likelihood of 59.96 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 31.33 percent, with a high likelihood of 40.04 and a low likelihood of 24.22 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 47.22 percent, with a high likelihood of 56.11 and a low likelihood of 37.6 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 52.78 percent, with a high likelihood of 62.4 and a low likelihood of 43.89 percent."
 [1] "--Sportsbook Odds--"
 [1] "SV Zulte Waregem Barstool Odds are: 22.22"
 [1] "The Barstool Odds of a Draw are: 23.81"
@@ -405,7 +405,7 @@
 [1] "Club Brugge Adjusted Barstool Odds are: 56.836"
 [1] "SV Zulte Waregem's Barstool Odds to cover the 0.5 spread are: 43.86"
 [1] "Club Brugge's Barstool Odds to cover the -0.5 spread are: 60.24"
-[1] "Barstool's line for the total is 2.5 at 1.55, which is a 64.52 percent chance of the over 2.56388888888889 hitting. The line for the under is 2.45, which is a 40.82 percent chance of the under 2.56388888888889 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.55, which is a 64.52 percent chance of the over 3 hitting. The line for the under is 2.45, which is a 40.82 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -456,22 +456,49 @@
 [1] "RFC Seraing Adjusted Barstool Odds are: 7.768"
 [1] "Genk's Barstool Odds to cover the -0.5 spread are: 83.33"
 [1] "RFC Seraing's Barstool Odds to cover the 0.5 spread are: 20.83"
-[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97 percent chance of the over 3.4375 hitting. The line for the under is 2.75, which is a 36.36 percent chance of the under 3.4375 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97 percent chance of the over 3 hitting. The line for the under is 2.75, which is a 36.36 percent chance of the under 3 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                                 bet           date_time
-1                         over Standard Liege/Eupen 2023-01-27 11:45:00
-2                                      KVC Westerlo 2023-01-28 07:00:00
+1                                      KVC Westerlo 2023-01-28 07:00:00
+2                    under KVC Westerlo/KV Mechelen 2023-01-28 07:00:00
 3                                       KV Oostende 2023-01-28 09:15:00
-4                      over KV Kortrijk/KV Oostende 2023-01-28 09:15:00
-5                                   KV Oostende ATS 2023-01-28 09:15:00
+4                                   KV Oostende ATS 2023-01-28 09:15:00
+5                     under OH Leuven/St. Truidense 2023-01-28 09:15:00
 6  under Sporting de Charleroi/Union Saint Gilloise 2023-01-28 11:45:00
 7                          under Anderlecht/Antwerp 2023-01-29 04:30:00
 8                      under Cercle Brugge/KAA Gent 2023-01-29 07:00:00
-9                             draw Genk/RFC Seraing 2023-01-29 12:00:00
-10                                      RFC Seraing 2023-01-29 12:00:00
-11                           under Genk/RFC Seraing 2023-01-29 12:00:00
-12                                  RFC Seraing ATS 2023-01-29 12:00:00
+9                under SV Zulte Waregem/Club Brugge 2023-01-29 09:30:00
+10                            draw Genk/RFC Seraing 2023-01-29 12:00:00
+11                                      RFC Seraing 2023-01-29 12:00:00
+12                           under Genk/RFC Seraing 2023-01-29 12:00:00
+13                                  RFC Seraing ATS 2023-01-29 12:00:00
 [1] "____________Anytime Goalscorers______________________"
+                    player_name           team expected_attg expected_gs
+9 /players/658658/selim-amallah Standard Liege       0.37415  0.08333333
+                   player_name         team expected_attg expected_gs
+33 /players/881500/lyle-foster KVC Westerlo     0.2743333  0.08333333
+                    player_name        team expected_attg expected_gs
+64 /players/1140919/nick-btzner KV Oostende     0.2823333   0.1538462
+                       player_name        team expected_attg expected_gs
+65 /players/607120/thierry-ambrose KV Oostende     0.4654333  0.08333333
+                      player_name      team expected_attg expected_gs
+77 /players/675095/mario-gonzalez OH Leuven      0.206334  0.08333333
+                    player_name          team expected_attg expected_gs
+88 /players/196805/gianni-bruno St. Truidense     0.3939421   0.0952381
+                          player_name                 team expected_attg expected_gs
+101 /players/332300/christian-burgess Union Saint Gilloise     0.2998833   0.0952381
+                    player_name                 team expected_attg expected_gs
+105 /players/720733/teddy-teuma Union Saint Gilloise       0.19385  0.08333333
+                       player_name     team expected_attg expected_gs
+152 /players/925345/hyun-seok-hong KAA Gent      0.196284   0.0952381
+                     player_name     team expected_attg expected_gs
+153 /players/737974/hugo-cuypers KAA Gent     0.3234667    0.212766
+                    player_name             team expected_attg expected_gs
+164 /players/38782/jelle-vossen SV Zulte Waregem     0.4569037  0.08333333
+                      player_name        team expected_attg expected_gs
+175 /players/1102732/ferrn-jutglà Club Brugge     0.3410989   0.1923077
+                        player_name team expected_attg expected_gs
+186 /players/850924/joseph-paintsil Genk     0.1582689  0.05263158
 [1] "__________________________________"
-[1] "New commit ID #4915"
+[1] "New commit ID #2697"
