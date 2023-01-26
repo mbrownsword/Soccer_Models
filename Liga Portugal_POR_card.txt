@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-26 11:20:02.773"
+[1] "Updated at 2023-01-26 11:21:40.862"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -37,8 +37,8 @@
 [1] "Our modelled likelihood of Santa Clara winning this match is 19.63 percent, with a minimum chance of 15.6 percent, and a maximum chance of 23.03 percent."
 [1] "Our modelled likelihood of Casa Pia winning this match OR DRAW is 80.37 percent, with a minimum chance of 76.97 percent, and a maximum chance of 84.4 percent."
 [1] "Our modelled likelihood of Santa Clara winning this match OR DRAW is 57.39 percent, with a minimum chance of 51.72 percent, and a maximum chance of 63.07 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 16.12 percent, with a high likelihood of 21.33 and a low likelihood of 10.28 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 83.88 percent, with a high likelihood of 89.72 and a low likelihood of 78.67 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 83.88 percent, with a high likelihood of 78.67 and a low likelihood of 89.72 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 16.12 percent, with a high likelihood of 10.28 and a low likelihood of 21.33 percent."
 [1] "--Sportsbook Odds--"
 [1] "Casa Pia Barstool Odds are: 51.28"
 [1] "The Barstool Odds of a Draw are: 31.75"
@@ -88,8 +88,8 @@
 [1] "Our modelled likelihood of Rio Ave winning this match is 19.78 percent, with a minimum chance of 7.45 percent, and a maximum chance of 35.97 percent."
 [1] "Our modelled likelihood of Vizela winning this match OR DRAW is 80.22 percent, with a minimum chance of 64.03 percent, and a maximum chance of 92.55 percent."
 [1] "Our modelled likelihood of Rio Ave winning this match OR DRAW is 44.3 percent, with a minimum chance of 24.27 percent, and a maximum chance of 69.68 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 42.74 percent, with a high likelihood of 54.72 and a low likelihood of 25.99 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 57.26 percent, with a high likelihood of 74.01 and a low likelihood of 45.28 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 57.26 percent, with a high likelihood of 45.28 and a low likelihood of 74.01 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 42.74 percent, with a high likelihood of 25.99 and a low likelihood of 54.72 percent."
 [1] "--Sportsbook Odds--"
 [1] "Vizela Barstool Odds are: 50.51"
 [1] "The Barstool Odds of a Draw are: 30.77"
@@ -139,8 +139,8 @@
 [1] "Our modelled likelihood of Portimonense winning this match is 7.78 percent, with a minimum chance of 2.28 percent, and a maximum chance of 13.99 percent."
 [1] "Our modelled likelihood of Boavista winning this match OR DRAW is 92.22 percent, with a minimum chance of 86.01 percent, and a maximum chance of 97.72 percent."
 [1] "Our modelled likelihood of Portimonense winning this match OR DRAW is 28.48 percent, with a minimum chance of 13.05 percent, and a maximum chance of 44.84 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 41.13 percent, with a high likelihood of 59.85 and a low likelihood of 17.51 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 58.87 percent, with a high likelihood of 82.49 and a low likelihood of 40.15 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 58.87 percent, with a high likelihood of 40.15 and a low likelihood of 82.49 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 41.13 percent, with a high likelihood of 17.51 and a low likelihood of 59.85 percent."
 [1] "--Sportsbook Odds--"
 [1] "Boavista Barstool Odds are: 45.87"
 [1] "The Barstool Odds of a Draw are: 31.25"
@@ -190,8 +190,8 @@
 [1] "Our modelled likelihood of Estoril Praia winning this match is 19.91 percent, with a minimum chance of 13.06 percent, and a maximum chance of 33.19 percent."
 [1] "Our modelled likelihood of Famalicao winning this match OR DRAW is 80.09 percent, with a minimum chance of 66.81 percent, and a maximum chance of 86.94 percent."
 [1] "Our modelled likelihood of Estoril Praia winning this match OR DRAW is 48.61 percent, with a minimum chance of 35.64 percent, and a maximum chance of 62.39 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 33.21 percent, with a high likelihood of 44.45 and a low likelihood of 24.18 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 66.79 percent, with a high likelihood of 75.82 and a low likelihood of 55.55 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 66.79 percent, with a high likelihood of 55.55 and a low likelihood of 75.82 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 33.21 percent, with a high likelihood of 24.18 and a low likelihood of 44.45 percent."
 [1] "--Sportsbook Odds--"
 [1] "Famalicao Barstool Odds are: 48.78"
 [1] "The Barstool Odds of a Draw are: 31.25"
@@ -241,8 +241,8 @@
 [1] "Our modelled likelihood of Benfica winning this match is 67.1 percent, with a minimum chance of 62.77 percent, and a maximum chance of 81.81 percent."
 [1] "Our modelled likelihood of Pacos Ferreira winning this match OR DRAW is 32.9 percent, with a minimum chance of 18.19 percent, and a maximum chance of 37.23 percent."
 [1] "Our modelled likelihood of Benfica winning this match OR DRAW is 89.78 percent, with a minimum chance of 87.07 percent, and a maximum chance of 97.66 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 36.78 percent, with a high likelihood of 43.11 and a low likelihood of 33.17 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 63.22 percent, with a high likelihood of 66.83 and a low likelihood of 56.89 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 63.22 percent, with a high likelihood of 56.89 and a low likelihood of 66.83 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 36.78 percent, with a high likelihood of 33.17 and a low likelihood of 43.11 percent."
 [1] "--Sportsbook Odds--"
 [1] "Pacos Ferreira Barstool Odds are: 6.67"
 [1] "The Barstool Odds of a Draw are: 14.81"
@@ -257,10 +257,14 @@
 [1] "_____________________________________________________________________________________________________________________________"
                            bet           date_time
 1    draw Casa Pia/Santa Clara 2023-01-29 07:30:00
-2   under Casa Pia/Santa Clara 2023-01-29 07:30:00
-3                     Boavista 2023-01-29 10:00:00
-4  draw Pacos Ferreira/Benfica 2023-01-26 12:15:00
-5 under Pacos Ferreira/Benfica 2023-01-26 12:15:00
+2    over Casa Pia/Santa Clara 2023-01-29 07:30:00
+3          over Vizela/Rio Ave 2023-01-29 07:30:00
+4                     Boavista 2023-01-29 10:00:00
+5   over Boavista/Portimonense 2023-01-29 10:00:00
+6 over Famalicao/Estoril Praia 2023-01-29 12:30:00
+7  draw Pacos Ferreira/Benfica 2023-01-26 12:15:00
+8 under Pacos Ferreira/Benfica 2023-01-26 12:15:00
+9  over Pacos Ferreira/Benfica 2023-01-26 12:15:00
 [1] "____________Anytime Goalscorers______________________"
 [1] "__________________________________"
-[1] "New commit ID #7642"
+[1] "New commit ID #3921"
