@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-26 10:44:21.838"
+[1] "Updated at 2023-01-26 19:19:41.511"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -48,7 +48,7 @@
 [1] "Huddersfield Town Adjusted Barstool Odds are: 19.475"
 [1] "Coventry City's Barstool Odds to cover the -0.5 spread are: 56.5"
 [1] "Huddersfield Town's Barstool Odds to cover the 0.5 spread are: 48.08"
-[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.59673076923077 hitting. The line for the under is 1.75, which is a 57.14 percent chance of the under 2.59673076923077 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.60389473684211 hitting. The line for the under is 1.75, which is a 57.14 percent chance of the under 2.60389473684211 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -99,7 +99,7 @@
 [1] "Queens Park Rangers Adjusted Barstool Odds are: 33.686"
 [1] "Hull City's Barstool Odds to cover the -0.5 spread are: 40"
 [1] "Queens Park Rangers's Barstool Odds to cover the 0.5 spread are: 64.94"
-[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.59073170731707 hitting. The line for the under is 1.75, which is a 57.14 percent chance of the under 2.59073170731707 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.56685483870968 hitting. The line for the under is 1.75, which is a 57.14 percent chance of the under 2.56685483870968 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -150,7 +150,7 @@
 [1] "Watford Adjusted Barstool Odds are: 23.314"
 [1] "Middlesbrough's Barstool Odds to cover the -0.5 spread are: 52.08"
 [1] "Watford's Barstool Odds to cover the 0.5 spread are: 52.63"
-[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14 percent chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.4777358490566 hitting. The line for the under is 1.75, which is a 57.14 percent chance of the under 2.4777358490566 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                     bet           date_time
@@ -161,4 +161,4 @@
                     player_name          team expected_attg expected_gs
 53 /players/733486/riley-mcgree Middlesbrough      0.279955   0.1754386
 [1] "__________________________________"
-[1] "New commit ID #9978"
+[1] "New commit ID #1721"
