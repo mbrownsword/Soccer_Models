@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-27 08:40:32.126"
+[1] "Updated at 2023-01-27 08:45:44.120"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -477,15 +477,4 @@
                         player_name      team expected_attg expected_gs
 176 /players/72735/mame-biram-diouf Konyaspor      0.434269   0.2941176
 [1] "__________________________________"
-[1] "New commit ID #9811"
-             Konyaspor ATS 2023-01-29 05:00:00
-9     under Fenerbahce/Kasimpasa 2023-01-29 08:00:00
-[1] "____________Anytime Goalscorers______________________"
-                      player_name       team expected_attg expected_gs
-47 /players/364855/uros-radakovic Ankaragucu     0.1754833  0.06666667
-                      player_name      team expected_attg expected_gs
-76 /players/884382/ayoub-el-kaabi Hatayspor     0.4217167   0.2941176
-                        player_name      team expected_attg expected_gs
-176 /players/72735/mame-biram-diouf Konyaspor      0.434269   0.2941176
-[1] "__________________________________"
-[1] "New commit ID #9811"
+[1] "New commit ID #9050"
