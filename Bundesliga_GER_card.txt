@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-27 16:09:36.232"
+[1] "Updated at 2023-01-27 16:53:32.885"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -317,7 +317,7 @@
                          player_name          team expected_attg expected_gs
 103 /players/450976/yannick-gerhardt VfL Wolfsburg       0.37625   0.2083333
 [1] "__________________________________"
-[1] "New commit ID #7880"
+[1] "New commit ID #5424"
          player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
 1: Kevin Stoger  BOC      3  2.3      0.4348  0.5599   0.1251   tackles Bundesliga         NA        NA         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic     league prob_shots prob_sogs prob_goals prob_ast
