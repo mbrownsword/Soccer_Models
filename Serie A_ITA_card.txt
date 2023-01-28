@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-27 16:00:51.951"
+[1] "Updated at 2023-01-27 16:44:29.967"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -40,12 +40,12 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 46.46 percent, with a high likelihood of 49.74 and a low likelihood of 44.25 percent."
 [1] "The modelled likelihood of hitting the under 2.5 is 53.54 percent, with a high likelihood of 55.75 and a low likelihood of 50.26 percent."
 [1] "--Sportsbook Odds--"
-[1] "Empoli Barstool Odds are: 31.25"
+[1] "Empoli Barstool Odds are: 30.77"
 [1] "The Barstool Odds of a Draw are: 32.79"
 [1] "Torino Barstool Odds are: 41.67"
-[1] "Empoli Adjusted Barstool Odds are: 29.562"
-[1] "The Adjusted Barstool Odds of a Draw are: 31.019"
-[1] "Torino Adjusted Barstool Odds are: 39.419"
+[1] "Empoli Adjusted Barstool Odds are: 29.241"
+[1] "The Adjusted Barstool Odds of a Draw are: 31.16"
+[1] "Torino Adjusted Barstool Odds are: 39.599"
 [1] "Empoli's Barstool Odds to cover the 0.5 spread are: 62.5"
 [1] "Torino's Barstool Odds to cover the -0.5 spread are: 42.02"
 [1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84 percent chance of the over 2.62390331890332 hitting. The line for the under is 1.65, which is a 60.61 percent chance of the under 2.62390331890332 hitting."
@@ -161,7 +161,7 @@
                         player_name     team expected_attg expected_gs
 51 /players/866516/teun-koopmeiners Atalanta     0.3781667   0.2702703
 [1] "__________________________________"
-[1] "New commit ID #1257"
+[1] "New commit ID #9622"
           player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
 1: Nikola Vlasic  TNO      3 2.73          NA  0.5236   0.1573     shots Serie A     0.3663        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic  league prob_shots prob_sogs prob_goals prob_ast
