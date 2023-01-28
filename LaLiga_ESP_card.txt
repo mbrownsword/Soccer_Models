@@ -1,95 +1,44 @@
-[1] "Updated at 2023-01-28 06:55:35.267"
+[1] "Updated at 2023-01-28 08:49:42.927"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Girona FC 1.0467 to Barcelona 1.3716"
-[1] "The pass/shot predicted total is 2.4183"
-[1] "Girona FC pass/shot Predicted Win %: 28.9"
-[1] "The pass/shot Predicted Draw % is: 27.48"
-[1] "Barcelona pass/shot Predicted Win %: 43.62"
+[1] "The pass/shot predicted score is Sevilla FC 2.4932 to Elche 0.9065"
+[1] "The pass/shot predicted total is 3.3997"
+[1] "Sevilla FC pass/shot Predicted Win %: 71.99"
+[1] "The pass/shot Predicted Draw % is: 16.42"
+[1] "Elche pass/shot Predicted Win %: 11.59"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Girona FC 0.5279 to Barcelona 2.6185"
-[1] "The xg model predicted total is 3.1464"
-[1] "Girona FC xg model Predicted Win %: 4.69"
-[1] "The xg model Predicted Draw % is: 13.04"
-[1] "Barcelona xg model Predicted Win %: 82.27"
+[1] "The xg model predicted score is Sevilla FC 2.3135 to Elche 0.9486"
+[1] "The xg model predicted total is 3.2621"
+[1] "Sevilla FC xg model Predicted Win %: 67.5"
+[1] "The xg model Predicted Draw % is: 18.94"
+[1] "Elche xg model Predicted Win %: 13.56"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Girona FC 0.414 to Barcelona 3.3125"
-[1] "The xgot model predicted total is 3.7265"
-[1] "Girona FC xgot model Predicted Win %: 2.45"
-[1] "The xgot model Predicted Draw % is: 7.32"
-[1] "Barcelona xgot model Predicted Win %: 90.23"
+[1] "The xgot model predicted score is Sevilla FC 3.4684 to Elche 0.6506"
+[1] "The xgot model predicted total is 4.119"
+[1] "Sevilla FC xgot model Predicted Win %: 87.87"
+[1] "The xgot model Predicted Draw % is: 8.28"
+[1] "Elche xgot model Predicted Win %: 3.85"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Girona FC 0.9165 to Barcelona 1.4777"
-[1] "The xa model predicted total is 2.3942"
-[1] "Girona FC xa model Predicted Win %: 23.82"
-[1] "The xa model Predicted Draw % is: 26.16"
-[1] "Barcelona xa model Predicted Win %: 50.02"
+[1] "The xa model predicted score is Sevilla FC 1.7668 to Elche 0.7454"
+[1] "The xa model predicted total is 2.5122"
+[1] "Sevilla FC xa model Predicted Win %: 62.2"
+[1] "The xa model Predicted Draw % is: 23.13"
+[1] "Elche xa model Predicted Win %: 14.67"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Girona FC 0.8756 to Barcelona 1.4083"
-[1] "The XAExp model predicted total is 2.2839"
-[1] "Girona FC XAExp model Predicted Win %: 23.57"
-[1] "The XAExp model Predicted Draw % is: 27.12"
-[1] "Barcelona XAExp model Predicted Win %: 49.31"
+[1] "The XAExp model predicted score is Sevilla FC 1.571 to Elche 0.9193"
+[1] "The XAExp model predicted total is 2.4903"
+[1] "Sevilla FC XAExp model Predicted Win %: 52.86"
+[1] "The XAExp model Predicted Draw % is: 25.39"
+[1] "Elche XAExp model Predicted Win %: 21.75"
 [1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Girona FC winning this match is 16.69 percent, with a minimum chance of 2.45 percent, and a maximum chance of 28.9 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 20.22 percent, with a minimum chance of 7.32 percent, and a maximum chance of 27.48 percent."
-[1] "Our modelled likelihood of Barcelona winning this match is 63.09 percent, with a minimum chance of 43.62 percent, and a maximum chance of 90.23 percent."
-[1] "Our modelled likelihood of Girona FC winning this match OR DRAW is 36.91 percent, with a minimum chance of 9.77 percent, and a maximum chance of 56.38 percent."
-[1] "Our modelled likelihood of Barcelona winning this match OR DRAW is 83.31 percent, with a minimum chance of 71.1 percent, and a maximum chance of 97.55 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 52.91 percent, with a high likelihood of 71.9 and a low likelihood of 39.97 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 47.09 percent, with a high likelihood of 60.03 and a low likelihood of 28.1 percent."
-[1] "--Sportsbook Odds--"
-[1] "Girona FC Barstool Odds are: 17.39"
-[1] "The Barstool Odds of a Draw are: 21.74"
-[1] "Barcelona Barstool Odds are: 65.79"
-[1] "Girona FC Adjusted Barstool Odds are: 16.575"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.721"
-[1] "Barcelona Adjusted Barstool Odds are: 62.705"
-[1] "Girona FC's Barstool Odds to cover the 1 spread are: 51.28"
-[1] "Barcelona's Barstool Odds to cover the -1 spread are: 53.19"
-[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.6258259828629 hitting. The line for the under is 2.2, which is a 45.45 percent chance of the under 2.6258259828629 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Sevilla FC 2.1083 to Elche 1.4714"
-[1] "The pass/shot predicted total is 3.5797"
-[1] "Sevilla FC pass/shot Predicted Win %: 51.67"
-[1] "The pass/shot Predicted Draw % is: 21.88"
-[1] "Elche pass/shot Predicted Win %: 26.45"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Sevilla FC 2.4574 to Elche 1.8213"
-[1] "The xg model predicted total is 4.2787"
-[1] "Sevilla FC xg model Predicted Win %: 52.85"
-[1] "The xg model Predicted Draw % is: 18.74"
-[1] "Elche xg model Predicted Win %: 28.41"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Sevilla FC 3.087 to Elche 1.8441"
-[1] "The xgot model predicted total is 4.9311"
-[1] "Sevilla FC xgot model Predicted Win %: 62.42"
-[1] "The xgot model Predicted Draw % is: 16.16"
-[1] "Elche xgot model Predicted Win %: 21.42"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Sevilla FC 1.8665 to Elche 0.7113"
-[1] "The xa model predicted total is 2.5778"
-[1] "Sevilla FC xa model Predicted Win %: 65.69"
-[1] "The xa model Predicted Draw % is: 21.49"
-[1] "Elche xa model Predicted Win %: 12.82"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Sevilla FC 1.7447 to Elche 0.8836"
-[1] "The XAExp model predicted total is 2.6283"
-[1] "Sevilla FC XAExp model Predicted Win %: 58.01"
-[1] "The XAExp model Predicted Draw % is: 23.68"
-[1] "Elche XAExp model Predicted Win %: 18.31"
-[1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Sevilla FC winning this match is 58.13 percent, with a minimum chance of 51.67 percent, and a maximum chance of 65.69 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 20.39 percent, with a minimum chance of 16.16 percent, and a maximum chance of 23.68 percent."
-[1] "Our modelled likelihood of Elche winning this match is 21.48 percent, with a minimum chance of 12.82 percent, and a maximum chance of 28.41 percent."
-[1] "Our modelled likelihood of Sevilla FC winning this match OR DRAW is 78.52 percent, with a minimum chance of 71.59 percent, and a maximum chance of 87.18 percent."
-[1] "Our modelled likelihood of Elche winning this match OR DRAW is 41.87 percent, with a minimum chance of 34.31 percent, and a maximum chance of 48.33 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 69.71 percent, with a high likelihood of 86.94 and a low likelihood of 47.6 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 30.29 percent, with a high likelihood of 52.4 and a low likelihood of 13.06 percent."
+[1] "Our modelled likelihood of Sevilla FC winning this match is 68.48 percent, with a minimum chance of 52.86 percent, and a maximum chance of 87.87 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 18.43 percent, with a minimum chance of 8.28 percent, and a maximum chance of 25.39 percent."
+[1] "Our modelled likelihood of Elche winning this match is 13.08 percent, with a minimum chance of 3.85 percent, and a maximum chance of 21.75 percent."
+[1] "Our modelled likelihood of Sevilla FC winning this match OR DRAW is 86.92 percent, with a minimum chance of 78.25 percent, and a maximum chance of 96.15 percent."
+[1] "Our modelled likelihood of Elche winning this match OR DRAW is 31.52 percent, with a minimum chance of 12.13 percent, and a maximum chance of 47.14 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 61.1 percent, with a high likelihood of 77.88 and a low likelihood of 45.37 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 38.9 percent, with a high likelihood of 54.63 and a low likelihood of 22.12 percent."
 [1] "--Sportsbook Odds--"
 [1] "Sevilla FC Barstool Odds are: 66.67"
 [1] "The Barstool Odds of a Draw are: 25.64"
@@ -97,9 +46,9 @@
 [1] "Sevilla FC Adjusted Barstool Odds are: 63.111"
 [1] "The Adjusted Barstool Odds of a Draw are: 24.271"
 [1] "Elche Adjusted Barstool Odds are: 12.618"
-[1] "Sevilla FC's Barstool Odds to cover the -1 spread are: 52.36"
-[1] "Elche's Barstool Odds to cover the 1 spread are: 52.08"
-[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73 percent chance of the over 2.58709751124859 hitting. The line for the under is 1.71, which is a 58.48 percent chance of the under 2.58709751124859 hitting."
+[1] "Sevilla FC's Barstool Odds to cover the -1 spread are: 53.19"
+[1] "Elche's Barstool Odds to cover the 1 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17 percent chance of the over 2.58709751124859 hitting. The line for the under is 1.72, which is a 58.14 percent chance of the under 2.58709751124859 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -142,61 +91,38 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 24.95 percent, with a high likelihood of 35.6 and a low likelihood of 11.41 percent."
 [1] "The modelled likelihood of hitting the under 2.5 is 75.05 percent, with a high likelihood of 88.59 and a low likelihood of 64.4 percent."
 [1] "--Sportsbook Odds--"
-[1] "Getafe Barstool Odds are: 30.77"
-[1] "The Barstool Odds of a Draw are: 34.78"
-[1] "Real Betis Barstool Odds are: 40"
-[1] "Getafe Adjusted Barstool Odds are: 29.152"
-[1] "The Adjusted Barstool Odds of a Draw are: 32.951"
-[1] "Real Betis Adjusted Barstool Odds are: 37.897"
-[1] "Getafe's Barstool Odds to cover the 0.25 spread are: 58.14"
-[1] "Real Betis's Barstool Odds to cover the -0.25 spread are: 47.62"
-[1] "Barstool's line for the total is 2.5 at 2.88, which is a 34.72 percent chance of the over 2.56276819126819 hitting. The line for the under is 1.42, which is a 70.42 percent chance of the under 2.56276819126819 hitting."
+[1] "Getafe Barstool Odds are: 31.75"
+[1] "The Barstool Odds of a Draw are: 35.09"
+[1] "Real Betis Barstool Odds are: 38.46"
+[1] "Getafe Adjusted Barstool Odds are: 30.152"
+[1] "The Adjusted Barstool Odds of a Draw are: 33.324"
+[1] "Real Betis Adjusted Barstool Odds are: 36.524"
+[1] "Getafe's Barstool Odds to cover the 0 spread are: 47.62"
+[1] "Real Betis's Barstool Odds to cover the 0 spread are: 56.82"
+[1] "Barstool's line for the total is 2.5 at 2.9, which is a 34.48 percent chance of the over 2.56276819126819 hitting. The line for the under is 1.41, which is a 70.92 percent chance of the under 2.56276819126819 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                    bet           date_time
-1 over Sevilla FC/Elche 2023-01-28 09:30:00
-2            Getafe ATS 2023-01-28 12:00:00
+  bet           date_time
+1     2023-01-28 05:00:00
 [1] "____________Anytime Goalscorers______________________"
-                   player_name       team expected_attg expected_gs
-52 /players/25773/ivan-rakitic Sevilla FC     0.3497667   0.2380952
-                    player_name       team expected_attg expected_gs
-53 /players/561187/marcos-acuna Sevilla FC     0.2626333   0.1052632
-                    player_name  team expected_attg expected_gs
-56 /players/202610/fidel-chaves Elche     0.1769377  0.03703704
+                  player_name  team expected_attg expected_gs
+56 /players/561164/lucas-boye Elche     0.3173915   0.2173913
 [1] "__________________________________"
-[1] "New commit ID #9456"
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oriol Romeu  GIR      3 1.97      0.5076  0.7382   0.2306   tackles LaLiga          NA         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oriol Romeu  GIR      4 2.83      0.3534  0.5636   0.2102   tackles LaLiga          NA         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oriol Romeu  GIR      2 1.31      0.7634  0.8773   0.1139   tackles LaLiga          NA         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oriol Romeu  GIR      5  5.3      0.1887  0.3881   0.1994   tackles LaLiga          NA         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oriol Romeu  GIR      6 10.4      0.0962  0.2412    0.145   tackles LaLiga          NA         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ivan Martin  GIR      2  2.5         0.4  0.5529   0.1529   tackles LaLiga          NA         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ivan Martin  GIR      3 4.65      0.2151  0.3293   0.1142   tackles LaLiga          NA         NA        NA         NA       NA
-              player team number  odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Youssef En-Nesyri  SEV      3 12.05       0.083  0.2156   0.1326   tackles LaLiga          NA         NA        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Youssef En-Nesyri  SEV      2 4.45      0.2247  0.4231   0.1984   tackles LaLiga          NA         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oriol Romeu  GIR     48 1.57          NA   0.777   0.1401    passes LaLiga      0.6369         NA        NA         NA       NA
+[1] "New commit ID #5785"
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV     38 1.85          NA   0.744   0.2035    passes LaLiga      0.5405         NA        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV     34 1.51          NA  0.9031   0.2408    passes LaLiga      0.6623         NA        NA         NA       NA
+1:   Suso  SEV      2 4.45      0.2247  0.3595   0.1348   tackles LaLiga          NA         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Enes Unal  GET     18 1.49          NA  0.8114   0.1403    passes LaLiga      0.6711         NA        NA         NA       NA
                           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Juan Antonio Iglesias Sanchez  GET     23 1.53          NA  0.8583   0.2047    passes LaLiga      0.6536         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oliver Torres  SEV      2  2.5          NA  0.5094   0.1094     shots LaLiga          NA        0.4        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Oliver Torres  SEV      3 5.45          NA  0.2886   0.1051     shots LaLiga          NA     0.1835        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Suso  SEV      3 2.47          NA  0.5775   0.1726     shots LaLiga          NA     0.4049        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Suso  SEV      2 1.53          NA  0.7701   0.1165     shots LaLiga          NA     0.6536        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Suso  SEV      5   14          NA  0.2238   0.1524     shots LaLiga          NA     0.0714        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Suso  SEV      4  5.2          NA  0.3822   0.1899     shots LaLiga          NA     0.1923        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1:  Djene  GET      2 11.1          NA  0.6282   0.5381     shots LaLiga          NA     0.0901        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -209,8 +135,8 @@
 1:  Portu  GET      4 21.05          NA  0.2264   0.1789     shots LaLiga          NA     0.0475        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1:  Portu  GET      3  7.1          NA  0.4062   0.2654     shots LaLiga          NA     0.1408        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Marcos Acuna  SEV      1    4          NA  0.3646   0.1146      sogs LaLiga          NA         NA      0.25         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Youssef En-Nesyri  SEV      3    7          NA  0.2549    0.112      sogs LaLiga          NA         NA    0.1429         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1:  Djene  GET      1  7.5          NA  0.3869   0.2536      sogs LaLiga          NA         NA    0.1333         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
