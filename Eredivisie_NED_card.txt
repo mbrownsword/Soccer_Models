@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-27 15:49:10.090"
+[1] "Updated at 2023-01-27 16:31:30.032"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -143,11 +143,11 @@
 [1] "The modelled likelihood of hitting the under 2.5 is 49 percent, with a high likelihood of 60.42 and a low likelihood of 41.9 percent."
 [1] "--Sportsbook Odds--"
 [1] "NEC Barstool Odds are: 43.48"
-[1] "The Barstool Odds of a Draw are: 29.85"
-[1] "Sparta Barstool Odds are: 32.79"
-[1] "NEC Adjusted Barstool Odds are: 40.972"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.129"
-[1] "Sparta Adjusted Barstool Odds are: 30.899"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Sparta Barstool Odds are: 32.26"
+[1] "NEC Adjusted Barstool Odds are: 40.822"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.889"
+[1] "Sparta Adjusted Barstool Odds are: 30.288"
 [1] "NEC's Barstool Odds to cover the -0.25 spread are: 49.5"
 [1] "Sparta's Barstool Odds to cover the 0.25 spread are: 55.87"
 [1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17 percent chance of the over 2.51948550724638 hitting. The line for the under is 1.72, which is a 58.14 percent chance of the under 2.51948550724638 hitting."
@@ -265,4 +265,4 @@
                        player_name    team expected_attg expected_gs
 82 /players/310785/sondre-tronstad Vitesse     0.2849934  0.03571429
 [1] "__________________________________"
-[1] "New commit ID #1764"
+[1] "New commit ID #6884"
