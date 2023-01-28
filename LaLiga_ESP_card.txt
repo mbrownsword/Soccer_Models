@@ -1,95 +1,44 @@
-[1] "Updated at 2023-01-28 08:49:42.927"
+[1] "Updated at 2023-01-28 11:14:32.655"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Sevilla FC 2.4932 to Elche 0.9065"
-[1] "The pass/shot predicted total is 3.3997"
-[1] "Sevilla FC pass/shot Predicted Win %: 71.99"
-[1] "The pass/shot Predicted Draw % is: 16.42"
-[1] "Elche pass/shot Predicted Win %: 11.59"
+[1] "The pass/shot predicted score is Getafe 1.112 to Real Betis 0.7645"
+[1] "The pass/shot predicted total is 1.8765"
+[1] "Getafe pass/shot Predicted Win %: 43.38"
+[1] "The pass/shot Predicted Draw % is: 31.4"
+[1] "Real Betis pass/shot Predicted Win %: 25.22"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Sevilla FC 2.3135 to Elche 0.9486"
-[1] "The xg model predicted total is 3.2621"
-[1] "Sevilla FC xg model Predicted Win %: 67.5"
-[1] "The xg model Predicted Draw % is: 18.94"
-[1] "Elche xg model Predicted Win %: 13.56"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Sevilla FC 3.4684 to Elche 0.6506"
-[1] "The xgot model predicted total is 4.119"
-[1] "Sevilla FC xgot model Predicted Win %: 87.87"
-[1] "The xgot model Predicted Draw % is: 8.28"
-[1] "Elche xgot model Predicted Win %: 3.85"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Sevilla FC 1.7668 to Elche 0.7454"
-[1] "The xa model predicted total is 2.5122"
-[1] "Sevilla FC xa model Predicted Win %: 62.2"
-[1] "The xa model Predicted Draw % is: 23.13"
-[1] "Elche xa model Predicted Win %: 14.67"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Sevilla FC 1.571 to Elche 0.9193"
-[1] "The XAExp model predicted total is 2.4903"
-[1] "Sevilla FC XAExp model Predicted Win %: 52.86"
-[1] "The XAExp model Predicted Draw % is: 25.39"
-[1] "Elche XAExp model Predicted Win %: 21.75"
-[1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Sevilla FC winning this match is 68.48 percent, with a minimum chance of 52.86 percent, and a maximum chance of 87.87 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 18.43 percent, with a minimum chance of 8.28 percent, and a maximum chance of 25.39 percent."
-[1] "Our modelled likelihood of Elche winning this match is 13.08 percent, with a minimum chance of 3.85 percent, and a maximum chance of 21.75 percent."
-[1] "Our modelled likelihood of Sevilla FC winning this match OR DRAW is 86.92 percent, with a minimum chance of 78.25 percent, and a maximum chance of 96.15 percent."
-[1] "Our modelled likelihood of Elche winning this match OR DRAW is 31.52 percent, with a minimum chance of 12.13 percent, and a maximum chance of 47.14 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 61.1 percent, with a high likelihood of 77.88 and a low likelihood of 45.37 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 38.9 percent, with a high likelihood of 54.63 and a low likelihood of 22.12 percent."
-[1] "--Sportsbook Odds--"
-[1] "Sevilla FC Barstool Odds are: 66.67"
-[1] "The Barstool Odds of a Draw are: 25.64"
-[1] "Elche Barstool Odds are: 13.33"
-[1] "Sevilla FC Adjusted Barstool Odds are: 63.111"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.271"
-[1] "Elche Adjusted Barstool Odds are: 12.618"
-[1] "Sevilla FC's Barstool Odds to cover the -1 spread are: 53.19"
-[1] "Elche's Barstool Odds to cover the 1 spread are: 51.28"
-[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17 percent chance of the over 2.58709751124859 hitting. The line for the under is 1.72, which is a 58.14 percent chance of the under 2.58709751124859 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Getafe 1.1027 to Real Betis 0.7712"
-[1] "The pass/shot predicted total is 1.8739"
-[1] "Getafe pass/shot Predicted Win %: 43.12"
-[1] "The pass/shot Predicted Draw % is: 31.3"
-[1] "Real Betis pass/shot Predicted Win %: 25.58"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Getafe 0.9092 to Real Betis 0.6992"
+[1] "The xg model predicted score is Getafe 0.9088 to Real Betis 0.6996"
 [1] "The xg model predicted total is 1.6084"
-[1] "Getafe xg model Predicted Win %: 38.8"
-[1] "The xg model Predicted Draw % is: 35.1"
-[1] "Real Betis xg model Predicted Win %: 26.1"
+[1] "Getafe xg model Predicted Win %: 38.73"
+[1] "The xg model Predicted Draw % is: 35.09"
+[1] "Real Betis xg model Predicted Win %: 26.18"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Getafe 0.6062 to Real Betis 0.5638"
-[1] "The xgot model predicted total is 1.17"
-[1] "Getafe xgot model Predicted Win %: 29.98"
-[1] "The xgot model Predicted Draw % is: 43.02"
-[1] "Real Betis xgot model Predicted Win %: 27"
+[1] "The xgot model predicted score is Getafe 0.6323 to Real Betis 0.5382"
+[1] "The xgot model predicted total is 1.1705"
+[1] "Getafe xgot model Predicted Win %: 31.68"
+[1] "The xgot model Predicted Draw % is: 42.93"
+[1] "Real Betis xgot model Predicted Win %: 25.39"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Getafe 1.4629 to Real Betis 0.6581"
-[1] "The xa model predicted total is 2.121"
-[1] "Getafe xa model Predicted Win %: 55.88"
-[1] "The xa model Predicted Draw % is: 26.97"
-[1] "Real Betis xa model Predicted Win %: 17.15"
+[1] "The xa model predicted score is Getafe 1.4765 to Real Betis 0.6518"
+[1] "The xa model predicted total is 2.1283"
+[1] "Getafe xa model Predicted Win %: 56.8"
+[1] "The xa model Predicted Draw % is: 26.7"
+[1] "Real Betis xa model Predicted Win %: 16.5"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Getafe 1.2649 to Real Betis 0.5884"
-[1] "The XAExp model predicted total is 1.8533"
-[1] "Getafe XAExp model Predicted Win %: 52.75"
-[1] "The XAExp model Predicted Draw % is: 30.48"
-[1] "Real Betis XAExp model Predicted Win %: 16.77"
+[1] "The XAExp model predicted score is Getafe 1.2785 to Real Betis 0.5256"
+[1] "The XAExp model predicted total is 1.8041"
+[1] "Getafe XAExp model Predicted Win %: 55.3"
+[1] "The XAExp model Predicted Draw % is: 30.13"
+[1] "Real Betis XAExp model Predicted Win %: 14.57"
 [1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Getafe winning this match is 44.11 percent, with a minimum chance of 29.98 percent, and a maximum chance of 55.88 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 33.37 percent, with a minimum chance of 26.97 percent, and a maximum chance of 43.02 percent."
-[1] "Our modelled likelihood of Real Betis winning this match is 22.52 percent, with a minimum chance of 16.77 percent, and a maximum chance of 27 percent."
-[1] "Our modelled likelihood of Getafe winning this match OR DRAW is 77.48 percent, with a minimum chance of 73 percent, and a maximum chance of 83.23 percent."
-[1] "Our modelled likelihood of Real Betis winning this match OR DRAW is 55.89 percent, with a minimum chance of 44.12 percent, and a maximum chance of 70.02 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 24.95 percent, with a high likelihood of 35.6 and a low likelihood of 11.41 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 75.05 percent, with a high likelihood of 88.59 and a low likelihood of 64.4 percent."
+[1] "Our modelled likelihood of Getafe winning this match is 45.18 percent, with a minimum chance of 31.68 percent, and a maximum chance of 56.8 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 33.25 percent, with a minimum chance of 26.7 percent, and a maximum chance of 42.93 percent."
+[1] "Our modelled likelihood of Real Betis winning this match is 21.57 percent, with a minimum chance of 14.57 percent, and a maximum chance of 26.18 percent."
+[1] "Our modelled likelihood of Getafe winning this match OR DRAW is 78.43 percent, with a minimum chance of 73.82 percent, and a maximum chance of 85.43 percent."
+[1] "Our modelled likelihood of Real Betis winning this match OR DRAW is 54.82 percent, with a minimum chance of 43.2 percent, and a maximum chance of 68.32 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 24.74 percent, with a high likelihood of 35.8 and a low likelihood of 11.42 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 75.26 percent, with a high likelihood of 88.58 and a low likelihood of 64.2 percent."
 [1] "--Sportsbook Odds--"
 [1] "Getafe Barstool Odds are: 31.75"
 [1] "The Barstool Odds of a Draw are: 35.09"
@@ -98,46 +47,34 @@
 [1] "The Adjusted Barstool Odds of a Draw are: 33.324"
 [1] "Real Betis Adjusted Barstool Odds are: 36.524"
 [1] "Getafe's Barstool Odds to cover the 0 spread are: 47.62"
-[1] "Real Betis's Barstool Odds to cover the 0 spread are: 56.82"
-[1] "Barstool's line for the total is 2.5 at 2.9, which is a 34.48 percent chance of the over 2.56276819126819 hitting. The line for the under is 1.41, which is a 70.92 percent chance of the under 2.56276819126819 hitting."
+[1] "Real Betis's Barstool Odds to cover the 0 spread are: 57.14"
+[1] "Barstool's line for the total is 2.5 at 2.88, which is a 34.72 percent chance of the over 2.56276819126819 hitting. The line for the under is 1.42, which is a 70.42 percent chance of the under 2.56276819126819 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-01-28 05:00:00
 [1] "____________Anytime Goalscorers______________________"
-                  player_name  team expected_attg expected_gs
-56 /players/561164/lucas-boye Elche     0.3173915   0.2173913
 [1] "__________________________________"
-[1] "New commit ID #5785"
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV      2 4.45      0.2247  0.3595   0.1348   tackles LaLiga          NA         NA        NA         NA       NA
+[1] "New commit ID #97"
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Enes Unal  GET     18 1.49          NA  0.8114   0.1403    passes LaLiga      0.6711         NA        NA         NA       NA
+1: Enes Unal  GET     18 1.49          NA  0.8063   0.1352    passes LaLiga      0.6711         NA        NA         NA       NA
                           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Juan Antonio Iglesias Sanchez  GET     23 1.53          NA  0.8583   0.2047    passes LaLiga      0.6536         NA        NA         NA       NA
+1: Juan Antonio Iglesias Sanchez  GET     23 1.53          NA  0.8535   0.1999    passes LaLiga      0.6536         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV      3 2.47          NA  0.5775   0.1726     shots LaLiga          NA     0.4049        NA         NA       NA
+1:  Djene  GET      2 11.1          NA   0.652   0.5619     shots LaLiga          NA     0.0901        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV      2 1.53          NA  0.7701   0.1165     shots LaLiga          NA     0.6536        NA         NA       NA
+1:  Djene  GET      3   22          NA  0.4324   0.3869     shots LaLiga          NA     0.0455        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV      5   14          NA  0.2238   0.1524     shots LaLiga          NA     0.0714        NA         NA       NA
+1:  Djene  GET      4   46          NA   0.248   0.2263     shots LaLiga          NA     0.0217        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:   Suso  SEV      4  5.2          NA  0.3822   0.1899     shots LaLiga          NA     0.1923        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      2 11.1          NA  0.6282   0.5381     shots LaLiga          NA     0.0901        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      3   22          NA  0.4062   0.3607     shots LaLiga          NA     0.0455        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      4   46          NA  0.2264   0.2047     shots LaLiga          NA     0.0217        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Portu  GET      2  2.9          NA  0.6282   0.2834     shots LaLiga          NA     0.3448        NA         NA       NA
+1:  Portu  GET      2  2.9          NA   0.652   0.3072     shots LaLiga          NA     0.3448        NA         NA       NA
    player team number  odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Portu  GET      4 21.05          NA  0.2264   0.1789     shots LaLiga          NA     0.0475        NA         NA       NA
+1:  Portu  GET      4 21.05          NA   0.248   0.2005     shots LaLiga          NA     0.0475        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Portu  GET      3  7.1          NA  0.4062   0.2654     shots LaLiga          NA     0.1408        NA         NA       NA
-              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Youssef En-Nesyri  SEV      3    7          NA  0.2549    0.112      sogs LaLiga          NA         NA    0.1429         NA       NA
+1:  Portu  GET      3  7.1          NA  0.4324   0.2916     shots LaLiga          NA     0.1408        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      1  7.5          NA  0.3869   0.2536      sogs LaLiga          NA         NA    0.1333         NA       NA
+1:  Djene  GET      1  7.5          NA  0.3929   0.2596      sogs LaLiga          NA         NA    0.1333         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      2   40          NA   0.152    0.127      sogs LaLiga          NA         NA     0.025         NA       NA
+1:  Djene  GET      2   40          NA   0.156    0.131      sogs LaLiga          NA         NA     0.025         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Portu  GET      2   18          NA   0.156   0.1004      sogs LaLiga          NA         NA    0.0556         NA       NA
