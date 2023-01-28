@@ -1,80 +1,341 @@
-[1] "Updated at 2023-01-28 11:14:32.655"
+[1] "Updated at 2023-01-28 13:24:14.149"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Getafe 1.112 to Real Betis 0.7645"
-[1] "The pass/shot predicted total is 1.8765"
-[1] "Getafe pass/shot Predicted Win %: 43.38"
-[1] "The pass/shot Predicted Draw % is: 31.4"
-[1] "Real Betis pass/shot Predicted Win %: 25.22"
+[1] "The pass/shot predicted score is Real Valladolid 0.7053 to Valencia 1.3362"
+[1] "The pass/shot predicted total is 2.0415"
+[1] "Real Valladolid pass/shot Predicted Win %: 19.65"
+[1] "The pass/shot Predicted Draw % is: 28.48"
+[1] "Valencia pass/shot Predicted Win %: 51.87"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Getafe 0.9088 to Real Betis 0.6996"
-[1] "The xg model predicted total is 1.6084"
-[1] "Getafe xg model Predicted Win %: 38.73"
-[1] "The xg model Predicted Draw % is: 35.09"
-[1] "Real Betis xg model Predicted Win %: 26.18"
+[1] "The xg model predicted score is Real Valladolid 0.265 to Valencia 2.5205"
+[1] "The xg model predicted total is 2.7855"
+[1] "Real Valladolid xg model Predicted Win %: 2.34"
+[1] "The xg model Predicted Draw % is: 11.59"
+[1] "Valencia xg model Predicted Win %: 86.07"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Getafe 0.6323 to Real Betis 0.5382"
-[1] "The xgot model predicted total is 1.1705"
-[1] "Getafe xgot model Predicted Win %: 31.68"
-[1] "The xgot model Predicted Draw % is: 42.93"
-[1] "Real Betis xgot model Predicted Win %: 25.39"
+[1] "The xgot model predicted score is Real Valladolid 0.2866 to Valencia 3.348"
+[1] "The xgot model predicted total is 3.6346"
+[1] "Real Valladolid xgot model Predicted Win %: 1.28"
+[1] "The xgot model Predicted Draw % is: 5.66"
+[1] "Valencia xgot model Predicted Win %: 93.06"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Getafe 1.4765 to Real Betis 0.6518"
-[1] "The xa model predicted total is 2.1283"
-[1] "Getafe xa model Predicted Win %: 56.8"
-[1] "The xa model Predicted Draw % is: 26.7"
-[1] "Real Betis xa model Predicted Win %: 16.5"
+[1] "The xa model predicted score is Real Valladolid 0.8846 to Valencia 2.0156"
+[1] "The xa model predicted total is 2.9002"
+[1] "Real Valladolid xa model Predicted Win %: 15.56"
+[1] "The xa model Predicted Draw % is: 20.95"
+[1] "Valencia xa model Predicted Win %: 63.49"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Getafe 1.2785 to Real Betis 0.5256"
-[1] "The XAExp model predicted total is 1.8041"
-[1] "Getafe XAExp model Predicted Win %: 55.3"
-[1] "The XAExp model Predicted Draw % is: 30.13"
-[1] "Real Betis XAExp model Predicted Win %: 14.57"
+[1] "The XAExp model predicted score is Real Valladolid 0.9392 to Valencia 1.9988"
+[1] "The XAExp model predicted total is 2.938"
+[1] "Real Valladolid XAExp model Predicted Win %: 17.13"
+[1] "The XAExp model Predicted Draw % is: 21.26"
+[1] "Valencia XAExp model Predicted Win %: 61.61"
 [1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Getafe winning this match is 45.18 percent, with a minimum chance of 31.68 percent, and a maximum chance of 56.8 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 33.25 percent, with a minimum chance of 26.7 percent, and a maximum chance of 42.93 percent."
-[1] "Our modelled likelihood of Real Betis winning this match is 21.57 percent, with a minimum chance of 14.57 percent, and a maximum chance of 26.18 percent."
-[1] "Our modelled likelihood of Getafe winning this match OR DRAW is 78.43 percent, with a minimum chance of 73.82 percent, and a maximum chance of 85.43 percent."
-[1] "Our modelled likelihood of Real Betis winning this match OR DRAW is 54.82 percent, with a minimum chance of 43.2 percent, and a maximum chance of 68.32 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 24.74 percent, with a high likelihood of 35.8 and a low likelihood of 11.42 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 75.26 percent, with a high likelihood of 88.58 and a low likelihood of 64.2 percent."
+[1] "Our modelled likelihood of Real Valladolid winning this match is 11.19 percent, with a minimum chance of 1.28 percent, and a maximum chance of 19.65 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 17.59 percent, with a minimum chance of 5.66 percent, and a maximum chance of 28.48 percent."
+[1] "Our modelled likelihood of Valencia winning this match is 71.22 percent, with a minimum chance of 51.87 percent, and a maximum chance of 93.06 percent."
+[1] "Our modelled likelihood of Real Valladolid winning this match OR DRAW is 28.78 percent, with a minimum chance of 6.94 percent, and a maximum chance of 48.13 percent."
+[1] "Our modelled likelihood of Valencia winning this match OR DRAW is 88.81 percent, with a minimum chance of 80.35 percent, and a maximum chance of 98.72 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 54.47 percent, with a high likelihood of 70.33 and a low likelihood of 33.46 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 45.53 percent, with a high likelihood of 66.54 and a low likelihood of 29.67 percent."
 [1] "--Sportsbook Odds--"
-[1] "Getafe Barstool Odds are: 31.75"
-[1] "The Barstool Odds of a Draw are: 35.09"
-[1] "Real Betis Barstool Odds are: 38.46"
-[1] "Getafe Adjusted Barstool Odds are: 30.152"
-[1] "The Adjusted Barstool Odds of a Draw are: 33.324"
-[1] "Real Betis Adjusted Barstool Odds are: 36.524"
-[1] "Getafe's Barstool Odds to cover the 0 spread are: 47.62"
-[1] "Real Betis's Barstool Odds to cover the 0 spread are: 57.14"
-[1] "Barstool's line for the total is 2.5 at 2.88, which is a 34.72 percent chance of the over 2.56276819126819 hitting. The line for the under is 1.42, which is a 70.42 percent chance of the under 2.56276819126819 hitting."
+[1] "Real Valladolid Barstool Odds are: 31.75"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Valencia Barstool Odds are: 42.55"
+[1] "Real Valladolid Adjusted Barstool Odds are: 30.081"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.607"
+[1] "Valencia Adjusted Barstool Odds are: 40.313"
+[1] "Real Valladolid's Barstool Odds to cover the 0.25 spread are: 56.18"
+[1] "Valencia's Barstool Odds to cover the -0.25 spread are: 49.5"
+[1] "Barstool's line for the total is 2.5 at 2.17, which is a 46.08 percent chance of the over 2.55670734167003 hitting. The line for the under is 1.7, which is a 58.82 percent chance of the under 2.55670734167003 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-01-28 05:00:00
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "The pass/shot predicted score is Osasuna 0.7647 to Atletico Madrid 1.2538"
+[1] "The pass/shot predicted total is 2.0185"
+[1] "Osasuna pass/shot Predicted Win %: 22.89"
+[1] "The pass/shot Predicted Draw % is: 29.5"
+[1] "Atletico Madrid pass/shot Predicted Win %: 47.61"
+[1] "--XG Model--"
+[1] "The xg model predicted score is Osasuna 0.8836 to Atletico Madrid 0.8901"
+[1] "The xg model predicted total is 1.7737"
+[1] "Osasuna xg model Predicted Win %: 33.09"
+[1] "The xg model Predicted Draw % is: 33.95"
+[1] "Atletico Madrid xg model Predicted Win %: 32.96"
+[1] "--XGoT Model--"
+[1] "The xgot model predicted score is Osasuna 0.4495 to Atletico Madrid 0.8773"
+[1] "The xgot model predicted total is 1.3268"
+[1] "Osasuna xgot model Predicted Win %: 17.74"
+[1] "The xgot model Predicted Draw % is: 38.53"
+[1] "Atletico Madrid xgot model Predicted Win %: 43.73"
+[1] "--XA Model--"
+[1] "The xa model predicted score is Osasuna 1.1405 to Atletico Madrid 0.7917"
+[1] "The xa model predicted total is 1.9322"
+[1] "Osasuna xa model Predicted Win %: 43.95"
+[1] "The xa model Predicted Draw % is: 30.72"
+[1] "Atletico Madrid xa model Predicted Win %: 25.33"
+[1] "--XAExp Model--"
+[1] "The XAExp model predicted score is Osasuna 0.9158 to Atletico Madrid 0.801"
+[1] "The XAExp model predicted total is 1.7168"
+[1] "Osasuna XAExp model Predicted Win %: 36.33"
+[1] "The XAExp model Predicted Draw % is: 34.28"
+[1] "Atletico Madrid XAExp model Predicted Win %: 29.39"
+[1] "--Mean 5 Models--"
+[1] "Our modelled likelihood of Osasuna winning this match is 30.8 percent, with a minimum chance of 17.74 percent, and a maximum chance of 43.95 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 33.4 percent, with a minimum chance of 29.5 percent, and a maximum chance of 38.53 percent."
+[1] "Our modelled likelihood of Atletico Madrid winning this match is 35.8 percent, with a minimum chance of 25.33 percent, and a maximum chance of 47.61 percent."
+[1] "Our modelled likelihood of Osasuna winning this match OR DRAW is 64.2 percent, with a minimum chance of 52.39 percent, and a maximum chance of 74.67 percent."
+[1] "Our modelled likelihood of Atletico Madrid winning this match OR DRAW is 69.2 percent, with a minimum chance of 56.05 percent, and a maximum chance of 82.26 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 25.7 percent, with a high likelihood of 32.83 and a low likelihood of 14.91 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 74.3 percent, with a high likelihood of 85.09 and a low likelihood of 67.17 percent."
+[1] "--Sportsbook Odds--"
+[1] "Osasuna Barstool Odds are: 26.67"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Atletico Madrid Barstool Odds are: 48.08"
+[1] "Osasuna Adjusted Barstool Odds are: 25.275"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.16"
+[1] "Atletico Madrid Adjusted Barstool Odds are: 45.565"
+[1] "Osasuna's Barstool Odds to cover the 0.25 spread are: 50"
+[1] "Atletico Madrid's Barstool Odds to cover the -0.25 spread are: 55.56"
+[1] "Barstool's line for the total is 2.5 at 2.38, which is a 42.02 percent chance of the over 2.59789931350114 hitting. The line for the under is 1.58, which is a 63.29 percent chance of the under 2.59789931350114 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "The pass/shot predicted score is Celta Vigo 1.1949 to Athletic Bilbao 1.1557"
+[1] "The pass/shot predicted total is 2.3506"
+[1] "Celta Vigo pass/shot Predicted Win %: 37.04"
+[1] "The pass/shot Predicted Draw % is: 28.19"
+[1] "Athletic Bilbao pass/shot Predicted Win %: 34.77"
+[1] "--XG Model--"
+[1] "The xg model predicted score is Celta Vigo 0.2452 to Athletic Bilbao 0.9664"
+[1] "The xg model predicted total is 1.2116"
+[1] "Celta Vigo xg model Predicted Win %: 9.2"
+[1] "The xg model Predicted Draw % is: 37.23"
+[1] "Athletic Bilbao xg model Predicted Win %: 53.57"
+[1] "--XGoT Model--"
+[1] "The xgot model predicted score is Celta Vigo 0.9987 to Athletic Bilbao 1.2048"
+[1] "The xgot model predicted total is 2.2035"
+[1] "Celta Vigo xgot model Predicted Win %: 30.72"
+[1] "The xgot model Predicted Draw % is: 29.44"
+[1] "Athletic Bilbao xgot model Predicted Win %: 39.84"
+[1] "--XA Model--"
+[1] "The xa model predicted score is Celta Vigo 0.9352 to Athletic Bilbao 0.9509"
+[1] "The xa model predicted total is 1.8861"
+[1] "Celta Vigo xa model Predicted Win %: 33.9"
+[1] "The xa model Predicted Draw % is: 32.7"
+[1] "Athletic Bilbao xa model Predicted Win %: 33.4"
+[1] "--XAExp Model--"
+[1] "The XAExp model predicted score is Celta Vigo 0.9084 to Athletic Bilbao 1.0946"
+[1] "The XAExp model predicted total is 2.003"
+[1] "Celta Vigo XAExp model Predicted Win %: 30.38"
+[1] "The XAExp model Predicted Draw % is: 30.9"
+[1] "Athletic Bilbao XAExp model Predicted Win %: 38.72"
+[1] "--Mean 5 Models--"
+[1] "Our modelled likelihood of Celta Vigo winning this match is 28.25 percent, with a minimum chance of 9.2 percent, and a maximum chance of 37.04 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 31.69 percent, with a minimum chance of 28.19 percent, and a maximum chance of 37.23 percent."
+[1] "Our modelled likelihood of Athletic Bilbao winning this match is 40.06 percent, with a minimum chance of 33.4 percent, and a maximum chance of 53.57 percent."
+[1] "Our modelled likelihood of Celta Vigo winning this match OR DRAW is 59.94 percent, with a minimum chance of 46.43 percent, and a maximum chance of 66.6 percent."
+[1] "Our modelled likelihood of Athletic Bilbao winning this match OR DRAW is 71.75 percent, with a minimum chance of 62.96 percent, and a maximum chance of 90.8 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 30.47 percent, with a high likelihood of 41.74 and a low likelihood of 12.3 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 69.53 percent, with a high likelihood of 87.7 and a low likelihood of 58.26 percent."
+[1] "--Sportsbook Odds--"
+[1] "Celta Vigo Barstool Odds are: 36.36"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Athletic Bilbao Barstool Odds are: 37.74"
+[1] "Celta Vigo Adjusted Barstool Odds are: 34.514"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.663"
+[1] "Athletic Bilbao Adjusted Barstool Odds are: 35.823"
+[1] "Celta Vigo's Barstool Odds to cover the 0 spread are: 51.28"
+[1] "Athletic Bilbao's Barstool Odds to cover the 0 spread are: 53.19"
+[1] "Barstool's line for the total is 2.5 at 2.43, which is a 41.15 percent chance of the over 2.5833474752733 hitting. The line for the under is 1.55, which is a 64.52 percent chance of the under 2.5833474752733 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "The pass/shot predicted score is Real Madrid 1.1577 to Real Sociedad 0.8214"
+[1] "The pass/shot predicted total is 1.9791"
+[1] "Real Madrid pass/shot Predicted Win %: 43.76"
+[1] "The pass/shot Predicted Draw % is: 30.13"
+[1] "Real Sociedad pass/shot Predicted Win %: 26.11"
+[1] "--XG Model--"
+[1] "The xg model predicted score is Real Madrid 1.2443 to Real Sociedad 0.7914"
+[1] "The xg model predicted total is 2.0357"
+[1] "Real Madrid xg model Predicted Win %: 47.26"
+[1] "The xg model Predicted Draw % is: 29.52"
+[1] "Real Sociedad xg model Predicted Win %: 23.22"
+[1] "--XGoT Model--"
+[1] "The xgot model predicted score is Real Madrid 1.0431 to Real Sociedad 1.1742"
+[1] "The xgot model predicted total is 2.2173"
+[1] "Real Madrid xgot model Predicted Win %: 32.19"
+[1] "The xgot model Predicted Draw % is: 29.26"
+[1] "Real Sociedad xgot model Predicted Win %: 38.55"
+[1] "--XA Model--"
+[1] "The xa model predicted score is Real Madrid 1.8448 to Real Sociedad 0.7621"
+[1] "The xa model predicted total is 2.6069"
+[1] "Real Madrid xa model Predicted Win %: 63.72"
+[1] "The xa model Predicted Draw % is: 21.92"
+[1] "Real Sociedad xa model Predicted Win %: 14.36"
+[1] "--XAExp Model--"
+[1] "The XAExp model predicted score is Real Madrid 1.7582 to Real Sociedad 0.9547"
+[1] "The XAExp model predicted total is 2.7129"
+[1] "Real Madrid XAExp model Predicted Win %: 56.51"
+[1] "The XAExp model Predicted Draw % is: 23.6"
+[1] "Real Sociedad XAExp model Predicted Win %: 19.89"
+[1] "--Mean 5 Models--"
+[1] "Our modelled likelihood of Real Madrid winning this match is 48.69 percent, with a minimum chance of 32.19 percent, and a maximum chance of 63.72 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 26.89 percent, with a minimum chance of 21.92 percent, and a maximum chance of 30.13 percent."
+[1] "Our modelled likelihood of Real Sociedad winning this match is 24.43 percent, with a minimum chance of 14.36 percent, and a maximum chance of 38.55 percent."
+[1] "Our modelled likelihood of Real Madrid winning this match OR DRAW is 75.57 percent, with a minimum chance of 61.45 percent, and a maximum chance of 85.64 percent."
+[1] "Our modelled likelihood of Real Sociedad winning this match OR DRAW is 51.31 percent, with a minimum chance of 36.28 percent, and a maximum chance of 67.81 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 40.67 percent, with a high likelihood of 50.95 and a low likelihood of 31.77 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 59.33 percent, with a high likelihood of 68.23 and a low likelihood of 49.05 percent."
+[1] "--Sportsbook Odds--"
+[1] "Real Madrid Barstool Odds are: 60"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Real Sociedad Barstool Odds are: 20.83"
+[1] "Real Madrid Adjusted Barstool Odds are: 56.354"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.082"
+[1] "Real Sociedad Adjusted Barstool Odds are: 19.564"
+[1] "Real Madrid's Barstool Odds to cover the -0.75 spread are: 53.76"
+[1] "Real Sociedad's Barstool Odds to cover the 0.75 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.88, which is a 53.19 percent chance of the over 2.65633035714286 hitting. The line for the under is 1.92, which is a 52.08 percent chance of the under 2.65633035714286 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                            bet           date_time
+1                      Valencia 2023-01-29 05:00:00
+2 under Osasuna/Atletico Madrid 2023-01-29 07:15:00
+3                   Osasuna ATS 2023-01-29 07:15:00
 [1] "____________Anytime Goalscorers______________________"
+                player_name     team expected_attg expected_gs
+18 /players/391058/jos-gayà Valencia     0.1854167  0.04347826
 [1] "__________________________________"
-[1] "New commit ID #97"
+[1] "New commit ID #5851"
+       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Roque Mesa  RVA     48 2.26          NA  0.6846   0.2421    passes LaLiga      0.4425         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Roque Mesa  RVA     44 1.82          NA  0.8545    0.305    passes LaLiga      0.5495         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Roque Mesa  RVA     40  1.5          NA  0.9504   0.2837    passes LaLiga      0.6667         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ruben Garcia  OSA     34 1.89          NA  0.9983   0.4692    passes LaLiga      0.5291         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ruben Garcia  OSA     38 2.36          NA  0.9896   0.5659    passes LaLiga      0.4237         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ruben Garcia  OSA     46 3.65          NA  0.8721   0.5981    passes LaLiga       0.274         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ruben Garcia  OSA     50 5.05          NA   0.717    0.519    passes LaLiga       0.198         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ruben Garcia  OSA     30 1.54          NA  0.9998   0.3504    passes LaLiga      0.6494         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ruben Garcia  OSA     42 2.84          NA  0.9568   0.6047    passes LaLiga      0.3521         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jon Moncayola  OSA     47 1.86          NA  0.6393   0.1017    passes LaLiga      0.5376         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jon Moncayola  OSA     43 1.52          NA  0.8263   0.1684    passes LaLiga      0.6579         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Darko Brasanac  OSA     30 1.82          NA  0.6627   0.1132    passes LaLiga      0.5495         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Darko Brasanac  OSA     26  1.5          NA  0.8749   0.2082    passes LaLiga      0.6667         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Garcia  OSA     47 1.88          NA    0.84   0.3081    passes LaLiga      0.5319         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Garcia  OSA     51 2.32          NA  0.6685   0.2375    passes LaLiga       0.431         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Garcia  OSA     43 1.54          NA  0.9416   0.2922    passes LaLiga      0.6494         NA        NA         NA       NA
+                      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Manuel Sanchez De La Pena  OSA     40 2.37          NA  0.6104   0.1885    passes LaLiga      0.4219         NA        NA         NA       NA
+                      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Manuel Sanchez De La Pena  OSA     32 1.55          NA  0.9419   0.2967    passes LaLiga      0.6452         NA        NA         NA       NA
+                      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Manuel Sanchez De La Pena  OSA     36  1.9          NA  0.8197   0.2934    passes LaLiga      0.5263         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Enes Unal  GET     18 1.49          NA  0.8063   0.1352    passes LaLiga      0.6711         NA        NA         NA       NA
-                          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Juan Antonio Iglesias Sanchez  GET     23 1.53          NA  0.8535   0.1999    passes LaLiga      0.6536         NA        NA         NA       NA
+1: Moi Gomez  OSA     56 2.53          NA   0.747   0.3517    passes LaLiga      0.3953         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Moi Gomez  OSA     48 1.83          NA   0.959   0.4126    passes LaLiga      0.5464         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Moi Gomez  OSA     64  4.1          NA  0.3595   0.1156    passes LaLiga      0.2439         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Moi Gomez  OSA     52 2.19          NA   0.884   0.4274    passes LaLiga      0.4566         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Moi Gomez  OSA     60 3.11          NA  0.5584   0.2369    passes LaLiga      0.3215         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Moi Gomez  OSA     44 1.53          NA  0.9892   0.3356    passes LaLiga      0.6536         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kike Garcia  OSA     21 1.86          NA       1   0.4624    passes LaLiga      0.5376         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kike Garcia  OSA     29 2.78          NA  0.9999   0.6402    passes LaLiga      0.3597         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kike Garcia  OSA     25 2.31          NA       1   0.5671    passes LaLiga      0.4329         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kike Garcia  OSA     33 3.55          NA   0.999   0.7173    passes LaLiga      0.2817         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kike Garcia  OSA     37 4.95          NA  0.9931   0.7911    passes LaLiga       0.202         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kike Garcia  OSA     17 1.52          NA       1   0.3421    passes LaLiga      0.6579         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Unai Garcia  OSA     41  1.9          NA  0.9687   0.4424    passes LaLiga      0.5263         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Unai Garcia  OSA     45 2.37          NA  0.8996   0.4777    passes LaLiga      0.4219         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Unai Garcia  OSA     53 3.65          NA  0.5643   0.2903    passes LaLiga       0.274         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Unai Garcia  OSA     57  5.1          NA  0.3535   0.1574    passes LaLiga      0.1961         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Unai Garcia  OSA     37 1.55          NA  0.9931   0.3479    passes LaLiga      0.6452         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Unai Garcia  OSA     49 2.85          NA  0.7621   0.4112    passes LaLiga      0.3509         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ezequiel Avila  OSA     21 1.82          NA  0.9357   0.3862    passes LaLiga      0.5495         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ezequiel Avila  OSA     29 2.71          NA  0.4891   0.1201    passes LaLiga       0.369         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ezequiel Avila  OSA     25 2.26          NA  0.7661   0.3236    passes LaLiga      0.4425         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ezequiel Avila  OSA     17  1.5          NA  0.9909   0.3242    passes LaLiga      0.6667         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Inaki Williams  ATH     23 1.85          NA  0.8445    0.304    passes LaLiga      0.5405         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Inaki Williams  ATH     27  2.3          NA  0.5941   0.1593    passes LaLiga      0.4348         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Inaki Williams  ATH     19 1.51          NA  0.9666   0.3043    passes LaLiga      0.6623         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Nicholas Williams  ATH     24 1.52          NA  0.7926   0.1347    passes LaLiga      0.6579         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Raul Garcia  ATH     25 1.88          NA  0.8569    0.325    passes LaLiga      0.5319         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Raul Garcia  ATH     29 2.34          NA   0.626   0.1986    passes LaLiga      0.4274         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Raul Garcia  ATH     21 1.53          NA  0.9679   0.3143    passes LaLiga      0.6536         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Veiga  CEL     22 1.54          NA  0.8327   0.1833    passes LaLiga      0.6494         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brais Mendez  RSO     50 2.26          NA  0.9596   0.5171    passes LaLiga      0.4425         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brais Mendez  RSO     46 1.82          NA  0.9891   0.4396    passes LaLiga      0.5495         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brais Mendez  RSO     42  1.5          NA  0.9979   0.3312    passes LaLiga      0.6667         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brais Mendez  RSO     54 2.71          NA  0.8875   0.5185    passes LaLiga       0.369         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brais Mendez  RSO     58 3.48          NA  0.7557   0.4683    passes LaLiga      0.2874         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brais Mendez  RSO     62  4.8          NA  0.5727   0.3644    passes LaLiga      0.2083         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      2 11.1          NA   0.652   0.5619     shots LaLiga          NA     0.0901        NA         NA       NA
+1:   Take  RSO     24 1.87          NA  0.8211   0.2863    passes LaLiga      0.5348         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      3   22          NA  0.4324   0.3869     shots LaLiga          NA     0.0455        NA         NA       NA
+1:   Take  RSO     28 2.33          NA  0.5624   0.1332    passes LaLiga      0.4292         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      4   46          NA   0.248   0.2263     shots LaLiga          NA     0.0217        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Portu  GET      2  2.9          NA   0.652   0.3072     shots LaLiga          NA     0.3448        NA         NA       NA
-   player team number  odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Portu  GET      4 21.05          NA   0.248   0.2005     shots LaLiga          NA     0.0475        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Portu  GET      3  7.1          NA  0.4324   0.2916     shots LaLiga          NA     0.1408        NA         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      1  7.5          NA  0.3929   0.2596      sogs LaLiga          NA         NA    0.1333         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Djene  GET      2   40          NA   0.156    0.131      sogs LaLiga          NA         NA     0.025         NA       NA
-   player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1:  Portu  GET      2   18          NA   0.156   0.1004      sogs LaLiga          NA         NA    0.0556         NA       NA
+1:   Take  RSO     20 1.53          NA  0.9577   0.3041    passes LaLiga      0.6536         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ander Barrenetxea  RSO     23 1.85          NA  0.9831   0.4426    passes LaLiga      0.5405         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ander Barrenetxea  RSO     19 1.51          NA  0.9982   0.3359    passes LaLiga      0.6623         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ander Barrenetxea  RSO     27  2.3          NA  0.9154   0.4806    passes LaLiga      0.4348         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ander Barrenetxea  RSO     31 2.76          NA  0.7459   0.3836    passes LaLiga      0.3623         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ander Barrenetxea  RSO     35 3.55          NA  0.4911   0.2094    passes LaLiga      0.2817         NA        NA         NA       NA
