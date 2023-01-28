@@ -1,4 +1,4 @@
-[1] "Updated at 2023-01-27 15:42:14.426"
+[1] "Updated at 2023-01-27 16:19:47.587"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -208,6 +208,6 @@
 1     2023-01-28 07:00:00
 [1] "____________Anytime Goalscorers______________________"
                          player_name                 team expected_attg expected_gs
-79 /players/332300/christian-burgess Union Saint Gilloise       0.32435   0.1111111
+79 /players/332300/christian-burgess Union Saint Gilloise       0.32435   0.1052632
 [1] "__________________________________"
-[1] "New commit ID #4217"
+[1] "New commit ID #8800"
