@@ -1,105 +1,54 @@
-[1] "Updated at 2023-01-27 16:46:22.026"
+[1] "Updated at 2023-01-28 06:55:35.267"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Cadiz 0.6886 to Mallorca 2.2179"
-[1] "The pass/shot predicted total is 2.9065"
-[1] "Cadiz pass/shot Predicted Win %: 9.88"
-[1] "The pass/shot Predicted Draw % is: 17.85"
-[1] "Mallorca pass/shot Predicted Win %: 72.27"
+[1] "The pass/shot predicted score is Girona FC 1.0467 to Barcelona 1.3716"
+[1] "The pass/shot predicted total is 2.4183"
+[1] "Girona FC pass/shot Predicted Win %: 28.9"
+[1] "The pass/shot Predicted Draw % is: 27.48"
+[1] "Barcelona pass/shot Predicted Win %: 43.62"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Cadiz 0.2595 to Mallorca 1.5477"
-[1] "The xg model predicted total is 1.8072"
-[1] "Cadiz xg model Predicted Win %: 6.19"
-[1] "The xg model Predicted Draw % is: 24.17"
-[1] "Mallorca xg model Predicted Win %: 69.64"
+[1] "The xg model predicted score is Girona FC 0.5279 to Barcelona 2.6185"
+[1] "The xg model predicted total is 3.1464"
+[1] "Girona FC xg model Predicted Win %: 4.69"
+[1] "The xg model Predicted Draw % is: 13.04"
+[1] "Barcelona xg model Predicted Win %: 82.27"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Cadiz 0.4882 to Mallorca 1.147"
-[1] "The xgot model predicted total is 1.6352"
-[1] "Cadiz xgot model Predicted Win %: 15.01"
-[1] "The xgot model Predicted Draw % is: 31.99"
-[1] "Mallorca xgot model Predicted Win %: 53"
+[1] "The xgot model predicted score is Girona FC 0.414 to Barcelona 3.3125"
+[1] "The xgot model predicted total is 3.7265"
+[1] "Girona FC xgot model Predicted Win %: 2.45"
+[1] "The xgot model Predicted Draw % is: 7.32"
+[1] "Barcelona xgot model Predicted Win %: 90.23"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Cadiz 0.6371 to Mallorca 1.0904"
-[1] "The xa model predicted total is 1.7275"
-[1] "Cadiz xa model Predicted Win %: 20.88"
-[1] "The xa model Predicted Draw % is: 32.81"
-[1] "Mallorca xa model Predicted Win %: 46.31"
+[1] "The xa model predicted score is Girona FC 0.9165 to Barcelona 1.4777"
+[1] "The xa model predicted total is 2.3942"
+[1] "Girona FC xa model Predicted Win %: 23.82"
+[1] "The xa model Predicted Draw % is: 26.16"
+[1] "Barcelona xa model Predicted Win %: 50.02"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Cadiz 0.5442 to Mallorca 1.1174"
-[1] "The XAExp model predicted total is 1.6616"
-[1] "Cadiz XAExp model Predicted Win %: 17.06"
-[1] "The XAExp model Predicted Draw % is: 32.19"
-[1] "Mallorca XAExp model Predicted Win %: 50.75"
+[1] "The XAExp model predicted score is Girona FC 0.8756 to Barcelona 1.4083"
+[1] "The XAExp model predicted total is 2.2839"
+[1] "Girona FC XAExp model Predicted Win %: 23.57"
+[1] "The XAExp model Predicted Draw % is: 27.12"
+[1] "Barcelona XAExp model Predicted Win %: 49.31"
 [1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Cadiz winning this match is 13.8 percent, with a minimum chance of 6.19 percent, and a maximum chance of 20.88 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 27.8 percent, with a minimum chance of 17.85 percent, and a maximum chance of 32.81 percent."
-[1] "Our modelled likelihood of Mallorca winning this match is 58.39 percent, with a minimum chance of 46.31 percent, and a maximum chance of 72.27 percent."
-[1] "Our modelled likelihood of Cadiz winning this match OR DRAW is 41.61 percent, with a minimum chance of 27.73 percent, and a maximum chance of 53.69 percent."
-[1] "Our modelled likelihood of Mallorca winning this match OR DRAW is 86.2 percent, with a minimum chance of 79.12 percent, and a maximum chance of 93.81 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 30.91 percent, with a high likelihood of 55.55 and a low likelihood of 22.58 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 69.09 percent, with a high likelihood of 77.42 and a low likelihood of 44.45 percent."
+[1] "Our modelled likelihood of Girona FC winning this match is 16.69 percent, with a minimum chance of 2.45 percent, and a maximum chance of 28.9 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 20.22 percent, with a minimum chance of 7.32 percent, and a maximum chance of 27.48 percent."
+[1] "Our modelled likelihood of Barcelona winning this match is 63.09 percent, with a minimum chance of 43.62 percent, and a maximum chance of 90.23 percent."
+[1] "Our modelled likelihood of Girona FC winning this match OR DRAW is 36.91 percent, with a minimum chance of 9.77 percent, and a maximum chance of 56.38 percent."
+[1] "Our modelled likelihood of Barcelona winning this match OR DRAW is 83.31 percent, with a minimum chance of 71.1 percent, and a maximum chance of 97.55 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 52.91 percent, with a high likelihood of 71.9 and a low likelihood of 39.97 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 47.09 percent, with a high likelihood of 60.03 and a low likelihood of 28.1 percent."
 [1] "--Sportsbook Odds--"
-[1] "Cadiz Barstool Odds are: 34.78"
-[1] "The Barstool Odds of a Draw are: 37.04"
-[1] "Mallorca Barstool Odds are: 33.9"
-[1] "Cadiz Adjusted Barstool Odds are: 32.898"
-[1] "The Adjusted Barstool Odds of a Draw are: 35.036"
-[1] "Mallorca Adjusted Barstool Odds are: 32.066"
-[1] "Cadiz's Barstool Odds to cover the -0.5 spread are: 35.71"
-[1] "Mallorca's Barstool Odds to cover the 0.5 spread are: 68.97"
-[1] "Barstool's line for the total is 2.5 at 3.2, which is a 31.25 percent chance of the over 2.5518902027027 hitting. The line for the under is 1.35, which is a 74.07 percent chance of the under 2.5518902027027 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Girona FC 0.9513 to Barcelona 1.6258"
-[1] "The pass/shot predicted total is 2.5771"
-[1] "Girona FC pass/shot Predicted Win %: 22.52"
-[1] "The pass/shot Predicted Draw % is: 24.96"
-[1] "Barcelona pass/shot Predicted Win %: 52.52"
-[1] "--XG Model--"
-[1] "The xg model predicted score is Girona FC 0.559 to Barcelona 2.6051"
-[1] "The xg model predicted total is 3.1641"
-[1] "Girona FC xg model Predicted Win %: 5.31"
-[1] "The xg model Predicted Draw % is: 13.51"
-[1] "Barcelona xg model Predicted Win %: 81.18"
-[1] "--XGoT Model--"
-[1] "The xgot model predicted score is Girona FC 0.3543 to Barcelona 3.6696"
-[1] "The xgot model predicted total is 4.0239"
-[1] "Girona FC xgot model Predicted Win %: 1.27"
-[1] "The xgot model Predicted Draw % is: 4.95"
-[1] "Barcelona xgot model Predicted Win %: 93.78"
-[1] "--XA Model--"
-[1] "The xa model predicted score is Girona FC 0.8496 to Barcelona 1.8099"
-[1] "The xa model predicted total is 2.6595"
-[1] "Girona FC xa model Predicted Win %: 17.38"
-[1] "The xa model Predicted Draw % is: 22.68"
-[1] "Barcelona xa model Predicted Win %: 59.94"
-[1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Girona FC 0.6753 to Barcelona 1.6822"
-[1] "The XAExp model predicted total is 2.3575"
-[1] "Girona FC XAExp model Predicted Win %: 14.57"
-[1] "The XAExp model Predicted Draw % is: 23.9"
-[1] "Barcelona XAExp model Predicted Win %: 61.53"
-[1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Girona FC winning this match is 12.21 percent, with a minimum chance of 1.27 percent, and a maximum chance of 22.52 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 18 percent, with a minimum chance of 4.95 percent, and a maximum chance of 24.96 percent."
-[1] "Our modelled likelihood of Barcelona winning this match is 69.79 percent, with a minimum chance of 52.52 percent, and a maximum chance of 93.78 percent."
-[1] "Our modelled likelihood of Girona FC winning this match OR DRAW is 30.21 percent, with a minimum chance of 6.22 percent, and a maximum chance of 47.48 percent."
-[1] "Our modelled likelihood of Barcelona winning this match OR DRAW is 87.79 percent, with a minimum chance of 77.48 percent, and a maximum chance of 98.73 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 56.7 percent, with a high likelihood of 76.54 and a low likelihood of 41.91 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 43.3 percent, with a high likelihood of 58.09 and a low likelihood of 23.46 percent."
-[1] "--Sportsbook Odds--"
-[1] "Girona FC Barstool Odds are: 20"
-[1] "The Barstool Odds of a Draw are: 22.73"
-[1] "Barcelona Barstool Odds are: 63.64"
-[1] "Girona FC Adjusted Barstool Odds are: 18.802"
-[1] "The Adjusted Barstool Odds of a Draw are: 21.369"
-[1] "Barcelona Adjusted Barstool Odds are: 59.829"
-[1] "Girona FC's Barstool Odds to cover the 0.5 spread are: 42.55"
-[1] "Barcelona's Barstool Odds to cover the -0.5 spread are: 62.11"
-[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82 percent chance of the over 2.6258259828629 hitting. The line for the under is 2.15, which is a 46.51 percent chance of the under 2.6258259828629 hitting."
+[1] "Girona FC Barstool Odds are: 17.39"
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Barcelona Barstool Odds are: 65.79"
+[1] "Girona FC Adjusted Barstool Odds are: 16.575"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.721"
+[1] "Barcelona Adjusted Barstool Odds are: 62.705"
+[1] "Girona FC's Barstool Odds to cover the 1 spread are: 51.28"
+[1] "Barcelona's Barstool Odds to cover the -1 spread are: 53.19"
+[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52 percent chance of the over 2.6258259828629 hitting. The line for the under is 2.2, which is a 45.45 percent chance of the under 2.6258259828629 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -143,14 +92,14 @@
 [1] "The modelled likelihood of hitting the under 2.5 is 30.29 percent, with a high likelihood of 52.4 and a low likelihood of 13.06 percent."
 [1] "--Sportsbook Odds--"
 [1] "Sevilla FC Barstool Odds are: 66.67"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Elche Barstool Odds are: 14.29"
-[1] "Sevilla FC Adjusted Barstool Odds are: 62.92"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.594"
-[1] "Elche Adjusted Barstool Odds are: 13.486"
-[1] "Sevilla FC's Barstool Odds to cover the -0.5 spread are: 65.36"
-[1] "Elche's Barstool Odds to cover the 0.5 spread are: 39.22"
-[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08 percent chance of the over 2.58709751124859 hitting. The line for the under is 1.75, which is a 57.14 percent chance of the under 2.58709751124859 hitting."
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Elche Barstool Odds are: 13.33"
+[1] "Sevilla FC Adjusted Barstool Odds are: 63.111"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.271"
+[1] "Elche Adjusted Barstool Odds are: 12.618"
+[1] "Sevilla FC's Barstool Odds to cover the -1 spread are: 52.36"
+[1] "Elche's Barstool Odds to cover the 1 spread are: 52.08"
+[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73 percent chance of the over 2.58709751124859 hitting. The line for the under is 1.71, which is a 58.48 percent chance of the under 2.58709751124859 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
 [1] "-----Model Predictions Below-----"
@@ -193,48 +142,49 @@
 [1] "The modelled likelihood of hitting the over 2.5 is 24.95 percent, with a high likelihood of 35.6 and a low likelihood of 11.41 percent."
 [1] "The modelled likelihood of hitting the under 2.5 is 75.05 percent, with a high likelihood of 88.59 and a low likelihood of 64.4 percent."
 [1] "--Sportsbook Odds--"
-[1] "Getafe Barstool Odds are: 31.25"
-[1] "The Barstool Odds of a Draw are: 35.09"
-[1] "Real Betis Barstool Odds are: 38.46"
-[1] "Getafe Adjusted Barstool Odds are: 29.819"
-[1] "The Adjusted Barstool Odds of a Draw are: 33.483"
-[1] "Real Betis Adjusted Barstool Odds are: 36.698"
-[1] "Getafe's Barstool Odds to cover the 0.5 spread are: 65.36"
-[1] "Real Betis's Barstool Odds to cover the -0.5 spread are: 39.22"
-[1] "Barstool's line for the total is 2.5 at 2.9, which is a 34.48 percent chance of the over 2.56276819126819 hitting. The line for the under is 1.41, which is a 70.92 percent chance of the under 2.56276819126819 hitting."
+[1] "Getafe Barstool Odds are: 30.77"
+[1] "The Barstool Odds of a Draw are: 34.78"
+[1] "Real Betis Barstool Odds are: 40"
+[1] "Getafe Adjusted Barstool Odds are: 29.152"
+[1] "The Adjusted Barstool Odds of a Draw are: 32.951"
+[1] "Real Betis Adjusted Barstool Odds are: 37.897"
+[1] "Getafe's Barstool Odds to cover the 0.25 spread are: 58.14"
+[1] "Real Betis's Barstool Odds to cover the -0.25 spread are: 47.62"
+[1] "Barstool's line for the total is 2.5 at 2.88, which is a 34.72 percent chance of the over 2.56276819126819 hitting. The line for the under is 1.42, which is a 70.42 percent chance of the under 2.56276819126819 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-           bet           date_time
-1     Mallorca 2023-01-28 05:00:00
-2 Mallorca ATS 2023-01-28 05:00:00
-3   Getafe ATS 2023-01-28 12:00:00
+                    bet           date_time
+1 over Sevilla FC/Elche 2023-01-28 09:30:00
+2            Getafe ATS 2023-01-28 12:00:00
 [1] "____________Anytime Goalscorers______________________"
                    player_name       team expected_attg expected_gs
 52 /players/25773/ivan-rakitic Sevilla FC     0.3497667   0.2380952
                     player_name       team expected_attg expected_gs
 53 /players/561187/marcos-acuna Sevilla FC     0.2626333   0.1052632
                     player_name  team expected_attg expected_gs
-56 /players/202610/fidel-chaves Elche     0.1769377  0.04166667
+56 /players/202610/fidel-chaves Elche     0.1769377  0.03703704
 [1] "__________________________________"
-[1] "New commit ID #4245"
+[1] "New commit ID #9456"
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oriol Romeu  GIR      3 1.97      0.5076  0.7382   0.2306   tackles LaLiga          NA         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oriol Romeu  GIR      4 2.83      0.3534  0.5636   0.2102   tackles LaLiga          NA         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oriol Romeu  GIR      2 1.31      0.7634  0.8773   0.1139   tackles LaLiga          NA         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oriol Romeu  GIR      5  5.3      0.1887  0.3881   0.1994   tackles LaLiga          NA         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oriol Romeu  GIR      6 10.4      0.0962  0.2412    0.145   tackles LaLiga          NA         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Martin  GIR      2  2.5         0.4  0.5529   0.1529   tackles LaLiga          NA         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Martin  GIR      3 4.65      0.2151  0.3293   0.1142   tackles LaLiga          NA         NA        NA         NA       NA
               player team number  odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Youssef En-Nesyri  SEV      3 12.05       0.083  0.2156   0.1326   tackles LaLiga          NA         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Youssef En-Nesyri  SEV      2 4.45      0.2247  0.4231   0.1984   tackles LaLiga          NA         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     16 1.85          NA  0.9504   0.4099    passes LaLiga      0.5405         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     20  2.3          NA  0.7769   0.3421    passes LaLiga      0.4348         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     24 2.76          NA  0.4721   0.1098    passes LaLiga      0.3623         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     12 1.51          NA  0.9955   0.3332    passes LaLiga      0.6623         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     34 1.85          NA  0.8024   0.2619    passes LaLiga      0.5405         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     38  2.3          NA  0.5786   0.1438    passes LaLiga      0.4348         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     30 1.51          NA  0.9367   0.2744    passes LaLiga      0.6623         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oriol Romeu  GIR     48 1.57          NA   0.777   0.1401    passes LaLiga      0.6369         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1:   Suso  SEV     38 1.85          NA   0.744   0.2035    passes LaLiga      0.5405         NA        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -243,24 +193,6 @@
 1: Enes Unal  GET     18 1.49          NA  0.8114   0.1403    passes LaLiga      0.6711         NA        NA         NA       NA
                           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Juan Antonio Iglesias Sanchez  GET     23 1.53          NA  0.8583   0.2047    passes LaLiga      0.6536         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kang In Lee  MRC      3    5          NA  0.6078   0.4078     shots LaLiga          NA        0.2        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kang In Lee  MRC      4   15          NA  0.4136   0.3469     shots LaLiga          NA     0.0667        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kang In Lee  MRC      5   35          NA  0.2497   0.2211     shots LaLiga          NA     0.0286        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kang In Lee  MRC      2 1.88          NA  0.7921   0.2602     shots LaLiga          NA     0.5319        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      3 1.82          NA  0.7469   0.1974     shots LaLiga          NA     0.5495        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      4 2.98          NA  0.5745   0.2389     shots LaLiga          NA     0.3356        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      6 14.9          NA  0.2506   0.1835     shots LaLiga          NA     0.0671        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      5    6          NA  0.3992   0.2325     shots LaLiga          NA     0.1667        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      7   27          NA  0.1426   0.1056     shots LaLiga          NA      0.037        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Oliver Torres  SEV      2  2.5          NA  0.5094   0.1094     shots LaLiga          NA        0.4        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
@@ -277,18 +209,6 @@
 1:  Portu  GET      4 21.05          NA  0.2264   0.1789     shots LaLiga          NA     0.0475        NA         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1:  Portu  GET      3  7.1          NA  0.4062   0.2654     shots LaLiga          NA     0.1408        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kang In Lee  MRC      3   30          NA  0.1448   0.1115      sogs LaLiga          NA         NA    0.0333         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kang In Lee  MRC      2    9          NA  0.3261    0.215      sogs LaLiga          NA         NA    0.1111         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      1 1.43          NA  0.8381   0.1388      sogs LaLiga          NA         NA    0.6993         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      4   25          NA  0.2325   0.1925      sogs LaLiga          NA         NA      0.04         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      2  3.5          NA  0.6352   0.3495      sogs LaLiga          NA         NA    0.2857         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Vedat Muriqi  MRC      3   10          NA  0.4137   0.3137      sogs LaLiga          NA         NA       0.1         NA       NA
          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Marcos Acuna  SEV      1    4          NA  0.3646   0.1146      sogs LaLiga          NA         NA      0.25         NA       NA
    player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
