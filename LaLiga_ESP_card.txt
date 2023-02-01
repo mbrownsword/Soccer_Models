@@ -1,70 +1,76 @@
-[1] "Updated at 2023-01-30 11:23:48.262"
+[1] "Updated at 2023-02-01 11:27:03.002"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Villarreal 1.0936 to Rayo Vallecano 1.0726"
-[1] "The pass/shot predicted total is 2.1662"
-[1] "Villarreal pass/shot Predicted Win %: 36.5"
-[1] "The pass/shot Predicted Draw % is: 28.81"
-[1] "Rayo Vallecano pass/shot Predicted Win %: 34.69"
+[1] "The pass/shot predicted score is Real Betis 0.7753 to Barcelona 1.6163"
+[1] "The pass/shot predicted total is 2.3916"
+[1] "Real Betis pass/shot Predicted Win %: 18.1"
+[1] "The pass/shot Predicted Draw % is: 24.92"
+[1] "Barcelona pass/shot Predicted Win %: 56.98"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Villarreal 1.1963 to Rayo Vallecano 0.8906"
-[1] "The xg model predicted total is 2.0869"
-[1] "Villarreal xg model Predicted Win %: 43.15"
-[1] "The xg model Predicted Draw % is: 29.65"
-[1] "Rayo Vallecano xg model Predicted Win %: 27.2"
+[1] "The xg model predicted score is Real Betis 1.0512 to Barcelona 1.7177"
+[1] "The xg model predicted total is 2.7689"
+[1] "Real Betis xg model Predicted Win %: 24.24"
+[1] "The xg model Predicted Draw % is: 23.92"
+[1] "Barcelona xg model Predicted Win %: 51.84"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Villarreal 1.3178 to Rayo Vallecano 0.676"
-[1] "The xgot model predicted total is 1.9938"
-[1] "Villarreal xgot model Predicted Win %: 51.61"
-[1] "The xgot model Predicted Draw % is: 29.34"
-[1] "Rayo Vallecano xgot model Predicted Win %: 19.05"
+[1] "The xgot model predicted score is Real Betis 0.8288 to Barcelona 1.7726"
+[1] "The xgot model predicted total is 2.6014"
+[1] "Real Betis xgot model Predicted Win %: 17.32"
+[1] "The xgot model Predicted Draw % is: 23.35"
+[1] "Barcelona xgot model Predicted Win %: 59.33"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Villarreal 0.9844 to Rayo Vallecano 1.0067"
-[1] "The xa model predicted total is 1.9911"
-[1] "Villarreal xa model Predicted Win %: 34.82"
-[1] "The xa model Predicted Draw % is: 31.44"
-[1] "Rayo Vallecano xa model Predicted Win %: 33.74"
+[1] "The xa model predicted score is Real Betis 0.6311 to Barcelona 1.8678"
+[1] "The xa model predicted total is 2.4989"
+[1] "Real Betis xa model Predicted Win %: 11.85"
+[1] "The xa model Predicted Draw % is: 21.14"
+[1] "Barcelona xa model Predicted Win %: 67.01"
 [1] "--XAExp Model--"
-[1] "The XAExp model predicted score is Villarreal 0.8138 to Rayo Vallecano 1.086"
-[1] "The XAExp model predicted total is 1.8998"
-[1] "Villarreal XAExp model Predicted Win %: 27.58"
-[1] "The XAExp model Predicted Draw % is: 31.36"
-[1] "Rayo Vallecano XAExp model Predicted Win %: 41.06"
+[1] "The XAExp model predicted score is Real Betis 0.5374 to Barcelona 1.9098"
+[1] "The XAExp model predicted total is 2.4472"
+[1] "Real Betis XAExp model Predicted Win %: 9.48"
+[1] "The XAExp model Predicted Draw % is: 20.33"
+[1] "Barcelona XAExp model Predicted Win %: 70.19"
 [1] "--Mean 5 Models--"
-[1] "Our modelled likelihood of Villarreal winning this match is 38.73 percent, with a minimum chance of 27.58 percent, and a maximum chance of 51.61 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 30.12 percent, with a minimum chance of 28.81 percent, and a maximum chance of 31.44 percent."
-[1] "Our modelled likelihood of Rayo Vallecano winning this match is 31.15 percent, with a minimum chance of 19.05 percent, and a maximum chance of 41.06 percent."
-[1] "Our modelled likelihood of Villarreal winning this match OR DRAW is 68.85 percent, with a minimum chance of 58.94 percent, and a maximum chance of 80.95 percent."
-[1] "Our modelled likelihood of Rayo Vallecano winning this match OR DRAW is 61.27 percent, with a minimum chance of 48.39 percent, and a maximum chance of 72.42 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 33.08 percent, with a high likelihood of 36.82 and a low likelihood of 29.62 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 66.92 percent, with a high likelihood of 70.38 and a low likelihood of 63.18 percent."
+[1] "Our modelled likelihood of Real Betis winning this match is 16.2 percent, with a minimum chance of 9.48 percent, and a maximum chance of 24.24 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 22.73 percent, with a minimum chance of 20.33 percent, and a maximum chance of 24.92 percent."
+[1] "Our modelled likelihood of Barcelona winning this match is 61.07 percent, with a minimum chance of 51.84 percent, and a maximum chance of 70.19 percent."
+[1] "Our modelled likelihood of Real Betis winning this match OR DRAW is 38.93 percent, with a minimum chance of 29.81 percent, and a maximum chance of 48.16 percent."
+[1] "Our modelled likelihood of Barcelona winning this match OR DRAW is 83.8 percent, with a minimum chance of 75.76 percent, and a maximum chance of 90.52 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 46.68 percent, with a high likelihood of 52.31 and a low likelihood of 42.81 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 53.32 percent, with a high likelihood of 57.19 and a low likelihood of 47.69 percent."
 [1] "--Sportsbook Odds--"
-[1] "Villarreal Barstool Odds are: 58.82"
+[1] "Real Betis Barstool Odds are: 20"
 [1] "The Barstool Odds of a Draw are: 26.32"
-[1] "Rayo Vallecano Barstool Odds are: 20.83"
-[1] "Villarreal Adjusted Barstool Odds are: 55.506"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.837"
-[1] "Rayo Vallecano Adjusted Barstool Odds are: 19.657"
-[1] "Villarreal's Barstool Odds to cover the -0.5 spread are: 57.47"
-[1] "Rayo Vallecano's Barstool Odds to cover the 0.5 spread are: 46.73"
-[1] "Barstool's line for the total is 2.5 at 1.88, which is a 53.19 percent chance of the over 2.58719035202086 hitting. The line for the under is 1.92, which is a 52.08 percent chance of the under 2.58719035202086 hitting."
+[1] "Barcelona Barstool Odds are: 60"
+[1] "Real Betis Adjusted Barstool Odds are: 18.811"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.755"
+[1] "Barcelona Adjusted Barstool Odds are: 56.433"
+[1] "Real Betis's Barstool Odds to cover the 0.5 spread are: 45.87"
+[1] "Barcelona's Barstool Odds to cover the -0.5 spread are: 58.82"
+[1] "Barstool's line for the total is 2.5 at 1.9, which is a 52.63 percent chance of the over 2.62849513085819 hitting. The line for the under is 1.9, which is a 52.63 percent chance of the under 2.62849513085819 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                              bet           date_time
-1  draw Villarreal/Rayo Vallecano 2023-01-30 12:00:00
-2 under Villarreal/Rayo Vallecano 2023-01-30 12:00:00
-3              Rayo Vallecano ATS 2023-01-30 12:00:00
+  bet           date_time
+1     2023-02-01 12:00:00
 [1] "____________Anytime Goalscorers______________________"
 [1] "__________________________________"
-[1] "New commit ID #1797"
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Garcia  RAY     27 1.82          NA  0.9624   0.4129    passes LaLiga      0.5495         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Garcia  RAY     31 2.26          NA  0.8587   0.4162    passes LaLiga      0.4425         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Garcia  RAY     23  1.5          NA  0.9941   0.3274    passes LaLiga      0.6667         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Garcia  RAY     35 2.71          NA  0.6549   0.2859    passes LaLiga       0.369         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Alvaro Garcia  RAY     39 3.48          NA  0.4003   0.1129    passes LaLiga      0.2874         NA        NA         NA       NA
+[1] "New commit ID #9547"
+             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: William Carvalho  BET      4 8.15      0.1227  0.2802   0.1575   tackles LaLiga          NA         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: William Carvalho  BET      3  3.5      0.2857  0.4698   0.1841   tackles LaLiga          NA         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: William Carvalho  BET      2 2.03      0.4926  0.6846    0.192   tackles LaLiga          NA         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Guido Rodriguez  BET      5  3.6      0.2778   0.734   0.4562   tackles LaLiga          NA         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Guido Rodriguez  BET      3  1.4      0.7143  0.9319   0.2176   tackles LaLiga          NA         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Guido Rodriguez  BET      4  2.3      0.4348  0.8513   0.4165   tackles LaLiga          NA         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Guido Rodriguez  BET      6 7.35      0.1361  0.5916   0.4555   tackles LaLiga          NA         NA        NA         NA       NA
+            player team number  odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Guido Rodriguez  BET      7 14.35      0.0697  0.4434   0.3737   tackles LaLiga          NA         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Guido Rodriguez  BET      8 22.7      0.0441  0.3085   0.2644   tackles LaLiga          NA         NA        NA         NA       NA
