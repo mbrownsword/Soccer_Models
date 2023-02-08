@@ -1,50 +1,71 @@
-[1] "Updated at 2023-02-08 11:09:19.625"
+[1] "Updated at 2023-02-08 11:37:49.168"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "The pass/shot predicted score is Manchester United 2.0329 to Leeds United 1.1512"
-[1] "The pass/shot predicted total is 3.1841"
-[1] "Manchester United pass/shot Predicted Win %: 57.99"
-[1] "The pass/shot Predicted Draw % is: 21.3"
-[1] "Leeds United pass/shot Predicted Win %: 20.71"
+[1] "The pass/shot predicted score is Manchester United 1.9956 to Leeds United 1.1226"
+[1] "The pass/shot predicted total is 3.1182"
+[1] "Manchester United pass/shot Predicted Win %: 57.66"
+[1] "The pass/shot Predicted Draw % is: 21.09"
+[1] "Leeds United pass/shot Predicted Win %: 21.25"
 [1] "--XG Model--"
-[1] "The xg model predicted score is Manchester United 2.3951 to Leeds United 1.257"
-[1] "The xg model predicted total is 3.6521"
-[1] "Manchester United xg model Predicted Win %: 63.03"
-[1] "The xg model Predicted Draw % is: 18.42"
-[1] "Leeds United xg model Predicted Win %: 18.55"
+[1] "The xg model predicted score is Manchester United 2.3517 to Leeds United 1.2164"
+[1] "The xg model predicted total is 3.5681"
+[1] "Manchester United xg model Predicted Win %: 62.7"
+[1] "The xg model Predicted Draw % is: 18.99"
+[1] "Leeds United xg model Predicted Win %: 18.31"
 [1] "--XGoT Model--"
-[1] "The xgot model predicted score is Manchester United 2.4818 to Leeds United 1.3521"
-[1] "The xgot model predicted total is 3.8339"
-[1] "Manchester United xgot model Predicted Win %: 62.61"
-[1] "The xgot model Predicted Draw % is: 18.23"
-[1] "Leeds United xgot model Predicted Win %: 19.16"
+[1] "The xgot model predicted score is Manchester United 2.4634 to Leeds United 1.3141"
+[1] "The xgot model predicted total is 3.7775"
+[1] "Manchester United xgot model Predicted Win %: 63.15"
+[1] "The xgot model Predicted Draw % is: 18.03"
+[1] "Leeds United xgot model Predicted Win %: 18.82"
 [1] "--XA Model--"
-[1] "The xa model predicted score is Manchester United 2.3091 to Leeds United 1.247"
-[1] "The xa model predicted total is 3.5561"
-[1] "Manchester United xa model Predicted Win %: 61.54"
-[1] "The xa model Predicted Draw % is: 19.07"
-[1] "Leeds United xa model Predicted Win %: 19.39"
+[1] "The xa model predicted score is Manchester United 2.2825 to Leeds United 1.2208"
+[1] "The xa model predicted total is 3.5033"
+[1] "Manchester United xa model Predicted Win %: 61.99"
+[1] "The xa model Predicted Draw % is: 19.31"
+[1] "Leeds United xa model Predicted Win %: 18.7"
 [1] "--Mean 4 Models--"
-[1] "Our modelled likelihood of Manchester United winning this match is 61.29 percent, with a minimum chance of 57.99 percent, and a maximum chance of 63.03 percent."
-[1] "Our modelled likelihood of a draw occurring in this match is 19.25 percent, with a minimum chance of 18.23 percent, and a maximum chance of 21.3 percent."
-[1] "Our modelled likelihood of Leeds United winning this match is 19.45 percent, with a minimum chance of 18.55 percent, and a maximum chance of 20.71 percent."
-[1] "Our modelled likelihood of Manchester United winning this match OR DRAW is 80.55 percent, with a minimum chance of 79.29 percent, and a maximum chance of 81.45 percent."
-[1] "Our modelled likelihood of Leeds United winning this match OR DRAW is 38.71 percent, with a minimum chance of 36.97 percent, and a maximum chance of 42.01 percent."
-[1] "The modelled likelihood of hitting the over 2.5 is 68.16 percent, with a high likelihood of 73.05 and a low likelihood of 61.43 percent."
-[1] "The modelled likelihood of hitting the under 2.5 is 31.85 percent, with a high likelihood of 38.57 and a low likelihood of 26.95 percent."
+[1] "Our modelled likelihood of Manchester United winning this match is 61.38 percent, with a minimum chance of 57.66 percent, and a maximum chance of 63.15 percent."
+[1] "Our modelled likelihood of a draw occurring in this match is 19.36 percent, with a minimum chance of 18.03 percent, and a maximum chance of 21.09 percent."
+[1] "Our modelled likelihood of Leeds United winning this match is 19.27 percent, with a minimum chance of 18.31 percent, and a maximum chance of 21.25 percent."
+[1] "Our modelled likelihood of Manchester United winning this match OR DRAW is 80.73 percent, with a minimum chance of 78.75 percent, and a maximum chance of 81.69 percent."
+[1] "Our modelled likelihood of Leeds United winning this match OR DRAW is 38.62 percent, with a minimum chance of 36.85 percent, and a maximum chance of 42.34 percent."
+[1] "The modelled likelihood of hitting the over 2.5 is 66.97 percent, with a high likelihood of 72.07 and a low likelihood of 60.2 percent."
+[1] "The modelled likelihood of hitting the under 2.5 is 33.02 percent, with a high likelihood of 39.8 and a low likelihood of 27.93 percent."
 [1] "--Sportsbook Odds--"
 [1] "Manchester United Barstool Odds are: 69.23"
 [1] "The Barstool Odds of a Draw are: 21.74"
-[1] "Leeds United Barstool Odds are: 15.38"
-[1] "Manchester United Adjusted Barstool Odds are: 65.096"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.442"
-[1] "Leeds United Adjusted Barstool Odds are: 14.462"
-[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 67.11"
-[1] "Leeds United's Barstool Odds to cover the 0.5 spread are: 37.04"
-[1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11 percent chance of the over 2.5 hitting. The line for the under is 2.33, which is a 42.92 percent chance of the under 2.5 hitting."
+[1] "Leeds United Barstool Odds are: 14.81"
+[1] "Manchester United Adjusted Barstool Odds are: 65.447"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.552"
+[1] "Leeds United Adjusted Barstool Odds are: 14.001"
+[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 67.57"
+[1] "Leeds United's Barstool Odds to cover the 0.5 spread are: 36.36"
+[1] "Barstool's line for the total is 2.5 at 1.63, which is a 61.35 percent chance of the over 2.5 hitting. The line for the under is 2.28, which is a 43.86 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-           bet           date_time
-1 Leeds United 2023-02-08 12:00:00
+               bet           date_time
+1     Leeds United 2023-02-08 12:00:00
+2 Leeds United ATS 2023-02-08 12:00:00
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Marcus Rashford  MUN     27 1.83          NA  0.6639   0.1175    passes ENG Premier League      0.5464         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Marcus Rashford  MUN     23  1.5          NA  0.8837    0.217    passes ENG Premier League      0.6667         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lisandro Martinez  MUN     71 1.88          NA  0.8235   0.2916    passes ENG Premier League      0.5319         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lisandro Martinez  MUN     75 2.15          NA  0.6804   0.2153    passes ENG Premier League      0.4651         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Lisandro Martinez  MUN     67 1.62          NA  0.9189   0.3016    passes ENG Premier League      0.6173         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Wout Weghorst  MUN     19 1.51          NA  0.7732   0.1109    passes ENG Premier League      0.6623         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Patrick Bamford  LEE     12 1.53          NA  0.8688   0.2152    passes ENG Premier League      0.6536         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luis Sinisterra  LEE     25 1.51          NA  0.7948   0.1325    passes ENG Premier League      0.6623         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Fred  MUN     54 1.85          NA  0.6655    0.125    passes ENG Premier League      0.5405         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:   Fred  MUN     50 1.58          NA  0.8341   0.2012    passes ENG Premier League      0.6329         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
