@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-09 07:27:46.121"
+[1] "Updated at 2023-02-09 07:41:53.425"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -42,7 +42,7 @@
 [1] "Girona FC Adjusted Barstool Odds are: 38.696"
 [1] "Cadiz's Barstool Odds to cover the 0.5 spread are: 63.29"
 [1] "Girona FC's Barstool Odds to cover the -0.5 spread are: 41.15"
-[1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84 percent chance of the over 2.5 hitting. The line for the under is 1.67, which is a 59.88 percent chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45 percent chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52 percent chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
