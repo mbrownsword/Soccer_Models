@@ -1,0 +1,15 @@
+[1] "Updated at 2023-02-09 07:25:45.039"
+[1] "_____________________________________________________________________"
+  bet           date_time
+1     2023-02-10 12:00:00
+          player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ruben Sobrino  CAD     16  1.5          NA   0.787   0.1203    passes ESP LaLiga      0.6667         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luis Hernandez  CAD     47 2.34          NA  0.6382   0.2108    passes ESP LaLiga      0.4274         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luis Hernandez  CAD     43 1.88          NA  0.8255   0.2936    passes ESP LaLiga      0.5319         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luis Hernandez  CAD     39 1.53          NA  0.9379   0.2843    passes ESP LaLiga      0.6536         NA        NA         NA       NA
+                 player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Valentin Castellanos  GIR     13 1.51          NA  0.8878   0.2255    passes ESP LaLiga      0.6623         NA        NA         NA       NA
+[1] "____________Anytime Goalscorers______________________"
