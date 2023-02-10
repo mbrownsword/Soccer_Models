@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-10 07:35:38.142"
+[1] "Updated at 2023-02-10 07:42:09.590"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -49,4 +49,38 @@
 1  draw Arsenal/Brentford 2023-02-11 07:00:00
 2               Brentford 2023-02-11 07:00:00
 3 under Arsenal/Brentford 2023-02-11 07:00:00
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Martin Odegaard  ARS     46 1.58          NA    0.78   0.1471    passes ENG Premier League      0.6329         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pelenda Da Silva  BRE     22 1.85          NA  0.9377   0.3972    passes ENG Premier League      0.5405         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pelenda Da Silva  BRE     26  2.3          NA   0.776   0.3412    passes ENG Premier League      0.4348         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pelenda Da Silva  BRE     30 2.76          NA  0.5078   0.1455    passes ENG Premier League      0.3623         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Pelenda Da Silva  BRE     18 1.51          NA  0.9908   0.3285    passes ENG Premier League      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Mathias Jensen  BRE     27 1.51          NA  0.8393    0.177    passes ENG Premier League      0.6623         NA        NA         NA       NA
+               player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Christian Norgaard  BRE     38 1.51          NA  0.8098   0.1475    passes ENG Premier League      0.6623         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kristoffer Ajer  BRE     34  2.3          NA  0.9098    0.475    passes ENG Premier League      0.4348         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kristoffer Ajer  BRE     42 3.55          NA  0.5299   0.2482    passes ENG Premier League      0.2817         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kristoffer Ajer  BRE     38 2.76          NA   0.757   0.3947    passes ENG Premier League      0.3623         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kristoffer Ajer  BRE     30 1.85          NA  0.9777   0.4372    passes ENG Premier League      0.5405         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kristoffer Ajer  BRE     26 1.51          NA  0.9966   0.3343    passes ENG Premier League      0.6623         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ethan Pinnock  BRE     35 1.85          NA  0.8525    0.312    passes ENG Premier League      0.5405         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ethan Pinnock  BRE     39 2.23          NA  0.6582   0.2098    passes ENG Premier League      0.4484         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ethan Pinnock  BRE     31 1.55          NA  0.9565   0.3113    passes ENG Premier League      0.6452         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      2  5.2          NA  0.4057   0.2134     shots ENG Premier League          NA     0.1923        NA         NA       NA
+              player team number  odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Magalhaes  ARS      3 14.95          NA   0.202   0.1351     shots ENG Premier League          NA     0.0669        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
