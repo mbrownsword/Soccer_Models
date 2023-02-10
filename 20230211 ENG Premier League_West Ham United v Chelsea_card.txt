@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-10 07:32:39.956"
+[1] "Updated at 2023-02-10 07:39:17.810"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -47,4 +47,16 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-11 04:30:00
+         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jarrod Bowen  WHU     22 1.82          NA  0.8618   0.3123    passes ENG Premier League      0.5495         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jarrod Bowen  WHU     26 2.25          NA  0.6179   0.1735    passes ENG Premier League      0.4444         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jarrod Bowen  WHU     18 1.49          NA  0.9728   0.3017    passes ENG Premier League      0.6711         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Michail Antonio  WHU     13 1.68          NA  0.7042    0.109    passes ENG Premier League      0.5952         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Michail Antonio  WHU      9  1.4          NA  0.9509   0.2366    passes ENG Premier League      0.7143         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Said Benrahma  WHU     27 1.52          NA  0.8155   0.1576    passes ENG Premier League      0.6579         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
