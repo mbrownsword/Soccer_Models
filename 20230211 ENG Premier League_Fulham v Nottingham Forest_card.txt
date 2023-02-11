@@ -1,58 +1,62 @@
-[1] "Updated at 2023-02-10 07:49:12.990"
+[1] "Updated at 2023-02-11 06:42:26.206"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Fulham 1.4045 to Nottingham Forest 1.0202"
-[1] "Total: 2.4247"
-[1] "Fulham %: 45.8"
-[1] "Draw %: 26.6"
-[1] "Nottingham Forest %: 27.6"
+[1] "Score: Fulham 1.366 to Nottingham Forest 0.9781"
+[1] "Total: 2.3441"
+[1] "Fulham %: 46.53"
+[1] "Draw %: 26.56"
+[1] "Nottingham Forest %: 26.91"
 [1] "--XG Model--"
-[1] "Score: Fulham 1.7018 to Nottingham Forest 1.1819"
-[1] "Total: 2.8837"
-[1] "Fulham %: 50.47"
-[1] "Draw %: 23.81"
-[1] "Nottingham Forest %: 25.72"
+[1] "Score: Fulham 1.652 to Nottingham Forest 1.113"
+[1] "Total: 2.765"
+[1] "Fulham %: 50.53"
+[1] "Draw %: 24.03"
+[1] "Nottingham Forest %: 25.44"
 [1] "--XGoT Model--"
-[1] "Score: Fulham 1.6697 to Nottingham Forest 1.1686"
-[1] "Total: 2.8383"
-[1] "Fulham %: 50.34"
-[1] "Draw %: 23.61"
-[1] "Nottingham Forest %: 26.05"
+[1] "Score: Fulham 1.6333 to Nottingham Forest 1.1194"
+[1] "Total: 2.7527"
+[1] "Fulham %: 49.7"
+[1] "Draw %: 24.37"
+[1] "Nottingham Forest %: 25.93"
 [1] "--XA Model--"
-[1] "Score: Fulham 1.5161 to Nottingham Forest 1.0687"
-[1] "Total: 2.5848"
-[1] "Fulham %: 47.76"
-[1] "Draw %: 24.94"
-[1] "Nottingham Forest %: 27.3"
+[1] "Score: Fulham 1.4758 to Nottingham Forest 1.0441"
+[1] "Total: 2.5199"
+[1] "Fulham %: 47.62"
+[1] "Draw %: 25.55"
+[1] "Nottingham Forest %: 26.83"
 [1] "--Mean 4 Models--"
-[1] "Fulham has a mean win % of 48.59%; a min win % of 45.8%; a max win % of 50.47%."
-[1] "Draw has a mean win % of 24.74%; a min win % of 23.61%; a max win % of 26.6%."
-[1] "Nottingham Forest has a mean win % of 26.67%; a min win % of 25.72%; a max win of % 27.6%."
-[1] "Fulham has a mean win of the Double Chance of 73.33%; a min win % of 72.4%, a max win % of 74.28%."
-[1] "Nottingham Forest has a mean win of the Double Chance of 51.41%; a min win % of 49.53%, a max win % of 54.2%."
-[1] "The mean likelihood that there are more than 2.5 goals is 49.13%; max % is 53.99 and min % is 42.22%."
-[1] "The mean likelihood that there are more than 2.5 goals is 50.87%; max % is 57.78 and min % is 46.01%."
+[1] "Fulham has a mean win % of 48.59%; a min win % of 46.53%; a max win % of 50.53%."
+[1] "Draw has a mean win % of 25.13%; a min win % of 24.03%; a max win % of 26.56%."
+[1] "Nottingham Forest has a mean win % of 26.28%; a min win % of 25.44%; a max win of % 26.91%."
+[1] "Fulham has a mean win of the Double Chance of 73.72%; a min win % of 73.09%, a max win % of 74.56%."
+[1] "Nottingham Forest has a mean win of the Double Chance of 51.41%; a min win % of 49.47%, a max win % of 53.47%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.82%; max % is 50.94 and min % is 40.58%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.18%; max % is 59.42 and min % is 49.06%."
 [1] "--Sportsbook Odds--"
 [1] "Fulham Barstool Odds are: 54.05"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Nottingham Forest Barstool Odds are: 22.73"
-[1] "Fulham Adjusted Barstool Odds are: 51.693"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.568"
-[1] "Nottingham Forest Adjusted Barstool Odds are: 21.739"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Nottingham Forest Barstool Odds are: 22.22"
+[1] "Fulham Adjusted Barstool Odds are: 51.555"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.251"
+[1] "Nottingham Forest Adjusted Barstool Odds are: 21.194"
 [1] "Fulham's Barstool Odds to cover the -0.5 spread are: 54.05"
 [1] "Nottingham Forest's Barstool Odds to cover the 0.5 spread are: 50.51"
-[1] "Barstool's line for the total is 2.5 at 1.97, which is a 50.76% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.94, which is a 51.55% chance of the over 2.5 hitting. The line for the under is 1.87, which is a 53.48% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                 bet           date_time
 1 Nottingham Forest 2023-02-11 07:00:00
-            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Brennan Johnson  NOF     12 1.82          NA  0.8324   0.2829    passes ENG Premier League      0.5495         NA        NA         NA       NA
-            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Brennan Johnson  NOF      8 1.49          NA  0.9824   0.3113    passes ENG Premier League      0.6711         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Scott McKenna  NOF     32 1.59          NA   0.784   0.1551    passes ENG Premier League      0.6289         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Chris Wood  NOF     13 1.49          NA  0.7967   0.1256    passes ENG Premier League      0.6711         NA        NA         NA       NA
+1: Harrison Reed  FUL     50 1.58          NA  0.7907   0.1578    passes ENG Premier League      0.6329         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brennan Johnson  NOF     12 1.82          NA  0.8091   0.2596    passes ENG Premier League      0.5495         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Brennan Johnson  NOF      8 1.49          NA  0.9784   0.3073    passes ENG Premier League      0.6711         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Scott McKenna  NOF     32 1.59          NA  0.8066   0.1777    passes ENG Premier League      0.6289         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Remo Freuler  NOF     41 1.86          NA  0.7301   0.1925    passes ENG Premier League      0.5376         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Remo Freuler  NOF     37 1.54          NA  0.8913   0.2419    passes ENG Premier League      0.6494         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
