@@ -1,86 +1,82 @@
-[1] "Updated at 2023-02-10 07:42:09.590"
+[1] "Updated at 2023-02-11 06:34:53.463"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Arsenal 1.6051 to Brentford 0.9592"
-[1] "Total: 2.5643"
-[1] "Arsenal %: 52.97"
-[1] "Draw %: 24.51"
-[1] "Brentford %: 22.52"
+[1] "Score: Arsenal 1.604 to Brentford 0.9447"
+[1] "Total: 2.5487"
+[1] "Arsenal %: 53.68"
+[1] "Draw %: 24.35"
+[1] "Brentford %: 21.97"
 [1] "--XG Model--"
-[1] "Score: Arsenal 1.7766 to Brentford 0.9968"
-[1] "Total: 2.7734"
-[1] "Arsenal %: 56.46"
-[1] "Draw %: 22.71"
-[1] "Brentford %: 20.83"
+[1] "Score: Arsenal 1.7796 to Brentford 1.0003"
+[1] "Total: 2.7799"
+[1] "Arsenal %: 56.35"
+[1] "Draw %: 22.78"
+[1] "Brentford %: 20.87"
 [1] "--XGoT Model--"
-[1] "Score: Arsenal 1.7868 to Brentford 1.025"
-[1] "Total: 2.8118"
-[1] "Arsenal %: 55.61"
-[1] "Draw %: 23.14"
-[1] "Brentford %: 21.25"
+[1] "Score: Arsenal 1.7897 to Brentford 1.0317"
+[1] "Total: 2.8214"
+[1] "Arsenal %: 55.48"
+[1] "Draw %: 23.21"
+[1] "Brentford %: 21.31"
 [1] "--XA Model--"
-[1] "Score: Arsenal 1.6915 to Brentford 1.0134"
-[1] "Total: 2.7049"
-[1] "Arsenal %: 53.94"
-[1] "Draw %: 24.15"
-[1] "Brentford %: 21.91"
+[1] "Score: Arsenal 1.6872 to Brentford 1.02"
+[1] "Total: 2.7072"
+[1] "Arsenal %: 53.51"
+[1] "Draw %: 24.24"
+[1] "Brentford %: 22.25"
 [1] "--Mean 4 Models--"
-[1] "Arsenal has a mean win % of 54.74%; a min win % of 52.97%; a max win % of 56.46%."
-[1] "Draw has a mean win % of 23.63%; a min win % of 22.71%; a max win % of 24.51%."
-[1] "Brentford has a mean win % of 21.63%; a min win % of 20.83%; a max win of % 22.52%."
-[1] "Arsenal has a mean win of the Double Chance of 78.37%; a min win % of 77.48%, a max win % of 79.17%."
-[1] "Brentford has a mean win of the Double Chance of 45.26%; a min win % of 43.54%, a max win % of 47.03%."
-[1] "The mean likelihood that there are more than 2.5 goals is 50.36%; max % is 52.93 and min % is 46.61%."
-[1] "The mean likelihood that there are more than 2.5 goals is 49.65%; max % is 53.39 and min % is 47.07%."
+[1] "Arsenal has a mean win % of 54.75%; a min win % of 53.51%; a max win % of 56.35%."
+[1] "Draw has a mean win % of 23.64%; a min win % of 22.78%; a max win % of 24.35%."
+[1] "Brentford has a mean win % of 21.6%; a min win % of 20.87%; a max win of % 22.25%."
+[1] "Arsenal has a mean win of the Double Chance of 78.4%; a min win % of 77.75%, a max win % of 79.13%."
+[1] "Brentford has a mean win of the Double Chance of 45.25%; a min win % of 43.65%, a max win % of 46.49%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.45%; max % is 53.3 and min % is 46.23%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.56%; max % is 53.77 and min % is 46.7%."
 [1] "--Sportsbook Odds--"
-[1] "Arsenal Barstool Odds are: 69.44"
-[1] "The Barstool Odds of a Draw are: 21.05"
-[1] "Brentford Barstool Odds are: 13.33"
-[1] "Arsenal Adjusted Barstool Odds are: 66.885"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.275"
-[1] "Brentford Adjusted Barstool Odds are: 12.84"
+[1] "Arsenal Barstool Odds are: 64.52"
+[1] "The Barstool Odds of a Draw are: 23.81"
+[1] "Brentford Barstool Odds are: 16"
+[1] "Arsenal Adjusted Barstool Odds are: 61.842"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.822"
+[1] "Brentford Adjusted Barstool Odds are: 15.336"
 [1] "Arsenal's Barstool Odds to cover the  spread are: NA"
 [1] "Brentford's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.14, which is a 46.73% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14% chance of the over 2.5 hitting. The line for the under is 2.08, which is a 48.08% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                      bet           date_time
-1  draw Arsenal/Brentford 2023-02-11 07:00:00
-2               Brentford 2023-02-11 07:00:00
-3 under Arsenal/Brentford 2023-02-11 07:00:00
+        bet           date_time
+1 Brentford 2023-02-11 07:00:00
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Martin Odegaard  ARS     46 1.58          NA    0.78   0.1471    passes ENG Premier League      0.6329         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pelenda Da Silva  BRE     22 1.85          NA  0.9377   0.3972    passes ENG Premier League      0.5405         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pelenda Da Silva  BRE     26  2.3          NA   0.776   0.3412    passes ENG Premier League      0.4348         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pelenda Da Silva  BRE     30 2.76          NA  0.5078   0.1455    passes ENG Premier League      0.3623         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Pelenda Da Silva  BRE     18 1.51          NA  0.9908   0.3285    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Martin Odegaard  ARS     46 1.58          NA  0.8166   0.1837    passes ENG Premier League      0.6329         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Mathias Jensen  BRE     27 1.51          NA  0.8393    0.177    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Mathias Jensen  BRE     31 1.85          NA  0.6915    0.151    passes ENG Premier League      0.5405         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Mathias Jensen  BRE     27 1.51          NA  0.8881   0.2258    passes ENG Premier League      0.6623         NA        NA         NA       NA
                player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Christian Norgaard  BRE     38 1.51          NA  0.8098   0.1475    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Christian Norgaard  BRE     42 1.85          NA  0.7001   0.1596    passes ENG Premier League      0.5405         NA        NA         NA       NA
+               player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Christian Norgaard  BRE     38 1.51          NA  0.8727   0.2104    passes ENG Premier League      0.6623         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kristoffer Ajer  BRE     34  2.3          NA  0.9098    0.475    passes ENG Premier League      0.4348         NA        NA         NA       NA
+1: Kristoffer Ajer  BRE     34  2.3          NA  0.9342   0.4994    passes ENG Premier League      0.4348         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kristoffer Ajer  BRE     42 3.55          NA  0.5299   0.2482    passes ENG Premier League      0.2817         NA        NA         NA       NA
+1: Kristoffer Ajer  BRE     42 3.55          NA  0.5982   0.3165    passes ENG Premier League      0.2817         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kristoffer Ajer  BRE     38 2.76          NA   0.757   0.3947    passes ENG Premier League      0.3623         NA        NA         NA       NA
+1: Kristoffer Ajer  BRE     38 2.76          NA  0.8071   0.4448    passes ENG Premier League      0.3623         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kristoffer Ajer  BRE     30 1.85          NA  0.9777   0.4372    passes ENG Premier League      0.5405         NA        NA         NA       NA
+1: Kristoffer Ajer  BRE     30 1.85          NA  0.9851   0.4446    passes ENG Premier League      0.5405         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Kristoffer Ajer  BRE     26 1.51          NA  0.9966   0.3343    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Kristoffer Ajer  BRE     46  4.9          NA  0.3627   0.1586    passes ENG Premier League      0.2041         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kristoffer Ajer  BRE     26 1.51          NA  0.9979   0.3356    passes ENG Premier League      0.6623         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ethan Pinnock  BRE     35 1.85          NA  0.8525    0.312    passes ENG Premier League      0.5405         NA        NA         NA       NA
+1: Ethan Pinnock  BRE     35 1.85          NA  0.8878   0.3473    passes ENG Premier League      0.5405         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ethan Pinnock  BRE     39 2.23          NA  0.6582   0.2098    passes ENG Premier League      0.4484         NA        NA         NA       NA
+1: Ethan Pinnock  BRE     39 2.23          NA  0.7184     0.27    passes ENG Premier League      0.4484         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ethan Pinnock  BRE     31 1.55          NA  0.9565   0.3113    passes ENG Premier League      0.6452         NA        NA         NA       NA
+1: Ethan Pinnock  BRE     31 1.55          NA  0.9697   0.3245    passes ENG Premier League      0.6452         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Gabriel Magalhaes  ARS      2  5.2          NA  0.4057   0.2134     shots ENG Premier League          NA     0.1923        NA         NA       NA
+1: Gabriel Magalhaes  ARS      2  5.2          NA  0.3866   0.1943     shots ENG Premier League          NA     0.1923        NA         NA       NA
               player team number  odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Gabriel Magalhaes  ARS      3 14.95          NA   0.202   0.1351     shots ENG Premier League          NA     0.0669        NA         NA       NA
+1: Gabriel Magalhaes  ARS      3 14.95          NA  0.1875   0.1206     shots ENG Premier League          NA     0.0669        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
