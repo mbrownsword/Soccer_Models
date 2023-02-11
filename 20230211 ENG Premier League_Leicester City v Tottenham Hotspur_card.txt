@@ -1,56 +1,70 @@
-[1] "Updated at 2023-02-10 07:52:33.994"
+[1] "Updated at 2023-02-11 06:45:59.397"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Leicester City 1.0943 to Tottenham Hotspur 1.5519"
-[1] "Total: 2.6462"
-[1] "Leicester City %: 28.02"
-[1] "Draw %: 25.11"
-[1] "Tottenham Hotspur %: 46.87"
+[1] "Score: Leicester City 1.0742 to Tottenham Hotspur 1.5247"
+[1] "Total: 2.5989"
+[1] "Leicester City %: 27.84"
+[1] "Draw %: 25.59"
+[1] "Tottenham Hotspur %: 46.57"
 [1] "--XG Model--"
-[1] "Score: Leicester City 1.1987 to Tottenham Hotspur 1.8189"
-[1] "Total: 3.0176"
-[1] "Leicester City %: 24.09"
-[1] "Draw %: 23.72"
-[1] "Tottenham Hotspur %: 52.19"
+[1] "Score: Leicester City 1.1989 to Tottenham Hotspur 1.8084"
+[1] "Total: 3.0073"
+[1] "Leicester City %: 24.19"
+[1] "Draw %: 23.75"
+[1] "Tottenham Hotspur %: 52.06"
 [1] "--XGoT Model--"
-[1] "Score: Leicester City 1.2156 to Tottenham Hotspur 1.7426"
-[1] "Total: 2.9582"
-[1] "Leicester City %: 26.16"
-[1] "Draw %: 24.3"
-[1] "Tottenham Hotspur %: 49.54"
+[1] "Score: Leicester City 1.2144 to Tottenham Hotspur 1.7411"
+[1] "Total: 2.9555"
+[1] "Leicester City %: 26.1"
+[1] "Draw %: 24.32"
+[1] "Tottenham Hotspur %: 49.58"
 [1] "--XA Model--"
-[1] "Score: Leicester City 1.183 to Tottenham Hotspur 1.568"
-[1] "Total: 2.751"
-[1] "Leicester City %: 28.79"
-[1] "Draw %: 25.44"
-[1] "Tottenham Hotspur %: 45.77"
+[1] "Score: Leicester City 1.1771 to Tottenham Hotspur 1.559"
+[1] "Total: 2.7361"
+[1] "Leicester City %: 28.99"
+[1] "Draw %: 25.61"
+[1] "Tottenham Hotspur %: 45.4"
 [1] "--Mean 4 Models--"
-[1] "Leicester City has a mean win % of 26.76%; a min win % of 24.09%; a max win % of 28.79%."
-[1] "Draw has a mean win % of 24.64%; a min win % of 23.72%; a max win % of 25.44%."
-[1] "Tottenham Hotspur has a mean win % of 48.59%; a min win % of 45.77%; a max win of % 52.19%."
-[1] "Leicester City has a mean win of the Double Chance of 51.41%; a min win % of 47.81%, a max win % of 54.23%."
-[1] "Tottenham Hotspur has a mean win of the Double Chance of 73.24%; a min win % of 71.21%, a max win % of 75.91%."
-[1] "The mean likelihood that there are more than 2.5 goals is 53.25%; max % is 57.16 and min % is 49%."
-[1] "The mean likelihood that there are more than 2.5 goals is 46.75%; max % is 51 and min % is 42.84%."
+[1] "Leicester City has a mean win % of 26.78%; a min win % of 24.19%; a max win % of 28.99%."
+[1] "Draw has a mean win % of 24.82%; a min win % of 23.75%; a max win % of 25.61%."
+[1] "Tottenham Hotspur has a mean win % of 48.4%; a min win % of 45.4%; a max win of % 52.06%."
+[1] "Leicester City has a mean win of the Double Chance of 51.6%; a min win % of 47.94%, a max win % of 54.6%."
+[1] "Tottenham Hotspur has a mean win of the Double Chance of 73.22%; a min win % of 71.01%, a max win % of 75.81%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.74%; max % is 56.96 and min % is 47.72%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.26%; max % is 52.28 and min % is 43.04%."
 [1] "--Sportsbook Odds--"
-[1] "Leicester City Barstool Odds are: 29.85"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Tottenham Hotspur Barstool Odds are: 47.62"
-[1] "Leicester City Adjusted Barstool Odds are: 28.361"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.394"
-[1] "Tottenham Hotspur Adjusted Barstool Odds are: 45.245"
-[1] "Leicester City's Barstool Odds to cover the 0.5 spread are: 56.82"
-[1] "Tottenham Hotspur's Barstool Odds to cover the -0.5 spread are: 48.08"
-[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.12, which is a 47.17% chance of the under 2.5 hitting."
+[1] "Leicester City Barstool Odds are: 27.78"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Tottenham Hotspur Barstool Odds are: 50"
+[1] "Leicester City Adjusted Barstool Odds are: 26.686"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.283"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 48.031"
+[1] "Leicester City's Barstool Odds to cover the -0.5 spread are: 28.99"
+[1] "Tottenham Hotspur's Barstool Odds to cover the 0.5 spread are: 75.19"
+[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-11 07:00:00
+      player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     68 1.88          NA  0.6566   0.1247    passes ENG Premier League      0.5319         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     64  1.6          NA  0.8125   0.1875    passes ENG Premier League       0.625         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     54 1.88          NA  0.6502   0.1183    passes ENG Premier League      0.5319         NA        NA         NA       NA
+       player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ben Davies  TOT     50  1.6          NA  0.8236   0.1986    passes ENG Premier League       0.625         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Harry Kane  TOT     18 1.51          NA  0.8676   0.2053    passes ENG Premier League      0.6623         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Harvey Barnes  LEI     21 1.51          NA  0.7806   0.1183    passes ENG Premier League      0.6623         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     35 1.85          NA  0.6647   0.1242    passes ENG Premier League      0.5405         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     31 1.51          NA  0.8645   0.2022    passes ENG Premier League      0.6623         NA        NA         NA       NA
+                  player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kiernan Dewsbury-Hall  LEI     41 1.82          NA  0.6908   0.1413    passes ENG Premier League      0.5495         NA        NA         NA       NA
+                  player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kiernan Dewsbury-Hall  LEI     37  1.5          NA  0.8688   0.2021    passes ENG Premier League      0.6667         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
-                        pageUrl2              team expected_attg expected_gs
-1: /players/212867/heung-min-son Tottenham Hotspur       0.29485  0.02439024
