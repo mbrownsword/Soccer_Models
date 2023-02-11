@@ -1,66 +1,64 @@
-[1] "Updated at 2023-02-10 07:59:01.742"
+[1] "Updated at 2023-02-11 09:13:49.770"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: AFC Bournemouth 0.6476 to Newcastle 1.4398"
-[1] "Total: 2.0874"
-[1] "AFC Bournemouth %: 16.75"
-[1] "Draw %: 27.04"
-[1] "Newcastle %: 56.21"
+[1] "Score: AFC Bournemouth 0.6344 to Newcastle 1.3909"
+[1] "Total: 2.0253"
+[1] "AFC Bournemouth %: 16.92"
+[1] "Draw %: 27.7"
+[1] "Newcastle %: 55.38"
 [1] "--XG Model--"
-[1] "Score: AFC Bournemouth 0.5667 to Newcastle 1.8297"
-[1] "Total: 2.3964"
-[1] "AFC Bournemouth %: 10.86"
-[1] "Draw %: 20.78"
-[1] "Newcastle %: 68.36"
+[1] "Score: AFC Bournemouth 0.5238 to Newcastle 1.7044"
+[1] "Total: 2.2282"
+[1] "AFC Bournemouth %: 10.57"
+[1] "Draw %: 22.53"
+[1] "Newcastle %: 66.9"
 [1] "--XGoT Model--"
-[1] "Score: AFC Bournemouth 0.6326 to Newcastle 1.7701"
-[1] "Total: 2.4027"
-[1] "AFC Bournemouth %: 12.58"
-[1] "Draw %: 22.25"
-[1] "Newcastle %: 65.17"
+[1] "Score: AFC Bournemouth 0.5369 to Newcastle 1.7418"
+[1] "Total: 2.2787"
+[1] "AFC Bournemouth %: 10.64"
+[1] "Draw %: 22.21"
+[1] "Newcastle %: 67.15"
 [1] "--XA Model--"
-[1] "Score: AFC Bournemouth 0.7653 to Newcastle 1.6063"
-[1] "Total: 2.3716"
-[1] "AFC Bournemouth %: 18.17"
-[1] "Draw %: 24.79"
-[1] "Newcastle %: 57.04"
+[1] "Score: AFC Bournemouth 0.7588 to Newcastle 1.582"
+[1] "Total: 2.3408"
+[1] "AFC Bournemouth %: 18.22"
+[1] "Draw %: 25.15"
+[1] "Newcastle %: 56.63"
 [1] "--Mean 4 Models--"
-[1] "AFC Bournemouth has a mean win % of 14.59%; a min win % of 10.86%; a max win % of 18.17%."
-[1] "Draw has a mean win % of 23.72%; a min win % of 20.78%; a max win % of 27.04%."
-[1] "Newcastle has a mean win % of 61.7%; a min win % of 56.21%; a max win of % 68.36%."
-[1] "AFC Bournemouth has a mean win of the Double Chance of 38.3%; a min win % of 31.64%, a max win % of 43.79%."
-[1] "Newcastle has a mean win of the Double Chance of 85.41%; a min win % of 81.83%, a max win % of 89.14%."
-[1] "The mean likelihood that there are more than 2.5 goals is 40.34%; max % is 42.62 and min % is 34.13%."
-[1] "The mean likelihood that there are more than 2.5 goals is 59.66%; max % is 65.87 and min % is 57.38%."
+[1] "AFC Bournemouth has a mean win % of 14.09%; a min win % of 10.57%; a max win % of 18.22%."
+[1] "Draw has a mean win % of 24.4%; a min win % of 22.21%; a max win % of 27.7%."
+[1] "Newcastle has a mean win % of 61.52%; a min win % of 55.38%; a max win of % 67.15%."
+[1] "AFC Bournemouth has a mean win of the Double Chance of 38.48%; a min win % of 32.85%, a max win % of 44.62%."
+[1] "Newcastle has a mean win of the Double Chance of 85.91%; a min win % of 81.78%, a max win % of 89.43%."
+[1] "The mean likelihood that there are more than 2.5 goals is 37.89%; max % is 40.92 and min % is 32.35%."
+[1] "The mean likelihood that there are more than 2.5 goals is 62.11%; max % is 67.65 and min % is 59.08%."
 [1] "--Sportsbook Odds--"
-[1] "AFC Bournemouth Barstool Odds are: 15.62"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Newcastle Barstool Odds are: 64.52"
-[1] "AFC Bournemouth Adjusted Barstool Odds are: 14.856"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.778"
-[1] "Newcastle Adjusted Barstool Odds are: 61.366"
-[1] "AFC Bournemouth's Barstool Odds to cover the 0.5 spread are: 40.32"
-[1] "Newcastle's Barstool Odds to cover the -0.5 spread are: 64.1"
-[1] "Barstool's line for the total is 2.5 at 1.97, which is a 50.76% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
+[1] "AFC Bournemouth Barstool Odds are: 16.67"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Newcastle Barstool Odds are: 62.5"
+[1] "AFC Bournemouth Adjusted Barstool Odds are: 15.905"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.463"
+[1] "Newcastle Adjusted Barstool Odds are: 59.632"
+[1] "AFC Bournemouth's Barstool Odds to cover the 0.5 spread are: 42.55"
+[1] "Newcastle's Barstool Odds to cover the -0.5 spread are: 62.11"
+[1] "Barstool's line for the total is 2.5 at 1.93, which is a 51.81% chance of the over 2.5 hitting. The line for the under is 1.87, which is a 53.48% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                               bet           date_time
 1 under AFC Bournemouth/Newcastle 2023-02-11 09:30:00
       player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Joelinton  NEW     52 1.85          NA  0.6986   0.1581    passes ENG Premier League      0.5405         NA        NA         NA       NA
+1: Joelinton  NEW     52 1.85          NA  0.8446   0.3041    passes ENG Premier League      0.5405         NA        NA         NA       NA
       player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Joelinton  NEW     48 1.58          NA  0.8583   0.2254    passes ENG Premier League      0.6329         NA        NA         NA       NA
+1: Joelinton  NEW     56 2.17          NA  0.6849   0.2241    passes ENG Premier League      0.4608         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Joelinton  NEW     48 1.58          NA  0.9406   0.3077    passes ENG Premier League      0.6329         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Joseph Willock  NEW     40 1.85          NA  0.7432   0.2027    passes ENG Premier League      0.5405         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Joseph Willock  NEW     36 1.51          NA  0.8999   0.2376    passes ENG Premier League      0.6623         NA        NA         NA       NA
-                player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Allan Saint-Maximin  NEW     26 1.51          NA  0.8303    0.168    passes ENG Premier League      0.6623         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Callum Wilson  NEW     16 1.85          NA  0.7389   0.1984    passes ENG Premier League      0.5405         NA        NA         NA       NA
-          player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Callum Wilson  NEW     12 1.51          NA  0.9494   0.2871    passes ENG Premier League      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Alexander Isak  NEW     16 1.51          NA   0.766   0.1037    passes ENG Premier League      0.6623         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Sean Longstaff  NEW     63 2.08          NA   0.687   0.2062    passes ENG Premier League      0.4808         NA        NA         NA       NA
            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
