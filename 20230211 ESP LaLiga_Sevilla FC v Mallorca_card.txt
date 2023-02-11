@@ -1,67 +1,79 @@
-[1] "Updated at 2023-02-10 08:38:43.274"
+[1] "Updated at 2023-02-11 09:00:59.420"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Sevilla FC 1.3802 to Mallorca 1.147"
-[1] "Total: 2.5272"
-[1] "Sevilla FC %: 42.47"
-[1] "Draw %: 26.16"
-[1] "Mallorca %: 31.37"
+[1] "Score: Sevilla FC 1.2783 to Mallorca 1.1197"
+[1] "Total: 2.398"
+[1] "Sevilla FC %: 40.71"
+[1] "Draw %: 27.45"
+[1] "Mallorca %: 31.84"
 [1] "--XG Model--"
-[1] "Score: Sevilla FC 1.3754 to Mallorca 1.0793"
-[1] "Total: 2.4547"
-[1] "Sevilla FC %: 44.26"
-[1] "Draw %: 26.22"
-[1] "Mallorca %: 29.52"
+[1] "Score: Sevilla FC 1.349 to Mallorca 1.1383"
+[1] "Total: 2.4873"
+[1] "Sevilla FC %: 41.84"
+[1] "Draw %: 26.8"
+[1] "Mallorca %: 31.36"
 [1] "--XGoT Model--"
-[1] "Score: Sevilla FC 1.4826 to Mallorca 1.0845"
-[1] "Total: 2.5671"
-[1] "Sevilla FC %: 46.62"
-[1] "Draw %: 25.3"
-[1] "Mallorca %: 28.08"
+[1] "Score: Sevilla FC 1.5066 to Mallorca 1.1635"
+[1] "Total: 2.6701"
+[1] "Sevilla FC %: 45.08"
+[1] "Draw %: 25.11"
+[1] "Mallorca %: 29.81"
 [1] "--XA Model--"
-[1] "Score: Sevilla FC 1.3712 to Mallorca 0.8835"
-[1] "Total: 2.2547"
-[1] "Sevilla FC %: 48"
-[1] "Draw %: 27.41"
-[1] "Mallorca %: 24.59"
+[1] "Score: Sevilla FC 1.276 to Mallorca 0.8849"
+[1] "Total: 2.1609"
+[1] "Sevilla FC %: 45.46"
+[1] "Draw %: 28.46"
+[1] "Mallorca %: 26.08"
 [1] "--Mean 4 Models--"
-[1] "Sevilla FC has a mean win % of 45.34%; a min win % of 42.47%; a max win % of 48%."
-[1] "Draw has a mean win % of 26.27%; a min win % of 25.3%; a max win % of 27.41%."
-[1] "Mallorca has a mean win % of 28.39%; a min win % of 24.59%; a max win of % 31.37%."
-[1] "Sevilla FC has a mean win of the Double Chance of 71.61%; a min win % of 68.63%, a max win % of 75.41%."
-[1] "Mallorca has a mean win of the Double Chance of 54.66%; a min win % of 52%, a max win % of 57.53%."
-[1] "The mean likelihood that there are more than 2.5 goals is 43.1%; max % is 46.33 and min % is 38.2%."
-[1] "The mean likelihood that there are more than 2.5 goals is 56.9%; max % is 61.8 and min % is 53.67%."
+[1] "Sevilla FC has a mean win % of 43.27%; a min win % of 40.71%; a max win % of 45.46%."
+[1] "Draw has a mean win % of 26.96%; a min win % of 25.11%; a max win % of 28.46%."
+[1] "Mallorca has a mean win % of 29.77%; a min win % of 26.08%; a max win of % 31.84%."
+[1] "Sevilla FC has a mean win of the Double Chance of 70.23%; a min win % of 68.16%, a max win % of 73.92%."
+[1] "Mallorca has a mean win of the Double Chance of 56.73%; a min win % of 54.54%, a max win % of 59.29%."
+[1] "The mean likelihood that there are more than 2.5 goals is 42.93%; max % is 49.16 and min % is 36.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 57.07%; max % is 63.58 and min % is 50.84%."
 [1] "--Sportsbook Odds--"
-[1] "Sevilla FC Barstool Odds are: 52.38"
-[1] "The Barstool Odds of a Draw are: 31.25"
-[1] "Mallorca Barstool Odds are: 21.74"
-[1] "Sevilla FC Adjusted Barstool Odds are: 49.711"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.657"
-[1] "Mallorca Adjusted Barstool Odds are: 20.632"
-[1] "Sevilla FC's Barstool Odds to cover the  spread are: NA"
-[1] "Mallorca's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 2.75, which is a 36.36% chance of the over 2.5 hitting. The line for the under is 1.45, which is a 68.97% chance of the under 2.5 hitting."
+[1] "Sevilla FC Barstool Odds are: 55.56"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Mallorca Barstool Odds are: 20"
+[1] "Sevilla FC Adjusted Barstool Odds are: 52.252"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.938"
+[1] "Mallorca Adjusted Barstool Odds are: 18.809"
+[1] "Sevilla FC's Barstool Odds to cover the -0.5 spread are: 54.64"
+[1] "Mallorca's Barstool Odds to cover the 0.5 spread are: 50"
+[1] "Barstool's line for the total is 2.5 at 2.65, which is a 37.74% chance of the over 2.5 hitting. The line for the under is 1.48, which is a 67.57% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                       bet           date_time
-1                 Mallorca 2023-02-11 09:30:00
-2 over Sevilla FC/Mallorca 2023-02-11 09:30:00
+           bet           date_time
+1     Mallorca 2023-02-11 09:30:00
+2 Mallorca ATS 2023-02-11 09:30:00
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     23 2.76          NA  0.4873    0.125    passes ESP LaLiga      0.3623         NA        NA         NA       NA
+1: Angel Rodriguez  MRC     23 2.76          NA   0.497   0.1347    passes ESP LaLiga      0.3623         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     15 1.85          NA  0.9578   0.4173    passes ESP LaLiga      0.5405         NA        NA         NA       NA
+1: Angel Rodriguez  MRC     15 1.85          NA  0.9598   0.4193    passes ESP LaLiga      0.5405         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     19  2.3          NA  0.7932   0.3584    passes ESP LaLiga      0.4348         NA        NA         NA       NA
+1: Angel Rodriguez  MRC     19  2.3          NA  0.7998    0.365    passes ESP LaLiga      0.4348         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Angel Rodriguez  MRC     11 1.51          NA  0.9967   0.3344    passes ESP LaLiga      0.6623         NA        NA         NA       NA
+1: Angel Rodriguez  MRC     11 1.51          NA  0.9969   0.3346    passes ESP LaLiga      0.6623         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     30 2.26          NA  0.7992   0.3567    passes ESP LaLiga      0.4425         NA        NA         NA       NA
+1: Antonio Sanchez  MRC     30 2.26          NA  0.8966   0.4541    passes ESP LaLiga      0.4425         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     34 2.71          NA  0.5589   0.1899    passes ESP LaLiga       0.369         NA        NA         NA       NA
+1: Antonio Sanchez  MRC     34 2.71          NA   0.719     0.35    passes ESP LaLiga       0.369         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     26 1.82          NA  0.9406   0.3911    passes ESP LaLiga      0.5495         NA        NA         NA       NA
+1: Antonio Sanchez  MRC     26 1.82          NA  0.9758   0.4263    passes ESP LaLiga      0.5495         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Sanchez  MRC     22  1.5          NA  0.9898   0.3231    passes ESP LaLiga      0.6667         NA        NA         NA       NA
+1: Antonio Sanchez  MRC     22  1.5          NA  0.9968   0.3301    passes ESP LaLiga      0.6667         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Antonio Sanchez  MRC     38 3.48          NA  0.4693   0.1819    passes ESP LaLiga      0.2874         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Youssef En-Nesyri  SEV     17 1.85          NA  0.6652   0.1247    passes ESP LaLiga      0.5405         NA        NA         NA       NA
+              player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Youssef En-Nesyri  SEV     13 1.51          NA  0.9197   0.2574    passes ESP LaLiga      0.6623         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Matija Nastasic  MRC     41 2.08          NA  0.7164   0.2356    passes ESP LaLiga      0.4808         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Matija Nastasic  MRC     33 1.64          NA  0.9669   0.3571    passes ESP LaLiga      0.6098         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Matija Nastasic  MRC     37 1.86          NA  0.8836    0.346    passes ESP LaLiga      0.5376         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
