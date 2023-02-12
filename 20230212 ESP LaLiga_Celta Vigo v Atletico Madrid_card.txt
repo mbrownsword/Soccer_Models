@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-12 06:37:40.573"
+[1] "Updated at 2023-02-12 06:42:13.740"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,18 +34,26 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 44.37%; max % is 48.79 and min % is 40.3%."
 [1] "The mean likelihood that there are more than 2.5 goals is 55.63%; max % is 59.7 and min % is 51.21%."
 [1] "--Sportsbook Odds--"
-[1] "Celta Vigo Barstool Odds are: 27.78"
-[1] "The Barstool Odds of a Draw are: 30.77"
-[1] "Atletico Madrid Barstool Odds are: 47.62"
-[1] "Celta Vigo Adjusted Barstool Odds are: 26.166"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.982"
-[1] "Atletico Madrid Adjusted Barstool Odds are: 44.853"
-[1] "Celta Vigo's Barstool Odds to cover the 0.25 spread are: 51.02"
-[1] "Atletico Madrid's Barstool Odds to cover the -0.25 spread are: 54.35"
-[1] "Barstool's line for the total is 2.5 at 2.35, which is a 42.55% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
+[1] "Celta Vigo Barstool Odds are: 26.32"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Atletico Madrid Barstool Odds are: 48.08"
+[1] "Celta Vigo Adjusted Barstool Odds are: 24.912"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.579"
+[1] "Atletico Madrid Adjusted Barstool Odds are: 45.509"
+[1] "Celta Vigo's Barstool Odds to cover the 0.25 spread are: 50"
+[1] "Atletico Madrid's Barstool Odds to cover the -0.25 spread are: 55.56"
+[1] "Barstool's line for the total is 2.5 at 2.33, which is a 42.92% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
              bet           date_time
 1     Celta Vigo 2023-02-12 07:15:00
 2 Celta Vigo ATS 2023-02-12 07:15:00
+          player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Veiga  CEL     24 1.82          NA  0.9438   0.3943    passes ESP LaLiga      0.5495         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Veiga  CEL     28 2.25          NA  0.7997   0.3553    passes ESP LaLiga      0.4444         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Veiga  CEL     32 2.69          NA  0.5509   0.1792    passes ESP LaLiga      0.3717         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic     league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Veiga  CEL     20 1.49          NA  0.9912   0.3201    passes ESP LaLiga      0.6711         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
