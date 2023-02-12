@@ -1,0 +1,60 @@
+[1] "Updated at 2023-02-11 19:49:05.599"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Leeds United 1.2762 to Manchester United 1.9969"
+[1] "Total: 3.2731"
+[1] "Leeds United %: 23.78"
+[1] "Draw %: 21.92"
+[1] "Manchester United %: 54.3"
+[1] "--XG Model--"
+[1] "Score: Leeds United 1.382 to Manchester United 2.1534"
+[1] "Total: 3.5354"
+[1] "Leeds United %: 24.53"
+[1] "Draw %: 20.97"
+[1] "Manchester United %: 54.5"
+[1] "--XGoT Model--"
+[1] "Score: Leeds United 1.4075 to Manchester United 2.2089"
+[1] "Total: 3.6164"
+[1] "Leeds United %: 24.56"
+[1] "Draw %: 20.55"
+[1] "Manchester United %: 54.89"
+[1] "--XA Model--"
+[1] "Score: Leeds United 1.403 to Manchester United 2.0533"
+[1] "Total: 3.4563"
+[1] "Leeds United %: 26.33"
+[1] "Draw %: 21.64"
+[1] "Manchester United %: 52.03"
+[1] "--Mean 4 Models--"
+[1] "Leeds United has a mean win % of 24.8%; a min win % of 23.78%; a max win % of 26.33%."
+[1] "Draw has a mean win % of 21.27%; a min win % of 20.55%; a max win % of 21.92%."
+[1] "Manchester United has a mean win % of 53.93%; a min win % of 52.03%; a max win of % 54.89%."
+[1] "Leeds United has a mean win of the Double Chance of 46.07%; a min win % of 45.11%, a max win % of 47.97%."
+[1] "Manchester United has a mean win of the Double Chance of 75.2%; a min win % of 73.67%, a max win % of 76.22%."
+[1] "The mean likelihood that there are more than 2.5 goals is 67%; max % is 69.59 and min % is 63.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 33%; max % is 36.58 and min % is 30.41%."
+[1] "--Sportsbook Odds--"
+[1] "Leeds United Barstool Odds are: 25"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Manchester United Barstool Odds are: 54.05"
+[1] "Leeds United Adjusted Barstool Odds are: 23.726"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.979"
+[1] "Manchester United Adjusted Barstool Odds are: 51.295"
+[1] "Leeds United's Barstool Odds to cover the 0.5 spread are: 50.51"
+[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 53.76"
+[1] "Barstool's line for the total is 2.5 at 1.63, which is a 61.35% chance of the over 2.5 hitting. The line for the under is 2.28, which is a 43.86% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                  bet           date_time
+1 over Leeds United/Manchester United 2023-02-12 06:00:00
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Bruno Fernandes  MUN     49  1.6          NA  0.7591   0.1341    passes ENG Premier League       0.625         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luke Ayling  LEE     40 1.88          NA  0.7149    0.183    passes ENG Premier League      0.5319         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Luke Ayling  LEE     36 1.31          NA  0.8843   0.1209    passes ENG Premier League      0.7634         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jadon Sancho  MUN     36 1.89          NA  0.7533   0.2242    passes ENG Premier League      0.5291         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jadon Sancho  MUN     32 1.54          NA  0.9108   0.2614    passes ENG Premier League      0.6494         NA        NA         NA       NA
+[1] "____________Anytime Goalscorers______________________"
