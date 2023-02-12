@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-11 19:51:50.615"
+[1] "Updated at 2023-02-12 07:37:51.876"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Manchester City 1.7616 to Aston Villa 0.7678"
-[1] "Total: 2.5294"
-[1] "Manchester City %: 61.41"
-[1] "Draw %: 23.07"
-[1] "Aston Villa %: 15.52"
+[1] "Score: Manchester City 1.7158 to Aston Villa 0.7515"
+[1] "Total: 2.4673"
+[1] "Manchester City %: 61.22"
+[1] "Draw %: 23.18"
+[1] "Aston Villa %: 15.6"
 [1] "--XG Model--"
-[1] "Score: Manchester City 2.1192 to Aston Villa 0.7842"
-[1] "Total: 2.9034"
-[1] "Manchester City %: 68.21"
-[1] "Draw %: 19.89"
-[1] "Aston Villa %: 11.9"
+[1] "Score: Manchester City 2.0876 to Aston Villa 0.7847"
+[1] "Total: 2.8723"
+[1] "Manchester City %: 67.58"
+[1] "Draw %: 20.14"
+[1] "Aston Villa %: 12.28"
 [1] "--XGoT Model--"
-[1] "Score: Manchester City 1.9761 to Aston Villa 0.8697"
-[1] "Total: 2.8458"
-[1] "Manchester City %: 64.05"
-[1] "Draw %: 21.06"
-[1] "Aston Villa %: 14.89"
+[1] "Score: Manchester City 1.9502 to Aston Villa 0.8688"
+[1] "Total: 2.819"
+[1] "Manchester City %: 63.43"
+[1] "Draw %: 21.07"
+[1] "Aston Villa %: 15.5"
 [1] "--XA Model--"
-[1] "Score: Manchester City 1.8943 to Aston Villa 0.9324"
-[1] "Total: 2.8267"
-[1] "Manchester City %: 59.95"
-[1] "Draw %: 21.9"
-[1] "Aston Villa %: 18.15"
+[1] "Score: Manchester City 1.8713 to Aston Villa 0.9382"
+[1] "Total: 2.8095"
+[1] "Manchester City %: 59.66"
+[1] "Draw %: 21.93"
+[1] "Aston Villa %: 18.41"
 [1] "--Mean 4 Models--"
-[1] "Manchester City has a mean win % of 63.41%; a min win % of 59.95%; a max win % of 68.21%."
-[1] "Draw has a mean win % of 21.48%; a min win % of 19.89%; a max win % of 23.07%."
-[1] "Aston Villa has a mean win % of 15.12%; a min win % of 11.9%; a max win of % 18.15%."
-[1] "Manchester City has a mean win of the Double Chance of 84.89%; a min win % of 81.85%, a max win % of 88.1%."
-[1] "Aston Villa has a mean win of the Double Chance of 36.59%; a min win % of 31.79%, a max win % of 40.05%."
-[1] "The mean likelihood that there are more than 2.5 goals is 51.77%; max % is 54.94 and min % is 45.57%."
-[1] "The mean likelihood that there are more than 2.5 goals is 48.23%; max % is 54.43 and min % is 45.06%."
+[1] "Manchester City has a mean win % of 62.97%; a min win % of 59.66%; a max win % of 67.58%."
+[1] "Draw has a mean win % of 21.58%; a min win % of 20.14%; a max win % of 23.18%."
+[1] "Aston Villa has a mean win % of 15.45%; a min win % of 12.28%; a max win of % 18.41%."
+[1] "Manchester City has a mean win of the Double Chance of 84.55%; a min win % of 81.59%, a max win % of 87.72%."
+[1] "Aston Villa has a mean win of the Double Chance of 37.03%; a min win % of 32.42%, a max win % of 40.34%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.96%; max % is 54.01 and min % is 44.26%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.04%; max % is 55.74 and min % is 45.99%."
 [1] "--Sportsbook Odds--"
-[1] "Manchester City Barstool Odds are: 77.78"
-[1] "The Barstool Odds of a Draw are: 16.67"
+[1] "Manchester City Barstool Odds are: 76.92"
+[1] "The Barstool Odds of a Draw are: 17.86"
 [1] "Aston Villa Barstool Odds are: 9.52"
-[1] "Manchester City Adjusted Barstool Odds are: 74.81"
-[1] "The Adjusted Barstool Odds of a Draw are: 16.033"
-[1] "Aston Villa Adjusted Barstool Odds are: 9.156"
-[1] "Manchester City's Barstool Odds to cover the  spread are: NA"
-[1] "Aston Villa's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.54, which is a 64.94% chance of the over 2.5 hitting. The line for the under is 2.48, which is a 40.32% chance of the under 2.5 hitting."
+[1] "Manchester City Adjusted Barstool Odds are: 73.749"
+[1] "The Adjusted Barstool Odds of a Draw are: 17.124"
+[1] "Aston Villa Adjusted Barstool Odds are: 9.128"
+[1] "Manchester City's Barstool Odds to cover the -1.75 spread are: 51.55"
+[1] "Aston Villa's Barstool Odds to cover the 1.75 spread are: 53.48"
+[1] "Barstool's line for the total is 2.5 at 1.52, which is a 65.79% chance of the over 2.5 hitting. The line for the under is 2.55, which is a 39.22% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                 bet           date_time
@@ -50,31 +50,43 @@
 2                       Aston Villa 2023-02-12 08:30:00
 3 under Manchester City/Aston Villa 2023-02-12 08:30:00
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ollie Watkins  AVL     14 1.85          NA  0.8822   0.3417    passes ENG Premier League      0.5405         NA        NA         NA       NA
+1: Ollie Watkins  AVL     14 1.85          NA  0.8816   0.3411    passes ENG Premier League      0.5405         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ollie Watkins  AVL     18  2.3          NA  0.5913   0.1565    passes ENG Premier League      0.4348         NA        NA         NA       NA
+1: Ollie Watkins  AVL     18  2.3          NA  0.5901   0.1553    passes ENG Premier League      0.4348         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ollie Watkins  AVL     10 1.51          NA  0.9872   0.3249    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Ollie Watkins  AVL     10 1.51          NA  0.9871   0.3248    passes ENG Premier League      0.6623         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Leon Bailey  AVL     22 2.76          NA   0.562   0.1997    passes ENG Premier League      0.3623         NA        NA         NA       NA
+1: Leon Bailey  AVL     22 2.76          NA  0.5606   0.1983    passes ENG Premier League      0.3623         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Leon Bailey  AVL     18  2.3          NA   0.846   0.4112    passes ENG Premier League      0.4348         NA        NA         NA       NA
+1: Leon Bailey  AVL     18  2.3          NA  0.8452   0.4104    passes ENG Premier League      0.4348         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Leon Bailey  AVL     14 1.85          NA  0.9742   0.4337    passes ENG Premier League      0.5405         NA        NA         NA       NA
+1: Leon Bailey  AVL     14 1.85          NA   0.974   0.4335    passes ENG Premier League      0.5405         NA        NA         NA       NA
         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Leon Bailey  AVL     10 1.51          NA  0.9985   0.3362    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Leon Bailey  AVL     10 1.51          NA  0.9984   0.3361    passes ENG Premier League      0.6623         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Emiliano Buendia  AVL     28 1.85          NA  0.6411   0.1006    passes ENG Premier League      0.5405         NA        NA         NA       NA
+1: Emiliano Buendia  AVL     28 1.85          NA  0.6591   0.1186    passes ENG Premier League      0.5405         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Emiliano Buendia  AVL     24 1.51          NA  0.8684   0.2061    passes ENG Premier League      0.6623         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Erling Haaland  MCI     22 1.85          NA  0.7922   0.2517    passes ENG Premier League      0.5405         NA        NA         NA       NA
-           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Erling Haaland  MCI     18 1.51          NA  0.9513    0.289    passes ENG Premier League      0.6623         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Ashley Young  AVL     31 1.51          NA  0.7863    0.124    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Emiliano Buendia  AVL     24 1.51          NA  0.8783    0.216    passes ENG Premier League      0.6623         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Boubacar Kamara  AVL     39 1.88          NA  0.7126   0.1807    passes ENG Premier League      0.5319         NA        NA         NA       NA
+1: Kevin De Bruyne  MCI     60 1.85          NA  0.6564   0.1159    passes ENG Premier League      0.5405         NA        NA         NA       NA
             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Boubacar Kamara  AVL     35 1.47          NA  0.8846   0.2043    passes ENG Premier League      0.6803         NA        NA         NA       NA
+1: Kevin De Bruyne  MCI     56 1.58          NA  0.8207   0.1878    passes ENG Premier League      0.6329         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ilkay Gundogan  MCI     69 1.61          NA  0.7405   0.1194    passes ENG Premier League      0.6211         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Boubacar Kamara  AVL     39 1.88          NA  0.7318   0.1999    passes ENG Premier League      0.5319         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Boubacar Kamara  AVL     35 1.47          NA  0.8952   0.2149    passes ENG Premier League      0.6803         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI    103 1.96          NA  0.8939   0.3837    passes ENG Premier League      0.5102         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI    107 2.04          NA  0.8064   0.3162    passes ENG Premier League      0.4902         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI    111 2.12          NA  0.6868   0.2151    passes ENG Premier League      0.4717         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     95 1.37          NA  0.9787   0.2488    passes ENG Premier League      0.7299         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI    115 2.33          NA   0.545   0.1158    passes ENG Premier League      0.4292         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     99 1.88          NA   0.949   0.4171    passes ENG Premier League      0.5319         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
