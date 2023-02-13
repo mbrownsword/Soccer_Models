@@ -1,0 +1,218 @@
+[1] "Updated at 2023-02-13 13:04:00.071"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AC Milan 1.3766 to Tottenham Hotspur 1.5503"
+[1] "Total: 2.9269"
+[1] "AC Milan %: 34.28"
+[1] "Draw %: 24.52"
+[1] "Tottenham Hotspur %: 41.2"
+[1] "--XG Model--"
+[1] "Score: AC Milan 1.3429 to Tottenham Hotspur 1.6413"
+[1] "Total: 2.9842"
+[1] "AC Milan %: 30.88"
+[1] "Draw %: 24.42"
+[1] "Tottenham Hotspur %: 44.7"
+[1] "--XGoT Model--"
+[1] "Score: AC Milan 1.4164 to Tottenham Hotspur 1.5524"
+[1] "Total: 2.9688"
+[1] "AC Milan %: 34.88"
+[1] "Draw %: 24.37"
+[1] "Tottenham Hotspur %: 40.75"
+[1] "--XA Model--"
+[1] "Score: AC Milan 1.4375 to Tottenham Hotspur 1.4587"
+[1] "Total: 2.8962"
+[1] "AC Milan %: 37.32"
+[1] "Draw %: 24.76"
+[1] "Tottenham Hotspur %: 37.92"
+[1] "--Mean 4 Models--"
+[1] "AC Milan has a mean win % of 34.34%; a min win % of 30.88%; a max win % of 37.32%."
+[1] "Draw has a mean win % of 24.52%; a min win % of 24.37%; a max win % of 24.76%."
+[1] "Tottenham Hotspur has a mean win % of 41.14%; a min win % of 37.92%; a max win of % 44.7%."
+[1] "AC Milan has a mean win of the Double Chance of 58.86%; a min win % of 55.3%, a max win % of 62.08%."
+[1] "Tottenham Hotspur has a mean win of the Double Chance of 65.66%; a min win % of 62.68%, a max win % of 69.12%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.87%; max % is 57.03 and min % is 54.86%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.13%; max % is 45.14 and min % is 42.97%."
+[1] "--Sportsbook Odds--"
+[1] "AC Milan Barstool Odds are: 38.46"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Tottenham Hotspur Barstool Odds are: 33.9"
+[1] "AC Milan Adjusted Barstool Odds are: 36.942"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.497"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 32.562"
+[1] "AC Milan's Barstool Odds to cover the 0 spread are: 55.25"
+[1] "Tottenham Hotspur's Barstool Odds to cover the 0 spread are: 49.02"
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                              bet           date_time
+1               Tottenham Hotspur 2023-02-14 12:00:00
+2 over AC Milan/Tottenham Hotspur 2023-02-14 12:00:00
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     55 1.85          NA  0.8682   0.3277    passes INT International      0.5405         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     59 2.14          NA   0.726   0.2587    passes INT International      0.4673         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     63 2.37          NA  0.5378   0.1159    passes INT International      0.4219         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     51 1.59          NA  0.9503   0.3214    passes INT International      0.6289         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Olivier Giroud  ACM     21 1.82          NA    0.73   0.1805    passes INT International      0.5495         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Olivier Giroud  ACM     17 1.49          NA  0.9309   0.2598    passes INT International      0.6711         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sandro Tonali  ACM     41 1.86          NA  0.7738   0.2362    passes INT International      0.5376         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sandro Tonali  ACM     45 2.31          NA  0.5605   0.1276    passes INT International      0.4329         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sandro Tonali  ACM     37 1.52          NA  0.9146   0.2567    passes INT International      0.6579         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Rafael Leao  ACM     19 1.85          NA   0.703   0.1625    passes INT International      0.5405         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Rafael Leao  ACM     15 1.51          NA  0.9266   0.2643    passes INT International      0.6623         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Fikayo Tomori  ACM     51 1.58          NA  0.7779    0.145    passes INT International      0.6329         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     61 1.58          NA  0.7658   0.1329    passes INT International      0.6329         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     26 1.82          NA  0.9972   0.4477    passes INT International      0.5495         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     30 2.26          NA  0.9808   0.5383    passes INT International      0.4425         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     34 2.71          NA  0.9198   0.5508    passes INT International       0.369         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     22  1.5          NA  0.9998   0.3331    passes INT International      0.6667         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     42  4.8          NA  0.5561   0.3478    passes INT International      0.2083         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     38 3.48          NA  0.7768   0.4894    passes INT International      0.2874         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Perisic  TOT     30 1.85          NA  0.6962   0.1557    passes INT International      0.5405         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Perisic  TOT     26 1.51          NA  0.8928   0.2305    passes INT International      0.6623         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Emerson  TOT     37 1.85          NA  0.8212   0.2807    passes INT International      0.5405         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Emerson  TOT     41  2.3          NA  0.6157   0.1809    passes INT International      0.4348         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Emerson  TOT     33 1.51          NA  0.9416   0.2793    passes INT International      0.6623         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     28 1.85          NA  0.9557   0.4152    passes INT International      0.5405         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     32  2.3          NA  0.8434   0.4086    passes INT International      0.4348         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     36 2.76          NA  0.6334   0.2711    passes INT International      0.3623         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     24 1.51          NA  0.9925   0.3302    passes INT International      0.6623         NA        NA         NA       NA
+[1] "____________Anytime Goalscorers______________________"
+                        pageUrl2              team expected_attg expected_gs
+1: /players/212867/heung-min-son Tottenham Hotspur      0.264875   0.1538462
+
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AC Milan 1.3766 to Tottenham Hotspur 1.5503"
+[1] "Total: 2.9269"
+[1] "AC Milan %: 34.28"
+[1] "Draw %: 24.52"
+[1] "Tottenham Hotspur %: 41.2"
+[1] "--XG Model--"
+[1] "Score: AC Milan 1.3429 to Tottenham Hotspur 1.6413"
+[1] "Total: 2.9842"
+[1] "AC Milan %: 30.88"
+[1] "Draw %: 24.42"
+[1] "Tottenham Hotspur %: 44.7"
+[1] "--XGoT Model--"
+[1] "Score: AC Milan 1.4164 to Tottenham Hotspur 1.5524"
+[1] "Total: 2.9688"
+[1] "AC Milan %: 34.88"
+[1] "Draw %: 24.37"
+[1] "Tottenham Hotspur %: 40.75"
+[1] "--XA Model--"
+[1] "Score: AC Milan 1.4375 to Tottenham Hotspur 1.4587"
+[1] "Total: 2.8962"
+[1] "AC Milan %: 37.32"
+[1] "Draw %: 24.76"
+[1] "Tottenham Hotspur %: 37.92"
+[1] "--Mean 4 Models--"
+[1] "AC Milan has a mean win % of 34.34%; a min win % of 30.88%; a max win % of 37.32%."
+[1] "Draw has a mean win % of 24.52%; a min win % of 24.37%; a max win % of 24.76%."
+[1] "Tottenham Hotspur has a mean win % of 41.14%; a min win % of 37.92%; a max win of % 44.7%."
+[1] "AC Milan has a mean win of the Double Chance of 58.86%; a min win % of 55.3%, a max win % of 62.08%."
+[1] "Tottenham Hotspur has a mean win of the Double Chance of 65.66%; a min win % of 62.68%, a max win % of 69.12%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.87%; max % is 57.03 and min % is 54.86%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.13%; max % is 45.14 and min % is 42.97%."
+[1] "--Sportsbook Odds--"
+[1] "AC Milan Barstool Odds are: 38.46"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Tottenham Hotspur Barstool Odds are: 33.9"
+[1] "AC Milan Adjusted Barstool Odds are: 36.942"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.497"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 32.562"
+[1] "AC Milan's Barstool Odds to cover the 0 spread are: 55.25"
+[1] "Tottenham Hotspur's Barstool Odds to cover the 0 spread are: 49.02"
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                              bet           date_time
+1               Tottenham Hotspur 2023-02-14 12:00:00
+2 over AC Milan/Tottenham Hotspur 2023-02-14 12:00:00
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     55 1.85          NA  0.8682   0.3277    passes INT International      0.5405         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     59 2.14          NA   0.726   0.2587    passes INT International      0.4673         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     63 2.37          NA  0.5378   0.1159    passes INT International      0.4219         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ismael Bennacer  ACM     51 1.59          NA  0.9503   0.3214    passes INT International      0.6289         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Olivier Giroud  ACM     21 1.82          NA    0.73   0.1805    passes INT International      0.5495         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Olivier Giroud  ACM     17 1.49          NA  0.9309   0.2598    passes INT International      0.6711         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sandro Tonali  ACM     41 1.86          NA  0.7738   0.2362    passes INT International      0.5376         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sandro Tonali  ACM     45 2.31          NA  0.5605   0.1276    passes INT International      0.4329         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Sandro Tonali  ACM     37 1.52          NA  0.9146   0.2567    passes INT International      0.6579         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Rafael Leao  ACM     19 1.85          NA   0.703   0.1625    passes INT International      0.5405         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Rafael Leao  ACM     15 1.51          NA  0.9266   0.2643    passes INT International      0.6623         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Fikayo Tomori  ACM     51 1.58          NA  0.7779    0.145    passes INT International      0.6329         NA        NA         NA       NA
+      player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eric Dier  TOT     61 1.58          NA  0.7658   0.1329    passes INT International      0.6329         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     26 1.82          NA  0.9972   0.4477    passes INT International      0.5495         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     30 2.26          NA  0.9808   0.5383    passes INT International      0.4425         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     34 2.71          NA  0.9198   0.5508    passes INT International       0.369         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     22  1.5          NA  0.9998   0.3331    passes INT International      0.6667         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     42  4.8          NA  0.5561   0.3478    passes INT International      0.2083         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Son Heung-Min  TOT     38 3.48          NA  0.7768   0.4894    passes INT International      0.2874         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Perisic  TOT     30 1.85          NA  0.6962   0.1557    passes INT International      0.5405         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ivan Perisic  TOT     26 1.51          NA  0.8928   0.2305    passes INT International      0.6623         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Emerson  TOT     37 1.85          NA  0.8212   0.2807    passes INT International      0.5405         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Emerson  TOT     41  2.3          NA  0.6157   0.1809    passes INT International      0.4348         NA        NA         NA       NA
+    player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Emerson  TOT     33 1.51          NA  0.9416   0.2793    passes INT International      0.6623         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     28 1.85          NA  0.9557   0.4152    passes INT International      0.5405         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     32  2.3          NA  0.8434   0.4086    passes INT International      0.4348         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     36 2.76          NA  0.6334   0.2711    passes INT International      0.3623         NA        NA         NA       NA
+             player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Dejan Kulusevski  TOT     24 1.51          NA  0.9925   0.3302    passes INT International      0.6623         NA        NA         NA       NA
+[1] "____________Anytime Goalscorers______________________"
+                        pageUrl2              team expected_attg expected_gs
+1: /players/212867/heung-min-son Tottenham Hotspur      0.264875   0.1538462
