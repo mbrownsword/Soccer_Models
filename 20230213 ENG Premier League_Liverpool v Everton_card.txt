@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-13 06:34:56.141"
+[1] "Updated at 2023-02-13 11:17:10.700"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Liverpool 1.7922 to Everton 0.7138"
-[1] "Total: 2.506"
-[1] "Liverpool %: 63.91"
-[1] "Draw %: 22.25"
-[1] "Everton %: 13.84"
+[1] "Score: Liverpool 1.8069 to Everton 0.6628"
+[1] "Total: 2.4697"
+[1] "Liverpool %: 65.41"
+[1] "Draw %: 22.2"
+[1] "Everton %: 12.39"
 [1] "--XG Model--"
-[1] "Score: Liverpool 2.1452 to Everton 0.7301"
-[1] "Total: 2.8753"
-[1] "Liverpool %: 70.01"
-[1] "Draw %: 19.12"
-[1] "Everton %: 10.87"
+[1] "Score: Liverpool 2.192 to Everton 0.6739"
+[1] "Total: 2.8659"
+[1] "Liverpool %: 72.53"
+[1] "Draw %: 18.01"
+[1] "Everton %: 9.46"
 [1] "--XGoT Model--"
-[1] "Score: Liverpool 1.9499 to Everton 0.7532"
-[1] "Total: 2.7031"
-[1] "Liverpool %: 66.51"
-[1] "Draw %: 20.73"
-[1] "Everton %: 12.76"
+[1] "Score: Liverpool 1.9926 to Everton 0.6784"
+[1] "Total: 2.671"
+[1] "Liverpool %: 69.13"
+[1] "Draw %: 20.15"
+[1] "Everton %: 10.72"
 [1] "--XA Model--"
-[1] "Score: Liverpool 1.9195 to Everton 0.7964"
-[1] "Total: 2.7159"
-[1] "Liverpool %: 64.47"
-[1] "Draw %: 21.09"
-[1] "Everton %: 14.44"
+[1] "Score: Liverpool 1.8802 to Everton 0.7852"
+[1] "Total: 2.6654"
+[1] "Liverpool %: 63.71"
+[1] "Draw %: 21.67"
+[1] "Everton %: 14.62"
 [1] "--Mean 4 Models--"
-[1] "Liverpool has a mean win % of 66.22%; a min win % of 63.91%; a max win % of 70.01%."
-[1] "Draw has a mean win % of 20.8%; a min win % of 19.12%; a max win % of 22.25%."
-[1] "Everton has a mean win % of 12.98%; a min win % of 10.87%; a max win of % 14.44%."
-[1] "Liverpool has a mean win of the Double Chance of 87.02%; a min win % of 85.56%, a max win % of 89.13%."
-[1] "Everton has a mean win of the Double Chance of 33.77%; a min win % of 29.99%, a max win % of 36.09%."
-[1] "The mean likelihood that there are more than 2.5 goals is 50.06%; max % is 54.01 and min % is 45.32%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 49.94%; max % is 54.68 and min % is 45.99%."
+[1] "Liverpool has a mean win % of 67.69%; a min win % of 63.71%; a max win % of 72.53%."
+[1] "Draw has a mean win % of 20.51%; a min win % of 18.01%; a max win % of 22.2%."
+[1] "Everton has a mean win % of 11.8%; a min win % of 9.46%; a max win of % 14.62%."
+[1] "Liverpool has a mean win of the Double Chance of 88.2%; a min win % of 85.38%, a max win % of 90.54%."
+[1] "Everton has a mean win of the Double Chance of 32.3%; a min win % of 27.47%, a max win % of 36.29%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.45%; max % is 54.37 and min % is 44.74%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.55%; max % is 55.26 and min % is 45.63%."
 [1] "--Sportsbook Odds--"
-[1] "Liverpool Barstool Odds are: 61.9"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Everton Barstool Odds are: 18.18"
-[1] "Liverpool Adjusted Barstool Odds are: 58.907"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.791"
-[1] "Everton Adjusted Barstool Odds are: 17.301"
-[1] "Liverpool's Barstool Odds to cover the -3.25 spread are: 10"
-[1] "Everton's Barstool Odds to cover the 3.25 spread are: 92.59"
-[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14% chance of the over 2.5 hitting. The line for the under is 2.08, which is a 48.08% chance of the under 2.5 hitting."
+[1] "Liverpool Barstool Odds are: 62.5"
+[1] "The Barstool Odds of a Draw are: 23.81"
+[1] "Everton Barstool Odds are: 17.39"
+[1] "Liverpool Adjusted Barstool Odds are: 60.27"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.96"
+[1] "Everton Adjusted Barstool Odds are: 16.77"
+[1] "Liverpool's Barstool Odds to cover the -1 spread are: 50.76"
+[1] "Everton's Barstool Odds to cover the 1 spread are: 53.76"
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.14, which is a 46.73% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
         bet           date_time
@@ -55,20 +55,14 @@
 1: Mohamed Salah  LIV     37  2.3          NA  0.6889   0.2541    passes ENG Premier League      0.4348         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Mohamed Salah  LIV     29 1.51          NA  0.9664   0.3041    passes ENG Premier League      0.6623         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jordan Henderson  LIV     70 1.85          NA  0.6722   0.1317    passes ENG Premier League      0.5405         NA        NA         NA       NA
-             player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Jordan Henderson  LIV     66 1.58          NA  0.8219    0.189    passes ENG Premier League      0.6329         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Cody Gakpo  LIV     25 1.85          NA  0.9837   0.4432    passes ENG Premier League      0.5405         NA        NA         NA       NA
+1: Cody Gakpo  LIV     25 1.85          NA  0.9575    0.417    passes ENG Premier League      0.5405         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Cody Gakpo  LIV     29  2.3          NA  0.9217   0.4869    passes ENG Premier League      0.4348         NA        NA         NA       NA
+1: Cody Gakpo  LIV     29  2.3          NA  0.8393   0.4045    passes ENG Premier League      0.4348         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Cody Gakpo  LIV     37 3.55          NA  0.5253   0.2436    passes ENG Premier League      0.2817         NA        NA         NA       NA
+1: Cody Gakpo  LIV     33 2.76          NA  0.6153    0.253    passes ENG Premier League      0.3623         NA        NA         NA       NA
        player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Cody Gakpo  LIV     33 2.76          NA  0.7663    0.404    passes ENG Premier League      0.3623         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Cody Gakpo  LIV     21 1.51          NA  0.9981   0.3358    passes ENG Premier League      0.6623         NA        NA         NA       NA
+1: Cody Gakpo  LIV     21 1.51          NA  0.9936   0.3313    passes ENG Premier League      0.6623         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
 1: Vitaliy Mykolenko  EVE     27 1.88          NA  0.6651   0.1332    passes ENG Premier League      0.5319         NA        NA         NA       NA
               player team number odds prob_tackle ex_prob prob_dif statistic             league prob_passes prob_shots prob_sogs prob_goals prob_ast
