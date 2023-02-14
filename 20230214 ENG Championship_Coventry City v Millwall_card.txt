@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-13 23:04:57.532"
+[1] "Updated at 2023-02-14 07:16:13.252"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -42,7 +42,7 @@
 [1] "Millwall Adjusted Barstool Odds are: 32.303"
 [1] "Coventry City's Barstool Odds to cover the -0.5 spread are: 40"
 [1] "Millwall's Barstool Odds to cover the 0.5 spread are: 64.94"
-[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.28, which is a 43.86% chance of the over 2.5 hitting. The line for the under is 1.63, which is a 61.35% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
