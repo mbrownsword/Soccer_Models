@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-13 23:10:58.996"
+[1] "Updated at 2023-02-14 07:21:27.704"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -42,13 +42,13 @@
 [1] "Sunderland Adjusted Barstool Odds are: 31.222"
 [1] "Queens Park Rangers's Barstool Odds to cover the -0.5 spread are: 41.15"
 [1] "Sunderland's Barstool Odds to cover the 0.5 spread are: 63.29"
-[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-14 11:45:00
 [1] "____________Anytime Goalscorers______________________"
                        pageUrl2       team expected_attg expected_gs
-1: /players/956161/joe-gelhardt Sunderland       0.51685   0.2702703
+1: /players/956161/joe-gelhardt Sunderland       0.51685   0.2631579
                        pageUrl2       team expected_attg expected_gs
-1: /players/956161/joe-gelhardt Sunderland       0.51685   0.2702703
+1: /players/956161/joe-gelhardt Sunderland       0.51685   0.2631579
