@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-13 23:14:10.826"
+[1] "Updated at 2023-02-14 07:24:16.226"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,17 +34,18 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 51.58%; max % is 55.8 and min % is 47.32%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 48.42%; max % is 52.68 and min % is 44.2%."
 [1] "--Sportsbook Odds--"
-[1] "Burnley Barstool Odds are: 60"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Watford Barstool Odds are: 19.05"
-[1] "Burnley Adjusted Barstool Odds are: 56.164"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.004"
-[1] "Watford Adjusted Barstool Odds are: 17.832"
-[1] "Burnley's Barstool Odds to cover the -0.5 spread are: 59.88"
-[1] "Watford's Barstool Odds to cover the 0.5 spread are: 44.84"
-[1] "Barstool's line for the total is 2.5 at 1.95, which is a 51.28% chance of the over 2.5 hitting. The line for the under is 1.85, which is a 54.05% chance of the under 2.5 hitting."
+[1] "Burnley Barstool Odds are: 61.9"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Watford Barstool Odds are: 18.52"
+[1] "Burnley Adjusted Barstool Odds are: 57.991"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.658"
+[1] "Watford Adjusted Barstool Odds are: 17.351"
+[1] "Burnley's Barstool Odds to cover the -0.5 spread are: 61.73"
+[1] "Watford's Barstool Odds to cover the 0.5 spread are: 43.1"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.72, which is a 58.14% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-      bet           date_time
-1 Watford 2023-02-14 12:00:00
+                   bet           date_time
+1              Watford 2023-02-14 12:00:00
+2 over Burnley/Watford 2023-02-14 12:00:00
 [1] "____________Anytime Goalscorers______________________"
