@@ -1,0 +1,63 @@
+[1] "Updated at 2023-02-15 11:24:43.167"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Real Madrid 1.8983 to Elche 0.4999"
+[1] "Total: 2.3982"
+[1] "Real Madrid %: 70.76"
+[1] "Draw %: 20.38"
+[1] "Elche %: 8.86"
+[1] "--XG Model--"
+[1] "Score: Real Madrid 2.0764 to Elche 0.3797"
+[1] "Total: 2.4561"
+[1] "Real Madrid %: 78.13"
+[1] "Draw %: 16.57"
+[1] "Elche %: 5.3"
+[1] "--XGoT Model--"
+[1] "Score: Real Madrid 2.1726 to Elche 0.2722"
+[1] "Total: 2.4448"
+[1] "Real Madrid %: 81.79"
+[1] "Draw %: 14.82"
+[1] "Elche %: 3.39"
+[1] "--XA Model--"
+[1] "Score: Real Madrid 2.0845 to Elche 0.4852"
+[1] "Total: 2.5697"
+[1] "Real Madrid %: 74.83"
+[1] "Draw %: 17.93"
+[1] "Elche %: 7.24"
+[1] "--Mean 4 Models--"
+[1] "Real Madrid has a mean win % of 76.38%; a min win % of 70.76%; a max win % of 81.79%."
+[1] "Draw has a mean win % of 17.42%; a min win % of 14.82%; a max win % of 20.38%."
+[1] "Elche has a mean win % of 6.2%; a min win % of 3.39%; a max win of % 8.86%."
+[1] "Real Madrid has a mean win of the Double Chance of 93.8%; a min win % of 91.14%, a max win % of 96.61%."
+[1] "Elche has a mean win of the Double Chance of 23.62%; a min win % of 18.21%, a max win % of 29.24%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.52%; max % is 46.68 and min % is 42.8%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.48%; max % is 57.2 and min % is 53.32%."
+[1] "--Sportsbook Odds--"
+[1] "Real Madrid Barstool Odds are: 85.71"
+[1] "The Barstool Odds of a Draw are: 14.29"
+[1] "Elche Barstool Odds are: 6.25"
+[1] "Real Madrid Adjusted Barstool Odds are: 80.668"
+[1] "The Adjusted Barstool Odds of a Draw are: 13.449"
+[1] "Elche Adjusted Barstool Odds are: 5.882"
+[1] "Real Madrid's Barstool Odds to cover the -0.5 spread are: 82.64"
+[1] "Elche's Barstool Odds to cover the 0.5 spread are: 20.83"
+[1] "Barstool's line for the total is 2.5 at 1.52, which is a 65.79% chance of the over 2.5 hitting. The line for the under is 2.55, which is a 39.22% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                      bet           date_time
+1  draw Real Madrid/Elche 2023-02-15 12:00:00
+2 under Real Madrid/Elche 2023-02-15 12:00:00
+        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Alaba  RMD     61 2.18          NA   0.971   0.5123    passes ESP Spain      0.4587         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Alaba  RMD     65 2.45          NA  0.9208   0.5126    passes ESP Spain      0.4082         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Alaba  RMD     57 1.86          NA  0.9916    0.454    passes ESP Spain      0.5376         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Alaba  RMD     69 2.92          NA  0.8251   0.4826    passes ESP Spain      0.3425         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Alaba  RMD     73  3.7          NA  0.6804   0.4101    passes ESP Spain      0.2703         NA        NA         NA       NA
+        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: David Alaba  RMD     53 1.58          NA  0.9981   0.3652    passes ESP Spain      0.6329         NA        NA         NA       NA
+[1] "____________Anytime Goalscorers______________________"
