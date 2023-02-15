@@ -1,76 +1,62 @@
-[1] "Updated at 2023-02-15 07:40:46.995"
+[1] "Updated at 2023-02-15 10:54:15.185"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Club Brugge 0.8409 to Benfica 1.5659"
-[1] "Total: 2.4068"
-[1] "Club Brugge %: 20.52"
-[1] "Draw %: 25.43"
-[1] "Benfica %: 54.05"
+[1] "Score: Club Brugge 0.8825 to Benfica 1.5622"
+[1] "Total: 2.4447"
+[1] "Club Brugge %: 21.41"
+[1] "Draw %: 25.44"
+[1] "Benfica %: 53.15"
 [1] "--XG Model--"
-[1] "Score: Club Brugge 0.8308 to Benfica 1.5594"
-[1] "Total: 2.3902"
-[1] "Club Brugge %: 20.44"
-[1] "Draw %: 25.42"
-[1] "Benfica %: 54.14"
+[1] "Score: Club Brugge 0.8329 to Benfica 1.549"
+[1] "Total: 2.3819"
+[1] "Club Brugge %: 20.77"
+[1] "Draw %: 25.54"
+[1] "Benfica %: 53.69"
 [1] "--XGoT Model--"
-[1] "Score: Club Brugge 0.7807 to Benfica 1.749"
-[1] "Total: 2.5297"
-[1] "Club Brugge %: 16.67"
-[1] "Draw %: 23.36"
-[1] "Benfica %: 59.97"
+[1] "Score: Club Brugge 0.782 to Benfica 1.7533"
+[1] "Total: 2.5353"
+[1] "Club Brugge %: 16.57"
+[1] "Draw %: 23.37"
+[1] "Benfica %: 60.06"
 [1] "--XA Model--"
-[1] "Score: Club Brugge 1.0256 to Benfica 1.6379"
-[1] "Total: 2.6635"
-[1] "Club Brugge %: 24.38"
-[1] "Draw %: 24.93"
-[1] "Benfica %: 50.69"
+[1] "Score: Club Brugge 1.0212 to Benfica 1.6741"
+[1] "Total: 2.6953"
+[1] "Club Brugge %: 24.03"
+[1] "Draw %: 25.11"
+[1] "Benfica %: 50.86"
 [1] "--Mean 4 Models--"
-[1] "Club Brugge has a mean win % of 20.5%; a min win % of 16.67%; a max win % of 24.38%."
-[1] "Draw has a mean win % of 24.78%; a min win % of 23.36%; a max win % of 25.43%."
-[1] "Benfica has a mean win % of 54.71%; a min win % of 50.69%; a max win of % 59.97%."
-[1] "Club Brugge has a mean win of the Double Chance of 45.29%; a min win % of 40.03%, a max win % of 49.31%."
-[1] "Benfica has a mean win of the Double Chance of 79.5%; a min win % of 75.62%, a max win % of 83.33%."
-[1] "The mean likelihood that there are more than 2.5 goals is 45.17%; max % is 49.34 and min % is 42.38%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 54.83%; max % is 57.62 and min % is 50.66%."
+[1] "Club Brugge has a mean win % of 20.7%; a min win % of 16.57%; a max win % of 24.03%."
+[1] "Draw has a mean win % of 24.87%; a min win % of 23.37%; a max win % of 25.54%."
+[1] "Benfica has a mean win % of 54.44%; a min win % of 50.86%; a max win of % 60.06%."
+[1] "Club Brugge has a mean win of the Double Chance of 45.56%; a min win % of 39.94%, a max win % of 49.14%."
+[1] "Benfica has a mean win of the Double Chance of 79.31%; a min win % of 75.97%, a max win % of 83.43%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.35%; max % is 49.35 and min % is 42.18%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.65%; max % is 57.82 and min % is 50.65%."
 [1] "--Sportsbook Odds--"
-[1] "Club Brugge Barstool Odds are: 20.83"
+[1] "Club Brugge Barstool Odds are: 21.05"
 [1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Benfica Barstool Odds are: 55.56"
-[1] "Club Brugge Adjusted Barstool Odds are: 19.846"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.22"
-[1] "Benfica Adjusted Barstool Odds are: 52.934"
-[1] "Club Brugge's Barstool Odds to cover the 0.5 spread are: 48.54"
-[1] "Benfica's Barstool Odds to cover the -0.5 spread are: 55.87"
-[1] "Barstool's line for the total is 2.5 at 1.94, which is a 51.55% chance of the over 2.5 hitting. The line for the under is 1.87, which is a 53.48% chance of the under 2.5 hitting."
+[1] "Benfica Barstool Odds are: 54.95"
+[1] "Club Brugge Adjusted Barstool Odds are: 20.13"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.321"
+[1] "Benfica Adjusted Barstool Odds are: 52.549"
+[1] "Club Brugge's Barstool Odds to cover the 0.5 spread are: 49.5"
+[1] "Benfica's Barstool Odds to cover the -0.5 spread are: 54.95"
+[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.78, which is a 56.18% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-15 12:00:00
-       player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rafa Silva  BEF     33 1.85          NA       1   0.4595    passes INT International      0.5405         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rafa Silva  BEF     41 2.76          NA  0.9992   0.6369    passes INT International      0.3623         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rafa Silva  BEF     37  2.3          NA  0.9999   0.5651    passes INT International      0.4348         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rafa Silva  BEF     49  4.9          NA  0.9789   0.7748    passes INT International      0.2041         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rafa Silva  BEF     45 3.55          NA  0.9951   0.7134    passes INT International      0.2817         NA        NA         NA       NA
-       player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Rafa Silva  BEF     29 1.51          NA       1   0.3377    passes INT International      0.6623         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Nicolas Otamendi  BEF     65 1.88          NA  0.8697   0.3378    passes INT International      0.5319         NA        NA         NA       NA
+1: Nicolas Otamendi  BEF     65 1.88          NA  0.9096   0.3777    passes INT International      0.5319         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Nicolas Otamendi  BEF     69  2.1          NA  0.7413   0.2651    passes INT International      0.4762         NA        NA         NA       NA
+1: Nicolas Otamendi  BEF     69  2.1          NA  0.8058   0.3296    passes INT International      0.4762         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Nicolas Otamendi  BEF     73 2.28          NA  0.5708   0.1322    passes INT International      0.4386         NA        NA         NA       NA
+1: Nicolas Otamendi  BEF     73 2.28          NA  0.6538   0.2152    passes INT International      0.4386         NA        NA         NA       NA
              player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Nicolas Otamendi  BEF     61 1.63          NA  0.9466   0.3331    passes INT International      0.6135         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Noa Lang  BRU     27 1.85          NA  0.7843   0.2438    passes INT International      0.5405         NA        NA         NA       NA
-     player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Noa Lang  BRU     23 1.54          NA  0.9393   0.2899    passes INT International      0.6494         NA        NA         NA       NA
+1: Nicolas Otamendi  BEF     61 1.63          NA  0.9659   0.3524    passes INT International      0.6135         NA        NA         NA       NA
           player team number odds prob_tackle ex_prob prob_dif statistic            league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Antonio Silva  BEF     60 1.63          NA   0.723   0.1095    passes INT International      0.6135         NA        NA         NA       NA
+1: Antonio Silva  BEF     60 1.63          NA  0.7859   0.1724    passes INT International      0.6135         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
+                     pageUrl2    team expected_attg expected_gs
+1: /players/477023/rafa-silva Benfica       0.26055  0.04347826
