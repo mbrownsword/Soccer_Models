@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-15 10:44:33.676"
+[1] "Updated at 2023-02-15 10:47:21.834"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -40,12 +40,77 @@
 [1] "Arsenal Adjusted Barstool Odds are: 29.431"
 [1] "The Adjusted Barstool Odds of a Draw are: 28.981"
 [1] "Manchester City Adjusted Barstool Odds are: 41.588"
-[1] "Arsenal's Barstool Odds to cover the 0.5 spread are: 60.61"
-[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 43.86"
-[1] "Barstool's line for the total is 2.5 at 1.97, which is a 50.76% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
+[1] "Arsenal's Barstool Odds to cover the 0.5 spread are: 60.24"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 44.44"
+[1] "Barstool's line for the total is 2.5 at 1.96, which is a 51.02% chance of the over 2.5 hitting. The line for the under is 1.84, which is a 54.35% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-15 11:30:00
-NULL
+         player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Granit Xhaka  ARS     46 1.85          NA  0.7269   0.1864    passes ENG England      0.5405         NA        NA         NA       NA
+         player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Granit Xhaka  ARS     42 1.51          NA  0.8829   0.2206    passes ENG England      0.6623         NA        NA         NA       NA
+               player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Martinelli  ARS     27 1.85          NA  0.7196   0.1791    passes ENG England      0.5405         NA        NA         NA       NA
+               player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Gabriel Martinelli  ARS     23 1.51          NA  0.9112   0.2489    passes ENG England      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: William Saliba  ARS     57 1.85          NA  0.7317   0.1912    passes ENG England      0.5405         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: William Saliba  ARS     53  1.6          NA  0.8737   0.2487    passes ENG England       0.625         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kevin De Bruyne  MCI     40 1.85          NA   0.848   0.3075    passes ENG England      0.5405         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kevin De Bruyne  MCI     44  2.3          NA   0.665   0.2302    passes ENG England      0.4348         NA        NA         NA       NA
+            player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Kevin De Bruyne  MCI     36 1.51          NA  0.9505   0.2882    passes ENG England      0.6623         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     80 1.88          NA  0.9983   0.4664    passes ENG England      0.5319         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     84 1.96          NA  0.9939   0.4837    passes ENG England      0.5102         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     88 2.08          NA  0.9818    0.501    passes ENG England      0.4808         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     92 2.34          NA   0.954   0.5266    passes ENG England      0.4274         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     76 1.44          NA  0.9996   0.3052    passes ENG England      0.6944         NA        NA         NA       NA
+   player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1:  Rodri  MCI     96 2.77          NA  0.9004   0.5394    passes ENG England       0.361         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jack Grealish  MCI     35 1.85          NA  0.6831   0.1426    passes ENG England      0.5405         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Jack Grealish  MCI     31 1.51          NA  0.8751   0.2128    passes ENG England      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Bernardo Silva  MCI     56 1.85          NA  0.7762   0.2357    passes ENG England      0.5405         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Bernardo Silva  MCI     60 2.17          NA  0.5958    0.135    passes ENG England      0.4608         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Bernardo Silva  MCI     52 1.58          NA  0.9012   0.2683    passes ENG England      0.6329         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     16 1.84          NA  0.9879   0.4444    passes ENG England      0.5435         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     20 2.29          NA  0.9172   0.4805    passes ENG England      0.4367         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     28  3.5          NA  0.4212   0.1355    passes ENG England      0.2857         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     24 2.75          NA  0.7165   0.3529    passes ENG England      0.3636         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Erling Haaland  MCI     12 1.51          NA  0.9993    0.337    passes ENG England      0.6623         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ilkay Gundogan  MCI     52  2.1          NA  0.8339   0.3577    passes ENG England      0.4762         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ilkay Gundogan  MCI     48 1.85          NA  0.9353   0.3948    passes ENG England      0.5405         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ilkay Gundogan  MCI     56 2.28          NA  0.6689   0.2303    passes ENG England      0.4386         NA        NA         NA       NA
+           player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Ilkay Gundogan  MCI     44 1.62          NA  0.9811   0.3638    passes ENG England      0.6173         NA        NA         NA       NA
+                player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oleksandr Zinchenko  ARS     55 1.85          NA  0.8768   0.3363    passes ENG England      0.5405         NA        NA         NA       NA
+                player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oleksandr Zinchenko  ARS     59 2.06          NA  0.7397   0.2543    passes ENG England      0.4854         NA        NA         NA       NA
+                player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Oleksandr Zinchenko  ARS     51 1.64          NA  0.9543   0.3445    passes ENG England      0.6098         NA        NA         NA       NA
+          player team number odds prob_tackle ex_prob prob_dif statistic      league prob_passes prob_shots prob_sogs prob_goals prob_ast
+1: Eddie Nketiah  ARS     14 1.51          NA  0.8536   0.1913    passes ENG England      0.6623         NA        NA         NA       NA
 [1] "____________Anytime Goalscorers______________________"
