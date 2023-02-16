@@ -1,0 +1,138 @@
+[1] "Updated at 2023-02-16 11:34:09.317"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Lazio 1.8678 to CFR 1907 Cluj 0.703"
+[1] "Total: 2.5708"
+[1] "Lazio %: 65.87"
+[1] "Draw %: 21.6"
+[1] "CFR 1907 Cluj %: 12.53"
+[1] "--XG Model--"
+[1] "Score: Lazio 1.8079 to CFR 1907 Cluj 0.552"
+[1] "Total: 2.3599"
+[1] "Lazio %: 67.98"
+[1] "Draw %: 21.66"
+[1] "CFR 1907 Cluj %: 10.36"
+[1] "--XGoT Model--"
+[1] "Score: Lazio 1.9397 to CFR 1907 Cluj 0.5367"
+[1] "Total: 2.4764"
+[1] "Lazio %: 71.27"
+[1] "Draw %: 19.66"
+[1] "CFR 1907 Cluj %: 9.07"
+[1] "--XA Model--"
+[1] "Score: Lazio 1.7222 to CFR 1907 Cluj 0.7691"
+[1] "Total: 2.4913"
+[1] "Lazio %: 60.67"
+[1] "Draw %: 23.06"
+[1] "CFR 1907 Cluj %: 16.27"
+[1] "--Mean 4 Models--"
+[1] "Lazio has a mean win % of 66.45%; a min win % of 60.67%; a max win % of 71.27%."
+[1] "Draw has a mean win % of 21.5%; a min win % of 19.66%; a max win % of 23.06%."
+[1] "CFR 1907 Cluj has a mean win % of 12.06%; a min win % of 9.07%; a max win of % 16.27%."
+[1] "Lazio has a mean win of the Double Chance of 87.94%; a min win % of 83.73%, a max win % of 90.93%."
+[1] "CFR 1907 Cluj has a mean win of the Double Chance of 33.55%; a min win % of 28.73%, a max win % of 39.33%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.45%; max % is 46.97 and min % is 41.83%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.55%; max % is 58.17 and min % is 53.03%."
+[1] "--Sportsbook Odds--"
+[1] "Lazio Barstool Odds are: 76.92"
+[1] "The Barstool Odds of a Draw are: 20"
+[1] "CFR 1907 Cluj Barstool Odds are: 8.33"
+[1] "Lazio Adjusted Barstool Odds are: 73.083"
+[1] "The Adjusted Barstool Odds of a Draw are: 19.002"
+[1] "CFR 1907 Cluj Adjusted Barstool Odds are: 7.914"
+[1] "Lazio's Barstool Odds to cover the -1.5 spread are: 50"
+[1] "CFR 1907 Cluj's Barstool Odds to cover the 1.5 spread are: 54.64"
+[1] "Barstool's line for the total is 2.5 at 2.06, which is a 48.54% chance of the over 2.5 hitting. The line for the under is 1.76, which is a 56.82% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+            bet           date_time
+1 CFR 1907 Cluj 2023-02-16 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team          | expected_attg| expected_gs|
+|:---------------------------------------|:-------------|-------------:|-----------:|
+|/players/777035/luis-maximiano          |Lazio         |      0.000000|   0.2702703|
+|/players/662205/manuel-lazzari          |Lazio         |      0.075650|   0.0588235|
+|/players/814398/nicolo-casale           |Lazio         |      0.019025|   0.0476190|
+|/players/358149/patric                  |Lazio         |      0.042025|   0.0476190|
+|/players/293160/elseid-hysaj            |Lazio         |      0.016725|   0.0303030|
+|/players/463301/sergej-milinkovic-savic |Lazio         |      0.138175|   0.2500000|
+|/players/890205/marcos-antonio          |Lazio         |      0.001625|   0.1538462|
+|/players/206322/matias-vecino           |Lazio         |      0.226250|   0.1666667|
+|/players/230190/felipe-anderson         |Lazio         |      0.166050|   0.3703704|
+|/players/161660/ciro-immobile           |Lazio         |      0.460275|   0.6000000|
+|/players/541555/mattia-zaccagni         |Lazio         |      0.236200|   0.3846154|
+|/players/1315511/ermal-krasniqi         |CFR 1907 Cluj |      0.248475|   0.1111111|
+|/players/1135820/daniel-birligea        |CFR 1907 Cluj |      0.055950|   0.1000000|
+|/players/1381566/emmanuel-yeboah        |CFR 1907 Cluj |      0.026775|   0.1000000|
+|/players/355076/bismarck-adjei-boateng  |CFR 1907 Cluj |      0.034225|   0.0666667|
+|/players/937443/karlo-muhar             |CFR 1907 Cluj |      0.033850|   0.0555556|
+|/players/70522/ciprian-ioan-deac        |CFR 1907 Cluj |      0.077575|   0.1052632|
+|/players/45335/camora                   |CFR 1907 Cluj |      0.003625|   0.0196078|
+|/players/793506/andrei-burca            |CFR 1907 Cluj |      0.005650|   0.0196078|
+|/players/776660/yuri                    |CFR 1907 Cluj |      0.034425|   0.3703704|
+|/players/574845/cristian-manea          |CFR 1907 Cluj |      0.024725|   0.0312500|
+|/players/423223/simone-scuffet          |CFR 1907 Cluj |      0.000000|   0.0476190|
+|/players/150250/pedro-rodriguez         |Lazio         |      0.062300|   0.0000000|
+|/players/362120/danilo-cataldi          |Lazio         |      0.018175|   0.0000000|
+|/players/651435/toma-basic              |Lazio         |      0.019550|   0.0000000|
+|/players/478447/adam-marusic            |Lazio         |      0.009325|   0.0000000|
+|/players/767838/jean-claude-billong     |CFR 1907 Cluj |      0.000000|   0.0000000|
+|/players/417751/cephas-malele           |CFR 1907 Cluj |      0.000000|   0.0000000|
+|/players/736514/christopher-braun       |CFR 1907 Cluj |      0.000000|   0.0000000|
+|/players/975428/claudiu-petrila         |CFR 1907 Cluj |      0.000000|   0.0000000|
+[1] "Facts about Lazio:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/777035/luis-maximiano          |           0|         30.4365|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/662205/manuel-lazzari          |           1|         45.1659|           1.4944|        0.2971|         0.7721|      0.0475|        0.0879|      0.1079| 78.0244|
+|/players/814398/nicolo-casale           |           1|         63.0910|           1.6242|        0.1787|         0.8775|      0.0585|        0.0207|      0.0508| 90.0000|
+|/players/358149/patric                  |           1|         85.0949|           1.2826|        0.1464|         0.6340|      0.0870|        0.0476|      0.0412| 90.0000|
+|/players/293160/elseid-hysaj            |           1|         70.8002|           1.6217|        0.1243|         0.4523|      0.0336|        0.0200|      0.1036| 90.0000|
+|/players/463301/sergej-milinkovic-savic |           3|         65.1647|           2.1696|        0.7583|         2.5012|      0.1874|        0.1729|      0.2094| 90.0000|
+|/players/890205/marcos-antonio          |           3|         54.4883|           1.1858|        0.1199|         0.2748|      0.0025|        0.0025|      0.0338| 74.3333|
+|/players/206322/matias-vecino           |           3|         43.3810|           1.5415|        0.5667|         1.4530|      0.1980|        0.2901|      0.0985| 75.3250|
+|/players/230190/felipe-anderson         |           5|         39.2622|           1.8031|        0.7056|         1.7182|      0.2232|        0.2061|      0.1989| 90.0000|
+|/players/161660/ciro-immobile           |           5|         26.4831|           0.2616|        1.9371|         4.6815|      0.6900|        0.6927|      0.1202| 90.0000|
+|/players/541555/mattia-zaccagni         |           5|         28.6630|           0.9803|        0.7308|         1.9777|      0.1882|        0.2919|      0.1489| 80.2105|
+|/players/150250/pedro-rodriguez         |           0|              NA|               NA|        0.3189|         0.6941|      0.0607|        0.0783|      0.0340| 15.6667|
+|/players/362120/danilo-cataldi          |           0|              NA|               NA|        0.0695|         0.3474|      0.0252|        0.0221|      0.0264| 14.6750|
+|/players/651435/toma-basic              |           0|              NA|               NA|        0.2253|         0.3098|      0.0293|        0.0220|      0.0192| 11.9756|
+|/players/478447/adam-marusic            |           0|              NA|               NA|        0.0212|         0.0847|      0.0014|        0.0095|      0.0101|  9.7895|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Maurizio Sarri |        72057|      9.277475|4-3-3     |
+____________________________________________________
+
+[1] "Facts about CFR 1907 Cluj:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1315511/ermal-krasniqi        |           5|         15.5577|           0.2940|        0.7811|         1.7205|      0.1999|        0.2943|      0.0994| 79.8000|
+|/players/1135820/daniel-birligea       |           5|         14.7105|           0.4411|        0.3348|         1.0167|      0.0586|        0.0617|      0.0123| 71.7000|
+|/players/1381566/emmanuel-yeboah       |           5|         23.3229|           2.3351|        0.1182|         1.1593|      0.0873|        0.0307|      0.0258| 90.0000|
+|/players/355076/bismarck-adjei-boateng |           3|         29.3851|           1.6595|        0.1832|         0.8325|      0.0510|        0.0358|      0.0218| 83.4444|
+|/players/937443/karlo-muhar            |           3|         37.1471|           2.1848|        0.2116|         0.8914|      0.0236|        0.0358|      0.0070| 90.0000|
+|/players/70522/ciprian-ioan-deac       |           3|         23.5770|           1.7069|        0.1963|         0.5351|      0.0829|        0.0862|      0.0769| 73.7143|
+|/players/45335/camora                  |           1|         34.7735|           1.8772|        0.0335|         0.1313|      0.0040|        0.0037|      0.0226| 90.0000|
+|/players/793506/andrei-burca           |           1|         41.5149|           1.0812|        0.0208|         0.2443|      0.0287|        0.0079|      0.0087| 90.0000|
+|/players/776660/yuri                   |           1|         27.8387|           1.6278|        0.1809|         0.5314|      0.0257|        0.0356|      0.0265| 90.0000|
+|/players/574845/cristian-manea         |           1|         34.0706|           1.2339|        0.0831|         0.2091|      0.0250|        0.0256|      0.0288| 90.0000|
+|/players/423223/simone-scuffet         |           0|         29.6682|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/767838/jean-claude-billong    |           0|              NA|               NA|        0.0000|         0.0000|      0.0080|        0.0000|      0.0000| 18.3000|
+|/players/417751/cephas-malele          |           0|              NA|               NA|        0.1010|         1.2117|      0.0302|        0.0000|      0.0028| 16.2857|
+|/players/736514/christopher-braun      |           0|              NA|               NA|        0.0000|         0.4174|      0.0079|        0.0000|      0.0209| 10.2000|
+|/players/975428/claudiu-petrila        |           0|              NA|               NA|        0.0661|         0.1322|      0.0000|        0.0000|      0.0123|  6.5556|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Dan Petrescu |         8715|     -11.97652|4-2-3-1   |
