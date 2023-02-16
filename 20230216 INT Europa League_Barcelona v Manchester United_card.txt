@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-16 08:34:58.954"
+[1] "Updated at 2023-02-16 08:40:04.095"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -48,7 +48,89 @@
                                bet           date_time
 1 over Barcelona/Manchester United 2023-02-16 09:45:00
 [1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team              | expected_attg| expected_gs|
+|:-------------------------------------|:-----------------|-------------:|-----------:|
+|/players/184554/marc-andre-ter-stegen |Barcelona         |      0.000000|   0.0588235|
+|/players/705450/jules-kound           |Barcelona         |      0.018500|   0.0714286|
+|/players/921253/ronald-araujo         |Barcelona         |      0.038425|   0.1000000|
+|/players/196169/marcos-alonso         |Barcelona         |      0.075625|   0.1538462|
+|/players/150739/jordi-alba            |Barcelona         |      0.039950|   0.0625000|
+|/players/579747/franck-kessi          |Barcelona         |      0.117800|   0.2325581|
+|/players/638622/frenkie-de-jong       |Barcelona         |      0.089625|   0.1111111|
+|/players/1083323/pedri                |Barcelona         |      0.145225|   0.1923077|
+|/players/696679/raphinha              |Barcelona         |      0.177825|   0.2564103|
+|/players/93447/robert-lewandowski     |Barcelona         |      0.516525|   0.4878049|
+|/players/1279040/gavi                 |Barcelona         |      0.212150|   0.2000000|
+|/players/351999/wout-weghorst         |Manchester United |      0.263325|   0.2173913|
+|/players/696365/marcus-rashford       |Manchester United |      0.191900|   0.2777778|
+|/players/422685/bruno-fernandes       |Manchester United |      0.142250|   0.1666667|
+|/players/846381/jadon-sancho          |Manchester United |      0.124025|   0.1538462|
+|/players/322049/fred                  |Manchester United |      0.047825|   0.0833333|
+|/players/208494/casemiro              |Manchester United |      0.056375|   0.0625000|
+|/players/865118/tyrell-malacia        |Manchester United |      0.026825|   0.0243902|
+|/players/362694/luke-shaw             |Manchester United |      0.026275|   0.0243902|
+|/players/230982/raphal-varane         |Manchester United |      0.031450|   0.0303030|
+|/players/760320/aaron-wan-bissaka     |Manchester United |      0.023175|   0.0200000|
+|/players/182917/david-de-gea          |Manchester United |      0.000000|   0.3448276|
+|/players/881771/ferran-torres         |Barcelona         |      0.090225|   0.0000000|
+|/players/1086012/ansu-fati            |Barcelona         |      0.026475|   0.0000000|
+|/players/212472/sergi-roberto         |Barcelona         |      0.020075|   0.0000000|
+|/players/940573/eric-garcia           |Barcelona         |      0.000000|   0.0000000|
+|/players/1073402/facundo-pellistri    |Manchester United |      0.003825|   0.0000000|
+|/players/1050166/anthony-elanga       |Manchester United |      0.022700|   0.0000000|
+|/players/751550/diogo-dalot           |Manchester United |      0.001200|   0.0000000|
+|/players/1203665/alejandro-garnacho   |Manchester United |      0.014125|   0.0000000|
 [1] "Facts about Barcelona:"
 [1] "Lineup: confirmed"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/184554/marc-andre-ter-stegen |           0|         41.3697|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/705450/jules-kound           |           1|         67.5344|           1.4243|        0.1722|         0.5281|      0.0412|        0.0214|      0.0432| 90.0000|
+|/players/921253/ronald-araujo         |           1|         60.6567|           2.0459|        0.1790|         0.5819|      0.0588|        0.0439|      0.0191| 90.0000|
+|/players/196169/marcos-alonso         |           1|         65.0228|           1.1485|        0.1741|         0.7804|      0.0945|        0.0900|      0.0945| 83.4194|
+|/players/150739/jordi-alba            |           1|         80.4301|           1.7043|        0.1616|         0.5018|      0.0435|        0.0460|      0.2247| 90.0000|
+|/players/579747/franck-kessi          |           3|         45.1574|           1.7600|        0.5664|         1.9681|      0.1254|        0.1396|      0.0502| 83.7222|
+|/players/638622/frenkie-de-jong       |           3|         73.8796|           1.7344|        0.3378|         0.7198|      0.1276|        0.1012|      0.1908| 90.0000|
+|/players/1083323/pedri                |           3|         61.6908|           2.0902|        0.4472|         1.2195|      0.1493|        0.1742|      0.2020| 83.6579|
+|/players/696679/raphinha              |           5|         36.8331|           0.9442|        0.6498|         2.1772|      0.2161|        0.2160|      0.3184| 73.9667|
+|/players/93447/robert-lewandowski     |           5|         26.0163|           0.3979|        2.2210|         3.7790|      0.6962|        0.7897|      0.2156| 90.0000|
+|/players/1279040/gavi                 |           5|         37.1237|           1.9056|        0.2684|         1.3855|      0.2743|        0.2547|      0.0531| 90.0000|
+|/players/881771/ferran-torres         |           0|              NA|               NA|        0.2177|         0.5754|      0.0901|        0.1084|      0.0348| 16.0333|
+|/players/1086012/ansu-fati            |           0|              NA|               NA|        0.1416|         0.3575|      0.0324|        0.0282|      0.0096|  6.5806|
+|/players/212472/sergi-roberto         |           0|              NA|               NA|        0.0469|         0.0469|      0.0185|        0.0213|      0.0104|  6.3421|
+|/players/940573/eric-garcia           |           0|              NA|               NA|        0.0000|         0.0115|      0.0007|        0.0000|      0.0016|  6.2778|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Xavi Hernandez |        60280|      14.94242|4-3-3     |
 [1] "Facts about Manchester United:"
 [1] "Lineup: confirmed"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/351999/wout-weghorst       |           5|         19.8900|           0.7215|        0.7879|         1.8399|      0.3231|        0.3073|      0.0612| 90.0000|
+|/players/696365/marcus-rashford     |           3|         21.1784|           0.6763|        0.6621|         1.5215|      0.1750|        0.2173|      0.0681| 82.8916|
+|/players/422685/bruno-fernandes     |           3|         35.7086|           2.2007|        0.6225|         1.7595|      0.1862|        0.1613|      0.1729| 86.1500|
+|/players/846381/jadon-sancho        |           3|         27.8116|           1.0051|        0.3122|         0.8774|      0.1159|        0.1396|      0.1224| 80.5606|
+|/players/322049/fred                |           2|         43.4457|           1.8373|        0.1631|         0.5732|      0.0382|        0.0494|      0.0484| 82.0729|
+|/players/208494/casemiro            |           2|         45.8717|           2.2994|        0.2141|         0.7363|      0.0762|        0.0535|      0.0747| 90.0000|
+|/players/865118/tyrell-malacia      |           1|         40.9029|           2.2405|        0.1585|         0.7308|      0.0555|        0.0280|      0.0745| 90.0000|
+|/players/362694/luke-shaw           |           1|         46.6565|           1.3848|        0.1532|         0.3355|      0.0200|        0.0307|      0.0869| 90.0000|
+|/players/230982/raphal-varane       |           1|         48.3887|           0.8846|        0.0829|         0.3474|      0.0607|        0.0325|      0.0074| 90.0000|
+|/players/760320/aaron-wan-bissaka   |           1|         40.0093|           2.4309|        0.0576|         0.1369|      0.0201|        0.0231|      0.0327| 90.0000|
+|/players/182917/david-de-gea        |           0|         23.7533|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1073402/facundo-pellistri  |           0|              NA|               NA|        0.0447|         0.0745|      0.0057|        0.0044|      0.0111|  9.4394|
+|/players/1050166/anthony-elanga     |           0|              NA|               NA|        0.1137|         0.2112|      0.0224|        0.0234|      0.0080|  7.9271|
+|/players/751550/diogo-dalot         |           0|              NA|               NA|        0.0174|         0.1220|      0.0026|        0.0010|      0.0114|  7.1084|
+|/players/1203665/alejandro-garnacho |           0|              NA|               NA|        0.0633|         0.1520|      0.0080|        0.0165|      0.0189|  3.8500|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Erik ten Hag |       116594|      25.81359|4-3-3     |
