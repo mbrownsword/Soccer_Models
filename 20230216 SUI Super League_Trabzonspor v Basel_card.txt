@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-16 07:11:16.318"
+[1] "Updated at 2023-02-16 07:54:33.742"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -50,7 +50,7 @@
 2 Basel ATS 2023-02-16 09:45:00
 [1] "____________Anytime Goalscorers______________________"
                         pageUrl2  team expected_attg expected_gs
-1: /players/1067168/zeki-amdouni Basel       0.42945    0.212766
+1: /players/1067168/zeki-amdouni Basel       0.42945   0.2173913
                       pageUrl2  team expected_attg expected_gs
 1: /players/1175969/hugo-novoa Basel      0.424125   0.1538462
                      pageUrl2  team expected_attg expected_gs
