@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-16 11:01:07.956"
+[1] "Updated at 2023-02-16 11:52:32.671"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,54 +34,54 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 57.6%; max % is 66.09 and min % is 53.13%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 42.4%; max % is 46.87 and min % is 33.91%."
 [1] "--Sportsbook Odds--"
-[1] "Bayer Leverkusen Barstool Odds are: 46.51"
-[1] "The Barstool Odds of a Draw are: 28.57"
-[1] "AS Monaco Barstool Odds are: 30.3"
-[1] "Bayer Leverkusen Adjusted Barstool Odds are: 44.136"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.111"
-[1] "AS Monaco Adjusted Barstool Odds are: 28.753"
-[1] "Bayer Leverkusen's Barstool Odds to cover the -0.25 spread are: 53.19"
-[1] "AS Monaco's Barstool Odds to cover the 0.25 spread are: 51.02"
+[1] "Bayer Leverkusen Barstool Odds are: 47.62"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "AS Monaco Barstool Odds are: 29.41"
+[1] "Bayer Leverkusen Adjusted Barstool Odds are: 44.916"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.344"
+[1] "AS Monaco Adjusted Barstool Odds are: 27.74"
+[1] "Bayer Leverkusen's Barstool Odds to cover the -0.5 spread are: 47.17"
+[1] "AS Monaco's Barstool Odds to cover the 0.5 spread are: 56.82"
 [1] "Barstool's line for the total is 2.5 at 1.74, which is a 57.47% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-            bet           date_time
-1 AS Monaco ATS 2023-02-16 12:00:00
+        bet           date_time
+1 AS Monaco 2023-02-16 12:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
-|pageUrl2                           |team             | expected_attg| expected_gs|
-|:----------------------------------|:----------------|-------------:|-----------:|
-|/players/66757/lukas-hradecky      |Bayer Leverkusen |      0.000000|   0.2631579|
-|/players/966018/jeremie-frimpong   |Bayer Leverkusen |      0.064300|   0.1666667|
-|/players/469700/jonathan-tah       |Bayer Leverkusen |      0.018850|   0.0500000|
-|/players/789914/edmond-tapsoba     |Bayer Leverkusen |      0.020125|   0.1666667|
-|/players/1137667/piero-hincapi     |Bayer Leverkusen |      0.031100|   0.0476190|
-|/players/411851/robert-andrich     |Bayer Leverkusen |      0.083125|   0.1754386|
-|/players/693599/exequiel-palacios  |Bayer Leverkusen |      0.050200|   0.0714286|
-|/players/614449/nadiem-amiri       |Bayer Leverkusen |      0.179150|   0.1666667|
-|/players/1152455/florian-wirtz     |Bayer Leverkusen |      0.317400|   0.2380952|
-|/players/969870/adam-hlozek        |Bayer Leverkusen |      0.172250|   0.3030303|
-|/players/923498/moussa-diaby       |Bayer Leverkusen |      0.295075|   0.3921569|
-|/players/527103/breel-embolo       |AS Monaco        |      0.131025|   0.2941176|
-|/players/408943/takumi-minamino    |AS Monaco        |      0.222050|   0.2702703|
-|/players/586388/aleksandr-golovin  |AS Monaco        |      0.155975|   0.1851852|
-|/players/924518/mohamed-camara     |AS Monaco        |      0.024300|   0.0714286|
-|/players/954621/youssouf-fofana    |AS Monaco        |      0.028900|   0.0526316|
-|/players/837061/krepin-diatta      |AS Monaco        |      0.166075|   0.2380952|
-|/players/769525/caio-henrique      |AS Monaco        |      0.012825|   0.1250000|
-|/players/402830/guillermo-maripan  |AS Monaco        |      0.032600|   0.0909091|
-|/players/696646/axel-disasi        |AS Monaco        |      0.063875|   0.1000000|
-|/players/561046/ruben-aguilar      |AS Monaco        |      0.005650|   0.0833333|
-|/players/554534/alexander-nbel     |AS Monaco        |      0.000000|   0.0714286|
-|/players/846383/callum-hudson-odoi |Bayer Leverkusen |      0.053350|   0.0000000|
-|/players/331540/kerem-demirbay     |Bayer Leverkusen |      0.009000|   0.0000000|
-|/players/891870/mitchel-bakker     |Bayer Leverkusen |      0.017625|   0.0000000|
-|/players/1079557/amine-adli        |Bayer Leverkusen |      0.049100|   0.0000000|
-|/players/906945/ismail-jakobs      |AS Monaco        |      0.039225|   0.0000000|
-|/players/866517/myron-boadu        |AS Monaco        |      0.078850|   0.0000000|
-|/players/210184/wissam-ben-yedder  |AS Monaco        |      0.254275|   0.0000000|
-|/players/575225/gelson-martins     |AS Monaco        |      0.003450|   0.0000000|
+|pageUrl2                           |team             | expected_attg| expected_gs|bet |
+|:----------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/66757/lukas-hradecky      |Bayer Leverkusen |      0.000000|   0.2777778|    |
+|/players/966018/jeremie-frimpong   |Bayer Leverkusen |      0.064300|   0.1666667|    |
+|/players/469700/jonathan-tah       |Bayer Leverkusen |      0.018850|   0.0500000|    |
+|/players/789914/edmond-tapsoba     |Bayer Leverkusen |      0.020125|   0.1666667|    |
+|/players/1137667/piero-hincapi     |Bayer Leverkusen |      0.031100|   0.0476190|    |
+|/players/411851/robert-andrich     |Bayer Leverkusen |      0.083125|   0.1754386|    |
+|/players/693599/exequiel-palacios  |Bayer Leverkusen |      0.050200|   0.0714286|    |
+|/players/614449/nadiem-amiri       |Bayer Leverkusen |      0.179150|   0.1666667|    |
+|/players/1152455/florian-wirtz     |Bayer Leverkusen |      0.317400|   0.2439024|*   |
+|/players/969870/adam-hlozek        |Bayer Leverkusen |      0.172250|   0.3030303|    |
+|/players/923498/moussa-diaby       |Bayer Leverkusen |      0.295075|   0.3921569|    |
+|/players/527103/breel-embolo       |AS Monaco        |      0.131025|   0.2941176|    |
+|/players/408943/takumi-minamino    |AS Monaco        |      0.222050|   0.2777778|    |
+|/players/586388/aleksandr-golovin  |AS Monaco        |      0.155975|   0.1886792|    |
+|/players/924518/mohamed-camara     |AS Monaco        |      0.024300|   0.0714286|    |
+|/players/954621/youssouf-fofana    |AS Monaco        |      0.028900|   0.0555556|    |
+|/players/837061/krepin-diatta      |AS Monaco        |      0.166075|   0.2439024|    |
+|/players/769525/caio-henrique      |AS Monaco        |      0.012825|   0.1250000|    |
+|/players/402830/guillermo-maripan  |AS Monaco        |      0.032600|   0.0952381|    |
+|/players/696646/axel-disasi        |AS Monaco        |      0.063875|   0.1000000|    |
+|/players/561046/ruben-aguilar      |AS Monaco        |      0.005650|   0.0833333|    |
+|/players/554534/alexander-nbel     |AS Monaco        |      0.000000|   0.0714286|    |
+|/players/846383/callum-hudson-odoi |Bayer Leverkusen |      0.053350|   0.0000000|*   |
+|/players/331540/kerem-demirbay     |Bayer Leverkusen |      0.009000|   0.0000000|    |
+|/players/891870/mitchel-bakker     |Bayer Leverkusen |      0.017625|   0.0000000|    |
+|/players/1079557/amine-adli        |Bayer Leverkusen |      0.049100|   0.0000000|    |
+|/players/906945/ismail-jakobs      |AS Monaco        |      0.039225|   0.0000000|    |
+|/players/866517/myron-boadu        |AS Monaco        |      0.078850|   0.0000000|*   |
+|/players/210184/wissam-ben-yedder  |AS Monaco        |      0.254275|   0.0000000|*   |
+|/players/575225/gelson-martins     |AS Monaco        |      0.003450|   0.0000000|    |
 [1] "Facts about Bayer Leverkusen:"
 [1] "Lineup: confirmed"
 
