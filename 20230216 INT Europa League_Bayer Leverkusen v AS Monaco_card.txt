@@ -1,0 +1,137 @@
+[1] "Updated at 2023-02-16 10:47:36.232"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Bayer Leverkusen 1.5296 to AS Monaco 1.2425"
+[1] "Total: 2.7721"
+[1] "Bayer Leverkusen %: 43.99"
+[1] "Draw %: 25.14"
+[1] "AS Monaco %: 30.87"
+[1] "--XG Model--"
+[1] "Score: Bayer Leverkusen 1.5057 to AS Monaco 1.3752"
+[1] "Total: 2.8809"
+[1] "Bayer Leverkusen %: 40.55"
+[1] "Draw %: 24.95"
+[1] "AS Monaco %: 34.5"
+[1] "--XGoT Model--"
+[1] "Score: Bayer Leverkusen 1.6581 to AS Monaco 1.5934"
+[1] "Total: 3.2515"
+[1] "Bayer Leverkusen %: 39.37"
+[1] "Draw %: 23.08"
+[1] "AS Monaco %: 37.55"
+[1] "--XA Model--"
+[1] "Score: Bayer Leverkusen 1.5539 to AS Monaco 1.2151"
+[1] "Total: 2.769"
+[1] "Bayer Leverkusen %: 45.3"
+[1] "Draw %: 24.88"
+[1] "AS Monaco %: 29.82"
+[1] "--Mean 4 Models--"
+[1] "Bayer Leverkusen has a mean win % of 42.3%; a min win % of 39.37%; a max win % of 45.3%."
+[1] "Draw has a mean win % of 24.51%; a min win % of 23.08%; a max win % of 25.14%."
+[1] "AS Monaco has a mean win % of 33.18%; a min win % of 29.82%; a max win of % 37.55%."
+[1] "Bayer Leverkusen has a mean win of the Double Chance of 66.82%; a min win % of 62.45%, a max win % of 70.18%."
+[1] "AS Monaco has a mean win of the Double Chance of 57.7%; a min win % of 54.7%, a max win % of 60.63%."
+[1] "The mean likelihood that there are more than 2.5 goals is 54.76%; max % is 62.43 and min % is 51.16%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 45.24%; max % is 48.84 and min % is 37.57%."
+[1] "--Sportsbook Odds--"
+[1] "Bayer Leverkusen Barstool Odds are: 46.51"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "AS Monaco Barstool Odds are: 30.3"
+[1] "Bayer Leverkusen Adjusted Barstool Odds are: 44.136"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.111"
+[1] "AS Monaco Adjusted Barstool Odds are: 28.753"
+[1] "Bayer Leverkusen's Barstool Odds to cover the -0.25 spread are: 53.19"
+[1] "AS Monaco's Barstool Odds to cover the 0.25 spread are: 51.02"
+[1] "Barstool's line for the total is 2.5 at 1.74, which is a 57.47% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+            bet           date_time
+1 AS Monaco ATS 2023-02-16 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team             | expected_attg| expected_gs|
+|:----------------------------------|:----------------|-------------:|-----------:|
+|/players/66757/lukas-hradecky      |Bayer Leverkusen |      0.000000|   0.2631579|
+|/players/966018/jeremie-frimpong   |Bayer Leverkusen |      0.066300|   0.1666667|
+|/players/469700/jonathan-tah       |Bayer Leverkusen |      0.020075|   0.0526316|
+|/players/789914/edmond-tapsoba     |Bayer Leverkusen |      0.019225|   0.1666667|
+|/players/1137667/piero-hincapi     |Bayer Leverkusen |      0.031250|   0.0476190|
+|/players/411851/robert-andrich     |Bayer Leverkusen |      0.081775|   0.1754386|
+|/players/693599/exequiel-palacios  |Bayer Leverkusen |      0.051175|   0.0714286|
+|/players/614449/nadiem-amiri       |Bayer Leverkusen |      0.181550|   0.1666667|
+|/players/1152455/florian-wirtz     |Bayer Leverkusen |      0.322475|   0.2439024|
+|/players/969870/adam-hlozek        |Bayer Leverkusen |      0.174825|   0.3030303|
+|/players/923498/moussa-diaby       |Bayer Leverkusen |      0.297675|   0.4000000|
+|/players/527103/breel-embolo       |AS Monaco        |      0.133025|   0.2941176|
+|/players/408943/takumi-minamino    |AS Monaco        |      0.224825|   0.2777778|
+|/players/586388/aleksandr-golovin  |AS Monaco        |      0.157200|   0.1851852|
+|/players/924518/mohamed-camara     |AS Monaco        |      0.023350|   0.0714286|
+|/players/954621/youssouf-fofana    |AS Monaco        |      0.028750|   0.0526316|
+|/players/837061/krepin-diatta      |AS Monaco        |      0.169225|   0.2439024|
+|/players/769525/caio-henrique      |AS Monaco        |      0.013325|   0.1250000|
+|/players/402830/guillermo-maripan  |AS Monaco        |      0.033550|   0.0909091|
+|/players/696646/axel-disasi        |AS Monaco        |      0.069625|   0.1000000|
+|/players/561046/ruben-aguilar      |AS Monaco        |      0.006475|   0.0833333|
+|/players/554534/alexander-nbel     |AS Monaco        |      0.000000|   0.0714286|
+|/players/630672/patrick-pentz      |Bayer Leverkusen |      0.000000|   0.0000000|
+|/players/846383/callum-hudson-odoi |Bayer Leverkusen |      0.039100|   0.0000000|
+|/players/331540/kerem-demirbay     |Bayer Leverkusen |      0.008200|   0.0000000|
+|/players/891870/mitchel-bakker     |Bayer Leverkusen |      0.010850|   0.0000000|
+|/players/478110/thomas-didillon    |AS Monaco        |      0.000000|   0.0000000|
+|/players/906945/ismail-jakobs      |AS Monaco        |      0.035000|   0.0000000|
+|/players/866517/myron-boadu        |AS Monaco        |      0.071100|   0.0000000|
+|/players/210184/wissam-ben-yedder  |AS Monaco        |      0.206875|   0.0000000|
+[1] "Facts about Bayer Leverkusen:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/66757/lukas-hradecky      |           0|         42.5009|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/966018/jeremie-frimpong   |           1|         39.7907|           1.7520|        0.1834|         0.5585|      0.0694|        0.0766|      0.1975| 90.0000|
+|/players/469700/jonathan-tah       |           1|         64.5270|           1.2849|        0.0608|         0.4307|      0.0331|        0.0219|      0.0258| 90.0000|
+|/players/789914/edmond-tapsoba     |           1|         71.7412|           2.0310|        0.0940|         0.5829|      0.0323|        0.0216|      0.0305| 90.0000|
+|/players/1137667/piero-hincapi     |           1|         53.4570|           2.1923|        0.2240|         0.5646|      0.0304|        0.0362|      0.0243| 90.0000|
+|/players/411851/robert-andrich     |           3|         48.8826|           1.6556|        0.3055|         1.1103|      0.0959|        0.0977|      0.0345| 90.0000|
+|/players/693599/exequiel-palacios  |           3|         50.5274|           2.6765|        0.2080|         0.6576|      0.0655|        0.0607|      0.0723| 73.3684|
+|/players/614449/nadiem-amiri       |           3|         43.3269|           0.5576|        0.7056|         1.5777|      0.1939|        0.2241|      0.1648| 78.6964|
+|/players/1152455/florian-wirtz     |           5|         42.2985|           2.7310|        0.7993|         1.6638|      0.2811|        0.4325|      0.1704| 90.0000|
+|/players/969870/adam-hlozek        |           5|         19.5765|           0.4222|        0.5273|         1.8521|      0.2399|        0.2151|      0.0628| 77.5263|
+|/players/923498/moussa-diaby       |           5|         28.8585|           0.4104|        1.3688|         2.6369|      0.3901|        0.3814|      0.1491| 83.7907|
+|/players/630672/patrick-pentz      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 16.6316|
+|/players/846383/callum-hudson-odoi |           0|              NA|               NA|        0.0717|         0.2294|      0.0250|        0.0466|      0.0404| 12.4737|
+|/players/331540/kerem-demirbay     |           0|              NA|               NA|        0.0520|         0.1949|      0.0158|        0.0087|      0.0481| 11.3036|
+|/players/891870/mitchel-bakker     |           0|              NA|               NA|        0.0276|         0.0368|      0.0099|        0.0118|      0.0050|  6.2093|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Xabi Alonso  |        14831|          4.63|3-4-3     |
+[1] "____________________________________________________\n\n"
+[1] "Facts about AS Monaco:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/527103/breel-embolo      |           5|         19.9264|           0.7018|        0.6351|         1.6131|      0.2661|        0.1794|      0.0611| 79.6071|
+|/players/408943/takumi-minamino   |           4|         30.6737|           1.1097|        0.6385|         1.5277|      0.2006|        0.3208|      0.0983| 72.4444|
+|/players/586388/aleksandr-golovin |           3|         29.0961|           1.7077|        0.4416|         1.0524|      0.1292|        0.2173|      0.1516| 74.4615|
+|/players/924518/mohamed-camara    |           3|         50.8736|           2.4287|        0.1004|         0.6006|      0.0470|        0.0302|      0.0463| 90.0000|
+|/players/954621/youssouf-fofana   |           3|         45.9987|           2.1392|        0.2129|         0.9072|      0.0801|        0.0361|      0.0633| 90.0000|
+|/players/837061/krepin-diatta     |           3|         27.7721|           0.8175|        0.7062|         1.2186|      0.1519|        0.2258|      0.0987| 76.6667|
+|/players/769525/caio-henrique     |           1|         37.9956|           1.9921|        0.0966|         0.3199|      0.0186|        0.0165|      0.0684| 90.0000|
+|/players/402830/guillermo-maripan |           1|         49.0799|           1.4347|        0.1332|         0.5153|      0.0527|        0.0434|      0.0092| 90.0000|
+|/players/696646/axel-disasi       |           1|         48.2148|           1.1312|        0.1525|         0.6579|      0.0772|        0.0848|      0.0243| 90.0000|
+|/players/561046/ruben-aguilar     |           1|         46.0242|           2.5589|        0.0703|         0.3666|      0.0164|        0.0079|      0.0810| 90.0000|
+|/players/554534/alexander-nbel    |           0|         31.3199|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/478110/thomas-didillon   |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 17.5556|
+|/players/906945/ismail-jakobs     |           0|              NA|               NA|        0.0809|         0.1617|      0.0374|        0.0475|      0.0602| 15.5385|
+|/players/866517/myron-boadu       |           0|              NA|               NA|        0.1455|         0.2778|      0.1025|        0.0922|      0.0162| 13.3333|
+|/players/210184/wissam-ben-yedder |           0|              NA|               NA|        0.3239|         0.4564|      0.1956|        0.2918|      0.0173| 10.3929|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Philippe Clement |       119715|      15.35652|4-3-3     |
