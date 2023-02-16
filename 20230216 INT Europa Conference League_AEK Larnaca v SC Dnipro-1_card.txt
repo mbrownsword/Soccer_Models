@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-16 11:24:06.566"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AEK Larnaca 0.8161 to SC Dnipro-1 0.8776"
+[1] "Total: 1.6937"
+[1] "AEK Larnaca %: 30.97"
+[1] "Draw %: 34.45"
+[1] "SC Dnipro-1 %: 34.58"
+[1] "--XG Model--"
+[1] "Score: AEK Larnaca 0.3925 to SC Dnipro-1 1.173"
+[1] "Total: 1.5655"
+[1] "AEK Larnaca %: 12.12"
+[1] "Draw %: 31.76"
+[1] "SC Dnipro-1 %: 56.12"
+[1] "--XGoT Model--"
+[1] "Score: AEK Larnaca 0.6106 to SC Dnipro-1 1.2828"
+[1] "Total: 1.8934"
+[1] "AEK Larnaca %: 17.32"
+[1] "Draw %: 29.55"
+[1] "SC Dnipro-1 %: 53.13"
+[1] "--XA Model--"
+[1] "Score: AEK Larnaca 0.7665 to SC Dnipro-1 1.1352"
+[1] "Total: 1.9017"
+[1] "AEK Larnaca %: 25.05"
+[1] "Draw %: 31.53"
+[1] "SC Dnipro-1 %: 43.42"
+[1] "--Mean 4 Models--"
+[1] "AEK Larnaca has a mean win % of 21.37%; a min win % of 12.12%; a max win % of 30.97%."
+[1] "Draw has a mean win % of 31.82%; a min win % of 29.55%; a max win % of 34.45%."
+[1] "SC Dnipro-1 has a mean win % of 46.81%; a min win % of 34.58%; a max win of % 56.12%."
+[1] "AEK Larnaca has a mean win of the Double Chance of 53.19%; a min win % of 43.88%, a max win % of 65.42%."
+[1] "SC Dnipro-1 has a mean win of the Double Chance of 78.64%; a min win % of 69.03%, a max win % of 87.88%."
+[1] "The mean likelihood that there are more than 2.5 goals is 25.34%; max % is 28.93 and min % is 20.18%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 74.66%; max % is 79.82 and min % is 71.07%."
+[1] "--Sportsbook Odds--"
+[1] "AEK Larnaca Barstool Odds are: 41.67"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "SC Dnipro-1 Barstool Odds are: 32.26"
+[1] "AEK Larnaca Adjusted Barstool Odds are: 39.799"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.389"
+[1] "SC Dnipro-1 Adjusted Barstool Odds are: 30.812"
+[1] "AEK Larnaca's Barstool Odds to cover the -0.25 spread are: 48.78"
+[1] "SC Dnipro-1's Barstool Odds to cover the 0.25 spread are: 55.56"
+[1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                            bet           date_time
+1                   SC Dnipro-1 2023-02-16 12:00:00
+2 under AEK Larnaca/SC Dnipro-1 2023-02-16 12:00:00
+3               SC Dnipro-1 ATS 2023-02-16 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team        | expected_attg| expected_gs|
+|:-------------------------------------|:-----------|-------------:|-----------:|
+|/players/559272/kenan-piric           |AEK Larnaca |      0.000000|   0.3921569|
+|/players/104382/roberto-rosales       |AEK Larnaca |      0.016425|   0.0333333|
+|/players/208583/hrvoje-milicevic      |AEK Larnaca |      0.012700|   0.0333333|
+|/players/144999/nenad-tomovic         |AEK Larnaca |      0.016000|   0.0333333|
+|/players/639163/angel-garcia          |AEK Larnaca |      0.013275|   0.0476190|
+|/players/391408/pere-pons             |AEK Larnaca |      0.011525|   0.1176471|
+|/players/361307/gus-ledes             |AEK Larnaca |      0.034850|   0.0769231|
+|/players/866160/imad-faraj            |AEK Larnaca |      0.086175|   0.2222222|
+|/players/39102/ivan-trickovski        |AEK Larnaca |      0.086250|   0.2702703|
+|/players/466623/marin-jakolis         |AEK Larnaca |      0.080475|   0.1666667|
+|/players/214450/rafael-lopes          |AEK Larnaca |      0.130250|   0.2777778|
+|/players/655696/artem-dovbyk          |SC Dnipro-1 |      0.272875|   0.3125000|
+|/players/1106871/peglow               |SC Dnipro-1 |      0.150900|   0.1538462|
+|/players/851182/oleksandr-pikhalyonok |SC Dnipro-1 |      0.154225|   0.2040816|
+|/players/620553/oleksiy-hutsuliak     |SC Dnipro-1 |      0.151200|   0.1666667|
+|/players/1394904/valentyn-rubchynskyi |SC Dnipro-1 |      0.101900|   0.1176471|
+|/players/273190/ruslan-babenko        |SC Dnipro-1 |      0.016350|   0.0416667|
+|/players/979748/yanis-hamache         |SC Dnipro-1 |      0.028600|   0.1666667|
+|/players/1270729/eduard-sarapiy       |SC Dnipro-1 |      0.029150|   0.0952381|
+|/players/510306/oleksandr-svatok      |SC Dnipro-1 |      0.026825|   0.0232558|
+|/players/765156/hayner                |SC Dnipro-1 |      0.026150|   0.0416667|
+|/players/789846/max-walef             |SC Dnipro-1 |      0.000000|   0.2222222|
+|/players/72542/oier                   |AEK Larnaca |      0.000000|   0.0000000|
+|/players/115739/nemanja-nikolic       |AEK Larnaca |      0.071250|   0.0000000|
+|/players/485841/kypros-christoforou   |AEK Larnaca |      0.000000|   0.0000000|
+|/players/1094772/giorgos-naoum        |AEK Larnaca |      0.023425|   0.0000000|
+|/players/459662/volodymyr-tanchyk     |SC Dnipro-1 |      0.000000|   0.0000000|
+|/players/629917/sergiy-gorbunov       |SC Dnipro-1 |      0.000000|   0.0000000|
+|/players/689544/igor-kogut            |SC Dnipro-1 |      0.000000|   0.0000000|
+|/players/723671/domingo-blanco        |SC Dnipro-1 |      0.000000|   0.0000000|
+[1] "Facts about AEK Larnaca:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/559272/kenan-piric         |           0|         26.5097|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/104382/roberto-rosales     |           1|         30.9261|           1.9840|        0.1264|         0.5645|      0.0337|        0.0182|      0.0126| 90.0000|
+|/players/208583/hrvoje-milicevic    |           1|         45.6986|           1.9320|        0.0680|         0.1038|      0.0042|        0.0182|      0.0032| 90.0000|
+|/players/144999/nenad-tomovic       |           1|         45.3731|           1.2985|        0.0680|         0.3038|      0.0135|        0.0182|      0.0414| 90.0000|
+|/players/639163/angel-garcia        |           1|         35.3844|           1.3420|        0.0680|         0.2523|      0.0232|        0.0182|      0.0449| 90.0000|
+|/players/391408/pere-pons           |           2|         26.6732|           3.0732|        0.1993|         0.4690|      0.0357|        0.0160|      0.0237| 76.0000|
+|/players/361307/gus-ledes           |           2|         50.4387|           1.1371|        0.0843|         0.5289|      0.0077|        0.0447|      0.0394| 90.0000|
+|/players/866160/imad-faraj          |           3|         21.8553|           1.9846|        0.1186|         0.5602|      0.0685|        0.1048|      0.0575| 78.4615|
+|/players/39102/ivan-trickovski      |           3|         21.5874|           0.7818|        0.5139|         1.0115|      0.0671|        0.1048|      0.0563| 76.8333|
+|/players/466623/marin-jakolis       |           3|         30.2921|           1.1727|        0.5139|         1.4161|      0.0786|        0.1048|      0.0659| 90.0000|
+|/players/214450/rafael-lopes        |           5|         14.5470|           0.5111|        0.4800|         1.0898|      0.1098|        0.1692|      0.0255| 73.0000|
+|/players/72542/oier                 |           0|              NA|               NA|        0.0000|         0.2352|      0.0023|        0.0000|      0.0486| 17.0000|
+|/players/115739/nemanja-nikolic     |           0|              NA|               NA|        0.1987|         0.2484|      0.0714|        0.0918|      0.0033| 14.0000|
+|/players/485841/kypros-christoforou |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0042| 13.1667|
+|/players/1094772/giorgos-naoum      |           0|              NA|               NA|        0.1599|         0.1599|      0.0043|        0.0294|      0.0064| 11.5385|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Jose Luis Oltra |         8244|     -6.820714|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about SC Dnipro-1:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/655696/artem-dovbyk          |           5|         22.0615|           0.5872|        0.6481|         1.5289|      0.3700|        0.3728|      0.0793| 90.0000|
+|/players/1106871/peglow               |           3|         12.2156|           0.8593|        0.2319|         0.4579|      0.1099|        0.1913|      0.0839| 54.7500|
+|/players/851182/oleksandr-pikhalyonok |           3|         57.6764|           1.0189|        0.3812|         1.4660|      0.1807|        0.1913|      0.1379| 90.0000|
+|/players/620553/oleksiy-hutsuliak     |           3|         21.9141|           1.1457|        0.3572|         0.9158|      0.1258|        0.1913|      0.0960| 62.6667|
+|/players/1394904/valentyn-rubchynskyi |           2|         45.1211|           2.1122|        0.1640|         0.4181|      0.1145|        0.1248|      0.1107| 75.5000|
+|/players/273190/ruslan-babenko        |           2|         59.3496|           1.5502|        0.1354|         0.6904|      0.0171|        0.0196|      0.0174| 90.0000|
+|/players/979748/yanis-hamache         |           1|         31.1137|           1.2495|        0.1644|         0.5313|      0.0399|        0.0340|      0.0478| 82.7143|
+|/players/1270729/eduard-sarapiy       |           1|         79.7260|           2.2295|        0.0583|         0.2309|      0.0434|        0.0340|      0.0520| 90.0000|
+|/players/510306/oleksandr-svatok      |           1|         71.3325|           1.4058|        0.0583|         0.2309|      0.0434|        0.0340|      0.0520| 90.0000|
+|/players/765156/hayner                |           1|         29.0530|           1.2328|        0.0583|         0.2309|      0.0434|        0.0340|      0.0520| 90.0000|
+|/players/789846/max-walef             |           0|         30.4146|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/459662/volodymyr-tanchyk     |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0417| 35.2500|
+|/players/629917/sergiy-gorbunov       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 27.3333|
+|/players/689544/igor-kogut            |           0|              NA|               NA|        0.0000|         0.2859|      0.0289|        0.0000|      0.0114| 14.5000|
+|/players/723671/domingo-blanco        |           0|              NA|               NA|        0.0000|         0.0979|      0.0000|        0.0000|      0.0072|  7.2857|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Pascal Jansen |          990|          9.79|4-3-3     |
