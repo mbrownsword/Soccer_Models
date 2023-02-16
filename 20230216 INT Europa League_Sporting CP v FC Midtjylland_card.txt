@@ -1,0 +1,139 @@
+[1] "Updated at 2023-02-16 11:09:07.520"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Sporting CP 1.8343 to FC Midtjylland 0.9163"
+[1] "Total: 2.7506"
+[1] "Sporting CP %: 59.43"
+[1] "Draw %: 22.55"
+[1] "FC Midtjylland %: 18.02"
+[1] "--XG Model--"
+[1] "Score: Sporting CP 2.0503 to FC Midtjylland 0.8414"
+[1] "Total: 2.8917"
+[1] "Sporting CP %: 65.7"
+[1] "Draw %: 20.54"
+[1] "FC Midtjylland %: 13.76"
+[1] "--XGoT Model--"
+[1] "Score: Sporting CP 2.1252 to FC Midtjylland 1.1636"
+[1] "Total: 3.2888"
+[1] "Sporting CP %: 59.75"
+[1] "Draw %: 20.62"
+[1] "FC Midtjylland %: 19.63"
+[1] "--XA Model--"
+[1] "Score: Sporting CP 1.9375 to FC Midtjylland 0.9857"
+[1] "Total: 2.9232"
+[1] "Sporting CP %: 59.51"
+[1] "Draw %: 21.69"
+[1] "FC Midtjylland %: 18.8"
+[1] "--Mean 4 Models--"
+[1] "Sporting CP has a mean win % of 61.1%; a min win % of 59.43%; a max win % of 65.7%."
+[1] "Draw has a mean win % of 21.35%; a min win % of 20.54%; a max win % of 22.55%."
+[1] "FC Midtjylland has a mean win % of 17.55%; a min win % of 13.76%; a max win of % 19.63%."
+[1] "Sporting CP has a mean win of the Double Chance of 82.45%; a min win % of 80.37%, a max win % of 86.24%."
+[1] "FC Midtjylland has a mean win of the Double Chance of 38.9%; a min win % of 34.3%, a max win % of 40.57%."
+[1] "The mean likelihood that there are more than 2.5 goals is 56.24%; max % is 63.66 and min % is 51.46%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 43.76%; max % is 48.54 and min % is 36.34%."
+[1] "--Sportsbook Odds--"
+[1] "Sporting CP Barstool Odds are: 76.92"
+[1] "The Barstool Odds of a Draw are: 18.52"
+[1] "FC Midtjylland Barstool Odds are: 10"
+[1] "Sporting CP Adjusted Barstool Odds are: 72.951"
+[1] "The Adjusted Barstool Odds of a Draw are: 17.564"
+[1] "FC Midtjylland Adjusted Barstool Odds are: 9.484"
+[1] "Sporting CP's Barstool Odds to cover the -1.5 spread are: 52.36"
+[1] "FC Midtjylland's Barstool Odds to cover the 1.5 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                              bet           date_time
+1 draw Sporting CP/FC Midtjylland 2023-02-16 12:00:00
+2                  FC Midtjylland 2023-02-16 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team           | expected_attg| expected_gs|
+|:------------------------------------|:--------------|-------------:|-----------:|
+|/players/40648/antonio-adan          |Sporting CP    |      0.000000|   0.3846154|
+|/players/611831/jerry-st-juste       |Sporting CP    |      0.069050|   0.1000000|
+|/players/165526/sebastin-coates      |Sporting CP    |      0.064125|   0.0952381|
+|/players/653592/matheus              |Sporting CP    |      0.012900|   0.4444444|
+|/players/300918/ricardo-esgaio       |Sporting CP    |      0.024525|   0.0769231|
+|/players/875133/pedro-goncalves      |Sporting CP    |      0.228025|   0.0454545|
+|/players/1035614/manuel-ugarte       |Sporting CP    |      0.017675|   0.1250000|
+|/players/554283/nuno-santos          |Sporting CP    |      0.091650|   0.4651163|
+|/players/637744/marcus-edwards       |Sporting CP    |      0.292150|   0.3846154|
+|/players/361377/paulinho             |Sporting CP    |      0.479725|   0.0217391|
+|/players/689051/arthur               |Sporting CP    |      0.112625|   0.0909091|
+|/players/1332217/valdemar-byskov     |FC Midtjylland |      0.098400|   0.1000000|
+|/players/1129810/frederik-heiselberg |FC Midtjylland |      0.099650|   0.4166667|
+|/players/1016093/gustav-isaksen      |FC Midtjylland |      0.098125|   0.1333333|
+|/players/578187/kristoffer-olsson    |FC Midtjylland |      0.021650|   0.0526316|
+|/players/1137909/emiliano-martinez   |FC Midtjylland |      0.012225|   0.0526316|
+|/players/1057426/armin-gigovic       |FC Midtjylland |      0.042225|   0.0909091|
+|/players/891678/paulinho             |FC Midtjylland |      0.025250|   0.0217391|
+|/players/395651/stefan-gartenmann    |FC Midtjylland |      0.037450|   0.0256410|
+|/players/31241/henrik-dalsgaard      |FC Midtjylland |      0.056300|   0.0256410|
+|/players/614167/joel-andersson       |FC Midtjylland |      0.030175|   0.0344828|
+|/players/120598/jonas-lssl           |FC Midtjylland |      0.000000|   0.1000000|
+|/players/732282/trincao              |Sporting CP    |      0.056375|   0.0000000|
+|/players/785716/jovane-cabral        |Sporting CP    |      0.099275|   0.0000000|
+|/players/554285/rochinha             |Sporting CP    |      0.066000|   0.0000000|
+|/players/164319/neto                 |Sporting CP    |      0.000000|   0.0000000|
+|/players/848296/edward-chilufya      |FC Midtjylland |      0.281425|   0.0000000|
+|/players/775266/charles              |FC Midtjylland |      0.018725|   0.0000000|
+|/players/467648/mads-dhr-thychosen   |FC Midtjylland |      0.000000|   0.0000000|
+|/players/658261/juninho              |FC Midtjylland |      0.024800|   0.0000000|
+[1] "Facts about Sporting CP:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/40648/antonio-adan     |           0|         30.8794|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/611831/jerry-st-juste  |           1|         50.5947|           1.6512|        0.1950|         0.9090|      0.0792|        0.0792|      0.0191| 90.0000|
+|/players/165526/sebastin-coates |           1|         63.4565|           1.3103|        0.2855|         1.0139|      0.1348|        0.0779|      0.0460| 90.0000|
+|/players/653592/matheus         |           1|         81.1479|           1.3978|        0.0774|         0.3644|      0.0176|        0.0137|      0.0640| 90.0000|
+|/players/300918/ricardo-esgaio  |           3|         56.7131|           2.1120|        0.1490|         0.4337|      0.0516|        0.0283|      0.1232| 90.0000|
+|/players/875133/pedro-goncalves |           3|         42.5772|           1.7922|        0.7328|         2.0629|      0.2239|        0.2986|      0.2166| 90.0000|
+|/players/1035614/manuel-ugarte  |           3|         46.4966|           2.6442|        0.0956|         0.5247|      0.0263|        0.0194|      0.0232| 79.2963|
+|/players/554283/nuno-santos     |           3|         47.0498|           1.0317|        0.3121|         1.1559|      0.0935|        0.1071|      0.2024| 79.1346|
+|/players/637744/marcus-edwards  |           5|         27.2751|           0.5414|        0.7734|         2.2564|      0.2997|        0.3811|      0.2891| 77.8143|
+|/players/361377/paulinho        |           5|         26.9381|           0.7718|        1.4382|         3.4961|      0.7233|        0.7339|      0.1810| 90.0000|
+|/players/689051/arthur          |           5|         29.1371|           1.4766|        0.9892|         2.1320|      0.2014|        0.1391|      0.1394| 73.6429|
+|/players/732282/trincao         |           0|              NA|               NA|        0.2905|         0.7690|      0.0577|        0.0674|      0.0346| 16.3571|
+|/players/785716/jovane-cabral   |           0|              NA|               NA|        0.2255|         0.5824|      0.1142|        0.1197|      0.0446| 12.1857|
+|/players/554285/rochinha        |           0|              NA|               NA|        0.1458|         0.2916|      0.0408|        0.0787|      0.0175| 10.8654|
+|/players/164319/neto            |           0|              NA|               NA|        0.0000|         0.0617|      0.0054|        0.0000|      0.0000| 10.7037|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ruben Amorim |        93632|      16.89545|3-4-3     |
+____________________________________________________
+
+[1] "Facts about FC Midtjylland:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1332217/valdemar-byskov     |           5|          6.3527|           0.5674|        0.0873|         0.2732|      0.0319|        0.1400|      0.0110| 20.0000|
+|/players/1129810/frederik-heiselberg |           5|         14.5877|           0.4203|        0.3539|         1.2927|      0.1294|        0.1400|      0.0445| 81.1111|
+|/players/1016093/gustav-isaksen      |           5|         13.4484|           0.2920|        0.4071|         1.0206|      0.1191|        0.1400|      0.0410| 74.7018|
+|/players/578187/kristoffer-olsson    |           3|         45.8206|           1.6431|        0.1126|         0.3915|      0.0328|        0.0288|      0.0970| 90.0000|
+|/players/1137909/emiliano-martinez   |           3|         28.4437|           2.5062|        0.1290|         0.5478|      0.0170|        0.0187|      0.0267| 90.0000|
+|/players/1057426/armin-gigovic       |           3|         26.4961|           1.2647|        0.2264|         0.9800|      0.0735|        0.0570|      0.0443| 81.4773|
+|/players/891678/paulinho             |           1|         33.9512|           1.6740|        0.1163|         0.3977|      0.0227|        0.0354|      0.0207| 90.0000|
+|/players/395651/stefan-gartenmann    |           1|         41.7038|           1.5203|        0.1152|         0.4023|      0.0399|        0.0490|      0.0126| 90.0000|
+|/players/31241/henrik-dalsgaard      |           1|         40.5392|           1.3439|        0.1170|         0.3724|      0.0467|        0.0791|      0.0225| 90.0000|
+|/players/614167/joel-andersson       |           1|         35.3660|           2.0749|        0.0320|         0.0959|      0.0116|        0.0405|      0.0261| 90.0000|
+|/players/120598/jonas-lssl           |           0|         34.2037|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/848296/edward-chilufya      |           0|              NA|               NA|        0.9612|         2.1627|      0.3237|        0.4309|      0.2172| 70.0000|
+|/players/775266/charles              |           0|              NA|               NA|        0.1138|         0.2276|      0.0234|        0.0250|      0.0164| 15.2982|
+|/players/467648/mads-dhr-thychosen   |           0|              NA|               NA|        0.0000|         0.0611|      0.0045|        0.0000|      0.0070|  8.8889|
+|/players/658261/juninho              |           0|              NA|               NA|        0.0923|         0.1153|      0.0246|        0.0387|      0.0018|  8.5227|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Albert Capellas |        16829|      3.579412|4-3-3     |
