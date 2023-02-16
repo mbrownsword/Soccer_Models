@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-16 11:24:06.566"
+[1] "Updated at 2023-02-16 11:31:16.236"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -55,27 +55,27 @@
 |pageUrl2                              |team        | expected_attg| expected_gs|
 |:-------------------------------------|:-----------|-------------:|-----------:|
 |/players/559272/kenan-piric           |AEK Larnaca |      0.000000|   0.3921569|
-|/players/104382/roberto-rosales       |AEK Larnaca |      0.016425|   0.0333333|
-|/players/208583/hrvoje-milicevic      |AEK Larnaca |      0.012700|   0.0333333|
-|/players/144999/nenad-tomovic         |AEK Larnaca |      0.016000|   0.0333333|
+|/players/104382/roberto-rosales       |AEK Larnaca |      0.016425|   0.0322581|
+|/players/208583/hrvoje-milicevic      |AEK Larnaca |      0.012700|   0.0322581|
+|/players/144999/nenad-tomovic         |AEK Larnaca |      0.016000|   0.0322581|
 |/players/639163/angel-garcia          |AEK Larnaca |      0.013275|   0.0476190|
 |/players/391408/pere-pons             |AEK Larnaca |      0.011525|   0.1176471|
 |/players/361307/gus-ledes             |AEK Larnaca |      0.034850|   0.0769231|
-|/players/866160/imad-faraj            |AEK Larnaca |      0.086175|   0.2222222|
+|/players/866160/imad-faraj            |AEK Larnaca |      0.086175|   0.2173913|
 |/players/39102/ivan-trickovski        |AEK Larnaca |      0.086250|   0.2702703|
 |/players/466623/marin-jakolis         |AEK Larnaca |      0.080475|   0.1666667|
-|/players/214450/rafael-lopes          |AEK Larnaca |      0.130250|   0.2777778|
+|/players/214450/rafael-lopes          |AEK Larnaca |      0.130250|   0.2702703|
 |/players/655696/artem-dovbyk          |SC Dnipro-1 |      0.272875|   0.3125000|
 |/players/1106871/peglow               |SC Dnipro-1 |      0.150900|   0.1538462|
-|/players/851182/oleksandr-pikhalyonok |SC Dnipro-1 |      0.154225|   0.2040816|
+|/players/851182/oleksandr-pikhalyonok |SC Dnipro-1 |      0.154225|   0.2083333|
 |/players/620553/oleksiy-hutsuliak     |SC Dnipro-1 |      0.151200|   0.1666667|
 |/players/1394904/valentyn-rubchynskyi |SC Dnipro-1 |      0.101900|   0.1176471|
-|/players/273190/ruslan-babenko        |SC Dnipro-1 |      0.016350|   0.0416667|
-|/players/979748/yanis-hamache         |SC Dnipro-1 |      0.028600|   0.1666667|
-|/players/1270729/eduard-sarapiy       |SC Dnipro-1 |      0.029150|   0.0952381|
+|/players/273190/ruslan-babenko        |SC Dnipro-1 |      0.016350|   0.0434783|
+|/players/979748/yanis-hamache         |SC Dnipro-1 |      0.028600|   0.1694915|
+|/players/1270729/eduard-sarapiy       |SC Dnipro-1 |      0.029150|   0.1000000|
 |/players/510306/oleksandr-svatok      |SC Dnipro-1 |      0.026825|   0.0232558|
-|/players/765156/hayner                |SC Dnipro-1 |      0.026150|   0.0416667|
-|/players/789846/max-walef             |SC Dnipro-1 |      0.000000|   0.2222222|
+|/players/765156/hayner                |SC Dnipro-1 |      0.026150|   0.0434783|
+|/players/789846/max-walef             |SC Dnipro-1 |      0.000000|   0.2173913|
 |/players/72542/oier                   |AEK Larnaca |      0.000000|   0.0000000|
 |/players/115739/nemanja-nikolic       |AEK Larnaca |      0.071250|   0.0000000|
 |/players/485841/kypros-christoforou   |AEK Larnaca |      0.000000|   0.0000000|
