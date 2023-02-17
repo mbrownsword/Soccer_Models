@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-17 08:20:13.743"
+[1] "Updated at 2023-02-17 09:06:45.356"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Aston Villa 1.0426 to Arsenal 1.2975"
-[1] "Total: 2.3401"
-[1] "Aston Villa %: 29.4"
-[1] "Draw %: 28.58"
-[1] "Arsenal %: 42.02"
+[1] "Score: Aston Villa 1.0037 to Arsenal 1.3159"
+[1] "Total: 2.3196"
+[1] "Aston Villa %: 28.62"
+[1] "Draw %: 28.09"
+[1] "Arsenal %: 43.29"
 [1] "--XG Model--"
-[1] "Score: Aston Villa 1.1394 to Arsenal 1.5679"
-[1] "Total: 2.7073"
-[1] "Aston Villa %: 27.83"
-[1] "Draw %: 25.49"
-[1] "Arsenal %: 46.68"
+[1] "Score: Aston Villa 1.093 to Arsenal 1.5894"
+[1] "Total: 2.6824"
+[1] "Aston Villa %: 27.16"
+[1] "Draw %: 24.91"
+[1] "Arsenal %: 47.93"
 [1] "--XGoT Model--"
-[1] "Score: Aston Villa 1.1518 to Arsenal 1.5696"
-[1] "Total: 2.7214"
-[1] "Aston Villa %: 28.13"
-[1] "Draw %: 25.47"
-[1] "Arsenal %: 46.4"
+[1] "Score: Aston Villa 1.0909 to Arsenal 1.5256"
+[1] "Total: 2.6165"
+[1] "Aston Villa %: 28.27"
+[1] "Draw %: 25.62"
+[1] "Arsenal %: 46.11"
 [1] "--XA Model--"
-[1] "Score: Aston Villa 1.1818 to Arsenal 1.5311"
-[1] "Total: 2.7129"
-[1] "Aston Villa %: 29.82"
-[1] "Draw %: 25.93"
-[1] "Arsenal %: 44.25"
+[1] "Score: Aston Villa 1.1395 to Arsenal 1.4896"
+[1] "Total: 2.6291"
+[1] "Aston Villa %: 29.22"
+[1] "Draw %: 25.86"
+[1] "Arsenal %: 44.92"
 [1] "--Mean 4 Models--"
-[1] "Aston Villa has a mean win % of 28.79%; a min win % of 27.83%; a max win % of 29.82%."
-[1] "Draw has a mean win % of 26.37%; a min win % of 25.47%; a max win % of 28.58%."
-[1] "Arsenal has a mean win % of 44.84%; a min win % of 42.02%; a max win of % 46.68%."
-[1] "Aston Villa has a mean win of the Double Chance of 55.16%; a min win % of 53.32%, a max win % of 57.98%."
-[1] "Arsenal has a mean win of the Double Chance of 71.2%; a min win % of 70.18%, a max win % of 72.17%."
-[1] "The mean likelihood that there are more than 2.5 goals is 48.08%; max % is 50.6 and min % is 41.02%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 51.92%; max % is 58.98 and min % is 49.4%."
+[1] "Aston Villa has a mean win % of 28.32%; a min win % of 27.16%; a max win % of 29.22%."
+[1] "Draw has a mean win % of 26.12%; a min win % of 24.91%; a max win % of 28.09%."
+[1] "Arsenal has a mean win % of 45.56%; a min win % of 43.29%; a max win of % 47.93%."
+[1] "Aston Villa has a mean win of the Double Chance of 54.44%; a min win % of 52.07%, a max win % of 56.71%."
+[1] "Arsenal has a mean win of the Double Chance of 71.68%; a min win % of 70.78%, a max win % of 72.84%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.74%; max % is 49.95 and min % is 40.44%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.27%; max % is 59.56 and min % is 50.05%."
 [1] "--Sportsbook Odds--"
-[1] "Aston Villa Barstool Odds are: 23.53"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Arsenal Barstool Odds are: 53.19"
-[1] "Aston Villa Adjusted Barstool Odds are: 22.517"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.584"
-[1] "Arsenal Adjusted Barstool Odds are: 50.9"
-[1] "Aston Villa's Barstool Odds to cover the 0.5 spread are: 51.02"
-[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 53.48"
-[1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
+[1] "Aston Villa Barstool Odds are: 21.74"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Arsenal Barstool Odds are: 56.52"
+[1] "Aston Villa Adjusted Barstool Odds are: 20.788"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.167"
+[1] "Arsenal Adjusted Barstool Odds are: 54.045"
+[1] "Aston Villa's Barstool Odds to cover the 0.5 spread are: 48.31"
+[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 56.18"
+[1] "Barstool's line for the total is 2.5 at 1.94, which is a 51.55% chance of the over 2.5 hitting. The line for the under is 1.86, which is a 53.76% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
               bet           date_time
@@ -54,34 +54,34 @@
 |pageUrl2                            |team        | expected_attg| expected_gs|bet |
 |:-----------------------------------|:-----------|-------------:|-----------:|:---|
 |/players/268375/emiliano-martinez   |Aston Villa |      0.000000|   0.0555556|    |
-|/players/23354/ashley-young         |Aston Villa |      0.013800|   0.1428571|    |
-|/players/425255/calum-chambers      |Aston Villa |      0.017825|   0.0357143|    |
-|/players/710159/ezri-konsa          |Aston Villa |      0.027275|   0.0384615|    |
-|/players/477588/lex-moreno          |Aston Villa |      0.063875|   0.0344828|    |
-|/players/356406/john-mcginn         |Aston Villa |      0.087975|   0.1250000|    |
-|/players/816325/boubacar-kamara     |Aston Villa |      0.018000|   0.0555556|    |
-|/players/787350/douglas-luiz        |Aston Villa |      0.045125|   0.0769231|    |
-|/players/610184/emiliano-buendia    |Aston Villa |      0.185475|   0.1666667|    |
-|/players/671331/leon-bailey         |Aston Villa |      0.220900|   0.1666667|*   |
-|/players/540088/ollie-watkins       |Aston Villa |      0.242700|   0.2500000|    |
-|/players/860920/edward-nketiah      |Arsenal     |      0.349450|   0.3508772|    |
-|/players/1021586/gabriel-martinelli |Arsenal     |      0.213900|   0.2941176|    |
-|/players/534670/martin-degaard      |Arsenal     |      0.111975|   0.2439024|    |
-|/players/961995/bukayo-saka         |Arsenal     |      0.199450|   0.2777778|    |
-|/players/207236/granit-xhaka        |Arsenal     |      0.033300|   0.1428571|    |
-|/players/282775/jorginho            |Arsenal     |      0.097150|   0.1538462|    |
-|/players/623621/oleksandr-zinchenko |Arsenal     |      0.046450|   0.0833333|    |
-|/players/795179/gabriel             |Arsenal     |      0.068175|   0.1666667|    |
-|/players/955406/william-saliba      |Arsenal     |      0.036075|   0.0714286|    |
-|/players/776151/ben-white           |Arsenal     |      0.006625|   0.0416667|    |
+|/players/23354/ashley-young         |Aston Villa |      0.012775|   0.1428571|    |
+|/players/425255/calum-chambers      |Aston Villa |      0.016650|   0.0357143|    |
+|/players/710159/ezri-konsa          |Aston Villa |      0.025225|   0.0384615|    |
+|/players/477588/lex-moreno          |Aston Villa |      0.059025|   0.0344828|    |
+|/players/356406/john-mcginn         |Aston Villa |      0.085100|   0.1250000|    |
+|/players/816325/boubacar-kamara     |Aston Villa |      0.017800|   0.0555556|    |
+|/players/787350/douglas-luiz        |Aston Villa |      0.042825|   0.0769231|    |
+|/players/610184/emiliano-buendia    |Aston Villa |      0.180250|   0.1666667|    |
+|/players/671331/leon-bailey         |Aston Villa |      0.213775|   0.1666667|    |
+|/players/540088/ollie-watkins       |Aston Villa |      0.231525|   0.2500000|    |
+|/players/860920/edward-nketiah      |Arsenal     |      0.347475|   0.3508772|    |
+|/players/1021586/gabriel-martinelli |Arsenal     |      0.211700|   0.2941176|    |
+|/players/534670/martin-degaard      |Arsenal     |      0.109700|   0.2439024|    |
+|/players/961995/bukayo-saka         |Arsenal     |      0.197300|   0.2777778|    |
+|/players/207236/granit-xhaka        |Arsenal     |      0.035900|   0.1428571|    |
+|/players/282775/jorginho            |Arsenal     |      0.099100|   0.1538462|    |
+|/players/623621/oleksandr-zinchenko |Arsenal     |      0.045975|   0.0833333|    |
+|/players/795179/gabriel             |Arsenal     |      0.067600|   0.1666667|    |
+|/players/955406/william-saliba      |Arsenal     |      0.034725|   0.0714286|    |
+|/players/776151/ben-white           |Arsenal     |      0.005925|   0.0416667|    |
 |/players/746395/aaron-ramsdale      |Arsenal     |      0.000000|   0.0344828|    |
-|/players/184536/philippe-coutinho   |Aston Villa |      0.035050|   0.1960784|    |
-|/players/1021929/jacob-ramsey       |Aston Villa |      0.016875|   0.1333333|    |
+|/players/184536/philippe-coutinho   |Aston Villa |      0.035650|   0.1960784|    |
+|/players/303059/bertrand-traor      |Aston Villa |      0.011975|   0.1666667|    |
+|/players/1021929/jacob-ramsey       |Aston Villa |      0.015025|   0.1333333|    |
 |/players/424129/leander-dendoncker  |Aston Villa |      0.000000|   0.0454545|    |
-|/players/1088066/jhon-duran         |Aston Villa |      0.003925|   0.2173913|    |
-|/players/1025462/fabio-vieira       |Arsenal     |      0.018150|   0.2000000|    |
-|/players/318615/leandro-trossard    |Arsenal     |      0.030050|   0.3030303|    |
-|/players/748382/reiss-nelson        |Arsenal     |      0.043025|   0.1851852|    |
+|/players/1025462/fabio-vieira       |Arsenal     |      0.017575|   0.2000000|    |
+|/players/318615/leandro-trossard    |Arsenal     |      0.027600|   0.3030303|    |
+|/players/748382/reiss-nelson        |Arsenal     |      0.040025|   0.1851852|    |
 |/players/664444/takehiro-tomiyasu   |Arsenal     |      0.000000|   0.0357143|    |
 ____________________________________________________
 
@@ -91,21 +91,21 @@ ____________________________________________________
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/268375/emiliano-martinez  |           0|         29.3574|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/23354/ashley-young        |           1|         35.6305|           2.1119|        0.1490|         0.4156|      0.0171|        0.0156|      0.0396| 85.3913|
-|/players/425255/calum-chambers     |           1|         48.5647|           1.3959|        0.0319|         0.4112|      0.0333|        0.0195|      0.0499| 90.0000|
-|/players/710159/ezri-konsa         |           1|         34.8242|           0.8847|        0.1447|         0.3652|      0.0497|        0.0332|      0.0102| 90.0000|
-|/players/477588/lex-moreno         |           1|         37.2344|           2.2489|        0.1629|         0.5592|      0.0759|        0.0682|      0.0749| 90.0000|
-|/players/356406/john-mcginn        |           3|         25.3148|           1.4901|        0.4072|         1.3203|      0.0916|        0.0977|      0.1001| 90.0000|
-|/players/816325/boubacar-kamara    |           3|         44.4892|           2.2537|        0.0933|         0.3866|      0.0182|        0.0192|      0.0249| 83.4478|
-|/players/787350/douglas-luiz       |           3|         37.2356|           1.5940|        0.2171|         0.6296|      0.0455|        0.0486|      0.0511| 90.0000|
-|/players/610184/emiliano-buendia   |           3|         31.3762|           2.1091|        0.5970|         1.8705|      0.2083|        0.2176|      0.1731| 83.1667|
-|/players/671331/leon-bailey        |           5|         23.0327|           0.6829|        0.6683|         1.7244|      0.2370|        0.2668|      0.0833| 79.4286|
-|/players/540088/ollie-watkins      |           5|         19.6029|           0.5942|        0.7789|         1.9223|      0.2825|        0.2931|      0.0515| 90.0000|
-|/players/184536/philippe-coutinho  |          NA|              NA|               NA|        0.1209|         0.3343|      0.0460|        0.0417|      0.0169| 10.5714|
-|/players/1021929/jacob-ramsey      |          NA|              NA|               NA|        0.0396|         0.0890|      0.0094|        0.0167|      0.0017|  6.8333|
-|/players/424129/leander-dendoncker |          NA|              NA|               NA|        0.0000|         0.0168|      0.0013|        0.0000|      0.0007|  6.5522|
-|/players/1088066/jhon-duran        |          NA|              NA|               NA|        0.0245|         0.1103|      0.0143|        0.0047|      0.0034|  4.6087|
+|/players/268375/emiliano-martinez  |           0|         30.9199|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/23354/ashley-young        |           1|         37.5268|           2.2082|        0.1403|         0.3787|      0.0165|        0.0146|      0.0370| 85.3913|
+|/players/425255/calum-chambers     |           1|         51.1494|           1.4596|        0.0301|         0.3747|      0.0321|        0.0183|      0.0466| 90.0000|
+|/players/710159/ezri-konsa         |           1|         36.6776|           0.9251|        0.1363|         0.3328|      0.0479|        0.0312|      0.0096| 90.0000|
+|/players/477588/lex-moreno         |           1|         39.2161|           2.3515|        0.1534|         0.5096|      0.0731|        0.0642|      0.0700| 90.0000|
+|/players/356406/john-mcginn        |           3|         26.6621|           1.5580|        0.3836|         1.2031|      0.0883|        0.0919|      0.0935| 90.0000|
+|/players/816325/boubacar-kamara    |           3|         46.8570|           2.3564|        0.0879|         0.3522|      0.0175|        0.0180|      0.0232| 83.4478|
+|/players/787350/douglas-luiz       |           3|         39.2173|           1.6667|        0.2046|         0.5737|      0.0439|        0.0457|      0.0477| 90.0000|
+|/players/610184/emiliano-buendia   |           3|         33.0461|           2.2052|        0.5624|         1.7044|      0.2008|        0.2047|      0.1617| 83.1667|
+|/players/671331/leon-bailey        |           5|         24.2585|           0.7140|        0.6296|         1.5713|      0.2284|        0.2509|      0.0779| 79.4286|
+|/players/540088/ollie-watkins      |           5|         20.6462|           0.6213|        0.7338|         1.7516|      0.2724|        0.2757|      0.0481| 90.0000|
+|/players/184536/philippe-coutinho  |          NA|              NA|               NA|        0.1130|         0.3124|      0.0443|        0.0392|      0.0157| 10.5714|
+|/players/303059/bertrand-traor     |          NA|              NA|               NA|        0.0598|         0.1570|      0.0087|        0.0121|      0.0059|  6.8333|
+|/players/1021929/jacob-ramsey      |          NA|              NA|               NA|        0.0355|         0.0798|      0.0087|        0.0150|      0.0015|  6.5522|
+|/players/424129/leander-dendoncker |          NA|              NA|               NA|        0.0000|         0.0111|      0.0009|        0.0000|      0.0005|  4.6087|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -119,21 +119,89 @@ ____________________________________________________
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/860920/edward-nketiah      |           5|         19.6158|           0.5256|        0.9335|         2.3687|      0.4482|        0.4562|      0.0723| 80.7755|
-|/players/1021586/gabriel-martinelli |           3|         22.0868|           1.4281|        0.7153|         1.9675|      0.2591|        0.2548|      0.1384| 81.3333|
-|/players/534670/martin-degaard      |           3|         47.8682|           1.4156|        0.5041|         1.5064|      0.1248|        0.1305|      0.1729| 81.9327|
-|/players/961995/bukayo-saka         |           3|         29.7279|           1.0927|        0.6727|         1.8925|      0.2222|        0.2398|      0.1373| 82.6944|
-|/players/207236/granit-xhaka        |           2|         57.0597|           1.4501|        0.3036|         1.3127|      0.0381|        0.0395|      0.1115| 90.0000|
-|/players/282775/jorginho            |           2|         61.6878|           2.9181|        0.2250|         0.5967|      0.1326|        0.1121|      0.0751| 90.0000|
-|/players/623621/oleksandr-zinchenko |           1|         65.2261|           2.0960|        0.2399|         0.9101|      0.0466|        0.0496|      0.1364| 90.0000|
-|/players/795179/gabriel             |           1|         51.8867|           1.5534|        0.2362|         0.6952|      0.0858|        0.0735|      0.0210| 90.0000|
-|/players/955406/william-saliba      |           1|         62.6664|           1.4640|        0.0942|         0.3276|      0.0508|        0.0388|      0.0331| 90.0000|
-|/players/776151/ben-white           |           1|         45.9203|           1.6256|        0.0600|         0.3111|      0.0189|        0.0068|      0.0734| 90.0000|
-|/players/746395/aaron-ramsdale      |           0|         29.6289|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1025462/fabio-vieira       |          NA|              NA|               NA|        0.0693|         0.2233|      0.0245|        0.0214|      0.0231|  9.2245|
-|/players/318615/leandro-trossard    |          NA|              NA|               NA|        0.0552|         0.1350|      0.0189|        0.0316|      0.0134|  8.6667|
-|/players/748382/reiss-nelson        |          NA|              NA|               NA|        0.0647|         0.1942|      0.0309|        0.0485|      0.0170|  8.0673|
-|/players/664444/takehiro-tomiyasu   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0024|  7.3056|
+|/players/860920/edward-nketiah      |           5|         21.2927|           0.5540|        0.9520|         2.4089|      0.4558|        0.4439|      0.0695| 80.7755|
+|/players/1021586/gabriel-martinelli |           3|         23.9749|           1.5052|        0.7294|         2.0008|      0.2635|        0.2479|      0.1330| 81.3333|
+|/players/534670/martin-degaard      |           3|         51.9603|           1.4921|        0.5140|         1.5319|      0.1269|        0.1270|      0.1661| 81.9327|
+|/players/961995/bukayo-saka         |           3|         32.2693|           1.1517|        0.6860|         1.9245|      0.2259|        0.2333|      0.1320| 82.6944|
+|/players/207236/granit-xhaka        |           2|         61.9376|           1.5284|        0.3096|         1.3349|      0.0387|        0.0384|      0.1071| 90.0000|
+|/players/282775/jorginho            |           2|         66.9613|           3.0757|        0.2294|         0.6068|      0.1349|        0.1091|      0.0722| 90.0000|
+|/players/623621/oleksandr-zinchenko |           1|         70.8021|           2.2091|        0.2447|         0.9255|      0.0474|        0.0483|      0.1311| 90.0000|
+|/players/795179/gabriel             |           1|         56.3224|           1.6372|        0.2409|         0.7070|      0.0872|        0.0715|      0.0202| 90.0000|
+|/players/955406/william-saliba      |           1|         68.0236|           1.5431|        0.0961|         0.3332|      0.0517|        0.0377|      0.0318| 90.0000|
+|/players/776151/ben-white           |           1|         49.8459|           1.7134|        0.0612|         0.3163|      0.0192|        0.0066|      0.0705| 90.0000|
+|/players/746395/aaron-ramsdale      |           0|         32.1618|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1025462/fabio-vieira       |          NA|              NA|               NA|        0.0648|         0.2087|      0.0236|        0.0201|      0.0216|  9.2245|
+|/players/318615/leandro-trossard    |          NA|              NA|               NA|        0.0516|         0.1262|      0.0183|        0.0297|      0.0125|  8.6667|
+|/players/748382/reiss-nelson        |          NA|              NA|               NA|        0.0605|         0.1815|      0.0298|        0.0456|      0.0158|  8.0673|
+|/players/664444/takehiro-tomiyasu   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0022|  7.3056|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mikel Arteta |       115500|      8.807067|4-2-3-1   |
+/players/664444/takehiro-tomiyasu   |Arsenal     |      0.000000|   0.0357143|    |
+____________________________________________________
+
+[1] "Facts about Aston Villa:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/268375/emiliano-martinez  |           0|         30.9199|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/23354/ashley-young        |           1|         37.5268|           2.2082|        0.1403|         0.3787|      0.0165|        0.0146|      0.0370| 85.3913|
+|/players/425255/calum-chambers     |           1|         51.1494|           1.4596|        0.0301|         0.3747|      0.0321|        0.0183|      0.0466| 90.0000|
+|/players/710159/ezri-konsa         |           1|         36.6776|           0.9251|        0.1363|         0.3328|      0.0479|        0.0312|      0.0096| 90.0000|
+|/players/477588/lex-moreno         |           1|         39.2161|           2.3515|        0.1534|         0.5096|      0.0731|        0.0642|      0.0700| 90.0000|
+|/players/356406/john-mcginn        |           3|         26.6621|           1.5580|        0.3836|         1.2031|      0.0883|        0.0919|      0.0935| 90.0000|
+|/players/816325/boubacar-kamara    |           3|         46.8570|           2.3564|        0.0879|         0.3522|      0.0175|        0.0180|      0.0232| 83.4478|
+|/players/787350/douglas-luiz       |           3|         39.2173|           1.6667|        0.2046|         0.5737|      0.0439|        0.0457|      0.0477| 90.0000|
+|/players/610184/emiliano-buendia   |           3|         33.0461|           2.2052|        0.5624|         1.7044|      0.2008|        0.2047|      0.1617| 83.1667|
+|/players/671331/leon-bailey        |           5|         24.2585|           0.7140|        0.6296|         1.5713|      0.2284|        0.2509|      0.0779| 79.4286|
+|/players/540088/ollie-watkins      |           5|         20.6462|           0.6213|        0.7338|         1.7516|      0.2724|        0.2757|      0.0481| 90.0000|
+|/players/184536/philippe-coutinho  |          NA|              NA|               NA|        0.1130|         0.3124|      0.0443|        0.0392|      0.0157| 10.5714|
+|/players/303059/bertrand-traor     |          NA|              NA|               NA|        0.0598|         0.1570|      0.0087|        0.0121|      0.0059|  6.8333|
+|/players/1021929/jacob-ramsey      |          NA|              NA|               NA|        0.0355|         0.0798|      0.0087|        0.0150|      0.0015|  6.5522|
+|/players/424129/leander-dendoncker |          NA|              NA|               NA|        0.0000|         0.0111|      0.0009|        0.0000|      0.0005|  4.6087|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Unai Emery   |       121006|        8.0376|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Arsenal:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/860920/edward-nketiah      |           5|         21.2927|           0.5540|        0.9520|         2.4089|      0.4558|        0.4439|      0.0695| 80.7755|
+|/players/1021586/gabriel-martinelli |           3|         23.9749|           1.5052|        0.7294|         2.0008|      0.2635|        0.2479|      0.1330| 81.3333|
+|/players/534670/martin-degaard      |           3|         51.9603|           1.4921|        0.5140|         1.5319|      0.1269|        0.1270|      0.1661| 81.9327|
+|/players/961995/bukayo-saka         |           3|         32.2693|           1.1517|        0.6860|         1.9245|      0.2259|        0.2333|      0.1320| 82.6944|
+|/players/207236/granit-xhaka        |           2|         61.9376|           1.5284|        0.3096|         1.3349|      0.0387|        0.0384|      0.1071| 90.0000|
+|/players/282775/jorginho            |           2|         66.9613|           3.0757|        0.2294|         0.6068|      0.1349|        0.1091|      0.0722| 90.0000|
+|/players/623621/oleksandr-zinchenko |           1|         70.8021|           2.2091|        0.2447|         0.9255|      0.0474|        0.0483|      0.1311| 90.0000|
+|/players/795179/gabriel             |           1|         56.3224|           1.6372|        0.2409|         0.7070|      0.0872|        0.0715|      0.0202| 90.0000|
+|/players/955406/william-saliba      |           1|         68.0236|           1.5431|        0.0961|         0.3332|      0.0517|        0.0377|      0.0318| 90.0000|
+|/players/776151/ben-white           |           1|         49.8459|           1.7134|        0.0612|         0.3163|      0.0192|        0.0066|      0.0705| 90.0000|
+|/players/746395/aaron-ramsdale      |           0|         32.1618|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1025462/fabio-vieira       |          NA|              NA|               NA|        0.0648|         0.2087|      0.0236|        0.0201|      0.0216|  9.2245|
+|/players/318615/leandro-trossard    |          NA|              NA|               NA|        0.0516|         0.1262|      0.0183|        0.0297|      0.0125|  8.6667|
+|/players/748382/reiss-nelson        |          NA|              NA|               NA|        0.0605|         0.1815|      0.0298|        0.0456|      0.0158|  8.0673|
+|/players/664444/takehiro-tomiyasu   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0022|  7.3056|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mikel Arteta |       115500|      8.807067|4-2-3-1   |
+     1.7134|        0.0612|         0.3163|      0.0192|        0.0066|      0.0705| 90.0000|
+|/players/746395/aaron-ramsdale      |           0|         32.1618|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1025462/fabio-vieira       |          NA|              NA|               NA|        0.0648|         0.2087|      0.0236|        0.0201|      0.0216|  9.2245|
+|/players/318615/leandro-trossard    |          NA|              NA|               NA|        0.0516|         0.1262|      0.0183|        0.0297|      0.0125|  8.6667|
+|/players/748382/reiss-nelson        |          NA|              NA|               NA|        0.0605|         0.1815|      0.0298|        0.0456|      0.0158|  8.0673|
+|/players/664444/takehiro-tomiyasu   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0022|  7.3056|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
