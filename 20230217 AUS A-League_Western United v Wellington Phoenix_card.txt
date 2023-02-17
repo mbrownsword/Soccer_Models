@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-16 21:32:55.357"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Western United 1.4298 to Wellington Phoenix 1.109"
+[1] "Total: 2.5388"
+[1] "Western United %: 44.34"
+[1] "Draw %: 25.93"
+[1] "Wellington Phoenix %: 29.73"
+[1] "--XG Model--"
+[1] "Score: Western United 1.5059 to Wellington Phoenix 1.1529"
+[1] "Total: 2.6588"
+[1] "Western United %: 45.41"
+[1] "Draw %: 24.81"
+[1] "Wellington Phoenix %: 29.78"
+[1] "--XGoT Model--"
+[1] "Score: Western United 1.6691 to Wellington Phoenix 1.2549"
+[1] "Total: 2.924"
+[1] "Western United %: 47.84"
+[1] "Draw %: 24.36"
+[1] "Wellington Phoenix %: 27.8"
+[1] "--XA Model--"
+[1] "Score: Western United 1.4588 to Wellington Phoenix 1.17"
+[1] "Total: 2.6288"
+[1] "Western United %: 43.75"
+[1] "Draw %: 25.7"
+[1] "Wellington Phoenix %: 30.55"
+[1] "--Mean 4 Models--"
+[1] "Western United has a mean win % of 45.34%; a min win % of 43.75%; a max win % of 47.84%."
+[1] "Draw has a mean win % of 25.2%; a min win % of 24.36%; a max win % of 25.93%."
+[1] "Wellington Phoenix has a mean win % of 29.47%; a min win % of 27.8%; a max win of % 30.55%."
+[1] "Western United has a mean win of the Double Chance of 70.53%; a min win % of 69.45%, a max win % of 72.2%."
+[1] "Wellington Phoenix has a mean win of the Double Chance of 54.67%; a min win % of 52.16%, a max win % of 56.25%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.18%; max % is 54.87 and min % is 45.52%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.82%; max % is 54.48 and min % is 45.13%."
+[1] "--Sportsbook Odds--"
+[1] "Western United Barstool Odds are: 40.82"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Wellington Phoenix Barstool Odds are: 37.74"
+[1] "Western United Adjusted Barstool Odds are: 38.103"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.669"
+[1] "Wellington Phoenix Adjusted Barstool Odds are: 35.228"
+[1] "Western United's Barstool Odds to cover the 0 spread are: 54.64"
+[1] "Wellington Phoenix's Barstool Odds to cover the 0 spread are: 50"
+[1] "Barstool's line for the total is 2.5 at 1.67, which is a 59.88% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+             bet           date_time
+1 Western United 2023-02-17 00:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team               | expected_attg| expected_gs|bet |
+|:--------------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/35365/jamie-young             |Western United     |      0.000000|   0.0555556|    |
+|/players/213835/joshua-risdon          |Western United     |      0.036700|   0.0714286|    |
+|/players/430848/tomoki-imai            |Western United     |      0.006125|   0.0526316|    |
+|/players/202663/lo-lacroix             |Western United     |      0.054525|   0.0526316|    |
+|/players/396259/benjamin-garuccio      |Western United     |      0.028650|   0.0555556|    |
+|/players/185099/steven-lustica         |Western United     |      0.109125|   0.0357143|*   |
+|/players/23820/neil-kilkenny           |Western United     |      0.026550|   0.1333333|    |
+|/players/47564/james-troisi            |Western United     |      0.132850|   0.2127660|    |
+|/players/426142/connor-pain            |Western United     |      0.173500|   0.2127660|    |
+|/players/839195/lachlan-wales          |Western United     |      0.190450|   0.2500000|    |
+|/players/124144/aleksandar-prijovic    |Western United     |      0.316575|   0.3703704|    |
+|/players/512614/oliver-sail            |Wellington Phoenix |      0.000000|   0.1000000|    |
+|/players/1217277/joshua-laws           |Wellington Phoenix |      0.007225|   0.0357143|    |
+|/players/1101260/sam-sutton            |Wellington Phoenix |      0.025250|   0.1052632|    |
+|/players/324305/tim-payne              |Wellington Phoenix |      0.011875|   0.0357143|    |
+|/players/229675/scott-wootton          |Wellington Phoenix |      0.070625|   0.0526316|    |
+|/players/558215/bozhidar-kraev         |Wellington Phoenix |      0.251400|   0.3125000|    |
+|/players/464349/steven-peter-ugarkovic |Wellington Phoenix |      0.082350|   0.1250000|    |
+|/players/813713/nicholas-pennington    |Wellington Phoenix |      0.027625|   0.1250000|    |
+|/players/628066/clayton-lewis          |Wellington Phoenix |      0.035075|   0.1694915|    |
+|/players/560109/oskar-zawada           |Wellington Phoenix |      0.337925|   0.3333333|    |
+|/players/185165/david-ball             |Wellington Phoenix |      0.105025|   0.2631579|    |
+|/players/1086013/michael-ruhs          |Western United     |      0.080525|   0.2702703|    |
+|/players/823541/dylan-pierias          |Western United     |      0.039925|   0.2272727|    |
+|/players/885851/ramy-najjarine         |Western United     |      0.038500|   0.2857143|    |
+|/players/970278/dylan-wenzel-halls     |Western United     |      0.064725|   0.2564103|    |
+|/players/1257745/benjamin-old          |Wellington Phoenix |      0.005225|   0.2083333|    |
+|/players/1170521/lucas-mauragis        |Wellington Phoenix |      0.005925|   0.0526316|    |
+|/players/464349/steven-peter-ugarkovic |Wellington Phoenix |      0.082350|   0.1250000|    |
+|/players/813713/nicholas-pennington    |Wellington Phoenix |      0.027625|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about Western United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/35365/jamie-young          |           0|         27.8042|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/213835/joshua-risdon       |           1|         45.9664|           3.4584|        0.2320|         1.1128|      0.0822|        0.0500|      0.0726| 90.0000|
+|/players/430848/tomoki-imai         |           1|         53.7241|           1.0320|        0.0424|         0.1957|      0.0150|        0.0083|      0.0292| 90.0000|
+|/players/202663/lo-lacroix          |           1|         48.6594|           0.7096|        0.1963|         0.5439|      0.0793|        0.0685|      0.0291| 90.0000|
+|/players/396259/benjamin-garuccio   |           1|         42.6264|           1.2284|        0.1796|         0.5531|      0.0366|        0.0348|      0.1260| 90.0000|
+|/players/185099/steven-lustica      |           2|         36.0792|           2.0116|        0.3358|         1.0932|      0.1036|        0.1440|      0.0605| 82.7917|
+|/players/23820/neil-kilkenny        |           2|         62.7214|           2.3717|        0.2106|         0.8618|      0.0567|        0.0328|      0.1129| 90.0000|
+|/players/47564/james-troisi         |           3|         42.3800|           1.7801|        0.6780|         2.2739|      0.1431|        0.1853|      0.2230| 80.1379|
+|/players/426142/connor-pain         |           3|         25.8029|           1.2570|        0.8308|         1.8479|      0.1970|        0.2307|      0.1364| 90.0000|
+|/players/839195/lachlan-wales       |           3|         21.1284|           0.8991|        0.5564|         1.6287|      0.2574|        0.2633|      0.1133| 82.6415|
+|/players/124144/aleksandar-prijovic |           5|         17.5495|           0.5117|        1.0052|         2.4046|      0.4251|        0.4801|      0.0790| 79.3962|
+|/players/1086013/michael-ruhs       |           0|              NA|               NA|        0.1923|         0.3620|      0.0871|        0.1078|      0.0161| 10.6038|
+|/players/823541/dylan-pierias       |           0|              NA|               NA|        0.0809|         0.2875|      0.0452|        0.0533|      0.0105|  9.8621|
+|/players/885851/ramy-najjarine      |           0|              NA|               NA|        0.0980|         0.2519|      0.0442|        0.0490|      0.0221|  7.3585|
+|/players/970278/dylan-wenzel-halls  |           0|              NA|               NA|        0.1054|         0.2372|      0.0592|        0.0868|      0.0032|  7.2083|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|John Aloisi  |        42453|     -3.825581|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Wellington Phoenix:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/512614/oliver-sail            |           0|         27.4616|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1217277/joshua-laws           |           1|         59.0795|           1.7819|        0.0848|         0.4195|      0.0261|        0.0084|      0.0457| 90.0000|
+|/players/1101260/sam-sutton            |           1|         42.3329|           3.1469|        0.1813|         0.5980|      0.0224|        0.0366|      0.1312| 90.0000|
+|/players/324305/tim-payne              |           1|         42.2551|           0.8711|        0.1084|         0.4288|      0.0444|        0.0169|      0.0309| 90.0000|
+|/players/229675/scott-wootton          |           1|         45.3241|           1.0415|        0.1689|         0.5697|      0.0860|        0.0948|      0.0197| 90.0000|
+|/players/558215/bozhidar-kraev         |           3|         17.4916|           0.7639|        0.7454|         1.5218|      0.2650|        0.3716|      0.0572| 74.1220|
+|/players/464349/steven-peter-ugarkovic |           3|         53.1013|           2.8325|        0.3713|         1.3701|      0.0723|        0.0500|      0.1780| 90.0000|
+|/players/813713/nicholas-pennington    |           3|         50.2360|           2.6669|        0.0723|         0.6297|      0.0406|        0.0169|      0.0417| 90.0000|
+|/players/628066/clayton-lewis          |           3|         46.3386|           1.3382|        0.2729|         1.2521|      0.0588|        0.0497|      0.1557| 83.8367|
+|/players/560109/oskar-zawada           |           5|         19.3984|           0.7059|        1.0947|         2.4902|      0.4072|        0.5456|      0.0948| 78.2000|
+|/players/185165/david-ball             |           5|         25.9800|           0.7880|        0.5940|         1.6504|      0.2056|        0.1499|      0.1154| 82.0465|
+|/players/1257745/benjamin-old          |           0|              NA|               NA|        0.0449|         0.4939|      0.0555|        0.0086|      0.0201| 15.8780|
+|/players/1170521/lucas-mauragis        |           0|              NA|               NA|        0.0197|         0.1379|      0.0172|        0.0072|      0.0129| 11.8000|
+|/players/464349/steven-peter-ugarkovic |           0|              NA|               NA|        0.1189|         0.1981|      0.0137|        0.0602|      0.0077|  7.9535|
+|/players/813713/nicholas-pennington    |           0|              NA|               NA|        0.0154|         0.0618|      0.0192|        0.0197|      0.0148|  6.1633|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ufuk Talay   |        65127|     -1.718553|4-4-2     |
