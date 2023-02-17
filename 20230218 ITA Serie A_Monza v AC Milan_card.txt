@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 14:45:06.824"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Monza 1.1927 to AC Milan 1.4102"
+[1] "Total: 2.6029"
+[1] "Monza %: 31.66"
+[1] "Draw %: 26.59"
+[1] "AC Milan %: 41.75"
+[1] "--XG Model--"
+[1] "Score: Monza 1.2299 to AC Milan 1.3836"
+[1] "Total: 2.6135"
+[1] "Monza %: 33.69"
+[1] "Draw %: 26.53"
+[1] "AC Milan %: 39.78"
+[1] "--XGoT Model--"
+[1] "Score: Monza 1.2734 to AC Milan 1.577"
+[1] "Total: 2.8504"
+[1] "Monza %: 30.66"
+[1] "Draw %: 25.06"
+[1] "AC Milan %: 44.28"
+[1] "--XA Model--"
+[1] "Score: Monza 1.2757 to AC Milan 1.4029"
+[1] "Total: 2.6786"
+[1] "Monza %: 34.66"
+[1] "Draw %: 26.08"
+[1] "AC Milan %: 39.26"
+[1] "--Mean 4 Models--"
+[1] "Monza has a mean win % of 32.67%; a min win % of 30.66%; a max win % of 34.66%."
+[1] "Draw has a mean win % of 26.06%; a min win % of 25.06%; a max win % of 26.59%."
+[1] "AC Milan has a mean win % of 41.27%; a min win % of 39.26%; a max win of % 44.28%."
+[1] "Monza has a mean win of the Double Chance of 58.73%; a min win % of 55.72%, a max win % of 60.74%."
+[1] "AC Milan has a mean win of the Double Chance of 67.33%; a min win % of 65.34%, a max win % of 69.34%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.33%; max % is 53.55 and min % is 47.34%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.67%; max % is 52.66 and min % is 46.45%."
+[1] "--Sportsbook Odds--"
+[1] "Monza Barstool Odds are: 27.78"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "AC Milan Barstool Odds are: 48.08"
+[1] "Monza Adjusted Barstool Odds are: 26.389"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.938"
+[1] "AC Milan Adjusted Barstool Odds are: 45.673"
+[1] "Monza's Barstool Odds to cover the 0.5 spread are: 56.5"
+[1] "AC Milan's Barstool Odds to cover the -0.5 spread are: 48.08"
+[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.8, which is a 55.56% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+    bet           date_time
+1 Monza 2023-02-18 09:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team     | expected_attg| expected_gs|bet |
+|:-------------------------------------|:--------|-------------:|-----------:|:---|
+|/players/766062/michele-di-gregorio   |Monza    |      0.000000|   0.1428571|    |
+|/players/154245/luca-caldirola        |Monza    |      0.021175|   0.0476190|    |
+|/players/299981/pablo-mari            |Monza    |      0.047325|   0.1111111|    |
+|/players/301023/armando-izzo          |Monza    |      0.035725|   0.0476190|    |
+|/players/480021/patrick-ciurria       |Monza    |      0.061450|   0.2127660|    |
+|/players/1020963/nicolo-rovella       |Monza    |      0.010900|   0.0666667|    |
+|/players/566654/matteo-pessina        |Monza    |      0.109000|   0.1666667|    |
+|/players/940829/carlos-augusto        |Monza    |      0.045000|   0.1818182|    |
+|/players/737339/dany-mota             |Monza    |      0.161550|   0.2325581|    |
+|/players/252650/gianluca-caprari      |Monza    |      0.169650|   0.2439024|    |
+|/players/413160/andrea-petagna        |Monza    |      0.258575|   0.2439024|    |
+|/players/46469/olivier-giroud         |AC Milan |      0.333975|   0.3636364|    |
+|/players/848844/rafael-leao           |AC Milan |      0.117750|   0.2941176|    |
+|/players/750027/brahim-diaz           |AC Milan |      0.255225|   0.2631579|    |
+|/players/724371/theo-hernndez         |AC Milan |      0.051725|   0.1666667|    |
+|/players/867414/sandro-tonali         |AC Milan |      0.035800|   0.1111111|    |
+|/players/438456/rade-krunic           |AC Milan |      0.062350|   0.1754386|    |
+|/players/921341/alexis-saelemaekers   |AC Milan |      0.083000|   0.1754386|    |
+|/players/1137407/malick-thiaw         |AC Milan |      0.035275|   0.0714286|    |
+|/players/35112/simon-kjr              |AC Milan |      0.023475|   0.1250000|    |
+|/players/1131217/pierre-kalulu        |AC Milan |      0.026475|   0.0714286|    |
+|/players/103218/ciprian-tatarusanu    |AC Milan |      0.000000|   0.3125000|    |
+|/players/470479/stefano-sensi         |Monza    |      0.014250|   0.1538462|    |
+|/players/121086/christian-gytkjr      |Monza    |      0.120000|   0.2439024|    |
+|/players/937462/andrea-colpani        |Monza    |      0.011475|   0.1923077|    |
+|/players/799497/samuele-birindelli    |Monza    |      0.016125|   0.0384615|    |
+|/players/265725/ante-rebic            |AC Milan |      0.045575|   0.3389831|    |
+|/players/1095432/charles-de-ketelaere |AC Milan |      0.056575|   0.2631579|    |
+|/players/846002/yacine-adli           |AC Milan |      0.027300|   0.1960784|    |
+|/players/1003368/junior-messias       |AC Milan |      0.063700|   0.2380952|    |
+____________________________________________________
+
+[1] "Facts about Monza:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/766062/michele-di-gregorio |           0|         31.1447|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/154245/luca-caldirola      |           1|         52.1607|           1.0005|        0.0826|         0.5004|      0.0598|        0.0242|      0.0119| 90.0000|
+|/players/299981/pablo-mari          |           1|         49.2500|           1.2531|        0.2221|         0.5526|      0.0434|        0.0528|      0.0315| 90.0000|
+|/players/301023/armando-izzo        |           1|         50.8798|           1.8749|        0.1256|         0.6338|      0.0877|        0.0408|      0.0460| 90.0000|
+|/players/480021/patrick-ciurria     |           3|         26.9454|           1.4421|        0.4524|         1.3306|      0.0581|        0.0684|      0.0828| 90.0000|
+|/players/1020963/nicolo-rovella     |           3|         54.3333|           2.5988|        0.1273|         0.5603|      0.0328|        0.0129|      0.0585| 90.0000|
+|/players/566654/matteo-pessina      |           3|         47.6833|           1.4870|        0.2462|         0.6191|      0.0914|        0.1207|      0.0667| 81.1190|
+|/players/940829/carlos-augusto      |           3|         34.2609|           1.9900|        0.2510|         0.7799|      0.0691|        0.0523|      0.0666| 90.0000|
+|/players/737339/dany-mota           |           4|         22.2951|           0.9415|        0.4816|         1.4489|      0.2355|        0.1868|      0.0478| 74.6667|
+|/players/252650/gianluca-caprari    |           4|         31.7705|           1.0103|        0.5168|         1.5214|      0.1319|        0.1868|      0.1683| 80.1250|
+|/players/413160/andrea-petagna      |           5|         20.3607|           0.7099|        0.6773|         1.9580|      0.2775|        0.3198|      0.0720| 78.6200|
+|/players/470479/stefano-sensi       |          NA|              NA|               NA|        0.0777|         0.2953|      0.0158|        0.0135|      0.0156| 15.3333|
+|/players/121086/christian-gytkjr    |          NA|              NA|               NA|        0.1754|         0.3618|      0.0699|        0.1342|      0.0032| 11.3800|
+|/players/937462/andrea-colpani      |          NA|              NA|               NA|        0.1076|         0.1998|      0.0077|        0.0111|      0.0167|  9.8750|
+|/players/799497/samuele-birindelli  |          NA|              NA|               NA|        0.0323|         0.1049|      0.0170|        0.0168|      0.0065|  8.8810|
+
+
+|manager_name       | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Raffaele Palladino |        15839|     -7.087222|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about AC Milan:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/46469/olivier-giroud         |           5|         19.1357|           0.5449|        0.9334|         2.2215|      0.3934|        0.4661|      0.0516| 76.0323|
+|/players/848844/rafael-leao           |           4|         25.2370|           1.1054|        0.5144|         1.8305|      0.1634|        0.1479|      0.2085| 90.0000|
+|/players/750027/brahim-diaz           |           4|         30.1162|           0.9120|        0.7674|         1.8204|      0.2609|        0.3379|      0.0530| 74.2500|
+|/players/724371/theo-hernndez         |           3|         45.1659|           2.0547|        0.2816|         1.2763|      0.0992|        0.0582|      0.1033| 90.0000|
+|/players/867414/sandro-tonali         |           3|         51.3480|           1.9178|        0.1810|         0.6056|      0.0377|        0.0421|      0.1194| 90.0000|
+|/players/438456/rade-krunic           |           3|         31.6053|           1.1525|        0.2890|         0.7906|      0.0564|        0.0797|      0.0516| 74.6316|
+|/players/921341/alexis-saelemaekers   |           3|         32.5036|           1.7091|        0.3297|         0.9591|      0.0856|        0.0980|      0.1178| 71.5732|
+|/players/1137407/malick-thiaw         |           1|         51.8992|           1.9362|        0.2324|         0.7472|      0.0491|        0.0415|      0.0066| 90.0000|
+|/players/35112/simon-kjr              |           1|         54.8644|           1.1409|        0.1267|         0.5431|      0.0466|        0.0280|      0.0335| 90.0000|
+|/players/1131217/pierre-kalulu        |           1|         52.0061|           1.7203|        0.1085|         0.2657|      0.0247|        0.0322|      0.0473| 90.0000|
+|/players/103218/ciprian-tatarusanu    |           0|         27.1792|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/265725/ante-rebic            |          NA|              NA|               NA|        0.2209|         0.5522|      0.0641|        0.0536|      0.0398| 18.4268|
+|/players/1095432/charles-de-ketelaere |          NA|              NA|               NA|        0.1328|         0.2523|      0.0349|        0.0689|      0.0185| 15.7500|
+|/players/846002/yacine-adli           |          NA|              NA|               NA|        0.1543|         0.2778|      0.0204|        0.0323|      0.0268| 15.3684|
+|/players/1003368/junior-messias       |          NA|              NA|               NA|        0.1275|         0.3699|      0.0330|        0.0765|      0.0147| 13.9677|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Stefano Pioli |       114520|      11.06603|4-2-3-1   |
