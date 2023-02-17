@@ -1,0 +1,163 @@
+[1] "Updated at 2023-02-17 10:09:20.886"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Nottingham Forest 0.5182 to Manchester City 1.6077"
+[1] "Total: 2.1259"
+[1] "Nottingham Forest %: 11.29"
+[1] "Draw %: 24.38"
+[1] "Manchester City %: 64.33"
+[1] "--XG Model--"
+[1] "Score: Nottingham Forest 0.4959 to Manchester City 1.8869"
+[1] "Total: 2.3828"
+[1] "Nottingham Forest %: 9.08"
+[1] "Draw %: 20.39"
+[1] "Manchester City %: 70.53"
+[1] "--XGoT Model--"
+[1] "Score: Nottingham Forest 0.4831 to Manchester City 1.8107"
+[1] "Total: 2.2938"
+[1] "Nottingham Forest %: 9.06"
+[1] "Draw %: 20.49"
+[1] "Manchester City %: 70.45"
+[1] "--XA Model--"
+[1] "Score: Nottingham Forest 0.6745 to Manchester City 1.7187"
+[1] "Total: 2.3932"
+[1] "Nottingham Forest %: 14.37"
+[1] "Draw %: 23.13"
+[1] "Manchester City %: 62.5"
+[1] "--Mean 4 Models--"
+[1] "Nottingham Forest has a mean win % of 10.95%; a min win % of 9.06%; a max win % of 14.37%."
+[1] "Draw has a mean win % of 22.1%; a min win % of 20.39%; a max win % of 24.38%."
+[1] "Manchester City has a mean win % of 66.95%; a min win % of 62.5%; a max win of % 70.53%."
+[1] "Nottingham Forest has a mean win of the Double Chance of 33.05%; a min win % of 29.47%, a max win % of 37.5%."
+[1] "Manchester City has a mean win of the Double Chance of 89.05%; a min win % of 85.63%, a max win % of 90.94%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.1%; max % is 42.69 and min % is 35.48%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.9%; max % is 64.52 and min % is 57.31%."
+[1] "--Sportsbook Odds--"
+[1] "Nottingham Forest Barstool Odds are: 10.53"
+[1] "The Barstool Odds of a Draw are: 19.23"
+[1] "Manchester City Barstool Odds are: 74.07"
+[1] "Nottingham Forest Adjusted Barstool Odds are: 10.142"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.521"
+[1] "Manchester City Adjusted Barstool Odds are: 71.338"
+[1] "Nottingham Forest's Barstool Odds to cover the 0.5 spread are: 30.3"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 73.53"
+[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                      bet           date_time
+1  draw Nottingham Forest/Manchester City 2023-02-18 07:00:00
+2 under Nottingham Forest/Manchester City 2023-02-18 07:00:00
+
+
+|player          |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:---------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Erling Haaland  |MCI  |     20| 1.85|          NA|  0.9999|   0.4594|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Erling Haaland  |MCI  |     32| 3.55|          NA|  0.9395|   0.6578|passes    |ENG England |      0.2817|         NA|        NA|         NA|       NA|
+|Erling Haaland  |MCI  |     24| 2.30|          NA|  0.9984|   0.5636|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Erling Haaland  |MCI  |     28| 2.76|          NA|  0.9873|   0.6250|passes    |ENG England |      0.3623|         NA|        NA|         NA|       NA|
+|Erling Haaland  |MCI  |     36| 4.90|          NA|  0.8141|   0.6100|passes    |ENG England |      0.2041|         NA|        NA|         NA|       NA|
+|Erling Haaland  |MCI  |     16| 1.51|          NA|  1.0000|   0.3377|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Brennan Johnson |NOF  |      9| 1.49|          NA|  0.8750|   0.2039|passes    |ENG England |      0.6711|         NA|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team              | expected_attg| expected_gs|bet |
+|:------------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/51949/keylor-navas          |Nottingham Forest |      0.000000|   0.0769231|    |
+|/players/195299/serge-aurier         |Nottingham Forest |      0.012825|   0.0263158|    |
+|/players/716687/joe-worrall          |Nottingham Forest |      0.005425|   0.0243902|    |
+|/players/268212/felipe               |Nottingham Forest |      0.007975|   0.0227273|    |
+|/players/793876/renan-lodi           |Nottingham Forest |      0.013825|   0.0500000|    |
+|/players/127130/jonjo-shelvey        |Nottingham Forest |      0.000000|   0.0952381|    |
+|/players/201704/remo-freuler         |Nottingham Forest |      0.000000|   0.0714286|    |
+|/players/765693/orel-mangala         |Nottingham Forest |      0.000000|   0.0312500|    |
+|/players/544424/gustavo-scarpa       |Nottingham Forest |      0.313850|   0.1052632|*   |
+|/players/1076756/brennan-johnson     |Nottingham Forest |      0.017325|   0.1666667|    |
+|/players/789502/morgan-gibbs-white   |Nottingham Forest |      0.011925|   0.1176471|    |
+|/players/737066/erling-braut-haaland |Manchester City   |      0.147450|   0.6153846|    |
+|/players/815006/phil-foden           |Manchester City   |      0.182150|   0.3333333|    |
+|/players/178818/ilkay-gndogan        |Manchester City   |      0.160850|   0.2631579|    |
+|/players/169200/kevin-de-bruyne      |Manchester City   |      0.171225|   0.3225806|    |
+|/players/488139/bernardo-silva       |Manchester City   |      0.088900|   0.2500000|    |
+|/players/675088/rodri                |Manchester City   |      0.148800|   0.1000000|    |
+|/players/1288450/rico-lewis          |Manchester City   |      0.241500|   0.0714286|*   |
+|/players/417068/nathan-ak            |Manchester City   |      0.153650|   0.0909091|*   |
+|/players/411617/aymeric-laporte      |Manchester City   |      0.122275|   0.0909091|    |
+|/players/521318/manuel-akanji        |Manchester City   |      0.071225|   0.0769231|    |
+|/players/363364/ederson-moraes       |Manchester City   |      0.000000|   0.0555556|    |
+|/players/796747/sam-surridge         |Nottingham Forest |      0.038350|   0.1818182|    |
+|/players/156937/lyle-taylor          |Nottingham Forest |      0.019525|   0.0454545|    |
+|/players/1081174/alex-mighten        |Nottingham Forest |      0.001625|   0.0344828|    |
+|/players/769673/emmanuel-dennis      |Nottingham Forest |      0.006175|   0.1754386|    |
+|/players/312765/jack-grealish        |Manchester City   |      0.012025|   0.2439024|    |
+|/players/844477/sergio-gomez         |Manchester City   |      0.001025|   0.0769231|    |
+|/players/278343/riyad-mahrez         |Manchester City   |      0.018750|   0.3921569|    |
+|/players/974753/julin-álvarez        |Manchester City   |      0.013100|   0.4444444|    |
+____________________________________________________
+
+[1] "Facts about Nottingham Forest:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/51949/keylor-navas        |           0|         19.3941|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/195299/serge-aurier       |           1|         24.0371|           2.6097|        0.0772|         0.1105|      0.0216|        0.0140|      0.0000| 90.0000|
+|/players/716687/joe-worrall        |           1|         24.6337|           1.4239|        0.0382|         0.0619|      0.0112|        0.0065|      0.0000| 90.0000|
+|/players/268212/felipe             |           1|         23.3061|           1.2583|        0.0555|         0.0895|      0.0187|        0.0084|      0.0000| 90.0000|
+|/players/793876/renan-lodi         |           1|         17.8684|           2.1945|        0.0564|         0.0606|      0.0079|        0.0176|      0.0000| 79.9538|
+|/players/127130/jonjo-shelvey      |           2|         23.0326|           1.4269|        0.5568|         0.7337|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/201704/remo-freuler       |           2|         26.4004|           2.1110|        0.1498|         0.2365|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/765693/orel-mangala       |           2|         15.3950|           0.8705|        0.1258|         0.2459|      0.0000|        0.0000|      0.0000| 75.6250|
+|/players/544424/gustavo-scarpa     |           3|         31.6619|           0.8553|        0.0001|         0.7918|      0.2796|        0.4131|      0.0869| 78.4937|
+|/players/1076756/brennan-johnson   |           5|         13.6879|           1.9020|        0.3637|         1.4689|      0.0819|        0.0209|      0.0703| 90.0000|
+|/players/789502/morgan-gibbs-white |           5|         21.6240|           1.3245|        0.3070|         1.4779|      0.0684|        0.0135|      0.0954| 83.5000|
+|/players/796747/sam-surridge       |          NA|              NA|               NA|        0.0666|         0.1542|      0.0513|        0.0448|      0.0069| 14.3750|
+|/players/156937/lyle-taylor        |          NA|              NA|               NA|        0.0250|         0.0949|      0.0274|        0.0215|      0.0030| 11.5063|
+|/players/1081174/alex-mighten      |          NA|              NA|               NA|        0.0236|         0.0473|      0.0060|        0.0024|      0.0059| 10.0462|
+|/players/769673/emmanuel-dennis    |          NA|              NA|               NA|        0.0140|         0.0770|      0.0088|        0.0073|      0.0019|  6.5000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Steve Cooper |       116035|     -1.751931|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about Manchester City:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/737066/erling-braut-haaland |           5|         42.3407|           0.4509|        1.9582|         3.8876|      0.1905|        0.1773|      0.1301| 90.0000|
+|/players/815006/phil-foden           |           3|         40.2386|           1.2550|        0.8629|         2.4111|      0.1939|        0.2202|      0.1074| 83.1053|
+|/players/178818/ilkay-gndogan        |           3|         60.3856|           1.8711|        0.6082|         1.8839|      0.2120|        0.1846|      0.0876| 83.3423|
+|/players/169200/kevin-de-bruyne      |           3|         51.3712|           1.9652|        0.9511|         3.0677|      0.2018|        0.2044|      0.2234| 90.0000|
+|/players/488139/bernardo-silva       |           3|         50.4558|           1.9711|        0.4822|         1.1902|      0.1113|        0.0999|      0.0789| 82.5833|
+|/players/675088/rodri                |           2|         63.0541|           1.1979|        0.0001|         0.6267|      0.1755|        0.1773|      0.1198| 82.8857|
+|/players/1288450/rico-lewis          |           1|         63.7464|           2.2457|        0.2415|         0.5055|      0.1661|        0.3004|      0.1786| 90.0000|
+|/players/417068/nathan-ak            |           1|         75.2807|           1.8152|        0.1283|         0.5096|      0.1574|        0.1813|      0.1212| 90.0000|
+|/players/411617/aymeric-laporte      |           1|         98.6729|           1.4070|        0.1047|         0.6578|      0.2449|        0.1451|      0.1321| 90.0000|
+|/players/521318/manuel-akanji        |           1|         80.5998|           2.1697|        0.0865|         0.5474|      0.1937|        0.0822|      0.0885| 90.0000|
+|/players/363364/ederson-moraes       |           0|         31.0955|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/312765/jack-grealish        |          NA|              NA|               NA|        0.0224|         0.0288|      0.0087|        0.0139|      0.0092|  7.4167|
+|/players/844477/sergio-gomez         |          NA|              NA|               NA|        0.0120|         0.0330|      0.0027|        0.0011|      0.0040|  7.1143|
+|/players/278343/riyad-mahrez         |          NA|              NA|               NA|        0.0395|         0.1081|      0.0305|        0.0205|      0.0091|  6.8947|
+|/players/974753/julin-álvarez        |          NA|              NA|               NA|        0.0532|         0.0798|      0.0089|        0.0137|      0.0020|  6.6577|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Josep Guardiola |       133677|      21.07445|4-3-3     |
+el-akanji        |           1|         80.5998|           2.1697|        0.0865|         0.5474|      0.1937|        0.0822|      0.0885| 90.0000|
+|/players/363364/ederson-moraes       |           0|         31.0955|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/312765/jack-grealish        |          NA|              NA|               NA|        0.0224|         0.0288|      0.0087|        0.0139|      0.0092|  7.4167|
+|/players/844477/sergio-gomez         |          NA|              NA|               NA|        0.0120|         0.0330|      0.0027|        0.0011|      0.0040|  7.1143|
+|/players/278343/riyad-mahrez         |          NA|              NA|               NA|        0.0395|         0.1081|      0.0305|        0.0205|      0.0091|  6.8947|
+|/players/974753/julin-álvarez        |          NA|              NA|               NA|        0.0532|         0.0798|      0.0089|        0.0137|      0.0020|  6.6577|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Josep Guardiola |       133677|      21.07445|4-3-3     |
