@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-16 18:28:11.076"
+[1] "Updated at 2023-02-17 11:27:30.522"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Auxerre 0.9858 to Lyon 1.5848"
-[1] "Total: 2.5706"
-[1] "Auxerre %: 23.94"
-[1] "Draw %: 25.02"
-[1] "Lyon %: 51.04"
+[1] "Score: Auxerre 1.0759 to Lyon 1.4649"
+[1] "Total: 2.5408"
+[1] "Auxerre %: 28.65"
+[1] "Draw %: 26.23"
+[1] "Lyon %: 45.12"
 [1] "--XG Model--"
-[1] "Score: Auxerre 0.9227 to Lyon 1.7427"
-[1] "Total: 2.6654"
-[1] "Auxerre %: 20.01"
-[1] "Draw %: 23.78"
-[1] "Lyon %: 56.21"
+[1] "Score: Auxerre 0.9857 to Lyon 1.4879"
+[1] "Total: 2.4736"
+[1] "Auxerre %: 25.66"
+[1] "Draw %: 25.91"
+[1] "Lyon %: 48.43"
 [1] "--XGoT Model--"
-[1] "Score: Auxerre 0.8762 to Lyon 1.9725"
-[1] "Total: 2.8487"
-[1] "Auxerre %: 15.78"
-[1] "Draw %: 21.14"
-[1] "Lyon %: 63.08"
+[1] "Score: Auxerre 0.8905 to Lyon 1.5964"
+[1] "Total: 2.4869"
+[1] "Auxerre %: 20.76"
+[1] "Draw %: 25.33"
+[1] "Lyon %: 53.91"
 [1] "--XA Model--"
-[1] "Score: Auxerre 0.9718 to Lyon 1.5355"
-[1] "Total: 2.5073"
-[1] "Auxerre %: 24.64"
-[1] "Draw %: 25.55"
-[1] "Lyon %: 49.81"
+[1] "Score: Auxerre 1.1472 to Lyon 1.6223"
+[1] "Total: 2.7695"
+[1] "Auxerre %: 26.9"
+[1] "Draw %: 25.06"
+[1] "Lyon %: 48.04"
 [1] "--Mean 4 Models--"
-[1] "Auxerre has a mean win % of 21.09%; a min win % of 15.78%; a max win % of 24.64%."
-[1] "Draw has a mean win % of 23.87%; a min win % of 21.14%; a max win % of 25.55%."
-[1] "Lyon has a mean win % of 55.04%; a min win % of 49.81%; a max win of % 63.08%."
-[1] "Auxerre has a mean win of the Double Chance of 44.96%; a min win % of 36.92%, a max win % of 50.19%."
-[1] "Lyon has a mean win of the Double Chance of 78.91%; a min win % of 75.36%, a max win % of 84.22%."
-[1] "The mean likelihood that there are more than 2.5 goals is 48.91%; max % is 53.71 and min % is 45.58%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 51.09%; max % is 54.42 and min % is 46.29%."
+[1] "Auxerre has a mean win % of 25.49%; a min win % of 20.76%; a max win % of 28.65%."
+[1] "Draw has a mean win % of 25.63%; a min win % of 25.06%; a max win % of 26.23%."
+[1] "Lyon has a mean win % of 48.88%; a min win % of 45.12%; a max win of % 53.91%."
+[1] "Auxerre has a mean win of the Double Chance of 51.12%; a min win % of 46.09%, a max win % of 54.88%."
+[1] "Lyon has a mean win of the Double Chance of 74.51%; a min win % of 71.35%, a max win % of 79.24%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.91%; max % is 51.77 and min % is 44.56%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.09%; max % is 55.44 and min % is 48.23%."
 [1] "--Sportsbook Odds--"
-[1] "Auxerre Barstool Odds are: 23.08"
-[1] "The Barstool Odds of a Draw are: 26.32"
-[1] "Lyon Barstool Odds are: 56.52"
-[1] "Auxerre Adjusted Barstool Odds are: 21.79"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.849"
-[1] "Lyon Adjusted Barstool Odds are: 53.361"
-[1] "Auxerre's Barstool Odds to cover the 0.5 spread are: 48.78"
-[1] "Lyon's Barstool Odds to cover the -0.5 spread are: 55.87"
-[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "Auxerre Barstool Odds are: 23.26"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "Lyon Barstool Odds are: 55.56"
+[1] "Auxerre Adjusted Barstool Odds are: 21.974"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.536"
+[1] "Lyon Adjusted Barstool Odds are: 52.489"
+[1] "Auxerre's Barstool Odds to cover the 0.5 spread are: 50"
+[1] "Lyon's Barstool Odds to cover the -0.5 spread are: 54.64"
+[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.97, which is a 50.76% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -53,58 +53,58 @@
 |pageUrl2                           |team    | expected_attg| expected_gs|bet |
 |:----------------------------------|:-------|-------------:|-----------:|:---|
 |/players/681213/ionut-andrei-radu  |Auxerre |      0.000000|   0.3448276|    |
-|/players/542777/akim-zedadka       |Auxerre |      0.030450|   0.0769231|    |
-|/players/493731/jubal              |Auxerre |      0.029275|   0.0714286|    |
-|/players/1180547/souleymane-tour   |Auxerre |      0.008025|   0.0434783|    |
-|/players/771630/gideon-mensah      |Auxerre |      0.007750|   0.0208333|    |
-|/players/978680/han-noah-massengo  |Auxerre |      0.015625|   0.0526316|    |
-|/players/348408/birama-tour        |Auxerre |      0.087875|   0.0909091|    |
-|/players/192316/mathias-autret     |Auxerre |      0.107325|   0.1818182|    |
-|/players/708435/gatan-perrin       |Auxerre |      0.131725|   0.2083333|    |
-|/players/1250492/matthis-abline    |Auxerre |      0.204650|   0.2439024|    |
-|/players/671326/nuno-da-costa      |Auxerre |      0.123350|   0.2380952|    |
-|/players/1297165/bradley-barcola   |Lyon    |      0.274875|   0.2857143|    |
-|/players/1156568/amin-sarr         |Lyon    |      0.396275|   0.3125000|*   |
-|/players/1104053/rayan-cherki      |Lyon    |      0.147600|   0.3225806|    |
-|/players/195750/nicols-tagliafico  |Lyon    |      0.107900|   0.0833333|    |
-|/players/473852/corentin-tolisso   |Lyon    |      0.122250|   0.2173913|    |
-|/players/846000/maxence-caqueret   |Lyon    |      0.057000|   0.1538462|    |
-|/players/1327298/sal-kumbedi       |Lyon    |      0.061300|   0.0454545|    |
-|/players/1253852/castello-lukeba   |Lyon    |      0.025425|   0.1111111|    |
-|/players/114268/dejan-lovren       |Lyon    |      0.025800|   0.0909091|    |
-|/players/1133081/sinaly-diomand    |Lyon    |      0.022050|   0.0454545|    |
+|/players/542777/akim-zedadka       |Auxerre |      0.039675|   0.0769231|    |
+|/players/493731/jubal              |Auxerre |      0.041600|   0.0714286|    |
+|/players/1180547/souleymane-tour   |Auxerre |      0.008975|   0.0434783|    |
+|/players/771630/gideon-mensah      |Auxerre |      0.010850|   0.0212766|    |
+|/players/978680/han-noah-massengo  |Auxerre |      0.013925|   0.0555556|    |
+|/players/348408/birama-tour        |Auxerre |      0.014500|   0.0909091|    |
+|/players/591529/rayan-raveloson    |Auxerre |      0.228525|   0.1428571|*   |
+|/players/708435/gatan-perrin       |Auxerre |      0.107775|   0.2127660|    |
+|/players/671326/nuno-da-costa      |Auxerre |      0.097625|   0.2380952|    |
+|/players/1250492/matthis-abline    |Auxerre |      0.225850|   0.2500000|    |
+|/players/509148/moussa-demblé      |Lyon    |      0.380700|   0.4651163|    |
+|/players/1156568/amin-sarr         |Lyon    |      0.309050|   0.3125000|    |
+|/players/1104053/rayan-cherki      |Lyon    |      0.148850|   0.3225806|    |
+|/players/195750/nicols-tagliafico  |Lyon    |      0.095050|   0.0833333|    |
+|/players/473852/corentin-tolisso   |Lyon    |      0.110075|   0.2127660|    |
+|/players/846000/maxence-caqueret   |Lyon    |      0.050600|   0.1538462|    |
+|/players/1327298/sal-kumbedi       |Lyon    |      0.055800|   0.0434783|    |
+|/players/1253852/castello-lukeba   |Lyon    |      0.033050|   0.1111111|    |
+|/players/114268/dejan-lovren       |Lyon    |      0.033200|   0.0833333|    |
+|/players/1133081/sinaly-diomand    |Lyon    |      0.028625|   0.0434783|    |
 |/players/167035/anthony-lopes      |Lyon    |      0.000000|   0.2500000|    |
-|/players/883823/elisha-owusu       |Auxerre |      0.045300|   0.0370370|    |
-|/players/308824/youssouf-mchangama |Auxerre |      0.004475|   0.1666667|    |
-|/players/763974/gauthier-hein      |Auxerre |      0.007375|   0.1818182|    |
-|/players/923196/lassine-sinayoko   |Auxerre |      0.036600|   0.1724138|    |
-|/players/509148/moussa-demblé      |Lyon    |      0.134875|   0.4761905|    |
-|/players/339032/thiago-mendes      |Lyon    |      0.003750|   0.0909091|    |
-|/players/776299/houssem-aouar      |Lyon    |      0.030900|   0.2173913|    |
-|/players/36183/jrome-boateng       |Lyon    |      0.000000|   0.0625000|    |
+|/players/865184/siriki-dembele     |Auxerre |      0.063600|   0.0000000|*   |
+|/players/308824/youssouf-mchangama |Auxerre |      0.005600|   0.0000000|    |
+|/players/763974/gauthier-hein      |Auxerre |      0.010900|   0.0000000|    |
+|/players/923196/lassine-sinayoko   |Auxerre |      0.028000|   0.0000000|    |
+|/players/339032/thiago-mendes      |Lyon    |      0.005725|   0.0000000|    |
+|/players/1297165/bradley-barcola   |Lyon    |      0.010550|   0.0000000|    |
+|/players/36183/jrome-boateng       |Lyon    |      0.000000|   0.0000000|    |
+|/players/465003/henrique           |Lyon    |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Auxerre:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/681213/ionut-andrei-radu  |           0|         29.8592|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/542777/akim-zedadka       |           1|         32.3659|           1.2402|        0.1654|         0.6424|      0.0268|        0.0330|      0.0898| 90.0000|
-|/players/493731/jubal              |           1|         37.1698|           0.7756|        0.1950|         0.4364|      0.0333|        0.0339|      0.0056| 90.0000|
-|/players/1180547/souleymane-tour   |           1|         40.7084|           1.7930|        0.0746|         0.6878|      0.0699|        0.0082|      0.0164| 90.0000|
-|/players/771630/gideon-mensah      |           1|         35.9310|           2.1124|        0.0746|         0.2162|      0.0046|        0.0082|      0.0479| 90.0000|
-|/players/978680/han-noah-massengo  |           3|         25.3342|           2.5969|        0.0805|         0.5753|      0.0287|        0.0153|      0.0287| 79.2766|
-|/players/348408/birama-tour        |           3|         39.9957|           1.8175|        0.1400|         0.5007|      0.1020|        0.0947|      0.0419| 90.0000|
-|/players/192316/mathias-autret     |           3|         33.1591|           1.7800|        0.5072|         1.6818|      0.1138|        0.1178|      0.0924| 78.4756|
-|/players/708435/gatan-perrin       |           5|         11.0057|           0.5510|        0.3097|         0.4474|      0.0090|        0.1358|      0.0247| 53.0000|
-|/players/1250492/matthis-abline    |           5|         15.7140|           0.4508|        0.7754|         2.3183|      0.3509|        0.2316|      0.0355| 76.2727|
-|/players/671326/nuno-da-costa      |           5|         26.9175|           0.8574|        0.5260|         1.9280|      0.1437|        0.1358|      0.0639| 90.0000|
-|/players/883823/elisha-owusu       |          NA|              NA|               NA|        0.0755|         0.4531|      0.0129|        0.0453|      0.0380| 37.0000|
-|/players/308824/youssouf-mchangama |          NA|              NA|               NA|        0.0732|         0.4389|      0.0076|        0.0050|      0.0278| 13.7273|
-|/players/763974/gauthier-hein      |          NA|              NA|               NA|        0.1051|         0.3783|      0.0092|        0.0079|      0.0227| 11.5244|
-|/players/923196/lassine-sinayoko   |          NA|              NA|               NA|        0.1347|         0.4716|      0.0428|        0.0363|      0.0080| 10.7234|
+|/players/681213/ionut-andrei-radu  |           0|         31.5500|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/542777/akim-zedadka       |           1|         30.2133|           1.2231|        0.1696|         0.5783|      0.0303|        0.0387|      0.0824| 90.0000|
+|/players/493731/jubal              |           1|         34.6978|           0.7649|        0.2000|         0.3928|      0.0376|        0.0397|      0.0052| 90.0000|
+|/players/1180547/souleymane-tour   |           1|         34.4824|           1.6045|        0.0695|         0.5618|      0.0716|        0.0096|      0.0136| 81.6667|
+|/players/771630/gideon-mensah      |           1|         33.5413|           2.0833|        0.0765|         0.1946|      0.0052|        0.0096|      0.0440| 90.0000|
+|/players/978680/han-noah-massengo  |           2|         28.3802|           2.3147|        0.1462|         0.6111|      0.0274|        0.0133|      0.0781| 90.0000|
+|/players/348408/birama-tour        |           2|         47.1736|           2.0077|        0.1462|         1.0336|      0.0712|        0.0133|      0.0213| 90.0000|
+|/players/591529/rayan-raveloson    |           3|         37.5746|           1.3804|        0.4322|         1.5334|      0.2036|        0.2394|      0.1400| 90.0000|
+|/players/708435/gatan-perrin       |           3|         17.1330|           0.4946|        0.5343|         1.1517|      0.0621|        0.1059|      0.0247| 68.2500|
+|/players/671326/nuno-da-costa      |           3|         12.0883|           2.1982|        0.2714|         1.1943|      0.1660|        0.0962|      0.0642| 74.0000|
+|/players/1250492/matthis-abline    |           5|         16.7329|           0.7600|        0.6643|         1.7672|      0.2597|        0.2441|      0.0343| 76.2727|
+|/players/865184/siriki-dembele     |           0|              NA|               NA|        0.3816|         0.6200|      0.0283|        0.0664|      0.1211| 21.7500|
+|/players/308824/youssouf-mchangama |           0|              NA|               NA|        0.1168|         0.7009|      0.0092|        0.0063|      0.0444| 16.0000|
+|/players/763974/gauthier-hein      |           0|              NA|               NA|        0.1715|         0.6173|      0.0115|        0.0102|      0.0370| 13.7273|
+|/players/923196/lassine-sinayoko   |           0|              NA|               NA|        0.1434|         0.5020|      0.0346|        0.0305|      0.0085|  8.3333|
 
 
 |manager_name         | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Lyon:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/1297165/bradley-barcola  |           5|         24.0429|           0.8383|        0.9608|         1.8797|      0.2701|        0.3794|      0.1630| 69.1667|
-|/players/1156568/amin-sarr        |           5|         23.1988|           0.4637|        1.0426|         2.6833|      0.5551|        0.6007|      0.0807| 84.8298|
-|/players/1104053/rayan-cherki     |           4|         41.0948|           1.7088|        0.6694|         1.8640|      0.2230|        0.1931|      0.1580| 90.0000|
-|/players/195750/nicols-tagliafico |           3|         40.4598|           3.5958|        0.4045|         1.3262|      0.0541|        0.1387|      0.1424| 90.0000|
-|/players/473852/corentin-tolisso  |           3|         62.2310|           0.8133|        0.3467|         1.0946|      0.1553|        0.1559|      0.2612| 70.8571|
-|/players/846000/maxence-caqueret  |           3|         46.7225|           2.8116|        0.1721|         0.6020|      0.0521|        0.0737|      0.1343| 83.3191|
-|/players/1327298/sal-kumbedi      |           3|         23.2644|           0.8989|        0.1859|         0.6502|      0.0541|        0.0737|      0.0124| 90.0000|
-|/players/1253852/castello-lukeba  |           1|         64.4528|           1.6248|        0.1080|         0.2042|      0.0500|        0.0309|      0.0159| 90.0000|
-|/players/114268/dejan-lovren      |           1|         56.2621|           1.3816|        0.2218|         0.6719|      0.0563|        0.0330|      0.0219| 90.0000|
-|/players/1133081/sinaly-diomand   |           1|         59.3215|           2.0041|        0.1275|         0.5096|      0.0616|        0.0277|      0.0199| 90.0000|
-|/players/167035/anthony-lopes     |           0|         30.2887|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/509148/moussa-demblé     |          NA|              NA|               NA|        0.5067|         0.9904|      0.1329|        0.1746|      0.0260| 20.8333|
-|/players/339032/thiago-mendes     |          NA|              NA|               NA|        0.0321|         0.1286|      0.0100|        0.0050|      0.0220| 19.1429|
-|/players/776299/houssem-aouar     |          NA|              NA|               NA|        0.1069|         0.2405|      0.0189|        0.0370|      0.0095|  6.6809|
-|/players/36183/jrome-boateng      |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0123|  5.1702|
+|/players/509148/moussa-demblé     |           5|         23.7909|           0.5250|        1.1180|         2.4869|      0.4913|        0.5034|      0.1031| 82.4151|
+|/players/1156568/amin-sarr        |           5|         29.1413|           0.9235|        1.0371|         2.3151|      0.2533|        0.3920|      0.1753| 84.8298|
+|/players/1104053/rayan-cherki     |           4|         45.2439|           1.5730|        0.6204|         1.7018|      0.2066|        0.1769|      0.2285| 90.0000|
+|/players/195750/nicols-tagliafico |           3|         43.6552|           3.6181|        0.4067|         1.2417|      0.0559|        0.1102|      0.1209| 90.0000|
+|/players/473852/corentin-tolisso  |           3|         67.1459|           0.8184|        0.3486|         1.0249|      0.1605|        0.1238|      0.2219| 70.8571|
+|/players/846000/maxence-caqueret  |           3|         50.4125|           2.8290|        0.1731|         0.5636|      0.0538|        0.0585|      0.1141| 83.3191|
+|/players/1327298/sal-kumbedi      |           3|         25.1017|           0.9045|        0.1869|         0.6088|      0.0559|        0.0585|      0.0105| 90.0000|
+|/players/1253852/castello-lukeba  |           1|         67.6814|           1.6495|        0.1200|         0.2386|      0.0422|        0.0362|      0.0290| 90.0000|
+|/players/114268/dejan-lovren      |           1|         59.0803|           1.4025|        0.2465|         0.7850|      0.0475|        0.0386|      0.0399| 90.0000|
+|/players/1133081/sinaly-diomand   |           1|         62.2930|           2.0345|        0.1416|         0.5954|      0.0520|        0.0324|      0.0362| 90.0000|
+|/players/167035/anthony-lopes     |           0|         31.2512|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/339032/thiago-mendes     |           0|              NA|               NA|        0.0440|         0.1761|      0.0104|        0.0054|      0.0302| 19.1429|
+|/players/1297165/bradley-barcola  |           0|              NA|               NA|        0.0370|         0.1850|      0.0087|        0.0113|      0.0337|  7.5849|
+|/players/36183/jrome-boateng      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0217|  6.6809|
+|/players/465003/henrique          |           0|              NA|               NA|        0.0000|         0.0578|      0.0006|        0.0000|      0.0015|  5.1702|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
