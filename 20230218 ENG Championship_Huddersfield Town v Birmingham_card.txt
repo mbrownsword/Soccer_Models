@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 15:26:33.635"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Huddersfield Town 0.9933 to Birmingham 1.0962"
+[1] "Total: 2.0895"
+[1] "Huddersfield Town %: 32.97"
+[1] "Draw %: 30.36"
+[1] "Birmingham %: 36.67"
+[1] "--XG Model--"
+[1] "Score: Huddersfield Town 1.1214 to Birmingham 1.2349"
+[1] "Total: 2.3563"
+[1] "Huddersfield Town %: 32.98"
+[1] "Draw %: 28.39"
+[1] "Birmingham %: 38.63"
+[1] "--XGoT Model--"
+[1] "Score: Huddersfield Town 1.1598 to Birmingham 1.2045"
+[1] "Total: 2.3643"
+[1] "Huddersfield Town %: 34.56"
+[1] "Draw %: 28.57"
+[1] "Birmingham %: 36.87"
+[1] "--XA Model--"
+[1] "Score: Huddersfield Town 0.9784 to Birmingham 1.0803"
+[1] "Total: 2.0587"
+[1] "Huddersfield Town %: 32.74"
+[1] "Draw %: 31.01"
+[1] "Birmingham %: 36.25"
+[1] "--Mean 4 Models--"
+[1] "Huddersfield Town has a mean win % of 33.31%; a min win % of 32.74%; a max win % of 34.56%."
+[1] "Draw has a mean win % of 29.58%; a min win % of 28.39%; a max win % of 31.01%."
+[1] "Birmingham has a mean win % of 37.1%; a min win % of 36.25%; a max win of % 38.63%."
+[1] "Huddersfield Town has a mean win of the Double Chance of 62.89%; a min win % of 61.37%, a max win % of 63.75%."
+[1] "Birmingham has a mean win of the Double Chance of 66.69%; a min win % of 65.44%, a max win % of 67.26%."
+[1] "The mean likelihood that there are more than 2.5 goals is 37.74%; max % is 41.45 and min % is 33.51%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 62.26%; max % is 66.49 and min % is 58.55%."
+[1] "--Sportsbook Odds--"
+[1] "Huddersfield Town Barstool Odds are: 38.1"
+[1] "The Barstool Odds of a Draw are: 32.79"
+[1] "Birmingham Barstool Odds are: 35.71"
+[1] "Huddersfield Town Adjusted Barstool Odds are: 35.741"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.76"
+[1] "Birmingham Adjusted Barstool Odds are: 33.499"
+[1] "Huddersfield Town's Barstool Odds to cover the 0 spread are: 54.95"
+[1] "Birmingham's Barstool Odds to cover the 0 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 2.4, which is a 41.67% chance of the over 2.5 hitting. The line for the under is 1.54, which is a 64.94% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+         bet           date_time
+1 Birmingham 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team              | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/156175/tomas-vaclik        |Huddersfield Town |      0.000000|   0.0625000|    |
+|/players/183747/tom-lees            |Huddersfield Town |      0.045050|   0.1000000|    |
+|/players/183715/matthew-lowton      |Huddersfield Town |      0.014725|   0.0666667|    |
+|/players/1081014/jaheim-headley     |Huddersfield Town |      0.025650|   0.0625000|    |
+|/players/183747/tom-lees            |Huddersfield Town |      0.045050|   0.1000000|    |
+|/players/746408/david-kasumu        |Huddersfield Town |      0.049075|   0.1111111|    |
+|/players/1222191/etienne-camara     |Huddersfield Town |      0.048325|   0.1250000|    |
+|/players/244530/josh-ruffels        |Huddersfield Town |      0.020275|   0.1428571|    |
+|/players/1030830/jack-rudoni        |Huddersfield Town |      0.185325|   0.2040816|    |
+|/players/189074/jonathan-hogg       |Huddersfield Town |      0.193500|   0.1111111|*   |
+|/players/104258/jordan-rhodes       |Huddersfield Town |      0.281175|   0.3125000|    |
+|/players/40602/john-ruddy           |Birmingham        |      0.000000|   0.1333333|    |
+|/players/210389/maxime-colin        |Birmingham        |      0.016450|   0.1000000|    |
+|/players/1070973/dion-sanderson     |Birmingham        |      0.022625|   0.0769231|    |
+|/players/688271/auston-trusty       |Birmingham        |      0.024850|   0.0952381|    |
+|/players/1310975/jordan-james       |Birmingham        |      0.056250|   0.1176471|    |
+|/players/963949/emmanuel-longelo    |Birmingham        |      0.045075|   0.1250000|    |
+|/players/556952/krystian-bielik     |Birmingham        |      0.032975|   0.1000000|    |
+|/players/282251/gary-gardner        |Birmingham        |      0.109325|   0.1538462|    |
+|/players/614574/juninho-bacuna      |Birmingham        |      0.122925|   0.1538462|    |
+|/players/72436/troy-deeney          |Birmingham        |      0.233450|   0.3636364|    |
+|/players/190424/scott-hogan         |Birmingham        |      0.227325|   0.2702703|    |
+|/players/104258/jordan-rhodes       |Huddersfield Town |      0.281175|   0.3125000|    |
+|/players/109434/martyn-waghorn      |Huddersfield Town |      0.037075|   0.3333333|    |
+|/players/1117779/scott-high         |Huddersfield Town |      0.004850|   0.1111111|    |
+|/players/480787/duane-holmes        |Huddersfield Town |      0.011825|   0.1250000|    |
+|/players/27568/lukas-jutkiewicz     |Birmingham        |      0.082400|   0.3125000|    |
+|/players/614574/juninho-bacuna      |Birmingham        |      0.122925|   0.1538462|    |
+|/players/862717/przemyslaw-placheta |Birmingham        |      0.023900|   0.1960784|    |
+|/players/282251/gary-gardner        |Birmingham        |      0.109325|   0.1538462|    |
+____________________________________________________
+
+[1] "Facts about Huddersfield Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/156175/tomas-vaclik    |           0|         23.5147|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/183747/tom-lees        |           1|         44.6746|           1.0327|        0.1003|         0.4088|      0.0546|        0.0304|      0.0194| 90.0000|
+|/players/183715/matthew-lowton  |           1|         35.3988|           1.6896|        0.0463|         0.3888|      0.0194|        0.0160|      0.0521| 90.0000|
+|/players/1081014/jaheim-headley |           1|         34.7013|           2.0574|        0.2136|         0.5986|      0.0300|        0.0369|      0.0711| 90.0000|
+|/players/183747/tom-lees        |           1|         44.6746|           1.0327|        0.1003|         0.4088|      0.0546|        0.0304|      0.0194| 90.0000|
+|/players/746408/david-kasumu    |           2|         31.8839|           1.7900|        0.1964|         1.0380|      0.0580|        0.0641|      0.0527| 90.0000|
+|/players/1222191/etienne-camara |           2|         47.4518|           2.5313|        0.1964|         0.5382|      0.0676|        0.0641|      0.0837| 90.0000|
+|/players/244530/josh-ruffels    |           3|         22.9221|           0.7214|        0.1498|         0.9570|      0.0687|        0.0241|      0.1072| 82.8667|
+|/players/1030830/jack-rudoni    |           3|         16.5035|           1.2283|        1.2603|         3.0854|      0.3306|        0.2577|      0.1478| 83.0732|
+|/players/189074/jonathan-hogg   |           3|         32.6846|           1.4336|        0.1560|         0.5732|      0.1149|        0.2557|      0.0641| 83.5278|
+|/players/104258/jordan-rhodes   |           5|         13.8406|           0.3914|        0.6416|         1.7840|      0.2478|        0.2925|      0.0482| 74.5750|
+|/players/104258/jordan-rhodes   |           0|              NA|               NA|        0.2541|         0.6438|      0.1097|        0.1114|      0.0141| 15.4250|
+|/players/109434/martyn-waghorn  |           0|              NA|               NA|        0.1072|         0.3572|      0.0406|        0.0447|      0.0100|  7.1333|
+|/players/1117779/scott-high     |           0|              NA|               NA|        0.0280|         0.0839|      0.0048|        0.0061|      0.0029|  6.9268|
+|/players/480787/duane-holmes    |           0|              NA|               NA|        0.0686|         0.1371|      0.0103|        0.0156|      0.0152|  6.4722|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Neil Warnock |        60345|      1.186714|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Birmingham:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/40602/john-ruddy           |           0|         25.4431|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/210389/maxime-colin        |           1|         39.4439|           1.7093|        0.0650|         0.2635|      0.0252|        0.0196|      0.0501| 90.0000|
+|/players/1070973/dion-sanderson     |           1|         44.1722|           1.1110|        0.0901|         0.3778|      0.0282|        0.0274|      0.0228| 90.0000|
+|/players/688271/auston-trusty       |           1|         51.8749|           1.5392|        0.1405|         0.5931|      0.0578|        0.0293|      0.0217| 90.0000|
+|/players/1310975/jordan-james       |           3|         27.4501|           1.9808|        0.3475|         0.9741|      0.1159|        0.0632|      0.0280| 90.0000|
+|/players/963949/emmanuel-longelo    |           3|         29.4064|           1.7949|        0.1134|         0.8311|      0.0388|        0.0480|      0.2010| 90.0000|
+|/players/556952/krystian-bielik     |           3|         42.9155|           2.1181|        0.1286|         0.4882|      0.0403|        0.0387|      0.0490| 82.7273|
+|/players/282251/gary-gardner        |           3|         39.0569|           1.8433|        0.2834|         1.0775|      0.0961|        0.0845|      0.0779| 90.0000|
+|/players/614574/juninho-bacuna      |           3|         33.3174|           1.3398|        0.4732|         1.3445|      0.1034|        0.1442|      0.1245| 81.2131|
+|/players/72436/troy-deeney          |           5|         25.3791|           0.9603|        0.7664|         1.9724|      0.3040|        0.2942|      0.1305| 81.9420|
+|/players/190424/scott-hogan         |           5|         11.7853|           0.3448|        0.7597|         2.0231|      0.2862|        0.2871|      0.0457| 80.1313|
+|/players/27568/lukas-jutkiewicz     |           0|              NA|               NA|        0.1978|         0.4726|      0.0671|        0.1013|      0.0282|  9.8687|
+|/players/614574/juninho-bacuna      |           0|              NA|               NA|        0.0614|         0.2762|      0.0242|        0.0047|      0.0161|  8.7869|
+|/players/862717/przemyslaw-placheta |           0|              NA|               NA|        0.0906|         0.3172|      0.0269|        0.0278|      0.0233|  8.0580|
+|/players/282251/gary-gardner        |           0|              NA|               NA|        0.0783|         0.1761|      0.0308|        0.0445|      0.0107|  7.2727|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|John Eustace |        33000|     -4.398788|3-5-2     |
