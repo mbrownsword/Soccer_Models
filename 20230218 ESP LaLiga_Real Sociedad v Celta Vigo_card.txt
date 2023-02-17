@@ -1,0 +1,148 @@
+[1] "Updated at 2023-02-17 12:38:27.980"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Real Sociedad 1.4636 to Celta Vigo 1.094"
+[1] "Total: 2.5576"
+[1] "Real Sociedad %: 45.93"
+[1] "Draw %: 25.56"
+[1] "Celta Vigo %: 28.51"
+[1] "--XG Model--"
+[1] "Score: Real Sociedad 1.6449 to Celta Vigo 1.152"
+[1] "Total: 2.7969"
+[1] "Real Sociedad %: 49.4"
+[1] "Draw %: 24.09"
+[1] "Celta Vigo %: 26.51"
+[1] "--XGoT Model--"
+[1] "Score: Real Sociedad 1.6202 to Celta Vigo 1.1585"
+[1] "Total: 2.7787"
+[1] "Real Sociedad %: 48.92"
+[1] "Draw %: 23.99"
+[1] "Celta Vigo %: 27.09"
+[1] "--XA Model--"
+[1] "Score: Real Sociedad 1.4528 to Celta Vigo 1.0532"
+[1] "Total: 2.506"
+[1] "Real Sociedad %: 46.64"
+[1] "Draw %: 25.75"
+[1] "Celta Vigo %: 27.61"
+[1] "--Mean 4 Models--"
+[1] "Real Sociedad has a mean win % of 47.72%; a min win % of 45.93%; a max win % of 49.4%."
+[1] "Draw has a mean win % of 24.85%; a min win % of 23.99%; a max win % of 25.75%."
+[1] "Celta Vigo has a mean win % of 27.43%; a min win % of 26.51%; a max win of % 28.51%."
+[1] "Real Sociedad has a mean win of the Double Chance of 72.57%; a min win % of 71.49%, a max win % of 73.49%."
+[1] "Celta Vigo has a mean win of the Double Chance of 52.28%; a min win % of 50.6%, a max win % of 54.07%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.45%; max % is 51.8 and min % is 44.63%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.54%; max % is 55.37 and min % is 48.2%."
+[1] "--Sportsbook Odds--"
+[1] "Real Sociedad Barstool Odds are: 57.14"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Celta Vigo Barstool Odds are: 20"
+[1] "Real Sociedad Adjusted Barstool Odds are: 54.054"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.027"
+[1] "Celta Vigo Adjusted Barstool Odds are: 18.92"
+[1] "Real Sociedad's Barstool Odds to cover the -0.75 spread are: 51.02"
+[1] "Celta Vigo's Barstool Odds to cover the 0.75 spread are: 54.35"
+[1] "Barstool's line for the total is 2.5 at 2.35, which is a 42.55% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                            bet           date_time
+1                    Celta Vigo 2023-02-18 05:00:00
+2 over Real Sociedad/Celta Vigo 2023-02-18 05:00:00
+
+
+|player               |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:--------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Jorgen Strand Larsen |CEL  |      9| 1.55|          NA|  0.9079|   0.2627|passes    |ESP Spain |      0.6452|         NA|        NA|         NA|       NA|
+|Gabriel Veiga        |CEL  |     25| 1.86|          NA|  0.6580|   0.1204|passes    |ESP Spain |      0.5376|         NA|        NA|         NA|       NA|
+|Gabriel Veiga        |CEL  |     21| 1.52|          NA|  0.8866|   0.2287|passes    |ESP Spain |      0.6579|         NA|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team          | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/616539/alex-remiro         |Real Sociedad |      0.000000|   0.0370370|    |
+|/players/1002618/ander-barrenetxea  |Real Sociedad |      0.018500|   0.0952381|    |
+|/players/698653/igor-zubeldia       |Real Sociedad |      0.063100|   0.0769231|    |
+|/players/609516/robin-le-normand    |Real Sociedad |      0.041750|   0.0322581|    |
+|/players/488718/diego-rico          |Real Sociedad |      0.015250|   0.0454545|    |
+|/players/1031325/martin-zubimendi   |Real Sociedad |      0.033000|   0.0500000|    |
+|/players/574645/mikel-merino        |Real Sociedad |      0.108700|   0.1333333|    |
+|/players/640122/brais-mndez         |Real Sociedad |      0.148150|   0.2857143|    |
+|/players/678234/mikel-oyarzabal     |Real Sociedad |      0.319850|   0.4081633|    |
+|/players/848289/takefusa-kubo       |Real Sociedad |      0.054550|   0.3125000|    |
+|/players/440330/alexander-srloth    |Real Sociedad |      0.359100|   0.4000000|    |
+|/players/821100/jrgen-strand-larsen |Celta Vigo    |      0.171375|   0.2380952|    |
+|/players/174472/iago-aspas          |Celta Vigo    |      0.227575|   0.2941176|    |
+|/players/780418/luca-de-la-torre    |Celta Vigo    |      0.021225|   0.0666667|    |
+|/players/1116734/gabriel-veiga      |Celta Vigo    |      0.202825|   0.2173913|    |
+|/players/785511/fran-beltrn         |Celta Vigo    |      0.010650|   0.0322581|    |
+|/players/873297/carles-prez         |Celta Vigo    |      0.053600|   0.1666667|    |
+|/players/695062/javi-galn           |Celta Vigo    |      0.006025|   0.0222222|    |
+|/players/805352/unai-nunez          |Celta Vigo    |      0.054275|   0.0333333|    |
+|/players/643998/joseph-aidoo        |Celta Vigo    |      0.014925|   0.0666667|    |
+|/players/952095/oscar-mingueza      |Celta Vigo    |      0.033250|   0.0222222|    |
+|/players/786630/ivn-villar          |Celta Vigo    |      0.000000|   0.0322581|    |
+|/players/1011117/robert-navarro     |Real Sociedad |      0.082750|   0.2500000|    |
+|/players/873827/ander-guevara       |Real Sociedad |      0.016050|   0.0952381|    |
+|/players/1210647/benat-turrientes   |Real Sociedad |      0.002500|   0.1111111|    |
+|/players/516854/carlos-fernndez     |Real Sociedad |      0.013425|   0.3030303|    |
+|/players/407796/augusto-solari      |Celta Vigo    |      0.019125|   0.1176471|    |
+|/players/863168/oscar-rodriguez     |Celta Vigo    |      0.023375|   0.1250000|    |
+|/players/170775/haris-seferovic     |Celta Vigo    |      0.113300|   0.2173913|    |
+|/players/541588/franco-cervi        |Celta Vigo    |      0.002875|   0.1176471|    |
+____________________________________________________
+
+[1] "Facts about Real Sociedad:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/616539/alex-remiro        |           0|         31.8992|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1002618/ander-barrenetxea |           1|         30.0251|           1.0046|        0.0836|         0.3474|      0.0199|        0.0189|      0.0534| 63.0000|
+|/players/698653/igor-zubeldia      |           1|         57.8066|           1.2750|        0.1519|         0.4962|      0.0702|        0.0696|      0.0371| 90.0000|
+|/players/609516/robin-le-normand   |           1|         58.3119|           1.2414|        0.1934|         0.6676|      0.0925|        0.0502|      0.0158| 90.0000|
+|/players/488718/diego-rico         |           1|         47.3856|           2.1539|        0.1195|         0.5229|      0.0284|        0.0189|      0.1090| 90.0000|
+|/players/1031325/martin-zubimendi  |           2|         55.4234|           2.1868|        0.0892|         0.3837|      0.0279|        0.0360|      0.0459| 90.0000|
+|/players/574645/mikel-merino       |           2|         55.0910|           1.9895|        0.4354|         1.4573|      0.1362|        0.1307|      0.1218| 90.0000|
+|/players/640122/brais-mndez        |           3|         40.2091|           1.6459|        0.5769|         1.5130|      0.1509|        0.1820|      0.1120| 82.3488|
+|/players/678234/mikel-oyarzabal    |           3|         26.4589|           0.7500|        0.5932|         1.5923|      0.3318|        0.4163|      0.1809| 78.9565|
+|/players/848289/takefusa-kubo      |           3|         25.4174|           1.1569|        0.6202|         1.8560|      0.0896|        0.0660|      0.1274| 78.5769|
+|/players/440330/alexander-srloth   |           5|         20.4955|           0.5321|        1.0592|         2.5072|      0.5188|        0.4905|      0.0855| 90.0000|
+|/players/1011117/robert-navarro    |          NA|              NA|               NA|        0.5015|         1.2260|      0.1155|        0.0993|      0.0668| 27.0000|
+|/players/873827/ander-guevara      |          NA|              NA|               NA|        0.0287|         0.0573|      0.0054|        0.0182|      0.0109| 11.4231|
+|/players/1210647/benat-turrientes  |          NA|              NA|               NA|        0.0636|         0.2226|      0.0151|        0.0034|      0.0121| 11.0435|
+|/players/516854/carlos-fernndez    |          NA|              NA|               NA|        0.0817|         0.2125|      0.0362|        0.0136|      0.0037|  7.6512|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Imanol Alguacil |       115646|      7.350278|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Celta Vigo:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/821100/jrgen-strand-larsen |           5|         14.3922|           0.8738|        0.7133|         1.8922|      0.2515|        0.2101|      0.0394| 90.0000|
+|/players/174472/iago-aspas          |           5|         31.6995|           0.6836|        0.7069|         1.6712|      0.2615|        0.2921|      0.1269| 90.0000|
+|/players/780418/luca-de-la-torre    |           3|         43.3638|           2.3065|        0.0904|         0.4349|      0.0471|        0.0267|      0.0954| 90.0000|
+|/players/1116734/gabriel-veiga      |           3|         27.7832|           1.9730|        0.4905|         1.2643|      0.1914|        0.2502|      0.0349| 74.5000|
+|/players/785511/fran-beltrn         |           3|         40.3315|           1.2228|        0.0817|         0.4548|      0.0208|        0.0123|      0.0552| 77.1875|
+|/players/873297/carles-prez         |           3|         23.8154|           1.0790|        0.3985|         1.2537|      0.0490|        0.0589|      0.0938| 74.5000|
+|/players/695062/javi-galn           |           1|         33.1323|           2.4874|        0.0791|         0.3474|      0.0148|        0.0063|      0.0774| 90.0000|
+|/players/805352/unai-nunez          |           1|         39.6852|           0.8657|        0.1480|         0.5134|      0.0622|        0.0590|      0.0119| 90.0000|
+|/players/643998/joseph-aidoo        |           1|         38.8031|           1.2817|        0.0699|         0.3580|      0.0307|        0.0175|      0.0098| 90.0000|
+|/players/952095/oscar-mingueza      |           1|         46.7639|           1.7133|        0.1157|         0.3220|      0.0295|        0.0364|      0.0587| 79.5484|
+|/players/786630/ivn-villar          |           0|         27.6980|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/407796/augusto-solari      |          NA|              NA|               NA|        0.0500|         0.2500|      0.0310|        0.0206|      0.0249| 15.5000|
+|/players/863168/oscar-rodriguez     |          NA|              NA|               NA|        0.1915|         0.5599|      0.0275|        0.0258|      0.0455| 15.5000|
+|/players/170775/haris-seferovic     |          NA|              NA|               NA|        0.1760|         0.4903|      0.1187|        0.1315|      0.0258| 12.8125|
+|/players/541588/franco-cervi        |          NA|              NA|               NA|        0.0728|         0.1456|      0.0084|        0.0032|      0.0111| 10.4516|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Carlos Carvalhal |        81153|      8.290485|4-4-2     |
