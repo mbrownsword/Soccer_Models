@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 15:32:59.710"
+[1] "Updated at 2023-02-17 15:48:11.702"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Macarthur FC 1.6887 to Newcastle Jets 1.2832"
-[1] "Total: 2.9719"
-[1] "Macarthur FC %: 47.47"
-[1] "Draw %: 24.19"
-[1] "Newcastle Jets %: 28.34"
+[1] "Score: Macarthur FC 1.6651 to Newcastle Jets 1.2856"
+[1] "Total: 2.9507"
+[1] "Macarthur FC %: 47.4"
+[1] "Draw %: 24.08"
+[1] "Newcastle Jets %: 28.52"
 [1] "--XG Model--"
-[1] "Score: Macarthur FC 1.5335 to Newcastle Jets 1.4211"
-[1] "Total: 2.9546"
-[1] "Macarthur FC %: 40.62"
-[1] "Draw %: 24.42"
-[1] "Newcastle Jets %: 34.96"
+[1] "Score: Macarthur FC 1.5259 to Newcastle Jets 1.4003"
+[1] "Total: 2.9262"
+[1] "Macarthur FC %: 40.78"
+[1] "Draw %: 24.63"
+[1] "Newcastle Jets %: 34.59"
 [1] "--XGoT Model--"
-[1] "Score: Macarthur FC 1.991 to Newcastle Jets 1.3961"
-[1] "Total: 3.3871"
-[1] "Macarthur FC %: 51.34"
-[1] "Draw %: 21.43"
-[1] "Newcastle Jets %: 27.23"
+[1] "Score: Macarthur FC 2.1144 to Newcastle Jets 1.4311"
+[1] "Total: 3.5455"
+[1] "Macarthur FC %: 53.71"
+[1] "Draw %: 21.1"
+[1] "Newcastle Jets %: 25.19"
 [1] "--XA Model--"
-[1] "Score: Macarthur FC 1.4982 to Newcastle Jets 1.3155"
-[1] "Total: 2.8137"
-[1] "Macarthur FC %: 41.81"
-[1] "Draw %: 25.06"
-[1] "Newcastle Jets %: 33.13"
+[1] "Score: Macarthur FC 1.4804 to Newcastle Jets 1.3167"
+[1] "Total: 2.7971"
+[1] "Macarthur FC %: 41.26"
+[1] "Draw %: 25.49"
+[1] "Newcastle Jets %: 33.25"
 [1] "--Mean 4 Models--"
-[1] "Macarthur FC has a mean win % of 45.31%; a min win % of 40.62%; a max win % of 51.34%."
-[1] "Draw has a mean win % of 23.77%; a min win % of 21.43%; a max win % of 25.06%."
-[1] "Newcastle Jets has a mean win % of 30.91%; a min win % of 27.23%; a max win of % 34.96%."
-[1] "Macarthur FC has a mean win of the Double Chance of 69.08%; a min win % of 65.04%, a max win % of 72.77%."
-[1] "Newcastle Jets has a mean win of the Double Chance of 54.69%; a min win % of 48.66%, a max win % of 59.38%."
-[1] "The mean likelihood that there are more than 2.5 goals is 57.59%; max % is 65.4 and min % is 52.68%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 42.41%; max % is 47.32 and min % is 34.6%."
+[1] "Macarthur FC has a mean win % of 45.79%; a min win % of 40.78%; a max win % of 53.71%."
+[1] "Draw has a mean win % of 23.82%; a min win % of 21.1%; a max win % of 25.49%."
+[1] "Newcastle Jets has a mean win % of 30.39%; a min win % of 25.19%; a max win of % 34.59%."
+[1] "Macarthur FC has a mean win of the Double Chance of 69.61%; a min win % of 65.41%, a max win % of 74.81%."
+[1] "Newcastle Jets has a mean win of the Double Chance of 54.21%; a min win % of 46.29%, a max win % of 59.22%."
+[1] "The mean likelihood that there are more than 2.5 goals is 57.92%; max % is 68.35 and min % is 52.15%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 42.08%; max % is 47.85 and min % is 31.65%."
 [1] "--Sportsbook Odds--"
 [1] "Macarthur FC Barstool Odds are: 41.67"
 [1] "The Barstool Odds of a Draw are: 28.57"
@@ -53,35 +53,35 @@
 |pageUrl2                                 |team           | expected_attg| expected_gs|bet |
 |:----------------------------------------|:--------------|-------------:|-----------:|:---|
 |/players/206809/filip-kurto              |Macarthur FC   |      0.000000|   0.2631579|    |
-|/players/799039/ivan-vujica              |Macarthur FC   |      0.025550|   0.0357143|    |
-|/players/551668/aleksandar-susnjar       |Macarthur FC   |      0.037550|   0.0526316|    |
-|/players/622901/jonathan-aspropotamitis  |Macarthur FC   |      0.008525|   0.0526316|    |
-|/players/701578/tomislav-uskok           |Macarthur FC   |      0.058550|   0.0476190|    |
-|/players/1053471/jerry-skotadis          |Macarthur FC   |      0.042400|   0.1000000|    |
-|/players/1217249/jake-hollman            |Macarthur FC   |      0.071225|   0.1250000|    |
-|/players/432389/daniel-de-silva          |Macarthur FC   |      0.174450|   0.1538462|    |
-|/players/1029023/charles-william-mmombwa |Macarthur FC   |      0.002300|   0.1250000|    |
-|/players/150596/craig-noone              |Macarthur FC   |      0.328375|   0.2439024|*   |
-|/players/183484/ulises-davila            |Macarthur FC   |      0.291750|   0.2500000|    |
+|/players/799039/ivan-vujica              |Macarthur FC   |      0.024250|   0.0357143|    |
+|/players/551668/aleksandar-susnjar       |Macarthur FC   |      0.036125|   0.0526316|    |
+|/players/622901/jonathan-aspropotamitis  |Macarthur FC   |      0.008375|   0.0526316|    |
+|/players/701578/tomislav-uskok           |Macarthur FC   |      0.057925|   0.0476190|    |
+|/players/432389/daniel-de-silva          |Macarthur FC   |      0.055500|   0.1538462|    |
+|/players/1053471/jerry-skotadis          |Macarthur FC   |      0.053625|   0.1000000|    |
+|/players/799044/daniel-arzani            |Macarthur FC   |      0.172275|   0.3125000|    |
+|/players/1029023/charles-william-mmombwa |Macarthur FC   |      0.001925|   0.1250000|    |
+|/players/150596/craig-noone              |Macarthur FC   |      0.316000|   0.2439024|*   |
+|/players/183484/ulises-davila            |Macarthur FC   |      0.277325|   0.2500000|    |
 |/players/240056/jack-duncan              |Newcastle Jets |      0.000000|   0.1176471|    |
-|/players/110639/jason-hoffman            |Newcastle Jets |      0.063425|   0.2702703|    |
-|/players/823540/dane-ingham              |Newcastle Jets |      0.020350|   0.0500000|    |
-|/players/154878/matthew-jurman           |Newcastle Jets |      0.002475|   0.0500000|    |
-|/players/214685/carl-jenkinson           |Newcastle Jets |      0.036875|   0.0500000|    |
-|/players/309646/brandon-oneill           |Newcastle Jets |      0.056850|   0.1250000|    |
-|/players/913132/angus-thurgate           |Newcastle Jets |      0.057325|   0.1754386|    |
-|/players/513424/jaushua-sotirio          |Newcastle Jets |      0.205850|   0.2000000|    |
-|/players/912715/callum-timmins           |Newcastle Jets |      0.062200|   0.1538462|    |
-|/players/868985/reno-piscopo             |Newcastle Jets |      0.210700|   0.2702703|    |
-|/players/746815/beka-mikeltadze          |Newcastle Jets |      0.292625|   0.3921569|    |
-|/players/1079940/alhassan-toure          |Macarthur FC   |      0.071450|   0.2222222|    |
-|/players/1217247/lachlan-rose            |Macarthur FC   |      0.223050|   0.3333333|    |
-|/players/1351271/jed-drew                |Macarthur FC   |      0.003575|   0.2222222|    |
-|/players/1015651/moudi-najjar            |Macarthur FC   |      0.067275|   0.2857143|    |
-|/players/951242/daniel-stynes            |Newcastle Jets |      0.091525|   0.2222222|    |
+|/players/110639/jason-hoffman            |Newcastle Jets |      0.061750|   0.2702703|    |
+|/players/823540/dane-ingham              |Newcastle Jets |      0.019475|   0.0500000|    |
+|/players/154878/matthew-jurman           |Newcastle Jets |      0.002375|   0.0500000|    |
+|/players/214685/carl-jenkinson           |Newcastle Jets |      0.036275|   0.0500000|    |
+|/players/309646/brandon-oneill           |Newcastle Jets |      0.057900|   0.1250000|    |
+|/players/913132/angus-thurgate           |Newcastle Jets |      0.055325|   0.1754386|    |
+|/players/513424/jaushua-sotirio          |Newcastle Jets |      0.204300|   0.2000000|    |
+|/players/912715/callum-timmins           |Newcastle Jets |      0.061650|   0.1538462|    |
+|/players/868985/reno-piscopo             |Newcastle Jets |      0.205275|   0.2702703|    |
+|/players/746815/beka-mikeltadze          |Newcastle Jets |      0.287925|   0.3921569|    |
+|/players/1079940/alhassan-toure          |Macarthur FC   |      0.077000|   0.2222222|    |
+|/players/1217247/lachlan-rose            |Macarthur FC   |      0.250775|   0.3333333|    |
+|/players/1351271/jed-drew                |Macarthur FC   |      0.010225|   0.2222222|    |
+|/players/1015651/moudi-najjar            |Macarthur FC   |      0.085325|   0.2857143|    |
+|/players/951242/daniel-stynes            |Newcastle Jets |      0.105400|   0.2222222|    |
 |/players/913821/kostandinos-grozos       |Newcastle Jets |      0.000000|   0.2000000|    |
-|/players/716423/trent-buhagiar           |Newcastle Jets |      0.031150|   0.2272727|    |
-|/players/1232133/archie-goodwin          |Newcastle Jets |      0.011250|   0.3225806|    |
+|/players/716423/trent-buhagiar           |Newcastle Jets |      0.037300|   0.2272727|    |
+|/players/1232133/archie-goodwin          |Newcastle Jets |      0.013200|   0.3225806|    |
 ____________________________________________________
 
 [1] "Facts about Macarthur FC:"
@@ -95,16 +95,16 @@ ____________________________________________________
 |/players/551668/aleksandar-susnjar       |           1|         50.4199|           1.2867|        0.1688|         0.7759|      0.0550|        0.0498|      0.0867| 90.0000|
 |/players/622901/jonathan-aspropotamitis  |           1|         45.6264|           1.2541|        0.0872|         0.4647|      0.0476|        0.0107|      0.0462| 90.0000|
 |/players/701578/tomislav-uskok           |           1|         31.8179|           1.4710|        0.2622|         0.8124|      0.0938|        0.0813|      0.0475| 90.0000|
-|/players/1053471/jerry-skotadis          |           2|         26.6326|           1.1045|        0.0454|         0.3174|      0.0250|        0.0561|      0.0332| 67.4000|
-|/players/1217249/jake-hollman            |           2|         50.6314|           3.2040|        0.5598|         1.7122|      0.1156|        0.1012|      0.1227| 90.0000|
-|/players/432389/daniel-de-silva          |           3|         31.3839|           1.4792|        0.8554|         2.2981|      0.1626|        0.2543|      0.1288| 90.0000|
-|/players/1029023/charles-william-mmombwa |           3|         21.5370|           1.1203|        0.1575|         0.7708|      0.1465|        0.0039|      0.0271| 68.1304|
-|/players/150596/craig-noone              |           3|         21.7273|           1.2884|        1.2193|         2.7729|      0.3128|        0.5156|      0.2869| 81.7308|
-|/players/183484/ulises-davila            |           5|         16.2376|           0.5871|        1.0598|         2.4880|      0.3881|        0.4438|      0.0734| 82.5789|
-|/players/1079940/alhassan-toure          |           0|              NA|               NA|        0.2377|         0.5942|      0.0850|        0.0959|      0.0345| 22.6000|
-|/players/1217247/lachlan-rose            |           0|              NA|               NA|        0.4626|         0.6939|      0.1235|        0.3236|      0.0640| 21.8696|
-|/players/1351271/jed-drew                |           0|              NA|               NA|        0.0657|         0.0657|      0.0034|        0.0040|      0.0033|  8.2692|
-|/players/1015651/moudi-najjar            |           0|              NA|               NA|        0.0656|         0.0656|      0.0336|        0.0918|      0.0033|  7.4211|
+|/players/432389/daniel-de-silva          |           2|         47.4215|           2.4237|        0.3102|         1.7140|      0.1329|        0.0787|      0.1119| 90.0000|
+|/players/1053471/jerry-skotadis          |           2|         29.0364|           1.6888|        0.2323|         0.3161|      0.0121|        0.0787|      0.0413| 67.4000|
+|/players/799044/daniel-arzani            |           3|         19.5785|           0.9375|        0.8710|         1.3439|      0.1121|        0.2574|      0.0952| 69.5000|
+|/players/1029023/charles-william-mmombwa |           3|         24.0167|           1.2228|        0.1298|         0.8764|      0.1513|        0.0038|      0.0275| 68.1304|
+|/players/150596/craig-noone              |           3|         24.2289|           1.4062|        1.0050|         3.1529|      0.3229|        0.5125|      0.2915| 81.7308|
+|/players/183484/ulises-davila            |           5|         17.6968|           0.6398|        1.1550|         2.7115|      0.4230|        0.4438|      0.0800| 90.0000|
+|/players/1079940/alhassan-toure          |           0|              NA|               NA|        0.2415|         0.6038|      0.0783|        0.1152|      0.0350| 22.6000|
+|/players/1217247/lachlan-rose            |           0|              NA|               NA|        0.4700|         0.7051|      0.1137|        0.3886|      0.0650| 21.8696|
+|/players/1351271/jed-drew                |           0|              NA|               NA|        0.1655|         0.1655|      0.0079|        0.0120|      0.0083| 20.5000|
+|/players/1015651/moudi-najjar            |           0|              NA|               NA|        0.0743|         0.0743|      0.0345|        0.1229|      0.0037|  8.2692|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -129,10 +129,10 @@ ____________________________________________________
 |/players/912715/callum-timmins     |           3|         37.3275|           1.9376|        0.2408|         0.8065|      0.0493|        0.0815|      0.0720| 77.3333|
 |/players/868985/reno-piscopo       |           3|         29.5748|           0.6875|        1.0157|         2.5246|      0.2563|        0.2995|      0.2502| 76.1458|
 |/players/746815/beka-mikeltadze    |           5|         21.5317|           0.6573|        1.0989|         2.4708|      0.4379|        0.4390|      0.1042| 90.0000|
-|/players/951242/daniel-stynes      |           0|              NA|               NA|        0.2781|         0.7647|      0.0502|        0.1218|      0.0299| 16.5484|
-|/players/913821/kostandinos-grozos |           0|              NA|               NA|        0.0000|         0.0615|      0.0073|        0.0000|      0.0105| 13.8542|
-|/players/716423/trent-buhagiar     |           0|              NA|               NA|        0.1056|         0.3696|      0.1019|        0.0386|      0.0303| 12.6667|
-|/players/1232133/archie-goodwin    |           0|              NA|               NA|        0.0957|         0.3826|      0.1042|        0.0132|      0.0029| 12.3889|
+|/players/951242/daniel-stynes      |           0|              NA|               NA|        0.2825|         0.7770|      0.0462|        0.1463|      0.0304| 16.5484|
+|/players/913821/kostandinos-grozos |           0|              NA|               NA|        0.0000|         0.0625|      0.0067|        0.0000|      0.0106| 13.8542|
+|/players/716423/trent-buhagiar     |           0|              NA|               NA|        0.1073|         0.3756|      0.0938|        0.0463|      0.0308| 12.6667|
+|/players/1232133/archie-goodwin    |           0|              NA|               NA|        0.0972|         0.3888|      0.0960|        0.0159|      0.0029| 12.3889|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
