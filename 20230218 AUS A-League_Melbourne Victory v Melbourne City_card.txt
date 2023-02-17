@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 14:23:25.366"
+[1] "Updated at 2023-02-17 15:34:45.732"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Melbourne Victory 1.2341 to Melbourne City 1.3542"
-[1] "Total: 2.5883"
-[1] "Melbourne Victory %: 34.65"
-[1] "Draw %: 26.62"
-[1] "Melbourne City %: 38.73"
+[1] "Score: Melbourne Victory 1.258 to Melbourne City 1.3562"
+[1] "Total: 2.6142"
+[1] "Melbourne Victory %: 35.09"
+[1] "Draw %: 26.56"
+[1] "Melbourne City %: 38.35"
 [1] "--XG Model--"
-[1] "Score: Melbourne Victory 1.1947 to Melbourne City 1.6322"
-[1] "Total: 2.8269"
-[1] "Melbourne Victory %: 27.79"
-[1] "Draw %: 24.99"
-[1] "Melbourne City %: 47.22"
+[1] "Score: Melbourne Victory 1.2266 to Melbourne City 1.6236"
+[1] "Total: 2.8502"
+[1] "Melbourne Victory %: 28.84"
+[1] "Draw %: 24.76"
+[1] "Melbourne City %: 46.4"
 [1] "--XGoT Model--"
-[1] "Score: Melbourne Victory 1.1948 to Melbourne City 1.7919"
-[1] "Total: 2.9867"
-[1] "Melbourne Victory %: 24.27"
-[1] "Draw %: 24.18"
-[1] "Melbourne City %: 51.55"
+[1] "Score: Melbourne Victory 1.2285 to Melbourne City 1.8087"
+[1] "Total: 3.0372"
+[1] "Melbourne Victory %: 25.5"
+[1] "Draw %: 23.48"
+[1] "Melbourne City %: 51.02"
 [1] "--XA Model--"
-[1] "Score: Melbourne Victory 1.3757 to Melbourne City 1.5168"
-[1] "Total: 2.8925"
-[1] "Melbourne Victory %: 34.98"
-[1] "Draw %: 24.49"
-[1] "Melbourne City %: 40.53"
+[1] "Score: Melbourne Victory 1.3464 to Melbourne City 1.5061"
+[1] "Total: 2.8525"
+[1] "Melbourne Victory %: 34.63"
+[1] "Draw %: 24.59"
+[1] "Melbourne City %: 40.78"
 [1] "--Mean 4 Models--"
-[1] "Melbourne Victory has a mean win % of 30.42%; a min win % of 24.27%; a max win % of 34.98%."
-[1] "Draw has a mean win % of 25.07%; a min win % of 24.18%; a max win % of 26.62%."
-[1] "Melbourne City has a mean win % of 44.51%; a min win % of 38.73%; a max win of % 51.55%."
-[1] "Melbourne Victory has a mean win of the Double Chance of 55.49%; a min win % of 48.45%, a max win % of 61.27%."
-[1] "Melbourne City has a mean win of the Double Chance of 69.58%; a min win % of 65.02%, a max win % of 75.73%."
-[1] "The mean likelihood that there are more than 2.5 goals is 52.75%; max % is 56.54 and min % is 47.01%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 47.24%; max % is 52.99 and min % is 43.46%."
+[1] "Melbourne Victory has a mean win % of 31.01%; a min win % of 25.5%; a max win % of 35.09%."
+[1] "Draw has a mean win % of 24.85%; a min win % of 23.48%; a max win % of 26.56%."
+[1] "Melbourne City has a mean win % of 44.14%; a min win % of 38.35%; a max win of % 51.02%."
+[1] "Melbourne Victory has a mean win of the Double Chance of 55.86%; a min win % of 48.98%, a max win % of 61.65%."
+[1] "Melbourne City has a mean win of the Double Chance of 68.98%; a min win % of 64.91%, a max win % of 74.5%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.1%; max % is 57.76 and min % is 47.49%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 46.9%; max % is 52.51 and min % is 42.24%."
 [1] "--Sportsbook Odds--"
 [1] "Melbourne Victory Barstool Odds are: 26.67"
 [1] "The Barstool Odds of a Draw are: 27.78"
@@ -53,35 +53,35 @@
 |pageUrl2                               |team              | expected_attg| expected_gs|bet |
 |:--------------------------------------|:-----------------|-------------:|-----------:|:---|
 |/players/302176/paul-izzo              |Melbourne Victory |      0.000000|   0.2857143|    |
-|/players/46726/damien-da-silva         |Melbourne Victory |      0.042225|   0.0434783|    |
-|/players/69130/leigh-broxham           |Melbourne Victory |      0.024425|   0.0666667|    |
-|/players/181548/roderick-miranda       |Melbourne Victory |      0.027150|   0.0434783|    |
-|/players/418799/jason-geria            |Melbourne Victory |      0.026650|   0.0434783|    |
-|/players/703526/rai                    |Melbourne Victory |      0.020900|   0.0666667|    |
-|/players/239774/joshua-brillante       |Melbourne Victory |      0.076425|   0.1694915|    |
-|/players/611224/christopher-ikonomidis |Melbourne Victory |      0.168050|   0.2272727|    |
-|/players/874601/ben-folami             |Melbourne Victory |      0.157125|   0.2127660|    |
-|/players/760713/jake-brimmer           |Melbourne Victory |      0.209325|   0.1666667|    |
-|/players/56704/bruno-fornaroli         |Melbourne Victory |      0.240825|   0.3333333|    |
+|/players/46726/damien-da-silva         |Melbourne Victory |      0.038525|   0.0416667|    |
+|/players/69130/leigh-broxham           |Melbourne Victory |      0.023800|   0.0666667|    |
+|/players/181548/roderick-miranda       |Melbourne Victory |      0.027775|   0.0416667|    |
+|/players/418799/jason-geria            |Melbourne Victory |      0.025350|   0.0416667|    |
+|/players/703526/rai                    |Melbourne Victory |      0.021300|   0.0666667|    |
+|/players/239774/joshua-brillante       |Melbourne Victory |      0.072775|   0.1666667|    |
+|/players/611224/christopher-ikonomidis |Melbourne Victory |      0.121700|   0.2272727|    |
+|/players/874601/ben-folami             |Melbourne Victory |      0.156125|   0.2127660|    |
+|/players/760713/jake-brimmer           |Melbourne Victory |      0.207700|   0.1666667|    |
+|/players/56704/bruno-fornaroli         |Melbourne Victory |      0.237075|   0.3333333|    |
 |/players/770232/thomas-glover          |Melbourne City    |      0.000000|   0.0500000|    |
-|/players/191787/nuno-reis              |Melbourne City    |      0.006150|   0.0400000|    |
-|/players/118145/scott-jamieson         |Melbourne City    |      0.042575|   0.0400000|    |
-|/players/1227258/callum-talbot         |Melbourne City    |      0.044600|   0.0400000|    |
-|/players/291854/curtis-good            |Melbourne City    |      0.055700|   0.0400000|    |
-|/players/785377/aiden-oneill           |Melbourne City    |      0.155275|   0.0769231|*   |
-|/players/785377/aiden-oneill           |Melbourne City    |      0.155275|   0.0769231|*   |
-|/players/179798/florin-berenguer       |Melbourne City    |      0.132800|   0.2040816|    |
-|/players/398901/andrew-nabbout         |Melbourne City    |      0.200425|   0.2325581|    |
-|/players/185014/matthew-leckie         |Melbourne City    |      0.246375|   0.2941176|    |
-|/players/494378/jamie-maclaren         |Melbourne City    |      0.349700|   0.5238095|    |
-|/players/1250885/nishan-velupillay     |Melbourne Victory |      0.059050|   0.1694915|    |
-|/players/611224/christopher-ikonomidis |Melbourne Victory |      0.168050|   0.2272727|    |
-|/players/685978/stefan-nigro           |Melbourne Victory |      0.000000|   0.0294118|    |
-|/players/40945/nani                    |Melbourne Victory |      0.031100|   0.0666667|    |
-|/players/1053472/marco-tilio           |Melbourne City    |      0.067600|   0.2941176|    |
-|/players/168872/valon-berisha          |Melbourne City    |      0.000000|   0.1111111|    |
-|/players/662363/richard-van-der-venne  |Melbourne City    |      0.001100|   0.2040816|    |
-|/players/426141/scott-galloway         |Melbourne City    |      0.005575|   0.0588235|    |
+|/players/191787/nuno-reis              |Melbourne City    |      0.006225|   0.0400000|    |
+|/players/118145/scott-jamieson         |Melbourne City    |      0.041625|   0.0400000|    |
+|/players/1227258/callum-talbot         |Melbourne City    |      0.043800|   0.0400000|    |
+|/players/291854/curtis-good            |Melbourne City    |      0.055825|   0.0400000|    |
+|/players/785377/aiden-oneill           |Melbourne City    |      0.155050|   0.0769231|*   |
+|/players/785377/aiden-oneill           |Melbourne City    |      0.155050|   0.0769231|*   |
+|/players/179798/florin-berenguer       |Melbourne City    |      0.128300|   0.2040816|    |
+|/players/398901/andrew-nabbout         |Melbourne City    |      0.200100|   0.2325581|    |
+|/players/185014/matthew-leckie         |Melbourne City    |      0.242300|   0.2941176|    |
+|/players/494378/jamie-maclaren         |Melbourne City    |      0.347125|   0.5238095|    |
+|/players/685978/stefan-nigro           |Melbourne Victory |      0.000000|   0.0303030|    |
+|/players/1250885/nishan-velupillay     |Melbourne Victory |      0.054950|   0.1666667|    |
+|/players/281206/tomi-juric             |Melbourne Victory |      0.112075|   0.2631579|    |
+|/players/1261617/eli-adams             |Melbourne Victory |      0.005850|   0.1666667|    |
+|/players/1053472/marco-tilio           |Melbourne City    |      0.085550|   0.2941176|    |
+|/players/662363/richard-van-der-venne  |Melbourne City    |      0.000000|   0.2040816|    |
+|/players/426141/scott-galloway         |Melbourne City    |      0.002325|   0.0588235|    |
+|/players/1316930/jordan-bos            |Melbourne City    |      0.000000|   0.0769231|    |
 ____________________________________________________
 
 [1] "Facts about Melbourne Victory:"
@@ -101,10 +101,10 @@ ____________________________________________________
 |/players/874601/ben-folami             |           3|         20.0757|           0.9335|        0.5675|         1.4698|      0.1374|        0.1750|      0.0786| 75.9545|
 |/players/760713/jake-brimmer           |           3|         34.6776|           1.8218|        0.5370|         1.4089|      0.2150|        0.2533|      0.1728| 83.4516|
 |/players/56704/bruno-fornaroli         |           5|         19.9330|           0.6191|        0.8699|         2.0427|      0.3165|        0.2929|      0.0644| 90.0000|
-|/players/1250885/nishan-velupillay     |           0|              NA|               NA|        0.1971|         0.5257|      0.0689|        0.0700|      0.0312| 18.8462|
-|/players/611224/christopher-ikonomidis |           0|              NA|               NA|        0.2505|         0.4759|      0.0431|        0.0568|      0.0467| 14.7368|
-|/players/685978/stefan-nigro           |           0|              NA|               NA|        0.0000|         0.0593|      0.0119|        0.0000|      0.0222| 14.0455|
-|/players/40945/nani                    |           0|              NA|               NA|        0.0727|         0.2180|      0.0303|        0.0366|      0.0185|  6.5484|
+|/players/685978/stefan-nigro           |           0|              NA|               NA|        0.0000|         0.1309|      0.0263|        0.0000|      0.0399| 18.8462|
+|/players/1250885/nishan-velupillay     |           0|              NA|               NA|        0.1121|         0.3362|      0.0322|        0.0623|      0.0420| 14.7368|
+|/players/281206/tomi-juric             |           0|              NA|               NA|        0.3687|         0.7375|      0.1080|        0.1286|      0.0007| 14.0455|
+|/players/1261617/eli-adams             |           0|              NA|               NA|        0.1203|         0.3610|      0.0196|        0.0062|      0.0066|  6.5484|
 
 
 |manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
@@ -129,10 +129,10 @@ ____________________________________________________
 |/players/398901/andrew-nabbout        |           3|         28.7425|           1.1299|        0.8387|         2.4096|      0.2240|        0.2891|      0.2002| 81.2391|
 |/players/185014/matthew-leckie        |           3|         32.0093|           1.7097|        0.6997|         1.9249|      0.2441|        0.3542|      0.1434| 79.1500|
 |/players/494378/jamie-maclaren        |           5|         22.5686|           0.6463|        1.0687|         2.5944|      0.5137|        0.5369|      0.1073| 90.0000|
-|/players/1053472/marco-tilio          |           0|              NA|               NA|        0.2196|         0.3487|      0.0511|        0.0860|      0.0313| 10.8500|
-|/players/168872/valon-berisha         |           0|              NA|               NA|        0.0000|         0.1124|      0.0095|        0.0000|      0.0072|  9.6667|
-|/players/662363/richard-van-der-venne |           0|              NA|               NA|        0.0226|         0.1812|      0.0132|        0.0011|      0.0362|  9.1400|
-|/players/426141/scott-galloway        |           0|              NA|               NA|        0.0476|         0.1270|      0.0067|        0.0070|      0.0127|  8.7609|
+|/players/1053472/marco-tilio          |           0|              NA|               NA|        0.2380|         0.3702|      0.0460|        0.1076|      0.0105| 10.8500|
+|/players/662363/richard-van-der-venne |           0|              NA|               NA|        0.0000|         0.1426|      0.0090|        0.0000|      0.0445|  9.6667|
+|/players/426141/scott-galloway        |           0|              NA|               NA|        0.0568|         0.1703|      0.0114|        0.0032|      0.0114|  9.1400|
+|/players/1316930/jordan-bos           |           0|              NA|               NA|        0.0000|         0.0609|      0.0055|        0.0000|      0.0105|  8.7609|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
