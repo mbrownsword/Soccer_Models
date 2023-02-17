@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 14:23:25.366"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Melbourne Victory 1.2341 to Melbourne City 1.3542"
+[1] "Total: 2.5883"
+[1] "Melbourne Victory %: 34.65"
+[1] "Draw %: 26.62"
+[1] "Melbourne City %: 38.73"
+[1] "--XG Model--"
+[1] "Score: Melbourne Victory 1.1947 to Melbourne City 1.6322"
+[1] "Total: 2.8269"
+[1] "Melbourne Victory %: 27.79"
+[1] "Draw %: 24.99"
+[1] "Melbourne City %: 47.22"
+[1] "--XGoT Model--"
+[1] "Score: Melbourne Victory 1.1948 to Melbourne City 1.7919"
+[1] "Total: 2.9867"
+[1] "Melbourne Victory %: 24.27"
+[1] "Draw %: 24.18"
+[1] "Melbourne City %: 51.55"
+[1] "--XA Model--"
+[1] "Score: Melbourne Victory 1.3757 to Melbourne City 1.5168"
+[1] "Total: 2.8925"
+[1] "Melbourne Victory %: 34.98"
+[1] "Draw %: 24.49"
+[1] "Melbourne City %: 40.53"
+[1] "--Mean 4 Models--"
+[1] "Melbourne Victory has a mean win % of 30.42%; a min win % of 24.27%; a max win % of 34.98%."
+[1] "Draw has a mean win % of 25.07%; a min win % of 24.18%; a max win % of 26.62%."
+[1] "Melbourne City has a mean win % of 44.51%; a min win % of 38.73%; a max win of % 51.55%."
+[1] "Melbourne Victory has a mean win of the Double Chance of 55.49%; a min win % of 48.45%, a max win % of 61.27%."
+[1] "Melbourne City has a mean win of the Double Chance of 69.58%; a min win % of 65.02%, a max win % of 75.73%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.75%; max % is 56.54 and min % is 47.01%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.24%; max % is 52.99 and min % is 43.46%."
+[1] "--Sportsbook Odds--"
+[1] "Melbourne Victory Barstool Odds are: 26.67"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Melbourne City Barstool Odds are: 52.38"
+[1] "Melbourne Victory Adjusted Barstool Odds are: 24.965"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.004"
+[1] "Melbourne City Adjusted Barstool Odds are: 49.031"
+[1] "Melbourne Victory's Barstool Odds to cover the -0.5 spread are: 26.32"
+[1] "Melbourne City's Barstool Odds to cover the 0.5 spread are: 78.12"
+[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 00:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team              | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/302176/paul-izzo              |Melbourne Victory |      0.000000|   0.2857143|    |
+|/players/46726/damien-da-silva         |Melbourne Victory |      0.042225|   0.0434783|    |
+|/players/69130/leigh-broxham           |Melbourne Victory |      0.024425|   0.0666667|    |
+|/players/181548/roderick-miranda       |Melbourne Victory |      0.027150|   0.0434783|    |
+|/players/418799/jason-geria            |Melbourne Victory |      0.026650|   0.0434783|    |
+|/players/703526/rai                    |Melbourne Victory |      0.020900|   0.0666667|    |
+|/players/239774/joshua-brillante       |Melbourne Victory |      0.076425|   0.1694915|    |
+|/players/611224/christopher-ikonomidis |Melbourne Victory |      0.168050|   0.2272727|    |
+|/players/874601/ben-folami             |Melbourne Victory |      0.157125|   0.2127660|    |
+|/players/760713/jake-brimmer           |Melbourne Victory |      0.209325|   0.1666667|    |
+|/players/56704/bruno-fornaroli         |Melbourne Victory |      0.240825|   0.3333333|    |
+|/players/770232/thomas-glover          |Melbourne City    |      0.000000|   0.0500000|    |
+|/players/191787/nuno-reis              |Melbourne City    |      0.006150|   0.0400000|    |
+|/players/118145/scott-jamieson         |Melbourne City    |      0.042575|   0.0400000|    |
+|/players/1227258/callum-talbot         |Melbourne City    |      0.044600|   0.0400000|    |
+|/players/291854/curtis-good            |Melbourne City    |      0.055700|   0.0400000|    |
+|/players/785377/aiden-oneill           |Melbourne City    |      0.155275|   0.0769231|*   |
+|/players/785377/aiden-oneill           |Melbourne City    |      0.155275|   0.0769231|*   |
+|/players/179798/florin-berenguer       |Melbourne City    |      0.132800|   0.2040816|    |
+|/players/398901/andrew-nabbout         |Melbourne City    |      0.200425|   0.2325581|    |
+|/players/185014/matthew-leckie         |Melbourne City    |      0.246375|   0.2941176|    |
+|/players/494378/jamie-maclaren         |Melbourne City    |      0.349700|   0.5238095|    |
+|/players/1250885/nishan-velupillay     |Melbourne Victory |      0.059050|   0.1694915|    |
+|/players/611224/christopher-ikonomidis |Melbourne Victory |      0.168050|   0.2272727|    |
+|/players/685978/stefan-nigro           |Melbourne Victory |      0.000000|   0.0294118|    |
+|/players/40945/nani                    |Melbourne Victory |      0.031100|   0.0666667|    |
+|/players/1053472/marco-tilio           |Melbourne City    |      0.067600|   0.2941176|    |
+|/players/168872/valon-berisha          |Melbourne City    |      0.000000|   0.1111111|    |
+|/players/662363/richard-van-der-venne  |Melbourne City    |      0.001100|   0.2040816|    |
+|/players/426141/scott-galloway         |Melbourne City    |      0.005575|   0.0588235|    |
+____________________________________________________
+
+[1] "Facts about Melbourne Victory:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/302176/paul-izzo              |           0|         21.8757|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/46726/damien-da-silva         |           1|         49.7695|           0.9559|        0.1934|         0.7504|      0.0610|        0.0466|      0.0265| 90.0000|
+|/players/69130/leigh-broxham           |           1|         37.9101|           1.4891|        0.0827|         0.1622|      0.0033|        0.0271|      0.0472| 90.0000|
+|/players/181548/roderick-miranda       |           1|         44.6840|           1.4179|        0.0827|         0.5684|      0.0699|        0.0326|      0.0440| 90.0000|
+|/players/418799/jason-geria            |           1|         35.5979|           2.6210|        0.1255|         0.4266|      0.0526|        0.0271|      0.1001| 90.0000|
+|/players/703526/rai                    |           2|         40.9734|           2.6652|        0.1176|         0.4766|      0.0279|        0.0234|      0.0385| 75.2632|
+|/players/239774/joshua-brillante       |           2|         38.7799|           1.6028|        0.3325|         1.1045|      0.0876|        0.0828|      0.0948| 90.0000|
+|/players/611224/christopher-ikonomidis |           3|         20.3595|           0.9873|        0.4802|         1.3891|      0.1395|        0.1407|      0.1095| 71.1538|
+|/players/874601/ben-folami             |           3|         20.0757|           0.9335|        0.5675|         1.4698|      0.1374|        0.1750|      0.0786| 75.9545|
+|/players/760713/jake-brimmer           |           3|         34.6776|           1.8218|        0.5370|         1.4089|      0.2150|        0.2533|      0.1728| 83.4516|
+|/players/56704/bruno-fornaroli         |           5|         19.9330|           0.6191|        0.8699|         2.0427|      0.3165|        0.2929|      0.0644| 90.0000|
+|/players/1250885/nishan-velupillay     |           0|              NA|               NA|        0.1971|         0.5257|      0.0689|        0.0700|      0.0312| 18.8462|
+|/players/611224/christopher-ikonomidis |           0|              NA|               NA|        0.2505|         0.4759|      0.0431|        0.0568|      0.0467| 14.7368|
+|/players/685978/stefan-nigro           |           0|              NA|               NA|        0.0000|         0.0593|      0.0119|        0.0000|      0.0222| 14.0455|
+|/players/40945/nani                    |           0|              NA|               NA|        0.0727|         0.2180|      0.0303|        0.0366|      0.0185|  6.5484|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Anthony Popovic |        40684|      3.629444|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Melbourne City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/770232/thomas-glover         |           0|         27.8632|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/191787/nuno-reis             |           1|         64.6475|           1.7860|        0.0879|         0.3484|      0.0326|        0.0075|      0.0439| 90.0000|
+|/players/118145/scott-jamieson        |           1|         53.4637|           2.0041|        0.1430|         0.5893|      0.0466|        0.0562|      0.1020| 90.0000|
+|/players/1227258/callum-talbot        |           1|         36.9877|           1.4636|        0.1775|         0.5316|      0.0370|        0.0566|      0.0914| 80.3333|
+|/players/291854/curtis-good           |           1|         66.2742|           1.4523|        0.1541|         0.6265|      0.1181|        0.0741|      0.0354| 90.0000|
+|/players/785377/aiden-oneill          |           2|         59.5524|           2.2284|        0.2742|         1.0134|      0.1092|        0.1089|      0.1015| 90.0000|
+|/players/785377/aiden-oneill          |           2|         59.5524|           2.2284|        0.2742|         1.0134|      0.1092|        0.1089|      0.1015| 90.0000|
+|/players/179798/florin-berenguer      |           3|         41.3460|           1.2583|        0.3328|         1.0322|      0.1920|        0.1804|      0.1522| 80.8600|
+|/players/398901/andrew-nabbout        |           3|         28.7425|           1.1299|        0.8387|         2.4096|      0.2240|        0.2891|      0.2002| 81.2391|
+|/players/185014/matthew-leckie        |           3|         32.0093|           1.7097|        0.6997|         1.9249|      0.2441|        0.3542|      0.1434| 79.1500|
+|/players/494378/jamie-maclaren        |           5|         22.5686|           0.6463|        1.0687|         2.5944|      0.5137|        0.5369|      0.1073| 90.0000|
+|/players/1053472/marco-tilio          |           0|              NA|               NA|        0.2196|         0.3487|      0.0511|        0.0860|      0.0313| 10.8500|
+|/players/168872/valon-berisha         |           0|              NA|               NA|        0.0000|         0.1124|      0.0095|        0.0000|      0.0072|  9.6667|
+|/players/662363/richard-van-der-venne |           0|              NA|               NA|        0.0226|         0.1812|      0.0132|        0.0011|      0.0362|  9.1400|
+|/players/426141/scott-galloway        |           0|              NA|               NA|        0.0476|         0.1270|      0.0067|        0.0070|      0.0127|  8.7609|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Rado Vidosic |         8151|      18.19889|4-2-3-1   |
