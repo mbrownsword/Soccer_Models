@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-17 12:54:38.274"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: VfL Bochum 1.3285 to SC Freiburg 1.5461"
+[1] "Total: 2.8746"
+[1] "VfL Bochum %: 33.23"
+[1] "Draw %: 24.71"
+[1] "SC Freiburg %: 42.06"
+[1] "--XG Model--"
+[1] "Score: VfL Bochum 1.2907 to SC Freiburg 1.5859"
+[1] "Total: 2.8766"
+[1] "VfL Bochum %: 30.88"
+[1] "Draw %: 24.92"
+[1] "SC Freiburg %: 44.2"
+[1] "--XGoT Model--"
+[1] "Score: VfL Bochum 1.3379 to SC Freiburg 1.5727"
+[1] "Total: 2.9106"
+[1] "VfL Bochum %: 32.56"
+[1] "Draw %: 24.85"
+[1] "SC Freiburg %: 42.59"
+[1] "--XA Model--"
+[1] "Score: VfL Bochum 1.4674 to SC Freiburg 1.424"
+[1] "Total: 2.8914"
+[1] "VfL Bochum %: 38.92"
+[1] "Draw %: 24.68"
+[1] "SC Freiburg %: 36.4"
+[1] "--Mean 4 Models--"
+[1] "VfL Bochum has a mean win % of 33.9%; a min win % of 30.88%; a max win % of 38.92%."
+[1] "Draw has a mean win % of 24.79%; a min win % of 24.68%; a max win % of 24.92%."
+[1] "SC Freiburg has a mean win % of 41.31%; a min win % of 36.4%; a max win of % 44.2%."
+[1] "VfL Bochum has a mean win of the Double Chance of 58.69%; a min win % of 55.8%, a max win % of 63.6%."
+[1] "SC Freiburg has a mean win of the Double Chance of 66.1%; a min win % of 61.08%, a max win % of 69.12%."
+[1] "The mean likelihood that there are more than 2.5 goals is 54.63%; max % is 55.33 and min % is 54.25%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 45.37%; max % is 45.75 and min % is 44.67%."
+[1] "--Sportsbook Odds--"
+[1] "VfL Bochum Barstool Odds are: 32.26"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "SC Freiburg Barstool Odds are: 45.45"
+[1] "VfL Bochum Adjusted Barstool Odds are: 30.581"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.334"
+[1] "SC Freiburg Adjusted Barstool Odds are: 43.085"
+[1] "VfL Bochum's Barstool Odds to cover the 0.25 spread are: 53.48"
+[1] "SC Freiburg's Barstool Odds to cover the -0.25 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48% chance of the over 2.5 hitting. The line for the under is 1.94, which is a 51.55% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                          bet           date_time
+1 over VfL Bochum/SC Freiburg 2023-02-18 06:30:00
+2              VfL Bochum ATS 2023-02-18 06:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team        | expected_attg| expected_gs|bet |
+|:---------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/94865/manuel-riemann           |VfL Bochum  |      0.000000|   0.2439024|    |
+|/players/575778/saidy-janko             |VfL Bochum  |      0.005250|   0.0769231|    |
+|/players/433859/ivan-ordets             |VfL Bochum  |      0.065625|   0.0714286|    |
+|/players/763313/erhan-masovic           |VfL Bochum  |      0.047875|   0.1176471|    |
+|/players/207039/danilo-soares           |VfL Bochum  |      0.003500|   0.0714286|    |
+|/players/620563/philipp-frster          |VfL Bochum  |      0.137725|   0.2380952|    |
+|/players/210420/anthony-losilla         |VfL Bochum  |      0.055200|   0.1333333|    |
+|/players/639434/pierre-kunde            |VfL Bochum  |      0.076850|   0.1724138|    |
+|/players/430856/takuma-asano            |VfL Bochum  |      0.014925|   0.2564103|    |
+|/players/290201/philipp-hofmann         |VfL Bochum  |      0.360225|   0.3225806|    |
+|/players/782361/christopher-antwi-adjej |VfL Bochum  |      0.173700|   0.2222222|    |
+|/players/198316/michael-gregoritsch     |SC Freiburg |      0.323775|   0.3389831|    |
+|/players/400625/vincenzo-grifo          |SC Freiburg |      0.324725|   0.3636364|    |
+|/players/556524/lucas-hler              |SC Freiburg |      0.013075|   0.2439024|    |
+|/players/629805/ritsu-doan              |SC Freiburg |      0.206350|   0.2500000|    |
+|/players/212865/nicolas-hfler           |SC Freiburg |      0.095425|   0.0909091|    |
+|/players/602523/maximilian-eggestein    |SC Freiburg |      0.026525|   0.1111111|    |
+|/players/355358/christian-gnter         |SC Freiburg |      0.027325|   0.0909091|    |
+|/players/643724/philipp-lienhart        |SC Freiburg |      0.029550|   0.0769231|    |
+|/players/303912/matthias-ginter         |SC Freiburg |      0.032025|   0.0909091|    |
+|/players/307209/lukas-kbler             |SC Freiburg |      0.052500|   0.1111111|    |
+|/players/330643/mark-flekken            |SC Freiburg |      0.000000|   0.1000000|    |
+|/players/276739/kevin-stger             |VfL Bochum  |      0.102525|   0.1666667|    |
+|/players/600513/silvre-ganvoula         |VfL Bochum  |      0.085625|   0.2702703|    |
+|/players/282182/konstantinos-stafylidis |VfL Bochum  |      0.021075|   0.0714286|    |
+|/players/1075815/patrick-osterhage      |VfL Bochum  |      0.003550|   0.1538462|    |
+|/players/107920/nils-petersen           |SC Freiburg |      0.087300|   0.4081633|    |
+|/players/949673/woo-yeong-jeong         |SC Freiburg |      0.038250|   0.2439024|    |
+|/players/583601/roland-sallai           |SC Freiburg |      0.013250|   0.3225806|    |
+|/players/844431/yannik-keitel           |SC Freiburg |      0.000000|   0.1111111|    |
+____________________________________________________
+
+[1] "Facts about VfL Bochum:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/94865/manuel-riemann           |           0|         46.3537|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/575778/saidy-janko             |           1|         33.3496|           1.2825|        0.0669|         0.4163|      0.0043|        0.0041|      0.0856| 90.0000|
+|/players/433859/ivan-ordets             |           1|         35.3148|           1.0448|        0.0669|         0.5948|      0.0574|        0.0713|      0.0298| 90.0000|
+|/players/763313/erhan-masovic           |           1|         40.3099|           1.4739|        0.1391|         0.3030|      0.0829|        0.0522|      0.0079| 90.0000|
+|/players/207039/danilo-soares           |           1|         42.8653|           2.4582|        0.2129|         0.7212|      0.0200|        0.0041|      0.1070| 90.0000|
+|/players/620563/philipp-frster          |           3|         25.8588|           1.2657|        0.3099|         1.1157|      0.1134|        0.1491|      0.1297| 75.9545|
+|/players/210420/anthony-losilla         |           3|         39.6898|           2.2781|        0.2226|         0.7551|      0.0496|        0.0632|      0.0243| 90.0000|
+|/players/639434/pierre-kunde            |           3|         28.5548|           1.5866|        0.3746|         1.2345|      0.0822|        0.0848|      0.0634| 72.4615|
+|/players/430856/takuma-asano            |           5|         13.5923|           0.5894|        0.6097|         1.3797|      0.1592|        0.0159|      0.0690| 71.5556|
+|/players/290201/philipp-hofmann         |           5|         24.3016|           0.7639|        1.0403|         2.7006|      0.2735|        0.4617|      0.1062| 90.0000|
+|/players/782361/christopher-antwi-adjej |           5|         18.7841|           1.7682|        0.4181|         1.7147|      0.2193|        0.1910|      0.1334| 77.7333|
+|/players/276739/kevin-stger             |          NA|              NA|               NA|        0.2565|         0.5643|      0.0794|        0.1116|      0.0823| 18.4444|
+|/players/600513/silvre-ganvoula         |          NA|              NA|               NA|        0.2160|         0.6481|      0.1109|        0.0938|      0.0164| 17.5385|
+|/players/282182/konstantinos-stafylidis |          NA|              NA|               NA|        0.0941|         0.2351|      0.0170|        0.0222|      0.0136| 14.0455|
+|/players/1075815/patrick-osterhage      |          NA|              NA|               NA|        0.0438|         0.1313|      0.0125|        0.0039|      0.0016| 12.2667|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Thomas Letsch |        85907|      0.108125|5-3-2     |
+____________________________________________________
+
+[1] "Facts about SC Freiburg:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/198316/michael-gregoritsch  |           5|         14.6965|           0.4877|        0.8197|         1.8368|      0.3287|        0.3857|      0.0629| 73.7273|
+|/players/400625/vincenzo-grifo       |           3|         35.2932|           0.5157|        0.8226|         1.8517|      0.2406|        0.3835|      0.2123| 81.4928|
+|/players/556524/lucas-hler           |           3|         26.6550|           2.0640|        0.4965|         1.4203|      0.1977|        0.0148|      0.0954| 90.0000|
+|/players/629805/ritsu-doan           |           3|         24.3084|           1.4626|        0.6834|         1.7746|      0.1556|        0.2371|      0.1226| 81.5781|
+|/players/212865/nicolas-hfler        |           2|         53.5233|           2.2393|        0.2610|         0.9027|      0.1111|        0.1005|      0.0559| 90.0000|
+|/players/602523/maximilian-eggestein |           2|         46.8209|           1.9878|        0.2280|         0.8673|      0.0497|        0.0263|      0.1184| 90.0000|
+|/players/355358/christian-gnter      |           1|         33.0168|           1.4991|        0.1345|         0.7037|      0.0365|        0.0275|      0.1521| 90.0000|
+|/players/643724/philipp-lienhart     |           1|         54.2217|           1.0903|        0.0868|         0.3704|      0.0610|        0.0302|      0.0119| 90.0000|
+|/players/303912/matthias-ginter      |           1|         63.4745|           1.5646|        0.1733|         0.5367|      0.0533|        0.0332|      0.0554| 90.0000|
+|/players/307209/lukas-kbler          |           1|         33.0622|           2.3399|        0.1562|         0.3474|      0.0370|        0.0561|      0.0330| 81.4773|
+|/players/330643/mark-flekken         |           0|         34.8903|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/107920/nils-petersen        |          NA|              NA|               NA|        0.2115|         0.5475|      0.1050|        0.0903|      0.0097| 16.2727|
+|/players/949673/woo-yeong-jeong      |          NA|              NA|               NA|        0.0704|         0.1848|      0.0257|        0.0383|      0.0203|  8.5227|
+|/players/583601/roland-sallai        |          NA|              NA|               NA|        0.1025|         0.3203|      0.0350|        0.0128|      0.0089|  8.5072|
+|/players/844431/yannik-keitel        |          NA|              NA|               NA|        0.0000|         0.1284|      0.0124|        0.0000|      0.0041|  8.4219|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Christian Streich |        89027|     -0.587193|4-4-2     |
