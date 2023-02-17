@@ -1,0 +1,142 @@
+[1] "Updated at 2023-02-16 17:58:29.694"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Sassuolo 1.0103 to Napoli 1.6052"
+[1] "Total: 2.6155"
+[1] "Sassuolo %: 24.59"
+[1] "Draw %: 24.87"
+[1] "Napoli %: 50.54"
+[1] "--XG Model--"
+[1] "Score: Sassuolo 0.9524 to Napoli 1.8309"
+[1] "Total: 2.7833"
+[1] "Sassuolo %: 19.63"
+[1] "Draw %: 22.89"
+[1] "Napoli %: 57.48"
+[1] "--XGoT Model--"
+[1] "Score: Sassuolo 0.9962 to Napoli 1.8892"
+[1] "Total: 2.8854"
+[1] "Sassuolo %: 19.47"
+[1] "Draw %: 22.65"
+[1] "Napoli %: 57.88"
+[1] "--XA Model--"
+[1] "Score: Sassuolo 1.1451 to Napoli 1.6918"
+[1] "Total: 2.8369"
+[1] "Sassuolo %: 25.72"
+[1] "Draw %: 24.76"
+[1] "Napoli %: 49.52"
+[1] "--Mean 4 Models--"
+[1] "Sassuolo has a mean win % of 22.35%; a min win % of 19.47%; a max win % of 25.72%."
+[1] "Draw has a mean win % of 23.79%; a min win % of 22.65%; a max win % of 24.87%."
+[1] "Napoli has a mean win % of 53.85%; a min win % of 49.52%; a max win of % 57.88%."
+[1] "Sassuolo has a mean win of the Double Chance of 46.15%; a min win % of 42.12%, a max win % of 50.48%."
+[1] "Napoli has a mean win of the Double Chance of 77.65%; a min win % of 74.28%, a max win % of 80.53%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.7%; max % is 54.35 and min % is 48.04%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.3%; max % is 51.96 and min % is 45.65%."
+[1] "--Sportsbook Odds--"
+[1] "Sassuolo Barstool Odds are: 19.05"
+[1] "The Barstool Odds of a Draw are: 23.26"
+[1] "Napoli Barstool Odds are: 63.64"
+[1] "Sassuolo Adjusted Barstool Odds are: 17.98"
+[1] "The Adjusted Barstool Odds of a Draw are: 21.954"
+[1] "Napoli Adjusted Barstool Odds are: 60.066"
+[1] "Sassuolo's Barstool Odds to cover the 0.5 spread are: 42.02"
+[1] "Napoli's Barstool Odds to cover the -0.5 spread are: 62.11"
+[1] "Barstool's line for the total is 2.5 at 1.63, which is a 61.35% chance of the over 2.5 hitting. The line for the under is 2.28, which is a 43.86% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                    bet           date_time
+1              Sassuolo 2023-02-17 11:45:00
+2 under Sassuolo/Napoli 2023-02-17 11:45:00
+3          Sassuolo ATS 2023-02-17 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                   |team     | expected_attg| expected_gs|bet |
+|:------------------------------------------|:--------|-------------:|-----------:|:---|
+|/players/39170/andrea-consigli             |Sassuolo |      0.000000|   0.1886792|    |
+|/players/1080669/nadir-zortea              |Sassuolo |      0.036075|   0.1052632|    |
+|/players/616170/martin-erlic               |Sassuolo |      0.199250|   0.0625000|*   |
+|/players/905494/ruan-tressoldi             |Sassuolo |      0.031125|   0.1111111|    |
+|/players/882578/rogrio                     |Sassuolo |      0.057775|   0.0416667|    |
+|/players/815431/davide-frattesi            |Sassuolo |      0.073550|   0.2272727|    |
+|/players/163919/pedro-obiang               |Sassuolo |      0.071075|   0.0500000|    |
+|/players/822794/nedim-bajrami              |Sassuolo |      0.112925|   0.2000000|    |
+|/players/364520/domenico-berardi           |Sassuolo |      0.123325|   0.2564103|    |
+|/players/265924/gregoire-defrel            |Sassuolo |      0.055975|   0.2083333|    |
+|/players/935769/armand-laurient            |Sassuolo |      0.067625|   0.2631579|    |
+|/players/900433/khvicha-kvaratskhelia      |Napoli   |      0.150325|   0.4444444|    |
+|/players/687681/victor-osimhen             |Napoli   |      0.169900|   0.5238095|    |
+|/players/415539/matteo-politano            |Napoli   |      0.094250|   0.3333333|    |
+|/players/362212/piotr-zielinski            |Napoli   |      0.287475|   0.3636364|    |
+|/players/308517/stanislav-lobotka          |Napoli   |      0.022825|   0.1333333|    |
+|/players/612863/andre-frank-zambo-anguissa |Napoli   |      0.083250|   0.1886792|    |
+|/players/282731/mario-rui                  |Napoli   |      0.067800|   0.0476190|    |
+|/players/828159/min-jae-kim                |Napoli   |      0.069575|   0.5238095|    |
+|/players/544693/amir-rrahmani              |Napoli   |      0.200000|   0.1333333|*   |
+|/players/414906/giovanni-di-lorenzo        |Napoli   |      0.210400|   0.1111111|*   |
+|/players/577912/alex-meret                 |Napoli   |      0.000000|   0.0222222|    |
+|/players/921921/kristian-thorstvedt        |Sassuolo |      0.061800|   0.2325581|    |
+|/players/848951/emil-konradsen-ceide       |Sassuolo |      0.010475|   0.1250000|    |
+|/players/900043/matheus-henrique           |Sassuolo |      0.005800|   0.1250000|    |
+|/players/909030/abdou-harroui              |Sassuolo |      0.015350|   0.1666667|    |
+|/players/741049/eljif-elmas                |Napoli   |      0.030125|   0.3125000|    |
+|/players/521210/hirving-lozano             |Napoli   |      0.076300|   0.3921569|    |
+|/players/773189/tanguy-ndomblé             |Napoli   |      0.006275|   0.2272727|    |
+|/players/469615/giovanni-simeone           |Napoli   |      0.027700|   0.4651163|    |
+____________________________________________________
+
+[1] "Facts about Sassuolo:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/39170/andrea-consigli       |           0|         35.1991|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1080669/nadir-zortea        |           1|         27.3311|           0.9358|        0.4223|         1.2071|      0.0643|        0.0371|      0.1077| 90.0000|
+|/players/616170/martin-erlic         |           1|         38.0803|           1.0638|        0.1973|         0.7551|      0.2006|        0.2242|      0.0198| 90.0000|
+|/players/905494/ruan-tressoldi       |           1|         37.0197|           2.0355|        0.1973|         0.2606|      0.0347|        0.0371|      0.0020| 90.0000|
+|/players/882578/rogrio               |           1|         38.3653|           1.3009|        0.3774|         1.5171|      0.0766|        0.0594|      0.0922| 90.0000|
+|/players/815431/davide-frattesi      |           3|         34.1381|           1.2521|        0.2504|         1.0095|      0.0969|        0.0748|      0.0397| 81.7571|
+|/players/163919/pedro-obiang         |           3|         30.5150|           1.6480|        0.2242|         0.3872|      0.0273|        0.0748|      0.0065| 73.2000|
+|/players/822794/nedim-bajrami        |           3|         25.7137|           0.5037|        0.2904|         1.0265|      0.1196|        0.1186|      0.0966| 75.8793|
+|/players/364520/domenico-berardi     |           5|         50.4673|           1.5398|        0.3465|         1.3084|      0.1278|        0.1367|      0.0820| 90.0000|
+|/players/265924/gregoire-defrel      |           5|         18.7788|           0.7553|        0.1538|         0.4075|      0.0610|        0.0601|      0.0146| 69.3500|
+|/players/935769/armand-laurient      |           5|         30.7595|           1.4821|        0.3497|         0.9677|      0.0752|        0.0715|      0.0653| 90.0000|
+|/players/921921/kristian-thorstvedt  |          NA|              NA|               NA|        0.1190|         0.2644|      0.0401|        0.0672|      0.0321| 20.6500|
+|/players/848951/emil-konradsen-ceide |          NA|              NA|               NA|        0.0387|         0.0581|      0.0099|        0.0122|      0.0248| 16.8000|
+|/players/900043/matheus-henrique     |          NA|              NA|               NA|        0.0173|         0.0690|      0.0061|        0.0061|      0.0084| 14.1207|
+|/players/909030/abdou-harroui        |          NA|              NA|               NA|        0.0369|         0.1967|      0.0104|        0.0144|      0.0020|  8.2429|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Alessio Dionisi |        59300|      1.913304|4-3-1-2   |
+____________________________________________________
+
+[1] "Facts about Napoli:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                   | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/900433/khvicha-kvaratskhelia      |           5|         44.8877|           1.6228|        0.4752|         1.2725|      0.1298|        0.1778|      0.1449| 78.8000|
+|/players/687681/victor-osimhen             |           5|         24.6481|           0.6529|        0.5598|         1.5595|      0.2515|        0.2005|      0.0458| 90.0000|
+|/players/415539/matteo-politano            |           5|         49.2815|           1.2780|        0.2074|         0.6692|      0.0880|        0.1107|      0.0958| 68.1429|
+|/players/362212/piotr-zielinski            |           3|         34.1963|           0.5030|        0.8158|         2.0436|      0.2873|        0.3684|      0.1886| 77.2941|
+|/players/308517/stanislav-lobotka          |           3|         50.8741|           1.6321|        0.0999|         0.2995|      0.0183|        0.0270|      0.0316| 82.1250|
+|/players/612863/andre-frank-zambo-anguissa |           3|         45.4346|           1.8200|        0.3172|         1.1890|      0.1615|        0.0936|      0.0837| 90.0000|
+|/players/282731/mario-rui                  |           1|         49.9966|           1.7072|        0.5753|         1.8448|      0.1366|        0.0778|      0.2133| 90.0000|
+|/players/828159/min-jae-kim                |           1|         50.3146|           1.2194|        0.1534|         0.4495|      0.0744|        0.0792|      0.0268| 90.0000|
+|/players/544693/amir-rrahmani              |           1|         43.6547|           0.9159|        0.6269|         1.5459|      0.2483|        0.2394|      0.0317| 90.0000|
+|/players/414906/giovanni-di-lorenzo        |           1|         44.0403|           1.7498|        0.4798|         1.3555|      0.2288|        0.2557|      0.1787| 90.0000|
+|/players/577912/alex-meret                 |           0|         47.0015|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/741049/eljif-elmas                |          NA|              NA|               NA|        0.1247|         0.2827|      0.0213|        0.0348|      0.0143| 21.8571|
+|/players/521210/hirving-lozano             |          NA|              NA|               NA|        0.2045|         0.4022|      0.0483|        0.0848|      0.0193| 12.7059|
+|/players/773189/tanguy-ndomblé             |          NA|              NA|               NA|        0.0322|         0.1206|      0.0089|        0.0064|      0.0095| 11.2000|
+|/players/469615/giovanni-simeone           |          NA|              NA|               NA|        0.0919|         0.1454|      0.0245|        0.0295|      0.0080|  7.8750|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Luciano Spalletti |        67179|        15.475|4-3-3     |
