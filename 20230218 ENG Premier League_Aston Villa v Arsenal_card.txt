@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-17 07:37:49.436"
+[1] "Updated at 2023-02-17 08:20:13.743"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 48.08%; max % is 50.6 and min % is 41.02%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 51.92%; max % is 58.98 and min % is 49.4%."
 [1] "--Sportsbook Odds--"
-[1] "Aston Villa Barstool Odds are: 22.22"
-[1] "The Barstool Odds of a Draw are: 27.03"
-[1] "Arsenal Barstool Odds are: 54.95"
-[1] "Aston Villa Adjusted Barstool Odds are: 21.324"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.94"
-[1] "Arsenal Adjusted Barstool Odds are: 52.735"
-[1] "Aston Villa's Barstool Odds to cover the 0.5 spread are: 49.5"
-[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 54.95"
-[1] "Barstool's line for the total is 2.5 at 1.96, which is a 51.02% chance of the over 2.5 hitting. The line for the under is 1.84, which is a 54.35% chance of the under 2.5 hitting."
+[1] "Aston Villa Barstool Odds are: 23.53"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Arsenal Barstool Odds are: 53.19"
+[1] "Aston Villa Adjusted Barstool Odds are: 22.517"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.584"
+[1] "Arsenal Adjusted Barstool Odds are: 50.9"
+[1] "Aston Villa's Barstool Odds to cover the 0.5 spread are: 51.02"
+[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 53.48"
+[1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
               bet           date_time
@@ -60,26 +60,26 @@
 |/players/477588/lex-moreno          |Aston Villa |      0.063875|   0.0344828|    |
 |/players/356406/john-mcginn         |Aston Villa |      0.087975|   0.1250000|    |
 |/players/816325/boubacar-kamara     |Aston Villa |      0.018000|   0.0555556|    |
-|/players/787350/douglas-luiz        |Aston Villa |      0.045125|   0.0714286|    |
+|/players/787350/douglas-luiz        |Aston Villa |      0.045125|   0.0769231|    |
 |/players/610184/emiliano-buendia    |Aston Villa |      0.185475|   0.1666667|    |
 |/players/671331/leon-bailey         |Aston Villa |      0.220900|   0.1666667|*   |
 |/players/540088/ollie-watkins       |Aston Villa |      0.242700|   0.2500000|    |
 |/players/860920/edward-nketiah      |Arsenal     |      0.349450|   0.3508772|    |
 |/players/1021586/gabriel-martinelli |Arsenal     |      0.213900|   0.2941176|    |
-|/players/534670/martin-degaard      |Arsenal     |      0.111975|   0.2500000|    |
+|/players/534670/martin-degaard      |Arsenal     |      0.111975|   0.2439024|    |
 |/players/961995/bukayo-saka         |Arsenal     |      0.199450|   0.2777778|    |
 |/players/207236/granit-xhaka        |Arsenal     |      0.033300|   0.1428571|    |
 |/players/282775/jorginho            |Arsenal     |      0.097150|   0.1538462|    |
 |/players/623621/oleksandr-zinchenko |Arsenal     |      0.046450|   0.0833333|    |
 |/players/795179/gabriel             |Arsenal     |      0.068175|   0.1666667|    |
 |/players/955406/william-saliba      |Arsenal     |      0.036075|   0.0714286|    |
-|/players/776151/ben-white           |Arsenal     |      0.006625|   0.0434783|    |
+|/players/776151/ben-white           |Arsenal     |      0.006625|   0.0416667|    |
 |/players/746395/aaron-ramsdale      |Arsenal     |      0.000000|   0.0344828|    |
 |/players/184536/philippe-coutinho   |Aston Villa |      0.035050|   0.1960784|    |
 |/players/1021929/jacob-ramsey       |Aston Villa |      0.016875|   0.1333333|    |
 |/players/424129/leander-dendoncker  |Aston Villa |      0.000000|   0.0454545|    |
 |/players/1088066/jhon-duran         |Aston Villa |      0.003925|   0.2173913|    |
-|/players/1025462/fabio-vieira       |Arsenal     |      0.018150|   0.2040816|    |
+|/players/1025462/fabio-vieira       |Arsenal     |      0.018150|   0.2000000|    |
 |/players/318615/leandro-trossard    |Arsenal     |      0.030050|   0.3030303|    |
 |/players/748382/reiss-nelson        |Arsenal     |      0.043025|   0.1851852|    |
 |/players/664444/takehiro-tomiyasu   |Arsenal     |      0.000000|   0.0357143|    |
