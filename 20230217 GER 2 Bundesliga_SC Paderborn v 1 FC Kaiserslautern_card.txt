@@ -1,42 +1,87 @@
-[1] "Updated at 2023-02-17 09:19:34.657"
+[1] "Updated at 2023-02-17 09:28:19.198"
 [1] "_____________________________________________________________________"
-  bet           date_time
-1     2023-02-17 09:30:00
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: SC Paderborn 1.6658 to 1. FC Kaiserslautern 1.0993"
+[1] "Total: 2.7651"
+[1] "SC Paderborn %: 51.87"
+[1] "Draw %: 23.82"
+[1] "1. FC Kaiserslautern %: 24.31"
+[1] "--XG Model--"
+[1] "Score: SC Paderborn 1.7249 to 1. FC Kaiserslautern 1.0557"
+[1] "Total: 2.7806"
+[1] "SC Paderborn %: 54.11"
+[1] "Draw %: 23.96"
+[1] "1. FC Kaiserslautern %: 21.93"
+[1] "--XGoT Model--"
+[1] "Score: SC Paderborn 1.9027 to 1. FC Kaiserslautern 1.1809"
+[1] "Total: 3.0836"
+[1] "SC Paderborn %: 54.63"
+[1] "Draw %: 22.65"
+[1] "1. FC Kaiserslautern %: 22.72"
+[1] "--XA Model--"
+[1] "Score: SC Paderborn 1.7012 to 1. FC Kaiserslautern 1.0338"
+[1] "Total: 2.735"
+[1] "SC Paderborn %: 53.85"
+[1] "Draw %: 24.15"
+[1] "1. FC Kaiserslautern %: 22"
+[1] "--Mean 4 Models--"
+[1] "SC Paderborn has a mean win % of 53.62%; a min win % of 51.87%; a max win % of 54.63%."
+[1] "Draw has a mean win % of 23.64%; a min win % of 22.65%; a max win % of 24.15%."
+[1] "1. FC Kaiserslautern has a mean win % of 22.74%; a min win % of 21.93%; a max win of % 24.31%."
+[1] "SC Paderborn has a mean win of the Double Chance of 77.26%; a min win % of 75.69%, a max win % of 78.07%."
+[1] "1. FC Kaiserslautern has a mean win of the Double Chance of 46.38%; a min win % of 45.37%, a max win % of 48.13%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.17%; max % is 58.71 and min % is 50.87%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 46.83%; max % is 49.13 and min % is 41.29%."
+[1] "--Sportsbook Odds--"
+[1] "SC Paderborn Barstool Odds are: 51.28"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "1. FC Kaiserslautern Barstool Odds are: 28.57"
+[1] "SC Paderborn Adjusted Barstool Odds are: 47.979"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.29"
+[1] "1. FC Kaiserslautern Adjusted Barstool Odds are: 26.731"
+[1] "SC Paderborn's Barstool Odds to cover the -0.5 spread are: 50.76"
+[1] "1. FC Kaiserslautern's Barstool Odds to cover the 0.5 spread are: 53.76"
+[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.12, which is a 47.17% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+           bet           date_time
+1 SC Paderborn 2023-02-17 09:30:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                             |team                 | expected_attg| expected_gs|bet |
 |:------------------------------------|:--------------------|-------------:|-----------:|:---|
-|/players/556503/jannik-huth          |SC Paderborn         |            NA|   0.1000000|NA  |
-|/players/1036220/jannis-heuer        |SC Paderborn         |            NA|   0.1000000|NA  |
-|/players/932852/tobias-mller         |SC Paderborn         |            NA|   0.0666667|NA  |
-|/players/35708/uwe-hnemeier          |SC Paderborn         |            NA|   0.0769231|NA  |
-|/players/970587/marcel-hoffmeier     |SC Paderborn         |            NA|   0.1111111|NA  |
-|/players/848666/florent-muslija      |SC Paderborn         |            NA|   0.2702703|NA  |
-|/players/820974/ron-schallenberg     |SC Paderborn         |            NA|   0.1176471|NA  |
-|/players/801003/julian-justvan       |SC Paderborn         |            NA|   0.2702703|NA  |
-|/players/784225/raphael-obermair     |SC Paderborn         |            NA|   0.1111111|NA  |
-|/players/330646/robert-leipertz      |SC Paderborn         |            NA|   0.3225806|NA  |
-|/players/956913/marvin-pieringer     |SC Paderborn         |            NA|   0.3448276|NA  |
-|/players/293560/terrence-boyd        |1. FC Kaiserslautern |            NA|   0.3225806|NA  |
-|/players/267993/philipp-klement      |1. FC Kaiserslautern |            NA|   0.1923077|NA  |
-|/players/276656/ben-zolinski         |1. FC Kaiserslautern |            NA|   0.2083333|NA  |
-|/players/343797/hendrick-zuck        |1. FC Kaiserslautern |            NA|   0.0666667|NA  |
-|/players/616917/nicolai-rapp         |1. FC Kaiserslautern |            NA|   0.0769231|NA  |
-|/players/553556/marlon-ritter        |1. FC Kaiserslautern |            NA|   0.2040816|NA  |
-|/players/488564/jean-zimmer          |1. FC Kaiserslautern |            NA|   0.0909091|NA  |
-|/players/725729/robin-bormuth        |1. FC Kaiserslautern |            NA|   0.0769231|NA  |
-|/players/239559/kevin-kraus          |1. FC Kaiserslautern |            NA|   0.0833333|NA  |
-|/players/860609/boris-tomiak         |1. FC Kaiserslautern |            NA|   0.0909091|NA  |
-|/players/178771/andreas-luthe        |1. FC Kaiserslautern |            NA|   0.3389831|NA  |
-|/players/522139/dennis-srbeny        |SC Paderborn         |            NA|   0.0000000|NA  |
-|/players/554531/marco-schuster       |SC Paderborn         |            NA|   0.0000000|NA  |
-|/players/673432/sirlord-conteh       |SC Paderborn         |            NA|   0.0000000|NA  |
-|/players/614212/felix-platte         |SC Paderborn         |            NA|   0.0000000|NA  |
-|/players/181197/nicolas-de-prville   |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
-|/players/459002/kenny-prince-redondo |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
-|/players/820748/aaron-opoku          |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
-|/players/657504/philipp-hercher      |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
+|/players/556503/jannik-huth          |SC Paderborn         |      0.000000|   0.1000000|    |
+|/players/1036220/jannis-heuer        |SC Paderborn         |      0.031975|   0.1000000|    |
+|/players/932852/tobias-mller         |SC Paderborn         |      0.030825|   0.0666667|    |
+|/players/35708/uwe-hnemeier          |SC Paderborn         |      0.032875|   0.0833333|    |
+|/players/970587/marcel-hoffmeier     |SC Paderborn         |      0.007225|   0.1111111|    |
+|/players/848666/florent-muslija      |SC Paderborn         |      0.329100|   0.2777778|*   |
+|/players/820974/ron-schallenberg     |SC Paderborn         |      0.019025|   0.1176471|    |
+|/players/801003/julian-justvan       |SC Paderborn         |      0.109325|   0.2777778|    |
+|/players/784225/raphael-obermair     |SC Paderborn         |      0.007450|   0.1111111|    |
+|/players/330646/robert-leipertz      |SC Paderborn         |      0.395100|   0.3225806|*   |
+|/players/956913/marvin-pieringer     |SC Paderborn         |      0.309625|   0.3508772|    |
+|/players/293560/terrence-boyd        |1. FC Kaiserslautern |      0.193550|   0.3225806|    |
+|/players/267993/philipp-klement      |1. FC Kaiserslautern |      0.118450|   0.1923077|    |
+|/players/276656/ben-zolinski         |1. FC Kaiserslautern |      0.118250|   0.2083333|    |
+|/players/343797/hendrick-zuck        |1. FC Kaiserslautern |      0.066225|   0.0666667|    |
+|/players/616917/nicolai-rapp         |1. FC Kaiserslautern |      0.066600|   0.0769231|    |
+|/players/553556/marlon-ritter        |1. FC Kaiserslautern |      0.065775|   0.2040816|    |
+|/players/488564/jean-zimmer          |1. FC Kaiserslautern |      0.066850|   0.0909091|    |
+|/players/725729/robin-bormuth        |1. FC Kaiserslautern |      0.033650|   0.0769231|    |
+|/players/239559/kevin-kraus          |1. FC Kaiserslautern |      0.047750|   0.0833333|    |
+|/players/860609/boris-tomiak         |1. FC Kaiserslautern |      0.034225|   0.0909091|    |
+|/players/178771/andreas-luthe        |1. FC Kaiserslautern |      0.000000|   0.3389831|    |
+|/players/522139/dennis-srbeny        |SC Paderborn         |      0.046950|   0.0000000|    |
+|/players/554531/marco-schuster       |SC Paderborn         |      0.000750|   0.0000000|    |
+|/players/673432/sirlord-conteh       |SC Paderborn         |      0.040900|   0.0000000|    |
+|/players/614212/felix-platte         |SC Paderborn         |      0.054675|   0.0000000|*   |
+|/players/181197/nicolas-de-prville   |1. FC Kaiserslautern |      0.021575|   0.0000000|    |
+|/players/459002/kenny-prince-redondo |1. FC Kaiserslautern |      0.084000|   0.0000000|*   |
+|/players/820748/aaron-opoku          |1. FC Kaiserslautern |      0.011750|   0.0000000|    |
+|/players/657504/philipp-hercher      |1. FC Kaiserslautern |      0.026400|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about SC Paderborn:"
