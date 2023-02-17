@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 07:40:22.553"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Brentford 1.6073 to Crystal Palace 1.0113"
+[1] "Total: 2.6186"
+[1] "Brentford %: 51.61"
+[1] "Draw %: 24.74"
+[1] "Crystal Palace %: 23.65"
+[1] "--XG Model--"
+[1] "Score: Brentford 1.7749 to Crystal Palace 1.0386"
+[1] "Total: 2.8135"
+[1] "Brentford %: 55.28"
+[1] "Draw %: 23.01"
+[1] "Crystal Palace %: 21.71"
+[1] "--XGoT Model--"
+[1] "Score: Brentford 1.7769 to Crystal Palace 1.0674"
+[1] "Total: 2.8443"
+[1] "Brentford %: 54.93"
+[1] "Draw %: 23.14"
+[1] "Crystal Palace %: 21.93"
+[1] "--XA Model--"
+[1] "Score: Brentford 1.7264 to Crystal Palace 1.092"
+[1] "Total: 2.8184"
+[1] "Brentford %: 53.4"
+[1] "Draw %: 23.73"
+[1] "Crystal Palace %: 22.87"
+[1] "--Mean 4 Models--"
+[1] "Brentford has a mean win % of 53.8%; a min win % of 51.61%; a max win % of 55.28%."
+[1] "Draw has a mean win % of 23.66%; a min win % of 23.01%; a max win % of 24.74%."
+[1] "Crystal Palace has a mean win % of 22.54%; a min win % of 21.71%; a max win of % 23.65%."
+[1] "Brentford has a mean win of the Double Chance of 77.46%; a min win % of 76.35%, a max win % of 78.29%."
+[1] "Crystal Palace has a mean win of the Double Chance of 46.2%; a min win % of 44.72%, a max win % of 48.39%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.85%; max % is 53.78 and min % is 47.97%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.15%; max % is 52.03 and min % is 46.22%."
+[1] "--Sportsbook Odds--"
+[1] "Brentford Barstool Odds are: 55.56"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Crystal Palace Barstool Odds are: 21.74"
+[1] "Brentford Adjusted Barstool Odds are: 52.874"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.437"
+[1] "Crystal Palace Adjusted Barstool Odds are: 20.689"
+[1] "Brentford's Barstool Odds to cover the -0.5 spread are: 55.25"
+[1] "Crystal Palace's Barstool Odds to cover the 0.5 spread are: 49.02"
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.74, which is a 57.47% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                            bet           date_time
+1 over Brentford/Crystal Palace 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team           | expected_attg| expected_gs|bet |
+|:------------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/562727/david-raya           |Brentford      |      0.000000|   0.0476190|    |
+|/players/552718/kristoffer-ajer      |Brentford      |      0.029450|   0.0588235|    |
+|/players/711357/ethan-pinnock        |Brentford      |      0.034075|   0.0434783|    |
+|/players/240538/ben-mee              |Brentford      |      0.065700|   0.0952381|    |
+|/players/562892/rico-henry           |Brentford      |      0.027800|   0.0500000|    |
+|/players/650616/mathias-jensen       |Brentford      |      0.081750|   0.1111111|    |
+|/players/266520/christian-nrgaard    |Brentford      |      0.106325|   0.0833333|    |
+|/players/759566/joshua-dasilva       |Brentford      |      0.123800|   0.1886792|    |
+|/players/923312/bryan-mbeumo         |Brentford      |      0.199100|   0.2702703|    |
+|/players/408987/ivan-toney           |Brentford      |      0.436900|   0.4545455|    |
+|/players/666857/yoane-wissa          |Brentford      |      0.225550|   0.2941176|    |
+|/players/637746/odsonne-edouard      |Crystal Palace |      0.238725|   0.2439024|    |
+|/players/214570/jeffrey-schlupp      |Crystal Palace |      0.192750|   0.1111111|*   |
+|/players/1029063/michael-olise       |Crystal Palace |      0.178150|   0.1428571|    |
+|/players/154280/jordan-ayew          |Crystal Palace |      0.043575|   0.1538462|    |
+|/players/901495/albert-sambi-lokonga |Crystal Palace |      0.050100|   0.0400000|    |
+|/players/951954/cheick-oumar-doucour |Crystal Palace |      0.040775|   0.0384615|    |
+|/players/1120224/tyrick-mitchell     |Crystal Palace |      0.015225|   0.0238095|    |
+|/players/844425/marc-guehi           |Crystal Palace |      0.011675|   0.0454545|    |
+|/players/109897/james-tomkins        |Crystal Palace |      0.067475|   0.0434783|    |
+|/players/157838/nathaniel-clyne      |Crystal Palace |      0.004500|   0.0238095|    |
+|/players/109222/vicente-guaita       |Crystal Palace |      0.000000|   0.0434783|    |
+|/players/888912/mikkel-damsgaard     |Brentford      |      0.020600|   0.2000000|    |
+|/players/532220/saman-ghoddos        |Brentford      |      0.019875|   0.1818182|    |
+|/players/1083796/kevin-schade        |Brentford      |      0.041050|   0.2500000|    |
+|/players/688273/vitaly-janelt        |Brentford      |      0.013075|   0.1176471|    |
+|/players/706297/jean-philippe-mateta |Crystal Palace |      0.021500|   0.2439024|    |
+|/players/496563/jairo-riedewald      |Crystal Palace |      0.000000|   0.0476190|    |
+|/players/818975/eberechi-eze         |Crystal Palace |      0.034675|   0.1333333|    |
+|/players/163616/luka-milivojevic     |Crystal Palace |      0.000000|   0.0666667|    |
+____________________________________________________
+
+[1] "Facts about Brentford:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/562727/david-raya        |           0|         37.0644|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/552718/kristoffer-ajer   |           1|         61.0198|           1.7295|        0.0808|         0.3269|      0.0374|        0.0306|      0.0848| 90.0000|
+|/players/711357/ethan-pinnock     |           1|         59.8370|           1.6213|        0.2157|         0.7241|      0.0590|        0.0367|      0.0574| 90.0000|
+|/players/240538/ben-mee           |           1|         44.1770|           1.4779|        0.2277|         0.8645|      0.0893|        0.0672|      0.0151| 90.0000|
+|/players/562892/rico-henry        |           1|         43.0132|           1.7129|        0.1007|         0.4075|      0.0237|        0.0289|      0.1142| 90.0000|
+|/players/650616/mathias-jensen    |           3|         39.7430|           1.6507|        0.3138|         0.9738|      0.0983|        0.0883|      0.1320| 79.2913|
+|/players/266520/christian-nrgaard |           3|         52.9240|           3.1257|        0.3134|         0.9502|      0.1325|        0.1119|      0.0906| 90.0000|
+|/players/759566/joshua-dasilva    |           3|         36.9498|           0.8571|        0.5201|         1.6127|      0.1006|        0.1360|      0.0711| 77.7000|
+|/players/923312/bryan-mbeumo      |           5|         25.1001|           1.0314|        0.6523|         1.8215|      0.1968|        0.2184|      0.1777| 79.8348|
+|/players/408987/ivan-toney        |           5|         27.6629|           1.1240|        1.4368|         3.3094|      0.5144|        0.5561|      0.1876| 90.0000|
+|/players/666857/yoane-wissa       |           5|         20.9559|           1.0518|        0.6429|         1.7395|      0.2711|        0.2513|      0.0605| 76.9143|
+|/players/888912/mikkel-damsgaard  |          NA|              NA|               NA|        0.1177|         0.2207|      0.0225|        0.0199|      0.0391| 13.0857|
+|/players/532220/saman-ghoddos     |          NA|              NA|               NA|        0.1043|         0.2830|      0.0204|        0.0194|      0.0215| 12.3000|
+|/players/1083796/kevin-schade     |          NA|              NA|               NA|        0.1206|         0.3015|      0.0312|        0.0437|      0.0168| 10.7087|
+|/players/688273/vitaly-janelt     |          NA|              NA|               NA|        0.0875|         0.1749|      0.0224|        0.0131|      0.0115| 10.1652|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Thomas Frank |       108698|      6.209352|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Crystal Palace:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/637746/odsonne-edouard      |           5|         16.6319|           0.6549|        0.6908|         1.6577|      0.2659|        0.2927|      0.0445| 79.6471|
+|/players/214570/jeffrey-schlupp      |           3|         21.6960|           1.4283|        0.6644|         1.4508|      0.2014|        0.2308|      0.0478| 82.1522|
+|/players/1029063/michael-olise       |           3|         33.8598|           0.9691|        0.5648|         1.8261|      0.1710|        0.2149|      0.1783| 81.2985|
+|/players/154280/jordan-ayew          |           3|         22.1808|           1.4355|        0.3119|         0.8386|      0.0607|        0.0481|      0.0642| 80.2500|
+|/players/901495/albert-sambi-lokonga |           2|         52.9716|           1.0887|        0.1962|         0.6662|      0.0575|        0.0525|      0.0719| 90.0000|
+|/players/951954/cheick-oumar-doucour |           2|         35.0603|           3.3236|        0.1934|         0.7212|      0.0521|        0.0455|      0.0327| 90.0000|
+|/players/1120224/tyrick-mitchell     |           1|         36.6940|           3.0507|        0.0401|         0.1514|      0.0171|        0.0159|      0.0568| 90.0000|
+|/players/844425/marc-guehi           |           1|         53.9663|           1.4829|        0.1130|         0.4751|      0.0321|        0.0131|      0.0334| 90.0000|
+|/players/109897/james-tomkins        |           1|         39.5980|           1.0659|        0.2295|         0.7272|      0.0900|        0.0747|      0.0384| 90.0000|
+|/players/157838/nathaniel-clyne      |           1|         35.4168|           1.5004|        0.0656|         0.2227|      0.0062|        0.0049|      0.0368| 90.0000|
+|/players/109222/vicente-guaita       |           0|         26.2415|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/706297/jean-philippe-mateta |          NA|              NA|               NA|        0.0841|         0.4036|      0.0393|        0.0226|      0.0046| 10.3529|
+|/players/496563/jairo-riedewald      |          NA|              NA|               NA|        0.0221|         0.0663|      0.0011|        0.0000|      0.0051|  9.7500|
+|/players/818975/eberechi-eze         |          NA|              NA|               NA|        0.1174|         0.3228|      0.0298|        0.0383|      0.0147|  8.7015|
+|/players/163616/luka-milivojevic     |          NA|              NA|               NA|        0.0000|         0.0191|      0.0011|        0.0000|      0.0118|  7.8478|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Patrick Vieira |        74160|     -2.797045|4-3-3     |
