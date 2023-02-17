@@ -1,112 +1,96 @@
-[1] "Updated at 2023-02-16 17:51:37.548"
+[1] "Updated at 2023-02-16 18:32:00.488"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Girona FC 1.4016 to Almeria 1.0294"
-[1] "Total: 2.431"
-[1] "Girona FC %: 45.63"
-[1] "Draw %: 26.69"
-[1] "Almeria %: 27.68"
+[1] "Score: Girona FC 1.5069 to Almeria 1.0889"
+[1] "Total: 2.5958"
+[1] "Girona FC %: 47.15"
+[1] "Draw %: 24.8"
+[1] "Almeria %: 28.05"
 [1] "--XG Model--"
-[1] "Score: Girona FC 1.4979 to Almeria 0.9613"
-[1] "Total: 2.4592"
-[1] "Girona FC %: 50.13"
-[1] "Draw %: 25.48"
-[1] "Almeria %: 24.39"
+[1] "Score: Girona FC 1.5994 to Almeria 1.0081"
+[1] "Total: 2.6075"
+[1] "Girona FC %: 51.42"
+[1] "Draw %: 24.76"
+[1] "Almeria %: 23.82"
 [1] "--XGoT Model--"
-[1] "Score: Girona FC 1.5668 to Almeria 0.8693"
-[1] "Total: 2.4361"
-[1] "Girona FC %: 54.34"
-[1] "Draw %: 25.21"
-[1] "Almeria %: 20.45"
+[1] "Score: Girona FC 1.7359 to Almeria 0.9579"
+[1] "Total: 2.6938"
+[1] "Girona FC %: 55.96"
+[1] "Draw %: 23.72"
+[1] "Almeria %: 20.32"
 [1] "--XA Model--"
-[1] "Score: Girona FC 1.3302 to Almeria 0.9501"
-[1] "Total: 2.2803"
-[1] "Girona FC %: 45.41"
-[1] "Draw %: 27.48"
-[1] "Almeria %: 27.11"
+[1] "Score: Girona FC 1.4188 to Almeria 0.9894"
+[1] "Total: 2.4082"
+[1] "Girona FC %: 47.15"
+[1] "Draw %: 26.4"
+[1] "Almeria %: 26.45"
 [1] "--Mean 4 Models--"
-[1] "Girona FC has a mean win % of 48.88%; a min win % of 45.41%; a max win % of 54.34%."
-[1] "Draw has a mean win % of 26.22%; a min win % of 25.21%; a max win % of 27.48%."
-[1] "Almeria has a mean win % of 24.91%; a min win % of 20.45%; a max win of % 27.68%."
-[1] "Girona FC has a mean win of the Double Chance of 75.09%; a min win % of 72.32%, a max win % of 79.55%."
-[1] "Almeria has a mean win of the Double Chance of 51.12%; a min win % of 45.66%, a max win % of 54.59%."
-[1] "The mean likelihood that there are more than 2.5 goals is 42.18%; max % is 43.78 and min % is 39.33%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 57.83%; max % is 60.67 and min % is 56.22%."
+[1] "Girona FC has a mean win % of 50.42%; a min win % of 47.15%; a max win % of 55.96%."
+[1] "Draw has a mean win % of 24.92%; a min win % of 23.72%; a max win % of 26.4%."
+[1] "Almeria has a mean win % of 24.66%; a min win % of 20.32%; a max win of % 28.05%."
+[1] "Girona FC has a mean win of the Double Chance of 75.34%; a min win % of 71.95%, a max win % of 79.68%."
+[1] "Almeria has a mean win of the Double Chance of 49.58%; a min win % of 44.04%, a max win % of 52.85%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.69%; max % is 49.6 and min % is 42.17%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.31%; max % is 57.83 and min % is 50.4%."
 [1] "--Sportsbook Odds--"
-[1] "Girona FC Barstool Odds are: 54.55"
+[1] "Girona FC Barstool Odds are: 55.56"
 [1] "The Barstool Odds of a Draw are: 27.03"
-[1] "Almeria Barstool Odds are: 23.81"
-[1] "Girona FC Adjusted Barstool Odds are: 51.76"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.648"
-[1] "Almeria Adjusted Barstool Odds are: 22.592"
-[1] "Girona FC's Barstool Odds to cover the -0.5 spread are: 54.05"
-[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 50.51"
-[1] "Barstool's line for the total is 2.5 at 1.88, which is a 53.19% chance of the over 2.5 hitting. The line for the under is 1.92, which is a 52.08% chance of the under 2.5 hitting."
+[1] "Almeria Barstool Odds are: 22.73"
+[1] "Girona FC Adjusted Barstool Odds are: 52.754"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.665"
+[1] "Almeria Adjusted Barstool Odds are: 21.582"
+[1] "Girona FC's Barstool Odds to cover the -0.5 spread are: 55.25"
+[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 49.5"
+[1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48% chance of the over 2.5 hitting. The line for the under is 1.93, which is a 51.81% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                      bet           date_time
-1 under Girona FC/Almeria 2023-02-17 12:00:00
-              player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Houboulang Mendes  ALM     17 1.53          NA  0.8404   0.1868    passes ESP Spain      0.6536         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luis Suarez  ALM     24 1.85          NA   0.939   0.3985    passes ESP Spain      0.5405         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luis Suarez  ALM     28  2.3          NA  0.7879   0.3531    passes ESP Spain      0.4348         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luis Suarez  ALM     32 2.76          NA   0.534   0.1717    passes ESP Spain      0.3623         NA        NA         NA       NA
-        player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Luis Suarez  ALM     20 1.51          NA  0.9902   0.3279    passes ESP Spain      0.6623         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Adri Embarba  ALM     22  1.9          NA  0.6358   0.1095    passes ESP Spain      0.5263         NA        NA         NA       NA
-         player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Adri Embarba  ALM     18 1.55          NA  0.8859   0.2407    passes ESP Spain      0.6452         NA        NA         NA       NA
-                 player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Valentin Castellanos  GIR     17 1.85          NA  0.9998   0.4593    passes ESP Spain      0.5405         NA        NA         NA       NA
-                 player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Valentin Castellanos  GIR     21  2.3          NA  0.9967   0.5619    passes ESP Spain      0.4348         NA        NA         NA       NA
-                 player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Valentin Castellanos  GIR     29 3.55          NA  0.8901   0.6084    passes ESP Spain      0.2817         NA        NA         NA       NA
-                 player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Valentin Castellanos  GIR     13 1.51          NA       1   0.3377    passes ESP Spain      0.6623         NA        NA         NA       NA
-                 player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Valentin Castellanos  GIR     33  4.9          NA  0.7031    0.499    passes ESP Spain      0.2041         NA        NA         NA       NA
-                 player team number odds prob_tackle ex_prob prob_dif statistic    league prob_passes prob_shots prob_sogs prob_goals prob_ast
-1: Valentin Castellanos  GIR     25 2.76          NA  0.9745   0.6122    passes ESP Spain      0.3623         NA        NA         NA       NA
+  bet           date_time
+1     2023-02-17 12:00:00
+
+
+|player               |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:--------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Houboulang Mendes    |ALM  |     21| 1.87|          NA|  0.8480|   0.3132|passes    |ESP Spain |      0.5348|         NA|        NA|         NA|       NA|
+|Houboulang Mendes    |ALM  |     25| 2.33|          NA|  0.5875|   0.1583|passes    |ESP Spain |      0.4292|         NA|        NA|         NA|       NA|
+|Houboulang Mendes    |ALM  |     17| 1.53|          NA|  0.9703|   0.3167|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
+|Valentin Castellanos |GIR  |     17| 1.85|          NA|  0.8419|   0.3014|passes    |ESP Spain |      0.5405|         NA|        NA|         NA|       NA|
+|Valentin Castellanos |GIR  |     21| 2.30|          NA|  0.5465|   0.1117|passes    |ESP Spain |      0.4348|         NA|        NA|         NA|       NA|
+|Valentin Castellanos |GIR  |     13| 1.51|          NA|  0.9748|   0.3125|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                             |team      | expected_attg| expected_gs|bet |
 |:------------------------------------|:---------|-------------:|-----------:|:---|
 |/players/278285/paulo-gazzaniga      |Girona FC |      0.000000|   0.1538462|    |
-|/players/1194892/arnau-martinez      |Girona FC |      0.097700|   0.1923077|    |
-|/players/150764/bernardo             |Girona FC |      0.119675|   0.0909091|    |
-|/players/848034/santiago-bueno       |Girona FC |      0.095450|   0.1000000|    |
-|/players/881786/javier-hernndez      |Girona FC |      0.095300|   0.0833333|    |
-|/players/967871/ivn-martin           |Girona FC |      0.021800|   0.3389831|    |
-|/players/642551/aleix-garcia         |Girona FC |      0.141275|   0.1724138|    |
-|/players/212470/oriol-romeu          |Girona FC |      0.056050|   0.1666667|    |
-|/players/175305/borja-garcia         |Girona FC |      0.146450|   0.2857143|    |
-|/players/639384/toni-villa           |Girona FC |      0.141000|   0.2380952|    |
-|/players/823658/valentin-castellanos |Girona FC |      0.102975|   0.5000000|    |
-|/players/792303/luis-surez           |Almeria   |      0.074225|   0.3225806|    |
-|/players/482331/adrin-embarba        |Almeria   |      0.068250|   0.1666667|    |
-|/players/787440/lucas-robertone      |Almeria   |      0.052500|   0.1176471|    |
-|/players/358127/leo-baptistao        |Almeria   |      0.100275|   0.3030303|    |
-|/players/617220/gonzalo-melero       |Almeria   |      0.029375|   0.1666667|    |
-|/players/1130583/samu                |Almeria   |      0.115475|   0.0769231|    |
-|/players/713924/sergio-akieme        |Almeria   |      0.040425|   0.0454545|    |
-|/players/540967/srdjan-babic         |Almeria   |      0.102975|   0.0666667|    |
-|/players/902647/juan-brandariz       |Almeria   |      0.106900|   0.0666667|    |
-|/players/764841/houboulang-mendes    |Almeria   |      0.047750|   0.0285714|    |
+|/players/1194892/arnau-martinez      |Girona FC |      0.022725|   0.1923077|    |
+|/players/150764/bernardo             |Girona FC |      0.026850|   0.0909091|    |
+|/players/848034/santiago-bueno       |Girona FC |      0.022750|   0.1000000|    |
+|/players/881786/javier-hernndez      |Girona FC |      0.020875|   0.0833333|    |
+|/players/967871/ivn-martin           |Girona FC |      0.034925|   0.3389831|    |
+|/players/642551/aleix-garcia         |Girona FC |      0.227350|   0.1724138|*   |
+|/players/212470/oriol-romeu          |Girona FC |      0.091150|   0.1666667|    |
+|/players/175305/borja-garcia         |Girona FC |      0.222900|   0.2857143|    |
+|/players/639384/toni-villa           |Girona FC |      0.228675|   0.2380952|    |
+|/players/823658/valentin-castellanos |Girona FC |      0.163100|   0.5000000|    |
+|/players/792303/luis-surez           |Almeria   |      0.190025|   0.3225806|    |
+|/players/482331/adrin-embarba        |Almeria   |      0.115950|   0.1666667|    |
+|/players/787440/lucas-robertone      |Almeria   |      0.084875|   0.1176471|    |
+|/players/358127/leo-baptistao        |Almeria   |      0.165150|   0.3030303|    |
+|/players/617220/gonzalo-melero       |Almeria   |      0.011875|   0.1666667|    |
+|/players/1130583/samu                |Almeria   |      0.048975|   0.0769231|    |
+|/players/713924/sergio-akieme        |Almeria   |      0.021550|   0.0454545|    |
+|/players/540967/srdjan-babic         |Almeria   |      0.053350|   0.0666667|    |
+|/players/902647/juan-brandariz       |Almeria   |      0.054950|   0.0666667|    |
+|/players/764841/houboulang-mendes    |Almeria   |      0.022600|   0.0285714|    |
 |/players/477589/fernando-martinez    |Almeria   |      0.000000|   0.1923077|    |
-|/players/564847/viktor-tsigankov     |Girona FC |      0.104375|   0.4000000|    |
+|/players/564847/viktor-tsigankov     |Girona FC |      0.110100|   0.4000000|    |
 |/players/1072200/rodrigo-riquelme    |Girona FC |      0.027500|   0.2631579|    |
-|/players/58294/cristhian-stuani      |Girona FC |      0.135525|   0.5000000|    |
+|/players/58294/cristhian-stuani      |Girona FC |      0.144225|   0.5000000|    |
 |/players/205310/alexander-callens    |Girona FC |      0.000000|   0.1666667|    |
-|/players/1054114/el-bilal-tour       |Almeria   |      0.082975|   0.3030303|    |
-|/players/193226/francisco-portillo   |Almeria   |      0.024250|   0.2083333|    |
-|/players/361341/dyego-sousa          |Almeria   |      0.010725|   0.2857143|    |
+|/players/1054114/el-bilal-tour       |Almeria   |      0.085550|   0.3030303|    |
+|/players/193226/francisco-portillo   |Almeria   |      0.024675|   0.2083333|    |
+|/players/361341/dyego-sousa          |Almeria   |      0.011450|   0.2857143|    |
 |/players/785855/alejandro-pozo       |Almeria   |      0.000000|   0.0454545|    |
 ____________________________________________________
 
@@ -116,20 +100,20 @@ ____________________________________________________
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/278285/paulo-gazzaniga      |           0|         38.8469|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1194892/arnau-martinez      |           1|         35.6501|           1.9261|        0.2611|         1.0213|      0.1115|        0.1283|      0.1365| 90.0000|
-|/players/150764/bernardo             |           1|         43.1681|           0.6692|        0.4537|         1.3394|      0.1161|        0.1511|      0.0268| 90.0000|
-|/players/848034/santiago-bueno       |           1|         39.2326|           1.3577|        0.2702|         0.7281|      0.1086|        0.1283|      0.0523| 90.0000|
-|/players/881786/javier-hernndez      |           1|         37.3368|           1.3497|        0.6997|         1.6786|      0.2375|        0.1283|      0.1714| 90.0000|
-|/players/967871/ivn-martin           |           3|         34.4123|           0.7932|        0.4368|         0.8176|      0.1365|        0.0271|      0.0513| 79.3000|
-|/players/642551/aleix-garcia         |           3|         50.6777|           1.1871|        0.4058|         1.0706|      0.1072|        0.1909|      0.2199| 90.0000|
-|/players/212470/oriol-romeu          |           3|         47.4145|           1.9598|        0.2089|         0.7839|      0.1097|        0.0727|      0.0615| 90.0000|
-|/players/175305/borja-garcia         |           3|         28.7746|           0.6221|        0.3916|         1.3827|      0.1687|        0.1903|      0.0570| 79.2353|
-|/players/639384/toni-villa           |           3|         18.0615|           1.3876|        0.4075|         1.1888|      0.1137|        0.1892|      0.0588| 66.6122|
-|/players/823658/valentin-castellanos |           5|         36.8541|           1.2577|        0.3996|         1.1307|      0.1361|        0.1340|      0.0918| 85.3830|
-|/players/564847/viktor-tsigankov     |          NA|              NA|               NA|        0.3500|         0.6001|      0.1013|        0.1399|      0.0283| 23.3878|
-|/players/1072200/rodrigo-riquelme    |          NA|              NA|               NA|        0.1845|         0.5227|      0.0349|        0.0339|      0.0142| 10.7647|
-|/players/58294/cristhian-stuani      |          NA|              NA|               NA|        0.3070|         0.4678|      0.1400|        0.1767|      0.0204| 10.7000|
+|/players/278285/paulo-gazzaniga      |           0|         27.0864|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1194892/arnau-martinez      |           1|         44.1814|           2.0246|        0.0956|         0.4966|      0.0227|        0.0283|      0.1050| 90.0000|
+|/players/150764/bernardo             |           1|         53.4985|           0.7035|        0.1660|         0.6513|      0.0236|        0.0333|      0.0206| 90.0000|
+|/players/848034/santiago-bueno       |           1|         48.6212|           1.4271|        0.0989|         0.3541|      0.0221|        0.0283|      0.0402| 90.0000|
+|/players/881786/javier-hernndez      |           1|         46.2717|           1.4187|        0.2561|         0.8163|      0.0483|        0.0283|      0.1319| 90.0000|
+|/players/967871/ivn-martin           |           3|         32.6417|           0.9981|        0.6434|         1.1278|      0.2239|        0.0454|      0.0719| 79.3000|
+|/players/642551/aleix-garcia         |           3|         48.0703|           1.4936|        0.5976|         1.4768|      0.1757|        0.3196|      0.3082| 90.0000|
+|/players/212470/oriol-romeu          |           3|         44.9749|           2.4658|        0.3077|         1.0814|      0.1799|        0.1216|      0.0863| 90.0000|
+|/players/175305/borja-garcia         |           3|         27.2941|           0.7828|        0.5767|         1.9073|      0.2767|        0.3186|      0.0799| 79.2353|
+|/players/639384/toni-villa           |           3|         17.1321|           1.7459|        0.6002|         1.6399|      0.1864|        0.3167|      0.0825| 66.6122|
+|/players/823658/valentin-castellanos |           5|         22.2149|           0.6343|        0.8678|         2.4398|      0.2706|        0.2343|      0.0841| 85.3830|
+|/players/564847/viktor-tsigankov     |          NA|              NA|               NA|        0.3814|         0.6538|      0.1077|        0.1538|      0.0309| 23.3878|
+|/players/1072200/rodrigo-riquelme    |          NA|              NA|               NA|        0.2010|         0.5695|      0.0371|        0.0373|      0.0155| 10.7647|
+|/players/58294/cristhian-stuani      |          NA|              NA|               NA|        0.3345|         0.5097|      0.1487|        0.1944|      0.0222| 10.7000|
 |/players/205310/alexander-callens    |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  4.6170|
 
 
@@ -144,21 +128,21 @@ ____________________________________________________
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/792303/luis-surez         |           5|         33.1575|           1.3908|        0.2933|         0.8892|      0.0903|        0.0765|      0.0539| 90.0000|
-|/players/482331/adrin-embarba      |           3|         24.3598|           1.3698|        0.2855|         0.7914|      0.0811|        0.0706|      0.0465| 78.6125|
-|/players/787440/lucas-robertone    |           3|         36.2351|           1.0739|        0.1486|         0.4912|      0.0246|        0.0507|      0.0518| 75.9231|
-|/players/358127/leo-baptistao      |           3|         21.8344|           1.0153|        0.2875|         0.8993|      0.1134|        0.1083|      0.0359| 68.6364|
-|/players/617220/gonzalo-melero     |           2|         19.2309|           1.0229|        0.2110|         0.3677|      0.0133|        0.0312|      0.0712| 71.0000|
-|/players/1130583/samu              |           2|         41.9378|           1.4851|        0.3192|         1.3123|      0.1636|        0.1218|      0.0176| 90.0000|
-|/players/713924/sergio-akieme      |           1|         28.1964|           1.3112|        0.5618|         1.4828|      0.1171|        0.0425|      0.1304| 90.0000|
-|/players/540967/srdjan-babic       |           1|         39.7689|           1.1121|        0.2332|         0.7537|      0.1242|        0.1033|      0.0235| 90.0000|
-|/players/902647/juan-brandariz     |           1|         42.4809|           1.0850|        0.2133|         0.5677|      0.0640|        0.1125|      0.0058| 90.0000|
-|/players/764841/houboulang-mendes  |           1|         22.1838|           2.0551|        0.1649|         0.7525|      0.0556|        0.0478|      0.0558| 90.0000|
-|/players/477589/fernando-martinez  |           0|         33.1575|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1054114/el-bilal-tour     |          NA|              NA|               NA|        0.1738|         0.3476|      0.0695|        0.0852|      0.0128| 21.3636|
-|/players/193226/francisco-portillo |          NA|              NA|               NA|        0.0617|         0.0925|      0.0180|        0.0249|      0.0619| 19.0000|
-|/players/361341/dyego-sousa        |          NA|              NA|               NA|        0.2808|         0.8425|      0.0387|        0.0101|      0.0396| 14.0769|
-|/players/785855/alejandro-pozo     |          NA|              NA|               NA|        0.0199|         0.0993|      0.0037|        0.0000|      0.0248| 11.3875|
+|/players/792303/luis-surez         |           5|         18.9291|           0.8743|        0.7106|         1.9662|      0.2520|        0.2172|      0.0274| 90.0000|
+|/players/482331/adrin-embarba      |           3|         19.4927|           1.0679|        0.5761|         1.4366|      0.1657|        0.1240|      0.1039| 78.6125|
+|/players/787440/lucas-robertone    |           3|         28.9953|           0.8371|        0.3000|         0.8916|      0.0503|        0.0891|      0.1160| 75.9231|
+|/players/358127/leo-baptistao      |           3|         17.4719|           0.7915|        0.5801|         1.6325|      0.2318|        0.1903|      0.0803| 68.6364|
+|/players/617220/gonzalo-melero     |           2|         22.7700|           1.6643|        0.1298|         0.2993|      0.0048|        0.0130|      0.0450| 71.0000|
+|/players/1130583/samu              |           2|         49.6557|           2.4165|        0.1964|         1.0683|      0.0584|        0.0509|      0.0111| 90.0000|
+|/players/713924/sergio-akieme      |           1|         34.0678|           1.5663|        0.1816|         0.6357|      0.0399|        0.0218|      0.0820| 90.0000|
+|/players/540967/srdjan-babic       |           1|         48.0500|           1.3285|        0.0754|         0.3231|      0.0423|        0.0530|      0.0148| 90.0000|
+|/players/902647/juan-brandariz     |           1|         51.3268|           1.2961|        0.0690|         0.2434|      0.0218|        0.0578|      0.0037| 90.0000|
+|/players/764841/houboulang-mendes  |           1|         26.8032|           2.4551|        0.0533|         0.3226|      0.0189|        0.0245|      0.0351| 90.0000|
+|/players/477589/fernando-martinez  |           0|         27.4385|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1054114/el-bilal-tour     |          NA|              NA|               NA|        0.1894|         0.3787|      0.0739|        0.0937|      0.0140| 21.3636|
+|/players/193226/francisco-portillo |          NA|              NA|               NA|        0.0672|         0.1008|      0.0192|        0.0274|      0.0674| 19.0000|
+|/players/361341/dyego-sousa        |          NA|              NA|               NA|        0.3060|         0.9179|      0.0412|        0.0111|      0.0431| 14.0769|
+|/players/785855/alejandro-pozo     |          NA|              NA|               NA|        0.0216|         0.1082|      0.0040|        0.0000|      0.0270| 11.3875|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
