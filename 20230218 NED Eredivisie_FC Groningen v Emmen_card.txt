@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-17 14:59:37.655"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: FC Groningen 1.2978 to Emmen 1.6215"
+[1] "Total: 2.9193"
+[1] "FC Groningen %: 30.17"
+[1] "Draw %: 25.06"
+[1] "Emmen %: 44.77"
+[1] "--XG Model--"
+[1] "Score: FC Groningen 1.3058 to Emmen 1.5079"
+[1] "Total: 2.8137"
+[1] "FC Groningen %: 33.69"
+[1] "Draw %: 25.31"
+[1] "Emmen %: 41"
+[1] "--XGoT Model--"
+[1] "Score: FC Groningen 1.4104 to Emmen 1.592"
+[1] "Total: 3.0024"
+[1] "FC Groningen %: 33.63"
+[1] "Draw %: 24.31"
+[1] "Emmen %: 42.06"
+[1] "--XA Model--"
+[1] "Score: FC Groningen 1.5682 to Emmen 1.5111"
+[1] "Total: 3.0793"
+[1] "FC Groningen %: 39.23"
+[1] "Draw %: 23.8"
+[1] "Emmen %: 36.97"
+[1] "--Mean 4 Models--"
+[1] "FC Groningen has a mean win % of 34.18%; a min win % of 30.17%; a max win % of 39.23%."
+[1] "Draw has a mean win % of 24.62%; a min win % of 23.8%; a max win % of 25.31%."
+[1] "Emmen has a mean win % of 41.2%; a min win % of 36.97%; a max win of % 44.77%."
+[1] "FC Groningen has a mean win of the Double Chance of 58.8%; a min win % of 55.23%, a max win % of 63.03%."
+[1] "Emmen has a mean win of the Double Chance of 65.82%; a min win % of 60.77%, a max win % of 69.83%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.98%; max % is 58.74 and min % is 52.3%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.02%; max % is 47.7 and min % is 41.26%."
+[1] "--Sportsbook Odds--"
+[1] "FC Groningen Barstool Odds are: 45.45"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Emmen Barstool Odds are: 31.25"
+[1] "FC Groningen Adjusted Barstool Odds are: 42.477"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.318"
+[1] "Emmen Adjusted Barstool Odds are: 29.206"
+[1] "FC Groningen's Barstool Odds to cover the 0.5 spread are: 72.46"
+[1] "Emmen's Barstool Odds to cover the -0.5 spread are: 31.75"
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.73, which is a 57.8% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                      bet           date_time
+1                   Emmen 2023-02-18 09:45:00
+2 over FC Groningen/Emmen 2023-02-18 09:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team         | expected_attg| expected_gs|bet |
+|:--------------------------------------|:------------|-------------:|-----------:|:---|
+|/players/564585/michael-verrips        |FC Groningen |      0.000000|   0.2702703|    |
+|/players/496565/damil-dankerlui        |FC Groningen |      0.012725|   0.1428571|    |
+|/players/957358/radinio-balker         |FC Groningen |      0.099650|   0.0666667|    |
+|/players/1256173/thijmen-blokzijl      |FC Groningen |      0.013425|   0.0666667|    |
+|/players/1037037/isak-dybvik           |FC Groningen |      0.013700|   0.1176471|    |
+|/players/1127054/tomas-suslov          |FC Groningen |      0.072425|   0.3030303|    |
+|/players/248151/joey-pelupessy         |FC Groningen |      0.006850|   0.0833333|    |
+|/players/741431/johan-hove             |FC Groningen |      0.192900|   0.2380952|    |
+|/players/240346/elvis-manu             |FC Groningen |      0.458150|   0.2857143|*   |
+|/players/1036401/ricardo-pepi          |FC Groningen |      0.159800|   0.3571429|    |
+|/players/794072/daleho-irandust        |FC Groningen |      0.025250|   0.1694915|    |
+|/players/412708/richairo-zivkovic      |Emmen        |      0.407900|   0.2631579|*   |
+|/players/1210947/jeremy-antonisse      |Emmen        |      0.157250|   0.2380952|    |
+|/players/351898/mark-diemers           |Emmen        |      0.159875|   0.2272727|    |
+|/players/513810/ahmed-el-messaoudi     |Emmen        |      0.098125|   0.1754386|    |
+|/players/721942/keziah-veendorp        |Emmen        |      0.097025|   0.0400000|*   |
+|/players/1170864/lucas-bernadou        |Emmen        |      0.096525|   0.1538462|    |
+|/players/1065453/mohamed-bouchouari    |Emmen        |      0.055825|   0.0588235|    |
+|/players/213167/mike-te-wierik         |Emmen        |      0.041250|   0.0500000|    |
+|/players/427202/miguel-araujo          |Emmen        |      0.041150|   0.1333333|    |
+|/players/1218553/julius-dirksen        |Emmen        |      0.041525|   0.0588235|    |
+|/players/352365/mickey-van-der-hart    |Emmen        |      0.000000|   0.0833333|    |
+|/players/1042511/aimar-sher            |FC Groningen |      0.000000|   0.1000000|    |
+|/players/1021082/oliver-antman         |FC Groningen |      0.056150|   0.2500000|    |
+|/players/665165/ramon-pascal-lundqvist |FC Groningen |      0.007700|   0.2173913|    |
+|/players/988082/florian-krger          |FC Groningen |      0.001825|   0.2702703|    |
+|/players/915365/ole-ter-haar-romeny    |Emmen        |      0.039025|   0.2564103|    |
+|/players/143512/danny-hoesen           |Emmen        |      0.071825|   0.2222222|    |
+|/players/954156/jasin-assenhoun        |Emmen        |      0.001325|   0.2380952|    |
+|/players/424128/michael-heylen         |Emmen        |      0.000000|   0.0400000|    |
+____________________________________________________
+
+[1] "Facts about FC Groningen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/564585/michael-verrips        |           0|         34.1867|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|   90.00|
+|/players/496565/damil-dankerlui        |           1|         42.8040|           2.3412|        0.1199|         0.7425|      0.0428|        0.0139|      0.0773|   90.00|
+|/players/957358/radinio-balker         |           1|         45.9844|           1.6409|        0.1564|         0.5846|      0.0466|        0.1081|      0.0139|   78.00|
+|/players/1256173/thijmen-blokzijl      |           1|         51.8802|           0.9685|        0.1199|         0.2218|      0.0340|        0.0139|      0.1198|   90.00|
+|/players/1037037/isak-dybvik           |           1|         35.1655|           1.4673|        0.1199|         0.4705|      0.0515|        0.0139|      0.0531|   90.00|
+|/players/1127054/tomas-suslov          |           3|         26.5877|           1.9022|        0.3787|         1.2979|      0.0827|        0.0762|      0.1461|   76.96|
+|/players/248151/joey-pelupessy         |           3|         42.1400|           2.1112|        0.0620|         0.3591|      0.0188|        0.0065|      0.0123|   90.00|
+|/players/741431/johan-hove             |           3|         50.8837|           1.7660|        0.5007|         1.5629|      0.1931|        0.2134|      0.1324|   90.00|
+|/players/240346/elvis-manu             |           5|          8.5032|           0.5975|        1.0528|         2.1525|      0.4733|        0.6173|      0.0122|   72.00|
+|/players/1036401/ricardo-pepi          |           5|         21.9044|           0.7468|        0.7568|         2.6930|      0.1968|        0.1777|      0.2444|   90.00|
+|/players/794072/daleho-irandust        |           5|         32.1529|           1.7208|        0.1755|         0.8072|      0.0185|        0.0257|      0.1284|   76.00|
+|/players/1042511/aimar-sher            |          NA|              NA|               NA|        0.0000|         0.1649|      0.0025|        0.0000|      0.0323|   18.00|
+|/players/1021082/oliver-antman         |          NA|              NA|               NA|        0.4225|         0.9100|      0.0455|        0.0626|      0.1070|   14.00|
+|/players/665165/ramon-pascal-lundqvist |          NA|              NA|               NA|        0.0501|         0.4007|      0.0140|        0.0064|      0.0411|   13.04|
+|/players/988082/florian-krger          |          NA|              NA|               NA|        0.0704|         0.2465|      0.0129|        0.0020|      0.0196|   12.00|
+
+
+|manager_name       | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Dennis van der Ree |         6930|     -14.18857|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Emmen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/412708/richairo-zivkovic   |           5|         12.5344|           1.1464|        0.6907|         1.6257|      0.0989|        0.5084|      0.0504| 79.9500|
+|/players/1210947/jeremy-antonisse   |           5|         19.6892|           0.7921|        0.6850|         2.0198|      0.5261|        0.1668|      0.0510| 72.0455|
+|/players/351898/mark-diemers        |           5|         39.8731|           1.3102|        0.9568|         2.3741|      0.0810|        0.1668|      0.2998| 90.0000|
+|/players/513810/ahmed-el-messaoudi  |           3|         33.7079|           1.4047|        0.3705|         2.6846|      0.2812|        0.1011|      0.0682| 90.0000|
+|/players/721942/keziah-veendorp     |           3|         51.6393|           1.9835|        0.3705|         0.6065|      0.0307|        0.1011|      0.1826| 90.0000|
+|/players/1170864/lucas-bernadou     |           3|         46.6840|           2.5125|        0.3288|         0.3033|      0.0114|        0.1011|      0.0744| 79.8889|
+|/players/1065453/mohamed-bouchouari |           1|         39.5301|           1.8730|        0.1916|         1.0999|      0.0639|        0.0556|      0.1368| 90.0000|
+|/players/213167/mike-te-wierik      |           1|         48.8084|           1.1969|        0.1331|         0.1171|      0.0182|        0.0419|      0.0146| 90.0000|
+|/players/427202/miguel-araujo       |           1|         63.7413|           0.9933|        0.1331|         0.4910|      0.0949|        0.0419|      0.0243| 90.0000|
+|/players/1218553/julius-dirksen     |           1|         43.8170|           2.5934|        0.1197|         0.3712|      0.0268|        0.0419|      0.0821| 81.0000|
+|/players/352365/mickey-van-der-hart |           0|         28.8624|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/915365/ole-ter-haar-romeny |          NA|              NA|               NA|        0.2552|         0.6125|      0.0466|        0.0403|      0.0114| 17.9545|
+|/players/143512/danny-hoesen        |          NA|              NA|               NA|        0.3692|         0.8616|      0.0651|        0.0702|      0.0026| 10.1111|
+|/players/954156/jasin-assenhoun     |          NA|              NA|               NA|        0.1312|         0.3936|      0.0092|        0.0013|      0.0420| 10.0500|
+|/players/424128/michael-heylen      |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0018|  9.0000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Dick Lukkien |        53181|     -9.840725|4-2-3-1   |
