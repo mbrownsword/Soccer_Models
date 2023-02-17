@@ -1,0 +1,147 @@
+[1] "Updated at 2023-02-17 14:42:06.036"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Sampdoria 1.1003 to Bologna 1.4352"
+[1] "Total: 2.5355"
+[1] "Sampdoria %: 29.86"
+[1] "Draw %: 26.12"
+[1] "Bologna %: 44.02"
+[1] "--XG Model--"
+[1] "Score: Sampdoria 1.1148 to Bologna 1.5678"
+[1] "Total: 2.6826"
+[1] "Sampdoria %: 27.47"
+[1] "Draw %: 25.52"
+[1] "Bologna %: 47.01"
+[1] "--XGoT Model--"
+[1] "Score: Sampdoria 1.1499 to Bologna 1.4654"
+[1] "Total: 2.6153"
+[1] "Sampdoria %: 30.07"
+[1] "Draw %: 25.97"
+[1] "Bologna %: 43.96"
+[1] "--XA Model--"
+[1] "Score: Sampdoria 1.1918 to Bologna 1.4997"
+[1] "Total: 2.6915"
+[1] "Sampdoria %: 30.28"
+[1] "Draw %: 26.11"
+[1] "Bologna %: 43.61"
+[1] "--Mean 4 Models--"
+[1] "Sampdoria has a mean win % of 29.42%; a min win % of 27.47%; a max win % of 30.28%."
+[1] "Draw has a mean win % of 25.93%; a min win % of 25.52%; a max win % of 26.12%."
+[1] "Bologna has a mean win % of 44.65%; a min win % of 43.61%; a max win of % 47.01%."
+[1] "Sampdoria has a mean win of the Double Chance of 55.35%; a min win % of 52.99%, a max win % of 56.39%."
+[1] "Bologna has a mean win of the Double Chance of 70.58%; a min win % of 69.72%, a max win % of 72.53%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.46%; max % is 50.04 and min % is 46.24%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.53%; max % is 53.76 and min % is 49.96%."
+[1] "--Sportsbook Odds--"
+[1] "Sampdoria Barstool Odds are: 31.25"
+[1] "The Barstool Odds of a Draw are: 32.26"
+[1] "Bologna Barstool Odds are: 42.11"
+[1] "Sampdoria Adjusted Barstool Odds are: 29.587"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.543"
+[1] "Bologna Adjusted Barstool Odds are: 39.869"
+[1] "Sampdoria's Barstool Odds to cover the 0.5 spread are: 62.11"
+[1] "Bologna's Barstool Odds to cover the -0.5 spread are: 42.55"
+[1] "Barstool's line for the total is 2.5 at 2.32, which is a 43.1% chance of the over 2.5 hitting. The line for the under is 1.61, which is a 62.11% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                     bet           date_time
+1                Bologna 2023-02-18 06:00:00
+2 over Sampdoria/Bologna 2023-02-18 06:00:00
+
+
+|player          |team | number|  odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_shots| prob_sogs| prob_goals| prob_ast|
+|:---------------|:----|------:|-----:|-----------:|-------:|--------:|:---------|:---------|----------:|---------:|----------:|--------:|
+|Roberto Soriano |BOL  |      2|  5.10|          NA|  0.4560|   0.2599|shots     |ITA Italy |     0.1961|        NA|         NA|       NA|
+|Roberto Soriano |BOL  |      3| 14.75|          NA|  0.2423|   0.1745|shots     |ITA Italy |     0.0678|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team      | expected_attg| expected_gs|bet |
+|:---------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/602845/emil-audero             |Sampdoria |      0.000000|   0.1111111|    |
+|/players/301456/jeison-murillo          |Sampdoria |      0.059250|   0.0714286|    |
+|/players/178758/bram-nuytinck           |Sampdoria |      0.038425|   0.0714286|    |
+|/players/1192255/bruno-amione           |Sampdoria |      0.005800|   0.0454545|    |
+|/players/916710/alessandro-zanoli       |Sampdoria |      0.011225|   0.0250000|    |
+|/players/861445/michal-cuisance         |Sampdoria |      0.078600|   0.1052632|    |
+|/players/528453/harry-winks             |Sampdoria |      0.011900|   0.1000000|    |
+|/players/693160/tommaso-augello         |Sampdoria |      0.079350|   0.0666667|    |
+|/players/178538/filip-djuricic          |Sampdoria |      0.104825|   0.1754386|    |
+|/players/172899/manolo-gabbiadini       |Sampdoria |      0.249800|   0.2631579|    |
+|/players/665164/sam-lammers             |Sampdoria |      0.157975|   0.2564103|    |
+|/players/181995/roberto-soriano         |Bologna   |      0.327450|   0.2000000|*   |
+|/players/888921/lewis-ferguson          |Bologna   |      0.271425|   0.3225806|    |
+|/players/661761/riccardo-orsolini       |Bologna   |      0.242825|   0.2702703|    |
+|/players/827315/nicols-dominguez        |Bologna   |      0.036125|   0.1250000|    |
+|/players/518633/giorgos-kyriakopoulos   |Bologna   |      0.082625|   0.1428571|    |
+|/players/49970/gary-medel               |Bologna   |      0.083450|   0.0833333|    |
+|/players/1209586/joaquin-sosa           |Bologna   |      0.003825|   0.0625000|    |
+|/players/557325/stefan-posch            |Bologna   |      0.085375|   0.0666667|    |
+|/players/860913/jhon-lucumi             |Bologna   |      0.024950|   0.0333333|    |
+|/players/1078846/andrea-cambiaso        |Bologna   |      0.004800|   0.0666667|    |
+|/players/178732/lukasz-skorupski        |Bologna   |      0.000000|   0.3571429|    |
+|/players/39540/fabio-quagliarella       |Sampdoria |      0.096825|   0.3448276|    |
+|/players/52243/tomas-rincon             |Sampdoria |      0.021975|   0.0555556|    |
+|/players/281760/nicola-murru            |Sampdoria |      0.044725|   0.0250000|    |
+|/players/769644/abdelhamid-sabiri       |Sampdoria |      0.047550|   0.1886792|    |
+|/players/792756/michel-aebischer        |Bologna   |      0.000300|   0.1250000|    |
+|/players/910699/musa-barrow             |Bologna   |      0.058100|   0.2500000|    |
+|/players/25587/lorenzo-de-silvestri     |Bologna   |      0.011200|   0.1176471|    |
+|/players/395914/charalambos-lykogiannis |Bologna   |      0.003025|   0.1052632|    |
+____________________________________________________
+
+[1] "Facts about Sampdoria:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/602845/emil-audero       |           0|         29.3121|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/301456/jeison-murillo    |           1|         48.9052|           1.1591|        0.1635|         0.5886|      0.0396|        0.0656|      0.0198| 90.0000|
+|/players/178758/bram-nuytinck     |           1|         42.9883|           1.2577|        0.0704|         0.3931|      0.0446|        0.0461|      0.0104| 90.0000|
+|/players/1192255/bruno-amione     |           1|         39.0288|           1.5740|        0.1919|         0.5955|      0.0614|        0.0061|      0.0486| 90.0000|
+|/players/916710/alessandro-zanoli |           3|         21.7687|           1.2712|        0.1556|         0.5819|      0.0319|        0.0132|      0.0690| 90.0000|
+|/players/861445/michal-cuisance   |           3|         27.2315|           2.4133|        0.2466|         1.2704|      0.0878|        0.0909|      0.0358| 71.5000|
+|/players/528453/harry-winks       |           3|         54.0804|           2.3851|        0.1556|         0.6969|      0.0482|        0.0132|      0.0969| 90.0000|
+|/players/693160/tommaso-augello   |           3|         32.8255|           1.2712|        0.2598|         0.5819|      0.0319|        0.0908|      0.1145| 90.0000|
+|/players/178538/filip-djuricic    |           4|         24.6573|           1.1213|        0.4106|         1.1789|      0.1039|        0.1122|      0.0864| 68.2857|
+|/players/172899/manolo-gabbiadini |           5|         17.8824|           0.3070|        0.8615|         2.3052|      0.2761|        0.3163|      0.0842| 75.2222|
+|/players/665164/sam-lammers       |           5|         17.5368|           0.6998|        0.5119|         1.5497|      0.2122|        0.1904|      0.0467| 73.1765|
+|/players/39540/fabio-quagliarella |          NA|              NA|               NA|        0.2687|         0.9675|      0.1757|        0.1090|      0.0308| 21.7143|
+|/players/52243/tomas-rincon       |          NA|              NA|               NA|        0.0362|         0.1447|      0.0170|        0.0249|      0.0028| 18.5000|
+|/players/281760/nicola-murru      |          NA|              NA|               NA|        0.0316|         0.0947|      0.0074|        0.0529|      0.0152| 16.8235|
+|/players/769644/abdelhamid-sabiri |          NA|              NA|               NA|        0.1768|         0.5303|      0.0129|        0.0544|      0.0173| 14.7778|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Dejan Stankovic |        12818|        -13.84|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about Bologna:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/181995/roberto-soriano         |           5|         21.8007|           0.5256|        1.0364|         2.4992|      0.4017|        0.3847|      0.0929| 90.0000|
+|/players/888921/lewis-ferguson          |           3|         35.4564|           1.0409|        1.0124|         2.3344|      0.3272|        0.3128|      0.1047| 90.0000|
+|/players/661761/riccardo-orsolini       |           3|         19.7784|           0.8177|        0.7389|         2.1733|      0.2707|        0.2804|      0.1408| 75.4792|
+|/players/827315/nicols-dominguez        |           3|         32.7755|           1.7180|        0.2150|         0.8376|      0.0483|        0.0368|      0.1332| 81.3030|
+|/players/518633/giorgos-kyriakopoulos   |           2|         45.5633|           1.8063|        0.5006|         1.7464|      0.1695|        0.0875|      0.1281| 90.0000|
+|/players/49970/gary-medel               |           2|         46.2365|           2.1428|        0.0597|         0.3459|      0.0190|        0.0875|      0.0266| 78.4118|
+|/players/1209586/joaquin-sosa           |           1|         45.8695|           0.6838|        0.0944|         0.4405|      0.0127|        0.0043|      0.0095| 90.0000|
+|/players/557325/stefan-posch            |           1|         52.7958|           1.9082|        0.2258|         0.7777|      0.0740|        0.0851|      0.0687| 90.0000|
+|/players/860913/jhon-lucumi             |           1|         56.9287|           1.6129|        0.1159|         0.3074|      0.0383|        0.0246|      0.0471| 90.0000|
+|/players/1078846/andrea-cambiaso        |           1|         34.9543|           2.0299|        0.0859|         0.4129|      0.0375|        0.0043|      0.1165| 81.9375|
+|/players/178732/lukasz-skorupski        |           0|         27.9494|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/792756/michel-aebischer        |          NA|              NA|               NA|        0.0179|         0.1790|      0.0113|        0.0004|      0.0093| 14.5208|
+|/players/910699/musa-barrow             |          NA|              NA|               NA|        0.1468|         0.4892|      0.0577|        0.0615|      0.0364| 11.5882|
+|/players/25587/lorenzo-de-silvestri     |          NA|              NA|               NA|        0.0198|         0.0593|      0.0084|        0.0124|      0.0045|  8.6970|
+|/players/395914/charalambos-lykogiannis |          NA|              NA|               NA|        0.0149|         0.0745|      0.0111|        0.0029|      0.0047|  8.0625|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Thiago Motta |        52377|     -11.33679|4-2-3-1   |
