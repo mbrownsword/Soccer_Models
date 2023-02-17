@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 14:19:35.131"
+[1] "Updated at 2023-02-17 15:31:14.859"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Sydney FC 1.5917 to Brisbane Roar 1.2575"
-[1] "Total: 2.8492"
-[1] "Sydney FC %: 45.37"
-[1] "Draw %: 24.33"
-[1] "Brisbane Roar %: 30.3"
-[1] "--XG Model--"
-[1] "Score: Sydney FC 1.6604 to Brisbane Roar 0.9843"
-[1] "Total: 2.6447"
-[1] "Sydney FC %: 53.51"
-[1] "Draw %: 24.02"
-[1] "Brisbane Roar %: 22.47"
-[1] "--XGoT Model--"
-[1] "Score: Sydney FC 1.7529 to Brisbane Roar 0.9911"
+[1] "Score: Sydney FC 1.6189 to Brisbane Roar 1.1251"
 [1] "Total: 2.744"
-[1] "Sydney FC %: 55.8"
-[1] "Draw %: 23.08"
-[1] "Brisbane Roar %: 21.12"
+[1] "Sydney FC %: 49.45"
+[1] "Draw %: 24.23"
+[1] "Brisbane Roar %: 26.32"
+[1] "--XG Model--"
+[1] "Score: Sydney FC 1.749 to Brisbane Roar 0.9291"
+[1] "Total: 2.6781"
+[1] "Sydney FC %: 56.95"
+[1] "Draw %: 23.63"
+[1] "Brisbane Roar %: 19.42"
+[1] "--XGoT Model--"
+[1] "Score: Sydney FC 1.7993 to Brisbane Roar 0.975"
+[1] "Total: 2.7743"
+[1] "Sydney FC %: 56.81"
+[1] "Draw %: 22.84"
+[1] "Brisbane Roar %: 20.35"
 [1] "--XA Model--"
-[1] "Score: Sydney FC 1.7601 to Brisbane Roar 1.2561"
-[1] "Total: 3.0162"
-[1] "Sydney FC %: 49.48"
-[1] "Draw %: 23.9"
-[1] "Brisbane Roar %: 26.62"
+[1] "Score: Sydney FC 1.7304 to Brisbane Roar 1.2396"
+[1] "Total: 2.97"
+[1] "Sydney FC %: 49.19"
+[1] "Draw %: 24.06"
+[1] "Brisbane Roar %: 26.75"
 [1] "--Mean 4 Models--"
-[1] "Sydney FC has a mean win % of 51.04%; a min win % of 45.37%; a max win % of 55.8%."
-[1] "Draw has a mean win % of 23.83%; a min win % of 23.08%; a max win % of 24.33%."
-[1] "Brisbane Roar has a mean win % of 25.13%; a min win % of 21.12%; a max win of % 30.3%."
-[1] "Sydney FC has a mean win of the Double Chance of 74.87%; a min win % of 69.7%, a max win % of 78.88%."
-[1] "Brisbane Roar has a mean win of the Double Chance of 48.96%; a min win % of 44.2%, a max win % of 54.63%."
-[1] "The mean likelihood that there are more than 2.5 goals is 52.57%; max % is 57.29 and min % is 48.53%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 47.43%; max % is 51.47 and min % is 42.71%."
+[1] "Sydney FC has a mean win % of 53.1%; a min win % of 49.19%; a max win % of 56.95%."
+[1] "Draw has a mean win % of 23.69%; a min win % of 22.84%; a max win % of 24.23%."
+[1] "Brisbane Roar has a mean win % of 23.21%; a min win % of 19.42%; a max win of % 26.75%."
+[1] "Sydney FC has a mean win of the Double Chance of 76.79%; a min win % of 73.25%, a max win % of 80.58%."
+[1] "Brisbane Roar has a mean win of the Double Chance of 46.9%; a min win % of 43.05%, a max win % of 50.81%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.91%; max % is 56.26 and min % is 49.19%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.09%; max % is 50.81 and min % is 43.74%."
 [1] "--Sportsbook Odds--"
 [1] "Sydney FC Barstool Odds are: 52.38"
 [1] "The Barstool Odds of a Draw are: 28.57"
@@ -53,35 +53,35 @@
 |pageUrl2                                 |team          | expected_attg| expected_gs|bet |
 |:----------------------------------------|:-------------|-------------:|-----------:|:---|
 |/players/110616/andrew-redmayne          |Sydney FC     |      0.000000|   0.2325581|    |
-|/players/1017151/joel-king               |Sydney FC     |      0.007400|   0.0384615|    |
-|/players/47151/alex-wilkinson            |Sydney FC     |      0.030300|   0.0384615|    |
-|/players/311809/james-donachie           |Sydney FC     |      0.015925|   0.0555556|    |
-|/players/161657/rhyan-grant              |Sydney FC     |      0.125175|   0.0555556|*   |
-|/players/590367/max-burgess              |Sydney FC     |      0.246100|   0.2941176|    |
-|/players/1235411/patrick-yazbek          |Sydney FC     |      0.046300|   0.1052632|    |
-|/players/426140/paulo-retre              |Sydney FC     |      0.110925|   0.1923077|    |
-|/players/318866/anthony-caceres          |Sydney FC     |      0.209900|   0.1923077|    |
+|/players/1017151/joel-king               |Sydney FC     |      0.008375|   0.0384615|    |
+|/players/47151/alex-wilkinson            |Sydney FC     |      0.031225|   0.0384615|    |
+|/players/311809/james-donachie           |Sydney FC     |      0.014500|   0.0555556|    |
+|/players/161657/rhyan-grant              |Sydney FC     |      0.124200|   0.0555556|*   |
+|/players/590367/max-burgess              |Sydney FC     |      0.228400|   0.2941176|    |
+|/players/1235411/patrick-yazbek          |Sydney FC     |      0.046450|   0.1052632|    |
+|/players/426140/paulo-retre              |Sydney FC     |      0.111650|   0.1923077|    |
+|/players/318866/anthony-caceres          |Sydney FC     |      0.212200|   0.1923077|    |
 |/players/24952/adam-le-fondre            |Sydney FC     |      0.453625|   0.0322581|*   |
 |/players/24952/adam-le-fondre            |Sydney FC     |      0.453625|   0.0322581|*   |
 |/players/750901/jordan-holmes            |Brisbane Roar |      0.000000|   0.0714286|    |
-|/players/184449/tom-aldred               |Brisbane Roar |      0.009575|   0.0400000|    |
-|/players/1101030/kai-trewin              |Brisbane Roar |      0.003000|   0.0526316|    |
-|/players/162134/scott-neville            |Brisbane Roar |      0.022725|   0.0400000|    |
-|/players/1110665/noah-smith              |Brisbane Roar |      0.050900|   0.0526316|    |
-|/players/180096/jack-hingert             |Brisbane Roar |      0.003675|   0.0952381|    |
-|/players/1101031/jordan-courtney-perkins |Brisbane Roar |      0.007600|   0.0952381|    |
-|/players/799052/nikola-mileusnic         |Brisbane Roar |      0.122875|   0.2380952|    |
-|/players/1312753/henry-hore              |Brisbane Roar |      0.249200|   0.1694915|*   |
-|/players/75688/jay-oshea                 |Brisbane Roar |      0.066050|   0.1694915|    |
-|/players/886617/rahmat-akbari            |Brisbane Roar |      0.328175|   0.1428571|*   |
-|/players/471149/joe-lolley               |Sydney FC     |      0.022175|   0.2941176|    |
-|/players/1208173/patrick-wood            |Sydney FC     |      0.060500|   0.3333333|    |
-|/players/590367/max-burgess              |Sydney FC     |      0.246100|   0.2941176|    |
-|/players/1219866/alex-parsons            |Sydney FC     |      0.034275|   0.1923077|    |
-|/players/494571/josh-brindell-south      |Brisbane Roar |      0.023675|   0.0526316|    |
-|/players/971570/carlo-armiento           |Brisbane Roar |      0.031725|   0.2173913|    |
-|/players/460620/marcel-canadi            |Brisbane Roar |      0.004725|   0.1694915|    |
-|/players/886617/rahmat-akbari            |Brisbane Roar |      0.328175|   0.1428571|*   |
+|/players/184449/tom-aldred               |Brisbane Roar |      0.009225|   0.0384615|    |
+|/players/1101030/kai-trewin              |Brisbane Roar |      0.002775|   0.0500000|    |
+|/players/162134/scott-neville            |Brisbane Roar |      0.022300|   0.0384615|    |
+|/players/1110665/noah-smith              |Brisbane Roar |      0.048225|   0.0500000|    |
+|/players/180096/jack-hingert             |Brisbane Roar |      0.003700|   0.0909091|    |
+|/players/1101031/jordan-courtney-perkins |Brisbane Roar |      0.007175|   0.0909091|    |
+|/players/799052/nikola-mileusnic         |Brisbane Roar |      0.120125|   0.2272727|    |
+|/players/1312753/henry-hore              |Brisbane Roar |      0.238600|   0.1666667|*   |
+|/players/75688/jay-oshea                 |Brisbane Roar |      0.063900|   0.1666667|    |
+|/players/886617/rahmat-akbari            |Brisbane Roar |      0.319375|   0.1333333|*   |
+|/players/471149/joe-lolley               |Sydney FC     |      0.029625|   0.2941176|    |
+|/players/1265460/adrian-segecic          |Sydney FC     |      0.079400|   0.2500000|    |
+|/players/1208173/patrick-wood            |Sydney FC     |      0.056925|   0.3389831|    |
+|/players/1219866/alex-parsons            |Sydney FC     |      0.002275|   0.1923077|    |
+|/players/494571/josh-brindell-south      |Brisbane Roar |      0.044100|   0.0500000|    |
+|/players/1169230/taras-gomulka           |Brisbane Roar |      0.000000|   0.0625000|    |
+|/players/1329010/louis-zabala            |Brisbane Roar |      0.000000|   0.0909091|    |
+|/players/951753/jez-lofthouse            |Brisbane Roar |      0.000000|   0.1428571|    |
 ____________________________________________________
 
 [1] "Facts about Sydney FC:"
@@ -101,10 +101,10 @@ ____________________________________________________
 |/players/318866/anthony-caceres |           3|         46.6620|           2.2587|        0.5306|         1.8820|      0.2345|        0.2818|      0.2860| 90.0000|
 |/players/24952/adam-le-fondre   |           5|         23.1875|           0.8104|        1.0597|         2.5430|      0.3122|        0.3487|      0.1424| 81.1857|
 |/players/24952/adam-le-fondre   |           5|         23.1875|           0.8104|        1.0597|         2.5430|      0.3122|        0.3487|      0.1424| 81.1857|
-|/players/471149/joe-lolley      |           0|              NA|               NA|        0.1353|         0.9245|      0.0353|        0.0257|      0.0405| 13.1429|
-|/players/1208173/patrick-wood   |           0|              NA|               NA|        0.2412|         0.6308|      0.0960|        0.0717|      0.0137|  8.8143|
-|/players/590367/max-burgess     |           0|              NA|               NA|        0.0699|         0.2795|      0.0205|        0.0205|      0.0501|  8.8143|
-|/players/1219866/alex-parsons   |           0|              NA|               NA|        0.1801|         0.5402|      0.0208|        0.0417|      0.0123|  8.7222|
+|/players/471149/joe-lolley      |           0|              NA|               NA|        0.1215|         1.1540|      0.0623|        0.0357|      0.0462| 13.1429|
+|/players/1265460/adrian-segecic |           0|              NA|               NA|        0.2349|         0.5872|      0.0782|        0.0972|      0.0288|  8.8143|
+|/players/1208173/patrick-wood   |           0|              NA|               NA|        0.2692|         0.7404|      0.1109|        0.0699|      0.0091|  8.8143|
+|/players/1219866/alex-parsons   |           0|              NA|               NA|        0.0950|         0.2850|      0.0097|        0.0031|      0.0028|  8.7222|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -129,10 +129,10 @@ ____________________________________________________
 |/players/1312753/henry-hore              |           4|         24.7535|           1.3725|        0.7557|         1.9101|      0.2537|        0.2804|      0.0417| 90.0000|
 |/players/75688/jay-oshea                 |           4|         36.0893|           1.3725|        0.7557|         1.9101|      0.0737|        0.0647|      0.2027| 90.0000|
 |/players/886617/rahmat-akbari            |           5|         18.4999|           0.5967|        0.7292|         1.9895|      0.3227|        0.3893|      0.0493| 75.0000|
-|/players/494571/josh-brindell-south      |           0|              NA|               NA|        0.0518|         0.2074|      0.0094|        0.0236|      0.0902| 20.2000|
-|/players/971570/carlo-armiento           |           0|              NA|               NA|        0.4152|         0.8303|      0.0249|        0.0335|      0.0400| 15.0000|
-|/players/460620/marcel-canadi            |           0|              NA|               NA|        0.0307|         0.3689|      0.0373|        0.0041|      0.0186| 11.7333|
-|/players/886617/rahmat-akbari            |           0|              NA|               NA|        0.0265|         0.0796|      0.0030|        0.0007|      0.0134|  8.0286|
+|/players/494571/josh-brindell-south      |           0|              NA|               NA|        0.1008|         0.2016|      0.0088|        0.0459|      0.1078| 20.2000|
+|/players/1169230/taras-gomulka           |           0|              NA|               NA|        0.0000|         0.0921|      0.0020|        0.0000|      0.0120| 15.0000|
+|/players/1329010/louis-zabala            |           0|              NA|               NA|        0.0000|         0.1709|      0.0025|        0.0000|      0.0094| 11.7333|
+|/players/951753/jez-lofthouse            |           0|              NA|               NA|        0.0000|         0.1368|      0.0060|        0.0000|      0.0164|  8.0286|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
