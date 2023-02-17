@@ -1,0 +1,95 @@
+[1] "Updated at 2023-02-17 09:19:34.657"
+[1] "_____________________________________________________________________"
+  bet           date_time
+1     2023-02-17 09:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team                 | expected_attg| expected_gs|bet |
+|:------------------------------------|:--------------------|-------------:|-----------:|:---|
+|/players/556503/jannik-huth          |SC Paderborn         |            NA|   0.1000000|NA  |
+|/players/1036220/jannis-heuer        |SC Paderborn         |            NA|   0.1000000|NA  |
+|/players/932852/tobias-mller         |SC Paderborn         |            NA|   0.0666667|NA  |
+|/players/35708/uwe-hnemeier          |SC Paderborn         |            NA|   0.0769231|NA  |
+|/players/970587/marcel-hoffmeier     |SC Paderborn         |            NA|   0.1111111|NA  |
+|/players/848666/florent-muslija      |SC Paderborn         |            NA|   0.2702703|NA  |
+|/players/820974/ron-schallenberg     |SC Paderborn         |            NA|   0.1176471|NA  |
+|/players/801003/julian-justvan       |SC Paderborn         |            NA|   0.2702703|NA  |
+|/players/784225/raphael-obermair     |SC Paderborn         |            NA|   0.1111111|NA  |
+|/players/330646/robert-leipertz      |SC Paderborn         |            NA|   0.3225806|NA  |
+|/players/956913/marvin-pieringer     |SC Paderborn         |            NA|   0.3448276|NA  |
+|/players/293560/terrence-boyd        |1. FC Kaiserslautern |            NA|   0.3225806|NA  |
+|/players/267993/philipp-klement      |1. FC Kaiserslautern |            NA|   0.1923077|NA  |
+|/players/276656/ben-zolinski         |1. FC Kaiserslautern |            NA|   0.2083333|NA  |
+|/players/343797/hendrick-zuck        |1. FC Kaiserslautern |            NA|   0.0666667|NA  |
+|/players/616917/nicolai-rapp         |1. FC Kaiserslautern |            NA|   0.0769231|NA  |
+|/players/553556/marlon-ritter        |1. FC Kaiserslautern |            NA|   0.2040816|NA  |
+|/players/488564/jean-zimmer          |1. FC Kaiserslautern |            NA|   0.0909091|NA  |
+|/players/725729/robin-bormuth        |1. FC Kaiserslautern |            NA|   0.0769231|NA  |
+|/players/239559/kevin-kraus          |1. FC Kaiserslautern |            NA|   0.0833333|NA  |
+|/players/860609/boris-tomiak         |1. FC Kaiserslautern |            NA|   0.0909091|NA  |
+|/players/178771/andreas-luthe        |1. FC Kaiserslautern |            NA|   0.3389831|NA  |
+|/players/522139/dennis-srbeny        |SC Paderborn         |            NA|   0.0000000|NA  |
+|/players/554531/marco-schuster       |SC Paderborn         |            NA|   0.0000000|NA  |
+|/players/673432/sirlord-conteh       |SC Paderborn         |            NA|   0.0000000|NA  |
+|/players/614212/felix-platte         |SC Paderborn         |            NA|   0.0000000|NA  |
+|/players/181197/nicolas-de-prville   |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
+|/players/459002/kenny-prince-redondo |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
+|/players/820748/aaron-opoku          |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
+|/players/657504/philipp-hercher      |1. FC Kaiserslautern |            NA|   0.0000000|NA  |
+____________________________________________________
+
+[1] "Facts about SC Paderborn:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/556503/jannik-huth      |           0|         41.3313|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1036220/jannis-heuer    |           1|         49.8839|           1.7989|        0.2050|         0.5924|      0.1096|        0.0392|      0.0188| 90.0000|
+|/players/932852/tobias-mller     |           1|         54.3520|           1.4310|        0.0691|         0.4357|      0.0457|        0.0377|      0.0696| 90.0000|
+|/players/35708/uwe-hnemeier      |           1|         55.4910|           1.2839|        0.1773|         0.7338|      0.0385|        0.0377|      0.0369| 90.0000|
+|/players/970587/marcel-hoffmeier |           3|         53.4341|           1.6547|        0.1254|         0.8789|      0.0209|        0.0081|      0.0377| 90.0000|
+|/players/848666/florent-muslija  |           3|         35.0270|           1.0762|        0.8662|         1.9937|      0.2576|        0.4383|      0.1363| 76.5854|
+|/players/820974/ron-schallenberg |           3|         45.7037|           2.4067|        0.1254|         0.5213|      0.1015|        0.0207|      0.1329| 90.0000|
+|/players/801003/julian-justvan   |           3|         29.7010|           1.2636|        0.5202|         1.6620|      0.1360|        0.1367|      0.2230| 76.7273|
+|/players/784225/raphael-obermair |           3|         39.7255|           1.7745|        0.2923|         0.8558|      0.0352|        0.0081|      0.1195| 90.0000|
+|/players/330646/robert-leipertz  |           5|         22.4279|           0.6683|        1.0553|         2.3246|      0.4375|        0.5642|      0.0464| 79.5714|
+|/players/956913/marvin-pieringer |           5|         22.8191|           0.5319|        1.3743|         2.9994|      0.3634|        0.4365|      0.2036| 78.2558|
+|/players/522139/dennis-srbeny    |           0|              NA|               NA|        0.2061|         0.6746|      0.0619|        0.0572|      0.0449| 13.4146|
+|/players/554531/marco-schuster   |           0|              NA|               NA|        0.0569|         0.2274|      0.0032|        0.0010|      0.0065| 13.2727|
+|/players/673432/sirlord-conteh   |           0|              NA|               NA|        0.1369|         0.2542|      0.0366|        0.0485|      0.0088| 11.7442|
+|/players/614212/felix-platte     |           0|              NA|               NA|        0.1767|         0.4039|      0.0712|        0.0624|      0.0297| 10.4286|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Lukas Kwasniok |        17736|       1.20566|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about 1. FC Kaiserslautern:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/293560/terrence-boyd        |           5|         17.2028|           0.7197|        0.7739|         1.9698|      0.2625|        0.2789|      0.0603| 90.0000|
+|/players/267993/philipp-klement      |           4|         28.0043|           0.6838|        0.4381|         1.1781|      0.1345|        0.1623|      0.0973| 76.8333|
+|/players/276656/ben-zolinski         |           4|         15.8142|           0.8206|        0.5257|         1.5905|      0.1247|        0.1623|      0.0901| 71.2000|
+|/players/343797/hendrick-zuck        |           3|         36.9250|           1.6300|        0.3704|         0.9865|      0.0813|        0.0871|      0.0744| 90.0000|
+|/players/616917/nicolai-rapp         |           3|         41.1531|           3.0627|        0.2538|         1.1407|      0.0813|        0.0871|      0.0744| 90.0000|
+|/players/553556/marlon-ritter        |           3|         30.6924|           1.3306|        0.3583|         1.0908|      0.0737|        0.0871|      0.0675| 81.6296|
+|/players/488564/jean-zimmer          |           3|         20.3669|           1.1930|        0.1483|         0.4443|      0.0691|        0.0871|      0.0633| 76.5172|
+|/players/725729/robin-bormuth        |           1|         41.6643|           0.5723|        0.1142|         0.4598|      0.0152|        0.0455|      0.0350| 90.0000|
+|/players/239559/kevin-kraus          |           1|         37.7979|           1.7155|        0.1521|         0.5766|      0.0910|        0.0642|      0.0482| 90.0000|
+|/players/860609/boris-tomiak         |           1|         40.2196|           2.5931|        0.2389|         0.7480|      0.0768|        0.0455|      0.0223| 90.0000|
+|/players/178771/andreas-luthe        |           0|         28.7212|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/181197/nicolas-de-prville   |           0|              NA|               NA|        0.1878|         0.6260|      0.0498|        0.0288|      0.0225| 18.8000|
+|/players/459002/kenny-prince-redondo |           0|              NA|               NA|        0.2689|         0.4745|      0.0620|        0.1142|      0.0572| 13.4828|
+|/players/820748/aaron-opoku          |           0|              NA|               NA|        0.0622|         0.1450|      0.0140|        0.0147|      0.0269| 13.1667|
+|/players/657504/philipp-hercher      |           0|              NA|               NA|        0.0480|         0.2640|      0.0364|        0.0327|      0.0016|  8.3704|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Dirk Schuster |        17730|     -9.847077|4-2-3-1   |
