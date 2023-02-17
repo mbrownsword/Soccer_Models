@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-16 20:11:29.558"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: KV Mechelen 0.9184 to Genk 1.8611"
+[1] "Total: 2.7795"
+[1] "KV Mechelen %: 18.25"
+[1] "Draw %: 22.37"
+[1] "Genk %: 59.38"
+[1] "--XG Model--"
+[1] "Score: KV Mechelen 0.8636 to Genk 1.9772"
+[1] "Total: 2.8408"
+[1] "KV Mechelen %: 15.3"
+[1] "Draw %: 21.17"
+[1] "Genk %: 63.53"
+[1] "--XGoT Model--"
+[1] "Score: KV Mechelen 0.8158 to Genk 2.2652"
+[1] "Total: 3.081"
+[1] "KV Mechelen %: 11.36"
+[1] "Draw %: 17.61"
+[1] "Genk %: 71.03"
+[1] "--XA Model--"
+[1] "Score: KV Mechelen 0.9522 to Genk 2.0201"
+[1] "Total: 2.9723"
+[1] "KV Mechelen %: 16.86"
+[1] "Draw %: 21.4"
+[1] "Genk %: 61.74"
+[1] "--Mean 4 Models--"
+[1] "KV Mechelen has a mean win % of 15.44%; a min win % of 11.36%; a max win % of 18.25%."
+[1] "Draw has a mean win % of 20.64%; a min win % of 17.61%; a max win % of 22.37%."
+[1] "Genk has a mean win % of 63.92%; a min win % of 59.38%; a max win of % 71.03%."
+[1] "KV Mechelen has a mean win of the Double Chance of 36.08%; a min win % of 28.97%, a max win % of 40.62%."
+[1] "Genk has a mean win of the Double Chance of 84.56%; a min win % of 81.75%, a max win % of 88.64%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.04%; max % is 58.72 and min % is 51.95%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.96%; max % is 48.05 and min % is 41.28%."
+[1] "--Sportsbook Odds--"
+[1] "KV Mechelen Barstool Odds are: 25"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Genk Barstool Odds are: 56.52"
+[1] "KV Mechelen Adjusted Barstool Odds are: 23.33"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.927"
+[1] "Genk Adjusted Barstool Odds are: 52.744"
+[1] "KV Mechelen's Barstool Odds to cover the 0.5 spread are: 49.02"
+[1] "Genk's Barstool Odds to cover the -0.5 spread are: 55.56"
+[1] "Barstool's line for the total is 2.5 at 1.62, which is a 61.73% chance of the over 2.5 hitting. The line for the under is 2.3, which is a 43.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+   bet           date_time
+1 Genk 2023-02-17 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team        | expected_attg| expected_gs|bet |
+|:-------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/682696/gaetan-coucke         |KV Mechelen |      0.000000|   0.0952381|    |
+|/players/1020776/alec-van-hoorenbeeck |KV Mechelen |      0.002525|   0.0526316|    |
+|/players/401004/jordi-vanlerberghe    |KV Mechelen |      0.033850|   0.2380952|    |
+|/players/470399/david-bates           |KV Mechelen |      0.023850|   0.0526316|    |
+|/players/354175/sandy-walsh           |KV Mechelen |      0.047850|   0.2380952|    |
+|/players/294252/birger-verstraete     |KV Mechelen |      0.061350|   0.3225806|    |
+|/players/294252/birger-verstraete     |KV Mechelen |      0.061350|   0.3225806|    |
+|/players/528409/kerim-mrabti          |KV Mechelen |      0.120050|   0.2702703|    |
+|/players/465726/nikola-storm          |KV Mechelen |      0.166050|   0.3225806|    |
+|/players/174747/geoffry-hairemans     |KV Mechelen |      0.128700|   0.2380952|    |
+|/players/788711/julien-ngoy           |KV Mechelen |      0.165100|   0.2777778|    |
+|/players/972200/maarten-vandevoordt   |Genk        |      0.000000|   0.3225806|    |
+|/players/924485/mark-mckenzie         |Genk        |      0.012900|   0.0625000|    |
+|/players/834032/carlos-cuesta         |Genk        |      0.033650|   0.0476190|    |
+|/players/797924/gerardo-arteaga       |Genk        |      0.036225|   0.0769231|    |
+|/players/859282/daniel-munoz          |Genk        |      0.100325|   0.1754386|    |
+|/players/351661/patrik-hrosovsky      |Genk        |      0.060900|   0.1923077|    |
+|/players/659493/bryan-heynen          |Genk        |      0.171975|   0.2702703|    |
+|/players/743716/eboue-kouassi         |Genk        |      0.251400|   0.1538462|*   |
+|/players/1340895/bilal-el-khannous    |Genk        |      0.128825|   0.1923077|    |
+|/players/963983/mike-tresor           |Genk        |      0.340475|   0.3225806|    |
+|/players/850924/joseph-paintsil       |Genk        |      0.420050|   0.3030303|*   |
+|/players/919690/samuel-gouet          |KV Mechelen |      0.004075|   0.1754386|    |
+|/players/788711/julien-ngoy           |KV Mechelen |      0.165100|   0.2777778|    |
+|/players/929781/yonas-malede          |KV Mechelen |      0.022600|   0.2380952|    |
+|/players/436079/gustav-engvall        |KV Mechelen |      0.006375|   0.2439024|    |
+|/players/437329/mbwana-samatta        |Genk        |      0.051825|   0.4081633|    |
+|/players/963983/mike-tresor           |Genk        |      0.340475|   0.3225806|    |
+|/players/1067741/luca-oyen            |Genk        |      0.013750|   0.2702703|    |
+|/players/861979/bastien-toma          |Genk        |      0.015000|   0.2777778|    |
+____________________________________________________
+
+[1] "Facts about KV Mechelen:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/682696/gaetan-coucke         |           0|         34.6899|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1020776/alec-van-hoorenbeeck |           1|         33.1143|           1.4825|        0.0506|         0.2024|      0.0125|        0.0026|      0.0402| 90.0000|
+|/players/401004/jordi-vanlerberghe    |           1|         37.6183|           2.0573|        0.1016|         0.5791|      0.0314|        0.0360|      0.0290| 90.0000|
+|/players/470399/david-bates           |           1|         33.7783|           1.4277|        0.0696|         0.3597|      0.0444|        0.0269|      0.0079| 90.0000|
+|/players/354175/sandy-walsh           |           1|         26.8823|           1.2951|        0.1607|         0.5806|      0.0924|        0.0548|      0.0624| 90.0000|
+|/players/294252/birger-verstraete     |           2|         34.8317|           2.4491|        0.1963|         0.7222|      0.0485|        0.0337|      0.0381| 90.0000|
+|/players/294252/birger-verstraete     |           2|         34.8317|           2.4491|        0.1963|         0.7222|      0.0485|        0.0337|      0.0381| 90.0000|
+|/players/528409/kerim-mrabti          |           3|         19.2205|           1.4094|        0.3263|         0.9337|      0.1497|        0.1377|      0.0627| 81.7705|
+|/players/465726/nikola-storm          |           3|         16.8582|           0.9727|        0.6750|         1.7832|      0.1583|        0.1914|      0.0920| 81.7586|
+|/players/174747/geoffry-hairemans     |           3|         26.8569|           1.3135|        0.4092|         1.1616|      0.1044|        0.1414|      0.0670| 75.6333|
+|/players/788711/julien-ngoy           |           5|         16.7499|           0.5147|        0.6195|         1.4313|      0.1763|        0.1711|      0.0257| 79.6327|
+|/players/919690/samuel-gouet          |           0|              NA|               NA|        0.0107|         0.0322|      0.0012|        0.0040|      0.0045| 14.3667|
+|/players/788711/julien-ngoy           |           0|              NA|               NA|        0.0765|         0.1640|      0.0199|        0.0213|      0.0027| 10.3673|
+|/players/929781/yonas-malede          |           0|              NA|               NA|        0.0878|         0.2050|      0.0372|        0.0241|      0.0054|  8.2414|
+|/players/436079/gustav-engvall        |           0|              NA|               NA|        0.0317|         0.0846|      0.0092|        0.0073|      0.0024|  8.2295|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Steven Defour |         1930|         -0.61|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Genk:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/972200/maarten-vandevoordt |           0|         33.3250|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/924485/mark-mckenzie       |           1|         66.1555|           1.3533|        0.0784|         0.4316|      0.0622|        0.0149|      0.0251| 90.0000|
+|/players/834032/carlos-cuesta       |           1|         58.3015|           1.4417|        0.1590|         0.4752|      0.0467|        0.0378|      0.0189| 82.9195|
+|/players/797924/gerardo-arteaga     |           1|         48.0184|           1.3410|        0.1430|         0.5973|      0.0490|        0.0406|      0.1120| 90.0000|
+|/players/859282/daniel-munoz        |           1|         63.1878|           2.5933|        0.3668|         0.9105|      0.0940|        0.1125|      0.1758| 90.0000|
+|/players/351661/patrik-hrosovsky    |           2|         70.8279|           1.9440|        0.2205|         0.9099|      0.0468|        0.0682|      0.0808| 90.0000|
+|/players/659493/bryan-heynen        |           2|         55.0031|           2.3391|        0.5048|         1.4185|      0.2120|        0.2006|      0.1555| 90.0000|
+|/players/743716/eboue-kouassi       |           3|         39.5382|           1.4303|        0.4476|         0.7677|      0.1849|        0.3124|      0.0250| 90.0000|
+|/players/1340895/bilal-el-khannous  |           3|         34.0152|           1.4991|        0.8920|         2.7045|      0.2205|        0.1537|      0.1528| 69.1818|
+|/players/963983/mike-tresor         |           3|         30.7113|           1.3960|        0.9726|         2.2814|      0.2692|        0.4178|      0.3538| 80.6531|
+|/players/850924/joseph-paintsil     |           5|         17.0539|           0.5028|        1.1045|         2.3305|      0.4509|        0.5821|      0.0981| 71.5000|
+|/players/437329/mbwana-samatta      |           0|              NA|               NA|        0.1252|         0.3653|      0.0588|        0.0585|      0.0251| 20.8182|
+|/players/963983/mike-tresor         |           0|              NA|               NA|        0.1490|         0.3129|      0.0407|        0.0345|      0.0453| 18.5000|
+|/players/1067741/luca-oyen          |           0|              NA|               NA|        0.0344|         0.1291|      0.0229|        0.0163|      0.0215|  9.3469|
+|/players/861979/bastien-toma        |           0|              NA|               NA|        0.0281|         0.1012|      0.0188|        0.0156|      0.0067|  7.0805|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Wouter Vrancken |        95710|       3.59419|4-2-3-1   |
