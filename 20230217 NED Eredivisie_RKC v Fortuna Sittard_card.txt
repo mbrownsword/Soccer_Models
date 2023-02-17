@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 10:34:53.749"
+[1] "Updated at 2023-02-17 10:40:37.024"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: RKC 1.3704 to Fortuna Sittard 1.0924"
-[1] "Total: 2.4628"
-[1] "RKC %: 43.74"
-[1] "Draw %: 26.5"
-[1] "Fortuna Sittard %: 29.76"
+[1] "Score: RKC 1.3328 to Fortuna Sittard 1.1069"
+[1] "Total: 2.4397"
+[1] "RKC %: 42.36"
+[1] "Draw %: 26.69"
+[1] "Fortuna Sittard %: 30.95"
 [1] "--XG Model--"
-[1] "Score: RKC 1.6159 to Fortuna Sittard 1.3027"
-[1] "Total: 2.9186"
-[1] "RKC %: 45.67"
-[1] "Draw %: 23.96"
-[1] "Fortuna Sittard %: 30.37"
+[1] "Score: RKC 1.5835 to Fortuna Sittard 1.2811"
+[1] "Total: 2.8646"
+[1] "RKC %: 44.73"
+[1] "Draw %: 24.21"
+[1] "Fortuna Sittard %: 31.06"
 [1] "--XGoT Model--"
-[1] "Score: RKC 1.6181 to Fortuna Sittard 1.2207"
-[1] "Total: 2.8388"
-[1] "RKC %: 47.07"
-[1] "Draw %: 24.52"
-[1] "Fortuna Sittard %: 28.41"
+[1] "Score: RKC 1.5731 to Fortuna Sittard 1.2169"
+[1] "Total: 2.79"
+[1] "RKC %: 45.47"
+[1] "Draw %: 24.69"
+[1] "Fortuna Sittard %: 29.84"
 [1] "--XA Model--"
-[1] "Score: RKC 1.6099 to Fortuna Sittard 1.0868"
-[1] "Total: 2.6967"
-[1] "RKC %: 49.88"
-[1] "Draw %: 24.52"
-[1] "Fortuna Sittard %: 25.6"
+[1] "Score: RKC 1.5411 to Fortuna Sittard 1.0743"
+[1] "Total: 2.6154"
+[1] "RKC %: 47.99"
+[1] "Draw %: 24.96"
+[1] "Fortuna Sittard %: 27.05"
 [1] "--Mean 4 Models--"
-[1] "RKC has a mean win % of 46.59%; a min win % of 43.74%; a max win % of 49.88%."
-[1] "Draw has a mean win % of 24.88%; a min win % of 23.96%; a max win % of 26.5%."
-[1] "Fortuna Sittard has a mean win % of 28.54%; a min win % of 25.6%; a max win of % 30.37%."
-[1] "RKC has a mean win of the Double Chance of 71.47%; a min win % of 69.63%, a max win % of 74.4%."
-[1] "Fortuna Sittard has a mean win of the Double Chance of 53.41%; a min win % of 50.12%, a max win % of 56.26%."
-[1] "The mean likelihood that there are more than 2.5 goals is 50.27%; max % is 55.49 and min % is 43.22%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 49.73%; max % is 56.78 and min % is 44.51%."
+[1] "RKC has a mean win % of 45.14%; a min win % of 42.36%; a max win % of 47.99%."
+[1] "Draw has a mean win % of 25.14%; a min win % of 24.21%; a max win % of 26.69%."
+[1] "Fortuna Sittard has a mean win % of 29.73%; a min win % of 27.05%; a max win of % 31.06%."
+[1] "RKC has a mean win of the Double Chance of 70.28%; a min win % of 68.94%, a max win % of 72.95%."
+[1] "Fortuna Sittard has a mean win of the Double Chance of 54.86%; a min win % of 52.01%, a max win % of 57.64%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.14%; max % is 54.21 and min % is 42.9%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.86%; max % is 57.1 and min % is 45.79%."
 [1] "--Sportsbook Odds--"
 [1] "RKC Barstool Odds are: 46.51"
 [1] "The Barstool Odds of a Draw are: 29.85"
@@ -40,9 +40,9 @@
 [1] "RKC Adjusted Barstool Odds are: 43.606"
 [1] "The Adjusted Barstool Odds of a Draw are: 27.986"
 [1] "Fortuna Sittard Adjusted Barstool Odds are: 28.408"
-[1] "RKC's Barstool Odds to cover the -0.5 spread are: 46.08"
+[1] "RKC's Barstool Odds to cover the -0.5 spread are: 45.87"
 [1] "Fortuna Sittard's Barstool Odds to cover the 0.5 spread are: 58.48"
-[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35% chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -53,34 +53,34 @@
 |pageUrl2                            |team            | expected_attg| expected_gs|bet |
 |:-----------------------------------|:---------------|-------------:|-----------:|:---|
 |/players/665170/etienne-vaessen     |RKC             |      0.000000|   0.0666667|    |
-|/players/708738/jurien-gaari        |RKC             |      0.012700|   0.0555556|    |
-|/players/912071/shawn-adewoye       |RKC             |      0.014550|   0.0769231|    |
-|/players/604344/dario-van-den-buijs |RKC             |      0.061950|   0.1818182|    |
-|/players/660153/julian-lelieveld    |RKC             |      0.046500|   0.0909091|    |
-|/players/213682/iiass-bel-hassani   |RKC             |      0.214750|   0.2941176|    |
-|/players/109652/vurnon-anita        |RKC             |      0.018975|   0.1333333|    |
-|/players/637741/pelle-clement       |RKC             |      0.085875|   0.2222222|    |
-|/players/1073472/thierry-lutonda    |RKC             |      0.049700|   0.0909091|    |
-|/players/279116/mats-seuntjens      |RKC             |      0.338400|   0.3389831|    |
-|/players/110161/michiel-kramer      |RKC             |      0.362325|   0.4255319|    |
-|/players/957120/umaro-embalo        |Fortuna Sittard |      0.136800|   0.2222222|    |
-|/players/42211/burak-yilmaz         |Fortuna Sittard |      0.246100|   0.4166667|    |
-|/players/670030/inigo-cordoba       |Fortuna Sittard |      0.141200|   0.2000000|    |
-|/players/287340/oguzhan-zyakup      |Fortuna Sittard |      0.108775|   0.2325581|    |
-|/players/391671/dogan-erdogan       |Fortuna Sittard |      0.036500|   0.0833333|    |
-|/players/645576/kristijan-bistrovic |Fortuna Sittard |      0.037100|   0.1333333|    |
+|/players/708738/jurien-gaari        |RKC             |      0.011400|   0.0555556|    |
+|/players/912071/shawn-adewoye       |RKC             |      0.014425|   0.0769231|    |
+|/players/604344/dario-van-den-buijs |RKC             |      0.059900|   0.1818182|    |
+|/players/660153/julian-lelieveld    |RKC             |      0.044500|   0.0909091|    |
+|/players/213682/iiass-bel-hassani   |RKC             |      0.209450|   0.2941176|    |
+|/players/109652/vurnon-anita        |RKC             |      0.018600|   0.1333333|    |
+|/players/637741/pelle-clement       |RKC             |      0.082775|   0.2222222|    |
+|/players/1073472/thierry-lutonda    |RKC             |      0.047700|   0.0909091|    |
+|/players/279116/mats-seuntjens      |RKC             |      0.327975|   0.3389831|    |
+|/players/110161/michiel-kramer      |RKC             |      0.350100|   0.4255319|    |
+|/players/957120/umaro-embalo        |Fortuna Sittard |      0.139050|   0.2222222|    |
+|/players/42211/burak-yilmaz         |Fortuna Sittard |      0.246800|   0.4166667|    |
+|/players/670030/inigo-cordoba       |Fortuna Sittard |      0.143475|   0.2000000|    |
+|/players/287340/oguzhan-zyakup      |Fortuna Sittard |      0.108875|   0.2325581|    |
+|/players/391671/dogan-erdogan       |Fortuna Sittard |      0.037525|   0.0833333|    |
+|/players/645576/kristijan-bistrovic |Fortuna Sittard |      0.037300|   0.1333333|    |
 |/players/1178959/remy-vita          |Fortuna Sittard |      0.004400|   0.1538462|    |
-|/players/183198/dimitris-siovas     |Fortuna Sittard |      0.031225|   0.0833333|    |
-|/players/1166329/rodrigo-guth       |Fortuna Sittard |      0.020425|   0.0714286|    |
-|/players/798069/deroy-duarte        |Fortuna Sittard |      0.058350|   0.1000000|    |
+|/players/183198/dimitris-siovas     |Fortuna Sittard |      0.031150|   0.0833333|    |
+|/players/1166329/rodrigo-guth       |Fortuna Sittard |      0.020600|   0.0714286|    |
+|/players/798069/deroy-duarte        |Fortuna Sittard |      0.058200|   0.1000000|    |
 |/players/1077684/ivor-pandur        |Fortuna Sittard |      0.000000|   0.0555556|    |
-|/players/1079931/patrick-vroegh     |RKC             |      0.042225|   0.0000000|    |
-|/players/277597/florian-jozefzoon   |RKC             |      0.015925|   0.0000000|    |
-|/players/875852/said-bakari         |RKC             |      0.007700|   0.0000000|    |
-|/players/1119702/yassin-oukili      |RKC             |      0.001200|   0.0000000|    |
-|/players/920872/thomas-buitink      |Fortuna Sittard |      0.055375|   0.0000000|*   |
-|/players/1282285/tijjani-noslin     |Fortuna Sittard |      0.049475|   0.0000000|    |
-|/players/253121/paul-gladon         |Fortuna Sittard |      0.088900|   0.0000000|*   |
+|/players/1079931/patrick-vroegh     |RKC             |      0.039925|   0.0000000|    |
+|/players/277597/florian-jozefzoon   |RKC             |      0.015175|   0.0000000|    |
+|/players/875852/said-bakari         |RKC             |      0.007600|   0.0000000|    |
+|/players/1119702/yassin-oukili      |RKC             |      0.001175|   0.0000000|    |
+|/players/920872/thomas-buitink      |Fortuna Sittard |      0.056700|   0.0000000|*   |
+|/players/1282285/tijjani-noslin     |Fortuna Sittard |      0.047700|   0.0000000|    |
+|/players/253121/paul-gladon         |Fortuna Sittard |      0.087575|   0.0000000|*   |
 |/players/660897/arianit-ferati      |Fortuna Sittard |      0.000000|   0.0000000|    |
 ____________________________________________________
 
@@ -90,21 +90,21 @@ ____________________________________________________
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/665170/etienne-vaessen     |           0|         34.7243|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/708738/jurien-gaari        |           1|         49.7358|           1.7166|        0.0867|         0.3368|      0.0162|        0.0141|      0.0449| 90.0000|
-|/players/912071/shawn-adewoye       |           1|         44.7159|           1.9019|        0.0692|         0.4886|      0.0549|        0.0166|      0.0236| 90.0000|
-|/players/604344/dario-van-den-buijs |           1|         50.8357|           1.2157|        0.2085|         0.7366|      0.0715|        0.0736|      0.0636| 75.6591|
-|/players/660153/julian-lelieveld    |           3|         34.6840|           2.2565|        0.0608|         0.3533|      0.0298|        0.0548|      0.1760| 79.8421|
-|/players/213682/iiass-bel-hassani   |           3|         26.3406|           1.3383|        0.8538|         2.2180|      0.1714|        0.2764|      0.1918| 68.8696|
-|/players/109652/vurnon-anita        |           3|         43.3695|           1.5642|        0.0474|         0.4225|      0.0321|        0.0230|      0.0726| 90.0000|
-|/players/637741/pelle-clement       |           3|         36.2448|           1.4016|        0.3466|         1.3425|      0.1548|        0.1060|      0.1287| 80.1250|
-|/players/1073472/thierry-lutonda    |           3|         34.3946|           2.7821|        0.2436|         0.9909|      0.1046|        0.0577|      0.1143| 90.0000|
-|/players/279116/mats-seuntjens      |           5|         24.8488|           1.0894|        1.1802|         3.1477|      0.4211|        0.4561|      0.2505| 90.0000|
-|/players/110161/michiel-kramer      |           5|         18.4789|           0.3741|        1.1757|         2.5774|      0.4728|        0.5022|      0.1199| 90.0000|
-|/players/1079931/patrick-vroegh     |           0|              NA|               NA|        0.1378|         0.5237|      0.0579|        0.0484|      0.0242| 21.1304|
-|/players/277597/florian-jozefzoon   |           0|              NA|               NA|        0.0738|         0.2215|      0.0388|        0.0166|      0.0551| 14.3409|
-|/players/875852/said-bakari         |           0|              NA|               NA|        0.0493|         0.1478|      0.0137|        0.0082|      0.0170| 10.1579|
-|/players/1119702/yassin-oukili      |           0|              NA|               NA|        0.0259|         0.1294|      0.0141|        0.0020|      0.0100|  9.8750|
+|/players/665170/etienne-vaessen     |           0|         34.7635|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/708738/jurien-gaari        |           1|         49.7921|           1.6665|        0.0846|         0.3309|      0.0159|        0.0138|      0.0425| 90.0000|
+|/players/912071/shawn-adewoye       |           1|         44.7665|           1.8465|        0.0675|         0.4800|      0.0538|        0.0162|      0.0223| 90.0000|
+|/players/604344/dario-van-den-buijs |           1|         50.8932|           1.1803|        0.2034|         0.7236|      0.0701|        0.0716|      0.0602| 75.6591|
+|/players/660153/julian-lelieveld    |           3|         34.7232|           2.1907|        0.0593|         0.3471|      0.0293|        0.0533|      0.1666| 79.8421|
+|/players/213682/iiass-bel-hassani   |           3|         26.3704|           1.2993|        0.8330|         2.1791|      0.1680|        0.2688|      0.1815| 68.8696|
+|/players/109652/vurnon-anita        |           3|         43.4185|           1.5187|        0.0463|         0.4150|      0.0314|        0.0224|      0.0687| 90.0000|
+|/players/637741/pelle-clement       |           3|         36.2858|           1.3608|        0.3381|         1.3189|      0.1517|        0.1032|      0.1219| 80.1250|
+|/players/1073472/thierry-lutonda    |           3|         34.4335|           2.7010|        0.2377|         0.9735|      0.1026|        0.0561|      0.1082| 90.0000|
+|/players/279116/mats-seuntjens      |           5|         24.8769|           1.0577|        1.1514|         3.0925|      0.4129|        0.4436|      0.2371| 90.0000|
+|/players/110161/michiel-kramer      |           5|         18.4998|           0.3632|        1.1470|         2.5322|      0.4635|        0.4885|      0.1135| 90.0000|
+|/players/1079931/patrick-vroegh     |           0|              NA|               NA|        0.1305|         0.4958|      0.0568|        0.0471|      0.0229| 21.1304|
+|/players/277597/florian-jozefzoon   |           0|              NA|               NA|        0.0699|         0.2097|      0.0380|        0.0162|      0.0521| 14.3409|
+|/players/875852/said-bakari         |           0|              NA|               NA|        0.0467|         0.1400|      0.0134|        0.0080|      0.0161| 10.1579|
+|/players/1119702/yassin-oukili      |           0|              NA|               NA|        0.0245|         0.1225|      0.0138|        0.0019|      0.0095|  9.8750|
 
 
 |manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
@@ -118,50 +118,21 @@ ____________________________________________________
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/957120/umaro-embalo        |           5|         13.4188|           0.7394|        0.3527|         0.7393|      0.0270|        0.1764|      0.0484| 62.3333|
-|/players/42211/burak-yilmaz         |           5|         20.7889|           0.4277|        0.9703|         2.3786|      0.4408|        0.3369|      0.1240| 90.0000|
-|/players/670030/inigo-cordoba       |           5|         27.8900|           1.7023|        0.5092|         1.7538|      0.2264|        0.1764|      0.1072| 90.0000|
-|/players/287340/oguzhan-zyakup      |           3|         30.5656|           1.6057|        0.3887|         0.8283|      0.0635|        0.1367|      0.0701| 70.6000|
-|/players/391671/dogan-erdogan       |           3|         33.3476|           2.2773|        0.0285|         0.3947|      0.0679|        0.0462|      0.0862| 75.5161|
-|/players/645576/kristijan-bistrovic |           3|         31.9126|           1.5972|        0.2038|         1.1584|      0.0800|        0.0462|      0.0391| 74.2692|
-|/players/1178959/remy-vita          |           1|         42.1916|           2.3055|        0.0411|         0.2786|      0.0073|        0.0046|      0.0269| 90.0000|
-|/players/183198/dimitris-siovas     |           1|         51.6764|           1.3669|        0.0969|         0.4874|      0.0450|        0.0368|      0.0347| 90.0000|
-|/players/1166329/rodrigo-guth       |           1|         50.2960|           1.6385|        0.1002|         0.4152|      0.0303|        0.0248|      0.0334| 90.0000|
-|/players/798069/deroy-duarte        |           1|         30.6235|           1.9409|        0.2051|         0.6393|      0.0647|        0.0709|      0.1021| 90.0000|
-|/players/1077684/ivor-pandur        |           0|         28.2159|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/920872/thomas-buitink      |           0|              NA|               NA|        0.2096|         0.8384|      0.1236|        0.0658|      0.0315| 27.6667|
-|/players/1282285/tijjani-noslin     |           0|              NA|               NA|        0.3462|         0.7694|      0.0774|        0.0604|      0.0654| 19.4000|
-|/players/253121/paul-gladon         |           0|              NA|               NA|        0.3297|         0.9231|      0.1141|        0.1109|      0.0295| 15.7308|
-|/players/660897/arianit-ferati      |           0|              NA|               NA|        0.0000|         0.1116|      0.0070|        0.0000|      0.0450| 14.4839|
-
-
-|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
-|:---------------|------------:|-------------:|:---------|
-|Julio Velazquez |        43166|      -11.2878|4-4-2     |
-|        0.0709|      0.1021| 90.0000|
-|/players/1077684/ivor-pandur        |           0|         28.2159|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/920872/thomas-buitink      |           0|              NA|               NA|        0.2096|         0.8384|      0.1236|        0.0658|      0.0315| 27.6667|
-|/players/1282285/tijjani-noslin     |           0|              NA|               NA|        0.3462|         0.7694|      0.0774|        0.0604|      0.0654| 19.4000|
-|/players/253121/paul-gladon         |           0|              NA|               NA|        0.3297|         0.9231|      0.1141|        0.1109|      0.0295| 15.7308|
-|/players/660897/arianit-ferati      |           0|              NA|               NA|        0.0000|         0.1116|      0.0070|        0.0000|      0.0450| 14.4839|
-
-
-|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
-|:---------------|------------:|-------------:|:---------|
-|Julio Velazquez |        43166|      -11.2878|4-4-2     |
-000|
-|/players/287340/oguzhan-zyakup      |           3|         30.5656|           1.6057|        0.3887|         0.8283|      0.0635|        0.1367|      0.0701| 70.6000|
-|/players/391671/dogan-erdogan       |           3|         33.3476|           2.2773|        0.0285|         0.3947|      0.0679|        0.0462|      0.0862| 75.5161|
-|/players/645576/kristijan-bistrovic |           3|         31.9126|           1.5972|        0.2038|         1.1584|      0.0800|        0.0462|      0.0391| 74.2692|
-|/players/1178959/remy-vita          |           1|         42.1916|           2.3055|        0.0411|         0.2786|      0.0073|        0.0046|      0.0269| 90.0000|
-|/players/183198/dimitris-siovas     |           1|         51.6764|           1.3669|        0.0969|         0.4874|      0.0450|        0.0368|      0.0347| 90.0000|
-|/players/1166329/rodrigo-guth       |           1|         50.2960|           1.6385|        0.1002|         0.4152|      0.0303|        0.0248|      0.0334| 90.0000|
-|/players/798069/deroy-duarte        |           1|         30.6235|           1.9409|        0.2051|         0.6393|      0.0647|        0.0709|      0.1021| 90.0000|
-|/players/1077684/ivor-pandur        |           0|         28.2159|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/920872/thomas-buitink      |           0|              NA|               NA|        0.2096|         0.8384|      0.1236|        0.0658|      0.0315| 27.6667|
-|/players/1282285/tijjani-noslin     |           0|              NA|               NA|        0.3462|         0.7694|      0.0774|        0.0604|      0.0654| 19.4000|
-|/players/253121/paul-gladon         |           0|              NA|               NA|        0.3297|         0.9231|      0.1141|        0.1109|      0.0295| 15.7308|
-|/players/660897/arianit-ferati      |           0|              NA|               NA|        0.0000|         0.1116|      0.0070|        0.0000|      0.0450| 14.4839|
+|/players/957120/umaro-embalo        |           5|         13.7824|           0.7094|        0.3637|         0.7510|      0.0267|        0.1768|      0.0482| 62.3333|
+|/players/42211/burak-yilmaz         |           5|         21.3521|           0.4104|        1.0006|         2.4161|      0.4345|        0.3377|      0.1233| 90.0000|
+|/players/670030/inigo-cordoba       |           5|         28.6456|           1.6333|        0.5251|         1.7814|      0.2232|        0.1768|      0.1067| 90.0000|
+|/players/287340/oguzhan-zyakup      |           3|         31.3936|           1.5407|        0.4008|         0.8413|      0.0625|        0.1370|      0.0697| 70.6000|
+|/players/391671/dogan-erdogan       |           3|         34.2510|           2.1850|        0.0294|         0.4009|      0.0669|        0.0464|      0.0858| 75.5161|
+|/players/645576/kristijan-bistrovic |           3|         32.7771|           1.5325|        0.2102|         1.1767|      0.0788|        0.0464|      0.0389| 74.2692|
+|/players/1178959/remy-vita          |           1|         43.3346|           2.2121|        0.0424|         0.2830|      0.0072|        0.0046|      0.0268| 90.0000|
+|/players/183198/dimitris-siovas     |           1|         53.0764|           1.3115|        0.0999|         0.4951|      0.0443|        0.0369|      0.0345| 90.0000|
+|/players/1166329/rodrigo-guth       |           1|         51.6585|           1.5721|        0.1033|         0.4218|      0.0298|        0.0249|      0.0333| 90.0000|
+|/players/798069/deroy-duarte        |           1|         31.4531|           1.8622|        0.2115|         0.6494|      0.0638|        0.0710|      0.1016| 90.0000|
+|/players/1077684/ivor-pandur        |           0|         28.9803|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/920872/thomas-buitink      |           0|              NA|               NA|        0.1984|         0.7937|      0.1212|        0.0640|      0.0299| 27.6667|
+|/players/1282285/tijjani-noslin     |           0|              NA|               NA|        0.3278|         0.7284|      0.0759|        0.0587|      0.0619| 19.4000|
+|/players/253121/paul-gladon         |           0|              NA|               NA|        0.3121|         0.8740|      0.1118|        0.1079|      0.0279| 15.7308|
+|/players/660897/arianit-ferati      |           0|              NA|               NA|        0.0000|         0.1056|      0.0069|        0.0000|      0.0426| 14.4839|
 
 
 |manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
