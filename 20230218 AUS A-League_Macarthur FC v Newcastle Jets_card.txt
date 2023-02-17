@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 14:21:29.409"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Macarthur FC 1.6477 to Newcastle Jets 1.3431"
+[1] "Total: 2.9908"
+[1] "Macarthur FC %: 45.38"
+[1] "Draw %: 24.4"
+[1] "Newcastle Jets %: 30.22"
+[1] "--XG Model--"
+[1] "Score: Macarthur FC 1.5642 to Newcastle Jets 1.4233"
+[1] "Total: 2.9875"
+[1] "Macarthur FC %: 41.24"
+[1] "Draw %: 24.05"
+[1] "Newcastle Jets %: 34.71"
+[1] "--XGoT Model--"
+[1] "Score: Macarthur FC 1.8296 to Newcastle Jets 1.5707"
+[1] "Total: 3.4003"
+[1] "Macarthur FC %: 43.95"
+[1] "Draw %: 22.68"
+[1] "Newcastle Jets %: 33.37"
+[1] "--XA Model--"
+[1] "Score: Macarthur FC 1.5213 to Newcastle Jets 1.3314"
+[1] "Total: 2.8527"
+[1] "Macarthur FC %: 42.09"
+[1] "Draw %: 24.91"
+[1] "Newcastle Jets %: 33"
+[1] "--Mean 4 Models--"
+[1] "Macarthur FC has a mean win % of 43.16%; a min win % of 41.24%; a max win % of 45.38%."
+[1] "Draw has a mean win % of 24.01%; a min win % of 22.68%; a max win % of 24.91%."
+[1] "Newcastle Jets has a mean win % of 32.83%; a min win % of 30.22%; a max win of % 34.71%."
+[1] "Macarthur FC has a mean win of the Double Chance of 67.17%; a min win % of 65.29%, a max win % of 69.78%."
+[1] "Newcastle Jets has a mean win of the Double Chance of 56.84%; a min win % of 54.62%, a max win % of 58.76%."
+[1] "The mean likelihood that there are more than 2.5 goals is 58.15%; max % is 65.72 and min % is 53.51%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 41.85%; max % is 46.49 and min % is 34.28%."
+[1] "--Sportsbook Odds--"
+[1] "Macarthur FC Barstool Odds are: 41.67"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Newcastle Jets Barstool Odds are: 36.36"
+[1] "Macarthur FC Adjusted Barstool Odds are: 39.09"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.801"
+[1] "Newcastle Jets Adjusted Barstool Odds are: 34.109"
+[1] "Macarthur FC's Barstool Odds to cover the  spread are: NA"
+[1] "Newcastle Jets's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.15, which is a 46.51% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-17 23:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                 |team           | expected_attg| expected_gs|bet |
+|:----------------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/206809/filip-kurto              |Macarthur FC   |      0.000000|   0.2631579|    |
+|/players/799039/ivan-vujica              |Macarthur FC   |      0.028075|   0.0357143|    |
+|/players/551668/aleksandar-susnjar       |Macarthur FC   |      0.041000|   0.0526316|    |
+|/players/622901/jonathan-aspropotamitis  |Macarthur FC   |      0.008800|   0.0526316|    |
+|/players/701578/tomislav-uskok           |Macarthur FC   |      0.063300|   0.0476190|    |
+|/players/1053471/jerry-skotadis          |Macarthur FC   |      0.042350|   0.1000000|    |
+|/players/1217249/jake-hollman            |Macarthur FC   |      0.112400|   0.1250000|    |
+|/players/432389/daniel-de-silva          |Macarthur FC   |      0.188100|   0.1538462|    |
+|/players/1029023/charles-william-mmombwa |Macarthur FC   |      0.002150|   0.1250000|    |
+|/players/150596/craig-noone              |Macarthur FC   |      0.345300|   0.2439024|*   |
+|/players/183484/ulises-davila            |Macarthur FC   |      0.309675|   0.2500000|*   |
+|/players/240056/jack-duncan              |Newcastle Jets |      0.000000|   0.1176471|    |
+|/players/110639/jason-hoffman            |Newcastle Jets |      0.059600|   0.2702703|    |
+|/players/823540/dane-ingham              |Newcastle Jets |      0.019250|   0.0500000|    |
+|/players/154878/matthew-jurman           |Newcastle Jets |      0.002625|   0.0500000|    |
+|/players/214685/carl-jenkinson           |Newcastle Jets |      0.037300|   0.0500000|    |
+|/players/309646/brandon-oneill           |Newcastle Jets |      0.053975|   0.1250000|    |
+|/players/913132/angus-thurgate           |Newcastle Jets |      0.053900|   0.1785714|    |
+|/players/513424/jaushua-sotirio          |Newcastle Jets |      0.300700|   0.2000000|*   |
+|/players/912715/callum-timmins           |Newcastle Jets |      0.066725|   0.1538462|    |
+|/players/868985/reno-piscopo             |Newcastle Jets |      0.201275|   0.2702703|    |
+|/players/746815/beka-mikeltadze          |Newcastle Jets |      0.280250|   0.4000000|    |
+|/players/1079940/alhassan-toure          |Macarthur FC   |      0.075625|   0.2222222|    |
+|/players/1217247/lachlan-rose            |Macarthur FC   |      0.151875|   0.3333333|    |
+|/players/1217249/jake-hollman            |Macarthur FC   |      0.112400|   0.1250000|    |
+|/players/1053471/jerry-skotadis          |Macarthur FC   |      0.042350|   0.1000000|    |
+|/players/513424/jaushua-sotirio          |Newcastle Jets |      0.300700|   0.2000000|*   |
+|/players/951242/daniel-stynes            |Newcastle Jets |      0.044050|   0.2272727|    |
+|/players/716423/trent-buhagiar           |Newcastle Jets |      0.064225|   0.2272727|    |
+|/players/912715/callum-timmins           |Newcastle Jets |      0.066725|   0.1538462|    |
+____________________________________________________
+
+[1] "Facts about Macarthur FC:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/206809/filip-kurto              |           0|         20.3140|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/799039/ivan-vujica              |           1|         38.2220|           2.5722|        0.1300|         0.3249|      0.0151|        0.0332|      0.0639| 90.0000|
+|/players/551668/aleksandar-susnjar       |           1|         50.4199|           1.2867|        0.1688|         0.7759|      0.0550|        0.0498|      0.0867| 90.0000|
+|/players/622901/jonathan-aspropotamitis  |           1|         45.6264|           1.2541|        0.0872|         0.4647|      0.0476|        0.0107|      0.0462| 90.0000|
+|/players/701578/tomislav-uskok           |           1|         31.8179|           1.4710|        0.2622|         0.8124|      0.0938|        0.0813|      0.0475| 90.0000|
+|/players/1053471/jerry-skotadis          |           2|         26.6326|           1.1045|        0.0454|         0.3174|      0.0250|        0.0561|      0.0332| 67.4000|
+|/players/1217249/jake-hollman            |           2|         50.6314|           3.2040|        0.5598|         1.7122|      0.1156|        0.1012|      0.1227| 90.0000|
+|/players/432389/daniel-de-silva          |           3|         31.3839|           1.4792|        0.8554|         2.2981|      0.1626|        0.2543|      0.1288| 90.0000|
+|/players/1029023/charles-william-mmombwa |           3|         21.5370|           1.1203|        0.1575|         0.7708|      0.1465|        0.0039|      0.0271| 68.1304|
+|/players/150596/craig-noone              |           3|         21.7273|           1.2884|        1.2193|         2.7729|      0.3128|        0.5156|      0.2869| 81.7308|
+|/players/183484/ulises-davila            |           5|         16.2376|           0.5871|        1.0598|         2.4880|      0.3881|        0.4438|      0.0734| 82.5789|
+|/players/1079940/alhassan-toure          |           0|              NA|               NA|        0.2235|         0.5587|      0.0903|        0.1011|      0.0324| 22.6000|
+|/players/1217247/lachlan-rose            |           0|              NA|               NA|        0.3401|         0.6802|      0.1567|        0.2044|      0.0663| 21.8696|
+|/players/1217249/jake-hollman            |           0|              NA|               NA|        0.1499|         0.2622|      0.0270|        0.0484|      0.0249|  8.2692|
+|/players/1053471/jerry-skotadis          |           0|              NA|               NA|        0.0000|         0.0294|      0.0022|        0.0000|      0.0046|  7.4211|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Dwight Yorke |        12783|     -4.890769|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Newcastle Jets:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/240056/jack-duncan     |           0|         23.4371|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/110639/jason-hoffman   |           1|         42.1394|           1.4494|        0.2540|         0.5695|      0.0858|        0.0834|      0.0590| 73.4516|
+|/players/823540/dane-ingham     |           1|         43.6915|           2.2359|        0.0463|         0.3416|      0.0375|        0.0273|      0.0613| 90.0000|
+|/players/154878/matthew-jurman  |           1|         55.2632|           1.3082|        0.0685|         0.4578|      0.0234|        0.0027|      0.0386| 90.0000|
+|/players/214685/carl-jenkinson  |           1|         46.1288|           1.5992|        0.1737|         0.5498|      0.0438|        0.0494|      0.0971| 90.0000|
+|/players/309646/brandon-oneill  |           2|         59.9362|           2.5843|        0.2776|         0.9515|      0.0860|        0.0763|      0.0841| 90.0000|
+|/players/913132/angus-thurgate  |           2|         44.6060|           2.0062|        0.2776|         0.9515|      0.0860|        0.0763|      0.1107| 90.0000|
+|/players/513424/jaushua-sotirio |           3|         20.5353|           1.1179|        0.6019|         1.5253|      0.2639|        0.2995|      0.1516| 77.6111|
+|/players/912715/callum-timmins  |           3|         37.3275|           1.9376|        0.2408|         0.8065|      0.0493|        0.0815|      0.0720| 77.3333|
+|/players/868985/reno-piscopo    |           3|         29.5748|           0.6875|        1.0157|         2.5246|      0.2563|        0.2995|      0.2502| 76.1458|
+|/players/746815/beka-mikeltadze |           5|         21.5317|           0.6573|        1.0989|         2.4708|      0.4379|        0.4390|      0.1042| 90.0000|
+|/players/513424/jaushua-sotirio |           0|              NA|               NA|        0.2207|         0.6622|      0.1058|        0.1907|      0.0131| 16.5484|
+|/players/951242/daniel-stynes   |           0|              NA|               NA|        0.1812|         0.5436|      0.0325|        0.0627|      0.0254| 13.8542|
+|/players/716423/trent-buhagiar  |           0|              NA|               NA|        0.2341|         0.6242|      0.1139|        0.0901|      0.0400| 12.6667|
+|/players/912715/callum-timmins  |           0|              NA|               NA|        0.0343|         0.1372|      0.0135|        0.0047|      0.0110| 12.3889|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Arthur Papas |        40524|     -2.094634|4-2-3-1   |
