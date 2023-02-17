@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 14:53:51.404"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Strasbourg 1.4946 to Angers 1.0999"
+[1] "Total: 2.5945"
+[1] "Strasbourg %: 46.32"
+[1] "Draw %: 25.17"
+[1] "Angers %: 28.51"
+[1] "--XG Model--"
+[1] "Score: Strasbourg 1.5694 to Angers 1.0966"
+[1] "Total: 2.666"
+[1] "Strasbourg %: 48.47"
+[1] "Draw %: 24.58"
+[1] "Angers %: 26.95"
+[1] "--XGoT Model--"
+[1] "Score: Strasbourg 1.7206 to Angers 1.0321"
+[1] "Total: 2.7527"
+[1] "Strasbourg %: 54.2"
+[1] "Draw %: 24.18"
+[1] "Angers %: 21.62"
+[1] "--XA Model--"
+[1] "Score: Strasbourg 1.491 to Angers 1.1705"
+[1] "Total: 2.6615"
+[1] "Strasbourg %: 44.61"
+[1] "Draw %: 25.2"
+[1] "Angers %: 30.19"
+[1] "--Mean 4 Models--"
+[1] "Strasbourg has a mean win % of 48.4%; a min win % of 44.61%; a max win % of 54.2%."
+[1] "Draw has a mean win % of 24.78%; a min win % of 24.18%; a max win % of 25.2%."
+[1] "Angers has a mean win % of 26.82%; a min win % of 21.62%; a max win of % 30.19%."
+[1] "Strasbourg has a mean win of the Double Chance of 73.18%; a min win % of 69.81%, a max win % of 78.38%."
+[1] "Angers has a mean win of the Double Chance of 51.6%; a min win % of 45.8%, a max win % of 55.39%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.02%; max % is 51.12 and min % is 47.29%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.98%; max % is 52.71 and min % is 48.88%."
+[1] "--Sportsbook Odds--"
+[1] "Strasbourg Barstool Odds are: 53.19"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Angers Barstool Odds are: 23.53"
+[1] "Strasbourg Adjusted Barstool Odds are: 50.518"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.135"
+[1] "Angers Adjusted Barstool Odds are: 22.348"
+[1] "Strasbourg's Barstool Odds to cover the -0.5 spread are: 52.91"
+[1] "Angers's Barstool Odds to cover the 0.5 spread are: 51.55"
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team       | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/181069/matz-sels                 |Strasbourg |      0.000000|   0.1538462|    |
+|/players/863856/lucas-perrin              |Strasbourg |      0.027850|   0.0769231|    |
+|/players/1178332/ismal-doukouré           |Strasbourg |      0.026375|   0.0476190|    |
+|/players/173952/maxime-le-marchand        |Strasbourg |      0.081250|   0.0526316|    |
+|/players/612747/frdéric-guilbert          |Strasbourg |      0.081650|   0.0666667|    |
+|/players/660327/ibrahima-sissoko          |Strasbourg |      0.083925|   0.2083333|    |
+|/players/290022/sanjin-prcic              |Strasbourg |      0.120650|   0.1694915|    |
+|/players/355901/morgan-sanson             |Strasbourg |      0.058275|   0.2325581|    |
+|/players/340940/eduard-sobol              |Strasbourg |      0.100100|   0.0952381|    |
+|/players/601145/habibou-mouhamadou-diallo |Strasbourg |      0.313000|   0.4255319|    |
+|/players/26392/kvin-gameiro               |Strasbourg |      0.331525|   0.3846154|    |
+|/players/848563/ibrahima-niane            |Angers     |      0.237225|   0.2173913|    |
+|/players/956659/himad-abdelli             |Angers     |      0.073275|   0.1176471|    |
+|/players/447107/adrien-hunou              |Angers     |      0.181600|   0.2380952|    |
+|/players/1189856/abdallah-sima            |Angers     |      0.143375|   0.2439024|    |
+|/players/369788/ibrahim-amadou            |Angers     |      0.034625|   0.0357143|    |
+|/players/500520/nabil-bentaleb            |Angers     |      0.047525|   0.1666667|    |
+|/players/187017/faouzi-ghoulam            |Angers     |      0.010975|   0.0333333|    |
+|/players/473858/cdric-hountondji          |Angers     |      0.028975|   0.0357143|    |
+|/players/251237/miha-blazic               |Angers     |      0.071025|   0.1176471|    |
+|/players/789596/yan-valery                |Angers     |      0.018950|   0.0500000|    |
+|/players/602493/paul-bernardoni           |Angers     |      0.000000|   0.1111111|    |
+|/players/466285/dimitri-linard            |Strasbourg |      0.012400|   0.2325581|    |
+|/players/792008/lebo-mothiba              |Strasbourg |      0.080875|   0.2941176|    |
+|/players/949213/colin-dagba               |Strasbourg |      0.000000|   0.0588235|    |
+|/players/1292334/nordine-kandil           |Strasbourg |      0.000000|   0.1754386|    |
+|/players/611534/sada-thioub               |Angers     |      0.006975|   0.1666667|    |
+|/players/310836/pierrick-capelle          |Angers     |      0.045250|   0.1538462|    |
+|/players/210400/abdoulaye-bamba           |Angers     |      0.000000|   0.0200000|    |
+|/players/1332549/amine-salama             |Angers     |      0.055725|   0.1923077|    |
+____________________________________________________
+
+[1] "Facts about Strasbourg:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/181069/matz-sels                 |           0|         23.1787|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/863856/lucas-perrin              |           1|         53.6741|           1.6054|        0.1411|         0.5275|      0.0496|        0.0310|      0.0394| 90.0000|
+|/players/1178332/ismal-doukouré           |           1|         46.1852|           1.5436|        0.1306|         0.3004|      0.0131|        0.0274|      0.0403| 90.0000|
+|/players/173952/maxime-le-marchand        |           1|         61.0191|           1.5221|        0.2176|         0.6259|      0.1323|        0.0882|      0.0151| 90.0000|
+|/players/612747/frdéric-guilbert          |           3|         37.0089|           2.2891|        0.2502|         0.4873|      0.0328|        0.0950|      0.2173| 90.0000|
+|/players/660327/ibrahima-sissoko          |           3|         31.7086|           1.7806|        0.1956|         0.8888|      0.1254|        0.0953|      0.0844| 80.4737|
+|/players/290022/sanjin-prcic              |           3|         45.5076|           1.2853|        0.4026|         1.2867|      0.0785|        0.1410|      0.0678| 75.6875|
+|/players/355901/morgan-sanson             |           3|         30.0058|           2.1960|        0.3075|         0.8652|      0.1072|        0.0655|      0.0568| 79.5172|
+|/players/340940/eduard-sobol              |           3|         41.8688|           1.8388|        0.5260|         1.2142|      0.1269|        0.1143|      0.0763| 90.0000|
+|/players/601145/habibou-mouhamadou-diallo |           5|         19.6577|           0.5530|        1.0431|         2.4086|      0.3211|        0.3911|      0.1019| 90.0000|
+|/players/26392/kvin-gameiro               |           5|         24.6716|           0.8400|        0.9185|         1.7787|      0.3725|        0.4285|      0.1136| 78.9062|
+|/players/466285/dimitri-linard            |          NA|              NA|               NA|        0.0434|         0.1738|      0.0102|        0.0132|      0.0354| 14.3125|
+|/players/792008/lebo-mothiba              |          NA|              NA|               NA|        0.0674|         0.1798|      0.0489|        0.0901|      0.0027| 11.0938|
+|/players/949213/colin-dagba               |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0203| 10.4828|
+|/players/1292334/nordine-kandil           |          NA|              NA|               NA|        0.0000|         0.1829|      0.0110|        0.0000|      0.0189|  9.5263|
+
+
+|manager_name       | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Mathieu Le Scornet |         6870|     -2.294286|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Angers:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/848563/ibrahima-niane   |           5|         17.2682|           0.7134|        0.5423|         1.4240|      0.2343|        0.2522|      0.0559| 75.6531|
+|/players/956659/himad-abdelli    |           3|         41.1427|           1.9441|        0.3013|         0.7186|      0.0334|        0.0709|      0.1037| 78.0333|
+|/players/447107/adrien-hunou     |           3|         21.7039|           0.9619|        0.4439|         1.4372|      0.1948|        0.1829|      0.0695| 74.4375|
+|/players/1189856/abdallah-sima   |           3|         17.6946|           1.1007|        0.6750|         1.7276|      0.1553|        0.1409|      0.0920| 90.0000|
+|/players/369788/ibrahim-amadou   |           2|         33.8775|           2.2648|        0.1729|         0.5538|      0.0622|        0.0342|      0.0273| 90.0000|
+|/players/500520/nabil-bentaleb   |           2|         59.0129|           2.6275|        0.2697|         0.8635|      0.0275|        0.0450|      0.0998| 90.0000|
+|/players/187017/faouzi-ghoulam   |           1|         47.0972|           1.5919|        0.0826|         0.3881|      0.0237|        0.0111|      0.0844| 77.9167|
+|/players/473858/cdric-hountondji |           1|         40.3075|           1.4674|        0.1462|         0.3531|      0.0564|        0.0270|      0.0094| 90.0000|
+|/players/251237/miha-blazic      |           1|         53.2500|           0.6097|        0.1298|         0.3660|      0.0614|        0.0670|      0.0107| 90.0000|
+|/players/789596/yan-valery       |           1|         32.6986|           2.5178|        0.0740|         0.3826|      0.0330|        0.0179|      0.0488| 90.0000|
+|/players/602493/paul-bernardoni  |           0|         22.4865|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/611534/sada-thioub      |          NA|              NA|               NA|        0.0345|         0.2417|      0.0229|        0.0056|      0.0166| 15.5625|
+|/players/310836/pierrick-capelle |          NA|              NA|               NA|        0.0442|         0.2649|      0.0564|        0.0433|      0.0150| 14.3469|
+|/players/210400/abdoulaye-bamba  |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0134| 12.0833|
+|/players/1332549/amine-salama    |          NA|              NA|               NA|        0.2249|         0.3748|      0.0554|        0.0542|      0.0374| 11.9667|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Abdel Bouhazama |         7908|     -6.351111|4-4-2     |
