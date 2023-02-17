@@ -1,109 +1,111 @@
-[1] "Updated at 2023-02-16 13:54:55.164"
+[1] "Updated at 2023-02-16 18:35:37.330"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: FC Augsburg 1.4376 to TSG Hoffenheim 1.3166"
-[1] "Total: 2.7542"
-[1] "FC Augsburg %: 40.18"
-[1] "Draw %: 25.73"
-[1] "TSG Hoffenheim %: 34.09"
+[1] "Score: FC Augsburg 1.5295 to TSG Hoffenheim 1.4046"
+[1] "Total: 2.9341"
+[1] "FC Augsburg %: 40.78"
+[1] "Draw %: 24.47"
+[1] "TSG Hoffenheim %: 34.75"
 [1] "--XG Model--"
-[1] "Score: FC Augsburg 1.4413 to TSG Hoffenheim 1.2096"
-[1] "Total: 2.6509"
-[1] "FC Augsburg %: 41.97"
-[1] "Draw %: 26.4"
-[1] "TSG Hoffenheim %: 31.63"
+[1] "Score: FC Augsburg 1.5441 to TSG Hoffenheim 1.2983"
+[1] "Total: 2.8424"
+[1] "FC Augsburg %: 43.39"
+[1] "Draw %: 24.79"
+[1] "TSG Hoffenheim %: 31.82"
 [1] "--XGoT Model--"
-[1] "Score: FC Augsburg 1.4014 to TSG Hoffenheim 1.2657"
-[1] "Total: 2.6671"
-[1] "FC Augsburg %: 40.87"
-[1] "Draw %: 25.86"
-[1] "TSG Hoffenheim %: 33.27"
+[1] "Score: FC Augsburg 1.5325 to TSG Hoffenheim 1.3839"
+[1] "Total: 2.9164"
+[1] "FC Augsburg %: 41.24"
+[1] "Draw %: 24.54"
+[1] "TSG Hoffenheim %: 34.22"
 [1] "--XA Model--"
-[1] "Score: FC Augsburg 1.4906 to TSG Hoffenheim 1.2379"
-[1] "Total: 2.7285"
-[1] "FC Augsburg %: 42.71"
-[1] "Draw %: 25.64"
-[1] "TSG Hoffenheim %: 31.65"
+[1] "Score: FC Augsburg 1.5703 to TSG Hoffenheim 1.3098"
+[1] "Total: 2.8801"
+[1] "FC Augsburg %: 43.69"
+[1] "Draw %: 24.38"
+[1] "TSG Hoffenheim %: 31.93"
 [1] "--Mean 4 Models--"
-[1] "FC Augsburg has a mean win % of 41.43%; a min win % of 40.18%; a max win % of 42.71%."
-[1] "Draw has a mean win % of 25.91%; a min win % of 25.64%; a max win % of 26.4%."
-[1] "TSG Hoffenheim has a mean win % of 32.66%; a min win % of 31.63%; a max win of % 34.09%."
-[1] "FC Augsburg has a mean win of the Double Chance of 67.34%; a min win % of 65.91%, a max win % of 68.37%."
-[1] "TSG Hoffenheim has a mean win of the Double Chance of 58.57%; a min win % of 57.29%, a max win % of 59.82%."
-[1] "The mean likelihood that there are more than 2.5 goals is 49.87%; max % is 51.47 and min % is 48.32%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 50.13%; max % is 51.68 and min % is 48.53%."
+[1] "FC Augsburg has a mean win % of 42.27%; a min win % of 40.78%; a max win % of 43.69%."
+[1] "Draw has a mean win % of 24.55%; a min win % of 24.38%; a max win % of 24.79%."
+[1] "TSG Hoffenheim has a mean win % of 33.18%; a min win % of 31.82%; a max win of % 34.75%."
+[1] "FC Augsburg has a mean win of the Double Chance of 66.82%; a min win % of 65.25%, a max win % of 68.18%."
+[1] "TSG Hoffenheim has a mean win of the Double Chance of 57.73%; a min win % of 56.31%, a max win % of 59.22%."
+[1] "The mean likelihood that there are more than 2.5 goals is 54.57%; max % is 55.41 and min % is 53.21%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 45.43%; max % is 46.79 and min % is 44.59%."
 [1] "--Sportsbook Odds--"
-[1] "FC Augsburg Barstool Odds are: 39.22"
-[1] "The Barstool Odds of a Draw are: 27.03"
-[1] "TSG Hoffenheim Barstool Odds are: 39.22"
-[1] "FC Augsburg Adjusted Barstool Odds are: 37.186"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.628"
-[1] "TSG Hoffenheim Adjusted Barstool Odds are: 37.186"
-[1] "FC Augsburg's Barstool Odds to cover the 0 spread are: 51.81"
-[1] "TSG Hoffenheim's Barstool Odds to cover the 0 spread are: 52.63"
-[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "FC Augsburg Barstool Odds are: 37.04"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "TSG Hoffenheim Barstool Odds are: 40.82"
+[1] "FC Augsburg Adjusted Barstool Odds are: 35.062"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.297"
+[1] "TSG Hoffenheim Adjusted Barstool Odds are: 38.641"
+[1] "FC Augsburg's Barstool Odds to cover the 0.5 spread are: 63.69"
+[1] "TSG Hoffenheim's Barstool Odds to cover the -0.5 spread are: 40.82"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82% chance of the over 2.5 hitting. The line for the under is 2.15, which is a 46.51% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                               bet           date_time
-1                      FC Augsburg 2023-02-17 11:30:00
-2 under FC Augsburg/TSG Hoffenheim 2023-02-17 11:30:00
+              bet           date_time
+1     FC Augsburg 2023-02-17 11:30:00
+2 FC Augsburg ATS 2023-02-17 11:30:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team           | expected_attg| expected_gs|bet |
 |:--------------------------------------|:--------------|-------------:|-----------:|:---|
 |/players/136539/rafal-gikiewicz        |FC Augsburg    |      0.000000|   0.4761905|    |
-|/players/731338/robert-gumny           |FC Augsburg    |      0.057975|   0.0714286|    |
-|/players/245315/jeffrey-gouweleeuw     |FC Augsburg    |      0.139400|   0.0714286|*   |
-|/players/767800/felix-uduokhai         |FC Augsburg    |      0.079300|   0.0714286|    |
-|/players/657217/mads-valentin-pedersen |FC Augsburg    |      0.198875|   0.1694915|    |
-|/players/839038/elvis-rexhbecaj        |FC Augsburg    |      0.033350|   0.1785714|    |
-|/players/822788/arne-maier             |FC Augsburg    |      0.049700|   0.1694915|    |
-|/players/1178443/arne-engels           |FC Augsburg    |      0.006250|   0.1428571|    |
-|/players/840241/ermedin-demirovic      |FC Augsburg    |      0.341650|   0.3125000|    |
-|/players/1186606/dion-drena-beljo      |FC Augsburg    |      0.093000|   0.3333333|    |
-|/players/597737/mergim-berisha         |FC Augsburg    |      0.145350|   0.3703704|    |
-|/players/173461/andrej-kramaric        |TSG Hoffenheim |      0.111025|   0.3448276|    |
-|/players/458630/ihlas-bebou            |TSG Hoffenheim |      0.090425|   0.3225806|    |
-|/players/747718/christoph-baumgartner  |TSG Hoffenheim |      0.100800|   0.3225806|    |
-|/players/603537/angelino               |TSG Hoffenheim |      0.122250|   0.1666667|    |
-|/players/170218/thomas-delaney         |TSG Hoffenheim |      0.094125|   0.1333333|    |
-|/players/119525/sebastian-rudy         |TSG Hoffenheim |      0.052975|   0.1333333|    |
-|/players/212156/pavel-kaderabek        |TSG Hoffenheim |      0.122225|   0.0714286|*   |
-|/players/278831/john-anthony-brooks    |TSG Hoffenheim |      0.101500|   0.0909091|    |
-|/players/167589/kevin-vogt             |TSG Hoffenheim |      0.094350|   0.0526316|    |
-|/players/845990/ozan-kabak             |TSG Hoffenheim |      0.102500|   0.0714286|    |
+|/players/731338/robert-gumny           |FC Augsburg    |      0.025325|   0.0714286|    |
+|/players/245315/jeffrey-gouweleeuw     |FC Augsburg    |      0.059500|   0.0714286|    |
+|/players/767800/felix-uduokhai         |FC Augsburg    |      0.034500|   0.0714286|    |
+|/players/657217/mads-valentin-pedersen |FC Augsburg    |      0.089875|   0.1666667|    |
+|/players/839038/elvis-rexhbecaj        |FC Augsburg    |      0.031650|   0.1754386|    |
+|/players/822788/arne-maier             |FC Augsburg    |      0.045075|   0.1666667|    |
+|/players/1178443/arne-engels           |FC Augsburg    |      0.004975|   0.1428571|    |
+|/players/840241/ermedin-demirovic      |FC Augsburg    |      0.319175|   0.3125000|    |
+|/players/1186606/dion-drena-beljo      |FC Augsburg    |      0.230825|   0.3225806|    |
+|/players/597737/mergim-berisha         |FC Augsburg    |      0.344300|   0.3703704|    |
+|/players/173461/andrej-kramaric        |TSG Hoffenheim |      0.256100|   0.3389831|    |
+|/players/458630/ihlas-bebou            |TSG Hoffenheim |      0.219925|   0.3225806|    |
+|/players/747718/christoph-baumgartner  |TSG Hoffenheim |      0.190250|   0.3125000|    |
+|/players/603537/angelino               |TSG Hoffenheim |      0.071275|   0.1666667|    |
+|/players/170218/thomas-delaney         |TSG Hoffenheim |      0.060775|   0.1333333|    |
+|/players/119525/sebastian-rudy         |TSG Hoffenheim |      0.032925|   0.1333333|    |
+|/players/212156/pavel-kaderabek        |TSG Hoffenheim |      0.071950|   0.0714286|    |
+|/players/278831/john-anthony-brooks    |TSG Hoffenheim |      0.042675|   0.0833333|    |
+|/players/167589/kevin-vogt             |TSG Hoffenheim |      0.042250|   0.0526316|    |
+|/players/845990/ozan-kabak             |TSG Hoffenheim |      0.043550|   0.0714286|    |
 |/players/178778/oliver-baumann         |TSG Hoffenheim |      0.000000|   0.0588235|    |
-|/players/774625/fredrik-jensen         |FC Augsburg    |      0.015875|   0.2127660|    |
-|/players/656530/sergio-cordova         |FC Augsburg    |      0.021450|   0.3703704|    |
-|/players/951927/kelvin-yeboah          |FC Augsburg    |      0.022500|   0.3030303|    |
-|/players/1049799/nathanal-mbuku        |FC Augsburg    |      0.026650|   0.2222222|    |
-|/players/640742/kasper-dolberg         |TSG Hoffenheim |      0.008500|   0.3773585|    |
-|/players/289472/munas-dabbur           |TSG Hoffenheim |      0.088500|   0.3921569|    |
-|/players/353519/kevin-akpoguma         |TSG Hoffenheim |      0.017300|   0.1250000|    |
-|/players/1071186/angelo-stiller        |TSG Hoffenheim |      0.011525|   0.1052632|    |
+|/players/774625/fredrik-jensen         |FC Augsburg    |      0.017600|   0.2127660|    |
+|/players/656530/sergio-cordova         |FC Augsburg    |      0.022100|   0.3703704|    |
+|/players/951927/kelvin-yeboah          |FC Augsburg    |      0.023650|   0.3030303|    |
+|/players/1049799/nathanal-mbuku        |FC Augsburg    |      0.027825|   0.2173913|    |
+|/players/640742/kasper-dolberg         |TSG Hoffenheim |      0.008200|   0.3703704|    |
+|/players/289472/munas-dabbur           |TSG Hoffenheim |      0.089500|   0.3846154|    |
+|/players/353519/kevin-akpoguma         |TSG Hoffenheim |      0.018975|   0.1250000|    |
+|/players/1071186/angelo-stiller        |TSG Hoffenheim |      0.012800|   0.1052632|    |
+____________________________________________________
+
 [1] "Facts about FC Augsburg:"
 [1] "Lineup: expected"
 
 
 |pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/136539/rafal-gikiewicz        |           0|         34.8543|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/731338/robert-gumny           |           1|         28.1592|           1.5706|        0.1741|         0.8629|      0.0689|        0.0597|      0.0923| 90.0000|
-|/players/245315/jeffrey-gouweleeuw     |           1|         42.4079|           1.2058|        0.6143|         1.2263|      0.1621|        0.1396|      0.0844| 90.0000|
-|/players/767800/felix-uduokhai         |           1|         45.9254|           1.1892|        0.4694|         1.2278|      0.1582|        0.0833|      0.0566| 90.0000|
-|/players/657217/mads-valentin-pedersen |           1|         20.5873|           1.5096|        0.2824|         1.1663|      0.1066|        0.2093|      0.0810| 80.8235|
-|/players/839038/elvis-rexhbecaj        |           3|         30.2622|           1.2841|        0.1992|         0.8250|      0.0542|        0.0355|      0.0226| 82.0758|
-|/players/822788/arne-maier             |           3|         37.0343|           0.8116|        0.2675|         0.6965|      0.0677|        0.0509|      0.0720| 80.7674|
-|/players/1178443/arne-engels           |           3|         42.0492|           1.9493|        0.1752|         0.7742|      0.0277|        0.0062|      0.1193| 90.0000|
-|/players/840241/ermedin-demirovic      |           3|         22.9163|           1.3848|        0.8804|         2.1608|      0.3453|        0.3992|      0.0992| 90.0000|
-|/players/1186606/dion-drena-beljo      |           5|         33.7173|           1.0777|        0.3340|         0.7772|      0.0532|        0.0966|      0.0329| 90.0000|
-|/players/597737/mergim-berisha         |           5|         31.0210|           1.5046|        0.3896|         1.3193|      0.1730|        0.1493|      0.1111| 77.5714|
-|/players/774625/fredrik-jensen         |          NA|              NA|               NA|        0.0701|         0.2014|      0.0231|        0.0158|      0.0234| 12.4286|
-|/players/656530/sergio-cordova         |          NA|              NA|               NA|        0.0670|         0.2009|      0.0427|        0.0203|      0.0037|  9.2326|
-|/players/951927/kelvin-yeboah          |          NA|              NA|               NA|        0.1027|         0.2826|      0.0430|        0.0200|      0.0110|  9.1765|
-|/players/1049799/nathanal-mbuku        |          NA|              NA|               NA|        0.0606|         0.1617|      0.0252|        0.0253|      0.0027|  7.9242|
+|/players/136539/rafal-gikiewicz        |           0|         34.3852|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/731338/robert-gumny           |           1|         32.0896|           1.6983|        0.0588|         0.4038|      0.0320|        0.0264|      0.0667| 90.0000|
+|/players/245315/jeffrey-gouweleeuw     |           1|         48.3272|           1.3038|        0.2074|         0.5739|      0.0753|        0.0618|      0.0610| 90.0000|
+|/players/767800/felix-uduokhai         |           1|         52.3356|           1.2859|        0.1584|         0.5746|      0.0735|        0.0369|      0.0409| 90.0000|
+|/players/657217/mads-valentin-pedersen |           1|         23.4608|           1.6323|        0.0953|         0.5458|      0.0495|        0.0927|      0.0585| 80.8235|
+|/players/839038/elvis-rexhbecaj        |           3|         31.7929|           1.7943|        0.2389|         1.0153|      0.0576|        0.0326|      0.0325| 82.0758|
+|/players/822788/arne-maier             |           3|         38.9076|           1.1340|        0.3208|         0.8571|      0.0719|        0.0468|      0.1035| 80.7674|
+|/players/1178443/arne-engels           |           3|         44.1761|           2.7237|        0.2102|         0.9528|      0.0295|        0.0057|      0.1715| 90.0000|
+|/players/840241/ermedin-demirovic      |           3|         24.0755|           1.9350|        1.0558|         2.6592|      0.3670|        0.3674|      0.1427| 90.0000|
+|/players/1186606/dion-drena-beljo      |           5|         21.1208|           0.5850|        0.8105|         1.6341|      0.1300|        0.2680|      0.0387| 90.0000|
+|/players/597737/mergim-berisha         |           5|         19.4318|           0.8168|        0.9454|         2.7742|      0.4231|        0.4140|      0.1310| 77.5714|
+|/players/774625/fredrik-jensen         |          NA|              NA|               NA|        0.0769|         0.2212|      0.0248|        0.0174|      0.0257| 12.4286|
+|/players/656530/sergio-cordova         |          NA|              NA|               NA|        0.0735|         0.2206|      0.0460|        0.0224|      0.0040|  9.2326|
+|/players/951927/kelvin-yeboah          |          NA|              NA|               NA|        0.1128|         0.3103|      0.0462|        0.0220|      0.0121|  9.1765|
+|/players/1049799/nathanal-mbuku        |          NA|              NA|               NA|        0.0666|         0.1775|      0.0271|        0.0278|      0.0030|  7.9242|
 
 
 |manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
@@ -117,21 +119,21 @@ ____________________________________________________
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/173461/andrej-kramaric       |           5|         45.4820|           0.7202|        0.4258|         1.1985|      0.1127|        0.1157|      0.0951| 90.0000|
-|/players/458630/ihlas-bebou           |           5|         25.0090|           1.7967|        0.2350|         0.7224|      0.0883|        0.0956|      0.0594| 79.3396|
-|/players/747718/christoph-baumgartner |           4|         33.0051|           1.2327|        0.3094|         0.9018|      0.0951|        0.1056|      0.0726| 80.4444|
-|/players/603537/angelino              |           3|         34.8162|           1.0848|        0.4204|         1.0974|      0.1209|        0.1329|      0.1312| 90.0000|
-|/players/170218/thomas-delaney        |           3|         38.5237|           1.5427|        0.2263|         0.8861|      0.0801|        0.1005|      0.0287| 79.7455|
-|/players/119525/sebastian-rudy        |           3|         31.1798|           1.5152|        0.3422|         0.9138|      0.0481|        0.0554|      0.0848| 77.8750|
-|/players/212156/pavel-kaderabek       |           3|         33.3744|           0.9396|        0.3135|         0.8824|      0.1587|        0.1337|      0.0635| 90.0000|
-|/players/278831/john-anthony-brooks   |           1|         35.9874|           1.5246|        0.2967|         1.2783|      0.1425|        0.1057|      0.0695| 90.0000|
-|/players/167589/kevin-vogt            |           1|         43.7424|           0.8402|        0.2967|         0.2117|      0.0119|        0.1056|      0.0986| 90.0000|
-|/players/845990/ozan-kabak            |           1|         31.0471|           1.7727|        0.4452|         1.5369|      0.1649|        0.1056|      0.0757| 90.0000|
-|/players/178778/oliver-baumann        |           0|         36.9256|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/640742/kasper-dolberg        |          NA|              NA|               NA|        0.0741|         0.2099|      0.0327|        0.0071|      0.0057| 12.1250|
-|/players/289472/munas-dabbur          |          NA|              NA|               NA|        0.1761|         0.3032|      0.0558|        0.0881|      0.0115| 10.6604|
-|/players/353519/kevin-akpoguma        |          NA|              NA|               NA|        0.0299|         0.0896|      0.0117|        0.0181|      0.0150| 10.2545|
-|/players/1071186/angelo-stiller       |          NA|              NA|               NA|        0.0371|         0.0371|      0.0027|        0.0128|      0.0184|  9.5556|
+|/players/173461/andrej-kramaric       |           5|         25.6718|           0.3993|        1.1354|         2.7278|      0.3029|        0.3074|      0.1153| 90.0000|
+|/players/458630/ihlas-bebou           |           5|         14.1160|           0.9963|        0.6267|         1.6441|      0.2373|        0.2539|      0.0720| 79.3396|
+|/players/747718/christoph-baumgartner |           4|         30.0367|           1.2479|        0.5163|         1.6795|      0.2061|        0.2162|      0.1292| 80.4444|
+|/players/603537/angelino              |           3|         36.6910|           1.4844|        0.3125|         0.9088|      0.0694|        0.0772|      0.1769| 90.0000|
+|/players/170218/thomas-delaney        |           3|         40.5983|           2.1110|        0.1682|         0.7338|      0.0460|        0.0583|      0.0387| 79.7455|
+|/players/119525/sebastian-rudy        |           3|         32.8589|           2.0733|        0.2544|         0.7567|      0.0276|        0.0321|      0.1144| 77.8750|
+|/players/212156/pavel-kaderabek       |           3|         35.1716|           1.2857|        0.2331|         0.7308|      0.0911|        0.0776|      0.0857| 90.0000|
+|/players/278831/john-anthony-brooks   |           1|         45.6538|           1.7307|        0.1013|         0.5425|      0.0552|        0.0464|      0.0325| 90.0000|
+|/players/167589/kevin-vogt            |           1|         55.4917|           0.9537|        0.1013|         0.0898|      0.0046|        0.0463|      0.0460| 90.0000|
+|/players/845990/ozan-kabak            |           1|         39.3865|           2.0123|        0.1520|         0.6523|      0.0639|        0.0463|      0.0353| 90.0000|
+|/players/178778/oliver-baumann        |           0|         34.7044|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/640742/kasper-dolberg        |          NA|              NA|               NA|        0.0814|         0.2305|      0.0352|        0.0078|      0.0062| 12.1250|
+|/players/289472/munas-dabbur          |          NA|              NA|               NA|        0.1933|         0.3329|      0.0600|        0.0969|      0.0126| 10.6604|
+|/players/353519/kevin-akpoguma        |          NA|              NA|               NA|        0.0328|         0.0984|      0.0126|        0.0199|      0.0165| 10.2545|
+|/players/1071186/angelo-stiller       |          NA|              NA|               NA|        0.0407|         0.0407|      0.0029|        0.0141|      0.0202|  9.5556|
 
 
 |manager_name         | m_minutes_xg| m_avg_elo_dif|formation |
