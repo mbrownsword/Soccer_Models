@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 12:35:01.030"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Bayer Leverkusen 1.7424 to Mainz 1.2402"
+[1] "Total: 2.9826"
+[1] "Bayer Leverkusen %: 49.54"
+[1] "Draw %: 24.03"
+[1] "Mainz %: 26.43"
+[1] "--XG Model--"
+[1] "Score: Bayer Leverkusen 1.6972 to Mainz 1.1405"
+[1] "Total: 2.8377"
+[1] "Bayer Leverkusen %: 51.37"
+[1] "Draw %: 23.78"
+[1] "Mainz %: 24.85"
+[1] "--XGoT Model--"
+[1] "Score: Bayer Leverkusen 1.741 to Mainz 1.2184"
+[1] "Total: 2.9594"
+[1] "Bayer Leverkusen %: 49.61"
+[1] "Draw %: 24.21"
+[1] "Mainz %: 26.18"
+[1] "--XA Model--"
+[1] "Score: Bayer Leverkusen 1.8137 to Mainz 1.0558"
+[1] "Total: 2.8695"
+[1] "Bayer Leverkusen %: 55.63"
+[1] "Draw %: 22.78"
+[1] "Mainz %: 21.59"
+[1] "--Mean 4 Models--"
+[1] "Bayer Leverkusen has a mean win % of 51.54%; a min win % of 49.54%; a max win % of 55.63%."
+[1] "Draw has a mean win % of 23.7%; a min win % of 22.78%; a max win % of 24.21%."
+[1] "Mainz has a mean win % of 24.76%; a min win % of 21.59%; a max win of % 26.43%."
+[1] "Bayer Leverkusen has a mean win of the Double Chance of 75.24%; a min win % of 73.57%, a max win % of 78.41%."
+[1] "Mainz has a mean win of the Double Chance of 48.46%; a min win % of 44.37%, a max win % of 50.46%."
+[1] "The mean likelihood that there are more than 2.5 goals is 54.93%; max % is 56.55 and min % is 53.16%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 45.07%; max % is 46.84 and min % is 43.45%."
+[1] "--Sportsbook Odds--"
+[1] "Bayer Leverkusen Barstool Odds are: 56.52"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Mainz Barstool Odds are: 23.81"
+[1] "Bayer Leverkusen Adjusted Barstool Odds are: 53.336"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.196"
+[1] "Mainz Adjusted Barstool Odds are: 22.469"
+[1] "Bayer Leverkusen's Barstool Odds to cover the  spread are: NA"
+[1] "Mainz's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14% chance of the over 2.5 hitting. The line for the under is 2.08, which is a 48.08% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 10:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team             | expected_attg| expected_gs|bet |
+|:------------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/66757/lukas-hradecky        |Bayer Leverkusen |      0.000000|   0.1000000|    |
+|/players/789914/edmond-tapsoba       |Bayer Leverkusen |      0.040025|   0.2127660|    |
+|/players/469700/jonathan-tah         |Bayer Leverkusen |      0.041950|   0.0769231|    |
+|/players/1137667/piero-hincapi       |Bayer Leverkusen |      0.069325|   0.0714286|    |
+|/players/966018/jeremie-frimpong     |Bayer Leverkusen |      0.133500|   0.2127660|    |
+|/players/331540/kerem-demirbay       |Bayer Leverkusen |      0.133625|   0.2631579|    |
+|/players/411851/robert-andrich       |Bayer Leverkusen |      0.049150|   0.2222222|    |
+|/players/514806/daley-sinkgraven     |Bayer Leverkusen |      0.005775|   0.0714286|    |
+|/players/1152455/florian-wirtz       |Bayer Leverkusen |      0.166700|   0.2941176|    |
+|/players/1079557/amine-adli          |Bayer Leverkusen |      0.348650|   0.4651163|    |
+|/players/969870/adam-hlozek          |Bayer Leverkusen |      0.283150|   0.3508772|    |
+|/players/471153/ludovic-ajorque      |Mainz            |      0.239200|   0.3333333|    |
+|/players/176953/karim-onisiwo        |Mainz            |      0.173625|   0.3030303|    |
+|/players/523749/jae-sung-lee         |Mainz            |      0.102950|   0.1851852|    |
+|/players/771401/anthony-caci         |Mainz            |      0.021175|   0.0666667|    |
+|/players/303905/dominik-kohr         |Mainz            |      0.024575|   0.0833333|    |
+|/players/930065/leandro-barreiro     |Mainz            |      0.064250|   0.1176471|    |
+|/players/275034/silvan-widmer        |Mainz            |      0.070025|   0.0769231|    |
+|/players/451335/edimilson-fernandes  |Mainz            |      0.020175|   0.0909091|    |
+|/players/193901/stefan-bell          |Mainz            |      0.020050|   0.0769231|    |
+|/players/630286/andreas-hanche-olsen |Mainz            |      0.043525|   0.0588235|    |
+|/players/926445/finn-dahmen          |Mainz            |      0.000000|   0.1538462|    |
+|/players/614449/nadiem-amiri         |Bayer Leverkusen |      0.097625|   0.2127660|    |
+|/players/846383/callum-hudson-odoi   |Bayer Leverkusen |      0.059850|   0.2380952|    |
+|/players/891870/mitchel-bakker       |Bayer Leverkusen |      0.020600|   0.2777778|    |
+|/players/208230/karim-bellarabi      |Bayer Leverkusen |      0.036775|   0.2222222|    |
+|/players/904710/delano-burgzorg      |Mainz            |      0.099875|   0.1176471|    |
+|/players/443733/marcus-ingvartsen    |Mainz            |      0.106575|   0.2702703|    |
+|/players/803027/aymen-barkok         |Mainz            |      0.017175|   0.1851852|    |
+|/players/240537/danny-da-costa       |Mainz            |      0.000000|   0.1333333|    |
+____________________________________________________
+
+[1] "Facts about Bayer Leverkusen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/66757/lukas-hradecky      |           0|         42.8728|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/789914/edmond-tapsoba     |           1|         64.6017|           1.6771|        0.1257|         0.6074|      0.0571|        0.0402|      0.0454| 90.0000|
+|/players/469700/jonathan-tah       |           1|         58.1055|           1.0610|        0.0813|         0.4488|      0.0584|        0.0407|      0.0384| 90.0000|
+|/players/1137667/piero-hincapi     |           1|         48.1371|           1.8103|        0.2998|         0.5883|      0.0538|        0.0672|      0.0362| 90.0000|
+|/players/966018/jeremie-frimpong   |           3|         30.8460|           1.6667|        0.3082|         0.8023|      0.1153|        0.1392|      0.1486| 81.7333|
+|/players/331540/kerem-demirbay     |           3|         52.1135|           2.1341|        0.4921|         1.5961|      0.1279|        0.1362|      0.1708| 81.6341|
+|/players/411851/robert-andrich     |           3|         50.0193|           1.9330|        0.1950|         0.9358|      0.0450|        0.0487|      0.0377| 90.0000|
+|/players/514806/daley-sinkgraven   |           3|         35.1989|           1.3021|        0.1051|         0.3761|      0.0248|        0.0057|      0.0543| 72.5000|
+|/players/1152455/florian-wirtz     |           4|         42.9490|           1.5262|        0.6412|         1.9324|      0.1806|        0.1632|      0.1686| 90.0000|
+|/players/1079557/amine-adli        |           5|         33.3225|           1.1569|        1.1368|         2.5962|      0.5094|        0.3983|      0.0968| 90.0000|
+|/players/969870/adam-hlozek        |           5|         16.1921|           0.2631|        0.6550|         1.8086|      0.2032|        0.3072|      0.0959| 77.5263|
+|/players/614449/nadiem-amiri       |          NA|              NA|               NA|        0.4114|         0.7714|      0.0688|        0.0974|      0.0445| 17.5000|
+|/players/846383/callum-hudson-odoi |          NA|              NA|               NA|        0.1036|         0.3314|      0.0215|        0.0554|      0.0584| 12.4737|
+|/players/891870/mitchel-bakker     |          NA|              NA|               NA|        0.0537|         0.0716|      0.0115|        0.0189|      0.0097|  8.3659|
+|/players/208230/karim-bellarabi    |          NA|              NA|               NA|        0.1750|         0.5251|      0.0308|        0.0338|      0.0316|  8.2667|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Xabi Alonso  |        14831|          4.63|3-4-3     |
+____________________________________________________
+
+[1] "Facts about Mainz:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/471153/ludovic-ajorque      |           5|         25.7347|           0.8968|        0.7827|         1.7884|      0.3089|        0.3069|      0.0738| 90.0000|
+|/players/176953/karim-onisiwo        |           5|         16.1710|           0.7126|        0.7041|         1.8617|      0.2208|        0.2160|      0.0746| 82.7714|
+|/players/523749/jae-sung-lee         |           4|         27.6455|           1.3504|        0.3225|         1.0200|      0.0915|        0.1217|      0.0769| 70.6000|
+|/players/771401/anthony-caci         |           3|         41.8044|           1.9891|        0.1105|         0.4817|      0.0203|        0.0237|      0.1147| 90.0000|
+|/players/303905/dominik-kohr         |           3|         42.1904|           2.1480|        0.1506|         0.8337|      0.0561|        0.0292|      0.0659| 82.2069|
+|/players/930065/leandro-barreiro     |           3|         26.2516|           2.1488|        0.2585|         0.8265|      0.0717|        0.0709|      0.0507| 81.8462|
+|/players/275034/silvan-widmer        |           3|         33.0380|           1.5288|        0.2680|         0.6978|      0.0748|        0.0802|      0.0985| 90.0000|
+|/players/451335/edimilson-fernandes  |           1|         38.8734|           1.3609|        0.1184|         0.3376|      0.0174|        0.0218|      0.0459| 90.0000|
+|/players/193901/stefan-bell          |           1|         45.6228|           1.5285|        0.1297|         0.4692|      0.0559|        0.0218|      0.0224| 90.0000|
+|/players/630286/andreas-hanche-olsen |           1|         52.1370|           1.1602|        0.1184|         0.3987|      0.0500|        0.0505|      0.0144| 90.0000|
+|/players/926445/finn-dahmen          |           0|         31.1488|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/904710/delano-burgzorg      |          NA|              NA|               NA|        0.3653|         0.8037|      0.0667|        0.1204|      0.0281| 19.4000|
+|/players/443733/marcus-ingvartsen    |          NA|              NA|               NA|        0.2212|         0.4555|      0.0809|        0.1273|      0.0122|  8.1538|
+|/players/803027/aymen-barkok         |          NA|              NA|               NA|        0.0840|         0.2353|      0.0119|        0.0202|      0.0408|  7.7931|
+|/players/240537/danny-da-costa       |          NA|              NA|               NA|        0.0000|         0.1352|      0.0060|        0.0000|      0.0043|  7.2286|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Bo Svensson  |        72052|    -0.6031579|3-5-2     |
