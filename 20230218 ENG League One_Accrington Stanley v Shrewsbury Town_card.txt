@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 18:13:17.907"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Accrington Stanley 1.0334 to Shrewsbury Town 1.3807"
+[1] "Total: 2.4141"
+[1] "Accrington Stanley %: 28.41"
+[1] "Draw %: 27.49"
+[1] "Shrewsbury Town %: 44.1"
+[1] "--XG Model--"
+[1] "Score: Accrington Stanley 0.8902 to Shrewsbury Town 1.3178"
+[1] "Total: 2.208"
+[1] "Accrington Stanley %: 24.66"
+[1] "Draw %: 28.6"
+[1] "Shrewsbury Town %: 46.74"
+[1] "--XGoT Model--"
+[1] "Score: Accrington Stanley 0.8104 to Shrewsbury Town 1.4811"
+[1] "Total: 2.2915"
+[1] "Accrington Stanley %: 20.84"
+[1] "Draw %: 26.08"
+[1] "Shrewsbury Town %: 53.08"
+[1] "--XA Model--"
+[1] "Score: Accrington Stanley 1.1118 to Shrewsbury Town 1.3291"
+[1] "Total: 2.4409"
+[1] "Accrington Stanley %: 31.41"
+[1] "Draw %: 27.48"
+[1] "Shrewsbury Town %: 41.11"
+[1] "--Mean 4 Models--"
+[1] "Accrington Stanley has a mean win % of 26.33%; a min win % of 20.84%; a max win % of 31.41%."
+[1] "Draw has a mean win % of 27.41%; a min win % of 26.08%; a max win % of 28.6%."
+[1] "Shrewsbury Town has a mean win % of 46.26%; a min win % of 41.11%; a max win of % 53.08%."
+[1] "Accrington Stanley has a mean win of the Double Chance of 53.74%; a min win % of 46.92%, a max win % of 58.89%."
+[1] "Shrewsbury Town has a mean win of the Double Chance of 73.67%; a min win % of 68.59%, a max win % of 79.16%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.88%; max % is 43.73 and min % is 37.01%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.12%; max % is 62.99 and min % is 56.27%."
+[1] "--Sportsbook Odds--"
+[1] "Accrington Stanley Barstool Odds are: 30.77"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Shrewsbury Town Barstool Odds are: 44.44"
+[1] "Accrington Stanley Adjusted Barstool Odds are: 28.768"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.684"
+[1] "Shrewsbury Town Adjusted Barstool Odds are: 41.548"
+[1] "Accrington Stanley's Barstool Odds to cover the 0.5 spread are: 61.73"
+[1] "Shrewsbury Town's Barstool Odds to cover the -0.5 spread are: 44.84"
+[1] "Barstool's line for the total is 2.5 at 2.25, which is a 44.44% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team               | expected_attg| expected_gs|bet |
+|:------------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/937535/lukas-bornhft-jensen |Accrington Stanley |      0.000000|   0.1538462|    |
+|/players/867082/mitchell-clark       |Accrington Stanley |      0.023250|   0.0769231|    |
+|/players/966016/ryan-astley          |Accrington Stanley |      0.047300|   0.0769231|    |
+|/players/787216/harvey-rodgers       |Accrington Stanley |      0.026600|   0.0833333|    |
+|/players/24143/shaun-whalley         |Accrington Stanley |      0.057550|   0.2380952|    |
+|/players/873019/joe-pritchard        |Accrington Stanley |      0.045625|   0.2083333|    |
+|/players/1273274/liam-coyle          |Accrington Stanley |      0.013200|   0.0952381|    |
+|/players/923281/ethan-hamilton       |Accrington Stanley |      0.048025|   0.1851852|    |
+|/players/164850/sean-mcconville      |Accrington Stanley |      0.108200|   0.1818182|    |
+|/players/1089684/aaron-pressley      |Accrington Stanley |      0.222025|   0.2631579|    |
+|/players/1113728/tommy-leigh         |Accrington Stanley |      0.207275|   0.2500000|    |
+|/players/563177/marko-marosi         |Shrewsbury Town    |      0.000000|   0.0909091|    |
+|/players/516273/matthew-pennington   |Shrewsbury Town    |      0.044200|   0.1052632|    |
+|/players/181624/tom-flanagan         |Shrewsbury Town    |      0.002125|   0.0625000|    |
+|/players/352866/cheyenne-dunkley     |Shrewsbury Town    |      0.018125|   0.1000000|    |
+|/players/881519/tom-bayliss          |Shrewsbury Town    |      0.152150|   0.2127660|    |
+|/players/238765/carl-winchester      |Shrewsbury Town    |      0.028650|   0.1000000|    |
+|/players/609841/taylor-moore         |Shrewsbury Town    |      0.008150|   0.0625000|    |
+|/players/766650/jordan-shipley       |Shrewsbury Town    |      0.074450|   0.1886792|    |
+|/players/354785/luke-leahy           |Shrewsbury Town    |      0.144975|   0.1666667|    |
+|/players/1204282/robert-street       |Shrewsbury Town    |      0.160600|   0.2777778|    |
+|/players/1116148/christian-saydee    |Shrewsbury Town    |      0.425225|   0.3030303|*   |
+|/players/770268/rosaire-longelo      |Accrington Stanley |      0.011650|   0.1250000|    |
+|/players/1075248/korede-adedoyin     |Accrington Stanley |      0.022900|   0.2272727|    |
+|/players/119521/seamus-conneely      |Accrington Stanley |      0.000000|   0.1111111|    |
+|/players/1283966/josh-woods          |Accrington Stanley |      0.009125|   0.2380952|    |
+|/players/768698/rekeil-pyke          |Shrewsbury Town    |      0.009600|   0.2777778|    |
+|/players/186900/ryan-bowman          |Shrewsbury Town    |      0.043625|   0.2777778|    |
+|/players/96456/elliott-bennett       |Shrewsbury Town    |      0.000000|   0.1428571|    |
+|/players/1189606/tom-bloxham         |Shrewsbury Town    |      0.004050|   0.2777778|    |
+____________________________________________________
+
+[1] "Facts about Accrington Stanley:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/937535/lukas-bornhft-jensen |           0|         28.6702|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/867082/mitchell-clark       |           1|         36.3373|           1.0882|        0.0723|         0.3305|      0.0096|        0.0191|      0.0428| 90.0000|
+|/players/966016/ryan-astley          |           1|         44.0813|           1.7570|        0.2282|         0.5699|      0.0617|        0.0420|      0.0045| 90.0000|
+|/players/787216/harvey-rodgers       |           1|         38.3546|           0.9426|        0.1772|         0.6173|      0.0372|        0.0253|      0.0258| 90.0000|
+|/players/24143/shaun-whalley         |           3|         24.2898|           1.4664|        0.3240|         0.8749|      0.0596|        0.0505|      0.1158| 79.7083|
+|/players/873019/joe-pritchard        |           3|         25.8644|           1.2763|        0.2692|         1.3424|      0.0555|        0.0423|      0.0391| 83.8077|
+|/players/1273274/liam-coyle          |           3|         32.8868|           2.1996|        0.0162|         0.3192|      0.0142|        0.0110|      0.0457| 82.6250|
+|/players/923281/ethan-hamilton       |           3|         30.7605|           2.0312|        0.3735|         1.3874|      0.0391|        0.0397|      0.0248| 90.0000|
+|/players/164850/sean-mcconville      |           3|         38.5694|           1.5199|        0.3149|         1.0342|      0.0988|        0.0922|      0.1598| 90.0000|
+|/players/1089684/aaron-pressley      |           5|         15.4252|           0.5806|        0.7727|         1.4527|      0.2167|        0.2092|      0.0415| 77.5000|
+|/players/1113728/tommy-leigh         |           5|         20.3444|           0.9173|        0.5426|         2.5946|      0.1803|        0.1867|      0.0977| 90.0000|
+|/players/770268/rosaire-longelo      |           0|              NA|               NA|        0.0441|         0.1102|      0.0080|        0.0102|      0.0052| 12.5000|
+|/players/1075248/korede-adedoyin     |           0|              NA|               NA|        0.1244|         0.3422|      0.0482|        0.0205|      0.0007| 10.2917|
+|/players/119521/seamus-conneely      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0025|  7.3750|
+|/players/1283966/josh-woods          |           0|              NA|               NA|        0.0676|         0.1689|      0.0075|        0.0080|      0.0146|  6.1923|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|John Coleman |        28608|     -5.155892|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Shrewsbury Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/563177/marko-marosi       |           0|         25.5099|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/516273/matthew-pennington |           1|         48.6806|           1.7099|        0.1332|         0.5189|      0.0788|        0.0469|      0.0580| 90.0000|
+|/players/181624/tom-flanagan       |           1|         54.9476|           1.8523|        0.1016|         0.5190|      0.0147|        0.0021|      0.0198| 90.0000|
+|/players/352866/cheyenne-dunkley   |           1|         38.5151|           1.1246|        0.1125|         0.4713|      0.0329|        0.0186|      0.0374| 90.0000|
+|/players/881519/tom-bayliss        |           3|         29.3151|           1.0760|        0.3196|         0.8596|      0.1174|        0.1651|      0.0864| 81.8750|
+|/players/238765/carl-winchester    |           3|         36.7703|           2.0254|        0.3288|         1.0285|      0.0105|        0.0307|      0.0396| 82.9821|
+|/players/609841/taylor-moore       |           3|         37.0570|           1.3164|        0.0886|         0.8940|      0.0341|        0.0094|      0.0759| 90.0000|
+|/players/766650/jordan-shipley     |           3|         27.3570|           2.0127|        0.5082|         1.3383|      0.0826|        0.0793|      0.1017| 90.0000|
+|/players/354785/luke-leahy         |           3|         39.0815|           2.1852|        0.5518|         1.2849|      0.1599|        0.1672|      0.2268| 90.0000|
+|/players/1204282/robert-street     |           5|         17.9936|           0.4489|        0.7075|         2.0020|      0.1833|        0.1741|      0.0901| 76.8800|
+|/players/1116148/christian-saydee  |           5|         14.0857|           0.8633|        1.0107|         2.0583|      0.3724|        0.5660|      0.0650| 78.0357|
+|/players/768698/rekeil-pyke        |           0|              NA|               NA|        0.0885|         0.2064|      0.0108|        0.0093|      0.0125| 13.1200|
+|/players/186900/ryan-bowman        |           0|              NA|               NA|        0.1124|         0.2623|      0.0545|        0.0474|      0.0044| 11.9643|
+|/players/96456/elliott-bennett     |           0|              NA|               NA|        0.0000|         0.0876|      0.0025|        0.0000|      0.0013|  8.1250|
+|/players/1189606/tom-bloxham       |           0|              NA|               NA|        0.0553|         0.1107|      0.0024|        0.0038|      0.0100|  7.0179|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Steve Cotterill |        28578|     -4.302981|3-5-2     |
