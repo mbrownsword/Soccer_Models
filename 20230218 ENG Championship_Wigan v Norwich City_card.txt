@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 17:54:04.817"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Wigan 0.8849 to Norwich City 1.4318"
+[1] "Total: 2.3167"
+[1] "Wigan %: 23.51"
+[1] "Draw %: 26.78"
+[1] "Norwich City %: 49.71"
+[1] "--XG Model--"
+[1] "Score: Wigan 0.9804 to Norwich City 1.7969"
+[1] "Total: 2.7773"
+[1] "Wigan %: 20.52"
+[1] "Draw %: 24.21"
+[1] "Norwich City %: 55.27"
+[1] "--XGoT Model--"
+[1] "Score: Wigan 0.8925 to Norwich City 1.8746"
+[1] "Total: 2.7671"
+[1] "Wigan %: 17.38"
+[1] "Draw %: 22.33"
+[1] "Norwich City %: 60.29"
+[1] "--XA Model--"
+[1] "Score: Wigan 0.9211 to Norwich City 1.3831"
+[1] "Total: 2.3042"
+[1] "Wigan %: 25.33"
+[1] "Draw %: 27.33"
+[1] "Norwich City %: 47.34"
+[1] "--Mean 4 Models--"
+[1] "Wigan has a mean win % of 21.69%; a min win % of 17.38%; a max win % of 25.33%."
+[1] "Draw has a mean win % of 25.16%; a min win % of 22.33%; a max win % of 27.33%."
+[1] "Norwich City has a mean win % of 53.15%; a min win % of 47.34%; a max win of % 60.29%."
+[1] "Wigan has a mean win of the Double Chance of 46.85%; a min win % of 39.71%, a max win % of 52.66%."
+[1] "Norwich City has a mean win of the Double Chance of 78.32%; a min win % of 74.67%, a max win % of 82.62%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.1%; max % is 51.89 and min % is 40.34%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.9%; max % is 59.66 and min % is 48.11%."
+[1] "--Sportsbook Odds--"
+[1] "Wigan Barstool Odds are: 26.67"
+[1] "The Barstool Odds of a Draw are: 29.85"
+[1] "Norwich City Barstool Odds are: 50"
+[1] "Wigan Adjusted Barstool Odds are: 25.038"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.023"
+[1] "Norwich City Adjusted Barstool Odds are: 46.94"
+[1] "Wigan's Barstool Odds to cover the 0.5 spread are: 55.87"
+[1] "Norwich City's Barstool Odds to cover the -0.5 spread are: 50.76"
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team         | expected_attg| expected_gs|bet |
+|:--------------------------------------|:------------|-------------:|-----------:|:---|
+|/players/133089/jamie-jones            |Wigan        |      0.000000|   0.0454545|    |
+|/players/211837/tendayi-darikwa        |Wigan        |      0.021700|   0.0952381|    |
+|/players/491810/jack-whatmough         |Wigan        |      0.023275|   0.0769231|    |
+|/players/607858/curtis-tilt            |Wigan        |      0.017775|   0.0666667|    |
+|/players/767738/callum-lang            |Wigan        |      0.204400|   0.2702703|    |
+|/players/629924/ryan-nyambe            |Wigan        |      0.027500|   0.0952381|    |
+|/players/210819/max-power              |Wigan        |      0.028375|   0.0833333|    |
+|/players/175947/james-mcclean          |Wigan        |      0.069800|   0.1538462|    |
+|/players/1184468/thelo-aasgaard        |Wigan        |      0.055625|   0.2083333|    |
+|/players/290409/will-keane             |Wigan        |      0.058350|   0.2702703|    |
+|/players/675023/danel-sinani           |Wigan        |      0.261550|   0.1960784|*   |
+|/players/24229/tim-krul                |Norwich City |      0.000000|   0.1250000|    |
+|/players/363318/sam-byram              |Norwich City |      0.055450|   0.2380952|    |
+|/players/201738/ben-gibson             |Norwich City |      0.014650|   0.0500000|    |
+|/players/202180/grant-hanley           |Norwich City |      0.020350|   0.0769231|    |
+|/players/956621/max-aarons             |Norwich City |      0.020525|   0.0714286|    |
+|/players/1129081/marcelino-nunez       |Norwich City |      0.081350|   0.1666667|    |
+|/players/605262/kieran-dowell          |Norwich City |      0.164975|   0.2439024|    |
+|/players/229711/onel-hernndez          |Norwich City |      0.040550|   0.2564103|    |
+|/players/190851/kenny-mclean           |Norwich City |      0.045075|   0.1666667|    |
+|/players/848011/joshua-sargent         |Norwich City |      0.230475|   0.3571429|    |
+|/players/66578/teemu-pukki             |Norwich City |      0.365425|   0.4444444|    |
+|/players/180137/josh-magennis          |Wigan        |      0.012900|   0.2439024|    |
+|/players/716410/ashley-fletcher        |Wigan        |      0.019700|   0.2702703|    |
+|/players/308194/charlie-wyke           |Wigan        |      0.000000|   0.3636364|    |
+|/players/1076174/rarmani-edmonds-green |Wigan        |      0.000000|   0.1666667|    |
+|/players/902710/gabriel-sara           |Norwich City |      0.254400|   0.1818182|*   |
+|/players/1111391/liam-gibbs            |Norwich City |      0.014900|   0.1111111|    |
+|/players/1113694/jonathan-rowe         |Norwich City |      0.025400|   0.1111111|    |
+|/players/846009/adam-idah              |Norwich City |      0.000000|   0.3846154|    |
+____________________________________________________
+
+[1] "Facts about Wigan:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/133089/jamie-jones            |           0|         27.7689|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/211837/tendayi-darikwa        |           1|         43.8595|           1.7547|        0.0853|         0.4210|      0.0204|        0.0248|      0.0747| 90.0000|
+|/players/491810/jack-whatmough         |           1|         51.3602|           0.9948|        0.0935|         0.3920|      0.0703|        0.0275|      0.0137| 90.0000|
+|/players/607858/curtis-tilt            |           1|         33.5366|           1.1522|        0.0681|         0.4386|      0.0293|        0.0179|      0.0116| 90.0000|
+|/players/767738/callum-lang            |           3|         20.1376|           1.1504|        0.4172|         1.4511|      0.1905|        0.2289|      0.0300| 84.9630|
+|/players/629924/ryan-nyambe            |           3|         25.1758|           1.7479|        0.0233|         0.1827|      0.0077|        0.0290|      0.0111| 82.3182|
+|/players/210819/max-power              |           3|         59.4845|           1.2836|        0.1365|         0.7248|      0.0228|        0.0290|      0.0949| 90.0000|
+|/players/175947/james-mcclean          |           3|         34.2873|           2.4001|        0.2442|         0.9912|      0.0594|        0.0763|      0.0864| 90.0000|
+|/players/1184468/thelo-aasgaard        |           4|         25.9456|           1.1940|        0.4815|         0.5181|      0.0584|        0.0629|      0.1788| 84.0000|
+|/players/290409/will-keane             |           4|         25.1839|           1.2793|        0.5159|         2.5583|      0.2050|        0.0629|      0.0035| 90.0000|
+|/players/675023/danel-sinani           |           5|         15.8084|           0.5623|        0.7195|         1.7600|      0.2522|        0.3144|      0.0577| 76.7778|
+|/players/180137/josh-magennis          |           0|              NA|               NA|        0.0640|         0.1920|      0.0349|        0.0145|      0.0079| 13.2222|
+|/players/716410/ashley-fletcher        |           0|              NA|               NA|        0.0572|         0.1430|      0.0257|        0.0194|      0.0037|  7.6818|
+|/players/308194/charlie-wyke           |           0|              NA|               NA|        0.0000|         0.0993|      0.0187|        0.0000|      0.0010|  6.0000|
+|/players/1076174/rarmani-edmonds-green |           0|              NA|               NA|        0.0000|         0.0305|      0.0000|        0.0000|      0.0003|  5.0370|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Shaun Maloney |        11853|         -5.03|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about Norwich City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/24229/tim-krul          |           0|         36.1821|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/363318/sam-byram        |           1|         44.0646|           3.1110|        0.2208|         0.6760|      0.0809|        0.0596|      0.0498| 90.0000|
+|/players/201738/ben-gibson       |           1|         60.6956|           0.6113|        0.1041|         0.3100|      0.0255|        0.0171|      0.0322| 90.0000|
+|/players/202180/grant-hanley     |           1|         51.6720|           1.2767|        0.1214|         0.6593|      0.0473|        0.0205|      0.0188| 90.0000|
+|/players/956621/max-aarons       |           1|         41.3506|           1.4614|        0.1547|         0.5086|      0.0280|        0.0234|      0.1316| 90.0000|
+|/players/1129081/marcelino-nunez |           3|         39.3919|           2.2638|        0.3739|         1.5406|      0.1024|        0.0900|      0.1552| 78.7647|
+|/players/605262/kieran-dowell    |           3|         32.8734|           1.3381|        0.4372|         1.0484|      0.1068|        0.1896|      0.1227| 71.1429|
+|/players/229711/onel-hernndez    |           3|         21.6816|           1.3655|        0.2492|         1.1164|      0.1073|        0.0450|      0.0910| 78.8235|
+|/players/190851/kenny-mclean     |           3|         53.7278|           1.4270|        0.2902|         1.0345|      0.0757|        0.0508|      0.0369| 90.0000|
+|/players/848011/joshua-sargent   |           5|         23.9396|           0.8261|        0.6425|         1.7417|      0.2227|        0.2758|      0.0762| 79.0405|
+|/players/66578/teemu-pukki       |           5|         20.2845|           0.5385|        0.9377|         2.8336|      0.5396|        0.4791|      0.1091| 90.0000|
+|/players/902710/gabriel-sara     |           0|              NA|               NA|        0.1449|         0.2028|      0.1375|        0.3063|      0.0136| 18.8571|
+|/players/1111391/liam-gibbs      |           0|              NA|               NA|        0.0285|         0.0854|      0.0112|        0.0148|      0.0023| 11.2353|
+|/players/1113694/jonathan-rowe   |           0|              NA|               NA|        0.0773|         0.1030|      0.0113|        0.0269|      0.0053| 11.1765|
+|/players/846009/adam-idah        |           0|              NA|               NA|        0.0000|         0.1607|      0.0254|        0.0000|      0.0021| 10.9595|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|David Wagner |        38386|      7.941964|4-4-2     |
