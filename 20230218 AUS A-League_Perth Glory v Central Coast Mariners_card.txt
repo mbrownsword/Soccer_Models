@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-17 15:51:32.765"
+[1] "Updated at 2023-02-17 23:54:29.316"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 49.64%; max % is 55.74 and min % is 44.76%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 50.36%; max % is 55.24 and min % is 44.26%."
 [1] "--Sportsbook Odds--"
-[1] "Perth Glory Barstool Odds are: 33.9"
+[1] "Perth Glory Barstool Odds are: 32.26"
 [1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Central Coast Mariners Barstool Odds are: 44.44"
-[1] "Perth Glory Adjusted Barstool Odds are: 31.945"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.178"
-[1] "Central Coast Mariners Adjusted Barstool Odds are: 41.877"
-[1] "Perth Glory's Barstool Odds to cover the  spread are: NA"
-[1] "Central Coast Mariners's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.64, which is a 60.98% chance of the over 2.5 hitting. The line for the under is 2.25, which is a 44.44% chance of the under 2.5 hitting."
+[1] "Central Coast Mariners Barstool Odds are: 46.51"
+[1] "Perth Glory Adjusted Barstool Odds are: 30.277"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.072"
+[1] "Central Coast Mariners Adjusted Barstool Odds are: 43.651"
+[1] "Perth Glory's Barstool Odds to cover the 0.25 spread are: 51.81"
+[1] "Central Coast Mariners's Barstool Odds to cover the -0.25 spread are: 52.91"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82% chance of the over 2.5 hitting. The line for the under is 2.16, which is a 46.3% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -52,35 +52,35 @@
 
 |pageUrl2                             |team                   | expected_attg| expected_gs|bet |
 |:------------------------------------|:----------------------|-------------:|-----------:|:---|
-|/players/70384/liam-reddy            |Perth Glory            |      0.000000|   0.0500000|    |
-|/players/424602/jack-clisby          |Perth Glory            |      0.024600|   0.1052632|    |
+|/players/70384/liam-reddy            |Perth Glory            |      0.000000|   0.2325581|    |
+|/players/424602/jack-clisby          |Perth Glory            |      0.024600|   0.0952381|    |
 |/players/392183/jordan-elsey         |Perth Glory            |      0.027575|   0.0714286|    |
-|/players/158841/darryl-lachman       |Perth Glory            |      0.016625|   0.3125000|    |
-|/players/886067/antonee-burke-gilroy |Perth Glory            |      0.065775|   0.1052632|    |
-|/players/279829/ryan-williams        |Perth Glory            |      0.081800|   0.2500000|    |
-|/players/415674/mitchell-oxborrow    |Perth Glory            |      0.037175|   0.1176471|    |
-|/players/1207848/giordano-colli      |Perth Glory            |      0.031725|   0.2380952|    |
-|/players/207023/mustafa-amini        |Perth Glory            |      0.149150|   0.1428571|    |
-|/players/993775/luke-ivanovic        |Perth Glory            |      0.233925|   0.2631579|    |
-|/players/31358/david-williams        |Perth Glory            |      0.205050|   0.2941176|    |
-|/players/69188/danny-vukovic         |Central Coast Mariners |      0.000000|   0.0357143|    |
+|/players/158841/darryl-lachman       |Perth Glory            |      0.016625|   0.0384615|    |
+|/players/886067/antonee-burke-gilroy |Perth Glory            |      0.065775|   0.0952381|    |
+|/players/279829/ryan-williams        |Perth Glory            |      0.081800|   0.2380952|    |
+|/players/415674/mitchell-oxborrow    |Perth Glory            |      0.037175|   0.1111111|    |
+|/players/1207848/giordano-colli      |Perth Glory            |      0.031725|   0.2272727|    |
+|/players/207023/mustafa-amini        |Perth Glory            |      0.149150|   0.1333333|    |
+|/players/993775/luke-ivanovic        |Perth Glory            |      0.233925|   0.2500000|    |
+|/players/31358/david-williams        |Perth Glory            |      0.205050|   0.2857143|    |
+|/players/69188/danny-vukovic         |Central Coast Mariners |      0.000000|   0.2500000|    |
 |/players/505932/brian-kaltak         |Central Coast Mariners |      0.010000|   0.0555556|    |
-|/players/424603/storm-roux           |Central Coast Mariners |      0.035600|   0.0370370|    |
-|/players/1217244/daniel-hall         |Central Coast Mariners |      0.054950|   0.0370370|    |
+|/players/424603/storm-roux           |Central Coast Mariners |      0.035600|   0.0384615|    |
+|/players/1217244/daniel-hall         |Central Coast Mariners |      0.054950|   0.0384615|    |
 |/players/1315434/jacob-farrell       |Central Coast Mariners |      0.047125|   0.0714286|    |
 |/players/1315433/harrison-steele     |Central Coast Mariners |      0.002850|   0.0909091|    |
 |/players/1220269/maximilien-balard   |Central Coast Mariners |      0.008800|   0.0909091|    |
-|/players/737141/beni-nkololo         |Central Coast Mariners |      0.349900|   0.2702703|*   |
-|/players/1016158/joshua-nisbet       |Central Coast Mariners |      0.039775|   0.1000000|    |
-|/players/941733/moresche             |Central Coast Mariners |      0.300900|   0.2941176|    |
-|/players/481541/jason-cummings       |Central Coast Mariners |      0.271950|   0.3773585|    |
-|/players/1101904/stefan-colakovski   |Perth Glory            |      0.084325|   0.0952381|    |
-|/players/1217245/matthew-hatch       |Perth Glory            |      0.038375|   0.2272727|    |
-|/players/1336874/adam-zimarino       |Perth Glory            |      0.009250|   0.2380952|    |
-|/players/1030785/zachary-duncan      |Perth Glory            |      0.007375|   0.1176471|    |
-|/players/1086842/samuel-silvera      |Central Coast Mariners |      0.035875|   0.2564103|    |
+|/players/737141/beni-nkololo         |Central Coast Mariners |      0.349900|   0.2777778|*   |
+|/players/1016158/joshua-nisbet       |Central Coast Mariners |      0.039775|   0.1052632|    |
+|/players/941733/moresche             |Central Coast Mariners |      0.300900|   0.3030303|    |
+|/players/481541/jason-cummings       |Central Coast Mariners |      0.271950|   0.3846154|    |
+|/players/1101904/stefan-colakovski   |Perth Glory            |      0.084325|   0.0277778|*   |
+|/players/1217245/matthew-hatch       |Perth Glory            |      0.038375|   0.2127660|    |
+|/players/1336874/adam-zimarino       |Perth Glory            |      0.009250|   0.2272727|    |
+|/players/1030785/zachary-duncan      |Perth Glory            |      0.007375|   0.1111111|    |
+|/players/1086842/samuel-silvera      |Central Coast Mariners |      0.035875|   0.2631579|    |
 |/players/686053/james-mcgarry        |Central Coast Mariners |      0.076700|   0.0526316|    |
-|/players/769337/christian-theoharous |Central Coast Mariners |      0.011875|   0.2040816|    |
+|/players/769337/christian-theoharous |Central Coast Mariners |      0.011875|   0.2083333|    |
 |/players/1331013/james-bayliss       |Central Coast Mariners |      0.000000|   0.0714286|    |
 ____________________________________________________
 
