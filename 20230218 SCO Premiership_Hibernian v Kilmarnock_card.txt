@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 21:22:15.980"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Hibernian 1.6389 to Kilmarnock 0.8365"
+[1] "Total: 2.4754"
+[1] "Hibernian %: 56.43"
+[1] "Draw %: 24.58"
+[1] "Kilmarnock %: 18.99"
+[1] "--XG Model--"
+[1] "Score: Hibernian 1.6479 to Kilmarnock 0.8685"
+[1] "Total: 2.5164"
+[1] "Hibernian %: 56.27"
+[1] "Draw %: 24.35"
+[1] "Kilmarnock %: 19.38"
+[1] "--XGoT Model--"
+[1] "Score: Hibernian 1.6932 to Kilmarnock 0.8457"
+[1] "Total: 2.5389"
+[1] "Hibernian %: 57.78"
+[1] "Draw %: 23.77"
+[1] "Kilmarnock %: 18.45"
+[1] "--XA Model--"
+[1] "Score: Hibernian 1.3415 to Kilmarnock 0.8334"
+[1] "Total: 2.1749"
+[1] "Hibernian %: 48.94"
+[1] "Draw %: 27.56"
+[1] "Kilmarnock %: 23.5"
+[1] "--Mean 4 Models--"
+[1] "Hibernian has a mean win % of 54.85%; a min win % of 48.94%; a max win % of 57.78%."
+[1] "Draw has a mean win % of 25.06%; a min win % of 23.77%; a max win % of 27.56%."
+[1] "Kilmarnock has a mean win % of 20.08%; a min win % of 18.45%; a max win of % 23.5%."
+[1] "Hibernian has a mean win of the Double Chance of 79.92%; a min win % of 76.5%, a max win % of 81.55%."
+[1] "Kilmarnock has a mean win of the Double Chance of 45.15%; a min win % of 42.22%, a max win % of 51.06%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.13%; max % is 45.98 and min % is 36.97%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.87%; max % is 63.03 and min % is 54.02%."
+[1] "--Sportsbook Odds--"
+[1] "Hibernian Barstool Odds are: 57.14"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Kilmarnock Barstool Odds are: 23.08"
+[1] "Hibernian Adjusted Barstool Odds are: 52.907"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.722"
+[1] "Kilmarnock Adjusted Barstool Odds are: 21.37"
+[1] "Hibernian's Barstool Odds to cover the -0.5 spread are: 56.82"
+[1] "Kilmarnock's Barstool Odds to cover the 0.5 spread are: 48.08"
+[1] "Barstool's line for the total is 2.5 at 1.95, which is a 51.28% chance of the over 2.5 hitting. The line for the under is 1.79, which is a 55.87% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                         |team       | expected_attg| expected_gs|bet |
+|:--------------------------------|:----------|-------------:|-----------:|:---|
+|/players/32446/david-marshall    |Hibernian  |      0.000000|   0.4081633|    |
+|/players/32630/lewis-stevenson   |Hibernian  |      0.003325|   0.0400000|    |
+|/players/949493/marijan-cabraja  |Hibernian  |      0.003525|   0.0500000|    |
+|/players/1029024/lewis-miller    |Hibernian  |      0.094300|   0.0454545|    |
+|/players/112123/paul-hanlon      |Hibernian  |      0.038425|   0.0454545|    |
+|/players/258309/james-jeggo      |Hibernian  |      0.072850|   0.0588235|    |
+|/players/261306/joe-newell       |Hibernian  |      0.071125|   0.0909091|    |
+|/players/885319/ewan-henderson   |Hibernian  |      0.122725|   0.1694915|    |
+|/players/523758/chris-cadden     |Hibernian  |      0.151075|   0.0769231|*   |
+|/players/1007733/josh-campbell   |Hibernian  |      0.292425|   0.2380952|*   |
+|/players/989959/thody-lie-youan  |Hibernian  |      0.388725|   0.2222222|*   |
+|/players/256599/sam-walker       |Kilmarnock |      0.000000|   0.1000000|    |
+|/players/197443/chris-stokes     |Kilmarnock |      0.033275|   0.1052632|    |
+|/players/1067881/lewis-mayo      |Kilmarnock |      0.021325|   0.0208333|    |
+|/players/480791/joe-wright       |Kilmarnock |      0.019875|   0.1052632|    |
+|/players/171094/ash-taylor       |Kilmarnock |      0.027050|   0.1000000|    |
+|/players/536445/danny-armstrong  |Kilmarnock |      0.182100|   0.1250000|*   |
+|/players/480730/jordan-jones     |Kilmarnock |      0.035775|   0.1111111|    |
+|/players/546194/liam-donnelly    |Kilmarnock |      0.010375|   0.2127660|    |
+|/players/73451/alan-power        |Kilmarnock |      0.011050|   0.0416667|    |
+|/players/814567/innes-cameron    |Kilmarnock |      0.075550|   0.1538462|    |
+|/players/426326/christian-doidge |Kilmarnock |      0.265475|   0.0833333|*   |
+|/players/759627/harry-mckirdy    |Hibernian  |      0.023850|   0.0434783|    |
+|/players/1202104/matthew-hoppe   |Hibernian  |      0.051225|   0.4444444|    |
+|/players/759627/harry-mckirdy    |Hibernian  |      0.023850|   0.0434783|    |
+|/players/1202104/matthew-hoppe   |Hibernian  |      0.051225|   0.4444444|    |
+|/players/246316/rory-mckenzie    |Kilmarnock |      0.000000|   0.0833333|    |
+|/players/791692/fraser-murray    |Kilmarnock |      0.016825|   0.0833333|    |
+|/players/623867/brad-lyons       |Kilmarnock |      0.000000|   0.0526316|    |
+|/players/246317/liam-polworth    |Kilmarnock |      0.031125|   0.0454545|    |
+____________________________________________________
+
+[1] "Facts about Hibernian:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/32446/david-marshall   |           0|         29.1229|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/32630/lewis-stevenson  |           1|         50.7847|           1.3149|        0.1455|         0.0747|      0.0036|        0.0035|      0.0438| 90.0000|
+|/players/949493/marijan-cabraja |           1|         45.9407|           1.3801|        0.1300|         0.9581|      0.0236|        0.0035|      0.0567| 80.4167|
+|/players/1029024/lewis-miller   |           1|         38.2596|           1.6930|        0.1872|         0.7526|      0.1086|        0.1117|      0.0943| 82.0400|
+|/players/112123/paul-hanlon     |           1|         55.8899|           1.3095|        0.2019|         0.5951|      0.0740|        0.0448|      0.0314| 90.0000|
+|/players/258309/james-jeggo     |           2|         62.5706|           2.0639|        0.3201|         0.2140|      0.0456|        0.0826|      0.0230| 90.0000|
+|/players/261306/joe-newell      |           2|         45.0462|           1.7990|        0.3201|         1.9173|      0.1073|        0.0826|      0.1500| 90.0000|
+|/players/885319/ewan-henderson  |           3|         22.8021|           1.1077|        0.9553|         2.7562|      0.2266|        0.1469|      0.1567| 66.0000|
+|/players/523758/chris-cadden    |           3|         29.6365|           0.9299|        0.4776|         1.2250|      0.1125|        0.1827|      0.1826| 80.6111|
+|/players/1007733/josh-campbell  |           3|         34.4522|           1.3043|        0.6508|         1.4372|      0.2069|        0.3625|      0.0663| 90.0000|
+|/players/989959/thody-lie-youan |           5|         18.4105|           0.4935|        1.3297|         3.0075|      0.5580|        0.5397|      0.0902| 90.0000|
+|/players/759627/harry-mckirdy   |           0|              NA|               NA|        0.2218|         1.1088|      0.0894|        0.0277|      0.0111| 24.0000|
+|/players/1202104/matthew-hoppe  |           0|              NA|               NA|        0.1437|         0.5028|      0.0395|        0.0409|      0.0030|  9.5833|
+|/players/759627/harry-mckirdy   |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0022|  9.3889|
+|/players/1202104/matthew-hoppe  |           0|              NA|               NA|        0.0862|         0.0862|      0.0050|        0.0169|      0.0000|  7.9600|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Lee Johnson  |        24730|      5.572843|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Kilmarnock:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/256599/sam-walker       |           0|         26.2052|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/197443/chris-stokes     |           1|         37.2254|           1.3472|        0.0725|         0.3443|      0.0596|        0.0343|      0.0568| 90.0000|
+|/players/1067881/lewis-mayo      |           1|         27.7983|           2.1375|        0.0725|         0.1896|      0.0099|        0.0226|      0.0406| 90.0000|
+|/players/480791/joe-wright       |           1|         32.1758|           1.5990|        0.0972|         0.3508|      0.0271|        0.0226|      0.0137| 90.0000|
+|/players/171094/ash-taylor       |           1|         26.3274|           1.2004|        0.1459|         0.6931|      0.0381|        0.0265|      0.0276| 83.8214|
+|/players/536445/danny-armstrong  |           3|         26.3059|           1.3531|        0.4766|         1.3326|      0.1516|        0.2098|      0.1089| 90.0000|
+|/players/480730/jordan-jones     |           3|         17.6230|           1.0386|        0.4285|         1.1299|      0.0643|        0.0351|      0.0694| 75.7812|
+|/players/546194/liam-donnelly    |           3|         27.4736|           1.8374|        0.0587|         0.8043|      0.0365|        0.0116|      0.0152| 83.0455|
+|/players/73451/alan-power        |           3|         41.0098|           2.3981|        0.0636|         0.4293|      0.0247|        0.0116|      0.0289| 90.0000|
+|/players/814567/innes-cameron    |           5|         21.3711|           0.7426|        0.5330|         1.4086|      0.0854|        0.0813|      0.0374| 90.0000|
+|/players/426326/christian-doidge |           5|         15.5472|           0.6328|        0.5873|         1.8831|      0.3223|        0.3172|      0.0876| 83.5556|
+|/players/246316/rory-mckenzie    |           0|              NA|               NA|        0.0000|         0.1675|      0.0107|        0.0000|      0.0251| 14.2188|
+|/players/791692/fraser-murray    |           0|              NA|               NA|        0.0364|         0.1818|      0.0144|        0.0174|      0.0102|  6.9545|
+|/players/623867/brad-lyons       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  6.4444|
+|/players/246317/liam-polworth    |           0|              NA|               NA|        0.0586|         0.0586|      0.0008|        0.0324|      0.0035|  6.1786|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Derek McInnes |        17767|     -10.09778|4-4-2     |
