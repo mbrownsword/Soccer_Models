@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 20:47:11.387"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Northampton Town 1.4344 to Grimsby Town 1.0614"
+[1] "Total: 2.4958"
+[1] "Northampton Town %: 45.99"
+[1] "Draw %: 25.82"
+[1] "Grimsby Town %: 28.19"
+[1] "--XG Model--"
+[1] "Score: Northampton Town 1.3894 to Grimsby Town 0.9079"
+[1] "Total: 2.2973"
+[1] "Northampton Town %: 48.25"
+[1] "Draw %: 26.75"
+[1] "Grimsby Town %: 25"
+[1] "--XGoT Model--"
+[1] "Score: Northampton Town 1.6134 to Grimsby Town 1.0518"
+[1] "Total: 2.6652"
+[1] "Northampton Town %: 50.57"
+[1] "Draw %: 24.76"
+[1] "Grimsby Town %: 24.67"
+[1] "--XA Model--"
+[1] "Score: Northampton Town 1.4266 to Grimsby Town 0.9153"
+[1] "Total: 2.3419"
+[1] "Northampton Town %: 48.96"
+[1] "Draw %: 26.32"
+[1] "Grimsby Town %: 24.72"
+[1] "--Mean 4 Models--"
+[1] "Northampton Town has a mean win % of 48.44%; a min win % of 45.99%; a max win % of 50.57%."
+[1] "Draw has a mean win % of 25.91%; a min win % of 24.76%; a max win % of 26.75%."
+[1] "Grimsby Town has a mean win % of 25.64%; a min win % of 24.67%; a max win of % 28.19%."
+[1] "Northampton Town has a mean win of the Double Chance of 74.35%; a min win % of 71.81%, a max win % of 75.33%."
+[1] "Grimsby Town has a mean win of the Double Chance of 51.56%; a min win % of 49.43%, a max win % of 54.01%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.36%; max % is 48.63 and min % is 39.47%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.64%; max % is 60.53 and min % is 51.37%."
+[1] "--Sportsbook Odds--"
+[1] "Northampton Town Barstool Odds are: 50"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Grimsby Town Barstool Odds are: 26.67"
+[1] "Northampton Town Adjusted Barstool Odds are: 46.742"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.326"
+[1] "Grimsby Town Adjusted Barstool Odds are: 24.932"
+[1] "Northampton Town's Barstool Odds to cover the -0.5 spread are: 50.51"
+[1] "Grimsby Town's Barstool Odds to cover the 0.5 spread are: 56.5"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.65, which is a 60.61% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team             | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/253632/lee-burge                 |Northampton Town |      0.000000|   0.0769231|    |
+|/players/1225845/harvey-lintott           |Northampton Town |      0.042325|   0.0714286|    |
+|/players/1005745/ali-koiki                |Northampton Town |      0.026050|   0.1666667|    |
+|/players/1013040/sam-sherring             |Northampton Town |      0.024175|   0.1000000|    |
+|/players/369752/john-guthrie              |Northampton Town |      0.040875|   0.1000000|    |
+|/players/618707/shaun-mcwilliams          |Northampton Town |      0.066750|   0.1818182|    |
+|/players/613930/jack-sowerby              |Northampton Town |      0.067925|   0.1111111|    |
+|/players/1109757/marc-leonard             |Northampton Town |      0.023925|   0.1250000|    |
+|/players/297209/sam-hoskins               |Northampton Town |      0.369950|   0.4166667|    |
+|/players/440531/mitchell-pinnock          |Northampton Town |      0.095600|   0.1818182|    |
+|/players/808791/louis-appere              |Northampton Town |      0.354575|   0.3030303|*   |
+|/players/315201/max-crocombe              |Grimsby Town     |      0.000000|   0.0909091|    |
+|/players/1045012/anthony-driscoll-glennon |Grimsby Town     |      0.014525|   0.0588235|    |
+|/players/1132145/andrew-smith             |Grimsby Town     |      0.027775|   0.0357143|    |
+|/players/789591/michee-efete              |Grimsby Town     |      0.032225|   0.0714286|    |
+|/players/139656/luke-waterfall            |Grimsby Town     |      0.019950|   0.1666667|    |
+|/players/529137/otis-khan                 |Grimsby Town     |      0.112875|   0.0625000|*   |
+|/players/445497/bryn-morris               |Grimsby Town     |      0.016100|   0.1333333|    |
+|/players/664521/harry-clifton             |Grimsby Town     |      0.092450|   0.2127660|    |
+|/players/279480/gavan-holohan             |Grimsby Town     |      0.061525|   0.1754386|    |
+|/players/843101/john-mcatee               |Grimsby Town     |      0.214300|   0.2564103|    |
+|/players/106012/ryan-taylor               |Grimsby Town     |      0.164650|   0.0526316|*   |
+|/players/45544/danny-hylton               |Northampton Town |      0.011000|   0.0434783|    |
+|/players/982617/kieron-bowie              |Northampton Town |      0.036875|   0.1428571|    |
+|/players/439695/ryan-haynes               |Northampton Town |      0.025125|   0.0833333|    |
+|/players/1187359/max-dyche                |Northampton Town |      0.002825|   0.0909091|    |
+|/players/872989/george-lloyd              |Grimsby Town     |      0.000000|   0.2631579|    |
+|/players/1201266/stephen-wearne           |Grimsby Town     |      0.052500|   0.1428571|    |
+|/players/955348/alex-hunt                 |Grimsby Town     |      0.034675|   0.0833333|    |
+|/players/964374/danilo-orsi               |Grimsby Town     |      0.020275|   0.2127660|    |
+____________________________________________________
+
+[1] "Facts about Northampton Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/253632/lee-burge        |           0|         22.4907|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1225845/harvey-lintott  |           1|         30.7602|           1.2995|        0.1543|         0.3542|      0.0270|        0.0474|      0.0443| 90.0000|
+|/players/1005745/ali-koiki       |           1|         40.5701|           2.2681|        0.0646|         0.4229|      0.0198|        0.0271|      0.0684| 90.0000|
+|/players/1013040/sam-sherring    |           1|         47.3439|           1.2306|        0.0956|         0.4611|      0.0268|        0.0271|      0.0731| 85.1739|
+|/players/369752/john-guthrie     |           1|         49.2742|           1.2278|        0.2508|         0.8859|      0.0956|        0.0449|      0.0300| 90.0000|
+|/players/618707/shaun-mcwilliams |           2|         42.0175|           2.5533|        0.2209|         0.4756|      0.0538|        0.0768|      0.0724| 77.2593|
+|/players/613930/jack-sowerby     |           2|         40.3112|           1.0869|        0.2441|         1.1890|      0.0594|        0.0768|      0.0673| 85.3611|
+|/players/1109757/marc-leonard    |           3|         43.2731|           2.2313|        0.0931|         0.6168|      0.0245|        0.0262|      0.0822| 90.0000|
+|/players/297209/sam-hoskins      |           3|         17.9906|           0.9055|        1.2664|         2.9227|      0.3459|        0.4841|      0.1143| 90.0000|
+|/players/440531/mitchell-pinnock |           3|         23.8243|           0.8215|        0.6239|         1.9682|      0.1292|        0.1082|      0.2420| 90.0000|
+|/players/808791/louis-appere     |           5|         14.4534|           0.4547|        0.9052|         2.1467|      0.3535|        0.4621|      0.0689| 77.9200|
+|/players/45544/danny-hylton      |           0|              NA|               NA|        0.0992|         0.3969|      0.0439|        0.0108|      0.0139| 12.7407|
+|/players/982617/kieron-bowie     |           0|              NA|               NA|        0.2304|         0.3457|      0.0316|        0.0404|      0.0058| 12.0800|
+|/players/439695/ryan-haynes      |           0|              NA|               NA|        0.0857|         0.1715|      0.0121|        0.0283|      0.0121|  4.8261|
+|/players/1187359/max-dyche       |           0|              NA|               NA|        0.0532|         0.1595|      0.0165|        0.0032|      0.0000|  4.6389|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Jon Brady    |        28666|     0.1421978|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Grimsby Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/315201/max-crocombe              |           0|         24.3782|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1045012/anthony-driscoll-glennon |           1|         36.3908|           2.0618|        0.0650|         0.3081|      0.0122|        0.0178|      0.1022| 90.0000|
+|/players/1132145/andrew-smith             |           1|         28.8401|           1.7074|        0.1171|         0.2665|      0.0401|        0.0368|      0.0070| 90.0000|
+|/players/789591/michee-efete              |           1|         36.3316|           1.9168|        0.1291|         0.4589|      0.0460|        0.0401|      0.0237| 90.0000|
+|/players/139656/luke-waterfall            |           1|         40.2196|           0.8847|        0.1271|         0.6100|      0.0260|        0.0261|      0.0106| 90.0000|
+|/players/529137/otis-khan                 |           3|         24.4517|           0.8675|        0.2376|         0.8937|      0.0943|        0.1391|      0.0788| 79.1795|
+|/players/445497/bryn-morris               |           3|         41.8550|           2.3069|        0.1980|         0.7042|      0.0146|        0.0187|      0.0384| 90.0000|
+|/players/664521/harry-clifton             |           3|         27.3452|           1.8327|        0.4009|         1.0312|      0.1244|        0.1125|      0.0804| 84.6875|
+|/players/279480/gavan-holohan             |           3|         33.1961|           2.1330|        0.3851|         1.3184|      0.0552|        0.0747|      0.0547| 90.0000|
+|/players/843101/john-mcatee               |           5|         18.6692|           1.2480|        0.8942|         2.4314|      0.3019|        0.2861|      0.0908| 81.3571|
+|/players/106012/ryan-taylor               |           5|         17.2246|           0.1398|        0.3825|         0.8510|      0.0941|        0.2136|      0.0371| 78.9667|
+|/players/872989/george-lloyd              |           0|              NA|               NA|        0.1985|         0.3308|      0.0085|        0.0000|      0.0348| 11.0333|
+|/players/1201266/stephen-wearne           |           0|              NA|               NA|        0.3633|         0.7265|      0.0432|        0.0596|      0.0073| 10.8205|
+|/players/955348/alex-hunt                 |           0|              NA|               NA|        0.0731|         0.1462|      0.0111|        0.0399|      0.0061|  8.6429|
+|/players/964374/danilo-orsi               |           0|              NA|               NA|        0.1291|         0.4517|      0.0731|        0.0237|      0.0489|  5.3125|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Paul Hurst   |        25295|     -4.372982|4-4-2     |
