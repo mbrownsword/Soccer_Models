@@ -1,92 +1,105 @@
-[1] "Updated at 2023-02-17 22:07:57.120"
+[1] "Updated at 2023-02-18 06:28:10.722"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Brighton and Hove Albion 1.5917 to Fulham 1.1027"
-[1] "Total: 2.6944"
-[1] "Brighton and Hove Albion %: 48.64"
-[1] "Draw %: 24.69"
-[1] "Fulham %: 26.67"
+[1] "Score: Brighton and Hove Albion 1.6202 to Fulham 1.0753"
+[1] "Total: 2.6955"
+[1] "Brighton and Hove Albion %: 50.55"
+[1] "Draw %: 24.48"
+[1] "Fulham %: 24.97"
 [1] "--XG Model--"
-[1] "Score: Brighton and Hove Albion 1.766 to Fulham 1.2677"
-[1] "Total: 3.0337"
-[1] "Brighton and Hove Albion %: 49.46"
-[1] "Draw %: 24.02"
-[1] "Fulham %: 26.52"
+[1] "Score: Brighton and Hove Albion 1.7921 to Fulham 1.1831"
+[1] "Total: 2.9752"
+[1] "Brighton and Hove Albion %: 51.89"
+[1] "Draw %: 23.53"
+[1] "Fulham %: 24.58"
 [1] "--XGoT Model--"
-[1] "Score: Brighton and Hove Albion 1.8471 to Fulham 1.3506"
-[1] "Total: 3.1977"
-[1] "Brighton and Hove Albion %: 49.55"
-[1] "Draw %: 22.8"
-[1] "Fulham %: 27.65"
+[1] "Score: Brighton and Hove Albion 1.8836 to Fulham 1.3374"
+[1] "Total: 3.221"
+[1] "Brighton and Hove Albion %: 50.06"
+[1] "Draw %: 22.94"
+[1] "Fulham %: 27"
 [1] "--XA Model--"
-[1] "Score: Brighton and Hove Albion 1.6794 to Fulham 1.1736"
-[1] "Total: 2.853"
-[1] "Brighton and Hove Albion %: 50.23"
-[1] "Draw %: 23.75"
-[1] "Fulham %: 26.02"
+[1] "Score: Brighton and Hove Albion 1.6785 to Fulham 1.1543"
+[1] "Total: 2.8328"
+[1] "Brighton and Hove Albion %: 50.36"
+[1] "Draw %: 23.99"
+[1] "Fulham %: 25.65"
 [1] "--Mean 4 Models--"
-[1] "Brighton and Hove Albion has a mean win % of 49.47%; a min win % of 48.64%; a max win % of 50.23%."
-[1] "Draw has a mean win % of 23.82%; a min win % of 22.8%; a max win % of 24.69%."
-[1] "Fulham has a mean win % of 26.72%; a min win % of 26.02%; a max win of % 27.65%."
-[1] "Brighton and Hove Albion has a mean win of the Double Chance of 73.28%; a min win % of 72.35%, a max win % of 73.98%."
-[1] "Fulham has a mean win of the Double Chance of 50.53%; a min win % of 49.77%, a max win % of 51.36%."
-[1] "The mean likelihood that there are more than 2.5 goals is 55.43%; max % is 61.4 and min % is 49.5%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 44.57%; max % is 50.5 and min % is 38.6%."
+[1] "Brighton and Hove Albion has a mean win % of 50.71%; a min win % of 50.06%; a max win % of 51.89%."
+[1] "Draw has a mean win % of 23.74%; a min win % of 22.94%; a max win % of 24.48%."
+[1] "Fulham has a mean win % of 25.55%; a min win % of 24.58%; a max win of % 27%."
+[1] "Brighton and Hove Albion has a mean win of the Double Chance of 74.45%; a min win % of 73%, a max win % of 75.42%."
+[1] "Fulham has a mean win of the Double Chance of 49.29%; a min win % of 48.11%, a max win % of 49.94%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.19%; max % is 61.73 and min % is 49.59%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.81%; max % is 50.41 and min % is 38.27%."
 [1] "--Sportsbook Odds--"
-[1] "Brighton and Hove Albion Barstool Odds are: 60.61"
-[1] "The Barstool Odds of a Draw are: 25.64"
-[1] "Fulham Barstool Odds are: 18.52"
-[1] "Brighton and Hove Albion Adjusted Barstool Odds are: 57.851"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.473"
-[1] "Fulham Adjusted Barstool Odds are: 17.677"
-[1] "Brighton and Hove Albion's Barstool Odds to cover the -0.5 spread are: 60.24"
-[1] "Fulham's Barstool Odds to cover the 0.5 spread are: 44.44"
-[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
+[1] "Brighton and Hove Albion Barstool Odds are: 64.52"
+[1] "The Barstool Odds of a Draw are: 23.81"
+[1] "Fulham Barstool Odds are: 16"
+[1] "Brighton and Hove Albion Adjusted Barstool Odds are: 61.842"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.822"
+[1] "Fulham Adjusted Barstool Odds are: 15.336"
+[1] "Brighton and Hove Albion's Barstool Odds to cover the -1 spread are: 53.19"
+[1] "Fulham's Barstool Odds to cover the 1 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82% chance of the over 2.5 hitting. The line for the under is 2.17, which is a 46.08% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-         bet           date_time
-1     Fulham 2023-02-18 07:00:00
-2 Fulham ATS 2023-02-18 07:00:00
+     bet           date_time
+1 Fulham 2023-02-18 07:00:00
+
+
+|player          |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:---------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Harrison Reed   |FUL  |     40| 1.89|          NA|  0.7942|   0.2651|passes    |ENG England |      0.5291|         NA|        NA|         NA|       NA|
+|Harrison Reed   |FUL  |     36| 1.56|          NA|  0.9259|   0.2849|passes    |ENG England |      0.6410|         NA|        NA|         NA|       NA|
+|Harrison Reed   |FUL  |     44| 2.31|          NA|  0.5856|   0.1527|passes    |ENG England |      0.4329|         NA|        NA|         NA|       NA|
+|Pascal Gross    |BHA  |     63| 1.60|          NA|  0.7982|   0.1732|passes    |ENG England |      0.6250|         NA|        NA|         NA|       NA|
+|Andreas Pereira |FUL  |     25| 1.88|          NA|  0.7264|   0.1945|passes    |ENG England |      0.5319|         NA|        NA|         NA|       NA|
+|Andreas Pereira |FUL  |     21| 1.53|          NA|  0.9190|   0.2654|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
+|Joao Palhinha   |FUL  |     26| 1.54|          NA|  0.8352|   0.1858|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
+|Harry Wilson    |FUL  |     17| 1.90|          NA|  0.8534|   0.3271|passes    |ENG England |      0.5263|         NA|        NA|         NA|       NA|
+|Harry Wilson    |FUL  |     21| 2.37|          NA|  0.5664|   0.1445|passes    |ENG England |      0.4219|         NA|        NA|         NA|       NA|
+|Harry Wilson    |FUL  |     13| 1.55|          NA|  0.9775|   0.3323|passes    |ENG England |      0.6452|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                            |team                     | expected_attg| expected_gs|bet |
 |:-----------------------------------|:------------------------|-------------:|-----------:|:---|
-|/players/789571/robert-snchez       |Brighton and Hove Albion |      0.000000|   0.0400000|    |
-|/players/304455/joel-veltman        |Brighton and Hove Albion |      0.010300|   0.0555556|    |
-|/players/303346/adam-webster        |Brighton and Hove Albion |      0.058975|   0.1000000|    |
-|/players/201690/lewis-dunk          |Brighton and Hove Albion |      0.085150|   0.1052632|    |
-|/players/688278/pervis-estupinn     |Brighton and Hove Albion |      0.011075|   0.0833333|    |
-|/players/167008/pascal-gross        |Brighton and Hove Albion |      0.079500|   0.2040816|    |
-|/players/1137668/moiss-caicedo      |Brighton and Hove Albion |      0.082275|   0.1724138|    |
-|/players/416850/solly-march         |Brighton and Hove Albion |      0.173175|   0.1923077|    |
-|/players/831489/alexis-mac-allister |Brighton and Hove Albion |      0.238850|   0.2500000|    |
-|/players/862608/kaoru-mitoma        |Brighton and Hove Albion |      0.272200|   0.3773585|    |
-|/players/1068482/evan-ferguson      |Brighton and Hove Albion |      0.385350|   0.4081633|    |
-|/players/351860/aleksandar-mitrovic |Fulham                   |      0.246975|   0.3508772|    |
-|/players/94086/willian              |Fulham                   |      0.163400|   0.1886792|    |
-|/players/575779/andreas-pereira     |Fulham                   |      0.158425|   0.1538462|    |
-|/players/262550/bobby-reid          |Fulham                   |      0.091475|   0.1333333|    |
-|/players/524434/joao-palhinha       |Fulham                   |      0.033850|   0.0714286|    |
-|/players/502420/harrison-reed       |Fulham                   |      0.034325|   0.0714286|    |
-|/players/662428/antonee-robinson    |Fulham                   |      0.004775|   0.0312500|    |
-|/players/198444/tim-ream            |Fulham                   |      0.011325|   0.0294118|    |
-|/players/696443/issa-diop           |Fulham                   |      0.048525|   0.0303030|    |
-|/players/469804/kenny-tete          |Fulham                   |      0.041575|   0.0294118|    |
+|/players/789571/robert-snchez       |Brighton and Hove Albion |      0.000000|   0.0416667|    |
+|/players/304455/joel-veltman        |Brighton and Hove Albion |      0.010500|   0.0555556|    |
+|/players/303346/adam-webster        |Brighton and Hove Albion |      0.055100|   0.1000000|    |
+|/players/201690/lewis-dunk          |Brighton and Hove Albion |      0.086050|   0.1052632|    |
+|/players/688278/pervis-estupinn     |Brighton and Hove Albion |      0.011300|   0.0909091|    |
+|/players/167008/pascal-gross        |Brighton and Hove Albion |      0.078975|   0.2127660|    |
+|/players/1137668/moiss-caicedo      |Brighton and Hove Albion |      0.081525|   0.1785714|    |
+|/players/416850/solly-march         |Brighton and Hove Albion |      0.167825|   0.1960784|    |
+|/players/831489/alexis-mac-allister |Brighton and Hove Albion |      0.239100|   0.2564103|    |
+|/players/862608/kaoru-mitoma        |Brighton and Hove Albion |      0.270775|   0.3846154|    |
+|/players/1068482/evan-ferguson      |Brighton and Hove Albion |      0.383325|   0.4166667|    |
+|/players/94086/willian              |Fulham                   |      0.243700|   0.1724138|*   |
+|/players/494417/harry-wilson        |Fulham                   |      0.141225|   0.1724138|    |
+|/players/575779/andreas-pereira     |Fulham                   |      0.167125|   0.1428571|    |
+|/players/262550/bobby-reid          |Fulham                   |      0.094875|   0.1333333|    |
+|/players/524434/joao-palhinha       |Fulham                   |      0.032200|   0.0666667|    |
+|/players/502420/harrison-reed       |Fulham                   |      0.035050|   0.0666667|    |
+|/players/662428/antonee-robinson    |Fulham                   |      0.004725|   0.0294118|    |
+|/players/198444/tim-ream            |Fulham                   |      0.010825|   0.0277778|    |
+|/players/696443/issa-diop           |Fulham                   |      0.048825|   0.0285714|    |
+|/players/469804/kenny-tete          |Fulham                   |      0.041000|   0.0277778|    |
 |/players/215168/bernd-leno          |Fulham                   |      0.000000|   0.0952381|    |
-|/players/955139/tariq-lamptey       |Brighton and Hove Albion |      0.000000|   0.0833333|    |
-|/players/1168311/yasin-ayari        |Brighton and Hove Albion |      0.010800|   0.1724138|    |
-|/players/1298925/jeremy-sarmiento   |Brighton and Hove Albion |      0.013750|   0.2325581|    |
-|/players/942549/billy-gilmour       |Brighton and Hove Albion |      0.000000|   0.1250000|    |
-|/players/866201/vinicius            |Fulham                   |      0.106350|   0.1886792|    |
-|/players/717176/daniel-james        |Fulham                   |      0.088000|   0.1694915|    |
-|/players/494417/harry-wilson        |Fulham                   |      0.015825|   0.1886792|    |
-|/players/556972/sasa-lukic          |Fulham                   |      0.003850|   0.1176471|    |
+|/players/955139/tariq-lamptey       |Brighton and Hove Albion |      0.000000|   0.0000000|    |
+|/players/1168311/yasin-ayari        |Brighton and Hove Albion |      0.010575|   0.0000000|    |
+|/players/1298925/jeremy-sarmiento   |Brighton and Hove Albion |      0.013650|   0.0000000|    |
+|/players/1073742/julio-enciso       |Brighton and Hove Albion |      0.033000|   0.0000000|    |
+|/players/866201/vinicius            |Fulham                   |      0.084950|   0.0000000|*   |
+|/players/717176/daniel-james        |Fulham                   |      0.089050|   0.0000000|*   |
+|/players/556972/sasa-lukic          |Fulham                   |      0.004150|   0.0000000|    |
+|/players/160627/cdric-soares        |Fulham                   |      0.023625|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Brighton and Hove Albion:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
@@ -102,10 +115,10 @@ ____________________________________________________
 |/players/831489/alexis-mac-allister |           3|         43.4245|           1.6135|        0.6743|         2.4873|      0.2802|        0.3013|      0.1019| 81.8696|
 |/players/862608/kaoru-mitoma        |           3|         36.3778|           1.1609|        1.0695|         1.9949|      0.3084|        0.3482|      0.2144| 84.1379|
 |/players/1068482/evan-ferguson      |           5|         19.5787|           0.5320|        1.0805|         2.5194|      0.4394|        0.5317|      0.0776| 72.5000|
-|/players/955139/tariq-lamptey       |          NA|              NA|               NA|        0.0000|         0.2408|      0.0116|        0.0000|      0.0377| 17.5000|
-|/players/1168311/yasin-ayari        |          NA|              NA|               NA|        0.0335|         0.3352|      0.0395|        0.0133|      0.0295|  8.1304|
-|/players/1298925/jeremy-sarmiento   |          NA|              NA|               NA|        0.0617|         0.1543|      0.0131|        0.0136|      0.0078|  5.8621|
-|/players/942549/billy-gilmour       |          NA|              NA|               NA|        0.0795|         0.0795|      0.0000|        0.0000|      0.0029|  5.7313|
+|/players/955139/tariq-lamptey       |           0|              NA|               NA|        0.0000|         0.2408|      0.0116|        0.0000|      0.0377| 17.5000|
+|/players/1168311/yasin-ayari        |           0|              NA|               NA|        0.0335|         0.3352|      0.0395|        0.0133|      0.0295|  8.1304|
+|/players/1298925/jeremy-sarmiento   |           0|              NA|               NA|        0.0617|         0.1543|      0.0131|        0.0136|      0.0078|  5.8621|
+|/players/1073742/julio-enciso       |           0|              NA|               NA|        0.1808|         0.3073|      0.0261|        0.0365|      0.0020|  5.7313|
 
 
 |manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
@@ -114,26 +127,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Fulham:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/351860/aleksandar-mitrovic |           5|         17.8437|           0.6701|        0.8016|         1.9195|      0.2992|        0.3278|      0.0578| 90.0000|
-|/players/94086/willian              |           3|         23.4627|           1.0447|        0.4348|         1.1925|      0.1158|        0.2081|      0.0803| 75.4595|
-|/players/575779/andreas-pereira     |           3|         27.0193|           1.1299|        0.5678|         1.5259|      0.1516|        0.1989|      0.1116| 81.4200|
-|/players/262550/bobby-reid          |           3|         18.6637|           1.4685|        0.4270|         1.1659|      0.1745|        0.1100|      0.0955| 81.9268|
-|/players/524434/joao-palhinha       |           2|         32.0177|           3.4140|        0.2241|         0.9237|      0.0636|        0.0417|      0.0116| 90.0000|
-|/players/502420/harrison-reed       |           2|         42.3373|           1.2201|        0.1573|         0.4823|      0.0345|        0.0406|      0.0865| 82.6053|
-|/players/662428/antonee-robinson    |           1|         33.3762|           1.7271|        0.0763|         0.3734|      0.0136|        0.0054|      0.0583| 90.0000|
-|/players/198444/tim-ream            |           1|         46.9624|           1.0402|        0.0298|         0.1291|      0.0319|        0.0134|      0.0123| 90.0000|
-|/players/696443/issa-diop           |           1|         30.8626|           1.2761|        0.1376|         0.3790|      0.0671|        0.0579|      0.0103| 90.0000|
-|/players/469804/kenny-tete          |           1|         34.3249|           2.9226|        0.1929|         0.6982|      0.0380|        0.0497|      0.0628| 90.0000|
-|/players/215168/bernd-leno          |           0|         26.2626|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/866201/vinicius            |          NA|              NA|               NA|        0.2540|         0.6417|      0.1309|        0.1293|      0.0521| 14.5405|
-|/players/717176/daniel-james        |          NA|              NA|               NA|        0.1420|         0.2271|      0.0637|        0.1067|      0.0082|  8.5800|
-|/players/494417/harry-wilson        |          NA|              NA|               NA|        0.0646|         0.3620|      0.0408|        0.0175|      0.0284|  8.0732|
-|/players/556972/sasa-lukic          |          NA|              NA|               NA|        0.0136|         0.0272|      0.0026|        0.0038|      0.0205|  7.3947|
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/94086/willian           |           5|         15.4843|           0.5815|        0.6956|         1.6657|      0.2597|        0.3278|      0.0502| 78.1000|
+|/players/494417/harry-wilson     |           3|         22.4541|           1.4848|        0.5979|         1.6796|      0.1961|        0.1793|      0.1308| 82.1519|
+|/players/575779/andreas-pereira  |           3|         28.8349|           0.9796|        0.4972|         1.3111|      0.1193|        0.2174|      0.0884| 81.4200|
+|/players/262550/bobby-reid       |           3|         19.9179|           1.2732|        0.3739|         1.0017|      0.1372|        0.1202|      0.0756| 81.9268|
+|/players/524434/joao-palhinha    |           2|         32.0177|           3.4140|        0.2241|         0.9237|      0.0636|        0.0417|      0.0116| 90.0000|
+|/players/502420/harrison-reed    |           2|         46.1273|           1.3293|        0.1714|         0.5255|      0.0376|        0.0406|      0.0943| 90.0000|
+|/players/662428/antonee-robinson |           1|         33.3762|           1.7271|        0.0763|         0.3734|      0.0136|        0.0054|      0.0583| 90.0000|
+|/players/198444/tim-ream         |           1|         46.9624|           1.0402|        0.0298|         0.1291|      0.0319|        0.0134|      0.0123| 90.0000|
+|/players/696443/issa-diop        |           1|         30.8626|           1.2761|        0.1376|         0.3790|      0.0671|        0.0579|      0.0103| 90.0000|
+|/players/469804/kenny-tete       |           1|         34.3249|           2.9226|        0.1929|         0.6982|      0.0380|        0.0497|      0.0628| 90.0000|
+|/players/215168/bernd-leno       |           0|         26.2626|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/866201/vinicius         |           0|              NA|               NA|        0.2079|         0.5252|      0.1071|        0.1058|      0.0426| 11.9000|
+|/players/717176/daniel-james     |           0|              NA|               NA|        0.1420|         0.2271|      0.0637|        0.1067|      0.0082|  8.5800|
+|/players/556972/sasa-lukic       |           0|              NA|               NA|        0.0148|         0.0297|      0.0028|        0.0042|      0.0223|  8.0732|
+|/players/160627/cdric-soares     |           0|              NA|               NA|        0.0532|         0.1330|      0.0055|        0.0275|      0.0092|  7.8481|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
