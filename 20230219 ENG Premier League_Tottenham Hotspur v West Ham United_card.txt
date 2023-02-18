@@ -1,0 +1,178 @@
+[1] "Updated at 2023-02-18 10:12:47.622"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Tottenham Hotspur 1.4183 to West Ham United 1.1189"
+[1] "Total: 2.5372"
+[1] "Tottenham Hotspur %: 44.09"
+[1] "Draw %: 25.71"
+[1] "West Ham United %: 30.2"
+[1] "--XG Model--"
+[1] "Score: Tottenham Hotspur 1.6374 to West Ham United 1.2618"
+[1] "Total: 2.8992"
+[1] "Tottenham Hotspur %: 47.15"
+[1] "Draw %: 24.12"
+[1] "West Ham United %: 28.73"
+[1] "--XGoT Model--"
+[1] "Score: Tottenham Hotspur 1.5394 to West Ham United 1.1954"
+[1] "Total: 2.7348"
+[1] "Tottenham Hotspur %: 45.01"
+[1] "Draw %: 24.96"
+[1] "West Ham United %: 30.03"
+[1] "--XA Model--"
+[1] "Score: Tottenham Hotspur 1.5265 to West Ham United 1.2943"
+[1] "Total: 2.8208"
+[1] "Tottenham Hotspur %: 42.86"
+[1] "Draw %: 24.83"
+[1] "West Ham United %: 32.31"
+[1] "--Mean 4 Models--"
+[1] "Tottenham Hotspur has a mean win % of 44.78%; a min win % of 42.86%; a max win % of 47.15%."
+[1] "Draw has a mean win % of 24.91%; a min win % of 24.12%; a max win % of 25.71%."
+[1] "West Ham United has a mean win % of 30.32%; a min win % of 28.73%; a max win of % 32.31%."
+[1] "Tottenham Hotspur has a mean win of the Double Chance of 69.68%; a min win % of 67.69%, a max win % of 71.27%."
+[1] "West Ham United has a mean win of the Double Chance of 55.22%; a min win % of 52.85%, a max win % of 57.14%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.68%; max % is 54.63 and min % is 45.15%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.32%; max % is 54.85 and min % is 45.37%."
+[1] "--Sportsbook Odds--"
+[1] "Tottenham Hotspur Barstool Odds are: 56.52"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "West Ham United Barstool Odds are: 21.74"
+[1] "Tottenham Hotspur Adjusted Barstool Odds are: 53.68"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.672"
+[1] "West Ham United Adjusted Barstool Odds are: 20.648"
+[1] "Tottenham Hotspur's Barstool Odds to cover the -0.75 spread are: 50.76"
+[1] "West Ham United's Barstool Odds to cover the 0.75 spread are: 54.35"
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35% chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+              bet           date_time
+1 West Ham United 2023-02-19 08:30:00
+
+
+|player          |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:---------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Jarrod Bowen    |WHU  |     19| 1.84|          NA|  0.9586|   0.4151|passes    |ENG England |      0.5435|         NA|        NA|         NA|       NA|
+|Jarrod Bowen    |WHU  |     23| 2.29|          NA|  0.8191|   0.3824|passes    |ENG England |      0.4367|         NA|        NA|         NA|       NA|
+|Jarrod Bowen    |WHU  |     15| 1.51|          NA|  0.9955|   0.3332|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Jarrod Bowen    |WHU  |     27| 2.75|          NA|  0.5535|   0.1899|passes    |ENG England |      0.3636|         NA|        NA|         NA|       NA|
+|Harry Kane      |TOT  |     32| 2.76|          NA|  0.4758|   0.1135|passes    |ENG England |      0.3623|         NA|        NA|         NA|       NA|
+|Harry Kane      |TOT  |     24| 1.85|          NA|  0.9203|   0.3798|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Harry Kane      |TOT  |     28| 2.30|          NA|  0.7442|   0.3094|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Harry Kane      |TOT  |     20| 1.51|          NA|  0.9861|   0.3238|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Michail Antonio |WHU  |     15| 1.85|          NA|  0.8404|   0.2999|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Michail Antonio |WHU  |     11| 1.51|          NA|  0.9780|   0.3157|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Tomas Soucek    |WHU  |     33| 1.89|          NA|  0.8279|   0.2988|passes    |ENG England |      0.5291|         NA|        NA|         NA|       NA|
+|Tomas Soucek    |WHU  |     37| 2.36|          NA|  0.6129|   0.1892|passes    |ENG England |      0.4237|         NA|        NA|         NA|       NA|
+|Tomas Soucek    |WHU  |     29| 1.54|          NA|  0.9486|   0.2992|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
+|Thilo Kehrer    |WHU  |     36| 1.85|          NA|  1.0000|   0.4595|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Thilo Kehrer    |WHU  |     40| 2.09|          NA|  1.0000|   0.5215|passes    |ENG England |      0.4785|         NA|        NA|         NA|       NA|
+|Thilo Kehrer    |WHU  |     52| 3.07|          NA|  0.9906|   0.6649|passes    |ENG England |      0.3257|         NA|        NA|         NA|       NA|
+|Thilo Kehrer    |WHU  |     48| 2.57|          NA|  0.9980|   0.6089|passes    |ENG England |      0.3891|         NA|        NA|         NA|       NA|
+|Thilo Kehrer    |WHU  |     32| 1.62|          NA|  1.0000|   0.3827|passes    |ENG England |      0.6173|         NA|        NA|         NA|       NA|
+|Thilo Kehrer    |WHU  |     44| 2.26|          NA|  0.9997|   0.5572|passes    |ENG England |      0.4425|         NA|        NA|         NA|       NA|
+|Said Benrahma   |WHU  |     28| 1.83|          NA|  0.7272|   0.1808|passes    |ENG England |      0.5464|         NA|        NA|         NA|       NA|
+|Said Benrahma   |WHU  |     24| 1.50|          NA|  0.9125|   0.2458|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
+|Angelo Ogbonna  |WHU  |     35| 1.85|          NA|  0.8675|   0.3270|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Angelo Ogbonna  |WHU  |     39| 2.30|          NA|  0.6829|   0.2481|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Angelo Ogbonna  |WHU  |     31| 1.52|          NA|  0.9622|   0.3043|passes    |ENG England |      0.6579|         NA|        NA|         NA|       NA|
+|Son Heung-Min   |TOT  |     26| 2.36|          NA|  0.9841|   0.5604|passes    |ENG England |      0.4237|         NA|        NA|         NA|       NA|
+|Son Heung-Min   |TOT  |     22| 1.89|          NA|  0.9981|   0.4690|passes    |ENG England |      0.5291|         NA|        NA|         NA|       NA|
+|Son Heung-Min   |TOT  |     34| 3.65|          NA|  0.7758|   0.5018|passes    |ENG England |      0.2740|         NA|        NA|         NA|       NA|
+|Son Heung-Min   |TOT  |     18| 1.54|          NA|  0.9999|   0.3505|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
+|Son Heung-Min   |TOT  |     30| 2.84|          NA|  0.9247|   0.5726|passes    |ENG England |      0.3521|         NA|        NA|         NA|       NA|
+|Son Heung-Min   |TOT  |     38| 5.05|          NA|  0.5417|   0.3437|passes    |ENG England |      0.1980|         NA|        NA|         NA|       NA|
+|Ben Davies      |TOT  |     51| 1.85|          NA|  0.7757|   0.2352|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Ben Davies      |TOT  |     55| 2.16|          NA|  0.5861|   0.1231|passes    |ENG England |      0.4630|         NA|        NA|         NA|       NA|
+|Ben Davies      |TOT  |     47| 1.58|          NA|  0.9053|   0.2724|passes    |ENG England |      0.6329|         NA|        NA|         NA|       NA|
+|Vladimir Coufal |WHU  |     30| 1.47|          NA|  0.8262|   0.1459|passes    |ENG England |      0.6803|         NA|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team              | expected_attg| expected_gs|bet |
+|:------------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/95336/fraser-forster        |Tottenham Hotspur |      0.000000|   0.2439024|    |
+|/players/789066/cristian-romero      |Tottenham Hotspur |      0.041675|   0.0526316|    |
+|/players/361315/eric-dier            |Tottenham Hotspur |      0.022975|   0.0714286|    |
+|/players/276121/ben-davies           |Tottenham Hotspur |      0.057150|   0.0625000|    |
+|/players/797908/emerson-royal        |Tottenham Hotspur |      0.057300|   0.0555556|    |
+|/players/1107280/pape-sarr           |Tottenham Hotspur |      0.050025|   0.0833333|    |
+|/players/266523/pierre-emile-hjbjerg |Tottenham Hotspur |      0.051100|   0.1250000|    |
+|/players/163670/ivan-perisic         |Tottenham Hotspur |      0.076375|   0.1754386|    |
+|/players/654908/richarlison          |Tottenham Hotspur |      0.208200|   0.3448276|    |
+|/players/194165/harry-kane           |Tottenham Hotspur |      0.343025|   0.5000000|    |
+|/players/212867/heung-min-son        |Tottenham Hotspur |      0.297550|   0.0238095|*   |
+|/players/158545/michail-antonio      |West Ham United   |      0.306925|   0.2564103|*   |
+|/players/491883/said-benrahma        |West Ham United   |      0.080250|   0.1724138|    |
+|/players/523825/jarrod-bowen         |West Ham United   |      0.245275|   0.2083333|    |
+|/players/267371/emerson              |West Ham United   |      0.047950|   0.0909091|    |
+|/players/654096/declan-rice          |West Ham United   |      0.051900|   0.0714286|    |
+|/players/524437/tomas-soucek         |West Ham United   |      0.130375|   0.1176471|    |
+|/players/307317/vladimir-coufal      |West Ham United   |      0.040575|   0.0285714|    |
+|/players/770267/ben-johnson          |West Ham United   |      0.012600|   0.0238095|    |
+|/players/49543/angelo-ogbonna        |West Ham United   |      0.034425|   0.0400000|    |
+|/players/604088/thilo-kehrer         |West Ham United   |      0.015325|   0.0333333|    |
+|/players/30973/lukasz-fabianski      |West Ham United   |      0.000000|   0.0285714|    |
+|/players/935379/dejan-kulusevski     |Tottenham Hotspur |      0.011875|   0.2702703|    |
+|/players/215299/lucas-moura          |Tottenham Hotspur |      0.001275|   0.2702703|    |
+|/players/704151/arnaut-danjuma       |Tottenham Hotspur |      0.055175|   0.3448276|    |
+|/players/488412/clment-lenglet       |Tottenham Hotspur |      0.000000|   0.0666667|    |
+|/players/210276/manuel-lanzini       |West Ham United   |      0.012450|   0.1333333|    |
+|/players/214426/danny-ings           |West Ham United   |      0.032675|   0.2564103|    |
+|/players/683450/pablo-fornals        |West Ham United   |      0.008200|   0.1538462|    |
+|/players/844943/flynn-downes         |West Ham United   |      0.000000|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about Tottenham Hotspur:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/95336/fraser-forster        |           0|         29.6281|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/789066/cristian-romero      |           1|         58.5157|           2.7264|        0.1481|         0.4272|      0.0589|        0.0425|      0.0246| 90.0000|
+|/players/361315/eric-dier            |           1|         71.5707|           0.8548|        0.1326|         0.6116|      0.0718|        0.0238|      0.0257| 90.0000|
+|/players/276121/ben-davies           |           1|         57.3049|           1.5508|        0.1448|         0.5598|      0.0711|        0.0623|      0.0541| 90.0000|
+|/players/797908/emerson-royal        |           3|         39.3214|           2.1015|        0.2324|         0.7080|      0.0689|        0.0627|      0.0976| 83.9512|
+|/players/1107280/pape-sarr           |           3|         43.9379|           2.1562|        0.2955|         1.1380|      0.0569|        0.0546|      0.0444| 82.9535|
+|/players/266523/pierre-emile-hjbjerg |           3|         65.9825|           1.8146|        0.2238|         0.7305|      0.0644|        0.0571|      0.0831| 90.0000|
+|/players/163670/ivan-perisic         |           3|         30.0594|           1.2016|        0.3896|         1.1972|      0.1023|        0.0840|      0.1886| 81.4340|
+|/players/654908/richarlison          |           5|         25.1129|           1.8464|        0.6957|         1.9678|      0.2715|        0.2472|      0.0863| 84.8023|
+|/players/194165/harry-kane           |           5|         32.3224|           0.7039|        1.1066|         2.8487|      0.4737|        0.4374|      0.1503| 90.0000|
+|/players/212867/heung-min-son        |           5|         36.2916|           0.8421|        1.0604|         2.3497|      0.2826|        0.3580|      0.1895| 90.0000|
+|/players/935379/dejan-kulusevski     |          NA|              NA|               NA|        0.0459|         0.2228|      0.0139|        0.0118|      0.0268|  8.5660|
+|/players/215299/lucas-moura          |          NA|              NA|               NA|        0.0550|         0.1413|      0.0068|        0.0021|      0.0099|  7.0465|
+|/players/704151/arnaut-danjuma       |          NA|              NA|               NA|        0.1504|         0.2686|      0.0548|        0.0578|      0.0083|  6.0488|
+|/players/488412/clment-lenglet       |          NA|              NA|               NA|        0.0000|         0.0142|      0.0016|        0.0000|      0.0080|  5.1977|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Antonio Conte |        98910|      11.79331|3-5-2     |
+____________________________________________________
+
+[1] "Facts about West Ham United:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/158545/michail-antonio |           5|         19.9406|           0.5161|        1.0115|         2.0820|      0.3410|        0.3656|      0.0498| 82.5385|
+|/players/491883/said-benrahma   |           4|         32.0235|           0.6405|        0.3550|         1.1820|      0.0704|        0.0846|      0.0887| 78.0000|
+|/players/523825/jarrod-bowen    |           4|         28.3800|           0.8152|        0.6212|         1.8516|      0.3181|        0.2797|      0.1576| 86.0000|
+|/players/267371/emerson         |           3|         41.1074|           1.3819|        0.1519|         0.9453|      0.0616|        0.0482|      0.0993| 81.3750|
+|/players/654096/declan-rice     |           3|         57.0514|           2.2708|        0.1610|         0.6980|      0.0423|        0.0524|      0.0465| 90.0000|
+|/players/524437/tomas-soucek    |           3|         39.4540|           2.3656|        0.4681|         1.3871|      0.1369|        0.1403|      0.0722| 90.0000|
+|/players/307317/vladimir-coufal |           3|         36.1618|           2.2306|        0.1362|         0.4087|      0.0309|        0.0403|      0.1052| 90.0000|
+|/players/770267/ben-johnson     |           1|         47.9035|           2.3429|        0.0719|         0.2712|      0.0091|        0.0132|      0.0505| 90.0000|
+|/players/49543/angelo-ogbonna   |           1|         42.7383|           1.1850|        0.1185|         0.4805|      0.0537|        0.0372|      0.0120| 90.0000|
+|/players/604088/thilo-kehrer    |           1|         71.6062|           2.0398|        0.1466|         0.4920|      0.0509|        0.0150|      0.0256| 90.0000|
+|/players/30973/lukasz-fabianski |           0|         25.1698|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/210276/manuel-lanzini  |          NA|              NA|               NA|        0.0796|         0.2587|      0.0088|        0.0138|      0.0398| 12.0000|
+|/players/214426/danny-ings      |          NA|              NA|               NA|        0.1289|         0.4030|      0.0588|        0.0329|      0.0098|  8.6250|
+|/players/683450/pablo-fornals   |          NA|              NA|               NA|        0.0792|         0.2262|      0.0149|        0.0075|      0.0337|  7.4615|
+|/players/844943/flynn-downes    |          NA|              NA|               NA|        0.0000|         0.0263|      0.0000|        0.0000|      0.0014|  4.0000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|David Moyes  |       113972|      2.004286|4-2-3-1   |
