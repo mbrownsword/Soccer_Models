@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-18 15:13:25.751"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Troyes 1.6168 to Montpellier 1.475"
+[1] "Total: 3.0918"
+[1] "Troyes %: 41.57"
+[1] "Draw %: 23.88"
+[1] "Montpellier %: 34.55"
+[1] "--XG Model--"
+[1] "Score: Troyes 1.6897 to Montpellier 1.6024"
+[1] "Total: 3.2921"
+[1] "Troyes %: 40.58"
+[1] "Draw %: 23.24"
+[1] "Montpellier %: 36.18"
+[1] "--XGoT Model--"
+[1] "Score: Troyes 2.0823 to Montpellier 1.6858"
+[1] "Total: 3.7681"
+[1] "Troyes %: 47.11"
+[1] "Draw %: 21.45"
+[1] "Montpellier %: 31.44"
+[1] "--XA Model--"
+[1] "Score: Troyes 1.6084 to Montpellier 1.4976"
+[1] "Total: 3.106"
+[1] "Troyes %: 40.7"
+[1] "Draw %: 23.84"
+[1] "Montpellier %: 35.46"
+[1] "--Mean 4 Models--"
+[1] "Troyes has a mean win % of 42.49%; a min win % of 40.58%; a max win % of 47.11%."
+[1] "Draw has a mean win % of 23.1%; a min win % of 21.45%; a max win % of 23.88%."
+[1] "Montpellier has a mean win % of 34.41%; a min win % of 31.44%; a max win of % 36.18%."
+[1] "Troyes has a mean win of the Double Chance of 65.59%; a min win % of 63.82%, a max win % of 68.56%."
+[1] "Montpellier has a mean win of the Double Chance of 57.51%; a min win % of 52.89%, a max win % of 59.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 63.62%; max % is 72.41 and min % is 58.96%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 36.38%; max % is 41.04 and min % is 27.59%."
+[1] "--Sportsbook Odds--"
+[1] "Troyes Barstool Odds are: 33.33"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Montpellier Barstool Odds are: 40.82"
+[1] "Troyes Adjusted Barstool Odds are: 31.622"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.649"
+[1] "Montpellier Adjusted Barstool Odds are: 38.729"
+[1] "Troyes's Barstool Odds to cover the  spread are: NA"
+[1] "Montpellier's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36% chance of the over 2.5 hitting. The line for the under is 1.89, which is a 52.91% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                      bet           date_time
+1                  Troyes 2023-02-19 06:00:00
+2 over Troyes/Montpellier 2023-02-19 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team        | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/348409/gauthier-gallon     |Troyes      |      0.000000|   0.0434783|    |
+|/players/1032039/jackson-porozo     |Troyes      |      0.082600|   0.0625000|    |
+|/players/593612/yoann-salmier       |Troyes      |      0.020825|   0.0833333|    |
+|/players/525133/erik-palmer-brown   |Troyes      |      0.002600|   0.0434783|    |
+|/players/1274059/thierno-bald       |Troyes      |      0.010450|   0.0434783|    |
+|/players/971790/lucien-agoume       |Troyes      |      0.012950|   0.0714286|    |
+|/players/632342/jeff-reine-adlaide  |Troyes      |      0.145075|   0.2222222|    |
+|/players/354479/xavier-chavalerin   |Troyes      |      0.158650|   0.2000000|    |
+|/players/1344654/mathis-hamdi       |Troyes      |      0.013100|   0.0434783|    |
+|/players/541933/mama-bald           |Troyes      |      0.376300|   0.2941176|*   |
+|/players/435669/rony-lopes          |Troyes      |      0.143950|   0.2439024|    |
+|/players/1213430/elye-wahi          |Montpellier |      0.320425|   0.3636364|    |
+|/players/660506/faitout-maouassa    |Montpellier |      0.056675|   0.1428571|    |
+|/players/179515/tji-savanier        |Montpellier |      0.281150|   0.2702703|    |
+|/players/770340/arnaud-nordin       |Montpellier |      0.186800|   0.2702703|    |
+|/players/1079548/joris-chotard      |Montpellier |      0.030625|   0.1250000|    |
+|/players/210119/jordan-ferri        |Montpellier |      0.074675|   0.1428571|    |
+|/players/409193/issiaga-sylla       |Montpellier |      0.013925|   0.0714286|    |
+|/players/314437/christopher-jullien |Montpellier |      0.066425|   0.1052632|    |
+|/players/789318/kiki-kouyat         |Montpellier |      0.040700|   0.1250000|    |
+|/players/643652/falaye-sacko        |Montpellier |      0.018100|   0.0370370|    |
+|/players/210114/benjamin-lecomte    |Montpellier |      0.000000|   0.1176471|    |
+|/players/1077680/papa-ndiaga-yade   |Troyes      |      0.200225|   0.1250000|*   |
+|/players/348420/renaud-ripart       |Troyes      |      0.230475|   0.2564103|    |
+|/players/821101/andreas-bruus       |Troyes      |      0.007125|   0.1250000|    |
+|/players/759823/ike-ugbo            |Troyes      |      0.069850|   0.2631579|    |
+|/players/239259/valre-germain       |Montpellier |      0.176850|   0.3333333|    |
+|/players/166019/wahbi-khazri        |Montpellier |      0.021200|   0.3773585|    |
+|/players/969506/bni-makouana        |Montpellier |      0.007825|   0.1538462|    |
+|/players/1022688/lo-leroy           |Montpellier |      0.017125|   0.0588235|    |
+____________________________________________________
+
+[1] "Facts about Troyes:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/348409/gauthier-gallon    |           0|         29.8732|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1032039/jackson-porozo    |           1|         42.0665|           1.4581|        0.2653|         0.7409|      0.1033|        0.1045|      0.0247| 90.0000|
+|/players/593612/yoann-salmier      |           1|         57.6534|           1.6617|        0.1972|         0.6253|      0.0511|        0.0254|      0.0278| 90.0000|
+|/players/525133/erik-palmer-brown  |           1|         41.9944|           1.2378|        0.0468|         0.3248|      0.0354|        0.0038|      0.0504| 90.0000|
+|/players/1274059/thierno-bald      |           3|         31.7853|           1.1978|        0.1537|         0.7211|      0.0795|        0.0149|      0.1166| 90.0000|
+|/players/971790/lucien-agoume      |           3|         46.4534|           3.2010|        0.1369|         0.9636|      0.1066|        0.0149|      0.0708| 90.0000|
+|/players/632342/jeff-reine-adlaide |           3|         41.7578|           1.1108|        0.6177|         1.5939|      0.1175|        0.1953|      0.2095| 76.9167|
+|/players/354479/xavier-chavalerin  |           3|         32.0537|           2.8651|        0.5438|         1.5576|      0.1037|        0.2119|      0.1423| 90.0000|
+|/players/1344654/mathis-hamdi      |           3|         11.6676|           0.7405|        0.0573|         0.3018|      0.0333|        0.0149|      0.0100| 37.6667|
+|/players/541933/mama-bald          |           5|         14.8064|           0.6894|        1.1516|         2.6538|      0.4719|        0.5633|      0.0361| 80.6346|
+|/players/435669/rony-lopes         |           5|         23.0033|           0.5088|        0.6127|         1.6513|      0.1705|        0.1893|      0.1575| 70.0000|
+|/players/1077680/papa-ndiaga-yade  |          NA|              NA|               NA|        0.5939|         2.2058|      0.1324|        0.2621|      0.1509| 52.3333|
+|/players/348420/renaud-ripart      |          NA|              NA|               NA|        0.3794|         0.9485|      0.1465|        0.3196|      0.0107| 20.0000|
+|/players/821101/andreas-bruus      |          NA|              NA|               NA|        0.0783|         0.0783|      0.0047|        0.0075|      0.0509| 13.0833|
+|/players/759823/ike-ugbo           |          NA|              NA|               NA|        0.1883|         0.3766|      0.0674|        0.0887|      0.0232|  9.3654|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Patrick Kisnorbo |        63553|      11.73092|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Montpellier:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1213430/elye-wahi          |           5|         18.1372|           0.6413|        0.8963|         2.0482|      0.3596|        0.4074|      0.0826| 80.4062|
+|/players/660506/faitout-maouassa    |           3|         15.2429|           1.6306|        0.2320|         0.6978|      0.0499|        0.0624|      0.1432| 68.5000|
+|/players/179515/tji-savanier        |           3|         48.2307|           1.4132|        0.8660|         2.1708|      0.2759|        0.3459|      0.1622| 84.7067|
+|/players/770340/arnaud-nordin       |           3|         18.4519|           0.5578|        0.5616|         1.5180|      0.1944|        0.2158|      0.0552| 70.6579|
+|/players/1079548/joris-chotard      |           2|         34.8915|           2.2447|        0.1082|         0.8641|      0.0798|        0.0332|      0.0403| 90.0000|
+|/players/210119/jordan-ferri        |           2|         63.6233|           2.4267|        0.3879|         0.8177|      0.0506|        0.0823|      0.1166| 90.0000|
+|/players/409193/issiaga-sylla       |           1|         47.5569|           1.6923|        0.1258|         0.4075|      0.0180|        0.0167|      0.0692| 90.0000|
+|/players/314437/christopher-jullien |           1|         53.2566|           1.4297|        0.2306|         0.6649|      0.0801|        0.0703|      0.0364| 90.0000|
+|/players/789318/kiki-kouyat         |           1|         46.5687|           2.3486|        0.1417|         0.5507|      0.0699|        0.0465|      0.0116| 90.0000|
+|/players/643652/falaye-sacko        |           1|         47.4658|           1.3570|        0.0434|         0.2489|      0.0321|        0.0200|      0.1134| 90.0000|
+|/players/210114/benjamin-lecomte    |           0|         29.5299|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/239259/valre-germain       |          NA|              NA|               NA|        0.3815|         0.7086|      0.1459|        0.2061|      0.0351| 21.5000|
+|/players/166019/wahbi-khazri        |          NA|              NA|               NA|        0.1715|         0.7430|      0.0457|        0.0214|      0.0690| 19.3421|
+|/players/969506/bni-makouana        |          NA|              NA|               NA|        0.0670|         0.4356|      0.0561|        0.0089|      0.0186|  9.5938|
+|/players/1022688/lo-leroy           |          NA|              NA|               NA|        0.0560|         0.2238|      0.0138|        0.0182|      0.0070|  5.2933|
+
+
+|manager_name        | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Michel Der Zakarian |        83601|     -4.076979|4-4-2     |
