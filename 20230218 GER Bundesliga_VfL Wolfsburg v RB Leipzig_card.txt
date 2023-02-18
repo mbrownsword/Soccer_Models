@@ -1,111 +1,117 @@
-[1] "Updated at 2023-02-17 13:02:43.803"
+[1] "Updated at 2023-02-18 06:16:20.399"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: VfL Wolfsburg 1.4065 to RB Leipzig 1.2532"
-[1] "Total: 2.6597"
-[1] "VfL Wolfsburg %: 41.29"
-[1] "Draw %: 25.92"
-[1] "RB Leipzig %: 32.79"
+[1] "Score: VfL Wolfsburg 1.3901 to RB Leipzig 1.2829"
+[1] "Total: 2.673"
+[1] "VfL Wolfsburg %: 40.44"
+[1] "Draw %: 25.61"
+[1] "RB Leipzig %: 33.95"
 [1] "--XG Model--"
-[1] "Score: VfL Wolfsburg 1.5746 to RB Leipzig 1.2813"
-[1] "Total: 2.8559"
-[1] "VfL Wolfsburg %: 44.38"
-[1] "Draw %: 24.33"
-[1] "RB Leipzig %: 31.29"
+[1] "Score: VfL Wolfsburg 1.4222 to RB Leipzig 1.2813"
+[1] "Total: 2.7035"
+[1] "VfL Wolfsburg %: 41.05"
+[1] "Draw %: 25.43"
+[1] "RB Leipzig %: 33.52"
 [1] "--XGoT Model--"
-[1] "Score: VfL Wolfsburg 1.6135 to RB Leipzig 1.3363"
-[1] "Total: 2.9498"
-[1] "VfL Wolfsburg %: 44.37"
-[1] "Draw %: 24.14"
-[1] "RB Leipzig %: 31.49"
+[1] "Score: VfL Wolfsburg 1.5241 to RB Leipzig 1.3653"
+[1] "Total: 2.8894"
+[1] "VfL Wolfsburg %: 41.61"
+[1] "Draw %: 24.5"
+[1] "RB Leipzig %: 33.89"
 [1] "--XA Model--"
-[1] "Score: VfL Wolfsburg 1.6457 to RB Leipzig 1.2221"
-[1] "Total: 2.8678"
-[1] "VfL Wolfsburg %: 47.96"
-[1] "Draw %: 24.46"
-[1] "RB Leipzig %: 27.58"
+[1] "Score: VfL Wolfsburg 1.6192 to RB Leipzig 1.254"
+[1] "Total: 2.8732"
+[1] "VfL Wolfsburg %: 46.39"
+[1] "Draw %: 24.44"
+[1] "RB Leipzig %: 29.17"
 [1] "--Mean 4 Models--"
-[1] "VfL Wolfsburg has a mean win % of 44.5%; a min win % of 41.29%; a max win % of 47.96%."
-[1] "Draw has a mean win % of 24.71%; a min win % of 24.14%; a max win % of 25.92%."
-[1] "RB Leipzig has a mean win % of 30.79%; a min win % of 27.58%; a max win of % 32.79%."
-[1] "VfL Wolfsburg has a mean win of the Double Chance of 69.21%; a min win % of 67.21%, a max win % of 72.42%."
-[1] "RB Leipzig has a mean win of the Double Chance of 55.5%; a min win % of 52.04%, a max win % of 58.71%."
-[1] "The mean likelihood that there are more than 2.5 goals is 52.98%; max % is 56.16 and min % is 48.67%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 47.02%; max % is 51.33 and min % is 43.84%."
+[1] "VfL Wolfsburg has a mean win % of 42.37%; a min win % of 40.44%; a max win % of 46.39%."
+[1] "Draw has a mean win % of 25%; a min win % of 24.44%; a max win % of 25.61%."
+[1] "RB Leipzig has a mean win % of 32.63%; a min win % of 29.17%; a max win of % 33.95%."
+[1] "VfL Wolfsburg has a mean win of the Double Chance of 67.37%; a min win % of 66.05%, a max win % of 70.83%."
+[1] "RB Leipzig has a mean win of the Double Chance of 57.63%; a min win % of 53.61%, a max win % of 59.56%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.84%; max % is 54.11 and min % is 49.46%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.16%; max % is 50.54 and min % is 45.89%."
 [1] "--Sportsbook Odds--"
-[1] "VfL Wolfsburg Barstool Odds are: 31.25"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "RB Leipzig Barstool Odds are: 46.73"
-[1] "VfL Wolfsburg Adjusted Barstool Odds are: 29.548"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.267"
-[1] "RB Leipzig Adjusted Barstool Odds are: 44.185"
-[1] "VfL Wolfsburg's Barstool Odds to cover the 0.25 spread are: 52.08"
-[1] "RB Leipzig's Barstool Odds to cover the -0.25 spread are: 53.19"
-[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14% chance of the over 2.5 hitting. The line for the under is 2.08, which is a 48.08% chance of the under 2.5 hitting."
+[1] "VfL Wolfsburg Barstool Odds are: 33.33"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "RB Leipzig Barstool Odds are: 45.87"
+[1] "VfL Wolfsburg Adjusted Barstool Odds are: 31.586"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.943"
+[1] "RB Leipzig Adjusted Barstool Odds are: 43.47"
+[1] "VfL Wolfsburg's Barstool Odds to cover the 0.5 spread are: 58.48"
+[1] "RB Leipzig's Barstool Odds to cover the -0.5 spread are: 46.08"
+[1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11% chance of the over 2.5 hitting. The line for the under is 2.32, which is a 43.1% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                bet           date_time
-1     VfL Wolfsburg 2023-02-18 06:30:00
-2 VfL Wolfsburg ATS 2023-02-18 06:30:00
+                             bet           date_time
+1                  VfL Wolfsburg 2023-02-18 06:30:00
+2 under VfL Wolfsburg/RB Leipzig 2023-02-18 06:30:00
+3              VfL Wolfsburg ATS 2023-02-18 06:30:00
+
+
+|player       |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_shots| prob_sogs| prob_goals| prob_ast|
+|:------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|----------:|---------:|----------:|--------:|
+|Lukas Nmecha |WOB  |      2| 5.85|      0.1709|  0.3222|   0.1513|tackles   |GER Germany |         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                              |team          | expected_attg| expected_gs|bet |
 |:-------------------------------------|:-------------|-------------:|-----------:|:---|
 |/players/170322/koen-casteels         |VfL Wolfsburg |      0.000000|   0.1666667|    |
-|/players/883087/ridle-baku            |VfL Wolfsburg |      0.083725|   0.1666667|    |
-|/players/922892/sebastiaan-bornauw    |VfL Wolfsburg |      0.024775|   0.1000000|    |
-|/players/1097466/micky-van-de-ven     |VfL Wolfsburg |      0.022775|   0.0434783|    |
-|/players/325028/paulo-silva           |VfL Wolfsburg |      0.007900|   0.3125000|    |
-|/players/647900/mattias-svanberg      |VfL Wolfsburg |      0.037400|   0.1176471|    |
-|/players/298915/maximilian-arnold     |VfL Wolfsburg |      0.083500|   0.1666667|    |
-|/players/450976/yannick-gerhardt      |VfL Wolfsburg |      0.134850|   0.1754386|    |
-|/players/1073498/patrick-wimmer       |VfL Wolfsburg |      0.221275|   0.1886792|    |
-|/players/889785/jonas-wind            |VfL Wolfsburg |      0.447450|   0.3225806|*   |
-|/players/1067260/jakub-kaminski       |VfL Wolfsburg |      0.029350|   0.1754386|    |
-|/players/450980/timo-werner           |RB Leipzig    |      0.219050|   0.3636364|    |
-|/players/388523/andr-silva            |RB Leipzig    |      0.297575|   0.3125000|    |
-|/players/171980/emil-forsberg         |RB Leipzig    |      0.135650|   0.3030303|    |
-|/players/620027/xaver-schlager        |RB Leipzig    |      0.029350|   0.1666667|    |
-|/players/526827/konrad-laimer         |RB Leipzig    |      0.058500|   0.1250000|    |
-|/players/846005/dominik-szoboszlai    |RB Leipzig    |      0.130375|   0.3225806|    |
-|/players/806669/david-raum            |RB Leipzig    |      0.013725|   0.0666667|    |
-|/players/1070712/josko-gvardiol       |RB Leipzig    |      0.030775|   0.0952381|    |
-|/players/278856/willi-orban           |RB Leipzig    |      0.036775|   0.1428571|    |
-|/players/681383/benjamin-henrichs     |RB Leipzig    |      0.030875|   0.1666667|    |
-|/players/278814/janis-blaswich        |RB Leipzig    |      0.000000|   0.2500000|    |
-|/players/540073/gian-luca-waldschmidt |VfL Wolfsburg |      0.116200|   0.2941176|    |
-|/players/966019/felix-nmecha          |VfL Wolfsburg |      0.023800|   0.2000000|    |
-|/players/161421/josuha-guilavogui     |VfL Wolfsburg |      0.004325|   0.0909091|    |
-|/players/861197/lukas-nmecha          |VfL Wolfsburg |      0.033850|   0.3225806|    |
-|/players/266527/yussuf-poulsen        |RB Leipzig    |      0.061075|   0.3636364|    |
-|/players/688830/amadou-haidara        |RB Leipzig    |      0.011875|   0.1000000|    |
-|/players/1171305/caden-clark          |RB Leipzig    |      0.019900|   0.1538462|    |
-|/players/526657/lukas-klostermann     |RB Leipzig    |      0.000000|   0.0666667|    |
+|/players/883087/ridle-baku            |VfL Wolfsburg |      0.085525|   0.1754386|    |
+|/players/922892/sebastiaan-bornauw    |VfL Wolfsburg |      0.024600|   0.1052632|    |
+|/players/1097466/micky-van-de-ven     |VfL Wolfsburg |      0.024525|   0.0476190|    |
+|/players/325028/paulo-silva           |VfL Wolfsburg |      0.007925|   0.3125000|    |
+|/players/966019/felix-nmecha          |VfL Wolfsburg |      0.138875|   0.2127660|    |
+|/players/298915/maximilian-arnold     |VfL Wolfsburg |      0.066075|   0.1754386|    |
+|/players/450976/yannick-gerhardt      |VfL Wolfsburg |      0.102400|   0.1886792|    |
+|/players/1073498/patrick-wimmer       |VfL Wolfsburg |      0.140225|   0.2000000|    |
+|/players/889785/jonas-wind            |VfL Wolfsburg |      0.309375|   0.3389831|    |
+|/players/540073/gian-luca-waldschmidt |VfL Wolfsburg |      0.273250|   0.3125000|    |
+|/players/388523/andr-silva            |RB Leipzig    |      0.274000|   0.3125000|    |
+|/players/450980/timo-werner           |RB Leipzig    |      0.162050|   0.3636364|    |
+|/players/171980/emil-forsberg         |RB Leipzig    |      0.165525|   0.3030303|    |
+|/players/846005/dominik-szoboszlai    |RB Leipzig    |      0.154425|   0.3225806|    |
+|/players/620027/xaver-schlager        |RB Leipzig    |      0.020500|   0.1666667|    |
+|/players/688830/amadou-haidara        |RB Leipzig    |      0.084850|   0.1000000|    |
+|/players/806669/david-raum            |RB Leipzig    |      0.012850|   0.0666667|    |
+|/players/1070712/josko-gvardiol       |RB Leipzig    |      0.035800|   0.0952381|    |
+|/players/278856/willi-orban           |RB Leipzig    |      0.041050|   0.1428571|    |
+|/players/526657/lukas-klostermann     |RB Leipzig    |      0.025525|   0.0666667|    |
+|/players/278814/janis-blaswich        |RB Leipzig    |      0.000000|   0.2439024|    |
+|/players/647900/mattias-svanberg      |VfL Wolfsburg |      0.022400|   0.0000000|    |
+|/players/161421/josuha-guilavogui     |VfL Wolfsburg |      0.007400|   0.0000000|    |
+|/players/861197/lukas-nmecha          |VfL Wolfsburg |      0.033475|   0.0000000|    |
+|/players/839204/omar-marmoush         |VfL Wolfsburg |      0.035425|   0.0000000|    |
+|/players/266527/yussuf-poulsen        |RB Leipzig    |      0.043550|   0.0000000|    |
+|/players/681383/benjamin-henrichs     |RB Leipzig    |      0.016575|   0.0000000|    |
+|/players/1171305/caden-clark          |RB Leipzig    |      0.015725|   0.0000000|    |
+|/players/704523/christopher-nkunku    |RB Leipzig    |      0.049600|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about VfL Wolfsburg:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/170322/koen-casteels         |           0|         38.1453|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/883087/ridle-baku            |           1|         48.2695|           1.7161|        0.2240|         0.7559|      0.0693|        0.0961|      0.1082| 90.0000|
-|/players/922892/sebastiaan-bornauw    |           1|         52.3329|           0.9101|        0.1335|         0.3873|      0.0443|        0.0252|      0.0069| 90.0000|
-|/players/1097466/micky-van-de-ven     |           1|         66.0924|           1.2389|        0.0982|         0.3734|      0.0518|        0.0238|      0.0334| 90.0000|
-|/players/325028/paulo-silva           |           1|         42.1389|           2.6049|        0.1053|         0.5082|      0.0207|        0.0079|      0.0923| 90.0000|
-|/players/647900/mattias-svanberg      |           3|         35.8131|           1.6258|        0.3312|         1.1986|      0.0851|        0.0415|      0.0662| 78.8305|
-|/players/298915/maximilian-arnold     |           3|         61.1772|           1.9761|        0.3210|         0.9998|      0.0725|        0.0923|      0.1358| 90.0000|
-|/players/450976/yannick-gerhardt      |           3|         39.0968|           1.6498|        0.2757|         0.8468|      0.1465|        0.1507|      0.0846| 82.3864|
-|/players/1073498/patrick-wimmer       |           5|         18.7749|           1.0239|        0.4279|         1.3954|      0.2241|        0.2489|      0.1310| 65.7500|
-|/players/889785/jonas-wind            |           5|         30.8033|           0.4206|        1.0289|         2.5744|      0.4200|        0.6128|      0.1279| 90.0000|
-|/players/1067260/jakub-kaminski       |           5|         22.1202|           1.2934|        0.6846|         1.5070|      0.1417|        0.0305|      0.0974| 81.2000|
-|/players/540073/gian-luca-waldschmidt |          NA|              NA|               NA|        0.1775|         0.7101|      0.1569|        0.1281|      0.0564| 24.2500|
-|/players/966019/felix-nmecha          |          NA|              NA|               NA|        0.0706|         0.1694|      0.0172|        0.0258|      0.0040| 11.1695|
-|/players/161421/josuha-guilavogui     |          NA|              NA|               NA|        0.0115|         0.0690|      0.0054|        0.0051|      0.0126|  8.8000|
-|/players/861197/lukas-nmecha          |          NA|              NA|               NA|        0.1057|         0.2209|      0.0319|        0.0376|      0.0136|  7.6136|
+|/players/170322/koen-casteels         |           0|         38.9488|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/883087/ridle-baku            |           1|         47.5627|           1.6616|        0.2008|         0.7216|      0.0710|        0.0962|      0.1164| 90.0000|
+|/players/922892/sebastiaan-bornauw    |           1|         51.5667|           0.8812|        0.1196|         0.3698|      0.0453|        0.0252|      0.0074| 90.0000|
+|/players/1097466/micky-van-de-ven     |           1|         65.1247|           1.1995|        0.0880|         0.3564|      0.0530|        0.0238|      0.0359| 90.0000|
+|/players/325028/paulo-silva           |           1|         41.5219|           2.5222|        0.0944|         0.4852|      0.0212|        0.0080|      0.0993| 90.0000|
+|/players/966019/felix-nmecha          |           3|         33.0811|           1.9959|        0.4911|         1.3631|      0.1282|        0.1507|      0.0486| 79.5556|
+|/players/298915/maximilian-arnold     |           3|         61.4962|           1.8256|        0.2632|         0.9488|      0.0576|        0.0699|      0.1436| 90.0000|
+|/players/450976/yannick-gerhardt      |           3|         39.3006|           1.5241|        0.2260|         0.8036|      0.1165|        0.1141|      0.0894| 82.3864|
+|/players/1073498/patrick-wimmer       |           5|         18.2953|           1.4855|        0.4125|         1.3126|      0.1649|        0.1530|      0.1072| 65.7500|
+|/players/889785/jonas-wind            |           5|         30.0165|           0.6103|        0.9919|         2.4216|      0.3089|        0.3767|      0.1047| 90.0000|
+|/players/540073/gian-luca-waldschmidt |           5|         22.4533|           0.6776|        0.6416|         1.5095|      0.2781|        0.3149|      0.1251| 71.4444|
+|/players/647900/mattias-svanberg      |           0|              NA|               NA|        0.1478|         0.4011|      0.0260|        0.0225|      0.0171| 24.2500|
+|/players/161421/josuha-guilavogui     |           0|              NA|               NA|        0.0231|         0.1385|      0.0088|        0.0075|      0.0253| 18.5556|
+|/players/861197/lukas-nmecha          |           0|              NA|               NA|        0.1380|         0.2886|      0.0336|        0.0357|      0.0178| 10.4444|
+|/players/839204/omar-marmoush         |           0|              NA|               NA|        0.0790|         0.2281|      0.0218|        0.0387|      0.0061|  7.6136|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -114,26 +120,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about RB Leipzig:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/450980/timo-werner        |           5|         28.1077|           0.9056|        0.7600|         1.9974|      0.2746|        0.2633|      0.0797| 90.0000|
-|/players/388523/andr-silva         |           5|         24.1507|           0.6623|        0.7611|         1.8764|      0.3324|        0.3772|      0.0955| 80.3103|
-|/players/171980/emil-forsberg      |           3|         35.0950|           0.9143|        0.4314|         1.3448|      0.1518|        0.1560|      0.0876| 80.0000|
-|/players/620027/xaver-schlager     |           3|         48.7268|           2.6127|        0.1087|         0.6860|      0.0326|        0.0290|      0.0430| 90.0000|
-|/players/526827/konrad-laimer      |           3|         43.0443|           2.3510|        0.1473|         0.5105|      0.0502|        0.0581|      0.0766| 76.4717|
-|/players/846005/dominik-szoboszlai |           3|         46.1580|           1.0488|        0.5577|         1.3398|      0.1123|        0.1506|      0.1662| 78.9091|
-|/players/806669/david-raum         |           1|         41.0680|           1.6015|        0.0758|         0.2508|      0.0205|        0.0131|      0.0987| 90.0000|
-|/players/1070712/josko-gvardiol    |           1|         65.3940|           1.1237|        0.1406|         0.3580|      0.0512|        0.0350|      0.0264| 90.0000|
-|/players/278856/willi-orban        |           1|         59.3430|           1.1421|        0.1862|         0.5268|      0.0719|        0.0372|      0.0174| 90.0000|
-|/players/681383/benjamin-henrichs  |           1|         43.5168|           2.6657|        0.0728|         0.5564|      0.0302|        0.0363|      0.0591| 90.0000|
-|/players/278814/janis-blaswich     |           0|         39.0482|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/266527/yussuf-poulsen     |          NA|              NA|               NA|        0.1213|         0.3413|      0.0444|        0.0659|      0.0163| 13.5283|
-|/players/688830/amadou-haidara     |          NA|              NA|               NA|        0.0511|         0.1386|      0.0185|        0.0134|      0.0190| 11.0909|
-|/players/1171305/caden-clark       |          NA|              NA|               NA|        0.0348|         0.1391|      0.0109|        0.0216|      0.0171| 10.0000|
-|/players/526657/lukas-klostermann  |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0151|  9.6897|
+|/players/388523/andr-silva         |           5|         19.5901|           0.5642|        0.7523|         1.8086|      0.3163|        0.3433|      0.0585| 80.3103|
+|/players/450980/timo-werner        |           3|         31.0096|           0.7382|        0.5713|         1.3484|      0.1747|        0.1896|      0.0717| 76.1250|
+|/players/171980/emil-forsberg      |           3|         27.6539|           1.3650|        0.4420|         1.4654|      0.1804|        0.1931|      0.0966| 80.0000|
+|/players/846005/dominik-szoboszlai |           3|         36.3713|           1.5659|        0.5713|         1.4601|      0.1334|        0.1863|      0.1832| 78.9091|
+|/players/620027/xaver-schlager     |           2|         56.2546|           2.3226|        0.0955|         0.7233|      0.0524|        0.0202|      0.0682| 90.0000|
+|/players/688830/amadou-haidara     |           2|         60.3587|           1.9086|        0.3188|         0.8502|      0.0864|        0.0932|      0.0776| 90.0000|
+|/players/806669/david-raum         |           1|         40.4016|           2.0586|        0.0745|         0.3150|      0.0185|        0.0156|      0.1342| 90.0000|
+|/players/1070712/josko-gvardiol    |           1|         64.3329|           1.4444|        0.1382|         0.4496|      0.0462|        0.0417|      0.0358| 90.0000|
+|/players/278856/willi-orban        |           1|         58.3801|           1.4681|        0.1831|         0.6615|      0.0650|        0.0444|      0.0236| 90.0000|
+|/players/526657/lukas-klostermann  |           1|         54.9875|           1.7942|        0.0837|         0.3507|      0.0403|        0.0283|      0.0243| 90.0000|
+|/players/278814/janis-blaswich     |           0|         36.8339|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/266527/yussuf-poulsen     |           0|              NA|               NA|        0.1185|         0.3333|      0.0349|        0.0469|      0.0159| 13.8750|
+|/players/681383/benjamin-henrichs  |           0|              NA|               NA|        0.0368|         0.1838|      0.0144|        0.0182|      0.0158| 11.0909|
+|/players/1171305/caden-clark       |           0|              NA|               NA|        0.0331|         0.1324|      0.0084|        0.0150|      0.0163| 10.0000|
+|/players/704523/christopher-nkunku |           0|              NA|               NA|        0.1346|         0.2499|      0.0302|        0.0498|      0.0277|  9.6897|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
