@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 18:24:43.541"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Ipswich Town 1.9008 to Forest Green Rovers 0.797"
+[1] "Total: 2.6978"
+[1] "Ipswich Town %: 63.62"
+[1] "Draw %: 21.49"
+[1] "Forest Green Rovers %: 14.89"
+[1] "--XG Model--"
+[1] "Score: Ipswich Town 1.8523 to Forest Green Rovers 0.7682"
+[1] "Total: 2.6205"
+[1] "Ipswich Town %: 63.75"
+[1] "Draw %: 21.86"
+[1] "Forest Green Rovers %: 14.39"
+[1] "--XGoT Model--"
+[1] "Score: Ipswich Town 2.2418 to Forest Green Rovers 0.7241"
+[1] "Total: 2.9659"
+[1] "Ipswich Town %: 72.5"
+[1] "Draw %: 17.73"
+[1] "Forest Green Rovers %: 9.77"
+[1] "--XA Model--"
+[1] "Score: Ipswich Town 1.852 to Forest Green Rovers 0.745"
+[1] "Total: 2.597"
+[1] "Ipswich Town %: 64.31"
+[1] "Draw %: 21.96"
+[1] "Forest Green Rovers %: 13.73"
+[1] "--Mean 4 Models--"
+[1] "Ipswich Town has a mean win % of 66.04%; a min win % of 63.62%; a max win % of 72.5%."
+[1] "Draw has a mean win % of 20.76%; a min win % of 17.73%; a max win % of 21.96%."
+[1] "Forest Green Rovers has a mean win % of 13.2%; a min win % of 9.77%; a max win of % 14.89%."
+[1] "Ipswich Town has a mean win of the Double Chance of 86.8%; a min win % of 85.11%, a max win % of 90.23%."
+[1] "Forest Green Rovers has a mean win of the Double Chance of 33.95%; a min win % of 27.5%, a max win % of 36.38%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.46%; max % is 56.26 and min % is 47.42%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.54%; max % is 52.58 and min % is 43.74%."
+[1] "--Sportsbook Odds--"
+[1] "Ipswich Town Barstool Odds are: 78.74"
+[1] "The Barstool Odds of a Draw are: 18.18"
+[1] "Forest Green Rovers Barstool Odds are: 10.53"
+[1] "Ipswich Town Adjusted Barstool Odds are: 73.281"
+[1] "The Adjusted Barstool Odds of a Draw are: 16.919"
+[1] "Forest Green Rovers Adjusted Barstool Odds are: 9.8"
+[1] "Ipswich Town's Barstool Odds to cover the  spread are: NA"
+[1] "Forest Green Rovers's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.62, which is a 61.73% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team                | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-------------------|-------------:|-----------:|:---|
+|/players/512013/christian-walton       |Ipswich Town        |      0.000000|   0.2380952|    |
+|/players/662604/george-edmundson       |Ipswich Town        |      0.035475|   0.1176471|    |
+|/players/866688/luke-woolfenden        |Ipswich Town        |      0.036750|   0.1538462|    |
+|/players/479744/janoi-donacien         |Ipswich Town        |      0.033975|   0.1111111|    |
+|/players/310825/lee-evans              |Ipswich Town        |      0.106125|   0.2564103|    |
+|/players/980381/leif-davis             |Ipswich Town        |      0.035800|   0.1333333|    |
+|/players/421768/wes-burns              |Ipswich Town        |      0.142575|   0.3773585|    |
+|/players/185326/sam-morsy              |Ipswich Town        |      0.075875|   0.2564103|    |
+|/players/522440/marcus-harness         |Ipswich Town        |      0.218450|   0.3846154|    |
+|/players/605647/conor-chaplin          |Ipswich Town        |      0.286200|   0.5238095|    |
+|/players/418605/freddie-ladapo         |Ipswich Town        |      0.436400|   0.5744681|    |
+|/players/659988/ross-doohan            |Forest Green Rovers |      0.000000|   0.2631579|    |
+|/players/363346/jordan-moore-taylor    |Forest Green Rovers |      0.020300|   0.1250000|    |
+|/players/952007/dominic-bernard        |Forest Green Rovers |      0.008575|   0.0322581|    |
+|/players/493169/baily-cargill          |Forest Green Rovers |      0.008200|   0.0454545|    |
+|/players/1117751/oliver-casey          |Forest Green Rovers |      0.028525|   0.0357143|    |
+|/players/662314/ben-stevenson          |Forest Green Rovers |      0.019550|   0.1176471|    |
+|/players/1109489/tyler-onyango         |Forest Green Rovers |      0.016625|   0.1538462|    |
+|/players/293720/dylan-mcgeouch         |Forest Green Rovers |      0.031025|   0.0625000|    |
+|/players/721301/kyle-mcallister        |Forest Green Rovers |      0.128600|   0.1428571|    |
+|/players/815772/corey-okeeffe          |Forest Green Rovers |      0.096450|   0.1111111|    |
+|/players/1069934/bryan-solhaug-fiabema |Forest Green Rovers |      0.088575|   0.4444444|    |
+|/players/607142/kane-vincent-young     |Ipswich Town        |      0.009550|   0.1428571|    |
+|/players/682551/kyle-edwards           |Ipswich Town        |      0.073575|   0.3125000|    |
+|/players/612180/kayden-jackson         |Ipswich Town        |      0.079150|   0.4166667|    |
+|/players/961993/tyreece-john-jules     |Ipswich Town        |      0.057675|   0.1052632|    |
+|/players/532748/amadou-bakayoko        |Forest Green Rovers |      0.183325|   0.1818182|    |
+|/players/789560/jordan-garrick         |Forest Green Rovers |      0.034275|   0.1754386|    |
+|/players/480753/reece-brown            |Forest Green Rovers |      0.000000|   0.1538462|    |
+|/players/1113813/myles-peart-harris    |Forest Green Rovers |      0.000000|   0.1333333|    |
+____________________________________________________
+
+[1] "Facts about Ipswich Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/512013/christian-walton   |           0|         28.2057|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/662604/george-edmundson   |           1|         68.4683|           1.0810|        0.3048|         1.1366|      0.0723|        0.0379|      0.0161| 90.0000|
+|/players/866688/luke-woolfenden    |           1|         74.0570|           1.1959|        0.1015|         0.6213|      0.0842|        0.0409|      0.0440| 90.0000|
+|/players/479744/janoi-donacien     |           1|         60.5929|           1.9327|        0.0366|         0.1679|      0.0264|        0.0379|      0.0682| 90.0000|
+|/players/310825/lee-evans          |           3|         73.6454|           1.8258|        0.4050|         1.3339|      0.1023|        0.1209|      0.1166| 90.0000|
+|/players/980381/leif-davis         |           3|         38.7800|           1.5063|        0.1337|         0.5974|      0.0320|        0.0384|      0.1900| 80.1538|
+|/players/421768/wes-burns          |           3|         30.7110|           1.2105|        0.5293|         1.2097|      0.1241|        0.1643|      0.1061| 90.0000|
+|/players/185326/sam-morsy          |           3|         58.7712|           2.3185|        0.4467|         1.2982|      0.1077|        0.0822|      0.0683| 90.0000|
+|/players/522440/marcus-harness     |           4|         29.3469|           1.5052|        0.6372|         1.6945|      0.1960|        0.2582|      0.1392| 76.6667|
+|/players/605647/conor-chaplin      |           4|         33.6138|           0.6943|        1.0324|         2.2961|      0.2265|        0.3441|      0.2116| 75.7561|
+|/players/418605/freddie-ladapo     |           5|         19.7118|           0.5711|        1.2946|         2.9323|      0.4582|        0.6052|      0.0687| 78.2917|
+|/players/607142/kane-vincent-young |           0|              NA|               NA|        0.0816|         0.1633|      0.0110|        0.0097|      0.0157| 14.2439|
+|/players/682551/kyle-edwards       |           0|              NA|               NA|        0.3654|         0.7308|      0.0618|        0.0754|      0.0370| 13.3333|
+|/players/612180/kayden-jackson     |           0|              NA|               NA|        0.0934|         0.2336|      0.0471|        0.0858|      0.0294| 11.7083|
+|/players/961993/tyreece-john-jules |           0|              NA|               NA|        0.1332|         0.4441|      0.0279|        0.0661|      0.0289|  9.8462|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Kieran McKenna |        29700|      10.02412|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about Forest Green Rovers:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/659988/ross-doohan            |           0|         26.5861|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/363346/jordan-moore-taylor    |           1|         31.0205|           1.3937|        0.0428|         0.2425|      0.0070|        0.0219|      0.0239| 90.0000|
+|/players/952007/dominic-bernard        |           1|         28.7257|           1.7698|        0.0096|         0.0603|      0.0012|        0.0096|      0.0539| 90.0000|
+|/players/493169/baily-cargill          |           1|         33.1203|           2.1108|        0.0777|         0.4092|      0.0272|        0.0096|      0.0263| 90.0000|
+|/players/1117751/oliver-casey          |           1|         26.9277|           1.3988|        0.0806|         0.4277|      0.0550|        0.0289|      0.0077| 90.0000|
+|/players/662314/ben-stevenson          |           2|         34.0036|           2.6227|        0.0883|         0.4858|      0.0480|        0.0190|      0.0306| 90.0000|
+|/players/1109489/tyler-onyango         |           2|         14.7518|           0.9075|        0.0507|         0.3922|      0.0194|        0.0190|      0.0136| 51.6667|
+|/players/293720/dylan-mcgeouch         |           3|         19.8902|           1.1113|        0.0724|         0.2472|      0.0149|        0.0294|      0.0350| 70.2632|
+|/players/721301/kyle-mcallister        |           3|         11.3424|           0.4025|        0.3754|         1.3875|      0.1218|        0.1386|      0.0422| 68.1364|
+|/players/815772/corey-okeeffe          |           3|         19.5662|           1.3599|        0.3772|         0.9805|      0.1021|        0.1026|      0.0886| 90.0000|
+|/players/1069934/bryan-solhaug-fiabema |           5|         11.9354|           0.3540|        0.2835|         1.2089|      0.1252|        0.0938|      0.0001| 71.3000|
+|/players/532748/amadou-bakayoko        |           0|              NA|               NA|        0.6166|         1.3102|      0.1336|        0.1989|      0.0235| 38.3333|
+|/players/789560/jordan-garrick         |           0|              NA|               NA|        0.3287|         0.4602|      0.0419|        0.0351|      0.0097| 21.8636|
+|/players/480753/reece-brown            |           0|              NA|               NA|        0.0000|         0.3199|      0.0336|        0.0000|      0.0293| 19.7368|
+|/players/1113813/myles-peart-harris    |           0|              NA|               NA|        0.1329|         0.5315|      0.0197|        0.0000|      0.0042| 18.7000|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Duncan Ferguson |         4950|       -12.324|4-2-3-1   |
