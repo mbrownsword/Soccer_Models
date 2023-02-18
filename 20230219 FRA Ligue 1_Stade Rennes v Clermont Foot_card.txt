@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-18 15:11:06.175"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Stade Rennes 1.5184 to Clermont Foot 1.0565"
+[1] "Total: 2.5749"
+[1] "Stade Rennes %: 48.11"
+[1] "Draw %: 25.21"
+[1] "Clermont Foot %: 26.68"
+[1] "--XG Model--"
+[1] "Score: Stade Rennes 1.7952 to Clermont Foot 1.0554"
+[1] "Total: 2.8506"
+[1] "Stade Rennes %: 55.48"
+[1] "Draw %: 22.83"
+[1] "Clermont Foot %: 21.69"
+[1] "--XGoT Model--"
+[1] "Score: Stade Rennes 1.8529 to Clermont Foot 1.078"
+[1] "Total: 2.9309"
+[1] "Stade Rennes %: 55.64"
+[1] "Draw %: 22.67"
+[1] "Clermont Foot %: 21.69"
+[1] "--XA Model--"
+[1] "Score: Stade Rennes 1.6732 to Clermont Foot 1.0298"
+[1] "Total: 2.703"
+[1] "Stade Rennes %: 53.04"
+[1] "Draw %: 24.53"
+[1] "Clermont Foot %: 22.43"
+[1] "--Mean 4 Models--"
+[1] "Stade Rennes has a mean win % of 53.07%; a min win % of 48.11%; a max win % of 55.64%."
+[1] "Draw has a mean win % of 23.81%; a min win % of 22.67%; a max win % of 25.21%."
+[1] "Clermont Foot has a mean win % of 23.12%; a min win % of 21.69%; a max win of % 26.68%."
+[1] "Stade Rennes has a mean win of the Double Chance of 76.88%; a min win % of 73.32%, a max win % of 78.31%."
+[1] "Clermont Foot has a mean win of the Double Chance of 46.93%; a min win % of 44.36%, a max win % of 51.89%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.7%; max % is 55.53 and min % is 47.19%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.3%; max % is 52.81 and min % is 44.47%."
+[1] "--Sportsbook Odds--"
+[1] "Stade Rennes Barstool Odds are: 64.52"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Clermont Foot Barstool Odds are: 16"
+[1] "Stade Rennes Adjusted Barstool Odds are: 61.145"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.692"
+[1] "Clermont Foot Adjusted Barstool Odds are: 15.163"
+[1] "Stade Rennes's Barstool Odds to cover the -0.5 spread are: 63.29"
+[1] "Clermont Foot's Barstool Odds to cover the 0.5 spread are: 41.15"
+[1] "Barstool's line for the total is 2.5 at 2, which is a 50% chance of the over 2.5 hitting. The line for the under is 1.82, which is a 54.95% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                bet           date_time
+1     Clermont Foot 2023-02-19 06:00:00
+2 Clermont Foot ATS 2023-02-19 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team          | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/31293/steve-mandanda             |Stade Rennes  |      0.000000|   0.2777778|    |
+|/players/894803/djed-spence               |Stade Rennes  |      0.030425|   0.1428571|    |
+|/players/717174/joe-rodon                 |Stade Rennes  |      0.015750|   0.0714286|    |
+|/players/1173250/arthur-theate            |Stade Rennes  |      0.114950|   0.0833333|    |
+|/players/1177358/adrien-truffert          |Stade Rennes  |      0.015725|   0.1250000|    |
+|/players/441871/benjamin-bourigeaud       |Stade Rennes  |      0.095075|   0.3225806|    |
+|/players/478105/baptiste-santamaria       |Stade Rennes  |      0.038100|   0.1754386|    |
+|/players/762721/lovro-majer               |Stade Rennes  |      0.094750|   0.2777778|    |
+|/players/426906/karl-toko-ekambi          |Stade Rennes  |      0.220625|   0.3225806|    |
+|/players/1095445/arnaud-kalimuendo-muinga |Stade Rennes  |      0.299575|   0.3636364|    |
+|/players/844437/amine-gouiri              |Stade Rennes  |      0.398900|   0.4166667|    |
+|/players/435719/komnen-andric             |Clermont Foot |      0.216025|   0.2173913|    |
+|/players/1301934/aiman-maurer             |Clermont Foot |      0.083250|   0.1694915|    |
+|/players/1092903/muhammed-cham-saracevic  |Clermont Foot |      0.219675|   0.1250000|*   |
+|/players/1011026/jim-allevinah            |Clermont Foot |      0.054625|   0.1694915|    |
+|/players/182923/maxime-gonalons           |Clermont Foot |      0.038600|   0.0454545|    |
+|/players/951972/yohann-magnin             |Clermont Foot |      0.036050|   0.0526316|    |
+|/players/917628/neto-borges               |Clermont Foot |      0.021300|   0.1052632|    |
+|/players/555646/mateusz-wieteska          |Clermont Foot |      0.023375|   0.0833333|    |
+|/players/210401/florent-ogier             |Clermont Foot |      0.024250|   0.0588235|    |
+|/players/303358/mehdi-zeffane             |Clermont Foot |      0.023725|   0.0238095|    |
+|/players/466436/mory-diaw                 |Clermont Foot |      0.000000|   0.0294118|    |
+|/players/942368/jrémy-doku                |Stade Rennes  |      0.018850|   0.2439024|    |
+|/players/428815/flavien-tait              |Stade Rennes  |      0.058125|   0.2941176|    |
+|/players/566681/birger-meling             |Stade Rennes  |      0.000000|   0.1052632|    |
+|/players/1200631/lesley-ugochukwu         |Stade Rennes  |      0.006475|   0.1052632|    |
+|/players/396473/jrémie-bela               |Clermont Foot |      0.011200|   0.1785714|    |
+|/players/562695/grejohn-kyei              |Clermont Foot |      0.093525|   0.2000000|    |
+|/players/196972/elbasan-rashani           |Clermont Foot |      0.065850|   0.2040816|    |
+|/players/658612/maximiliano-caufriez      |Clermont Foot |      0.000000|   0.0312500|    |
+____________________________________________________
+
+[1] "Facts about Stade Rennes:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/31293/steve-mandanda             |           0|         35.3950|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/894803/djed-spence               |           1|         39.2643|           1.6228|        0.1272|         0.5943|      0.0594|        0.0362|      0.1349| 90.0000|
+|/players/717174/joe-rodon                 |           1|         59.1259|           1.1753|        0.1053|         0.3783|      0.0419|        0.0159|      0.0133| 90.0000|
+|/players/1173250/arthur-theate            |           1|         62.5403|           1.5070|        0.3301|         0.7007|      0.1128|        0.1409|      0.0272| 90.0000|
+|/players/1177358/adrien-truffert          |           1|         52.1854|           2.1832|        0.1294|         0.6198|      0.0358|        0.0182|      0.1345| 81.2537|
+|/players/441871/benjamin-bourigeaud       |           3|         47.4371|           1.5229|        0.3559|         1.2394|      0.0879|        0.1145|      0.1907| 82.1548|
+|/players/478105/baptiste-santamaria       |           3|         53.0755|           2.7471|        0.2636|         0.9897|      0.0645|        0.0464|      0.0402| 90.0000|
+|/players/762721/lovro-majer               |           3|         42.5952|           2.0824|        0.3480|         1.1757|      0.1258|        0.1167|      0.1796| 76.2453|
+|/players/426906/karl-toko-ekambi          |           3|         34.2749|           0.9794|        0.7916|         2.0399|      0.3126|        0.2909|      0.1198| 90.0000|
+|/players/1095445/arnaud-kalimuendo-muinga |           5|         16.4532|           0.4518|        0.8707|         2.0617|      0.3260|        0.3899|      0.0676| 73.8393|
+|/players/844437/amine-gouiri              |           5|         31.5813|           1.1094|        1.1930|         2.7459|      0.5498|        0.5688|      0.1983| 90.0000|
+|/players/942368/jrémy-doku                |          NA|              NA|               NA|        0.1040|         0.2703|      0.0176|        0.0207|      0.0439| 16.1607|
+|/players/428815/flavien-tait              |          NA|              NA|               NA|        0.1329|         0.2924|      0.0374|        0.0701|      0.0315| 13.7547|
+|/players/566681/birger-meling             |          NA|              NA|               NA|        0.0000|         0.0195|      0.0000|        0.0000|      0.0120|  8.7463|
+|/players/1200631/lesley-ugochukwu         |          NA|              NA|               NA|        0.0510|         0.0850|      0.0078|        0.0078|      0.0030|  7.8452|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Bruno Genesio |        75987|      10.07286|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Clermont Foot:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/435719/komnen-andric            |           5|         16.1227|           0.5107|        0.6192|         1.4176|      0.2328|        0.2569|      0.0483| 76.0652|
+|/players/1301934/aiman-maurer            |           3|         17.3979|           1.2263|        0.4994|         0.7762|      0.0566|        0.0915|      0.1182| 74.0000|
+|/players/1092903/muhammed-cham-saracevic |           3|         36.3272|           1.3900|        0.4529|         1.7596|      0.1739|        0.2647|      0.0873| 90.0000|
+|/players/1011026/jim-allevinah           |           3|         23.5903|           1.2679|        0.2963|         1.4208|      0.1581|        0.0597|      0.0257| 78.2881|
+|/players/182923/maxime-gonalons          |           2|         28.1960|           2.1419|        0.1126|         0.4806|      0.0267|        0.0407|      0.0450| 74.7931|
+|/players/951972/yohann-magnin            |           2|         51.8639|           2.0710|        0.2221|         0.7996|      0.0750|        0.0407|      0.0379| 90.0000|
+|/players/917628/neto-borges              |           1|         32.8206|           2.3665|        0.1309|         0.5368|      0.0326|        0.0256|      0.0339| 90.0000|
+|/players/555646/mateusz-wieteska         |           1|         38.5710|           1.4403|        0.0907|         0.3189|      0.0326|        0.0256|      0.0339| 90.0000|
+|/players/210401/florent-ogier            |           1|         51.7375|           1.3288|        0.0519|         0.2841|      0.0326|        0.0256|      0.0339| 90.0000|
+|/players/303358/mehdi-zeffane            |           1|         38.9746|           1.8324|        0.1093|         0.4164|      0.0326|        0.0256|      0.0339| 90.0000|
+|/players/466436/mory-diaw                |           0|         33.2508|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/396473/jrémie-bela              |          NA|              NA|               NA|        0.1394|         0.4413|      0.0190|        0.0114|      0.0226| 16.0000|
+|/players/562695/grejohn-kyei             |          NA|              NA|               NA|        0.2887|         0.7106|      0.0798|        0.1035|      0.0201| 15.2069|
+|/players/196972/elbasan-rashani          |          NA|              NA|               NA|        0.1758|         0.3956|      0.0466|        0.0718|      0.0312| 13.9348|
+|/players/658612/maximiliano-caufriez     |          NA|              NA|               NA|        0.0000|         0.2178|      0.0218|        0.0000|      0.0165| 11.7119|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Pascal Gastien |        59115|    -0.9583168|4-2-3-1   |
