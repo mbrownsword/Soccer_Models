@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 15:13:55.497"
+[1] "Updated at 2023-02-17 17:06:49.642"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Millwall 1.1962 to Sheffield United 1.1202"
-[1] "Total: 2.3164"
-[1] "Millwall %: 37.81"
-[1] "Draw %: 28.28"
-[1] "Sheffield United %: 33.91"
+[1] "Score: Millwall 1.0988 to Sheffield United 1.1419"
+[1] "Total: 2.2407"
+[1] "Millwall %: 34.2"
+[1] "Draw %: 29.16"
+[1] "Sheffield United %: 36.64"
 [1] "--XG Model--"
-[1] "Score: Millwall 1.1622 to Sheffield United 1.2164"
-[1] "Total: 2.3786"
-[1] "Millwall %: 34.39"
-[1] "Draw %: 28.52"
-[1] "Sheffield United %: 37.09"
+[1] "Score: Millwall 1.0769 to Sheffield United 1.2207"
+[1] "Total: 2.2976"
+[1] "Millwall %: 32"
+[1] "Draw %: 28.62"
+[1] "Sheffield United %: 39.38"
 [1] "--XGoT Model--"
-[1] "Score: Millwall 1.0965 to Sheffield United 1.1007"
-[1] "Total: 2.1972"
-[1] "Millwall %: 35.78"
-[1] "Draw %: 28.72"
-[1] "Sheffield United %: 35.5"
+[1] "Score: Millwall 1.0158 to Sheffield United 1.1287"
+[1] "Total: 2.1445"
+[1] "Millwall %: 33.14"
+[1] "Draw %: 29.7"
+[1] "Sheffield United %: 37.16"
 [1] "--XA Model--"
-[1] "Score: Millwall 1.0782 to Sheffield United 1.0618"
-[1] "Total: 2.14"
-[1] "Millwall %: 36.23"
-[1] "Draw %: 29.35"
-[1] "Sheffield United %: 34.42"
+[1] "Score: Millwall 1.0816 to Sheffield United 1.0568"
+[1] "Total: 2.1384"
+[1] "Millwall %: 36.44"
+[1] "Draw %: 29.23"
+[1] "Sheffield United %: 34.33"
 [1] "--Mean 4 Models--"
-[1] "Millwall has a mean win % of 36.05%; a min win % of 34.39%; a max win % of 37.81%."
-[1] "Draw has a mean win % of 28.72%; a min win % of 28.28%; a max win % of 29.35%."
-[1] "Sheffield United has a mean win % of 35.23%; a min win % of 33.91%; a max win of % 37.09%."
-[1] "Millwall has a mean win of the Double Chance of 64.77%; a min win % of 62.91%, a max win % of 66.09%."
-[1] "Sheffield United has a mean win of the Double Chance of 63.95%; a min win % of 62.19%, a max win % of 65.61%."
-[1] "The mean likelihood that there are more than 2.5 goals is 38.58%; max % is 41.62 and min % is 35.77%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 61.42%; max % is 64.23 and min % is 58.38%."
+[1] "Millwall has a mean win % of 33.94%; a min win % of 32%; a max win % of 36.44%."
+[1] "Draw has a mean win % of 29.18%; a min win % of 28.62%; a max win % of 29.7%."
+[1] "Sheffield United has a mean win % of 36.88%; a min win % of 34.33%; a max win of % 39.38%."
+[1] "Millwall has a mean win of the Double Chance of 63.12%; a min win % of 60.62%, a max win % of 65.67%."
+[1] "Sheffield United has a mean win of the Double Chance of 66.05%; a min win % of 63.56%, a max win % of 68%."
+[1] "The mean likelihood that there are more than 2.5 goals is 37.57%; max % is 39.99 and min % is 35.75%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 62.43%; max % is 64.25 and min % is 60.01%."
 [1] "--Sportsbook Odds--"
 [1] "Millwall Barstool Odds are: 37.04"
 [1] "The Barstool Odds of a Draw are: 30.77"
@@ -53,35 +53,35 @@
 |pageUrl2                           |team             | expected_attg| expected_gs|bet |
 |:----------------------------------|:----------------|-------------:|-----------:|:---|
 |/players/31920/bartosz-bialkowski  |Millwall         |      0.000000|   0.3125000|    |
-|/players/1017196/dan-mcnamara      |Millwall         |      0.020700|   0.0416667|    |
-|/players/568577/jake-cooper        |Millwall         |      0.027100|   0.1052632|    |
-|/players/254473/murray-wallace     |Millwall         |      0.018525|   0.0769231|    |
-|/players/230907/andreas-voglsammer |Millwall         |      0.104700|   0.2564103|    |
-|/players/417067/george-saville     |Millwall         |      0.101775|   0.1333333|    |
-|/players/171084/scott-malone       |Millwall         |      0.060825|   0.1666667|    |
-|/players/1045656/billy-mitchell    |Millwall         |      0.020400|   0.1000000|    |
-|/players/873559/zian-flemming      |Millwall         |      0.171600|   0.2941176|    |
-|/players/520230/duncan-watmore     |Millwall         |      0.178300|   0.1923077|    |
-|/players/169225/tom-bradshaw       |Millwall         |      0.244325|   0.2941176|    |
+|/players/1017196/dan-mcnamara      |Millwall         |      0.020625|   0.0416667|    |
+|/players/568577/jake-cooper        |Millwall         |      0.027075|   0.1052632|    |
+|/players/254473/murray-wallace     |Millwall         |      0.019975|   0.0769231|    |
+|/players/230907/andreas-voglsammer |Millwall         |      0.066275|   0.2564103|    |
+|/players/417067/george-saville     |Millwall         |      0.096075|   0.1333333|    |
+|/players/171084/scott-malone       |Millwall         |      0.059275|   0.1666667|    |
+|/players/1045656/billy-mitchell    |Millwall         |      0.019925|   0.1000000|    |
+|/players/873559/zian-flemming      |Millwall         |      0.178075|   0.2941176|    |
+|/players/520230/duncan-watmore     |Millwall         |      0.145400|   0.1923077|    |
+|/players/169225/tom-bradshaw       |Millwall         |      0.250525|   0.2941176|    |
 |/players/212944/wesley-foderingham |Sheffield United |      0.000000|   0.0625000|    |
-|/players/113772/chris-basham       |Sheffield United |      0.002075|   0.0714286|    |
-|/players/295062/john-egan          |Sheffield United |      0.037650|   0.0833333|    |
-|/players/793820/anel-ahmedhodzic   |Sheffield United |      0.061650|   0.1538462|    |
-|/players/492589/max-lowe           |Sheffield United |      0.037775|   0.0952381|    |
-|/players/511032/ben-osborn         |Sheffield United |      0.100500|   0.1538462|    |
-|/players/97194/john-fleck          |Sheffield United |      0.017000|   0.1538462|    |
-|/players/540963/sander-berge       |Sheffield United |      0.093650|   0.1886792|    |
-|/players/210971/oliver-norwood     |Sheffield United |      0.029750|   0.1176471|    |
-|/players/509151/oliver-mcburnie    |Sheffield United |      0.322925|   0.3508772|    |
-|/players/965764/iliman-ndiaye      |Sheffield United |      0.192025|   0.2564103|    |
-|/players/230907/andreas-voglsammer |Millwall         |      0.104700|   0.2564103|    |
-|/players/520230/duncan-watmore     |Millwall         |      0.178300|   0.1923077|    |
-|/players/609504/oliver-burke       |Millwall         |      0.026450|   0.2857143|    |
-|/players/958146/tyler-burey        |Millwall         |      0.015500|   0.2941176|    |
-|/players/509151/oliver-mcburnie    |Sheffield United |      0.322925|   0.3508772|    |
-|/players/841150/rhian-brewster     |Sheffield United |      0.012375|   0.1960784|    |
-|/players/23229/billy-sharp         |Sheffield United |      0.042700|   0.3333333|    |
-|/players/511032/ben-osborn         |Sheffield United |      0.100500|   0.1538462|    |
+|/players/113772/chris-basham       |Sheffield United |      0.001200|   0.0714286|    |
+|/players/295062/john-egan          |Sheffield United |      0.037375|   0.0833333|    |
+|/players/793820/anel-ahmedhodzic   |Sheffield United |      0.060375|   0.1538462|    |
+|/players/97194/john-fleck          |Sheffield United |      0.022050|   0.1538462|    |
+|/players/940442/thomas-doyle       |Sheffield United |      0.084325|   0.1052632|    |
+|/players/540963/sander-berge       |Sheffield United |      0.112200|   0.1886792|    |
+|/players/199494/george-baldock     |Sheffield United |      0.020800|   0.0714286|    |
+|/players/210971/oliver-norwood     |Sheffield United |      0.038800|   0.1176471|    |
+|/players/23229/billy-sharp         |Sheffield United |      0.286050|   0.3333333|    |
+|/players/965764/iliman-ndiaye      |Sheffield United |      0.191400|   0.2564103|    |
+|/players/609504/oliver-burke       |Millwall         |      0.038425|   0.2857143|    |
+|/players/401933/george-evans       |Millwall         |      0.000000|   0.0952381|    |
+|/players/617219/george-honeyman    |Millwall         |      0.000000|   0.1818182|    |
+|/players/1186444/charlie-cresswell |Millwall         |      0.016225|   0.1250000|    |
+|/players/1258092/william-osula     |Sheffield United |      0.044075|   0.1250000|    |
+|/players/1107648/james-mcatee      |Sheffield United |      0.004375|   0.1851852|    |
+|/players/841150/rhian-brewster     |Sheffield United |      0.022875|   0.1960784|    |
+|/players/509151/oliver-mcburnie    |Sheffield United |      0.055725|   0.3508772|    |
 ____________________________________________________
 
 [1] "Facts about Millwall:"
@@ -101,10 +101,10 @@ ____________________________________________________
 |/players/873559/zian-flemming      |           5|         34.0721|           1.2679|        1.0164|         2.8010|      0.2811|        0.2145|      0.1576| 90.0000|
 |/players/520230/duncan-watmore     |           5|         16.9330|           0.5776|        0.4280|         1.0839|      0.1529|        0.1635|      0.1041| 72.4889|
 |/players/169225/tom-bradshaw       |           5|         20.3788|           0.7546|        0.6098|         1.8356|      0.3080|        0.3094|      0.0553| 76.5161|
-|/players/230907/andreas-voglsammer |           0|              NA|               NA|        0.3679|         0.8277|      0.0562|        0.0461|      0.0374| 17.5111|
-|/players/520230/duncan-watmore     |           0|              NA|               NA|        0.1892|         0.4055|      0.0434|        0.0470|      0.0255| 13.7727|
-|/players/609504/oliver-burke       |           0|              NA|               NA|        0.1992|         0.4269|      0.0393|        0.0328|      0.0120| 13.4839|
-|/players/958146/tyler-burey        |           0|              NA|               NA|        0.0662|         0.1737|      0.0124|        0.0183|      0.0065|  6.4194|
+|/players/609504/oliver-burke       |           0|              NA|               NA|        0.2880|         0.4609|      0.0410|        0.0449|      0.0246| 17.5111|
+|/players/401933/george-evans       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0037| 13.7727|
+|/players/617219/george-honeyman    |           0|              NA|               NA|        0.0944|         0.0944|      0.0130|        0.0000|      0.0406| 13.4839|
+|/players/1186444/charlie-cresswell |           0|              NA|               NA|        0.0954|         0.1430|      0.0120|        0.0185|      0.0157|  6.4194|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -122,17 +122,17 @@ ____________________________________________________
 |/players/113772/chris-basham       |           1|         45.9469|           2.0254|        0.0410|         0.2703|      0.0220|        0.0018|      0.0282| 90.0000|
 |/players/295062/john-egan          |           1|         50.8449|           1.0155|        0.1887|         0.7568|      0.0736|        0.0401|      0.0256| 90.0000|
 |/players/793820/anel-ahmedhodzic   |           1|         57.5383|           1.4084|        0.2038|         0.5981|      0.0745|        0.0660|      0.0404| 90.0000|
-|/players/492589/max-lowe           |           3|         27.3364|           3.0783|        0.3027|         0.6017|      0.0516|        0.0411|      0.0558| 83.2571|
-|/players/511032/ben-osborn         |           3|         38.6378|           1.6369|        0.2886|         0.8099|      0.0889|        0.1120|      0.1190| 90.0000|
-|/players/97194/john-fleck          |           3|         32.4413|           1.2897|        0.1568|         0.7824|      0.0390|        0.0200|      0.0903| 84.0658|
-|/players/540963/sander-berge       |           3|         39.3795|           1.2375|        0.3143|         1.3230|      0.1489|        0.1047|      0.0839| 90.0000|
-|/players/210971/oliver-norwood     |           3|         56.4213|           1.7073|        0.2892|         1.1644|      0.0613|        0.0339|      0.1611| 90.0000|
-|/players/509151/oliver-mcburnie    |           5|         19.7174|           0.3957|        0.9909|         2.3843|      0.3305|        0.3528|      0.0654| 80.5455|
-|/players/965764/iliman-ndiaye      |           5|         19.0545|           0.6800|        0.4467|         1.4902|      0.2109|        0.2179|      0.0973| 82.3125|
-|/players/509151/oliver-mcburnie    |           0|              NA|               NA|        0.1445|         0.2981|      0.0426|        0.0482|      0.0129|  9.4545|
-|/players/841150/rhian-brewster     |           0|              NA|               NA|        0.1078|         0.3430|      0.0295|        0.0127|      0.0022|  7.6875|
-|/players/23229/billy-sharp         |           0|              NA|               NA|        0.1211|         0.1937|      0.0312|        0.0440|      0.0064|  6.7429|
-|/players/511032/ben-osborn         |           0|              NA|               NA|        0.0285|         0.0854|      0.0080|        0.0017|      0.0087|  5.9342|
+|/players/97194/john-fleck          |           3|         33.3127|           1.6928|        0.1300|         0.6178|      0.0357|        0.0245|      0.0854| 84.0658|
+|/players/940442/thomas-doyle       |           3|         31.6133|           1.7467|        0.5487|         1.5022|      0.1106|        0.0921|      0.1149| 78.7857|
+|/players/540963/sander-berge       |           3|         40.4373|           1.6243|        0.2604|         1.0446|      0.1363|        0.1285|      0.0794| 90.0000|
+|/players/199494/george-baldock     |           3|         28.5686|           1.6174|        0.1212|         0.4440|      0.0396|        0.0249|      0.0664| 90.0000|
+|/players/210971/oliver-norwood     |           3|         57.9369|           2.2408|        0.2396|         0.9194|      0.0561|        0.0416|      0.1524| 90.0000|
+|/players/23229/billy-sharp         |           5|         14.9649|           0.2102|        0.8916|         2.0734|      0.3399|        0.3496|      0.0887| 79.0968|
+|/players/965764/iliman-ndiaye      |           5|         23.6312|           0.8656|        0.5315|         1.7691|      0.1949|        0.2212|      0.0719| 82.3125|
+|/players/1258092/william-osula     |           0|              NA|               NA|        0.1902|         0.3424|      0.0343|        0.0456|      0.0004| 11.2143|
+|/players/1107648/james-mcatee      |           0|              NA|               NA|        0.0281|         0.0561|      0.0009|        0.0046|      0.0239| 10.9032|
+|/players/841150/rhian-brewster     |           0|              NA|               NA|        0.1513|         0.4237|      0.0541|        0.0250|      0.0021|  7.6875|
+|/players/509151/oliver-mcburnie    |           0|              NA|               NA|        0.1676|         0.3112|      0.0442|        0.0592|      0.0124|  5.9342|
 
 
 |manager_name       | m_minutes_xg| m_avg_elo_dif|formation |
