@@ -1,121 +1,111 @@
-[1] "Updated at 2023-02-17 12:41:46.598"
+[1] "Updated at 2023-02-18 07:06:28.336"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Real Betis 1.4869 to Real Valladolid 1.0461"
-[1] "Total: 2.533"
-[1] "Real Betis %: 47.49"
-[1] "Draw %: 25.61"
-[1] "Real Valladolid %: 26.9"
+[1] "Score: Real Betis 1.4903 to Real Valladolid 1.0608"
+[1] "Total: 2.5511"
+[1] "Real Betis %: 47.26"
+[1] "Draw %: 25.34"
+[1] "Real Valladolid %: 27.4"
 [1] "--XG Model--"
-[1] "Score: Real Betis 1.5832 to Real Valladolid 0.9728"
-[1] "Total: 2.556"
-[1] "Real Betis %: 51.8"
-[1] "Draw %: 24.96"
-[1] "Real Valladolid %: 23.24"
+[1] "Score: Real Betis 1.5821 to Real Valladolid 0.8873"
+[1] "Total: 2.4694"
+[1] "Real Betis %: 54.23"
+[1] "Draw %: 25.39"
+[1] "Real Valladolid %: 20.38"
 [1] "--XGoT Model--"
-[1] "Score: Real Betis 1.8304 to Real Valladolid 1.02"
-[1] "Total: 2.8504"
-[1] "Real Betis %: 56.51"
-[1] "Draw %: 22.72"
-[1] "Real Valladolid %: 20.77"
+[1] "Score: Real Betis 1.8248 to Real Valladolid 0.9283"
+[1] "Total: 2.7531"
+[1] "Real Betis %: 58.93"
+[1] "Draw %: 22.27"
+[1] "Real Valladolid %: 18.8"
 [1] "--XA Model--"
-[1] "Score: Real Betis 1.5744 to Real Valladolid 0.899"
-[1] "Total: 2.4734"
-[1] "Real Betis %: 53.53"
-[1] "Draw %: 25.38"
-[1] "Real Valladolid %: 21.09"
+[1] "Score: Real Betis 1.5771 to Real Valladolid 0.8318"
+[1] "Total: 2.4089"
+[1] "Real Betis %: 55.24"
+[1] "Draw %: 25.31"
+[1] "Real Valladolid %: 19.45"
 [1] "--Mean 4 Models--"
-[1] "Real Betis has a mean win % of 52.33%; a min win % of 47.49%; a max win % of 56.51%."
-[1] "Draw has a mean win % of 24.67%; a min win % of 22.72%; a max win % of 25.61%."
-[1] "Real Valladolid has a mean win % of 23%; a min win % of 20.77%; a max win of % 26.9%."
-[1] "Real Betis has a mean win of the Double Chance of 77%; a min win % of 73.1%, a max win % of 79.23%."
-[1] "Real Valladolid has a mean win of the Double Chance of 47.67%; a min win % of 43.49%, a max win % of 52.51%."
-[1] "The mean likelihood that there are more than 2.5 goals is 47.53%; max % is 53.75 and min % is 44.3%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 52.47%; max % is 55.7 and min % is 46.25%."
+[1] "Real Betis has a mean win % of 53.92%; a min win % of 47.26%; a max win % of 58.93%."
+[1] "Draw has a mean win % of 24.58%; a min win % of 22.27%; a max win % of 25.39%."
+[1] "Real Valladolid has a mean win % of 21.51%; a min win % of 18.8%; a max win of % 27.4%."
+[1] "Real Betis has a mean win of the Double Chance of 78.49%; a min win % of 72.6%, a max win % of 81.2%."
+[1] "Real Valladolid has a mean win of the Double Chance of 46.08%; a min win % of 41.07%, a max win % of 52.74%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.28%; max % is 51.7 and min % is 42.87%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.72%; max % is 57.13 and min % is 48.3%."
 [1] "--Sportsbook Odds--"
-[1] "Real Betis Barstool Odds are: 63.64"
-[1] "The Barstool Odds of a Draw are: 25.64"
-[1] "Real Valladolid Barstool Odds are: 16.67"
-[1] "Real Betis Adjusted Barstool Odds are: 60.066"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.2"
-[1] "Real Valladolid Adjusted Barstool Odds are: 15.734"
-[1] "Real Betis's Barstool Odds to cover the -1 spread are: 48.54"
-[1] "Real Valladolid's Barstool Odds to cover the 1 spread are: 55.87"
-[1] "Barstool's line for the total is 2.5 at 1.96, which is a 51.02% chance of the over 2.5 hitting. The line for the under is 1.84, which is a 54.35% chance of the under 2.5 hitting."
+[1] "Real Betis Barstool Odds are: 64.52"
+[1] "The Barstool Odds of a Draw are: 23.81"
+[1] "Real Valladolid Barstool Odds are: 17.39"
+[1] "Real Betis Adjusted Barstool Odds are: 61.029"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.522"
+[1] "Real Valladolid Adjusted Barstool Odds are: 16.449"
+[1] "Real Betis's Barstool Odds to cover the -0.5 spread are: 63.29"
+[1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 41.67"
+[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-              bet           date_time
-1 Real Valladolid 2023-02-18 07:15:00
-
-
-|player        |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
-|:-------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
-|Luiz Henrique |BET  |     21| 1.85|          NA|  1.0000|   0.4595|passes    |ESP Spain |      0.5405|         NA|        NA|         NA|       NA|
-|Luiz Henrique |BET  |     33| 3.55|          NA|  1.0000|   0.7183|passes    |ESP Spain |      0.2817|         NA|        NA|         NA|       NA|
-|Luiz Henrique |BET  |     25| 2.30|          NA|  1.0000|   0.5652|passes    |ESP Spain |      0.4348|         NA|        NA|         NA|       NA|
-|Luiz Henrique |BET  |     17| 1.51|          NA|  1.0000|   0.3377|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
-|Luiz Henrique |BET  |     37| 4.90|          NA|  0.9995|   0.7954|passes    |ESP Spain |      0.2041|         NA|        NA|         NA|       NA|
-|Luiz Henrique |BET  |     29| 2.76|          NA|  1.0000|   0.6377|passes    |ESP Spain |      0.3623|         NA|        NA|         NA|       NA|
-|Sergio Leon   |RVA  |     10| 1.82|          NA|  0.8073|   0.2578|passes    |ESP Spain |      0.5495|         NA|        NA|         NA|       NA|
+                               bet           date_time
+1                  Real Valladolid 2023-02-18 07:15:00
+2 under Real Betis/Real Valladolid 2023-02-18 07:15:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                         |team            | expected_attg| expected_gs|bet |
 |:--------------------------------|:---------------|-------------:|-----------:|:---|
-|/players/361717/rui-silva        |Real Betis      |      0.000000|   0.2380952|    |
-|/players/467689/youssouf-sabaly  |Real Betis      |      0.020550|   0.0454545|    |
-|/players/672840/luiz-felipe      |Real Betis      |      0.028675|   0.0588235|    |
-|/players/186991/germn-pezzella   |Real Betis      |      0.018350|   0.0714286|    |
-|/players/1060604/abner           |Real Betis      |      0.073275|   0.0666667|    |
-|/players/586768/guido-rodriguez  |Real Betis      |      0.043550|   0.0952381|    |
-|/players/257865/william-carvalho |Real Betis      |      0.092225|   0.1428571|    |
-|/players/150649/sergio-canales   |Real Betis      |      0.096500|   0.3030303|    |
-|/players/469852/nabil-fekir      |Real Betis      |      0.127725|   0.3571429|    |
-|/players/191873/juanmi           |Real Betis      |      0.353775|   0.4000000|    |
-|/players/479020/ayoze-prez       |Real Betis      |      0.352200|   0.3389831|    |
-|/players/482512/sergio-leon      |Real Valladolid |      0.182300|   0.2500000|    |
-|/players/289278/darwin-machis    |Real Valladolid |      0.194650|   0.1538462|    |
-|/players/359198/oscar-plano      |Real Valladolid |      0.097900|   0.1428571|    |
-|/players/980311/gonzalo-plata    |Real Valladolid |      0.004025|   0.1785714|    |
-|/players/907253/monchu           |Real Valladolid |      0.021525|   0.0833333|    |
-|/players/888167/kike-prez        |Real Valladolid |      0.023425|   0.0714286|    |
-|/players/390235/lucas-olaza      |Real Valladolid |      0.025800|   0.0714286|    |
-|/players/683761/javi-snchez      |Real Valladolid |      0.017875|   0.0322581|    |
-|/players/797758/martin-hongla    |Real Valladolid |      0.018475|   0.0909091|    |
-|/players/766957/luis-prez        |Real Valladolid |      0.016625|   0.0243902|    |
-|/players/213684/jordi-masip      |Real Valladolid |      0.000000|   0.1176471|    |
-|/players/179083/willian-jos      |Real Betis      |      0.075175|   0.4545455|    |
-|/players/37824/joaquin           |Real Betis      |      0.024350|   0.2173913|    |
-|/players/676533/aitor-ruibal     |Real Betis      |      0.028250|   0.1250000|    |
-|/players/31045/andrs-guardado    |Real Betis      |      0.001850|   0.0833333|    |
-|/players/497763/mickal-malsa     |Real Valladolid |      0.029425|   0.0322581|    |
-|/players/658658/selim-amallah    |Real Valladolid |      0.051625|   0.1666667|    |
-|/players/174854/sergio-escudero  |Real Valladolid |      0.010375|   0.0357143|    |
-|/players/544312/cyle-larin       |Real Valladolid |      0.166025|   0.3333333|    |
+|/players/37421/claudio-bravo     |Real Betis      |      0.000000|   0.0454545|    |
+|/players/467689/youssouf-sabaly  |Real Betis      |      0.016850|   0.0454545|    |
+|/players/672840/luiz-felipe      |Real Betis      |      0.022500|   0.0588235|    |
+|/players/182921/victor-ruiz      |Real Betis      |      0.043950|   0.0588235|    |
+|/players/1060604/abner           |Real Betis      |      0.061875|   0.0666667|    |
+|/players/586768/guido-rodriguez  |Real Betis      |      0.044075|   0.0952381|    |
+|/players/257865/william-carvalho |Real Betis      |      0.092700|   0.1428571|    |
+|/players/150649/sergio-canales   |Real Betis      |      0.096900|   0.3030303|    |
+|/players/469852/nabil-fekir      |Real Betis      |      0.129600|   0.3636364|    |
+|/players/191873/juanmi           |Real Betis      |      0.355125|   0.4081633|    |
+|/players/479020/ayoze-prez       |Real Betis      |      0.351925|   0.3448276|    |
+|/players/544312/cyle-larin       |Real Valladolid |      0.184150|   0.3448276|    |
+|/players/289278/darwin-machis    |Real Valladolid |      0.193000|   0.1666667|    |
+|/players/359198/oscar-plano      |Real Valladolid |      0.096175|   0.1428571|    |
+|/players/980311/gonzalo-plata    |Real Valladolid |      0.003825|   0.1886792|    |
+|/players/888167/kike-prez        |Real Valladolid |      0.023475|   0.0769231|    |
+|/players/907253/monchu           |Real Valladolid |      0.024150|   0.0909091|    |
+|/players/390235/lucas-olaza      |Real Valladolid |      0.024375|   0.0769231|    |
+|/players/683761/javi-snchez      |Real Valladolid |      0.017850|   0.0333333|    |
+|/players/797758/martin-hongla    |Real Valladolid |      0.017950|   0.0952381|    |
+|/players/766957/luis-prez        |Real Valladolid |      0.015825|   0.0256410|    |
+|/players/213684/jordi-masip      |Real Valladolid |      0.000000|   0.1250000|    |
+|/players/179083/willian-jos      |Real Betis      |      0.072900|   0.0000000|*   |
+|/players/37824/joaquin           |Real Betis      |      0.024275|   0.0000000|    |
+|/players/676533/aitor-ruibal     |Real Betis      |      0.028800|   0.0000000|    |
+|/players/31045/andrs-guardado    |Real Betis      |      0.001725|   0.0000000|    |
+|/players/482512/sergio-leon      |Real Valladolid |      0.137350|   0.0000000|*   |
+|/players/658658/selim-amallah    |Real Valladolid |      0.045875|   0.0000000|    |
+|/players/174854/sergio-escudero  |Real Valladolid |      0.009125|   0.0000000|    |
+|/players/292262/roque-mesa       |Real Valladolid |      0.016500|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Real Betis:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/361717/rui-silva        |           0|         29.6687|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/467689/youssouf-sabaly  |           1|         48.5215|           1.6683|        0.1542|         0.5817|      0.0302|        0.0242|      0.0775| 90.0000|
-|/players/672840/luiz-felipe      |           1|         61.5802|           1.5814|        0.1238|         0.3434|      0.0549|        0.0376|      0.0284| 90.0000|
-|/players/186991/germn-pezzella   |           1|         48.1544|           1.1223|        0.2196|         0.8016|      0.0857|        0.0242|      0.0483| 90.0000|
-|/players/1060604/abner           |           1|         46.8509|           1.7473|        0.1854|         0.6616|      0.0524|        0.0980|      0.1274| 90.0000|
-|/players/586768/guido-rodriguez  |           2|         47.3360|           2.7535|        0.2519|         0.9066|      0.0482|        0.0583|      0.0638| 90.0000|
-|/players/257865/william-carvalho |           2|         51.3372|           1.2276|        0.3435|         1.1311|      0.1066|        0.1240|      0.1205| 79.0857|
-|/players/150649/sergio-canales   |           3|         47.5270|           0.8625|        0.5603|         1.6534|      0.1503|        0.1282|      0.2232| 90.0000|
-|/players/469852/nabil-fekir      |           3|         31.7660|           1.3655|        0.7906|         2.4713|      0.1863|        0.1762|      0.2361| 81.2947|
-|/players/191873/juanmi           |           3|         14.9046|           1.3784|        0.8417|         1.7351|      0.3580|        0.5343|      0.0656| 73.6047|
-|/players/479020/ayoze-prez       |           5|         16.3768|           0.5079|        1.0127|         2.4176|      0.4289|        0.5216|      0.0833| 75.3636|
-|/players/179083/willian-jos      |          NA|              NA|               NA|        0.2008|         0.4747|      0.0812|        0.0980|      0.0182| 16.3953|
-|/players/37824/joaquin           |          NA|              NA|               NA|        0.0808|         0.3839|      0.0203|        0.0314|      0.0620| 14.6364|
-|/players/676533/aitor-ruibal     |          NA|              NA|               NA|        0.1212|         0.3787|      0.0244|        0.0361|      0.0146| 10.9143|
-|/players/31045/andrs-guardado    |          NA|              NA|               NA|        0.0309|         0.1390|      0.0197|        0.0025|      0.0057|  8.7053|
+|/players/37421/claudio-bravo     |           0|         27.3739|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/467689/youssouf-sabaly  |           1|         46.0057|           1.8293|        0.1547|         0.7146|      0.0279|        0.0191|      0.0871| 90.0000|
+|/players/672840/luiz-felipe      |           1|         58.3873|           1.7340|        0.1242|         0.4218|      0.0508|        0.0297|      0.0319| 90.0000|
+|/players/182921/victor-ruiz      |           1|         57.0855|           0.6401|        0.2183|         0.4390|      0.0960|        0.0580|      0.0195| 90.0000|
+|/players/1060604/abner           |           1|         44.4217|           1.9159|        0.1860|         0.8128|      0.0485|        0.0773|      0.1431| 90.0000|
+|/players/586768/guido-rodriguez  |           2|         47.5191|           2.7535|        0.2519|         0.9066|      0.0482|        0.0583|      0.0638| 90.0000|
+|/players/257865/william-carvalho |           2|         51.5357|           1.2276|        0.3435|         1.1311|      0.1066|        0.1240|      0.1205| 79.0857|
+|/players/150649/sergio-canales   |           3|         47.7108|           0.8625|        0.5603|         1.6534|      0.1503|        0.1282|      0.2232| 90.0000|
+|/players/469852/nabil-fekir      |           3|         31.8889|           1.3655|        0.7906|         2.4713|      0.1863|        0.1762|      0.2361| 81.2947|
+|/players/191873/juanmi           |           3|         14.9622|           1.3784|        0.8417|         1.7351|      0.3580|        0.5343|      0.0656| 73.6047|
+|/players/479020/ayoze-prez       |           5|         16.4402|           0.5079|        1.0127|         2.4176|      0.4289|        0.5216|      0.0833| 75.3636|
+|/players/179083/willian-jos      |           0|              NA|               NA|        0.2062|         0.4874|      0.0806|        0.0947|      0.0187| 16.3953|
+|/players/37824/joaquin           |           0|              NA|               NA|        0.0830|         0.3942|      0.0201|        0.0303|      0.0637| 14.6364|
+|/players/676533/aitor-ruibal     |           0|              NA|               NA|        0.1244|         0.3889|      0.0243|        0.0349|      0.0150| 10.9143|
+|/players/31045/andrs-guardado    |           0|              NA|               NA|        0.0317|         0.1427|      0.0196|        0.0024|      0.0059|  8.7053|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
@@ -124,26 +114,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Real Valladolid:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/482512/sergio-leon     |           5|         13.7518|           0.5139|        0.5600|         1.4626|      0.1881|        0.2214|      0.0379| 73.9111|
+|/players/544312/cyle-larin      |           5|         14.2893|           0.5340|        0.5819|         1.5198|      0.1954|        0.2214|      0.0394| 76.8000|
 |/players/289278/darwin-machis   |           3|         18.4262|           0.7918|        0.6699|         2.0011|      0.1966|        0.2367|      0.1426| 90.0000|
 |/players/359198/oscar-plano     |           3|         21.7574|           0.9921|        0.2674|         0.9627|      0.1225|        0.1091|      0.0589| 78.5763|
 |/players/980311/gonzalo-plata   |           3|         24.4082|           1.5502|        0.3330|         0.8007|      0.0409|        0.0042|      0.0421| 74.6786|
-|/players/907253/monchu          |           2|         36.2800|           2.4617|        0.2319|         0.6341|      0.0139|        0.0260|      0.0519| 90.0000|
 |/players/888167/kike-prez       |           2|         30.3670|           1.6646|        0.0871|         0.5955|      0.0518|        0.0260|      0.0273| 75.8571|
+|/players/907253/monchu          |           2|         36.2800|           2.4617|        0.2319|         0.6341|      0.0139|        0.0260|      0.0519| 90.0000|
 |/players/390235/lucas-olaza     |           1|         32.8646|           1.5707|        0.1284|         0.4950|      0.0534|        0.0278|      0.0615| 90.0000|
 |/players/683761/javi-snchez     |           1|         34.0746|           1.2312|        0.0797|         0.4515|      0.0582|        0.0194|      0.0108| 90.0000|
 |/players/797758/martin-hongla   |           1|         38.2413|           1.2312|        0.0797|         0.2589|      0.0023|        0.0194|      0.0148| 90.0000|
 |/players/766957/luis-prez       |           1|         29.2730|           2.4614|        0.0834|         0.2589|      0.0023|        0.0194|      0.0269| 90.0000|
 |/players/213684/jordi-masip     |           0|         24.3655|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/497763/mickal-malsa    |          NA|              NA|               NA|        0.0831|         0.3325|      0.0266|        0.0334|      0.0235| 16.0889|
-|/players/658658/selim-amallah   |          NA|              NA|               NA|        0.2814|         0.7036|      0.0290|        0.0560|      0.0107| 15.3214|
-|/players/174854/sergio-escudero |          NA|              NA|               NA|        0.0562|         0.2809|      0.0074|        0.0123|      0.0273| 14.1429|
-|/players/544312/cyle-larin      |          NA|              NA|               NA|        0.3015|         0.8292|      0.1684|        0.1975|      0.0167| 11.4237|
+|/players/482512/sergio-leon     |           0|              NA|               NA|        0.4493|         0.9659|      0.1308|        0.1652|      0.0053| 15.3214|
+|/players/658658/selim-amallah   |           0|              NA|               NA|        0.2668|         0.6669|      0.0266|        0.0499|      0.0102| 14.1429|
+|/players/174854/sergio-escudero |           0|              NA|               NA|        0.0538|         0.2692|      0.0068|        0.0111|      0.0262| 13.2000|
+|/players/292262/roque-mesa      |           0|              NA|               NA|        0.0915|         0.3661|      0.0130|        0.0198|      0.0066| 11.4237|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
