@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 18:37:18.393"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Wycombe Wanderers 1.0874 to Bolton 1.1372"
+[1] "Total: 2.2246"
+[1] "Wycombe Wanderers %: 34.08"
+[1] "Draw %: 29.07"
+[1] "Bolton %: 36.85"
+[1] "--XG Model--"
+[1] "Score: Wycombe Wanderers 1.0101 to Bolton 1.2078"
+[1] "Total: 2.2179"
+[1] "Wycombe Wanderers %: 30.76"
+[1] "Draw %: 29.26"
+[1] "Bolton %: 39.98"
+[1] "--XGoT Model--"
+[1] "Score: Wycombe Wanderers 1.0068 to Bolton 1.2525"
+[1] "Total: 2.2593"
+[1] "Wycombe Wanderers %: 29.32"
+[1] "Draw %: 29.11"
+[1] "Bolton %: 41.57"
+[1] "--XA Model--"
+[1] "Score: Wycombe Wanderers 1.1805 to Bolton 1.1914"
+[1] "Total: 2.3719"
+[1] "Wycombe Wanderers %: 35.77"
+[1] "Draw %: 28.3"
+[1] "Bolton %: 35.93"
+[1] "--Mean 4 Models--"
+[1] "Wycombe Wanderers has a mean win % of 32.48%; a min win % of 29.32%; a max win % of 35.77%."
+[1] "Draw has a mean win % of 28.93%; a min win % of 28.3%; a max win % of 29.26%."
+[1] "Bolton has a mean win % of 38.58%; a min win % of 35.93%; a max win of % 41.57%."
+[1] "Wycombe Wanderers has a mean win of the Double Chance of 61.42%; a min win % of 58.43%, a max win % of 64.07%."
+[1] "Bolton has a mean win of the Double Chance of 67.52%; a min win % of 64.23%, a max win % of 70.68%."
+[1] "The mean likelihood that there are more than 2.5 goals is 38.87%; max % is 41.44 and min % is 37.46%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 61.13%; max % is 62.54 and min % is 58.56%."
+[1] "--Sportsbook Odds--"
+[1] "Wycombe Wanderers Barstool Odds are: 35.09"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Bolton Barstool Odds are: 41.67"
+[1] "Wycombe Wanderers Adjusted Barstool Odds are: 33.051"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.701"
+[1] "Bolton Adjusted Barstool Odds are: 39.248"
+[1] "Wycombe Wanderers's Barstool Odds to cover the 0.5 spread are: 64.52"
+[1] "Bolton's Barstool Odds to cover the -0.5 spread are: 42.02"
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35% chance of the over 2.5 hitting. The line for the under is 1.91, which is a 52.36% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                             bet           date_time
+1 under Wycombe Wanderers/Bolton 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team              | expected_attg| expected_gs|bet |
+|:---------------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/609751/maksymilian-stryjek     |Wycombe Wanderers |      0.000000|   0.1923077|    |
+|/players/214619/jordan-obita            |Wycombe Wanderers |      0.008150|   0.1694915|    |
+|/players/28892/joe-jacobson             |Wycombe Wanderers |      0.062000|   0.1538462|    |
+|/players/198563/jack-grimmer            |Wycombe Wanderers |      0.018600|   0.0333333|    |
+|/players/511987/alfie-mawson            |Wycombe Wanderers |      0.009075|   0.2857143|    |
+|/players/874613/lewis-wing              |Wycombe Wanderers |      0.045900|   0.1851852|    |
+|/players/256572/josh-scowen             |Wycombe Wanderers |      0.021875|   0.1250000|    |
+|/players/155581/david-wheeler           |Wycombe Wanderers |      0.167300|   0.2222222|    |
+|/players/770125/nick-freeman            |Wycombe Wanderers |      0.053875|   0.1428571|    |
+|/players/115980/garath-mccleary         |Wycombe Wanderers |      0.237025|   0.2222222|    |
+|/players/46898/sam-vokes                |Wycombe Wanderers |      0.254800|   0.2941176|    |
+|/players/1187213/james-trafford         |Bolton            |      0.000000|   0.1250000|    |
+|/players/398992/ricardo-santos          |Bolton            |      0.053425|   0.1000000|    |
+|/players/605257/gethin-jones            |Bolton            |      0.010400|   0.1176471|    |
+|/players/954622/george-johnston         |Bolton            |      0.012350|   0.1000000|    |
+|/players/865302/jack-iredale            |Bolton            |      0.043950|   0.1538462|    |
+|/players/776152/aaron-morley            |Bolton            |      0.054425|   0.1818182|    |
+|/players/584836/michael-jordan-williams |Bolton            |      0.041575|   0.1111111|    |
+|/players/1113690/conor-bradley          |Bolton            |      0.061250|   0.1538462|    |
+|/players/40658/kieran-lee               |Bolton            |      0.097075|   0.1333333|    |
+|/players/789599/dan-nlundulu            |Bolton            |      0.197450|   0.0454545|*   |
+|/players/592210/victor-adeboyejo        |Bolton            |      0.307925|   0.3030303|    |
+|/players/1107731/chem-campbell          |Wycombe Wanderers |      0.000000|   0.2631579|    |
+|/players/776161/brandon-hanlan          |Wycombe Wanderers |      0.021625|   0.2631579|    |
+|/players/584764/jason-mccarthy          |Wycombe Wanderers |      0.018300|   0.0833333|    |
+|/players/584764/jason-mccarthy          |Wycombe Wanderers |      0.018300|   0.0833333|    |
+|/players/31953/cameron-jerome           |Bolton            |      0.080475|   0.3030303|    |
+|/players/202369/jon-dadi-bdvarsson      |Bolton            |      0.035475|   0.0476190|    |
+|/players/719377/randell-williams        |Bolton            |      0.028800|   0.1538462|    |
+|/players/518503/kyle-dempsey            |Bolton            |      0.000000|   0.1754386|    |
+____________________________________________________
+
+[1] "Facts about Wycombe Wanderers:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/609751/maksymilian-stryjek |           0|         28.4845|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/214619/jordan-obita        |           1|         27.6173|           1.3290|        0.1676|         0.4786|      0.0162|        0.0097|      0.0557| 90.0000|
+|/players/28892/joe-jacobson         |           1|         36.7370|           1.7820|        0.1630|         0.6036|      0.0706|        0.0679|      0.0924| 90.0000|
+|/players/198563/jack-grimmer        |           1|         28.3443|           1.4790|        0.0658|         0.3708|      0.0173|        0.0163|      0.0227| 90.0000|
+|/players/511987/alfie-mawson        |           1|         51.3483|           1.1082|        0.1097|         0.5240|      0.0378|        0.0092|      0.0233| 90.0000|
+|/players/874613/lewis-wing          |           2|         35.8206|           1.5507|        0.3287|         1.2231|      0.0599|        0.0492|      0.0704| 84.5000|
+|/players/256572/josh-scowen         |           2|         37.2576|           2.2706|        0.1000|         0.4830|      0.0392|        0.0219|      0.0492| 90.0000|
+|/players/155581/david-wheeler       |           3|         20.0935|           1.4683|        0.5070|         1.5934|      0.1575|        0.1857|      0.0627| 84.7442|
+|/players/770125/nick-freeman        |           3|         30.8616|           1.4881|        0.3106|         1.5800|      0.1368|        0.0579|      0.1228| 90.0000|
+|/players/115980/garath-mccleary     |           3|         20.9502|           0.8610|        0.9910|         1.9391|      0.1528|        0.2644|      0.1552| 84.9773|
+|/players/46898/sam-vokes            |           5|         15.4793|           0.6175|        0.8643|         2.2525|      0.2894|        0.2934|      0.0645| 83.5443|
+|/players/1107731/chem-campbell      |           0|              NA|               NA|        0.0000|         0.1111|      0.0068|        0.0000|      0.0006|  6.4557|
+|/players/776161/brandon-hanlan      |           0|              NA|               NA|        0.0499|         0.1496|      0.0144|        0.0251|      0.0177|  5.5000|
+|/players/584764/jason-mccarthy      |           0|              NA|               NA|        0.0650|         0.0650|      0.0239|        0.0187|      0.0000|  5.2558|
+|/players/584764/jason-mccarthy      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0187|  5.0227|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Gareth Ainsworth |        71417|     -2.768806|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Bolton:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1187213/james-trafford         |           0|         32.4462|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/398992/ricardo-santos          |           1|         48.3137|           1.6600|        0.0966|         0.4375|      0.0605|        0.0619|      0.0163| 90.0000|
+|/players/605257/gethin-jones            |           1|         38.7911|           1.6322|        0.1409|         0.4775|      0.0268|        0.0143|      0.0431| 90.0000|
+|/players/954622/george-johnston         |           1|         51.2996|           1.4217|        0.1473|         0.5331|      0.0241|        0.0137|      0.0216| 90.0000|
+|/players/865302/jack-iredale            |           3|         27.3772|           1.7519|        0.3700|         0.8367|      0.0565|        0.0477|      0.1142| 78.4167|
+|/players/776152/aaron-morley            |           3|         53.9458|           1.6617|        0.2047|         1.0165|      0.0855|        0.0602|      0.1195| 90.0000|
+|/players/584836/michael-jordan-williams |           3|         37.2162|           2.1659|        0.0219|         0.2480|      0.0010|        0.0477|      0.0161| 90.0000|
+|/players/1113690/conor-bradley          |           3|         34.0963|           2.0037|        0.3466|         1.3541|      0.1282|        0.0708|      0.1450| 90.0000|
+|/players/40658/kieran-lee               |           4|         26.3998|           1.0029|        0.4115|         1.3301|      0.1206|        0.1185|      0.1240| 69.6111|
+|/players/789599/dan-nlundulu            |           5|         21.6953|           0.4585|        0.7551|         2.2636|      0.2198|        0.2382|      0.1225| 81.2353|
+|/players/592210/victor-adeboyejo        |           5|         18.9394|           0.7972|        0.9213|         1.9748|      0.3628|        0.4106|      0.0810| 80.3409|
+|/players/31953/cameron-jerome           |           0|              NA|               NA|        0.1595|         0.3588|      0.0568|        0.0971|      0.0199| 20.3889|
+|/players/202369/jon-dadi-bdvarsson      |           0|              NA|               NA|        0.2378|         0.4108|      0.0371|        0.0420|      0.0138| 11.5833|
+|/players/719377/randell-williams        |           0|              NA|               NA|        0.0485|         0.1939|      0.0238|        0.0337|      0.0063|  9.6591|
+|/players/518503/kyle-dempsey            |           0|              NA|               NA|        0.0000|         0.0890|      0.0082|        0.0000|      0.0129|  8.7647|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ian Evatt    |        21650|      7.100909|3-4-1-2   |
