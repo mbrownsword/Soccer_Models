@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 12:42:16.888"
+[1] "Updated at 2023-02-18 14:45:38.299"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,20 +34,21 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 61.91%; max % is 66.85 and min % is 58.84%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 38.09%; max % is 41.16 and min % is 33.15%."
 [1] "--Sportsbook Odds--"
-[1] "Fiorentina Barstool Odds are: 62.5"
+[1] "Fiorentina Barstool Odds are: 63.64"
 [1] "The Barstool Odds of a Draw are: 25"
-[1] "Empoli Barstool Odds are: 18.18"
-[1] "Fiorentina Adjusted Barstool Odds are: 59.141"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.656"
-[1] "Empoli Adjusted Barstool Odds are: 17.203"
-[1] "Fiorentina's Barstool Odds to cover the -0.75 spread are: 56.5"
-[1] "Empoli's Barstool Odds to cover the 0.75 spread are: 48.54"
-[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
+[1] "Empoli Barstool Odds are: 17.39"
+[1] "Fiorentina Adjusted Barstool Odds are: 60.021"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.578"
+[1] "Empoli Adjusted Barstool Odds are: 16.401"
+[1] "Fiorentina's Barstool Odds to cover the -0.5 spread are: 62.5"
+[1] "Empoli's Barstool Odds to cover the 0.5 spread are: 41.67"
+[1] "Barstool's line for the total is 2.5 at 1.81, which is a 55.25% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                      bet           date_time
 1                 Empoli 2023-02-19 06:00:00
 2 over Fiorentina/Empoli 2023-02-19 06:00:00
+3             Empoli ATS 2023-02-19 06:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
