@@ -1,110 +1,120 @@
-[1] "Updated at 2023-02-17 22:10:48.569"
+[1] "Updated at 2023-02-18 06:31:26.951"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Chelsea 2.3087 to Southampton 0.6629"
-[1] "Total: 2.9716"
-[1] "Chelsea %: 75.06"
-[1] "Draw %: 16.36"
-[1] "Southampton %: 8.58"
+[1] "Score: Chelsea 2.3421 to Southampton 0.7227"
+[1] "Total: 3.0648"
+[1] "Chelsea %: 73.72"
+[1] "Draw %: 16.92"
+[1] "Southampton %: 9.36"
 [1] "--XG Model--"
-[1] "Score: Chelsea 1.9458 to Southampton 0.6207"
-[1] "Total: 2.5665"
-[1] "Chelsea %: 68.98"
-[1] "Draw %: 20.58"
-[1] "Southampton %: 10.44"
+[1] "Score: Chelsea 2.0461 to Southampton 0.6255"
+[1] "Total: 2.6716"
+[1] "Chelsea %: 71"
+[1] "Draw %: 19.45"
+[1] "Southampton %: 9.55"
 [1] "--XGoT Model--"
-[1] "Score: Chelsea 2.4758 to Southampton 0.6161"
-[1] "Total: 3.0919"
-[1] "Chelsea %: 78.25"
-[1] "Draw %: 14.6"
-[1] "Southampton %: 7.15"
+[1] "Score: Chelsea 2.5492 to Southampton 0.6176"
+[1] "Total: 3.1668"
+[1] "Chelsea %: 79.11"
+[1] "Draw %: 14.11"
+[1] "Southampton %: 6.78"
 [1] "--XA Model--"
-[1] "Score: Chelsea 2.1238 to Southampton 0.6719"
-[1] "Total: 2.7957"
-[1] "Chelsea %: 70.91"
-[1] "Draw %: 19.23"
-[1] "Southampton %: 9.86"
+[1] "Score: Chelsea 2.1518 to Southampton 0.653"
+[1] "Total: 2.8048"
+[1] "Chelsea %: 72.22"
+[1] "Draw %: 18.44"
+[1] "Southampton %: 9.34"
 [1] "--Mean 4 Models--"
-[1] "Chelsea has a mean win % of 73.3%; a min win % of 68.98%; a max win % of 78.25%."
-[1] "Draw has a mean win % of 17.69%; a min win % of 14.6%; a max win % of 20.58%."
-[1] "Southampton has a mean win % of 9.01%; a min win % of 7.15%; a max win of % 10.44%."
-[1] "Chelsea has a mean win of the Double Chance of 90.99%; a min win % of 89.56%, a max win % of 92.85%."
-[1] "Southampton has a mean win of the Double Chance of 26.7%; a min win % of 21.75%, a max win % of 31.02%."
-[1] "The mean likelihood that there are more than 2.5 goals is 53.58%; max % is 59.02 and min % is 46.55%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 46.42%; max % is 53.45 and min % is 40.98%."
+[1] "Chelsea has a mean win % of 74.01%; a min win % of 71%; a max win % of 79.11%."
+[1] "Draw has a mean win % of 17.23%; a min win % of 14.11%; a max win % of 19.45%."
+[1] "Southampton has a mean win % of 8.76%; a min win % of 6.78%; a max win of % 9.55%."
+[1] "Chelsea has a mean win of the Double Chance of 91.24%; a min win % of 90.45%, a max win % of 93.22%."
+[1] "Southampton has a mean win of the Double Chance of 25.99%; a min win % of 20.89%, a max win % of 29%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.29%; max % is 60.28 and min % is 49.52%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.71%; max % is 50.48 and min % is 39.72%."
 [1] "--Sportsbook Odds--"
-[1] "Chelsea Barstool Odds are: 71.43"
-[1] "The Barstool Odds of a Draw are: 21.74"
-[1] "Southampton Barstool Odds are: 11.11"
-[1] "Chelsea Adjusted Barstool Odds are: 68.498"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.848"
-[1] "Southampton Adjusted Barstool Odds are: 10.654"
-[1] "Chelsea's Barstool Odds to cover the -0.5 spread are: 70.92"
-[1] "Southampton's Barstool Odds to cover the 0.5 spread are: 33.33"
-[1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.88, which is a 53.19% chance of the under 2.5 hitting."
+[1] "Chelsea Barstool Odds are: 69.23"
+[1] "The Barstool Odds of a Draw are: 22.22"
+[1] "Southampton Barstool Odds are: 13.33"
+[1] "Chelsea Adjusted Barstool Odds are: 66.072"
+[1] "The Adjusted Barstool Odds of a Draw are: 21.206"
+[1] "Southampton Adjusted Barstool Odds are: 12.722"
+[1] "Chelsea's Barstool Odds to cover the -1.25 spread are: 50.51"
+[1] "Southampton's Barstool Odds to cover the 1.25 spread are: 54.64"
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-02-18 07:00:00
+      bet           date_time
+1 Chelsea 2023-02-18 07:00:00
+
+
+|player         |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:--------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Romain Perraud |SOU  |     20| 1.50|          NA|  0.8485|   0.1818|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
+|Adam Armstrong |SOU  |     18| 1.85|          NA|  0.9624|   0.4219|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Adam Armstrong |SOU  |     26| 2.76|          NA|  0.5585|   0.1962|passes    |ENG England |      0.3623|         NA|        NA|         NA|       NA|
+|Adam Armstrong |SOU  |     22| 2.30|          NA|  0.8263|   0.3915|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Adam Armstrong |SOU  |     14| 1.51|          NA|  0.9963|   0.3340|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Mason Mount    |CHE  |     43| 1.51|          NA|  0.8170|   0.1547|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
-|pageUrl2                            |team        | expected_attg| expected_gs|bet |
-|:-----------------------------------|:-----------|-------------:|-----------:|:---|
-|/players/317564/kepa-arrizabalaga   |Chelsea     |      0.000000|   0.2000000|    |
-|/players/793907/trevoh-chalobah     |Chelsea     |      0.068100|   0.0666667|    |
-|/players/210428/kalidou-koulibaly   |Chelsea     |      0.055825|   0.0909091|    |
-|/players/955376/benoit-badiashile   |Chelsea     |      0.038150|   0.1176471|    |
-|/players/672469/ben-chilwell        |Chelsea     |      0.106500|   0.1176471|    |
-|/players/966027/conor-gallagher     |Chelsea     |      0.089275|   0.2083333|    |
-|/players/1137705/enzo-fernndez      |Chelsea     |      0.091350|   0.1538462|    |
-|/players/1084981/noni-madueke       |Chelsea     |      0.256025|   0.3333333|    |
-|/players/794427/joao-flix           |Chelsea     |      0.418000|   0.3571429|*   |
-|/players/750032/mason-mount         |Chelsea     |      0.103750|   0.2941176|    |
-|/players/749736/kai-havertz         |Chelsea     |      0.464025|   0.3636364|*   |
-|/players/1130691/kamaldeen-sulemana |Southampton |      0.106450|   0.1250000|    |
-|/players/412357/paul-onuachu        |Southampton |      0.178725|   0.2941176|    |
-|/players/815465/romain-perraud      |Southampton |      0.026925|   0.0400000|    |
-|/players/1128965/carlos-alcaraz     |Southampton |      0.011225|   0.0714286|    |
-|/players/1190867/romeo-lavia        |Southampton |      0.012925|   0.0384615|    |
-|/players/279490/james-ward-prowse   |Southampton |      0.103300|   0.1428571|    |
-|/players/539939/james-bree          |Southampton |      0.012725|   0.0196078|    |
-|/players/938247/mohammed-salisu     |Southampton |      0.025375|   0.0294118|    |
-|/players/951765/armel-bella-kotchap |Southampton |      0.014800|   0.0312500|    |
-|/players/557799/duje-caleta-car     |Southampton |      0.013000|   0.0217391|    |
-|/players/939390/gavin-bazunu        |Southampton |      0.000000|   0.1000000|    |
-|/players/239219/mateo-kovacic       |Chelsea     |      0.012775|   0.1250000|    |
-|/players/604982/ruben-loftus-cheek  |Chelsea     |      0.015025|   0.1960784|    |
-|/players/598355/denis-zakaria       |Chelsea     |      0.005250|   0.1960784|    |
-|/players/360559/hakim-ziyech        |Chelsea     |      0.027350|   0.2857143|    |
-|/players/1177312/skou-mara          |Southampton |      0.034475|   0.1666667|    |
-|/players/237563/stuart-armstrong    |Southampton |      0.002225|   0.1000000|    |
-|/players/599353/che-adams           |Southampton |      0.018350|   0.1754386|    |
-|/players/798659/joe-aribo           |Southampton |      0.007150|   0.1250000|    |
+|pageUrl2                               |team        | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/317564/kepa-arrizabalaga      |Chelsea     |      0.000000|   0.2083333|    |
+|/players/72541/csar-azpilicueta        |Chelsea     |      0.038275|   0.0666667|    |
+|/players/210428/kalidou-koulibaly      |Chelsea     |      0.041825|   0.0952381|    |
+|/players/955376/benoit-badiashile      |Chelsea     |      0.030575|   0.1176471|    |
+|/players/672469/ben-chilwell           |Chelsea     |      0.088025|   0.1250000|    |
+|/players/239219/mateo-kovacic          |Chelsea     |      0.004575|   0.1250000|    |
+|/players/1137705/enzo-fernndez         |Chelsea     |      0.185800|   0.1538462|    |
+|/players/1084981/noni-madueke          |Chelsea     |      0.259125|   0.3333333|    |
+|/players/794427/joao-flix              |Chelsea     |      0.421950|   0.3636364|*   |
+|/players/750032/mason-mount            |Chelsea     |      0.107525|   0.2941176|    |
+|/players/1207581/david-datro-fofana    |Chelsea     |      0.459975|   0.3389831|*   |
+|/players/412357/paul-onuachu           |Southampton |      0.160650|   0.3333333|    |
+|/players/1130691/kamaldeen-sulemana    |Southampton |      0.094725|   0.1428571|    |
+|/players/237563/stuart-armstrong       |Southampton |      0.038250|   0.1111111|    |
+|/players/261936/mohamed-elyounoussi    |Southampton |      0.129025|   0.1250000|    |
+|/players/1190867/romeo-lavia           |Southampton |      0.003000|   0.0434783|    |
+|/players/279490/james-ward-prowse      |Southampton |      0.021600|   0.1666667|    |
+|/players/815465/romain-perraud         |Southampton |      0.035275|   0.0454545|    |
+|/players/490868/jan-bednarek           |Southampton |      0.010900|   0.0285714|    |
+|/players/951765/armel-bella-kotchap    |Southampton |      0.007675|   0.0344828|    |
+|/players/604089/ainsley-maitland-niles |Southampton |      0.015675|   0.0454545|    |
+|/players/939390/gavin-bazunu           |Southampton |      0.000000|   0.2941176|    |
+|/players/598355/denis-zakaria          |Chelsea     |      0.009475|   0.0000000|    |
+|/players/246575/raheem-sterling        |Chelsea     |      0.075975|   0.0000000|*   |
+|/players/749736/kai-havertz            |Chelsea     |      0.039800|   0.0000000|    |
+|/players/966027/conor-gallagher        |Chelsea     |      0.033425|   0.0000000|    |
+|/players/1177312/skou-mara             |Southampton |      0.040300|   0.0000000|    |
+|/players/862645/moussa-djenepo         |Southampton |      0.004250|   0.0000000|    |
+|/players/938539/ibrahima-diallo        |Southampton |      0.001575|   0.0000000|    |
+|/players/519835/adam-armstrong         |Southampton |      0.014200|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Chelsea:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/317564/kepa-arrizabalaga  |           0|         32.3056|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/793907/trevoh-chalobah    |           1|         63.8133|           1.9730|        0.2686|         0.7846|      0.0674|        0.0762|      0.0510| 90.0000|
-|/players/210428/kalidou-koulibaly  |           1|         69.5706|           1.7183|        0.2037|         0.5700|      0.0389|        0.0591|      0.0316| 90.0000|
-|/players/955376/benoit-badiashile  |           1|         70.8235|           1.2791|        0.1728|         0.9216|      0.0665|        0.0406|      0.0695| 90.0000|
-|/players/672469/ben-chilwell       |           1|         66.3537|           1.8460|        0.4577|         1.2769|      0.0780|        0.1167|      0.2019| 90.0000|
-|/players/966027/conor-gallagher    |           2|         35.1642|           1.7574|        0.3083|         0.4236|      0.0189|        0.0941|      0.1005| 66.0000|
-|/players/1137705/enzo-fernndez     |           2|         85.0582|           2.1522|        0.4204|         2.1643|      0.1614|        0.0941|      0.1463| 90.0000|
-|/players/1084981/noni-madueke      |           3|         27.2961|           0.9684|        1.1661|         2.7816|      0.2449|        0.3064|      0.2298| 65.8947|
-|/players/794427/joao-flix          |           3|         29.8881|           1.1682|        1.2843|         2.6591|      0.2818|        0.5354|      0.1654| 75.0000|
-|/players/750032/mason-mount        |           3|         48.3820|           1.4863|        0.6128|         2.0390|      0.1205|        0.1121|      0.1248| 90.0000|
-|/players/749736/kai-havertz        |           5|         20.8029|           0.5980|        1.5655|         3.3809|      0.4464|        0.6378|      0.0847| 80.9571|
-|/players/239219/mateo-kovacic      |          NA|              NA|               NA|        0.0675|         0.2362|      0.0164|        0.0117|      0.0282| 24.1053|
-|/players/604982/ruben-loftus-cheek |          NA|              NA|               NA|        0.0677|         0.2201|      0.0223|        0.0158|      0.0316| 24.0000|
-|/players/598355/denis-zakaria      |          NA|              NA|               NA|        0.0690|         0.2485|      0.0208|        0.0063|      0.0041| 15.0000|
-|/players/360559/hakim-ziyech       |          NA|              NA|               NA|        0.1114|         0.3255|      0.0204|        0.0282|      0.0220|  9.0429|
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/317564/kepa-arrizabalaga   |           0|         33.9097|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/72541/csar-azpilicueta     |           1|         70.2640|           1.9675|        0.2352|         0.7120|      0.0375|        0.0415|      0.0938| 90.0000|
+|/players/210428/kalidou-koulibaly   |           1|         62.9328|           1.6952|        0.1881|         0.5055|      0.0380|        0.0468|      0.0252| 90.0000|
+|/players/955376/benoit-badiashile   |           1|         64.0662|           1.2620|        0.1596|         0.8173|      0.0648|        0.0321|      0.0555| 90.0000|
+|/players/672469/ben-chilwell        |           1|         60.0229|           1.8212|        0.4227|         1.1325|      0.0760|        0.0923|      0.1611| 90.0000|
+|/players/239219/mateo-kovacic       |           2|         51.4125|           1.5745|        0.2479|         0.9115|      0.0436|        0.0055|      0.0487| 80.2174|
+|/players/1137705/enzo-fernndez      |           2|         74.6481|           2.7102|        0.6622|         1.9129|      0.1202|        0.2124|      0.1883| 90.0000|
+|/players/1084981/noni-madueke       |           3|         28.1596|           1.0282|        1.1176|         2.6789|      0.2443|        0.3150|      0.2443| 65.8947|
+|/players/794427/joao-flix           |           3|         30.8335|           1.2404|        1.2309|         2.5610|      0.2811|        0.5503|      0.1758| 75.0000|
+|/players/750032/mason-mount         |           3|         49.9125|           1.5781|        0.5873|         1.9637|      0.1202|        0.1153|      0.1327| 90.0000|
+|/players/1207581/david-datro-fofana |           5|         20.5584|           0.5922|        1.5591|         3.4380|      0.4583|        0.6268|      0.1067| 79.0000|
+|/players/598355/denis-zakaria       |           0|              NA|               NA|        0.1177|         0.4239|      0.0300|        0.0084|      0.0069| 24.1053|
+|/players/246575/raheem-sterling     |           0|              NA|               NA|        0.1850|         0.4779|      0.1045|        0.0842|      0.0326| 15.0000|
+|/players/749736/kai-havertz         |           0|              NA|               NA|        0.0915|         0.3088|      0.0529|        0.0427|      0.0286| 11.0000|
+|/players/966027/conor-gallagher     |           0|              NA|               NA|        0.0765|         0.1911|      0.0336|        0.0345|      0.0193|  9.7826|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +123,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Southampton:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/1130691/kamaldeen-sulemana |           5|         16.9900|           1.0379|        0.5338|         1.4411|      0.1149|        0.1479|      0.0527| 83.4167|
-|/players/412357/paul-onuachu        |           5|         16.8063|           0.4800|        0.6412|         1.6022|      0.2507|        0.2574|      0.0301| 81.6413|
-|/players/815465/romain-perraud      |           3|         21.6534|           1.6053|        0.0911|         0.6702|      0.0373|        0.0376|      0.0264| 90.0000|
-|/players/1128965/carlos-alcaraz     |           3|         21.6515|           1.4491|        0.3491|         1.1033|      0.0671|        0.0179|      0.0096| 72.5556|
-|/players/1190867/romeo-lavia        |           3|         29.5573|           2.7568|        0.0797|         0.0817|      0.0044|        0.0169|      0.0210| 84.1667|
-|/players/279490/james-ward-prowse   |           3|         40.0069|           2.0689|        0.2459|         0.6312|      0.0831|        0.1463|      0.0812| 90.0000|
-|/players/539939/james-bree          |           3|         21.0827|           1.6756|        0.0852|         0.3181|      0.0210|        0.0169|      0.1218| 90.0000|
-|/players/938247/mohammed-salisu     |           1|         28.8425|           2.1258|        0.1598|         0.4576|      0.0395|        0.0299|      0.0139| 90.0000|
-|/players/951765/armel-bella-kotchap |           1|         26.5278|           1.5686|        0.0629|         0.3670|      0.0292|        0.0197|      0.0052| 90.0000|
-|/players/557799/duje-caleta-car     |           1|         39.6590|           0.9289|        0.0760|         0.2838|      0.0302|        0.0186|      0.0154| 90.0000|
-|/players/939390/gavin-bazunu        |           0|         31.6543|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1177312/skou-mara          |          NA|              NA|               NA|        0.2282|         0.5393|      0.0590|        0.0500|      0.0064| 17.4444|
-|/players/237563/stuart-armstrong    |          NA|              NA|               NA|        0.0374|         0.1273|      0.0182|        0.0027|      0.0190|  8.3587|
-|/players/599353/che-adams           |          NA|              NA|               NA|        0.1083|         0.2346|      0.0357|        0.0249|      0.0055|  6.5833|
-|/players/798659/joe-aribo           |          NA|              NA|               NA|        0.0304|         0.0835|      0.0119|        0.0108|      0.0076|  5.8333|
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/412357/paul-onuachu           |           5|         15.0482|           0.6154|        0.5809|         1.4569|      0.1875|        0.2261|      0.0325| 81.6413|
+|/players/1130691/kamaldeen-sulemana    |           3|         14.0398|           1.0755|        0.2402|         0.8674|      0.0753|        0.1302|      0.0560| 66.6250|
+|/players/237563/stuart-armstrong       |           3|         27.4343|           1.4437|        0.3405|         1.1271|      0.0822|        0.0550|      0.0535| 90.0000|
+|/players/261936/mohamed-elyounoussi    |           3|         22.4181|           1.0371|        0.6443|         1.3523|      0.1905|        0.1776|      0.0818| 90.0000|
+|/players/1190867/romeo-lavia           |           2|         21.1868|           1.9180|        0.0639|         0.3072|      0.0056|        0.0049|      0.0064| 72.0000|
+|/players/279490/james-ward-prowse      |           2|         40.7840|           2.4469|        0.2293|         0.8083|      0.0509|        0.0293|      0.0561| 90.0000|
+|/players/815465/romain-perraud         |           1|         25.7042|           1.9674|        0.1174|         0.6013|      0.0321|        0.0461|      0.0235| 90.0000|
+|/players/490868/jan-bednarek           |           1|         34.2859|           1.3536|        0.0536|         0.1986|      0.0198|        0.0130|      0.0056| 90.0000|
+|/players/951765/armel-bella-kotchap    |           1|         28.1305|           1.7691|        0.0345|         0.2468|      0.0201|        0.0099|      0.0026| 90.0000|
+|/players/604089/ainsley-maitland-niles |           1|         32.8453|           1.7337|        0.1298|         0.2438|      0.0341|        0.0215|      0.0488| 81.9286|
+|/players/939390/gavin-bazunu           |           0|         30.8855|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1177312/skou-mara             |           0|              NA|               NA|        0.3245|         0.7670|      0.0710|        0.0560|      0.0091| 23.3750|
+|/players/862645/moussa-djenepo         |           0|              NA|               NA|        0.0604|         0.2015|      0.0104|        0.0060|      0.0121| 18.0000|
+|/players/938539/ibrahima-diallo        |           0|              NA|               NA|        0.0294|         0.0882|      0.0082|        0.0018|      0.0020|  8.3587|
+|/players/519835/adam-armstrong         |           0|              NA|               NA|        0.0988|         0.2798|      0.0194|        0.0217|      0.0070|  8.0714|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
