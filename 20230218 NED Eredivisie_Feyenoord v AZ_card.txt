@@ -1,91 +1,91 @@
-[1] "Updated at 2023-02-17 15:02:06.917"
+[1] "Updated at 2023-02-18 11:24:00.118"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Feyenoord 1.8291 to AZ 1.1159"
-[1] "Total: 2.945"
-[1] "Feyenoord %: 54.54"
-[1] "Draw %: 22.7"
-[1] "AZ %: 22.76"
+[1] "Score: Feyenoord 1.9114 to AZ 1.127"
+[1] "Total: 3.0384"
+[1] "Feyenoord %: 56.42"
+[1] "Draw %: 21.77"
+[1] "AZ %: 21.81"
 [1] "--XG Model--"
-[1] "Score: Feyenoord 1.9832 to AZ 1.1324"
-[1] "Total: 3.1156"
-[1] "Feyenoord %: 56.89"
-[1] "Draw %: 21.41"
-[1] "AZ %: 21.7"
+[1] "Score: Feyenoord 1.9722 to AZ 1.1527"
+[1] "Total: 3.1249"
+[1] "Feyenoord %: 56.07"
+[1] "Draw %: 21.93"
+[1] "AZ %: 22"
 [1] "--XGoT Model--"
-[1] "Score: Feyenoord 2.2536 to AZ 1.1749"
-[1] "Total: 3.4285"
-[1] "Feyenoord %: 61.71"
+[1] "Score: Feyenoord 2.2592 to AZ 1.2103"
+[1] "Total: 3.4695"
+[1] "Feyenoord %: 61.46"
 [1] "Draw %: 19.6"
-[1] "AZ %: 18.69"
+[1] "AZ %: 18.94"
 [1] "--XA Model--"
-[1] "Score: Feyenoord 1.8297 to AZ 1.0829"
-[1] "Total: 2.9126"
-[1] "Feyenoord %: 55.27"
-[1] "Draw %: 22.91"
-[1] "AZ %: 21.82"
+[1] "Score: Feyenoord 1.8003 to AZ 1.136"
+[1] "Total: 2.9363"
+[1] "Feyenoord %: 53.49"
+[1] "Draw %: 22.68"
+[1] "AZ %: 23.83"
 [1] "--Mean 4 Models--"
-[1] "Feyenoord has a mean win % of 57.1%; a min win % of 54.54%; a max win % of 61.71%."
-[1] "Draw has a mean win % of 21.66%; a min win % of 19.6%; a max win % of 22.91%."
-[1] "AZ has a mean win % of 21.24%; a min win % of 18.69%; a max win of % 22.76%."
-[1] "Feyenoord has a mean win of the Double Chance of 78.76%; a min win % of 77.24%, a max win % of 81.31%."
-[1] "AZ has a mean win of the Double Chance of 42.9%; a min win % of 38.29%, a max win % of 45.46%."
-[1] "The mean likelihood that there are more than 2.5 goals is 59.02%; max % is 65.59 and min % is 54.87%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 40.98%; max % is 45.13 and min % is 34.41%."
+[1] "Feyenoord has a mean win % of 56.86%; a min win % of 53.49%; a max win % of 61.46%."
+[1] "Draw has a mean win % of 21.5%; a min win % of 19.6%; a max win % of 22.68%."
+[1] "AZ has a mean win % of 21.64%; a min win % of 18.94%; a max win of % 23.83%."
+[1] "Feyenoord has a mean win of the Double Chance of 78.35%; a min win % of 76.17%, a max win % of 81.06%."
+[1] "AZ has a mean win of the Double Chance of 43.14%; a min win % of 38.54%, a max win % of 46.51%."
+[1] "The mean likelihood that there are more than 2.5 goals is 60%; max % is 66.23 and min % is 55.77%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 40%; max % is 44.23 and min % is 33.77%."
 [1] "--Sportsbook Odds--"
-[1] "Feyenoord Barstool Odds are: 60.61"
-[1] "The Barstool Odds of a Draw are: 25.64"
-[1] "AZ Barstool Odds are: 20.83"
-[1] "Feyenoord Adjusted Barstool Odds are: 56.603"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.945"
-[1] "AZ Adjusted Barstool Odds are: 19.453"
-[1] "Feyenoord's Barstool Odds to cover the  spread are: NA"
-[1] "AZ's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.64, which is a 60.98% chance of the over 2.5 hitting. The line for the under is 2.25, which is a 44.44% chance of the under 2.5 hitting."
+[1] "Feyenoord Barstool Odds are: 53.19"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "AZ Barstool Odds are: 25.64"
+[1] "Feyenoord Adjusted Barstool Odds are: 49.892"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.058"
+[1] "AZ Adjusted Barstool Odds are: 24.05"
+[1] "Feyenoord's Barstool Odds to cover the -0.5 spread are: 52.08"
+[1] "AZ's Barstool Odds to cover the 0.5 spread are: 52.36"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82% chance of the over 2.5 hitting. The line for the under is 2.16, which is a 46.3% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-02-18 12:00:00
+        bet           date_time
+1 Feyenoord 2023-02-18 12:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                                 |team      | expected_attg| expected_gs|bet |
 |:----------------------------------------|:---------|-------------:|-----------:|:---|
-|/players/408986/timon-wellenreuther      |Feyenoord |      0.000000|   0.1428571|    |
-|/players/935622/marcus-holmgren-pedersen |Feyenoord |      0.022700|   0.0909091|    |
-|/players/881640/lutsharel-geertruida     |Feyenoord |      0.064125|   0.1176471|    |
-|/players/727897/david-hancko             |Feyenoord |      0.062525|   0.1333333|    |
-|/players/1393669/quilindschy-hartman     |Feyenoord |      0.019875|   0.0769231|    |
-|/players/970243/mats-wieffer             |Feyenoord |      0.034950|   0.1538462|    |
-|/players/935409/orkun-kkcü               |Feyenoord |      0.119975|   0.1666667|    |
-|/players/760743/javairo-dilrosun         |Feyenoord |      0.228700|   0.3333333|    |
-|/players/970563/quinten-timber           |Feyenoord |      0.161325|   0.1851852|    |
-|/players/690188/oussama-idrissi          |Feyenoord |      0.297800|   0.4347826|    |
-|/players/954092/santiago-gimenez         |Feyenoord |      0.385600|   0.4347826|    |
-|/players/637749/evangelos-pavlidis       |AZ        |      0.260950|   0.3125000|    |
-|/players/737061/jesper-karlsson          |AZ        |      0.191175|   0.2631579|    |
-|/players/1035643/sven-mijnans            |AZ        |      0.080175|   0.1666667|    |
-|/players/689680/jens-odgaard             |AZ        |      0.168525|   0.3225806|    |
-|/players/868344/tijani-reijnders         |AZ        |      0.070625|   0.1333333|    |
-|/players/209384/jordy-clasie             |AZ        |      0.009300|   0.0769231|    |
-|/players/1195281/milos-kerkez            |AZ        |      0.081375|   0.0476190|    |
-|/players/660132/pantelis-hatzidiakos     |AZ        |      0.002125|   0.0588235|    |
-|/players/1307387/wouter-goes             |AZ        |      0.002175|   0.0400000|    |
-|/players/924610/yukinari-sugawara        |AZ        |      0.030250|   0.1666667|    |
+|/players/408986/timon-wellenreuther      |Feyenoord |      0.000000|   0.0952381|    |
+|/players/935622/marcus-holmgren-pedersen |Feyenoord |      0.022775|   0.0833333|    |
+|/players/881640/lutsharel-geertruida     |Feyenoord |      0.063350|   0.1176471|    |
+|/players/727897/david-hancko             |Feyenoord |      0.062650|   0.1333333|    |
+|/players/1393669/quilindschy-hartman     |Feyenoord |      0.019550|   0.0769231|    |
+|/players/970243/mats-wieffer             |Feyenoord |      0.094875|   0.1538462|    |
+|/players/970563/quinten-timber           |Feyenoord |      0.066575|   0.1818182|    |
+|/players/466890/alireza-jahanbakhsh      |Feyenoord |      0.256000|   0.3389831|    |
+|/players/760743/javairo-dilrosun         |Feyenoord |      0.185000|   0.3333333|    |
+|/players/690188/oussama-idrissi          |Feyenoord |      0.254125|   0.4347826|    |
+|/players/954092/santiago-gimenez         |Feyenoord |      0.387375|   0.4255319|    |
+|/players/637749/evangelos-pavlidis       |AZ        |      0.261075|   0.3389831|    |
+|/players/737061/jesper-karlsson          |AZ        |      0.189600|   0.2857143|    |
+|/players/1035643/sven-mijnans            |AZ        |      0.080525|   0.1754386|    |
+|/players/689680/jens-odgaard             |AZ        |      0.164975|   0.3448276|    |
+|/players/209384/jordy-clasie             |AZ        |      0.007900|   0.0833333|    |
+|/players/868344/tijani-reijnders         |AZ        |      0.068300|   0.1428571|    |
+|/players/1195281/milos-kerkez            |AZ        |      0.078800|   0.0526316|    |
+|/players/1307387/wouter-goes             |AZ        |      0.002125|   0.0434783|    |
+|/players/660132/pantelis-hatzidiakos     |AZ        |      0.002250|   0.0625000|    |
+|/players/924610/yukinari-sugawara        |AZ        |      0.029575|   0.1724138|    |
 |/players/185644/mathew-ryan              |AZ        |      0.000000|   0.3508772|    |
-|/players/466890/alireza-jahanbakhsh      |Feyenoord |      0.053400|   0.3389831|    |
-|/players/931862/danilo                   |Feyenoord |      0.143300|   0.4444444|    |
-|/players/823209/marcos-lopez             |Feyenoord |      0.011750|   0.1000000|    |
-|/players/1265963/igor-paixao             |Feyenoord |      0.025625|   0.2631579|    |
-|/players/1168520/mayckel-lahdo           |AZ        |      0.037675|   0.1818182|    |
-|/players/873560/mees-de-wit              |AZ        |      0.009325|   0.0833333|    |
-|/players/467479/riechedly-bazoer         |AZ        |      0.011425|   0.1176471|    |
-|/players/1125999/yusuf-barasi            |AZ        |      0.013575|   0.1818182|    |
+|/players/931862/danilo                   |Feyenoord |      0.183125|   0.0000000|*   |
+|/players/823209/marcos-lopez             |Feyenoord |      0.012125|   0.0000000|    |
+|/players/1265963/igor-paixao             |Feyenoord |      0.036925|   0.0000000|    |
+|/players/972098/ezequiel-bullaude        |Feyenoord |      0.000000|   0.0000000|    |
+|/players/1168520/mayckel-lahdo           |AZ        |      0.039800|   0.0000000|    |
+|/players/830601/djordje-mihailovic       |AZ        |      0.041350|   0.0000000|    |
+|/players/873560/mees-de-wit              |AZ        |      0.009650|   0.0000000|    |
+|/players/1125999/yusuf-barasi            |AZ        |      0.014275|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Feyenoord:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                                 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
@@ -95,16 +95,16 @@ ____________________________________________________
 |/players/881640/lutsharel-geertruida     |           1|         58.6854|           1.7328|        0.1512|         0.5384|      0.0928|        0.0763|      0.0754| 90.0000|
 |/players/727897/david-hancko             |           1|         70.2394|           1.8397|        0.2770|         1.0432|      0.0875|        0.0747|      0.0506| 90.0000|
 |/players/1393669/quilindschy-hartman     |           1|         55.4457|           1.9983|        0.2457|         0.5820|      0.0210|        0.0241|      0.0937| 90.0000|
-|/players/970243/mats-wieffer             |           2|         48.9372|           3.1010|        0.0741|         0.7364|      0.0526|        0.0422|      0.0820| 90.0000|
-|/players/935409/orkun-kkcü               |           2|         68.3258|           1.4765|        0.6300|         1.6128|      0.1293|        0.1539|      0.1561| 90.0000|
-|/players/760743/javairo-dilrosun         |           3|         26.7679|           0.8259|        0.6449|         2.0064|      0.2052|        0.2933|      0.1681| 75.8125|
-|/players/970563/quinten-timber           |           3|         35.0751|           2.1474|        0.7370|         1.5504|      0.2581|        0.2071|      0.1192| 79.2188|
-|/players/690188/oussama-idrissi          |           3|         33.9391|           0.8590|        0.9213|         2.3712|      0.2643|        0.4096|      0.2814| 75.3125|
+|/players/970243/mats-wieffer             |           2|         69.3981|           2.6373|        0.1669|         1.1727|      0.1142|        0.1187|      0.1662| 90.0000|
+|/players/970563/quinten-timber           |           2|         47.8650|           1.9402|        0.5372|         1.1765|      0.0678|        0.0774|      0.0719| 90.0000|
+|/players/466890/alireza-jahanbakhsh      |           3|         36.1183|           1.9699|        1.2319|         2.7980|      0.3312|        0.3417|      0.1189| 75.6667|
+|/players/760743/javairo-dilrosun         |           3|         25.6165|           0.8657|        0.4280|         1.4037|      0.1683|        0.2371|      0.1663| 75.8125|
+|/players/690188/oussama-idrissi          |           3|         32.4793|           0.9003|        0.6114|         1.6589|      0.2167|        0.3312|      0.2782| 75.3125|
 |/players/954092/santiago-gimenez         |           5|         17.4940|           0.5261|        1.0510|         2.4443|      0.4332|        0.5602|      0.0933| 71.5082|
-|/players/466890/alireza-jahanbakhsh      |          NA|              NA|               NA|        0.1819|         0.7275|      0.0883|        0.0648|      0.0846| 18.4918|
-|/players/931862/danilo                   |          NA|              NA|               NA|        0.3922|         0.9245|      0.1513|        0.1802|      0.0182| 14.6875|
-|/players/823209/marcos-lopez             |          NA|              NA|               NA|        0.0420|         0.1471|      0.0138|        0.0130|      0.0038| 14.1875|
-|/players/1265963/igor-paixao             |          NA|              NA|               NA|        0.1506|         0.2636|      0.0478|        0.0317|      0.0347| 10.7812|
+|/players/931862/danilo                   |           0|              NA|               NA|        0.5859|         1.3809|      0.2011|        0.2372|      0.0272| 18.4918|
+|/players/823209/marcos-lopez             |           0|              NA|               NA|        0.0516|         0.1807|      0.0151|        0.0140|      0.0047| 14.6875|
+|/players/1265963/igor-paixao             |           0|              NA|               NA|        0.2376|         0.4158|      0.0671|        0.0441|      0.0547| 14.3333|
+|/players/972098/ezequiel-bullaude        |           0|              NA|               NA|        0.1746|         0.3492|      0.0184|        0.0000|      0.0306| 14.1875|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,7 +113,7 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about AZ:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
@@ -122,17 +122,17 @@ ____________________________________________________
 |/players/737061/jesper-karlsson      |           3|         32.1741|           0.6420|        0.5979|         1.5299|      0.1894|        0.2178|      0.1593| 90.0000|
 |/players/1035643/sven-mijnans        |           3|         30.9213|           1.7567|        0.1946|         0.8356|      0.0897|        0.0871|      0.0764| 78.4694|
 |/players/689680/jens-odgaard         |           3|         25.4253|           1.5140|        0.7468|         1.6962|      0.1697|        0.1948|      0.1006| 90.0000|
-|/players/868344/tijani-reijnders     |           2|         44.0577|           1.6652|        0.3423|         1.0431|      0.0831|        0.0714|      0.0691| 90.0000|
 |/players/209384/jordy-clasie         |           2|         48.8903|           3.1272|        0.0425|         0.3394|      0.0124|        0.0102|      0.0449| 90.0000|
+|/players/868344/tijani-reijnders     |           2|         44.0577|           1.6652|        0.3423|         1.0431|      0.0831|        0.0714|      0.0691| 90.0000|
 |/players/1195281/milos-kerkez        |           1|         27.2269|           1.7106|        0.1487|         0.4991|      0.0535|        0.0859|      0.0636| 79.3243|
-|/players/660132/pantelis-hatzidiakos |           1|         47.6066|           1.2056|        0.0233|         0.2218|      0.0228|        0.0021|      0.0162| 82.6190|
 |/players/1307387/wouter-goes         |           1|         53.5299|           1.5070|        0.1096|         0.1799|      0.0248|        0.0021|      0.0097| 90.0000|
+|/players/660132/pantelis-hatzidiakos |           1|         47.6066|           1.2056|        0.0233|         0.2218|      0.0228|        0.0021|      0.0162| 82.6190|
 |/players/924610/yukinari-sugawara    |           1|         36.9146|           2.2863|        0.1205|         0.5180|      0.0299|        0.0319|      0.0556| 90.0000|
 |/players/185644/mathew-ryan          |           0|         31.8815|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1168520/mayckel-lahdo       |          NA|              NA|               NA|        0.1089|         0.2801|      0.0415|        0.0435|      0.0081| 11.5306|
-|/players/873560/mees-de-wit          |          NA|              NA|               NA|        0.0275|         0.1928|      0.0142|        0.0114|      0.0121| 10.6757|
-|/players/467479/riechedly-bazoer     |          NA|              NA|               NA|        0.0933|         0.2566|      0.0143|        0.0115|      0.0044|  8.8762|
-|/players/1125999/yusuf-barasi        |          NA|              NA|               NA|        0.0975|         0.2784|      0.0609|        0.0137|      0.0169|  7.3810|
+|/players/1168520/mayckel-lahdo       |           0|              NA|               NA|        0.1292|         0.3323|      0.0438|        0.0455|      0.0096| 11.5306|
+|/players/830601/djordje-mihailovic   |           0|              NA|               NA|        0.0898|         0.2096|      0.0306|        0.0458|      0.0530| 10.6757|
+|/players/873560/mees-de-wit          |           0|              NA|               NA|        0.0272|         0.1902|      0.0125|        0.0099|      0.0120|  8.8762|
+|/players/1125999/yusuf-barasi        |           0|              NA|               NA|        0.1156|         0.3303|      0.0642|        0.0143|      0.0201|  7.3810|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
