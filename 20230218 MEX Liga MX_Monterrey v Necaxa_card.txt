@@ -1,0 +1,142 @@
+[1] "Updated at 2023-02-18 14:37:14.940"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Monterrey 1.6899 to Necaxa 0.8954"
+[1] "Total: 2.5853"
+[1] "Monterrey %: 56.75"
+[1] "Draw %: 23.84"
+[1] "Necaxa %: 19.41"
+[1] "--XG Model--"
+[1] "Score: Monterrey 1.8734 to Necaxa 0.6432"
+[1] "Total: 2.5166"
+[1] "Monterrey %: 67.39"
+[1] "Draw %: 21.09"
+[1] "Necaxa %: 11.52"
+[1] "--XGoT Model--"
+[1] "Score: Monterrey 1.8821 to Necaxa 0.5954"
+[1] "Total: 2.4775"
+[1] "Monterrey %: 68.74"
+[1] "Draw %: 20.99"
+[1] "Necaxa %: 10.27"
+[1] "--XA Model--"
+[1] "Score: Monterrey 1.7226 to Necaxa 0.9892"
+[1] "Total: 2.7118"
+[1] "Monterrey %: 54.98"
+[1] "Draw %: 23.89"
+[1] "Necaxa %: 21.13"
+[1] "--Mean 4 Models--"
+[1] "Monterrey has a mean win % of 61.97%; a min win % of 54.98%; a max win % of 68.74%."
+[1] "Draw has a mean win % of 22.45%; a min win % of 20.99%; a max win % of 23.89%."
+[1] "Necaxa has a mean win % of 15.58%; a min win % of 10.27%; a max win of % 21.13%."
+[1] "Monterrey has a mean win of the Double Chance of 84.42%; a min win % of 78.87%, a max win % of 89.73%."
+[1] "Necaxa has a mean win of the Double Chance of 38.03%; a min win % of 31.26%, a max win % of 45.02%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.81%; max % is 49.89 and min % is 44.68%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.19%; max % is 55.32 and min % is 50.11%."
+[1] "--Sportsbook Odds--"
+[1] "Monterrey Barstool Odds are: 76.92"
+[1] "The Barstool Odds of a Draw are: 20"
+[1] "Necaxa Barstool Odds are: 11.11"
+[1] "Monterrey Adjusted Barstool Odds are: 71.202"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.513"
+[1] "Necaxa Adjusted Barstool Odds are: 10.284"
+[1] "Monterrey's Barstool Odds to cover the -0.5 spread are: 77.52"
+[1] "Necaxa's Barstool Odds to cover the 0.5 spread are: 28.17"
+[1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                     bet           date_time
+1  draw Monterrey/Necaxa 2023-02-18 15:06:00
+2 under Monterrey/Necaxa 2023-02-18 15:06:00
+3             Necaxa ATS 2023-02-18 15:06:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team      | expected_attg| expected_gs|bet |
+|:------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/184662/esteban-andrada      |Monterrey |      0.000000|   0.3846154|    |
+|/players/1128493/victor-guzman       |Monterrey |      0.024750|   0.3571429|    |
+|/players/206767/john-medina          |Monterrey |      0.051400|   0.2272727|    |
+|/players/478454/sebastian-vegas      |Monterrey |      0.047425|   0.1538462|    |
+|/players/597976/jesus-gallardo       |Monterrey |      0.099625|   0.1960784|    |
+|/players/159465/celso-ortiz          |Monterrey |      0.011425|   0.0714286|    |
+|/players/292903/arturo-gonzalez      |Monterrey |      0.183325|   0.3703704|    |
+|/players/921174/luis-romo            |Monterrey |      0.056000|   0.1754386|    |
+|/players/190511/rogelio-funes-mori   |Monterrey |      0.394600|   0.5555556|    |
+|/players/743536/german-berterame     |Monterrey |      0.325600|   0.5833333|    |
+|/players/401095/rodrigo-aguirre      |Monterrey |      0.245250|   0.4081633|    |
+|/players/1256494/maximiliano-silvera |Necaxa    |      0.065250|   0.2702703|    |
+|/players/976444/facundo-batista      |Necaxa    |      0.248475|   0.2631579|    |
+|/players/477493/edgar-mndez          |Necaxa    |      0.106550|   0.1666667|    |
+|/players/952324/agustin-oliveros     |Necaxa    |      0.029925|   0.0588235|    |
+|/players/1211623/vicente-poggi       |Necaxa    |      0.062775|   0.0714286|    |
+|/players/684129/bryan-garnica        |Necaxa    |      0.001375|   0.1333333|    |
+|/players/671970/alexis-pena          |Necaxa    |      0.035150|   0.0312500|    |
+|/players/624060/juan-pablo-segovia   |Necaxa    |      0.034375|   0.0526316|    |
+|/players/310528/jose-van-rankin      |Necaxa    |      0.013150|   0.0312500|    |
+|/players/766570/jose-esquivel        |Necaxa    |      0.015625|   0.0454545|    |
+|/players/188123/hugo-gonzalez        |Necaxa    |      0.000000|   0.0434783|    |
+|/players/737290/jordi-cortizo        |Monterrey |      0.008825|   0.0000000|    |
+|/players/469616/maximiliano-meza     |Monterrey |      0.015075|   0.0000000|    |
+|/players/564634/erick-aguirre        |Monterrey |      0.002450|   0.0000000|    |
+|/players/610473/omar-govea           |Monterrey |      0.000000|   0.0000000|    |
+|/players/1306869/heriberto-jurado    |Necaxa    |      0.000975|   0.0000000|    |
+|/players/614519/fernando-madrigal    |Necaxa    |      0.015575|   0.0000000|    |
+|/players/1023022/ricardo-monreal     |Necaxa    |      0.026225|   0.0000000|    |
+|/players/1327189/diego-gomez         |Necaxa    |      0.023300|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Monterrey:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/184662/esteban-andrada    |           0|         24.9085|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1128493/victor-guzman     |           1|         49.3847|           1.2841|        0.0304|         0.1480|      0.0246|        0.0264|      0.0142| 90.0000|
+|/players/206767/john-medina        |           1|         53.3727|           1.5213|        0.1148|         0.5308|      0.0490|        0.0601|      0.1039| 90.0000|
+|/players/478454/sebastian-vegas    |           1|         55.4784|           1.5095|        0.2384|         0.8328|      0.0705|        0.0539|      0.0486| 90.0000|
+|/players/597976/jesus-gallardo     |           1|         55.8793|           2.1170|        0.3340|         1.2213|      0.1388|        0.1129|      0.1586| 90.0000|
+|/players/159465/celso-ortiz        |           3|         42.7026|           1.8354|        0.0555|         0.4934|      0.0285|        0.0107|      0.0420| 80.4918|
+|/players/292903/arturo-gonzalez    |           3|         32.6455|           1.2121|        0.7640|         1.8772|      0.2037|        0.2265|      0.1574| 74.9355|
+|/players/921174/luis-romo          |           3|         52.3306|           1.7899|        0.4098|         1.4024|      0.0838|        0.0665|      0.1399| 90.0000|
+|/players/190511/rogelio-funes-mori |           5|         23.7421|           0.4553|        1.1699|         2.7270|      0.4911|        0.5462|      0.1267| 84.3696|
+|/players/743536/german-berterame   |           5|         26.5643|           1.3510|        1.0812|         2.8114|      0.4281|        0.4114|      0.1167| 90.0000|
+|/players/401095/rodrigo-aguirre    |           5|         20.1086|           1.0504|        0.9336|         2.6078|      0.2894|        0.3117|      0.1239| 80.9149|
+|/players/737290/jordi-cortizo      |           0|              NA|               NA|        0.1171|         0.4390|      0.0130|        0.0093|      0.0345| 15.0645|
+|/players/469616/maximiliano-meza   |           0|              NA|               NA|        0.1129|         0.4066|      0.0175|        0.0177|      0.0561|  9.5082|
+|/players/564634/erick-aguirre      |           0|              NA|               NA|        0.2297|         0.2297|      0.0054|        0.0030|      0.0254|  9.0851|
+|/players/610473/omar-govea         |           0|              NA|               NA|        0.0000|         0.1110|      0.0043|        0.0000|      0.0194|  5.6304|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Victor Vucetich |        57337|      6.395618|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Necaxa:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1256494/maximiliano-silvera |           5|         18.2865|           0.5477|        0.2213|         0.8444|      0.0848|        0.0681|      0.0574| 69.6500|
+|/players/976444/facundo-batista      |           5|         18.2632|           1.4460|        0.9523|         2.0198|      0.2091|        0.2770|      0.0534| 90.0000|
+|/players/477493/edgar-mndez          |           5|         17.9758|           0.9413|        0.4150|         1.2179|      0.1185|        0.1103|      0.0238| 74.3750|
+|/players/952324/agustin-oliveros     |           3|         32.4078|           1.3090|        0.1145|         0.5302|      0.0368|        0.0289|      0.0268| 90.0000|
+|/players/1211623/vicente-poggi       |           3|         25.5664|           3.2547|        0.1808|         0.9663|      0.0380|        0.0636|      0.0349| 70.6667|
+|/players/684129/bryan-garnica        |           3|         14.9588|           1.6708|        0.1479|         0.3953|      0.0311|        0.0018|      0.0926| 70.6364|
+|/players/671970/alexis-pena          |           3|         41.3381|           1.5922|        0.1274|         0.2951|      0.0283|        0.0343|      0.0243| 90.0000|
+|/players/624060/juan-pablo-segovia   |           1|         37.9354|           0.6676|        0.1325|         0.4239|      0.0683|        0.0335|      0.0094| 90.0000|
+|/players/310528/jose-van-rankin      |           1|         36.9042|           1.4965|        0.0789|         0.3063|      0.0341|        0.0145|      0.0224| 90.0000|
+|/players/766570/jose-esquivel        |           1|         29.7242|           2.1303|        0.0789|         0.3696|      0.0151|        0.0145|      0.0261| 90.0000|
+|/players/188123/hugo-gonzalez        |           0|         24.6308|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1306869/heriberto-jurado    |           0|              NA|               NA|        0.0630|         0.2521|      0.0153|        0.0008|      0.0649| 20.3500|
+|/players/614519/fernando-madrigal    |           0|              NA|               NA|        0.2931|         0.7327|      0.0372|        0.0160|      0.0987| 19.3636|
+|/players/1023022/ricardo-monreal     |           0|              NA|               NA|        0.2335|         0.9340|      0.0306|        0.0254|      0.0864| 19.3333|
+|/players/1327189/diego-gomez         |           0|              NA|               NA|        0.1011|         0.5055|      0.0142|        0.0253|      0.0081| 15.6250|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Andres Lillini |        66115|     -4.511414|4-4-2     |
