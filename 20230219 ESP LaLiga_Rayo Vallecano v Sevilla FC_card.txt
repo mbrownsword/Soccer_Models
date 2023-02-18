@@ -1,0 +1,148 @@
+[1] "Updated at 2023-02-18 10:20:19.603"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Rayo Vallecano 1.2228 to Sevilla FC 1.2678"
+[1] "Total: 2.4906"
+[1] "Rayo Vallecano %: 35.65"
+[1] "Draw %: 27.52"
+[1] "Sevilla FC %: 36.83"
+[1] "--XG Model--"
+[1] "Score: Rayo Vallecano 1.3442 to Sevilla FC 1.3679"
+[1] "Total: 2.7121"
+[1] "Rayo Vallecano %: 37.27"
+[1] "Draw %: 25.74"
+[1] "Sevilla FC %: 36.99"
+[1] "--XGoT Model--"
+[1] "Score: Rayo Vallecano 1.302 to Sevilla FC 1.3322"
+[1] "Total: 2.6342"
+[1] "Rayo Vallecano %: 36.99"
+[1] "Draw %: 26.42"
+[1] "Sevilla FC %: 36.59"
+[1] "--XA Model--"
+[1] "Score: Rayo Vallecano 1.277 to Sevilla FC 1.0333"
+[1] "Total: 2.3103"
+[1] "Rayo Vallecano %: 43.32"
+[1] "Draw %: 27.48"
+[1] "Sevilla FC %: 29.2"
+[1] "--Mean 4 Models--"
+[1] "Rayo Vallecano has a mean win % of 38.31%; a min win % of 35.65%; a max win % of 43.32%."
+[1] "Draw has a mean win % of 26.79%; a min win % of 25.74%; a max win % of 27.52%."
+[1] "Sevilla FC has a mean win % of 34.9%; a min win % of 29.2%; a max win of % 36.99%."
+[1] "Rayo Vallecano has a mean win of the Double Chance of 65.1%; a min win % of 63.01%, a max win % of 70.8%."
+[1] "Sevilla FC has a mean win of the Double Chance of 61.69%; a min win % of 56.68%, a max win % of 64.35%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.63%; max % is 50.06 and min % is 39.89%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.37%; max % is 60.11 and min % is 49.94%."
+[1] "--Sportsbook Odds--"
+[1] "Rayo Vallecano Barstool Odds are: 41.67"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Sevilla FC Barstool Odds are: 32.26"
+[1] "Rayo Vallecano Adjusted Barstool Odds are: 39.43"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.044"
+[1] "Sevilla FC Adjusted Barstool Odds are: 30.526"
+[1] "Rayo Vallecano's Barstool Odds to cover the -0.25 spread are: 48.31"
+[1] "Sevilla FC's Barstool Odds to cover the 0.25 spread are: 57.14"
+[1] "Barstool's line for the total is 2.5 at 2.4, which is a 41.67% chance of the over 2.5 hitting. The line for the under is 1.58, which is a 63.29% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 07:15:00
+
+
+|player            |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:-----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Youssef En-Nesyri |SEV  |      8| 1.51|          NA|  0.7908|   0.1285|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
+|Santi Comesana    |RAY  |     41| 1.87|          NA|  0.7982|   0.2634|passes    |ESP Spain |      0.5348|         NA|        NA|         NA|       NA|
+|Santi Comesana    |RAY  |     45| 2.33|          NA|  0.5938|   0.1646|passes    |ESP Spain |      0.4292|         NA|        NA|         NA|       NA|
+|Santi Comesana    |RAY  |     37| 1.53|          NA|  0.9268|   0.2732|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team           | expected_attg| expected_gs|bet |
+|:----------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/254241/stole-dimitrievski |Rayo Vallecano |      0.000000|   0.0555556|    |
+|/players/264885/ivn-balliu         |Rayo Vallecano |      0.014100|   0.0333333|    |
+|/players/184521/florian-lejeune    |Rayo Vallecano |      0.050225|   0.1960784|    |
+|/players/814663/alejandro-catena   |Rayo Vallecano |      0.040800|   0.0952381|    |
+|/players/750028/francisco-garcia   |Rayo Vallecano |      0.026050|   0.1052632|    |
+|/players/671865/santi-comesana     |Rayo Vallecano |      0.058150|   0.1250000|    |
+|/players/956622/oscar-valentin     |Rayo Vallecano |      0.058700|   0.0833333|    |
+|/players/638010/isi-palazon        |Rayo Vallecano |      0.175450|   0.2702703|    |
+|/players/21414/oscar-trejo         |Rayo Vallecano |      0.188800|   0.2857143|    |
+|/players/474658/lvaro-garcia       |Rayo Vallecano |      0.155350|   0.2325581|    |
+|/players/980422/sergio-camello     |Rayo Vallecano |      0.261250|   0.3225806|    |
+|/players/970692/bryan-gil          |Sevilla FC     |      0.094775|   0.1754386|    |
+|/players/788555/youssef-en-nesyri  |Sevilla FC     |      0.330325|   0.3030303|    |
+|/players/280276/suso               |Sevilla FC     |      0.099550|   0.1960784|    |
+|/players/316771/oliver-torres      |Sevilla FC     |      0.034200|   0.2000000|    |
+|/players/25773/ivan-rakitic        |Sevilla FC     |      0.113925|   0.1666667|    |
+|/players/844544/pape-gueye         |Sevilla FC     |      0.030425|   0.0769231|    |
+|/players/561187/marcos-acuna       |Sevilla FC     |      0.012275|   0.0714286|    |
+|/players/1070617/tanguy-nianzou    |Sevilla FC     |      0.031000|   0.1428571|    |
+|/players/101103/fernando           |Sevilla FC     |      0.014925|   0.0909091|    |
+|/players/687008/gonzalo-montiel    |Sevilla FC     |      0.057125|   0.0555556|    |
+|/players/340020/yassine-bounou     |Sevilla FC     |      0.000000|   0.1333333|    |
+|/players/571615/unai-lopez         |Rayo Vallecano |      0.027600|   0.1538462|    |
+|/players/872396/path-ciss          |Rayo Vallecano |      0.001900|   0.1694915|    |
+|/players/22543/radamel-falcao      |Rayo Vallecano |      0.049000|   0.4761905|    |
+|/players/595138/salvi-snchez       |Rayo Vallecano |      0.013850|   0.1724138|    |
+|/players/174850/erik-lamela        |Sevilla FC     |      0.081950|   0.2222222|    |
+|/players/640492/rafa-mir           |Sevilla FC     |      0.130125|   0.3030303|    |
+|/players/357080/lucas-ocampos      |Sevilla FC     |      0.020800|   0.2380952|    |
+|/players/428672/alex-telles        |Sevilla FC     |      0.001475|   0.0370370|    |
+____________________________________________________
+
+[1] "Facts about Rayo Vallecano:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/254241/stole-dimitrievski |           0|         24.3125|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/264885/ivn-balliu         |           1|         41.6799|           1.4736|        0.0523|         0.2588|      0.0263|        0.0143|      0.1242| 90.0000|
+|/players/184521/florian-lejeune    |           1|         42.9686|           1.5012|        0.1770|         0.6676|      0.0820|        0.0574|      0.0125| 90.0000|
+|/players/814663/alejandro-catena   |           1|         51.8372|           1.1580|        0.1420|         0.5187|      0.0476|        0.0503|      0.0195| 90.0000|
+|/players/750028/francisco-garcia   |           1|         37.1452|           1.8994|        0.1708|         0.5698|      0.0371|        0.0293|      0.0613| 90.0000|
+|/players/671865/santi-comesana     |           2|         47.2895|           2.0654|        0.3975|         1.2143|      0.1197|        0.0700|      0.0913| 90.0000|
+|/players/956622/oscar-valentin     |           2|         40.6522|           2.1255|        0.1299|         0.6137|      0.0357|        0.0700|      0.0572| 82.0141|
+|/players/638010/isi-palazon        |           3|         24.0787|           1.0994|        0.7483|         2.1631|      0.2016|        0.2096|      0.0949| 78.6629|
+|/players/21414/oscar-trejo         |           3|         32.9091|           1.3289|        0.3711|         0.9925|      0.1828|        0.2289|      0.1336| 78.1644|
+|/players/474658/lvaro-garcia       |           3|         20.6393|           1.0993|        0.7086|         1.8072|      0.2035|        0.1897|      0.1660| 90.0000|
+|/players/980422/sergio-camello     |           5|         16.5480|           0.5586|        0.8254|         2.1119|      0.3436|        0.3438|      0.0728| 81.6531|
+|/players/571615/unai-lopez         |          NA|              NA|               NA|        0.1147|         0.3185|      0.0194|        0.0305|      0.0256| 11.8356|
+|/players/872396/path-ciss          |          NA|              NA|               NA|        0.0785|         0.2668|      0.0136|        0.0025|      0.0047| 11.3371|
+|/players/22543/radamel-falcao      |          NA|              NA|               NA|        0.1264|         0.3791|      0.0836|        0.0588|      0.0060|  8.3469|
+|/players/595138/salvi-snchez       |          NA|              NA|               NA|        0.0293|         0.0879|      0.0165|        0.0160|      0.0129|  7.9859|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Andoni Iraola |        56238|     0.2836667|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Sevilla FC:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/970692/bryan-gil         |           5|         22.1416|           1.2329|        0.4552|         1.0264|      0.1128|        0.1212|      0.0565| 71.6154|
+|/players/788555/youssef-en-nesyri |           5|         11.2660|           0.8452|        0.9758|         2.5459|      0.5280|        0.4803|      0.0386| 90.0000|
+|/players/280276/suso              |           5|         29.3459|           0.7251|        0.4790|         1.3185|      0.0681|        0.1283|      0.1615| 70.7500|
+|/players/316771/oliver-torres     |           3|         34.2844|           1.7281|        0.1948|         0.5367|      0.0382|        0.0415|      0.0870| 72.4746|
+|/players/25773/ivan-rakitic       |           3|         44.2799|           1.3655|        0.3067|         1.0742|      0.1318|        0.1443|      0.0843| 77.3021|
+|/players/844544/pape-gueye        |           3|         39.2417|           1.9430|        0.2499|         0.9183|      0.0583|        0.0392|      0.0343| 90.0000|
+|/players/561187/marcos-acuna      |           1|         49.1168|           2.1647|        0.1144|         0.5460|      0.0358|        0.0165|      0.1133| 90.0000|
+|/players/1070617/tanguy-nianzou   |           1|         53.6912|           1.1519|        0.1654|         0.5433|      0.0542|        0.0376|      0.0124| 90.0000|
+|/players/101103/fernando          |           1|         44.9316|           1.6370|        0.1144|         0.2978|      0.0143|        0.0165|      0.0059| 90.0000|
+|/players/687008/gonzalo-montiel   |           1|         40.4739|           1.4549|        0.1151|         0.3646|      0.0621|        0.0704|      0.0717| 90.0000|
+|/players/340020/yassine-bounou    |           0|         30.1106|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/174850/erik-lamela       |          NA|              NA|               NA|        0.2811|         0.5866|      0.0723|        0.1004|      0.0430| 19.2500|
+|/players/640492/rafa-mir          |          NA|              NA|               NA|        0.4790|         1.1376|      0.1817|        0.1672|      0.0154| 18.3846|
+|/players/357080/lucas-ocampos     |          NA|              NA|               NA|        0.2007|         0.7023|      0.0637|        0.0260|      0.0202| 17.5254|
+|/players/428672/alex-telles       |          NA|              NA|               NA|        0.0253|         0.0760|      0.0054|        0.0017|      0.0136| 12.6979|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Jorge Sampaoli |        68803|      5.303304|4-2-3-1   |
