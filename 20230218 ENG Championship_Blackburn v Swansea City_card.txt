@@ -1,47 +1,47 @@
-[1] "Updated at 2023-02-17 17:08:33.399"
+[1] "Updated at 2023-02-18 06:55:31.095"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Blackburn 1.1063 to Swansea City 1.2208"
-[1] "Total: 2.3271"
-[1] "Blackburn %: 32.73"
-[1] "Draw %: 28.52"
-[1] "Swansea City %: 38.75"
+[1] "Score: Blackburn 1.1405 to Swansea City 1.3234"
+[1] "Total: 2.4639"
+[1] "Blackburn %: 32.3"
+[1] "Draw %: 27.55"
+[1] "Swansea City %: 40.15"
 [1] "--XG Model--"
-[1] "Score: Blackburn 1.158 to Swansea City 1.2843"
-[1] "Total: 2.4423"
-[1] "Blackburn %: 33.5"
-[1] "Draw %: 27.81"
-[1] "Swansea City %: 38.69"
+[1] "Score: Blackburn 1.2209 to Swansea City 1.3622"
+[1] "Total: 2.5831"
+[1] "Blackburn %: 33.89"
+[1] "Draw %: 26.76"
+[1] "Swansea City %: 39.35"
 [1] "--XGoT Model--"
-[1] "Score: Blackburn 1.1883 to Swansea City 1.313"
-[1] "Total: 2.5013"
-[1] "Blackburn %: 33.43"
-[1] "Draw %: 27.26"
-[1] "Swansea City %: 39.31"
+[1] "Score: Blackburn 1.2431 to Swansea City 1.4359"
+[1] "Total: 2.679"
+[1] "Blackburn %: 33.12"
+[1] "Draw %: 26.03"
+[1] "Swansea City %: 40.85"
 [1] "--XA Model--"
-[1] "Score: Blackburn 1.1054 to Swansea City 1.17"
-[1] "Total: 2.2754"
-[1] "Blackburn %: 33.95"
-[1] "Draw %: 28.79"
-[1] "Swansea City %: 37.26"
+[1] "Score: Blackburn 1.1445 to Swansea City 1.1408"
+[1] "Total: 2.2853"
+[1] "Blackburn %: 35.57"
+[1] "Draw %: 29.18"
+[1] "Swansea City %: 35.25"
 [1] "--Mean 4 Models--"
-[1] "Blackburn has a mean win % of 33.4%; a min win % of 32.73%; a max win % of 33.95%."
-[1] "Draw has a mean win % of 28.1%; a min win % of 27.26%; a max win % of 28.79%."
-[1] "Swansea City has a mean win % of 38.5%; a min win % of 37.26%; a max win of % 39.31%."
-[1] "Blackburn has a mean win of the Double Chance of 61.5%; a min win % of 60.69%, a max win % of 62.74%."
-[1] "Swansea City has a mean win of the Double Chance of 66.6%; a min win % of 66.05%, a max win % of 67.27%."
-[1] "The mean likelihood that there are more than 2.5 goals is 42.25%; max % is 44.89 and min % is 39.62%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 57.75%; max % is 60.38 and min % is 55.11%."
+[1] "Blackburn has a mean win % of 33.72%; a min win % of 32.3%; a max win % of 35.57%."
+[1] "Draw has a mean win % of 27.38%; a min win % of 26.03%; a max win % of 29.18%."
+[1] "Swansea City has a mean win % of 38.9%; a min win % of 35.25%; a max win of % 40.85%."
+[1] "Blackburn has a mean win of the Double Chance of 61.1%; a min win % of 59.15%, a max win % of 64.75%."
+[1] "Swansea City has a mean win of the Double Chance of 66.28%; a min win % of 64.43%, a max win % of 67.7%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.92%; max % is 49.21 and min % is 39.44%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.09%; max % is 60.56 and min % is 50.79%."
 [1] "--Sportsbook Odds--"
-[1] "Blackburn Barstool Odds are: 39.22"
-[1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Swansea City Barstool Odds are: 38.46"
-[1] "Blackburn Adjusted Barstool Odds are: 36.913"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.889"
-[1] "Swansea City Adjusted Barstool Odds are: 36.198"
-[1] "Blackburn's Barstool Odds to cover the  spread are: NA"
-[1] "Swansea City's Barstool Odds to cover the  spread are: NA"
+[1] "Blackburn Barstool Odds are: 38.1"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Swansea City Barstool Odds are: 39.22"
+[1] "Blackburn Adjusted Barstool Odds are: 35.839"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.269"
+[1] "Swansea City Adjusted Barstool Odds are: 36.892"
+[1] "Blackburn's Barstool Odds to cover the 0.5 spread are: 67.11"
+[1] "Swansea City's Barstool Odds to cover the -0.5 spread are: 40"
 [1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51% chance of the over 2.5 hitting. The line for the under is 1.78, which is a 56.18% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -50,61 +50,61 @@
 [1] "____________Anytime Goalscorers______________________"
 
 
-|pageUrl2                            |team         | expected_attg| expected_gs|bet |
-|:-----------------------------------|:------------|-------------:|-----------:|:---|
-|/players/807752/aynsley-pears       |Blackburn    |      0.000000|   0.3389831|    |
-|/players/716852/callum-brittain     |Blackburn    |      0.001425|   0.0909091|    |
-|/players/827247/harry-pickering     |Blackburn    |      0.024025|   0.0454545|    |
-|/players/694558/dominic-hyam        |Blackburn    |      0.051275|   0.0833333|    |
-|/players/491827/sammie-szmodics     |Blackburn    |      0.175875|   0.2380952|    |
-|/players/1113724/tyler-morton       |Blackburn    |      0.015225|   0.0833333|    |
-|/players/611489/ryan-hedges         |Blackburn    |      0.064075|   0.1923077|    |
-|/players/812982/sorba-thomas        |Blackburn    |      0.038150|   0.1333333|    |
-|/players/789556/lewis-travis        |Blackburn    |      0.000275|   0.1666667|    |
-|/players/820581/ben-brereton        |Blackburn    |      0.322350|   0.3333333|    |
-|/players/502421/sam-gallagher       |Blackburn    |      0.187800|   0.2777778|    |
-|/players/789558/andrew-fisher       |Swansea City |      0.000000|   0.1111111|    |
-|/players/953859/nathan-wood         |Swansea City |      0.027075|   0.0454545|    |
-|/players/111800/kyle-naughton       |Swansea City |      0.012475|   0.0454545|    |
-|/players/948555/ben-cabango         |Swansea City |      0.067325|   0.0833333|    |
-|/players/259809/jay-fulton          |Swansea City |      0.057225|   0.2173913|    |
-|/players/435513/ryan-manning        |Swansea City |      0.096650|   0.1176471|    |
-|/players/47558/joe-allen            |Swansea City |      0.010525|   0.0769231|    |
-|/players/478357/matt-grimes         |Swansea City |      0.059975|   0.1428571|    |
-|/players/962706/oliver-cooper       |Swansea City |      0.071550|   0.2564103|    |
-|/players/1081288/morgan-whittaker   |Swansea City |      0.264875|   0.2500000|    |
-|/players/792540/joel-piroe          |Swansea City |      0.319825|   0.3703704|    |
-|/players/1181101/tyrhys-dolan       |Blackburn    |      0.014225|   0.2702703|    |
-|/players/363352/bradley-dack        |Blackburn    |      0.032000|   0.3225806|    |
-|/players/1030840/john-buckley       |Blackburn    |      0.012250|   0.1333333|    |
-|/players/1124094/jack-vale          |Blackburn    |      0.027000|   0.2777778|    |
-|/players/671159/olivier-ntcham      |Swansea City |      0.044700|   0.2272727|    |
-|/players/210825/jamie-paterson      |Swansea City |      0.000000|   0.2500000|    |
-|/players/1023017/armstrong-oko-flex |Swansea City |      0.012850|   0.4347826|    |
-|/players/1075519/matthew-sorinola   |Swansea City |      0.000000|   0.1111111|    |
+|pageUrl2                           |team         | expected_attg| expected_gs|bet |
+|:----------------------------------|:------------|-------------:|-----------:|:---|
+|/players/807752/aynsley-pears      |Blackburn    |      0.000000|   0.3225806|    |
+|/players/694558/dominic-hyam       |Blackburn    |      0.041625|   0.0833333|    |
+|/players/1133564/hayden-carter     |Blackburn    |      0.021500|   0.0625000|    |
+|/players/181379/daniel-ayala       |Blackburn    |      0.029950|   0.1666667|    |
+|/players/827247/harry-pickering    |Blackburn    |      0.019025|   0.0434783|    |
+|/players/789556/lewis-travis       |Blackburn    |      0.029250|   0.1666667|    |
+|/players/1030840/john-buckley      |Blackburn    |      0.026575|   0.1250000|    |
+|/players/812982/sorba-thomas       |Blackburn    |      0.045050|   0.1250000|    |
+|/players/1181101/tyrhys-dolan      |Blackburn    |      0.172625|   0.2631579|    |
+|/players/820581/ben-brereton       |Blackburn    |      0.267400|   0.3225806|    |
+|/players/502421/sam-gallagher      |Blackburn    |      0.263325|   0.2702703|    |
+|/players/792540/joel-piroe         |Swansea City |      0.465425|   0.3703704|*   |
+|/players/47558/joe-allen           |Swansea City |      0.013275|   0.0769231|    |
+|/players/968944/luke-cundle        |Swansea City |      0.112250|   0.1111111|    |
+|/players/435513/ryan-manning       |Swansea City |      0.083375|   0.1176471|    |
+|/players/478357/matt-grimes        |Swansea City |      0.049875|   0.1428571|    |
+|/players/259809/jay-fulton         |Swansea City |      0.045475|   0.2173913|    |
+|/players/863822/joel-latibeaudiere |Swansea City |      0.048875|   0.0666667|    |
+|/players/798641/harry-darling      |Swansea City |      0.039875|   0.1000000|    |
+|/players/953859/nathan-wood        |Swansea City |      0.011825|   0.0454545|    |
+|/players/948555/ben-cabango        |Swansea City |      0.028825|   0.0833333|    |
+|/players/789558/andrew-fisher      |Swansea City |      0.000000|   0.1052632|    |
+|/players/363352/bradley-dack       |Blackburn    |      0.046525|   0.0000000|    |
+|/players/491827/sammie-szmodics    |Blackburn    |      0.025850|   0.0000000|    |
+|/players/611489/ryan-hedges        |Blackburn    |      0.026125|   0.0000000|    |
+|/players/1113724/tyler-morton      |Blackburn    |      0.000000|   0.0000000|    |
+|/players/671159/olivier-ntcham     |Swansea City |      0.070425|   0.0000000|*   |
+|/players/1081288/morgan-whittaker  |Swansea City |      0.016275|   0.0000000|    |
+|/players/1075519/matthew-sorinola  |Swansea City |      0.007850|   0.0000000|    |
+|/players/872996/liam-cullen        |Swansea City |      0.049550|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Blackburn:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/807752/aynsley-pears   |           0|         25.0251|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/716852/callum-brittain |           1|         35.9581|           1.9330|        0.0895|         0.4677|      0.0318|        0.0024|      0.0402| 90.0000|
-|/players/827247/harry-pickering |           1|         39.3807|           1.5604|        0.1585|         0.5310|      0.0207|        0.0257|      0.0299| 90.0000|
-|/players/694558/dominic-hyam    |           1|         41.1014|           1.2238|        0.1586|         0.4063|      0.0650|        0.0545|      0.0055| 90.0000|
-|/players/491827/sammie-szmodics |           3|         21.3324|           1.2571|        0.5882|         1.7927|      0.1453|        0.2001|      0.0297| 79.2500|
-|/players/1113724/tyler-morton   |           3|         48.7821|           1.7351|        0.0736|         0.2930|      0.0110|        0.0150|      0.0715| 90.0000|
-|/players/611489/ryan-hedges     |           3|         30.0697|           1.5656|        0.3214|         1.1147|      0.0868|        0.0704|      0.0928| 80.2439|
-|/players/812982/sorba-thomas    |           3|         21.8667|           0.5249|        0.1367|         0.6043|      0.0493|        0.0382|      0.1617| 90.0000|
-|/players/789556/lewis-travis    |           3|         36.6056|           2.5711|        0.0106|         0.2175|      0.0152|        0.0003|      0.0334| 90.0000|
-|/players/820581/ben-brereton    |           5|         18.6443|           0.5155|        0.8809|         2.0873|      0.3498|        0.3966|      0.0957| 81.1084|
-|/players/502421/sam-gallagher   |           5|         17.1668|           0.7870|        0.5827|         1.6110|      0.2097|        0.2053|      0.0554| 78.3871|
-|/players/1181101/tyrhys-dolan   |           0|              NA|               NA|        0.0492|         0.1313|      0.0201|        0.0150|      0.0143| 11.6129|
-|/players/363352/bradley-dack    |           0|              NA|               NA|        0.0573|         0.1718|      0.0410|        0.0382|      0.0137| 10.7500|
-|/players/1030840/john-buckley   |           0|              NA|               NA|        0.0848|         0.1272|      0.0039|        0.0111|      0.0110|  9.7561|
-|/players/1124094/jack-vale      |           0|              NA|               NA|        0.0791|         0.1978|      0.0206|        0.0276|      0.0016|  8.8916|
+|/players/807752/aynsley-pears   |           0|         25.5705|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/694558/dominic-hyam    |           1|         42.3674|           1.2594|        0.0968|         0.3155|      0.0767|        0.0437|      0.0177| 90.0000|
+|/players/1133564/hayden-carter  |           1|         26.4662|           1.5758|        0.1668|         0.5672|      0.0136|        0.0206|      0.0306| 90.0000|
+|/players/181379/daniel-ayala    |           1|         33.4150|           0.9884|        0.1172|         0.4061|      0.0395|        0.0312|      0.0310| 83.0213|
+|/players/827247/harry-pickering |           1|         40.5938|           1.6058|        0.0967|         0.4123|      0.0244|        0.0206|      0.0953| 90.0000|
+|/players/789556/lewis-travis    |           2|         32.5051|           1.9842|        0.1844|         1.3708|      0.1014|        0.0308|      0.0619| 90.0000|
+|/players/1030840/john-buckley   |           2|         41.6714|           1.7671|        0.1696|         0.1915|      0.0077|        0.0308|      0.0496| 82.7500|
+|/players/812982/sorba-thomas    |           3|         24.7386|           0.5687|        0.1915|         0.7660|      0.0527|        0.0487|      0.1993| 90.0000|
+|/players/1181101/tyrhys-dolan   |           3|         23.0059|           2.1187|        0.3078|         0.7386|      0.1241|        0.1928|      0.0416| 74.0000|
+|/players/820581/ben-brereton    |           3|         24.1853|           0.9240|        1.0775|         2.9010|      0.3090|        0.3129|      0.0660| 90.0000|
+|/players/502421/sam-gallagher   |           5|         16.0027|           0.6296|        0.7230|         1.8219|      0.2921|        0.3153|      0.0508| 78.3871|
+|/players/363352/bradley-dack    |           0|              NA|               NA|        0.1014|         0.3042|      0.0514|        0.0504|      0.0256| 16.0000|
+|/players/491827/sammie-szmodics |           0|              NA|               NA|        0.0814|         0.1629|      0.0204|        0.0280|      0.0132| 11.6129|
+|/players/611489/ryan-hedges     |           0|              NA|               NA|        0.0813|         0.2168|      0.0167|        0.0294|      0.0098|  7.2500|
+|/players/1113724/tyler-morton   |           0|              NA|               NA|        0.0000|         0.0719|      0.0034|        0.0000|      0.0034|  6.9787|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Swansea City:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/789558/andrew-fisher       |           0|         43.2393|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/953859/nathan-wood         |           1|         56.8326|           1.2028|        0.1645|         0.4922|      0.0228|        0.0351|      0.0586| 84.0750|
-|/players/111800/kyle-naughton       |           1|         68.7703|           1.7684|        0.0826|         0.4415|      0.0193|        0.0164|      0.0393| 90.0000|
-|/players/948555/ben-cabango         |           1|         61.2036|           1.6688|        0.2706|         0.8679|      0.1365|        0.0839|      0.0425| 90.0000|
-|/players/259809/jay-fulton          |           3|         39.9241|           2.1790|        0.2304|         0.7265|      0.0535|        0.0702|      0.0526| 80.1045|
-|/players/435513/ryan-manning        |           3|         41.1405|           1.3939|        0.4671|         1.4655|      0.1258|        0.1294|      0.1877| 90.0000|
-|/players/47558/joe-allen            |           3|         38.7862|           1.7145|        0.0961|         0.4971|      0.0493|        0.0149|      0.0522| 83.7867|
-|/players/478357/matt-grimes         |           3|         77.0903|           1.5812|        0.2923|         0.9271|      0.0478|        0.0774|      0.1219| 90.0000|
-|/players/962706/oliver-cooper       |           4|         34.7765|           1.1181|        0.3653|         0.9298|      0.1628|        0.0932|      0.1288| 76.3333|
-|/players/1081288/morgan-whittaker   |           4|         36.2277|           1.0725|        1.1296|         2.8538|      0.2575|        0.3741|      0.2069| 90.0000|
-|/players/792540/joel-piroe          |           5|         23.7053|           0.5782|        1.1603|         2.7272|      0.4556|        0.4727|      0.0976| 90.0000|
-|/players/671159/olivier-ntcham      |           0|              NA|               NA|        0.1272|         0.4522|      0.0613|        0.0597|      0.0172| 13.6667|
-|/players/210825/jamie-paterson      |           0|              NA|               NA|        0.0000|         0.0911|      0.0082|        0.0000|      0.0212|  9.8955|
-|/players/1023017/armstrong-oko-flex |           0|              NA|               NA|        0.0190|         0.0761|      0.0108|        0.0148|      0.0042|  6.2133|
-|/players/1075519/matthew-sorinola   |           0|              NA|               NA|        0.0000|         0.0191|      0.0018|        0.0000|      0.0073|  5.9250|
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/792540/joel-piroe         |           5|         17.9314|           0.3528|        2.0361|         4.4021|      0.6650|        0.7957|      0.1769| 90.0000|
+|/players/47558/joe-allen           |           5|         35.2542|           0.9834|        0.1230|         0.6567|      0.0616|        0.0170|      0.0789| 83.7867|
+|/players/968944/luke-cundle        |           4|         35.1543|           1.1069|        0.4886|         1.4477|      0.1476|        0.1541|      0.1569| 73.4000|
+|/players/435513/ryan-manning       |           3|         41.5339|           1.6266|        0.4775|         1.3848|      0.1194|        0.1118|      0.1923| 90.0000|
+|/players/478357/matt-grimes        |           3|         77.8275|           1.8452|        0.2988|         0.8761|      0.0454|        0.0669|      0.1249| 90.0000|
+|/players/259809/jay-fulton         |           3|         40.3059|           2.5428|        0.2355|         0.6865|      0.0508|        0.0606|      0.0539| 80.1045|
+|/players/863822/joel-latibeaudiere |           3|         30.6791|           1.3969|        0.1002|         0.6991|      0.0951|        0.0606|      0.0869| 82.2381|
+|/players/798641/harry-darling      |           1|         61.9757|           1.1058|        0.2387|         0.8006|      0.0662|        0.0533|      0.0453| 90.0000|
+|/players/953859/nathan-wood        |           1|         57.4548|           1.5595|        0.0873|         0.2952|      0.0092|        0.0154|      0.0284| 90.0000|
+|/players/948555/ben-cabango        |           1|         57.8003|           2.0212|        0.1341|         0.4863|      0.0515|        0.0368|      0.0192| 90.0000|
+|/players/789558/andrew-fisher      |           0|         48.3550|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/671159/olivier-ntcham     |           0|              NA|               NA|        0.2397|         0.8240|      0.0928|        0.0963|      0.0252| 16.6000|
+|/players/1081288/morgan-whittaker  |           0|              NA|               NA|        0.1489|         0.2978|      0.0219|        0.0227|      0.0068|  9.8955|
+|/players/1075519/matthew-sorinola  |           0|              NA|               NA|        0.0255|         0.0766|      0.0034|        0.0093|      0.0113|  7.7619|
+|/players/872996/liam-cullen        |           0|              NA|               NA|        0.1132|         0.2406|      0.0609|        0.0640|      0.0018|  6.2133|
 
 
 |manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
