@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 18:18:12.942"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Cambridge United 1.0926 to Oxford United 1.5317"
+[1] "Total: 2.6243"
+[1] "Cambridge United %: 28.18"
+[1] "Draw %: 25.59"
+[1] "Oxford United %: 46.23"
+[1] "--XG Model--"
+[1] "Score: Cambridge United 0.9353 to Oxford United 1.5316"
+[1] "Total: 2.4669"
+[1] "Cambridge United %: 23.94"
+[1] "Draw %: 25.8"
+[1] "Oxford United %: 50.26"
+[1] "--XGoT Model--"
+[1] "Score: Cambridge United 1.0735 to Oxford United 1.7433"
+[1] "Total: 2.8168"
+[1] "Cambridge United %: 23.53"
+[1] "Draw %: 23.79"
+[1] "Oxford United %: 52.68"
+[1] "--XA Model--"
+[1] "Score: Cambridge United 1.2128 to Oxford United 1.4467"
+[1] "Total: 2.6595"
+[1] "Cambridge United %: 31.86"
+[1] "Draw %: 26.67"
+[1] "Oxford United %: 41.47"
+[1] "--Mean 4 Models--"
+[1] "Cambridge United has a mean win % of 26.88%; a min win % of 23.53%; a max win % of 31.86%."
+[1] "Draw has a mean win % of 25.46%; a min win % of 23.79%; a max win % of 26.67%."
+[1] "Oxford United has a mean win % of 47.66%; a min win % of 41.47%; a max win of % 52.68%."
+[1] "Cambridge United has a mean win of the Double Chance of 52.34%; a min win % of 47.32%, a max win % of 58.53%."
+[1] "Oxford United has a mean win of the Double Chance of 73.12%; a min win % of 68.14%, a max win % of 76.47%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.6%; max % is 52.73 and min % is 44.71%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.4%; max % is 55.29 and min % is 47.27%."
+[1] "--Sportsbook Odds--"
+[1] "Cambridge United Barstool Odds are: 30.77"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Oxford United Barstool Odds are: 46.51"
+[1] "Cambridge United Adjusted Barstool Odds are: 28.841"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.566"
+[1] "Oxford United Adjusted Barstool Odds are: 43.594"
+[1] "Cambridge United's Barstool Odds to cover the 0.5 spread are: 59.52"
+[1] "Oxford United's Barstool Odds to cover the -0.5 spread are: 47.17"
+[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                          |team             | expected_attg| expected_gs|bet |
+|:---------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/574451/dimitar-mitov     |Cambridge United |      0.000000|   0.0714286|    |
+|/players/1004999/jubril-okedina   |Cambridge United |      0.007375|   0.0400000|    |
+|/players/598228/george-williams   |Cambridge United |      0.006975|   0.0769231|    |
+|/players/447418/lloyd-jones       |Cambridge United |      0.038775|   0.0666667|    |
+|/players/24382/michael-morrison   |Cambridge United |      0.075650|   0.0666667|    |
+|/players/632282/adam-may          |Cambridge United |      0.052675|   0.2272727|    |
+|/players/291278/paul-digby        |Cambridge United |      0.037800|   0.1333333|    |
+|/players/1286967/liam-bennett     |Cambridge United |      0.024175|   0.0714286|    |
+|/players/664514/james-brophy      |Cambridge United |      0.040225|   0.1428571|    |
+|/players/1056689/harvey-knibbs    |Cambridge United |      0.312075|   0.2380952|*   |
+|/players/363344/joe-ironside      |Cambridge United |      0.251650|   0.2631579|    |
+|/players/25626/simon-eastwood     |Oxford United    |      0.000000|   0.4878049|    |
+|/players/760400/elliott-moore     |Oxford United    |      0.045650|   0.0714286|    |
+|/players/439691/sam-long          |Oxford United    |      0.047875|   0.0952381|    |
+|/players/816368/ciaron-brown      |Oxford United    |      0.029275|   0.1111111|    |
+|/players/519951/stuart-findlay    |Oxford United    |      0.022525|   0.0625000|    |
+|/players/874606/brandon-fleming   |Oxford United    |      0.001125|   0.0666667|    |
+|/players/759581/marcus-mcguane    |Oxford United    |      0.012400|   0.1176471|    |
+|/players/562593/cameron-brannagan |Oxford United    |      0.215850|   0.2439024|    |
+|/players/654089/marcus-browne     |Oxford United    |      0.059325|   0.2325581|    |
+|/players/197729/billy-bodin       |Oxford United    |      0.139300|   0.3508772|    |
+|/players/1184465/kyle-joseph      |Oxford United    |      0.442500|   0.3508772|*   |
+|/players/873015/shilow-tracey     |Cambridge United |      0.030700|   0.1923077|    |
+|/players/967350/jack-lankester    |Cambridge United |      0.013250|   0.2222222|    |
+|/players/519836/george-thomas     |Cambridge United |      0.019875|   0.1694915|    |
+|/players/280848/liam-oneil        |Cambridge United |      0.008725|   0.0714286|    |
+|/players/1086653/tyler-goodrham   |Oxford United    |      0.070125|   0.2000000|    |
+|/players/949460/tyler-smith       |Oxford United    |      0.106475|   0.3333333|    |
+|/players/492045/josh-murphy       |Oxford United    |      0.069150|   0.3125000|    |
+|/players/68721/james-henry        |Oxford United    |      0.000000|   0.2941176|    |
+____________________________________________________
+
+[1] "Facts about Cambridge United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/574451/dimitar-mitov   |           0|         26.1401|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1004999/jubril-okedina |           1|         31.0912|           1.8327|        0.0926|         0.1790|      0.0243|        0.0073|      0.0502| 90.0000|
+|/players/598228/george-williams |           1|         33.1184|           1.0872|        0.1269|         0.5652|      0.0108|        0.0073|      0.0730| 90.0000|
+|/players/447418/lloyd-jones     |           1|         35.0231|           1.1986|        0.0926|         0.4888|      0.0234|        0.0365|      0.0122| 90.0000|
+|/players/24382/michael-morrison |           1|         44.1529|           1.5985|        0.1742|         0.5753|      0.0698|        0.0730|      0.0185| 90.0000|
+|/players/632282/adam-may        |           2|         36.9559|           1.6986|        0.2608|         1.0230|      0.0571|        0.0539|      0.0775| 84.2069|
+|/players/291278/paul-digby      |           2|         36.0993|           2.5953|        0.1551|         0.5473|      0.0274|        0.0369|      0.0306| 90.0000|
+|/players/1286967/liam-bennett   |           3|         23.1391|           0.7280|        0.3401|         1.2319|      0.0548|        0.0260|      0.0860| 83.8095|
+|/players/664514/james-brophy    |           3|         30.9017|           0.9513|        0.1429|         0.6536|      0.0366|        0.0395|      0.1533| 85.2667|
+|/players/1056689/harvey-knibbs  |           3|         14.1322|           1.7217|        0.9652|         2.3552|      0.2601|        0.3591|      0.0625| 79.4865|
+|/players/363344/joe-ironside    |           5|         16.7052|           0.6201|        0.8000|         2.1029|      0.2373|        0.2694|      0.0581| 90.0000|
+|/players/873015/shilow-tracey   |           0|              NA|               NA|        0.0885|         0.3246|      0.0166|        0.0332|      0.0221| 10.5135|
+|/players/967350/jack-lankester  |           0|              NA|               NA|        0.0380|         0.0951|      0.0049|        0.0123|      0.0135|  6.1905|
+|/players/519836/george-thomas   |           0|              NA|               NA|        0.0608|         0.1825|      0.0143|        0.0190|      0.0090|  5.7931|
+|/players/280848/liam-oneil      |           0|              NA|               NA|        0.0178|         0.1245|      0.0065|        0.0087|      0.0176|  4.7333|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mark Bonner  |        27630|      -5.21576|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Oxford United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/25626/simon-eastwood     |           0|         26.4484|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/760400/elliott-moore     |           1|         57.1635|           1.2282|        0.2295|         0.6799|      0.0594|        0.0490|      0.0359| 90.0000|
+|/players/439691/sam-long          |           1|         47.7391|           2.0516|        0.1563|         0.6066|      0.0543|        0.0531|      0.0894| 90.0000|
+|/players/816368/ciaron-brown      |           1|         40.5010|           2.0771|        0.0803|         0.5111|      0.0285|        0.0308|      0.0769| 90.0000|
+|/players/519951/stuart-findlay    |           1|         42.1571|           1.0261|        0.1520|         0.4356|      0.0229|        0.0248|      0.0335| 90.0000|
+|/players/874606/brandon-fleming   |           3|         39.2785|           2.8226|        0.0856|         0.7003|      0.0394|        0.0013|      0.1129| 90.0000|
+|/players/759581/marcus-mcguane    |           3|         33.9566|           0.7771|        0.1689|         0.5699|      0.0122|        0.0119|      0.0247| 78.3111|
+|/players/562593/cameron-brannagan |           3|         53.8481|           1.8152|        0.7481|         2.2119|      0.1933|        0.2487|      0.1275| 90.0000|
+|/players/654089/marcus-browne     |           5|         21.6389|           1.1675|        1.0016|         2.3770|      0.1256|        0.0618|      0.1075| 77.1579|
+|/players/197729/billy-bodin       |           5|         25.6922|           0.8873|        0.2862|         1.6342|      0.2177|        0.1594|      0.1215| 76.0000|
+|/players/1184465/kyle-joseph      |           5|         17.2304|           0.7508|        1.0457|         2.1230|      0.3022|        0.6047|      0.0814| 83.4615|
+|/players/1086653/tyler-goodrham   |           0|              NA|               NA|        0.1345|         0.2690|      0.0227|        0.0736|      0.0143| 14.0000|
+|/players/949460/tyler-smith       |           0|              NA|               NA|        0.2340|         0.4680|      0.1327|        0.1193|      0.0019| 12.8421|
+|/players/492045/josh-murphy       |           0|              NA|               NA|        0.1451|         0.3870|      0.0700|        0.0758|      0.0348| 11.6889|
+|/players/68721/james-henry        |           0|              NA|               NA|        0.0000|         0.1577|      0.0219|        0.0000|      0.0164|  6.5385|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Karl Robinson |        32602|      4.922357|4-3-3     |
