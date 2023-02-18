@@ -1,0 +1,151 @@
+[1] "Updated at 2023-02-18 10:23:25.791"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Atletico Madrid 1.2197 to Athletic Bilbao 0.9811"
+[1] "Total: 2.2008"
+[1] "Atletico Madrid %: 41.93"
+[1] "Draw %: 29.06"
+[1] "Athletic Bilbao %: 29.01"
+[1] "--XG Model--"
+[1] "Score: Atletico Madrid 1.2733 to Athletic Bilbao 1.0314"
+[1] "Total: 2.3047"
+[1] "Atletico Madrid %: 43.21"
+[1] "Draw %: 27.6"
+[1] "Athletic Bilbao %: 29.19"
+[1] "--XGoT Model--"
+[1] "Score: Atletico Madrid 1.4987 to Athletic Bilbao 1.0668"
+[1] "Total: 2.5655"
+[1] "Atletico Madrid %: 47.34"
+[1] "Draw %: 25.18"
+[1] "Athletic Bilbao %: 27.48"
+[1] "--XA Model--"
+[1] "Score: Atletico Madrid 1.3581 to Athletic Bilbao 0.9826"
+[1] "Total: 2.3407"
+[1] "Atletico Madrid %: 46.06"
+[1] "Draw %: 26.71"
+[1] "Athletic Bilbao %: 27.23"
+[1] "--Mean 4 Models--"
+[1] "Atletico Madrid has a mean win % of 44.64%; a min win % of 41.93%; a max win % of 47.34%."
+[1] "Draw has a mean win % of 27.14%; a min win % of 25.18%; a max win % of 29.06%."
+[1] "Athletic Bilbao has a mean win % of 28.23%; a min win % of 27.23%; a max win of % 29.19%."
+[1] "Atletico Madrid has a mean win of the Double Chance of 71.77%; a min win % of 70.81%, a max win % of 72.77%."
+[1] "Athletic Bilbao has a mean win of the Double Chance of 55.36%; a min win % of 52.66%, a max win % of 58.07%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.94%; max % is 46.64 and min % is 37.03%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.06%; max % is 62.97 and min % is 53.36%."
+[1] "--Sportsbook Odds--"
+[1] "Atletico Madrid Barstool Odds are: 50"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Athletic Bilbao Barstool Odds are: 25"
+[1] "Atletico Madrid Adjusted Barstool Odds are: 47.272"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.091"
+[1] "Athletic Bilbao Adjusted Barstool Odds are: 23.636"
+[1] "Atletico Madrid's Barstool Odds to cover the -0.5 spread are: 49.5"
+[1] "Athletic Bilbao's Barstool Odds to cover the 0.5 spread are: 54.95"
+[1] "Barstool's line for the total is 2.5 at 2.35, which is a 42.55% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+              bet           date_time
+1 Athletic Bilbao 2023-02-19 09:30:00
+
+
+|player       |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Oihan Sancet |ATH  |     28| 1.84|          NA|  0.9238|   0.3803|passes    |ESP Spain |      0.5435|         NA|        NA|         NA|       NA|
+|Oihan Sancet |ATH  |     32| 2.29|          NA|  0.7674|   0.3307|passes    |ESP Spain |      0.4367|         NA|        NA|         NA|       NA|
+|Oihan Sancet |ATH  |     36| 2.75|          NA|  0.5231|   0.1595|passes    |ESP Spain |      0.3636|         NA|        NA|         NA|       NA|
+|Oihan Sancet |ATH  |     24| 1.51|          NA|  0.9848|   0.3225|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
+|Mikel Vesga  |ATH  |     56| 2.18|          NA|  0.6884|   0.2297|passes    |ESP Spain |      0.4587|         NA|        NA|         NA|       NA|
+|Mikel Vesga  |ATH  |     52| 1.86|          NA|  0.8470|   0.3094|passes    |ESP Spain |      0.5376|         NA|        NA|         NA|       NA|
+|Mikel Vesga  |ATH  |     48| 1.58|          NA|  0.9417|   0.3088|passes    |ESP Spain |      0.6329|         NA|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team            | expected_attg| expected_gs|bet |
+|:----------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/177126/jan-oblak          |Atletico Madrid |      0.000000|   0.1428571|    |
+|/players/726345/nahuel-molina      |Atletico Madrid |      0.026400|   0.0666667|    |
+|/players/474589/jos-giménez        |Atletico Madrid |      0.050450|   0.0833333|    |
+|/players/671203/mario-hermoso      |Atletico Madrid |      0.048925|   0.0833333|    |
+|/players/600524/reinildo           |Atletico Madrid |      0.002950|   0.0416667|    |
+|/players/602563/marcos-llorente    |Atletico Madrid |      0.064925|   0.1666667|    |
+|/players/324578/rodrigo-de-paul    |Atletico Madrid |      0.108925|   0.1538462|    |
+|/players/184533/koke               |Atletico Madrid |      0.031125|   0.1176471|    |
+|/players/354467/yannick-carrasco   |Atletico Madrid |      0.143350|   0.1886792|    |
+|/players/184138/antoine-griezmann  |Atletico Madrid |      0.263850|   0.3030303|    |
+|/players/432950/ngel-correa        |Atletico Madrid |      0.250575|   0.2941176|    |
+|/players/604105/inaki-williams     |Athletic Bilbao |      0.235550|   0.2222222|    |
+|/players/574629/alex-berenguer     |Athletic Bilbao |      0.139425|   0.1538462|    |
+|/players/179772/iker-muniain       |Athletic Bilbao |      0.124525|   0.1923077|    |
+|/players/1202110/nico-williams     |Athletic Bilbao |      0.103100|   0.1666667|    |
+|/players/616545/mikel-vesga        |Athletic Bilbao |      0.000975|   0.1176471|    |
+|/players/950545/oihan-sancet       |Athletic Bilbao |      0.081675|   0.2631579|    |
+|/players/80295/yuri-berchiche      |Athletic Bilbao |      0.042800|   0.0384615|    |
+|/players/940743/daniel-vivian      |Athletic Bilbao |      0.033775|   0.0666667|    |
+|/players/639450/yeray-lvarez       |Athletic Bilbao |      0.003850|   0.0333333|    |
+|/players/181297/oscar-de-marcos    |Athletic Bilbao |      0.018250|   0.1052632|    |
+|/players/660625/unai-simon         |Athletic Bilbao |      0.000000|   0.1538462|    |
+|/players/213501/lvaro-morata       |Atletico Madrid |      0.122350|   0.3773585|    |
+|/players/468931/thomas-lemar       |Atletico Madrid |      0.021950|   0.2500000|    |
+|/players/309334/saul-niguez        |Atletico Madrid |      0.015900|   0.1538462|    |
+|/players/214972/geoffrey-kondogbia |Atletico Madrid |      0.000000|   0.0833333|    |
+|/players/1106916/oier-zarraga      |Athletic Bilbao |      0.020400|   0.1111111|    |
+|/players/33871/raul-garcia         |Athletic Bilbao |      0.056825|   0.2380952|    |
+|/players/1007717/unai-vencedor     |Athletic Bilbao |      0.014475|   0.1052632|    |
+|/players/616544/inigo-lekue        |Athletic Bilbao |      0.000000|   0.0384615|    |
+____________________________________________________
+
+[1] "Facts about Atletico Madrid:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/177126/jan-oblak          |           0|         26.9259|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/726345/nahuel-molina      |           1|         47.5909|           1.6961|        0.0905|         0.3413|      0.0265|        0.0314|      0.1396| 90.0000|
+|/players/474589/jos-giménez        |           1|         48.1234|           0.8835|        0.2051|         0.7454|      0.0681|        0.0632|      0.0160| 90.0000|
+|/players/671203/mario-hermoso      |           1|         53.3651|           1.2223|        0.2113|         0.6256|      0.0648|        0.0618|      0.0408| 82.6296|
+|/players/600524/reinildo           |           1|         46.1668|           2.3178|        0.0457|         0.2031|      0.0165|        0.0036|      0.0391| 90.0000|
+|/players/602563/marcos-llorente    |           3|         34.0140|           1.9762|        0.3467|         0.9717|      0.0671|        0.0819|      0.1003| 90.0000|
+|/players/324578/rodrigo-de-paul    |           3|         50.0862|           1.7835|        0.4988|         1.5592|      0.1099|        0.1396|      0.1505| 90.0000|
+|/players/184533/koke               |           3|         58.9091|           2.0499|        0.1456|         0.5475|      0.0522|        0.0381|      0.0603| 90.0000|
+|/players/354467/yannick-carrasco   |           3|         29.3482|           1.2424|        0.4683|         1.5369|      0.1709|        0.1772|      0.1203| 78.2967|
+|/players/184138/antoine-griezmann  |           5|         26.9678|           0.7879|        0.8532|         2.0609|      0.3189|        0.3661|      0.0902| 81.0784|
+|/players/432950/ngel-correa        |           5|         17.3084|           0.4444|        0.7032|         1.7005|      0.2318|        0.3358|      0.0850| 73.7966|
+|/players/213501/lvaro-morata       |          NA|              NA|               NA|        0.1777|         0.4494|      0.1056|        0.1574|      0.0212| 16.2034|
+|/players/468931/thomas-lemar       |          NA|              NA|               NA|        0.0553|         0.1843|      0.0214|        0.0255|      0.0279| 11.7033|
+|/players/309334/saul-niguez        |          NA|              NA|               NA|        0.0231|         0.0848|      0.0168|        0.0180|      0.0023|  8.9216|
+|/players/214972/geoffrey-kondogbia |          NA|              NA|               NA|        0.0000|         0.0806|      0.0038|        0.0000|      0.0019|  7.3704|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Diego Simeone |       118439|      11.02129|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Athletic Bilbao:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/604105/inaki-williams  |           5|         21.4762|           0.5590|        0.8020|         2.0482|      0.3208|        0.3112|      0.0628| 90.0000|
+|/players/574629/alex-berenguer  |           3|         26.4825|           1.7186|        0.4210|         1.4849|      0.1317|        0.1770|      0.1031| 78.6588|
+|/players/179772/iker-muniain    |           3|         40.4560|           0.9020|        0.4188|         1.1105|      0.1466|        0.1544|      0.1359| 81.7766|
+|/players/1202110/nico-williams  |           3|         22.6341|           0.9648|        0.5467|         1.7398|      0.1254|        0.1282|      0.0596| 78.6111|
+|/players/616545/mikel-vesga     |           2|         60.4454|           2.7879|        0.0311|         0.4308|      0.0156|        0.0011|      0.0632| 90.0000|
+|/players/950545/oihan-sancet    |           2|         37.0183|           1.1933|        0.3022|         0.9390|      0.0823|        0.1003|      0.0496| 73.7692|
+|/players/80295/yuri-berchiche   |           1|         47.4872|           1.6486|        0.1837|         0.8295|      0.0403|        0.0502|      0.0608| 90.0000|
+|/players/940743/daniel-vivian   |           1|         52.2466|           1.5499|        0.1631|         0.5069|      0.0508|        0.0423|      0.0136| 90.0000|
+|/players/639450/yeray-lvarez    |           1|         53.9794|           1.1797|        0.0507|         0.3431|      0.0225|        0.0045|      0.0147| 90.0000|
+|/players/181297/oscar-de-marcos |           1|         46.4180|           2.0623|        0.0561|         0.1368|      0.0254|        0.0219|      0.0888| 90.0000|
+|/players/660625/unai-simon      |           0|         28.3024|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1106916/oier-zarraga   |          NA|              NA|               NA|        0.0661|         0.2908|      0.0321|        0.0256|      0.0080| 16.2308|
+|/players/33871/raul-garcia      |          NA|              NA|               NA|        0.1108|         0.4092|      0.0562|        0.0664|      0.0090| 11.3889|
+|/players/1007717/unai-vencedor  |          NA|              NA|               NA|        0.0419|         0.0978|      0.0154|        0.0178|      0.0024| 11.3412|
+|/players/616544/inigo-lekue     |          NA|              NA|               NA|        0.0094|         0.0189|      0.0004|        0.0000|      0.0106|  8.2234|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Ernesto Valverde |        20726|      8.331667|4-2-3-1   |
