@@ -1,5 +1,50 @@
-[1] "Updated at 2023-02-18 10:54:23.309"
+[1] "Updated at 2023-02-18 10:58:37.481"
 [1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Hansa Rostock 1.2453 to SV Darmstadt 98 1.4805"
+[1] "Total: 2.7258"
+[1] "Hansa Rostock %: 31.95"
+[1] "Draw %: 25.94"
+[1] "SV Darmstadt 98 %: 42.11"
+[1] "--XG Model--"
+[1] "Score: Hansa Rostock 0.7616 to SV Darmstadt 98 1.4223"
+[1] "Total: 2.1839"
+[1] "Hansa Rostock %: 20.31"
+[1] "Draw %: 27.15"
+[1] "SV Darmstadt 98 %: 52.54"
+[1] "--XGoT Model--"
+[1] "Score: Hansa Rostock 0.9071 to SV Darmstadt 98 1.4455"
+[1] "Total: 2.3526"
+[1] "Hansa Rostock %: 24.02"
+[1] "Draw %: 26.33"
+[1] "SV Darmstadt 98 %: 49.65"
+[1] "--XA Model--"
+[1] "Score: Hansa Rostock 1.1813 to SV Darmstadt 98 1.5532"
+[1] "Total: 2.7345"
+[1] "Hansa Rostock %: 29.37"
+[1] "Draw %: 25.62"
+[1] "SV Darmstadt 98 %: 45.01"
+[1] "--Mean 4 Models--"
+[1] "Hansa Rostock has a mean win % of 26.41%; a min win % of 20.31%; a max win % of 31.95%."
+[1] "Draw has a mean win % of 26.26%; a min win % of 25.62%; a max win % of 27.15%."
+[1] "SV Darmstadt 98 has a mean win % of 47.33%; a min win % of 42.11%; a max win of % 52.54%."
+[1] "Hansa Rostock has a mean win of the Double Chance of 52.67%; a min win % of 47.46%, a max win % of 57.89%."
+[1] "SV Darmstadt 98 has a mean win of the Double Chance of 73.59%; a min win % of 68.05%, a max win % of 79.69%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.87%; max % is 50.54 and min % is 36.86%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.13%; max % is 63.14 and min % is 49.46%."
+[1] "--Sportsbook Odds--"
+[1] "Hansa Rostock Barstool Odds are: 31.75"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "SV Darmstadt 98 Barstool Odds are: 44.44"
+[1] "Hansa Rostock Adjusted Barstool Odds are: 29.684"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.768"
+[1] "SV Darmstadt 98 Adjusted Barstool Odds are: 41.548"
+[1] "Hansa Rostock's Barstool Odds to cover the 0.25 spread are: 53.48"
+[1] "SV Darmstadt 98's Barstool Odds to cover the -0.25 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-18 11:30:00
 [1] "____________Anytime Goalscorers______________________"
@@ -7,36 +52,36 @@
 
 |pageUrl2                             |team            | expected_attg| expected_gs|bet |
 |:------------------------------------|:---------------|-------------:|-----------:|:---|
-|/players/276769/markus-kolke         |Hansa Rostock   |            NA|   0.2500000|NA  |
-|/players/659081/ryan-malone          |Hansa Rostock   |            NA|   0.1250000|NA  |
-|/players/556515/damian-rossbach      |Hansa Rostock   |            NA|   0.0500000|NA  |
-|/players/690302/rick-van-drongelen   |Hansa Rostock   |            NA|   0.0909091|NA  |
-|/players/775394/frederic-ananou      |Hansa Rostock   |            NA|   0.0312500|NA  |
-|/players/941217/dennis-dressel       |Hansa Rostock   |            NA|   0.0952381|NA  |
-|/players/620578/lukas-frde           |Hansa Rostock   |            NA|   0.1538462|NA  |
-|/players/313792/haris-duljevic       |Hansa Rostock   |            NA|   0.1666667|NA  |
-|/players/786131/kevin-schumacher     |Hansa Rostock   |            NA|   0.1666667|NA  |
-|/players/556537/kai-prger            |Hansa Rostock   |            NA|   0.2222222|NA  |
-|/players/668793/svante-ingelsson     |Hansa Rostock   |            NA|   0.1428571|NA  |
-|/players/686315/phillip-tietz        |SV Darmstadt 98 |            NA|   0.3225806|NA  |
-|/players/557805/mathias-honsak       |SV Darmstadt 98 |            NA|   0.2083333|NA  |
-|/players/658423/marvin-mehlem        |SV Darmstadt 98 |            NA|   0.1785714|NA  |
-|/players/642153/emir-karic           |SV Darmstadt 98 |            NA|   0.1333333|NA  |
-|/players/310355/fabian-holland       |SV Darmstadt 98 |            NA|   0.1052632|NA  |
-|/players/141114/tobias-kempe         |SV Darmstadt 98 |            NA|   0.2439024|NA  |
-|/players/763992/frank-ronstadt       |SV Darmstadt 98 |            NA|   0.1000000|NA  |
-|/players/658460/thomas-isherwood     |SV Darmstadt 98 |            NA|   0.0555556|NA  |
-|/players/458620/jannik-mller         |SV Darmstadt 98 |            NA|   0.0555556|NA  |
-|/players/560118/christoph-zimmermann |SV Darmstadt 98 |            NA|   0.0555556|NA  |
-|/players/343763/marcel-schuhen       |SV Darmstadt 98 |            NA|   0.1052632|NA  |
-|/players/854069/nils-frling          |Hansa Rostock   |            NA|   0.0000000|NA  |
-|/players/634854/morris-schrter       |Hansa Rostock   |            NA|   0.0000000|NA  |
-|/players/954131/dong-keyong-lee      |Hansa Rostock   |            NA|   0.0000000|NA  |
-|/players/113237/ridge-munsy          |Hansa Rostock   |            NA|   0.0000000|NA  |
-|/players/848708/magnus-warming       |SV Darmstadt 98 |            NA|   0.0000000|NA  |
-|/players/1079080/filip-stojilkovic   |SV Darmstadt 98 |            NA|   0.0000000|NA  |
-|/players/1086251/oscar-vilhelmsson   |SV Darmstadt 98 |            NA|   0.0000000|NA  |
-|/players/840426/yassin-ben-balla     |SV Darmstadt 98 |            NA|   0.0000000|NA  |
+|/players/276769/markus-kolke         |Hansa Rostock   |      0.000000|   0.2500000|    |
+|/players/659081/ryan-malone          |Hansa Rostock   |      0.004875|   0.1333333|    |
+|/players/556515/damian-rossbach      |Hansa Rostock   |      0.094825|   0.0526316|    |
+|/players/690302/rick-van-drongelen   |Hansa Rostock   |      0.008250|   0.0909091|    |
+|/players/775394/frederic-ananou      |Hansa Rostock   |      0.054375|   0.0322581|    |
+|/players/941217/dennis-dressel       |Hansa Rostock   |      0.054325|   0.0952381|    |
+|/players/620578/lukas-frde           |Hansa Rostock   |      0.056700|   0.1666667|    |
+|/players/313792/haris-duljevic       |Hansa Rostock   |      0.053700|   0.1666667|    |
+|/players/786131/kevin-schumacher     |Hansa Rostock   |      0.055200|   0.1694915|    |
+|/players/556537/kai-prger            |Hansa Rostock   |      0.210725|   0.2222222|    |
+|/players/668793/svante-ingelsson     |Hansa Rostock   |      0.140450|   0.1538462|    |
+|/players/686315/phillip-tietz        |SV Darmstadt 98 |      0.138425|   0.3225806|    |
+|/players/557805/mathias-honsak       |SV Darmstadt 98 |      0.385350|   0.2040816|*   |
+|/players/658423/marvin-mehlem        |SV Darmstadt 98 |      0.119425|   0.1754386|    |
+|/players/642153/emir-karic           |SV Darmstadt 98 |      0.043775|   0.1250000|    |
+|/players/310355/fabian-holland       |SV Darmstadt 98 |      0.021825|   0.1052632|    |
+|/players/141114/tobias-kempe         |SV Darmstadt 98 |      0.115850|   0.2439024|    |
+|/players/763992/frank-ronstadt       |SV Darmstadt 98 |      0.021325|   0.0952381|    |
+|/players/658460/thomas-isherwood     |SV Darmstadt 98 |      0.032625|   0.0555556|    |
+|/players/458620/jannik-mller         |SV Darmstadt 98 |      0.060775|   0.0555556|    |
+|/players/560118/christoph-zimmermann |SV Darmstadt 98 |      0.027600|   0.0555556|    |
+|/players/343763/marcel-schuhen       |SV Darmstadt 98 |      0.000000|   0.1052632|    |
+|/players/854069/nils-frling          |Hansa Rostock   |      0.092650|   0.0000000|*   |
+|/players/634854/morris-schrter       |Hansa Rostock   |      0.008775|   0.0000000|    |
+|/players/954131/dong-keyong-lee      |Hansa Rostock   |      0.026825|   0.0000000|    |
+|/players/113237/ridge-munsy          |Hansa Rostock   |      0.057075|   0.0000000|*   |
+|/players/848708/magnus-warming       |SV Darmstadt 98 |      0.126175|   0.0000000|*   |
+|/players/1079080/filip-stojilkovic   |SV Darmstadt 98 |      0.117375|   0.0000000|*   |
+|/players/1086251/oscar-vilhelmsson   |SV Darmstadt 98 |      0.019900|   0.0000000|    |
+|/players/840426/yassin-ben-balla     |SV Darmstadt 98 |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Hansa Rostock:"
