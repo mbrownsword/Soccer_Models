@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 15:06:26.557"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Brest 0.9744 to AS Monaco 1.5198"
+[1] "Total: 2.4942"
+[1] "Brest %: 24.8"
+[1] "Draw %: 25.69"
+[1] "AS Monaco %: 49.51"
+[1] "--XG Model--"
+[1] "Score: Brest 0.9015 to AS Monaco 1.7008"
+[1] "Total: 2.6023"
+[1] "Brest %: 20.19"
+[1] "Draw %: 24.16"
+[1] "AS Monaco %: 55.65"
+[1] "--XGoT Model--"
+[1] "Score: Brest 0.8493 to AS Monaco 1.7642"
+[1] "Total: 2.6135"
+[1] "Brest %: 17.64"
+[1] "Draw %: 23.34"
+[1] "AS Monaco %: 59.02"
+[1] "--XA Model--"
+[1] "Score: Brest 0.9657 to AS Monaco 1.6773"
+[1] "Total: 2.643"
+[1] "Brest %: 22.06"
+[1] "Draw %: 24.69"
+[1] "AS Monaco %: 53.25"
+[1] "--Mean 4 Models--"
+[1] "Brest has a mean win % of 21.17%; a min win % of 17.64%; a max win % of 24.8%."
+[1] "Draw has a mean win % of 24.47%; a min win % of 23.34%; a max win % of 25.69%."
+[1] "AS Monaco has a mean win % of 54.36%; a min win % of 49.51%; a max win of % 59.02%."
+[1] "Brest has a mean win of the Double Chance of 45.64%; a min win % of 40.98%, a max win % of 50.49%."
+[1] "AS Monaco has a mean win of the Double Chance of 78.83%; a min win % of 75.2%, a max win % of 82.36%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.32%; max % is 48.68 and min % is 44.86%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 52.68%; max % is 55.14 and min % is 51.32%."
+[1] "--Sportsbook Odds--"
+[1] "Brest Barstool Odds are: 22.73"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "AS Monaco Barstool Odds are: 57.14"
+[1] "Brest Adjusted Barstool Odds are: 21.543"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.301"
+[1] "AS Monaco Adjusted Barstool Odds are: 54.156"
+[1] "Brest's Barstool Odds to cover the  spread are: NA"
+[1] "AS Monaco's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.77, which is a 56.5% chance of the over 2.5 hitting. The line for the under is 2.05, which is a 48.78% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                    bet           date_time
+1 under Brest/AS Monaco 2023-02-19 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team      | expected_attg| expected_gs|bet |
+|:-----------------------------------|:---------|-------------:|-----------:|:---|
+|/players/195782/marco-bizot         |Brest     |      0.000000|   0.1111111|    |
+|/players/279461/kenny-lala          |Brest     |      0.024675|   0.1428571|    |
+|/players/971617/achraf-dari         |Brest     |      0.055625|   0.1176471|    |
+|/players/769168/jean-kevin-duverne  |Brest     |      0.007325|   0.0370370|    |
+|/players/1073941/lilian-brassier    |Brest     |      0.015350|   0.0454545|    |
+|/players/770321/mahdi-camara        |Brest     |      0.072675|   0.1428571|    |
+|/players/660462/pierre-lees-melou   |Brest     |      0.099825|   0.2222222|    |
+|/players/812415/hugo-magnetti       |Brest     |      0.023325|   0.0625000|    |
+|/players/696263/romain-del-castillo |Brest     |      0.163600|   0.1694915|    |
+|/players/562682/alberth-elis        |Brest     |      0.156850|   0.2702703|    |
+|/players/917808/jrémy-le-douaron    |Brest     |      0.136775|   0.2325581|    |
+|/players/1393439/eliesse-ben-seghir |AS Monaco |      0.166500|   0.3773585|    |
+|/players/210184/wissam-ben-yedder   |AS Monaco |      0.470300|   0.4545455|    |
+|/players/586388/aleksandr-golovin   |AS Monaco |      0.191775|   0.2702703|    |
+|/players/924518/mohamed-camara      |AS Monaco |      0.027900|   0.1250000|    |
+|/players/954621/youssouf-fofana     |AS Monaco |      0.033850|   0.0952381|    |
+|/players/837061/krepin-diatta       |AS Monaco |      0.204450|   0.3389831|    |
+|/players/769525/caio-henrique       |AS Monaco |      0.014525|   0.1960784|    |
+|/players/402830/guillermo-maripan   |AS Monaco |      0.038625|   0.1538462|    |
+|/players/696646/axel-disasi         |AS Monaco |      0.075325|   0.1666667|    |
+|/players/561046/ruben-aguilar       |AS Monaco |      0.007050|   0.0714286|    |
+|/players/554534/alexander-nbel      |AS Monaco |      0.000000|   0.0833333|    |
+|/players/1285784/bradley-locko      |Brest     |      0.003225|   0.0370370|    |
+|/players/478527/steve-mounie        |Brest     |      0.065050|   0.2777778|    |
+|/players/561869/haris-belkebla      |Brest     |      0.000000|   0.0555556|    |
+|/players/1052689/karamoko-demblé    |Brest     |      0.001825|   0.1428571|    |
+|/players/906945/ismail-jakobs       |AS Monaco |      0.022700|   0.1250000|    |
+|/players/866517/myron-boadu         |AS Monaco |      0.031650|   0.3125000|    |
+|/players/527103/breel-embolo        |AS Monaco |      0.041625|   0.4000000|    |
+|/players/934675/jean-lucas          |AS Monaco |      0.003475|   0.1428571|    |
+____________________________________________________
+
+[1] "Facts about Brest:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/195782/marco-bizot         |           0|         28.1977|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/279461/kenny-lala          |           1|         33.9871|           1.6553|        0.1563|         0.5441|      0.0336|        0.0283|      0.0865| 90.0000|
+|/players/971617/achraf-dari         |           1|         39.2385|           1.2999|        0.2029|         0.4540|      0.0499|        0.0541|      0.0022| 90.0000|
+|/players/769168/jean-kevin-duverne  |           1|         40.1357|           2.2232|        0.0561|         0.3282|      0.0217|        0.0073|      0.0209| 90.0000|
+|/players/1073941/lilian-brassier    |           1|         39.4912|           1.7215|        0.0794|         0.4810|      0.0242|        0.0160|      0.0244| 90.0000|
+|/players/770321/mahdi-camara        |           3|         31.5900|           2.0405|        0.2792|         0.5993|      0.0743|        0.0764|      0.0454| 90.0000|
+|/players/660462/pierre-lees-melou   |           3|         33.3323|           1.7372|        0.3283|         1.3129|      0.1341|        0.1074|      0.0881| 81.4507|
+|/players/812415/hugo-magnetti       |           3|         29.5227|           1.5910|        0.1868|         0.7565|      0.0395|        0.0233|      0.0301| 76.5000|
+|/players/696263/romain-del-castillo |           5|         25.8169|           1.6577|        0.5223|         1.5603|      0.1488|        0.1818|      0.1349| 74.6667|
+|/players/562682/alberth-elis        |           5|         15.7231|           0.8922|        0.5726|         1.5754|      0.1753|        0.1725|      0.0514| 90.0000|
+|/players/917808/jrémy-le-douaron    |           5|         11.0540|           0.5789|        0.4477|         1.4979|      0.1430|        0.1388|      0.0222| 72.7619|
+|/players/1285784/bradley-locko      |          NA|              NA|               NA|        0.0279|         0.1115|      0.0036|        0.0037|      0.0074| 17.2381|
+|/players/478527/steve-mounie        |          NA|              NA|               NA|        0.1547|         0.3938|      0.0780|        0.0716|      0.0080| 15.3333|
+|/players/561869/haris-belkebla      |          NA|              NA|               NA|        0.0000|         0.0349|      0.0017|        0.0000|      0.0067| 13.5000|
+|/players/1052689/karamoko-demblé    |          NA|              NA|               NA|        0.1317|         0.2634|      0.0080|        0.0022|      0.0106|  8.5493|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Eric Roy     |         5940|     -9.006667|4-1-4-1   |
+____________________________________________________
+
+[1] "Facts about AS Monaco:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1393439/eliesse-ben-seghir |           5|         22.4704|           0.9111|        0.7510|         1.8764|      0.1319|        0.1942|      0.0782| 66.2500|
+|/players/210184/wissam-ben-yedder   |           5|         21.2118|           0.3840|        1.0728|         2.5353|      0.6301|        0.6865|      0.1465| 76.8125|
+|/players/586388/aleksandr-golovin   |           3|         36.3629|           1.8006|        0.5322|         1.4840|      0.1585|        0.2339|      0.2340| 74.4615|
+|/players/924518/mohamed-camara      |           3|         63.5793|           2.5609|        0.1210|         0.8469|      0.0576|        0.0325|      0.0714| 90.0000|
+|/players/954621/youssouf-fofana     |           3|         57.4870|           2.2557|        0.2566|         1.2792|      0.0983|        0.0389|      0.0977| 90.0000|
+|/players/837061/krepin-diatta       |           3|         34.7082|           0.8620|        0.8510|         1.7184|      0.1863|        0.2430|      0.1523| 76.6667|
+|/players/769525/caio-henrique       |           1|         47.9253|           1.9816|        0.1368|         0.3786|      0.0263|        0.0163|      0.1137| 90.0000|
+|/players/402830/guillermo-maripan   |           1|         61.9063|           1.4272|        0.1885|         0.6100|      0.0746|        0.0430|      0.0154| 90.0000|
+|/players/696646/axel-disasi         |           1|         60.8153|           1.1253|        0.2159|         0.7788|      0.1092|        0.0839|      0.0403| 90.0000|
+|/players/561046/ruben-aguilar       |           1|         58.0521|           2.5455|        0.0996|         0.4339|      0.0232|        0.0078|      0.1345| 90.0000|
+|/players/554534/alexander-nbel      |           0|         32.6692|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/906945/ismail-jakobs       |          NA|              NA|               NA|        0.0984|         0.1968|      0.0231|        0.0240|      0.0732| 23.7500|
+|/players/866517/myron-boadu         |          NA|              NA|               NA|        0.1350|         0.2576|      0.0483|        0.0355|      0.0150| 15.5385|
+|/players/527103/breel-embolo        |          NA|              NA|               NA|        0.1185|         0.2765|      0.0467|        0.0443|      0.0153| 13.3333|
+|/players/934675/jean-lucas          |          NA|              NA|               NA|        0.0328|         0.2459|      0.0106|        0.0042|      0.0069| 13.1875|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Philippe Clement |       119715|      15.35652|4-3-3     |
