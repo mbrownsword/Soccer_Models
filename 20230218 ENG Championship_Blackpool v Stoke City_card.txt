@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 15:23:51.065"
+[1] "Updated at 2023-02-17 17:10:22.816"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Blackpool 1.0731 to Stoke City 1.1869"
-[1] "Total: 2.26"
-[1] "Blackpool %: 32.66"
-[1] "Draw %: 28.85"
-[1] "Stoke City %: 38.49"
+[1] "Score: Blackpool 1.0114 to Stoke City 1.1826"
+[1] "Total: 2.194"
+[1] "Blackpool %: 31.67"
+[1] "Draw %: 29.23"
+[1] "Stoke City %: 39.1"
 [1] "--XG Model--"
-[1] "Score: Blackpool 1.1999 to Stoke City 1.3426"
-[1] "Total: 2.5425"
-[1] "Blackpool %: 33.72"
-[1] "Draw %: 27.01"
-[1] "Stoke City %: 39.27"
+[1] "Score: Blackpool 1.1115 to Stoke City 1.3712"
+[1] "Total: 2.4827"
+[1] "Blackpool %: 30.76"
+[1] "Draw %: 26.97"
+[1] "Stoke City %: 42.27"
 [1] "--XGoT Model--"
-[1] "Score: Blackpool 1.1199 to Stoke City 1.2735"
-[1] "Total: 2.3934"
-[1] "Blackpool %: 32.35"
-[1] "Draw %: 28.39"
-[1] "Stoke City %: 39.26"
+[1] "Score: Blackpool 0.9993 to Stoke City 1.2675"
+[1] "Total: 2.2668"
+[1] "Blackpool %: 28.69"
+[1] "Draw %: 28.97"
+[1] "Stoke City %: 42.34"
 [1] "--XA Model--"
-[1] "Score: Blackpool 1.1392 to Stoke City 1.0767"
-[1] "Total: 2.2159"
-[1] "Blackpool %: 37.89"
-[1] "Draw %: 29.1"
-[1] "Stoke City %: 33.01"
+[1] "Score: Blackpool 1.1162 to Stoke City 1.0554"
+[1] "Total: 2.1716"
+[1] "Blackpool %: 37.53"
+[1] "Draw %: 29.03"
+[1] "Stoke City %: 33.44"
 [1] "--Mean 4 Models--"
-[1] "Blackpool has a mean win % of 34.16%; a min win % of 32.35%; a max win % of 37.89%."
-[1] "Draw has a mean win % of 28.34%; a min win % of 27.01%; a max win % of 29.1%."
-[1] "Stoke City has a mean win % of 37.51%; a min win % of 33.01%; a max win of % 39.27%."
-[1] "Blackpool has a mean win of the Double Chance of 62.49%; a min win % of 60.73%, a max win % of 66.99%."
-[1] "Stoke City has a mean win of the Double Chance of 65.84%; a min win % of 62.11%, a max win % of 67.65%."
-[1] "The mean likelihood that there are more than 2.5 goals is 41.19%; max % is 45.78 and min % is 37.57%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 58.81%; max % is 62.43 and min % is 54.22%."
+[1] "Blackpool has a mean win % of 32.16%; a min win % of 28.69%; a max win % of 37.53%."
+[1] "Draw has a mean win % of 28.55%; a min win % of 26.97%; a max win % of 29.23%."
+[1] "Stoke City has a mean win % of 39.29%; a min win % of 33.44%; a max win of % 42.34%."
+[1] "Blackpool has a mean win of the Double Chance of 60.71%; a min win % of 57.66%, a max win % of 66.56%."
+[1] "Stoke City has a mean win of the Double Chance of 67.84%; a min win % of 62.47%, a max win % of 71.31%."
+[1] "The mean likelihood that there are more than 2.5 goals is 39.15%; max % is 44.6 and min % is 36.43%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 60.86%; max % is 63.57 and min % is 55.4%."
 [1] "--Sportsbook Odds--"
 [1] "Blackpool Barstool Odds are: 32.26"
 [1] "The Barstool Odds of a Draw are: 31.25"
@@ -45,43 +45,43 @@
 [1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.7, which is a 58.82% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-        bet           date_time
-1 Blackpool 2023-02-18 07:00:00
+  bet           date_time
+1     2023-02-18 07:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                          |team       | expected_attg| expected_gs|bet |
 |:---------------------------------|:----------|-------------:|-----------:|:---|
 |/players/862590/daniel-grimshaw   |Blackpool  |      0.000000|   0.1666667|    |
-|/players/231202/james-husband     |Blackpool  |      0.039875|   0.0500000|    |
-|/players/719340/jordan-thorniley  |Blackpool  |      0.009275|   0.0416667|    |
-|/players/729449/callum-connolly   |Blackpool  |      0.028700|   0.0625000|    |
-|/players/1081081/sonny-carey      |Blackpool  |      0.027950|   0.2272727|    |
-|/players/673437/cj-hamilton       |Blackpool  |      0.068450|   0.1785714|    |
-|/players/844937/josh-bowler       |Blackpool  |      0.102850|   0.2500000|    |
-|/players/562884/kenneth-dougall   |Blackpool  |      0.025200|   0.1111111|    |
-|/players/534394/jake-beesley      |Blackpool  |      0.163275|   0.1052632|*   |
-|/players/933798/beryly-lubala     |Blackpool  |      0.172250|   0.3333333|    |
-|/players/608535/jerry-yates       |Blackpool  |      0.308325|   0.3389831|    |
+|/players/231202/james-husband     |Blackpool  |      0.041950|   0.0500000|    |
+|/players/719340/jordan-thorniley  |Blackpool  |      0.008225|   0.0416667|    |
+|/players/729449/callum-connolly   |Blackpool  |      0.029100|   0.0625000|    |
+|/players/1081081/sonny-carey      |Blackpool  |      0.032750|   0.2272727|    |
+|/players/673437/cj-hamilton       |Blackpool  |      0.070900|   0.1785714|    |
+|/players/844937/josh-bowler       |Blackpool  |      0.090275|   0.2500000|    |
+|/players/562884/kenneth-dougall   |Blackpool  |      0.028150|   0.1111111|    |
+|/players/534394/jake-beesley      |Blackpool  |      0.177650|   0.1052632|*   |
+|/players/933798/beryly-lubala     |Blackpool  |      0.172750|   0.3333333|    |
+|/players/608535/jerry-yates       |Blackpool  |      0.259600|   0.3389831|    |
 |/players/299148/jack-bonham       |Stoke City |      0.000000|   0.0833333|    |
-|/players/793905/dujon-sterling    |Stoke City |      0.026300|   0.0714286|    |
-|/players/406926/morgan-fox        |Stoke City |      0.029225|   0.0588235|    |
-|/players/23268/phil-jagielka      |Stoke City |      0.026250|   0.0909091|    |
-|/players/798603/ben-wilmot        |Stoke City |      0.047400|   0.1250000|    |
-|/players/538499/lewis-baker       |Stoke City |      0.006850|   0.2564103|    |
-|/players/523193/josh-laurent      |Stoke City |      0.134675|   0.1666667|    |
-|/players/525431/bersant-celina    |Stoke City |      0.183825|   0.1666667|    |
-|/players/662728/jordan-thompson   |Stoke City |      0.041400|   0.0909091|    |
-|/players/807925/william-smallbone |Stoke City |      0.210650|   0.1538462|*   |
-|/players/802245/jacob-brown       |Stoke City |      0.281775|   0.3389831|    |
-|/players/652145/shayne-lavery     |Blackpool  |      0.026225|   0.2564103|    |
-|/players/962075/ian-poveda        |Blackpool  |      0.001700|   0.0833333|    |
-|/players/608535/jerry-yates       |Blackpool  |      0.308325|   0.3389831|    |
-|/players/844937/josh-bowler       |Blackpool  |      0.102850|   0.2500000|    |
-|/players/802245/jacob-brown       |Stoke City |      0.281775|   0.3389831|    |
-|/players/807728/tyrese-campbell   |Stoke City |      0.005375|   0.3225806|    |
-|/players/662728/jordan-thompson   |Stoke City |      0.041400|   0.0909091|    |
-|/players/210797/nick-powell       |Stoke City |      0.034650|   0.2941176|    |
+|/players/793905/dujon-sterling    |Stoke City |      0.025300|   0.0714286|    |
+|/players/406926/morgan-fox        |Stoke City |      0.029700|   0.0588235|    |
+|/players/23268/phil-jagielka      |Stoke City |      0.026675|   0.0909091|    |
+|/players/798603/ben-wilmot        |Stoke City |      0.047125|   0.1250000|    |
+|/players/538499/lewis-baker       |Stoke City |      0.007000|   0.2564103|    |
+|/players/523193/josh-laurent      |Stoke City |      0.136375|   0.1666667|    |
+|/players/662728/jordan-thompson   |Stoke City |      0.031150|   0.0909091|    |
+|/players/807925/william-smallbone |Stoke City |      0.216300|   0.1538462|*   |
+|/players/722741/josh-tymon        |Stoke City |      0.182600|   0.2439024|    |
+|/players/802245/jacob-brown       |Stoke City |      0.271700|   0.3389831|    |
+|/players/652145/shayne-lavery     |Blackpool  |      0.008150|   0.2564103|    |
+|/players/962075/ian-poveda        |Blackpool  |      0.000000|   0.0833333|    |
+|/players/201787/curtis-nelson     |Blackpool  |      0.000000|   0.0588235|    |
+|/players/775612/jordan-gabriel    |Blackpool  |      0.000000|   0.0416667|    |
+|/players/210797/nick-powell       |Stoke City |      0.040500|   0.2941176|    |
+|/players/807728/tyrese-campbell   |Stoke City |      0.005275|   0.3225806|    |
+|/players/363340/dwight-gayle      |Stoke City |      0.019425|   0.3389831|    |
+|/players/179028/sam-clucas        |Stoke City |      0.000000|   0.2702703|    |
 ____________________________________________________
 
 [1] "Facts about Blackpool:"
@@ -101,10 +101,10 @@ ____________________________________________________
 |/players/534394/jake-beesley     |           4|         16.4417|           1.2319|        0.5407|         1.7797|      0.1893|        0.1785|      0.0132| 83.0000|
 |/players/933798/beryly-lubala    |           4|         27.7872|           0.6396|        0.5863|         1.5401|      0.1804|        0.1785|      0.1891| 90.0000|
 |/players/608535/jerry-yates      |           5|         15.8516|           0.6038|        0.7412|         2.0377|      0.3008|        0.2806|      0.0717| 90.0000|
-|/players/652145/shayne-lavery    |           0|              NA|               NA|        0.0334|         0.0890|      0.0125|        0.0268|      0.0108|  8.9091|
-|/players/962075/ian-poveda       |           0|              NA|               NA|        0.0326|         0.0979|      0.0084|        0.0024|      0.0152|  8.6316|
-|/players/608535/jerry-yates      |           0|              NA|               NA|        0.1112|         0.2641|      0.0581|        0.0815|      0.0179|  7.6739|
-|/players/844937/josh-bowler      |           0|              NA|               NA|        0.0514|         0.2057|      0.0185|        0.0189|      0.0160|  7.0000|
+|/players/652145/shayne-lavery    |           0|              NA|               NA|        0.0166|         0.0662|      0.0079|        0.0089|      0.0113|  8.9091|
+|/players/962075/ian-poveda       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0237|  8.6316|
+|/players/201787/curtis-nelson    |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  7.6739|
+|/players/775612/jordan-gabriel   |           0|              NA|               NA|        0.0000|         0.0495|      0.0012|        0.0000|      0.0020|  7.0000|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
@@ -125,14 +125,14 @@ ____________________________________________________
 |/players/798603/ben-wilmot        |           1|         62.1412|           1.6004|        0.1458|         0.8873|      0.1070|        0.0549|      0.0447| 90.0000|
 |/players/538499/lewis-baker       |           2|         54.0698|           1.4766|        0.3280|         1.2700|      0.0711|        0.0076|      0.1095| 90.0000|
 |/players/523193/josh-laurent      |           2|         50.7531|           2.6299|        0.2860|         0.6676|      0.0960|        0.1725|      0.0384| 90.0000|
-|/players/525431/bersant-celina    |           3|         31.4307|           0.7462|        0.8727|         2.2489|      0.2180|        0.2448|      0.1633| 81.0877|
-|/players/662728/jordan-thompson   |           3|         28.8320|           1.0169|        0.3546|         1.2091|      0.1323|        0.0376|      0.1237| 80.0820|
-|/players/807925/william-smallbone |           3|         26.9371|           1.8295|        0.4884|         1.5294|      0.1761|        0.2757|      0.1249| 77.7742|
+|/players/662728/jordan-thompson   |           3|         30.4883|           0.9542|        0.4348|         1.5341|      0.1455|        0.0385|      0.1249| 80.0820|
+|/players/807925/william-smallbone |           3|         28.4846|           1.7166|        0.5989|         1.9406|      0.1936|        0.2816|      0.1261| 77.7742|
+|/players/722741/josh-tymon        |           3|         29.4341|           0.9701|        0.7073|         1.5597|      0.1949|        0.2380|      0.1682| 84.8167|
 |/players/802245/jacob-brown       |           5|         18.5330|           0.5417|        0.9688|         2.4260|      0.3830|        0.3696|      0.0681| 82.7191|
-|/players/802245/jacob-brown       |           0|              NA|               NA|        0.0934|         0.3035|      0.0276|        0.0241|      0.0065| 12.2258|
-|/players/807728/tyrese-campbell   |           0|              NA|               NA|        0.0652|         0.2739|      0.0440|        0.0065|      0.0126|  9.9180|
-|/players/662728/jordan-thompson   |           0|              NA|               NA|        0.0529|         0.1269|      0.0098|        0.0142|      0.0326|  8.9123|
-|/players/210797/nick-powell       |           0|              NA|               NA|        0.0808|         0.2020|      0.0345|        0.0394|      0.0093|  7.2809|
+|/players/210797/nick-powell       |           0|              NA|               NA|        0.1295|         0.3561|      0.0441|        0.0461|      0.0117| 12.2258|
+|/players/807728/tyrese-campbell   |           0|              NA|               NA|        0.0807|         0.2958|      0.0290|        0.0068|      0.0106|  9.9180|
+|/players/363340/dwight-gayle      |           0|              NA|               NA|        0.0450|         0.2251|      0.0629|        0.0253|      0.0090|  7.2809|
+|/players/179028/sam-clucas        |           0|              NA|               NA|        0.0000|         0.0360|      0.0009|        0.0000|      0.0011|  5.1833|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
