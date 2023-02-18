@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 16:42:43.622"
+[1] "Updated at 2023-02-18 14:35:01.235"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Atlético San Luis 1.1061 to Santos Laguna 1.6813"
-[1] "Total: 2.7874"
-[1] "Atlético San Luis %: 25.61"
-[1] "Draw %: 24.41"
-[1] "Santos Laguna %: 49.98"
+[1] "Score: Atlético San Luis 1.0572 to Santos Laguna 1.6538"
+[1] "Total: 2.711"
+[1] "Atlético San Luis %: 24.96"
+[1] "Draw %: 24.92"
+[1] "Santos Laguna %: 50.12"
 [1] "--XG Model--"
-[1] "Score: Atlético San Luis 1.1373 to Santos Laguna 1.6604"
-[1] "Total: 2.7977"
-[1] "Atlético San Luis %: 25.77"
-[1] "Draw %: 25.12"
-[1] "Santos Laguna %: 49.11"
+[1] "Score: Atlético San Luis 1.129 to Santos Laguna 1.4358"
+[1] "Total: 2.5648"
+[1] "Atlético San Luis %: 30.28"
+[1] "Draw %: 25.97"
+[1] "Santos Laguna %: 43.75"
 [1] "--XGoT Model--"
-[1] "Score: Atlético San Luis 1.1286 to Santos Laguna 2.1097"
-[1] "Total: 3.2383"
-[1] "Atlético San Luis %: 19.57"
-[1] "Draw %: 20.93"
-[1] "Santos Laguna %: 59.5"
+[1] "Score: Atlético San Luis 1.2304 to Santos Laguna 2.1073"
+[1] "Total: 3.3377"
+[1] "Atlético San Luis %: 21.08"
+[1] "Draw %: 20.98"
+[1] "Santos Laguna %: 57.94"
 [1] "--XA Model--"
-[1] "Score: Atlético San Luis 1.2279 to Santos Laguna 1.248"
-[1] "Total: 2.4759"
-[1] "Atlético San Luis %: 35.88"
-[1] "Draw %: 27.64"
-[1] "Santos Laguna %: 36.48"
+[1] "Score: Atlético San Luis 1.2365 to Santos Laguna 1.2573"
+[1] "Total: 2.4938"
+[1] "Atlético San Luis %: 36.28"
+[1] "Draw %: 27.1"
+[1] "Santos Laguna %: 36.62"
 [1] "--Mean 4 Models--"
-[1] "Atlético San Luis has a mean win % of 26.71%; a min win % of 19.57%; a max win % of 35.88%."
-[1] "Draw has a mean win % of 24.52%; a min win % of 20.93%; a max win % of 27.64%."
-[1] "Santos Laguna has a mean win % of 48.77%; a min win % of 36.48%; a max win of % 59.5%."
-[1] "Atlético San Luis has a mean win of the Double Chance of 51.23%; a min win % of 40.5%, a max win % of 63.52%."
-[1] "Santos Laguna has a mean win of the Double Chance of 73.29%; a min win % of 64.12%, a max win % of 80.43%."
-[1] "The mean likelihood that there are more than 2.5 goals is 52.51%; max % is 62.54 and min % is 43.7%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 47.49%; max % is 56.3 and min % is 37.46%."
+[1] "Atlético San Luis has a mean win % of 28.15%; a min win % of 21.08%; a max win % of 36.28%."
+[1] "Draw has a mean win % of 24.74%; a min win % of 20.98%; a max win % of 27.1%."
+[1] "Santos Laguna has a mean win % of 47.11%; a min win % of 36.62%; a max win of % 57.94%."
+[1] "Atlético San Luis has a mean win of the Double Chance of 52.89%; a min win % of 42.06%, a max win % of 63.38%."
+[1] "Santos Laguna has a mean win of the Double Chance of 71.85%; a min win % of 63.72%, a max win % of 78.92%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.54%; max % is 64.4 and min % is 44.11%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.46%; max % is 55.89 and min % is 35.6%."
 [1] "--Sportsbook Odds--"
 [1] "Atlético San Luis Barstool Odds are: 37.04"
 [1] "The Barstool Odds of a Draw are: 28.57"
@@ -53,58 +53,58 @@
 |pageUrl2                           |team               | expected_attg| expected_gs|bet |
 |:----------------------------------|:------------------|-------------:|-----------:|:---|
 |/players/113577/marcelo-barovero   |Atlético San Luis |      0.000000|   0.2500000|    |
-|/players/661270/jose-garcia        |Atlético San Luis |      0.010975|   0.0833333|    |
-|/players/559969/rodrigo-gonzalez   |Atlético San Luis |      0.014825|   0.0714286|    |
-|/players/616540/unai-bilbao        |Atlético San Luis |      0.046425|   0.1428571|    |
-|/players/659597/ricardo-chavez     |Atlético San Luis |      0.060225|   0.1428571|    |
-|/players/391602/rodrigo-dourado    |Atlético San Luis |      0.073375|   0.1250000|    |
-|/players/518567/dieter-villalpando |Atlético San Luis |      0.136100|   0.1250000|    |
-|/players/1053963/juan-sanabria     |Atlético San Luis |      0.125475|   0.2272727|    |
-|/players/471119/javier-guemez      |Atlético San Luis |      0.025200|   0.0714286|    |
-|/players/444351/angel-zaldivar     |Atlético San Luis |      0.331475|   0.3508772|    |
-|/players/423024/jhon-murillo       |Atlético San Luis |      0.140175|   0.2380952|    |
-|/players/751164/carlos-acevedo     |Santos Laguna      |      0.000000|   0.0526316|    |
-|/players/432851/raul-lopez         |Santos Laguna      |      0.037500|   0.1538462|    |
-|/players/320686/matheus-doria      |Santos Laguna      |      0.041950|   0.1333333|    |
-|/players/200588/hugo-rodriguez     |Santos Laguna      |      0.023075|   0.0714286|    |
-|/players/1222470/omar-campos       |Santos Laguna      |      0.016850|   0.1111111|    |
-|/players/1096623/diego-medina      |Santos Laguna      |      0.160100|   0.2222222|    |
-|/players/1174785/jair-gonzalez     |Santos Laguna      |      0.003050|   0.1538462|    |
-|/players/793586/juan-brunetta      |Santos Laguna      |      0.197275|   0.2941176|    |
-|/players/848049/alan-cervantes     |Santos Laguna      |      0.004250|   0.0400000|    |
-|/players/564613/javier-correa      |Santos Laguna      |      0.132675|   0.3225806|    |
-|/players/466600/harold-preciado    |Santos Laguna      |      0.358425|   0.4444444|    |
-|/players/1256627/vitinho           |Atlético San Luis |      0.005875|   0.2083333|    |
-|/players/672836/juan-castro        |Atlético San Luis |      0.000000|   0.1538462|    |
-|/players/1169756/uziel-garcia      |Atlético San Luis |      0.000000|   0.0588235|    |
-|/players/889620/mateo-klimowicz    |Atlético San Luis |      0.004475|   0.2857143|    |
-|/players/1200713/emerson-rodriguez |Santos Laguna      |      0.179900|   0.2040816|    |
-|/players/1085770/jose-lozano       |Santos Laguna      |      0.147600|   0.1851852|    |
-|/players/1138422/aldo-lopez        |Santos Laguna      |      0.000000|   0.1250000|    |
-|/players/890329/jose-avila         |Santos Laguna      |      0.098150|   0.1666667|    |
+|/players/661270/jose-garcia        |Atlético San Luis |      0.015625|   0.0833333|    |
+|/players/1169756/uziel-garcia      |Atlético San Luis |      0.015725|   0.0588235|    |
+|/players/616540/unai-bilbao        |Atlético San Luis |      0.063275|   0.1428571|    |
+|/players/889620/mateo-klimowicz    |Atlético San Luis |      0.069175|   0.2857143|    |
+|/players/1053963/juan-sanabria     |Atlético San Luis |      0.065975|   0.2272727|    |
+|/players/391602/rodrigo-dourado    |Atlético San Luis |      0.039775|   0.1250000|    |
+|/players/471119/javier-guemez      |Atlético San Luis |      0.012275|   0.0714286|    |
+|/players/659597/ricardo-chavez     |Atlético San Luis |      0.111600|   0.1428571|    |
+|/players/423024/jhon-murillo       |Atlético San Luis |      0.156025|   0.2380952|    |
+|/players/267383/lo                 |Atlético San Luis |      0.353300|   0.1428571|*   |
+|/players/466600/harold-preciado    |Santos Laguna      |      0.244900|   0.4444444|    |
+|/players/1096623/diego-medina      |Santos Laguna      |      0.320450|   0.2272727|*   |
+|/players/848049/alan-cervantes     |Santos Laguna      |      0.002225|   0.0400000|    |
+|/players/1138422/aldo-lopez        |Santos Laguna      |      0.009525|   0.1333333|    |
+|/players/793586/juan-brunetta      |Santos Laguna      |      0.142225|   0.3030303|    |
+|/players/1085770/jose-lozano       |Santos Laguna      |      0.031225|   0.1851852|    |
+|/players/320686/matheus-doria      |Santos Laguna      |      0.078675|   0.1333333|    |
+|/players/1222470/omar-campos       |Santos Laguna      |      0.031925|   0.1111111|    |
+|/players/432851/raul-lopez         |Santos Laguna      |      0.070575|   0.1538462|    |
+|/players/200588/hugo-rodriguez     |Santos Laguna      |      0.041600|   0.0769231|    |
+|/players/751164/carlos-acevedo     |Santos Laguna      |      0.000000|   0.1538462|    |
+|/players/444351/angel-zaldivar     |Atlético San Luis |      0.080175|   0.0000000|*   |
+|/players/672836/juan-castro        |Atlético San Luis |      0.000000|   0.0000000|    |
+|/players/1256627/vitinho           |Atlético San Luis |      0.002825|   0.0000000|    |
+|/players/417552/david-andrade      |Atlético San Luis |      0.000000|   0.0000000|    |
+|/players/1200713/emerson-rodriguez |Santos Laguna      |      0.125475|   0.0000000|*   |
+|/players/564613/javier-correa      |Santos Laguna      |      0.201725|   0.0000000|*   |
+|/players/1174785/jair-gonzalez     |Santos Laguna      |      0.007725|   0.0000000|    |
+|/players/890329/jose-avila         |Santos Laguna      |      0.041450|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Atlético San Luis:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/113577/marcelo-barovero   |           0|         23.3404|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/661270/jose-garcia        |           1|         45.7128|           1.3801|        0.0870|         0.5683|      0.0353|        0.0144|      0.0021| 90.0000|
-|/players/559969/rodrigo-gonzalez   |           1|         37.2408|           0.8197|        0.0870|         0.1083|      0.0085|        0.0144|      0.0090| 90.0000|
-|/players/616540/unai-bilbao        |           1|         41.5617|           1.1967|        0.1613|         0.8469|      0.0932|        0.0602|      0.0267| 90.0000|
-|/players/659597/ricardo-chavez     |           1|         34.6354|           2.6129|        0.2450|         0.7489|      0.0606|        0.0706|      0.1686| 90.0000|
-|/players/391602/rodrigo-dourado    |           3|         34.6674|           2.4205|        0.3098|         0.7817|      0.0467|        0.0888|      0.0462| 77.6897|
-|/players/518567/dieter-villalpando |           3|         30.0739|           1.1999|        0.5491|         1.7632|      0.1307|        0.1628|      0.1272| 74.5333|
-|/players/1053963/juan-sanabria     |           3|         27.7642|           1.6548|        0.3825|         1.2737|      0.1696|        0.1542|      0.1419| 90.0000|
-|/players/471119/javier-guemez      |           3|         37.7218|           1.5604|        0.2434|         1.1260|      0.0598|        0.0279|      0.0620| 90.0000|
-|/players/444351/angel-zaldivar     |           5|         16.4756|           0.6844|        0.9910|         2.9435|      0.3746|        0.4574|      0.0389| 75.5814|
-|/players/423024/jhon-murillo       |           5|         20.5238|           0.5126|        0.5307|         1.1454|      0.1248|        0.1694|      0.1108| 77.9487|
-|/players/1256627/vitinho           |           0|              NA|               NA|        0.1658|         0.8289|      0.0789|        0.0061|      0.0124| 15.4667|
-|/players/672836/juan-castro        |           0|              NA|               NA|        0.0000|         0.2439|      0.0194|        0.0000|      0.0081| 14.4186|
-|/players/1169756/uziel-garcia      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0230| 12.3103|
-|/players/889620/mateo-klimowicz    |           0|              NA|               NA|        0.1756|         0.3512|      0.0383|        0.0055|      0.0246| 12.0513|
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/113577/marcelo-barovero |           0|         22.2869|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/661270/jose-garcia      |           1|         52.8357|           1.2558|        0.1322|         0.5378|      0.0525|        0.0187|      0.0039| 90.0000|
+|/players/1169756/uziel-garcia    |           1|         36.3067|           2.0760|        0.1322|         0.4281|      0.0300|        0.0187|      0.0346| 90.0000|
+|/players/616540/unai-bilbao      |           1|         48.0378|           1.0889|        0.2452|         0.8015|      0.1387|        0.0778|      0.0493| 90.0000|
+|/players/889620/mateo-klimowicz  |           3|         16.7532|           1.0285|        0.4716|         1.5654|      0.1068|        0.0916|      0.0804| 62.0000|
+|/players/1053963/juan-sanabria   |           3|         30.8061|           1.5130|        0.1606|         1.0554|      0.0847|        0.0853|      0.1563| 90.0000|
+|/players/391602/rodrigo-dourado  |           3|         38.4657|           2.2130|        0.1301|         0.6477|      0.0233|        0.0492|      0.0509| 77.6897|
+|/players/471119/javier-guemez    |           3|         41.8546|           1.4266|        0.1022|         0.9330|      0.0299|        0.0155|      0.0683| 90.0000|
+|/players/659597/ricardo-chavez   |           3|         31.9416|           1.4547|        0.2117|         1.1597|      0.0964|        0.1437|      0.1119| 90.0000|
+|/players/423024/jhon-murillo     |           5|         17.0692|           0.9148|        0.6694|         1.1182|      0.1164|        0.1979|      0.1263| 77.9487|
+|/players/267383/lo               |           5|         17.5084|           0.6074|        1.0402|         2.6571|      0.3925|        0.5315|      0.0527| 74.5484|
+|/players/444351/angel-zaldivar   |           0|              NA|               NA|        0.3494|         1.1481|      0.0963|        0.0998|      0.0378| 28.0000|
+|/players/672836/juan-castro      |           0|              NA|               NA|        0.0287|         0.2297|      0.0128|        0.0000|      0.0070| 15.4516|
+|/players/1256627/vitinho         |           0|              NA|               NA|        0.1127|         0.6761|      0.0453|        0.0039|      0.0096| 12.3103|
+|/players/417552/david-andrade    |           0|              NA|               NA|        0.0000|         0.2426|      0.0066|        0.0000|      0.0214| 12.0513|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Santos Laguna:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/751164/carlos-acevedo     |           0|         19.1090|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/432851/raul-lopez         |           1|         40.1647|           2.3350|        0.2125|         0.4828|      0.0268|        0.0513|      0.1031| 90.0000|
-|/players/320686/matheus-doria      |           1|         44.6141|           1.0513|        0.2292|         0.8674|      0.0820|        0.0581|      0.0125| 90.0000|
-|/players/200588/hugo-rodriguez     |           1|         41.6583|           1.4114|        0.1185|         0.4231|      0.0381|        0.0310|      0.0162| 90.0000|
-|/players/1222470/omar-campos       |           1|         38.5788|           2.1717|        0.0940|         0.5433|      0.0258|        0.0232|      0.0727| 90.0000|
-|/players/1096623/diego-medina      |           3|         15.8627|           0.7773|        0.2607|         0.5330|      0.0510|        0.2381|      0.0806| 59.2500|
-|/players/1174785/jair-gonzalez     |           3|         18.5065|           0.7773|        0.1738|         0.5330|      0.0213|        0.0043|      0.0683| 59.5833|
-|/players/793586/juan-brunetta      |           3|         42.4894|           1.8323|        1.0056|         3.1220|      0.2552|        0.2920|      0.1326| 77.6429|
-|/players/848049/alan-cervantes     |           3|         46.3502|           3.4578|        0.1299|         0.6829|      0.0442|        0.0049|      0.0171| 90.0000|
-|/players/564613/javier-correa      |           5|         17.3728|           0.9426|        0.8793|         2.4785|      0.2505|        0.1913|      0.0493| 80.5098|
-|/players/466600/harold-preciado    |           5|         21.6047|           0.6569|        1.1801|         2.4576|      0.4254|        0.5862|      0.1134| 90.0000|
-|/players/1200713/emerson-rodriguez |           0|              NA|               NA|        0.8012|         1.1573|      0.1219|        0.2568|      0.0588| 30.7500|
-|/players/1085770/jose-lozano       |           0|              NA|               NA|        0.2648|         0.2648|      0.1760|        0.2166|      0.0026| 30.4167|
-|/players/1138422/aldo-lopez        |           0|              NA|               NA|        0.0000|         0.3143|      0.0125|        0.0000|      0.0047| 12.3571|
-|/players/890329/jose-avila         |           0|              NA|               NA|        0.1599|         0.6394|      0.1063|        0.1325|      0.0144|  9.4902|
+|/players/466600/harold-preciado    |           5|         20.3513|           0.2931|        1.1824|         3.7035|      0.3269|        0.3903|      0.1412| 83.2581|
+|/players/1096623/diego-medina      |           5|         15.0724|           0.8356|        0.9164|         1.6639|      0.3224|        0.5261|      0.0199| 65.6667|
+|/players/848049/alan-cervantes     |           3|         38.1180|           2.1426|        0.1081|         0.4814|      0.0279|        0.0036|      0.0268| 90.0000|
+|/players/1138422/aldo-lopez        |           3|         40.2232|           2.8899|        0.2892|         0.3758|      0.0126|        0.0128|      0.0217| 90.0000|
+|/players/793586/juan-brunetta      |           3|         34.9429|           1.1353|        0.8366|         2.2011|      0.1610|        0.2154|      0.2082| 77.6429|
+|/players/1085770/jose-lozano       |           1|         15.5808|           0.7541|        0.0803|         0.1923|      0.0191|        0.0456|      0.1009| 68.8000|
+|/players/320686/matheus-doria      |           1|         45.8474|           1.1523|        0.2561|         1.2673|      0.1193|        0.1143|      0.0078| 90.0000|
+|/players/1222470/omar-campos       |           1|         39.6452|           2.3802|        0.1050|         0.7938|      0.0376|        0.0456|      0.0451| 90.0000|
+|/players/432851/raul-lopez         |           1|         41.2749|           2.5592|        0.2374|         0.7054|      0.0390|        0.1008|      0.0640| 90.0000|
+|/players/200588/hugo-rodriguez     |           1|         42.8099|           1.5470|        0.1324|         0.6182|      0.0555|        0.0610|      0.0100| 90.0000|
+|/players/751164/carlos-acevedo     |           0|         19.3790|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1200713/emerson-rodriguez |           0|              NA|               NA|        0.4399|         0.7820|      0.0759|        0.1880|      0.0505| 24.3333|
+|/players/564613/javier-correa      |           0|              NA|               NA|        0.6584|         1.7283|      0.1595|        0.3108|      0.0165| 21.2000|
+|/players/1174785/jair-gonzalez     |           0|              NA|               NA|        0.1322|         0.2644|      0.0106|        0.0090|      0.0352| 12.3571|
+|/players/890329/jose-avila         |           0|              NA|               NA|        0.0766|         0.4598|      0.0453|        0.0606|      0.0077|  6.7419|
 
 
 |manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
