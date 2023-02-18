@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 20:49:11.604"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AFC Wimbledon 1.2267 to Hartlepool 0.9322"
+[1] "Total: 2.1589"
+[1] "AFC Wimbledon %: 43.19"
+[1] "Draw %: 28.87"
+[1] "Hartlepool %: 27.94"
+[1] "--XG Model--"
+[1] "Score: AFC Wimbledon 1.204 to Hartlepool 0.694"
+[1] "Total: 1.898"
+[1] "AFC Wimbledon %: 48.06"
+[1] "Draw %: 31.28"
+[1] "Hartlepool %: 20.66"
+[1] "--XGoT Model--"
+[1] "Score: AFC Wimbledon 1.57 to Hartlepool 0.8678"
+[1] "Total: 2.4378"
+[1] "AFC Wimbledon %: 54.28"
+[1] "Draw %: 25.28"
+[1] "Hartlepool %: 20.44"
+[1] "--XA Model--"
+[1] "Score: AFC Wimbledon 1.2076 to Hartlepool 0.8413"
+[1] "Total: 2.0489"
+[1] "AFC Wimbledon %: 44.41"
+[1] "Draw %: 30.01"
+[1] "Hartlepool %: 25.58"
+[1] "--Mean 4 Models--"
+[1] "AFC Wimbledon has a mean win % of 47.48%; a min win % of 43.19%; a max win % of 54.28%."
+[1] "Draw has a mean win % of 28.86%; a min win % of 25.28%; a max win % of 31.28%."
+[1] "Hartlepool has a mean win % of 23.66%; a min win % of 20.44%; a max win of % 27.94%."
+[1] "AFC Wimbledon has a mean win of the Double Chance of 76.34%; a min win % of 72.06%, a max win % of 79.56%."
+[1] "Hartlepool has a mean win of the Double Chance of 52.52%; a min win % of 45.72%, a max win % of 56.81%."
+[1] "The mean likelihood that there are more than 2.5 goals is 35.23%; max % is 43.22 and min % is 28.4%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 64.77%; max % is 71.6 and min % is 56.78%."
+[1] "--Sportsbook Odds--"
+[1] "AFC Wimbledon Barstool Odds are: 55.56"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Hartlepool Barstool Odds are: 23.26"
+[1] "AFC Wimbledon Adjusted Barstool Odds are: 51.737"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.604"
+[1] "Hartlepool Adjusted Barstool Odds are: 21.659"
+[1] "AFC Wimbledon's Barstool Odds to cover the -0.5 spread are: 55.56"
+[1] "Hartlepool's Barstool Odds to cover the 0.5 spread are: 51.02"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.65, which is a 60.61% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team          | expected_attg| expected_gs|bet |
+|:----------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/643659/nikola-tzanev      |AFC Wimbledon |      0.000000|   0.0909091|    |
+|/players/49709/alex-pearce         |AFC Wimbledon |      0.085975|   0.0526316|    |
+|/players/731264/paul-kalambayi     |AFC Wimbledon |      0.029300|   0.0952381|    |
+|/players/184335/lee-brown          |AFC Wimbledon |      0.050425|   0.0769231|    |
+|/players/886144/george-marsh       |AFC Wimbledon |      0.018150|   0.0952381|    |
+|/players/38067/chris-gunter        |AFC Wimbledon |      0.020775|   0.0833333|    |
+|/players/1220583/jack-currie       |AFC Wimbledon |      0.030250|   0.0526316|    |
+|/players/204079/harry-pell         |AFC Wimbledon |      0.111225|   0.2564103|    |
+|/players/981181/ethan-chislett     |AFC Wimbledon |      0.166025|   0.3389831|    |
+|/players/711363/diallang-jaiyesimi |AFC Wimbledon |      0.318725|   0.2857143|    |
+|/players/1105523/josh-davison      |AFC Wimbledon |      0.204725|   0.3921569|    |
+|/players/789590/ben-killip         |Hartlepool    |      0.000000|   0.1333333|    |
+|/players/46266/peter-hartley       |Hartlepool    |      0.037400|   0.0769231|    |
+|/players/215318/alex-lacey         |Hartlepool    |      0.020650|   0.1851852|    |
+|/players/310374/euan-murray        |Hartlepool    |      0.002950|   0.0555556|    |
+|/players/631245/jamie-sterry       |Hartlepool    |      0.020175|   0.0952381|    |
+|/players/245298/brendan-kiernan    |Hartlepool    |      0.080825|   0.1754386|    |
+|/players/715603/mohamad-sylla      |Hartlepool    |      0.015950|   0.0769231|    |
+|/players/47377/nicky-featherstone  |Hartlepool    |      0.015250|   0.0769231|    |
+|/players/789625/callum-cooke       |Hartlepool    |      0.077325|   0.1886792|    |
+|/players/865355/jack-hamilton      |Hartlepool    |      0.119025|   0.2173913|    |
+|/players/683371/josh-umerah        |Hartlepool    |      0.244875|   0.2777778|    |
+|/players/660320/armani-little      |AFC Wimbledon |      0.032400|   0.1111111|    |
+|/players/956624/saikou-janneh      |AFC Wimbledon |      0.037975|   0.3030303|    |
+|/players/202066/alex-woodyard      |AFC Wimbledon |      0.000000|   0.0952381|    |
+|/players/956624/saikou-janneh      |AFC Wimbledon |      0.037975|   0.3030303|    |
+|/players/882336/wes-mcdonald       |Hartlepool    |      0.048175|   0.0833333|    |
+|/players/1116458/joe-grey          |Hartlepool    |      0.000000|   0.2083333|    |
+|/players/303347/connor-jennings    |Hartlepool    |      0.042275|   0.2083333|    |
+|/players/726712/oliver-finney      |Hartlepool    |      0.000000|   0.1176471|    |
+____________________________________________________
+
+[1] "Facts about AFC Wimbledon:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/643659/nikola-tzanev      |           0|         29.8263|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/49709/alex-pearce         |           1|         44.9418|           0.8969|        0.1648|         0.3568|      0.0532|        0.1141|      0.0081| 80.4107|
+|/players/731264/paul-kalambayi     |           1|         33.0704|           1.4149|        0.0542|         0.6255|      0.0962|        0.0383|      0.0096| 90.0000|
+|/players/184335/lee-brown          |           1|         49.7102|           1.6088|        0.3649|         0.8935|      0.0294|        0.0671|      0.0884| 90.0000|
+|/players/886144/george-marsh       |           3|         40.3434|           2.6087|        0.1528|         0.5757|      0.0443|        0.0228|      0.0249| 90.0000|
+|/players/38067/chris-gunter        |           3|         32.7133|           0.9430|        0.1335|         0.4642|      0.0334|        0.0250|      0.1073| 90.0000|
+|/players/1220583/jack-currie       |           3|         28.4910|           2.4192|        0.1417|         0.5749|      0.0351|        0.0395|      0.1433| 81.6923|
+|/players/204079/harry-pell         |           3|         43.1917|           1.0352|        0.5186|         1.8293|      0.0948|        0.1486|      0.1073| 90.0000|
+|/players/981181/ethan-chislett     |           3|         26.5379|           1.7351|        0.5159|         1.6442|      0.1356|        0.2276|      0.1351| 79.2800|
+|/players/711363/diallang-jaiyesimi |           5|         17.6443|           0.9444|        0.5854|         2.2201|      0.3183|        0.4848|      0.0776| 75.8000|
+|/players/1105523/josh-davison      |           5|         18.7080|           0.2752|        1.3158|         2.2258|      0.2778|        0.2810|      0.0726| 90.0000|
+|/players/660320/armani-little      |           0|              NA|               NA|        0.0592|         0.4145|      0.0249|        0.0450|      0.0148| 14.2000|
+|/players/956624/saikou-janneh      |           0|              NA|               NA|        0.1176|         0.2939|      0.0185|        0.0495|      0.0067| 10.7200|
+|/players/202066/alex-woodyard      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  9.5893|
+|/players/956624/saikou-janneh      |           0|              NA|               NA|        0.0000|         0.6286|      0.0158|        0.0000|      0.0031|  8.3077|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Johnnie Jackson |        27372|     0.1474576|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Hartlepool:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/789590/ben-killip        |           0|         28.2259|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/46266/peter-hartley      |           1|         31.8603|           1.1985|        0.1640|         0.6877|      0.0711|        0.0456|      0.0216| 90.0000|
+|/players/215318/alex-lacey        |           1|         44.6323|           2.1143|        0.1136|         0.4913|      0.0256|        0.0265|      0.0252| 90.0000|
+|/players/310374/euan-murray       |           1|         39.9077|           1.5395|        0.0255|         0.1840|      0.0072|        0.0043|      0.0178| 90.0000|
+|/players/631245/jamie-sterry      |           3|         26.4687|           1.4426|        0.2501|         0.7729|      0.0166|        0.0254|      0.0717| 77.7222|
+|/players/245298/brendan-kiernan   |           3|         15.8527|           1.0244|        0.2694|         0.7885|      0.0713|        0.1015|      0.0983| 73.3846|
+|/players/715603/mohamad-sylla     |           3|         28.7583|           3.3260|        0.0949|         0.8334|      0.0535|        0.0198|      0.0482| 90.0000|
+|/players/47377/nicky-featherstone |           3|         46.3267|           1.3509|        0.1269|         0.3219|      0.0024|        0.0198|      0.0510| 90.0000|
+|/players/789625/callum-cooke      |           4|         28.2246|           1.2944|        0.4603|         1.4723|      0.1127|        0.1022|      0.0763| 90.0000|
+|/players/865355/jack-hamilton     |           5|         17.2402|           0.6762|        0.4508|         1.0594|      0.0703|        0.1519|      0.0768| 69.3684|
+|/players/683371/josh-umerah       |           5|         12.0535|           0.6840|        0.9516|         2.5559|      0.2850|        0.3411|      0.0485| 83.8148|
+|/players/882336/wes-mcdonald      |           0|              NA|               NA|        0.3639|         0.7278|      0.0345|        0.0600|      0.0404| 20.6316|
+|/players/1116458/joe-grey         |           0|              NA|               NA|        0.0000|         0.0601|      0.0000|        0.0000|      0.0081| 16.6154|
+|/players/303347/connor-jennings   |           0|              NA|               NA|        0.1512|         0.3023|      0.0263|        0.0520|      0.0030| 12.2778|
+|/players/726712/oliver-finney     |           0|              NA|               NA|        0.0000|         0.0776|      0.0000|        0.0000|      0.0054|  6.1852|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Keith Curle  |        19723|     -3.534839|3-4-1-2   |
