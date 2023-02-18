@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 10:17:04.517"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Elche 1.1399 to Espanyol 1.0271"
+[1] "Total: 2.167"
+[1] "Elche %: 38.76"
+[1] "Draw %: 29.34"
+[1] "Espanyol %: 31.9"
+[1] "--XG Model--"
+[1] "Score: Elche 1.215 to Espanyol 1.0628"
+[1] "Total: 2.2778"
+[1] "Elche %: 40.18"
+[1] "Draw %: 28.38"
+[1] "Espanyol %: 31.44"
+[1] "--XGoT Model--"
+[1] "Score: Elche 1.2225 to Espanyol 1.1187"
+[1] "Total: 2.3412"
+[1] "Elche %: 38.88"
+[1] "Draw %: 28.22"
+[1] "Espanyol %: 32.9"
+[1] "--XA Model--"
+[1] "Score: Elche 1.1534 to Espanyol 1.0258"
+[1] "Total: 2.1792"
+[1] "Elche %: 39.28"
+[1] "Draw %: 29.04"
+[1] "Espanyol %: 31.68"
+[1] "--Mean 4 Models--"
+[1] "Elche has a mean win % of 39.27%; a min win % of 38.76%; a max win % of 40.18%."
+[1] "Draw has a mean win % of 28.74%; a min win % of 28.22%; a max win % of 29.34%."
+[1] "Espanyol has a mean win % of 31.98%; a min win % of 31.44%; a max win of % 32.9%."
+[1] "Elche has a mean win of the Double Chance of 68.02%; a min win % of 67.1%, a max win % of 68.56%."
+[1] "Espanyol has a mean win of the Double Chance of 60.73%; a min win % of 59.82%, a max win % of 61.24%."
+[1] "The mean likelihood that there are more than 2.5 goals is 37.99%; max % is 40.39 and min % is 36.22%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 62.01%; max % is 63.78 and min % is 59.61%."
+[1] "--Sportsbook Odds--"
+[1] "Elche Barstool Odds are: 35.71"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Espanyol Barstool Odds are: 38.1"
+[1] "Elche Adjusted Barstool Odds are: 33.829"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.078"
+[1] "Espanyol Adjusted Barstool Odds are: 36.093"
+[1] "Elche's Barstool Odds to cover the 0 spread are: 50.76"
+[1] "Espanyol's Barstool Odds to cover the 0 spread are: 53.76"
+[1] "Barstool's line for the total is 2.5 at 2.35, which is a 42.55% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+    bet           date_time
+1 Elche 2023-02-19 05:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                 |team     | expected_attg| expected_gs|bet |
+|:----------------------------------------|:--------|-------------:|-----------:|:---|
+|/players/303353/edgar-badia              |Elche    |      0.000000|   0.1724138|    |
+|/players/282162/helibelton-palacios      |Elche    |      0.014725|   0.0303030|    |
+|/players/211110/lisandro-magalln         |Elche    |      0.046475|   0.0454545|    |
+|/players/291635/pedro-bigas              |Elche    |      0.051750|   0.0666667|    |
+|/players/1281461/jos-ángel-carmona       |Elche    |      0.150325|   0.0909091|*   |
+|/players/359191/omar-mascarell           |Elche    |      0.004075|   0.0500000|    |
+|/players/522234/gerard-gumbau            |Elche    |      0.018825|   0.0833333|    |
+|/players/282471/carlos-clerc             |Elche    |      0.002000|   0.0400000|    |
+|/players/493216/ezequiel-ponce           |Elche    |      0.181800|   0.3921569|    |
+|/players/561164/lucas-boye               |Elche    |      0.356125|   0.2702703|*   |
+|/players/202610/fidel-chaves             |Elche    |      0.067550|   0.2941176|    |
+|/players/169865/martin-braithwaite       |Espanyol |      0.236600|   0.2702703|    |
+|/players/846966/javier-puado             |Espanyol |      0.236850|   0.2222222|    |
+|/players/282281/denis-surez              |Espanyol |      0.058650|   0.1538462|    |
+|/players/189192/aleix-vidal              |Espanyol |      0.160725|   0.1333333|    |
+|/players/1047671/vinicius-de-souza-costa |Espanyol |      0.031750|   0.0714286|    |
+|/players/282472/sergi-darder             |Espanyol |      0.053725|   0.1754386|    |
+|/players/527556/brian-olivn              |Espanyol |      0.024125|   0.0666667|    |
+|/players/358148/sergi-gomez              |Espanyol |      0.003475|   0.0322581|    |
+|/players/970550/jos-gragera              |Espanyol |      0.050200|   0.1111111|    |
+|/players/1083082/oscar-gil               |Espanyol |      0.002450|   0.0416667|    |
+|/players/796781/lvaro-fernández          |Espanyol |      0.000000|   0.0434783|    |
+|/players/623982/josan                    |Elche    |      0.067125|   0.1428571|    |
+|/players/801213/tete-morente             |Elche    |      0.029975|   0.1785714|    |
+|/players/814625/raul-guti                |Elche    |      0.008925|   0.0833333|    |
+|/players/769335/pol-lirola               |Elche    |      0.000000|   0.0833333|    |
+|/players/863166/daniel-gomez             |Espanyol |      0.011975|   0.3225806|    |
+|/players/1052993/nico-ribaudo            |Espanyol |      0.007700|   0.0263158|    |
+|/players/837089/edu-exposito             |Espanyol |      0.012550|   0.1666667|    |
+|/players/699362/ronal-pierre-gabriel     |Espanyol |      0.000000|   0.0270270|    |
+____________________________________________________
+
+[1] "Facts about Elche:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/303353/edgar-badia         |           0|         24.6566|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/282162/helibelton-palacios |           1|         29.4989|           1.6278|        0.0409|         0.0835|      0.0080|        0.0157|      0.0291| 90.0000|
+|/players/211110/lisandro-magalln    |           1|         45.8067|           1.1682|        0.1226|         0.5000|      0.0706|        0.0547|      0.0217| 90.0000|
+|/players/291635/pedro-bigas         |           1|         41.1140|           0.7136|        0.2872|         0.9513|      0.0862|        0.0557|      0.0131| 90.0000|
+|/players/1281461/jos-ángel-carmona  |           3|         19.2182|           2.9464|        0.6779|         1.4038|      0.1395|        0.1676|      0.0626| 90.0000|
+|/players/359191/omar-mascarell      |           3|         39.6089|           1.4230|        0.0287|         0.4014|      0.0245|        0.0033|      0.0321| 90.0000|
+|/players/522234/gerard-gumbau       |           3|         32.1515|           1.3680|        0.1499|         1.0993|      0.0528|        0.0190|      0.1389| 78.8481|
+|/players/282471/carlos-clerc        |           3|         33.1370|           1.9051|        0.0584|         0.1815|      0.0096|        0.0027|      0.0466| 90.0000|
+|/players/493216/ezequiel-ponce      |           5|         14.6196|           0.3253|        0.7518|         2.1181|      0.2079|        0.2072|      0.0195| 79.9783|
+|/players/561164/lucas-boye          |           5|         13.7535|           1.4562|        0.5783|         1.6431|      0.2845|        0.4634|      0.0200| 80.2174|
+|/players/202610/fidel-chaves        |           5|         22.3208|           1.0689|        0.4866|         1.3826|      0.1751|        0.0780|      0.1797| 67.5000|
+|/players/623982/josan               |          NA|              NA|               NA|        0.1224|         0.3324|      0.0460|        0.0717|      0.0434| 22.5000|
+|/players/801213/tete-morente        |          NA|              NA|               NA|        0.0844|         0.1809|      0.0416|        0.0314|      0.0149| 11.1519|
+|/players/814625/raul-guti           |          NA|              NA|               NA|        0.0459|         0.1223|      0.0133|        0.0099|      0.0061| 10.0217|
+|/players/769335/pol-lirola          |          NA|              NA|               NA|        0.0105|         0.1150|      0.0132|        0.0000|      0.0199|  9.7826|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Pablo Machin |        23480|       -10.815|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Espanyol:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/169865/martin-braithwaite       |           5|         13.6839|           0.5887|        0.7900|         1.7206|      0.3132|        0.3465|      0.0623| 80.9600|
+|/players/846966/javier-puado             |           3|         14.8964|           0.7531|        0.8606|         2.3303|      0.3543|        0.3362|      0.0872| 79.3396|
+|/players/282281/denis-surez              |           3|         40.4284|           1.9411|        0.2370|         0.9154|      0.0757|        0.0772|      0.2148| 90.0000|
+|/players/189192/aleix-vidal              |           3|         16.3877|           1.2246|        0.5831|         1.0146|      0.1191|        0.2306|      0.0709| 75.9091|
+|/players/1047671/vinicius-de-souza-costa |           2|         38.2253|           3.2937|        0.1930|         0.3708|      0.0181|        0.0420|      0.0218| 90.0000|
+|/players/282472/sergi-darder             |           2|         43.9331|           0.7828|        0.2734|         1.1282|      0.0885|        0.0700|      0.1103| 90.0000|
+|/players/527556/brian-olivn              |           1|         31.1073|           1.5864|        0.1596|         0.5617|      0.0324|        0.0324|      0.0934| 90.0000|
+|/players/358148/sergi-gomez              |           1|         48.6880|           0.9141|        0.0390|         0.1984|      0.0157|        0.0039|      0.0165| 90.0000|
+|/players/970550/jos-gragera              |           1|         44.7434|           1.7157|        0.1593|         0.6480|      0.0993|        0.0635|      0.0240| 80.8182|
+|/players/1083082/oscar-gil               |           1|         30.1838|           2.0317|        0.0785|         0.3725|      0.0124|        0.0034|      0.0792| 90.0000|
+|/players/796781/lvaro-fernández          |           0|         24.2755|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/863166/daniel-gomez             |          NA|              NA|               NA|        0.0753|         0.2760|      0.0396|        0.0174|      0.0137| 14.0909|
+|/players/1052993/nico-ribaudo            |          NA|              NA|               NA|        0.0802|         0.2332|      0.0154|        0.0085|      0.0115| 10.6604|
+|/players/837089/edu-exposito             |          NA|              NA|               NA|        0.0605|         0.1936|      0.0103|        0.0182|      0.0050|  9.1818|
+|/players/699362/ronal-pierre-gabriel     |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0117|  9.0400|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Diego Martinez |        63712|     -5.259773|4-2-3-1   |
