@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 18:15:42.738"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Bristol Rovers 1.5319 to Burton Albion 1.3589"
+[1] "Total: 2.8908"
+[1] "Bristol Rovers %: 42.28"
+[1] "Draw %: 24.38"
+[1] "Burton Albion %: 33.34"
+[1] "--XG Model--"
+[1] "Score: Bristol Rovers 1.7012 to Burton Albion 1.6442"
+[1] "Total: 3.3454"
+[1] "Bristol Rovers %: 39.68"
+[1] "Draw %: 23.04"
+[1] "Burton Albion %: 37.28"
+[1] "--XGoT Model--"
+[1] "Score: Bristol Rovers 1.9984 to Burton Albion 1.7368"
+[1] "Total: 3.7352"
+[1] "Bristol Rovers %: 44.63"
+[1] "Draw %: 21.23"
+[1] "Burton Albion %: 34.14"
+[1] "--XA Model--"
+[1] "Score: Bristol Rovers 1.62 to Burton Albion 1.3651"
+[1] "Total: 2.9851"
+[1] "Bristol Rovers %: 43.69"
+[1] "Draw %: 24.27"
+[1] "Burton Albion %: 32.04"
+[1] "--Mean 4 Models--"
+[1] "Bristol Rovers has a mean win % of 42.57%; a min win % of 39.68%; a max win % of 44.63%."
+[1] "Draw has a mean win % of 23.23%; a min win % of 21.23%; a max win % of 24.38%."
+[1] "Burton Albion has a mean win % of 34.2%; a min win % of 32.04%; a max win of % 37.28%."
+[1] "Bristol Rovers has a mean win of the Double Chance of 65.8%; a min win % of 62.72%, a max win % of 67.96%."
+[1] "Burton Albion has a mean win of the Double Chance of 57.43%; a min win % of 55.37%, a max win % of 60.32%."
+[1] "The mean likelihood that there are more than 2.5 goals is 61.7%; max % is 71.9 and min % is 54.18%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 38.3%; max % is 45.82 and min % is 28.1%."
+[1] "--Sportsbook Odds--"
+[1] "Bristol Rovers Barstool Odds are: 45.45"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Burton Albion Barstool Odds are: 30.3"
+[1] "Bristol Rovers Adjusted Barstool Odds are: 42.857"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.571"
+[1] "Burton Albion Adjusted Barstool Odds are: 28.571"
+[1] "Bristol Rovers's Barstool Odds to cover the -0.5 spread are: 45.87"
+[1] "Burton Albion's Barstool Odds to cover the 0.5 spread are: 60.61"
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35% chance of the over 2.5 hitting. The line for the under is 1.9, which is a 52.63% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+            bet           date_time
+1 Burton Albion 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team           | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/164848/james-belshaw             |Bristol Rovers |      0.000000|   0.1428571|    |
+|/players/1202082/james-connolly           |Bristol Rovers |      0.059675|   0.0952381|    |
+|/players/872974/lewis-gibson              |Bristol Rovers |      0.051325|   0.1000000|    |
+|/players/1081233/luca-hoole               |Bristol Rovers |      0.012875|   0.0833333|    |
+|/players/1222186/lewis-gordon             |Bristol Rovers |      0.012250|   0.1000000|    |
+|/players/142618/paul-coutts               |Bristol Rovers |      0.063375|   0.1538462|    |
+|/players/516002/jordan-rossiter           |Bristol Rovers |      0.063050|   0.1694915|    |
+|/players/23991/scott-sinclair             |Bristol Rovers |      0.293925|   0.2857143|    |
+|/players/315295/sam-finley                |Bristol Rovers |      0.025025|   0.3508772|    |
+|/players/760342/antony-evans              |Bristol Rovers |      0.236200|   0.2500000|    |
+|/players/583434/aaron-collins             |Bristol Rovers |      0.314200|   0.3846154|    |
+|/players/210799/ben-garratt               |Burton Albion  |      0.000000|   0.2127660|    |
+|/players/865152/sam-lavelle               |Burton Albion  |      0.016375|   0.0833333|    |
+|/players/877647/thomas-hamer              |Burton Albion  |      0.016125|   0.1052632|    |
+|/players/45548/john-brayford              |Burton Albion  |      0.066550|   0.1052632|    |
+|/players/678164/sam-hughes                |Burton Albion  |      0.031750|   0.0909091|    |
+|/players/500882/adedeji-oshilaja          |Burton Albion  |      0.055525|   0.1428571|    |
+|/players/1055829/terry-taylor             |Burton Albion  |      0.052000|   0.1052632|    |
+|/players/654102/joe-powell                |Burton Albion  |      0.010600|   0.2380952|    |
+|/players/693138/cameron-borthwick-jackson |Burton Albion  |      0.011325|   0.0714286|    |
+|/players/720454/jonny-smith               |Burton Albion  |      0.395650|   0.2702703|*   |
+|/players/724382/charlie-kirk              |Burton Albion  |      0.289250|   0.2040816|*   |
+|/players/1098807/sylvester-jasper         |Bristol Rovers |      0.046775|   0.1333333|    |
+|/players/1113907/josh-coburn              |Bristol Rovers |      0.163200|   0.3571429|    |
+|/players/571708/harry-anderson            |Bristol Rovers |      0.000000|   0.2173913|    |
+|/players/184069/john-marquis              |Bristol Rovers |      0.098000|   0.4347826|    |
+|/players/239919/sam-winnall               |Burton Albion  |      0.172500|   0.2631579|    |
+|/players/94808/mustapha-carayol           |Burton Albion  |      0.000000|   0.2127660|    |
+|/players/1093046/gassan-ahadme            |Burton Albion  |      0.075725|   0.2702703|    |
+|/players/1206309/bobby-kamwa              |Burton Albion  |      0.048975|   0.2777778|    |
+____________________________________________________
+
+[1] "Facts about Bristol Rovers:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/164848/james-belshaw     |           0|         30.2626|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1202082/james-connolly   |           1|         49.8322|           0.8005|        0.1259|         0.4125|      0.0277|        0.0697|      0.0315| 90.0000|
+|/players/872974/lewis-gibson      |           1|         47.4930|           1.3337|        0.1550|         0.8889|      0.0860|        0.0589|      0.0676| 90.0000|
+|/players/1081233/luca-hoole       |           1|         38.8674|           1.2082|        0.1615|         0.4586|      0.0383|        0.0143|      0.0652| 90.0000|
+|/players/1222186/lewis-gordon     |           1|         29.7649|           2.1832|        0.1086|         0.3560|      0.0239|        0.0143|      0.0524| 77.6818|
+|/players/142618/paul-coutts       |           2|         54.6880|           2.1723|        0.2508|         0.6328|      0.0822|        0.0725|      0.1095| 83.3947|
+|/players/516002/jordan-rossiter   |           2|         27.0810|           1.6414|        0.2493|         1.1787|      0.0373|        0.0725|      0.0345| 82.8824|
+|/players/23991/scott-sinclair     |           3|         14.5950|           0.4326|        0.6418|         1.4047|      0.3091|        0.3805|      0.0392| 78.5102|
+|/players/315295/sam-finley        |           3|         36.2568|           1.9505|        0.4622|         1.7072|      0.0622|        0.0269|      0.1765| 90.0000|
+|/players/760342/antony-evans      |           3|         32.5350|           1.4559|        0.8951|         2.5285|      0.1903|        0.2928|      0.2236| 90.0000|
+|/players/583434/aaron-collins     |           5|         17.6823|           0.5734|        1.0106|         2.5156|      0.3731|        0.4109|      0.0753| 90.0000|
+|/players/1098807/sylvester-jasper |           0|              NA|               NA|        0.1104|         0.4417|      0.0427|        0.0517|      0.0581| 12.3182|
+|/players/1113907/josh-coburn      |           0|              NA|               NA|        0.1743|         0.4358|      0.1468|        0.1993|      0.0238| 11.4898|
+|/players/571708/harry-anderson    |           0|              NA|               NA|        0.0000|         0.1314|      0.0109|        0.0000|      0.0032|  7.1176|
+|/players/184069/john-marquis      |           0|              NA|               NA|        0.1614|         0.1936|      0.0509|        0.1141|      0.0021|  6.6053|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Joey Barton  |        27666|    -0.4856911|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Burton Albion:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/210799/ben-garratt               |           0|         22.8274|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/865152/sam-lavelle               |           1|         35.1693|           1.3428|        0.0866|         0.3586|      0.0036|        0.0171|      0.0022| 90.0000|
+|/players/877647/thomas-hamer              |           1|         38.5681|           2.7830|        0.1061|         0.3810|      0.0134|        0.0171|      0.0744| 90.0000|
+|/players/45548/john-brayford              |           1|         37.9336|           1.3328|        0.1305|         0.6277|      0.0763|        0.0684|      0.0360| 90.0000|
+|/players/678164/sam-hughes                |           1|         36.9713|           0.9053|        0.1730|         0.5179|      0.0566|        0.0318|      0.0680| 90.0000|
+|/players/500882/adedeji-oshilaja          |           2|         39.0278|           1.3303|        0.3580|         0.8968|      0.0935|        0.0586|      0.0350| 90.0000|
+|/players/1055829/terry-taylor             |           2|         36.5276|           2.6567|        0.0900|         0.7732|      0.0222|        0.0586|      0.0874| 81.8500|
+|/players/654102/joe-powell                |           3|         25.4840|           0.8242|        0.5878|         1.9048|      0.2270|        0.0120|      0.1671| 80.8696|
+|/players/693138/cameron-borthwick-jackson |           3|         29.1041|           1.3986|        0.2287|         0.7744|      0.0570|        0.0120|      0.0468| 90.0000|
+|/players/720454/jonny-smith               |           3|         18.2623|           1.4552|        0.8287|         2.0963|      0.1526|        0.5353|      0.1313| 80.4062|
+|/players/724382/charlie-kirk              |           5|         15.4601|           0.5602|        0.8400|         2.1047|      0.2858|        0.3594|      0.0651| 83.1129|
+|/players/239919/sam-winnall               |           0|              NA|               NA|        0.2113|         0.6075|      0.3006|        0.2001|      0.0207|  9.5938|
+|/players/94808/mustapha-carayol           |           0|              NA|               NA|        0.0000|         0.2092|      0.0068|        0.0000|      0.0572|  9.1304|
+|/players/1093046/gassan-ahadme            |           0|              NA|               NA|        0.1046|         0.2615|      0.0940|        0.0827|      0.0037|  8.1500|
+|/players/1206309/bobby-kamwa              |           0|              NA|               NA|        0.0900|         0.0900|      0.0270|        0.0558|      0.0036|  6.8871|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Dino Maamria |        20768|     -5.748571|4-2-3-1   |
