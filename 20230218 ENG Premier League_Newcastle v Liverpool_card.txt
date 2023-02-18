@@ -1,133 +1,127 @@
-[1] "Updated at 2023-02-17 10:15:42.297"
+[1] "Updated at 2023-02-18 09:14:31.448"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Newcastle 1.2936 to Liverpool 1.1958"
-[1] "Total: 2.4894"
-[1] "Newcastle %: 38.92"
-[1] "Draw %: 27.01"
-[1] "Liverpool %: 34.07"
+[1] "Score: Newcastle 1.2306 to Liverpool 1.178"
+[1] "Total: 2.4086"
+[1] "Newcastle %: 37.22"
+[1] "Draw %: 28.03"
+[1] "Liverpool %: 34.75"
 [1] "--XG Model--"
-[1] "Score: Newcastle 1.5561 to Liverpool 1.2924"
-[1] "Total: 2.8485"
-[1] "Newcastle %: 43.68"
-[1] "Draw %: 24.59"
-[1] "Liverpool %: 31.73"
+[1] "Score: Newcastle 1.4478 to Liverpool 1.2708"
+[1] "Total: 2.7186"
+[1] "Newcastle %: 41.32"
+[1] "Draw %: 25.62"
+[1] "Liverpool %: 33.06"
 [1] "--XGoT Model--"
-[1] "Score: Newcastle 1.6363 to Liverpool 1.2991"
-[1] "Total: 2.9354"
-[1] "Newcastle %: 46.3"
-[1] "Draw %: 24.05"
-[1] "Liverpool %: 29.65"
+[1] "Score: Newcastle 1.4842 to Liverpool 1.2513"
+[1] "Total: 2.7355"
+[1] "Newcastle %: 42.76"
+[1] "Draw %: 25.59"
+[1] "Liverpool %: 31.65"
 [1] "--XA Model--"
-[1] "Score: Newcastle 1.4868 to Liverpool 1.2567"
-[1] "Total: 2.7435"
-[1] "Newcastle %: 42.65"
-[1] "Draw %: 25.32"
-[1] "Liverpool %: 32.03"
+[1] "Score: Newcastle 1.4205 to Liverpool 1.2623"
+[1] "Total: 2.6828"
+[1] "Newcastle %: 41.33"
+[1] "Draw %: 25.65"
+[1] "Liverpool %: 33.02"
 [1] "--Mean 4 Models--"
-[1] "Newcastle has a mean win % of 42.89%; a min win % of 38.92%; a max win % of 46.3%."
-[1] "Draw has a mean win % of 25.24%; a min win % of 24.05%; a max win % of 27.01%."
-[1] "Liverpool has a mean win % of 31.87%; a min win % of 29.65%; a max win of % 34.07%."
-[1] "Newcastle has a mean win of the Double Chance of 68.13%; a min win % of 65.93%, a max win % of 70.35%."
-[1] "Liverpool has a mean win of the Double Chance of 57.11%; a min win % of 53.7%, a max win % of 61.08%."
-[1] "The mean likelihood that there are more than 2.5 goals is 51.22%; max % is 55.82 and min % is 44.48%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 48.78%; max % is 55.52 and min % is 44.18%."
+[1] "Newcastle has a mean win % of 40.66%; a min win % of 37.22%; a max win % of 42.76%."
+[1] "Draw has a mean win % of 26.22%; a min win % of 25.59%; a max win % of 28.03%."
+[1] "Liverpool has a mean win % of 33.12%; a min win % of 31.65%; a max win of % 34.75%."
+[1] "Newcastle has a mean win of the Double Chance of 66.88%; a min win % of 65.25%, a max win % of 68.35%."
+[1] "Liverpool has a mean win of the Double Chance of 59.34%; a min win % of 57.24%, a max win % of 62.78%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.02%; max % is 50.77 and min % is 42.08%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.98%; max % is 57.92 and min % is 49.23%."
 [1] "--Sportsbook Odds--"
-[1] "Newcastle Barstool Odds are: 38.46"
+[1] "Newcastle Barstool Odds are: 39.22"
 [1] "The Barstool Odds of a Draw are: 29.41"
-[1] "Liverpool Barstool Odds are: 36.36"
-[1] "Newcastle Adjusted Barstool Odds are: 36.899"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.216"
-[1] "Liverpool Adjusted Barstool Odds are: 34.884"
-[1] "Newcastle's Barstool Odds to cover the 0.5 spread are: 67.11"
-[1] "Liverpool's Barstool Odds to cover the -0.5 spread are: 37.04"
-[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
+[1] "Liverpool Barstool Odds are: 35.09"
+[1] "Newcastle Adjusted Barstool Odds are: 37.813"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.355"
+[1] "Liverpool Adjusted Barstool Odds are: 33.831"
+[1] "Newcastle's Barstool Odds to cover the -0.5 spread are: 40.32"
+[1] "Liverpool's Barstool Odds to cover the 0.5 spread are: 64.1"
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-        bet           date_time
-1 Newcastle 2023-02-18 09:30:00
+  bet           date_time
+1     2023-02-18 09:30:00
 
 
-|player              |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
-|:-------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
-|Mohamed Salah       |LIV  |     30| 2.31|          NA|  0.8091|   0.3762|passes    |ENG England |      0.4329|         NA|        NA|         NA|       NA|
-|Mohamed Salah       |LIV  |     34| 2.78|          NA|  0.5731|   0.2134|passes    |ENG England |      0.3597|         NA|        NA|         NA|       NA|
-|Mohamed Salah       |LIV  |     26| 1.86|          NA|  0.9446|   0.4070|passes    |ENG England |      0.5376|         NA|        NA|         NA|       NA|
-|Mohamed Salah       |LIV  |     22| 1.52|          NA|  0.9907|   0.3328|passes    |ENG England |      0.6579|         NA|        NA|         NA|       NA|
-|Miguel Almiron      |NEW  |     35| 1.84|          NA|  0.7647|   0.2212|passes    |ENG England |      0.5435|         NA|        NA|         NA|       NA|
-|Miguel Almiron      |NEW  |     31| 1.51|          NA|  0.9179|   0.2556|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
-|Jordan Henderson    |LIV  |     53| 1.58|          NA|  0.7531|   0.1202|passes    |ENG England |      0.6329|         NA|        NA|         NA|       NA|
-|Allan Saint-Maximin |NEW  |     21| 1.50|          NA|  0.8471|   0.1804|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
-|Cody Gakpo          |LIV  |     15| 1.85|          NA|  0.9987|   0.4582|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
-|Cody Gakpo          |LIV  |     23| 2.76|          NA|  0.9089|   0.5466|passes    |ENG England |      0.3623|         NA|        NA|         NA|       NA|
-|Cody Gakpo          |LIV  |     27| 3.55|          NA|  0.7146|   0.4329|passes    |ENG England |      0.2817|         NA|        NA|         NA|       NA|
-|Cody Gakpo          |LIV  |     31| 4.90|          NA|  0.4349|   0.2308|passes    |ENG England |      0.2041|         NA|        NA|         NA|       NA|
-|Cody Gakpo          |LIV  |     19| 2.30|          NA|  0.9840|   0.5492|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
-|Cody Gakpo          |LIV  |     11| 1.51|          NA|  1.0000|   0.3377|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
-|Anthony Gordon      |NEW  |     25| 2.27|          NA|  0.7143|   0.2738|passes    |ENG England |      0.4405|         NA|        NA|         NA|       NA|
-|Anthony Gordon      |NEW  |     21| 1.83|          NA|  0.9136|   0.3672|passes    |ENG England |      0.5464|         NA|        NA|         NA|       NA|
-|Anthony Gordon      |NEW  |     17| 1.50|          NA|  0.9865|   0.3198|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
-|Andrew Robertson    |LIV  |     45| 1.88|          NA|  0.7675|   0.2356|passes    |ENG England |      0.5319|         NA|        NA|         NA|       NA|
-|Andrew Robertson    |LIV  |     41| 1.46|          NA|  0.9068|   0.2219|passes    |ENG England |      0.6849|         NA|        NA|         NA|       NA|
+|player           |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Mohamed Salah    |LIV  |     30| 2.31|          NA|  0.7253|   0.2924|passes    |ENG England |      0.4329|         NA|        NA|         NA|       NA|
+|Mohamed Salah    |LIV  |     34| 2.78|          NA|  0.4614|   0.1017|passes    |ENG England |      0.3597|         NA|        NA|         NA|       NA|
+|Mohamed Salah    |LIV  |     26| 1.86|          NA|  0.9074|   0.3698|passes    |ENG England |      0.5376|         NA|        NA|         NA|       NA|
+|Mohamed Salah    |LIV  |     22| 1.52|          NA|  0.9816|   0.3237|passes    |ENG England |      0.6579|         NA|        NA|         NA|       NA|
+|Sean Longstaff   |NEW  |     41| 1.51|          NA|  0.7867|   0.1244|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Cody Gakpo       |LIV  |     15| 1.85|          NA|  0.9972|   0.4567|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Cody Gakpo       |LIV  |     23| 2.76|          NA|  0.8605|   0.4982|passes    |ENG England |      0.3623|         NA|        NA|         NA|       NA|
+|Cody Gakpo       |LIV  |     27| 3.55|          NA|  0.6214|   0.3397|passes    |ENG England |      0.2817|         NA|        NA|         NA|       NA|
+|Cody Gakpo       |LIV  |     31| 4.90|          NA|  0.3345|   0.1304|passes    |ENG England |      0.2041|         NA|        NA|         NA|       NA|
+|Cody Gakpo       |LIV  |     19| 2.30|          NA|  0.9713|   0.5365|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Cody Gakpo       |LIV  |     11| 1.51|          NA|  0.9999|   0.3376|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Andrew Robertson |LIV  |     45| 1.88|          NA|  0.6708|   0.1389|passes    |ENG England |      0.5319|         NA|        NA|         NA|       NA|
+|Andrew Robertson |LIV  |     41| 1.46|          NA|  0.8501|   0.1652|passes    |ENG England |      0.6849|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team      | expected_attg| expected_gs|bet |
 |:--------------------------------------|:---------|-------------:|-----------:|:---|
-|/players/280484/nick-pope              |Newcastle |      0.000000|   0.0416667|    |
-|/players/191869/kieran-trippier        |Newcastle |      0.018075|   0.0666667|    |
-|/players/189982/fabian-schr            |Newcastle |      0.069325|   0.0666667|    |
-|/players/956682/sven-botman            |Newcastle |      0.031175|   0.0526316|    |
-|/players/188058/daniel-burn            |Newcastle |      0.030100|   0.0526316|    |
-|/players/535936/joelinton              |Newcastle |      0.065450|   0.2173913|    |
-|/players/820024/sean-longstaff         |Newcastle |      0.063375|   0.1052632|    |
-|/players/442277/miguel-almiron         |Newcastle |      0.165125|   0.2173913|    |
-|/players/906937/anthony-gordon         |Newcastle |      0.147250|   0.2564103|    |
-|/players/466482/allan-saint-maximin    |Newcastle |      0.258000|   0.2173913|    |
-|/players/690107/alexander-isak         |Newcastle |      0.294050|   0.3125000|    |
-|/players/806552/cody-gakpo             |Liverpool |      0.129575|   0.2702703|    |
-|/players/950561/darwin-nunez           |Liverpool |      0.229350|   0.3333333|    |
-|/players/292462/mohamed-salah          |Liverpool |      0.234100|   0.3448276|    |
-|/players/1310118/stefan-bajcetic       |Liverpool |      0.067675|   0.0833333|    |
-|/players/359188/fabinho                |Liverpool |      0.069125|   0.0714286|    |
-|/players/156008/jordan-henderson       |Liverpool |      0.061750|   0.0555556|    |
-|/players/357880/andrew-robertson       |Liverpool |      0.029725|   0.0555556|    |
-|/players/171698/joel-matip             |Liverpool |      0.044250|   0.0555556|    |
-|/players/568571/joseph-gomez           |Liverpool |      0.003350|   0.0344828|    |
-|/players/760712/trent-alexander-arnold |Liverpool |      0.048550|   0.0666667|    |
-|/players/319784/alisson-becker         |Liverpool |      0.000000|   0.0454545|    |
-|/players/521148/jacob-murphy           |Newcastle |      0.038150|   0.1428571|    |
-|/players/230916/ryan-fraser            |Newcastle |      0.037000|   0.1785714|    |
-|/players/850354/bruno-guimaraes        |Newcastle |      0.063450|   0.3225806|    |
-|/players/864983/jamal-lewis            |Newcastle |      0.000000|   0.0333333|    |
-|/players/38807/james-milner            |Liverpool |      0.010850|   0.0833333|    |
-|/players/570461/diogo-jota             |Liverpool |      0.078125|   0.3225806|    |
-|/players/242709/roberto-firmino        |Liverpool |      0.061700|   0.3125000|    |
-|/players/963964/harvey-elliott         |Liverpool |      0.016600|   0.1754386|    |
+|/players/280484/nick-pope              |Newcastle |      0.000000|   0.3125000|    |
+|/players/191869/kieran-trippier        |Newcastle |      0.018300|   0.0625000|    |
+|/players/189982/fabian-schr            |Newcastle |      0.063975|   0.0625000|    |
+|/players/956682/sven-botman            |Newcastle |      0.030300|   0.0526316|    |
+|/players/188058/daniel-burn            |Newcastle |      0.028225|   0.0526316|    |
+|/players/820024/sean-longstaff         |Newcastle |      0.046800|   0.1000000|    |
+|/players/535936/joelinton              |Newcastle |      0.028650|   0.2127660|    |
+|/players/1089691/elliot-anderson       |Newcastle |      0.203625|   0.1538462|    |
+|/players/442277/miguel-almiron         |Newcastle |      0.230550|   0.2127660|    |
+|/players/690107/alexander-isak         |Newcastle |      0.336100|   0.3125000|    |
+|/players/466482/allan-saint-maximin    |Newcastle |      0.145075|   0.2127660|    |
+|/players/806552/cody-gakpo             |Liverpool |      0.129800|   0.2631579|    |
+|/players/950561/darwin-nunez           |Liverpool |      0.229825|   0.3333333|    |
+|/players/292462/mohamed-salah          |Liverpool |      0.232675|   0.3389831|    |
+|/players/1310118/stefan-bajcetic       |Liverpool |      0.076850|   0.0833333|    |
+|/players/359188/fabinho                |Liverpool |      0.077900|   0.0714286|    |
+|/players/156008/jordan-henderson       |Liverpool |      0.071600|   0.0555556|    |
+|/players/357880/andrew-robertson       |Liverpool |      0.031050|   0.0555556|    |
+|/players/209405/virgil-van-dijk        |Liverpool |      0.052025|   0.0714286|    |
+|/players/568571/joseph-gomez           |Liverpool |      0.003625|   0.0344828|    |
+|/players/760712/trent-alexander-arnold |Liverpool |      0.058550|   0.0625000|    |
+|/players/319784/alisson-becker         |Liverpool |      0.000000|   0.0588235|    |
+|/players/521148/jacob-murphy           |Newcastle |      0.014200|   0.0000000|    |
+|/players/906937/anthony-gordon         |Newcastle |      0.005125|   0.0000000|    |
+|/players/864983/jamal-lewis            |Newcastle |      0.000000|   0.0000000|    |
+|/players/184321/callum-wilson          |Newcastle |      0.020950|   0.0000000|    |
+|/players/38807/james-milner            |Liverpool |      0.007100|   0.0000000|    |
+|/players/570461/diogo-jota             |Liverpool |      0.047775|   0.0000000|    |
+|/players/242709/roberto-firmino        |Liverpool |      0.035150|   0.0000000|    |
+|/players/963964/harvey-elliott         |Liverpool |      0.009400|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Newcastle:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/280484/nick-pope           |           0|         26.7051|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/191869/kieran-trippier     |           1|         52.6895|           2.5495|        0.0502|         0.1871|      0.0175|        0.0212|      0.1512| 90.0000|
-|/players/189982/fabian-schr         |           1|         48.7056|           1.1920|        0.2994|         0.8511|      0.0848|        0.0881|      0.0356| 90.0000|
-|/players/956682/sven-botman         |           1|         59.9600|           1.2205|        0.1341|         0.5413|      0.0567|        0.0369|      0.0233| 90.0000|
-|/players/188058/daniel-burn         |           1|         45.3855|           1.7475|        0.1339|         0.4948|      0.0696|        0.0374|      0.0234| 90.0000|
-|/players/535936/joelinton           |           2|         48.2822|           2.5418|        0.2235|         0.7106|      0.0681|        0.0833|      0.0494| 66.0000|
-|/players/820024/sean-longstaff      |           2|         43.5486|           1.4525|        0.3048|         0.9690|      0.0928|        0.0833|      0.0987| 90.0000|
-|/players/442277/miguel-almiron      |           3|         40.1472|           1.8270|        0.6348|         1.5220|      0.1868|        0.2120|      0.0710| 90.0000|
-|/players/906937/anthony-gordon      |           3|         28.6397|           1.6199|        0.6537|         1.7950|      0.2905|        0.1898|      0.1310| 78.3793|
-|/players/466482/allan-saint-maximin |           3|         26.7832|           0.5782|        0.7777|         1.7845|      0.2141|        0.3486|      0.2171| 81.0000|
-|/players/690107/alexander-isak      |           5|         18.4755|           0.5806|        0.8719|         2.0207|      0.3763|        0.4155|      0.0727| 75.8482|
-|/players/521148/jacob-murphy        |          NA|              NA|               NA|        0.2264|         0.7359|      0.0529|        0.0487|      0.0791| 24.0000|
-|/players/230916/ryan-fraser         |          NA|              NA|               NA|        0.1161|         0.4180|      0.0366|        0.0453|      0.0369| 14.1518|
-|/players/850354/bruno-guimaraes     |          NA|              NA|               NA|        0.1180|         0.3774|      0.0644|        0.0813|      0.0603| 11.6207|
-|/players/864983/jamal-lewis         |          NA|              NA|               NA|        0.0000|         0.0336|      0.0000|        0.0000|      0.0010|  9.0000|
+|/players/280484/nick-pope           |           0|         25.6338|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/191869/kieran-trippier     |           1|         53.3639|           2.5328|        0.0511|         0.1947|      0.0169|        0.0199|      0.1666| 90.0000|
+|/players/189982/fabian-schr         |           1|         49.3291|           1.1842|        0.3047|         0.8859|      0.0816|        0.0827|      0.0392| 90.0000|
+|/players/956682/sven-botman         |           1|         60.7275|           1.2126|        0.1365|         0.5634|      0.0546|        0.0346|      0.0256| 90.0000|
+|/players/188058/daniel-burn         |           1|         45.9665|           1.7360|        0.1363|         0.5150|      0.0669|        0.0351|      0.0258| 90.0000|
+|/players/820024/sean-longstaff      |           3|         47.0083|           2.1355|        0.2279|         0.6884|      0.0583|        0.0561|      0.0586| 90.0000|
+|/players/535936/joelinton           |           3|         40.0623|           2.0775|        0.2557|         0.6192|      0.0579|        0.0373|      0.0377| 84.4186|
+|/players/1089691/elliot-anderson    |           3|         52.2782|           1.7189|        0.6796|         2.1647|      0.2560|        0.2591|      0.2049| 90.0000|
+|/players/442277/miguel-almiron      |           5|         30.7940|           2.0221|        0.5596|         1.7236|      0.2308|        0.3022|      0.0945| 79.1136|
+|/players/690107/alexander-isak      |           5|         15.7833|           0.4206|        0.9893|         2.1499|      0.4483|        0.4775|      0.1113| 75.8482|
+|/players/466482/allan-saint-maximin |           5|         24.2460|           0.6542|        0.7823|         1.8135|      0.1770|        0.1870|      0.1441| 82.4130|
+|/players/521148/jacob-murphy        |           0|              NA|               NA|        0.1037|         0.3371|      0.0221|        0.0167|      0.0363| 14.1518|
+|/players/906937/anthony-gordon      |           0|              NA|               NA|        0.0547|         0.1913|      0.0144|        0.0068|      0.0202| 10.8864|
+|/players/864983/jamal-lewis         |           0|              NA|               NA|        0.0000|         0.0220|      0.0000|        0.0000|      0.0007|  7.5870|
+|/players/184321/callum-wilson       |           0|              NA|               NA|        0.0419|         0.1256|      0.0181|        0.0242|      0.0191|  5.5814|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -136,26 +130,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Liverpool:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/806552/cody-gakpo             |           5|         30.7548|           1.6638|        0.5930|         1.6717|      0.1631|        0.1530|      0.1322| 83.6364|
-|/players/950561/darwin-nunez           |           5|         18.9589|           0.9204|        0.7791|         1.9155|      0.2707|        0.2892|      0.0785| 82.5000|
-|/players/292462/mohamed-salah          |           5|         35.7634|           0.8367|        0.8675|         2.1582|      0.3004|        0.2981|      0.0988| 90.0000|
-|/players/1310118/stefan-bajcetic       |           3|         32.0747|           1.8679|        0.2143|         0.7686|      0.0232|        0.0792|      0.0555| 77.5714|
-|/players/359188/fabinho                |           3|         53.9991|           2.4772|        0.2885|         0.8368|      0.1098|        0.0799|      0.0457| 90.0000|
-|/players/156008/jordan-henderson       |           3|         58.8350|           1.4165|        0.3500|         1.2405|      0.1145|        0.0697|      0.1248| 80.9889|
-|/players/357880/andrew-robertson       |           1|         50.7812|           1.4423|        0.1176|         0.3837|      0.0351|        0.0316|      0.0642| 90.0000|
-|/players/171698/joel-matip             |           1|         54.9928|           2.0379|        0.1592|         0.5245|      0.0740|        0.0527|      0.0178| 90.0000|
-|/players/568571/joseph-gomez           |           1|         63.4969|           1.4531|        0.0468|         0.1499|      0.0084|        0.0033|      0.0142| 90.0000|
-|/players/760712/trent-alexander-arnold |           1|         51.8530|           2.0994|        0.2321|         0.8642|      0.0527|        0.0554|      0.1151| 90.0000|
-|/players/319784/alisson-becker         |           0|         35.2844|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/38807/james-milner            |          NA|              NA|               NA|        0.0423|         0.1127|      0.0050|        0.0115|      0.0206| 12.4286|
-|/players/570461/diogo-jota             |          NA|              NA|               NA|        0.1340|         0.4689|      0.0807|        0.0926|      0.0176|  9.0111|
-|/players/242709/roberto-firmino        |          NA|              NA|               NA|        0.1697|         0.3038|      0.0439|        0.0706|      0.0164|  7.5000|
-|/players/963964/harvey-elliott         |          NA|              NA|               NA|        0.0516|         0.2063|      0.0190|        0.0203|      0.0257|  6.3636|
+|/players/806552/cody-gakpo             |           5|         29.3240|           1.6248|        0.5869|         1.6671|      0.1594|        0.1502|      0.1353| 83.6364|
+|/players/950561/darwin-nunez           |           5|         18.0769|           0.8988|        0.7711|         1.9102|      0.2646|        0.2840|      0.0804| 82.5000|
+|/players/292462/mohamed-salah          |           5|         34.0995|           0.8171|        0.8586|         2.1521|      0.2937|        0.2926|      0.1011| 90.0000|
+|/players/1310118/stefan-bajcetic       |           3|         30.5527|           1.8592|        0.2324|         0.8072|      0.0256|        0.0912|      0.0595| 77.5714|
+|/players/359188/fabinho                |           3|         51.4367|           2.4657|        0.3128|         0.8788|      0.1211|        0.0920|      0.0490| 90.0000|
+|/players/156008/jordan-henderson       |           3|         56.0431|           1.4099|        0.3795|         1.3027|      0.1263|        0.0802|      0.1336| 80.9889|
+|/players/357880/andrew-robertson       |           1|         48.7180|           1.7051|        0.0940|         0.3651|      0.0420|        0.0342|      0.0663| 90.0000|
+|/players/209405/virgil-van-dijk        |           1|         57.2981|           0.9137|        0.2145|         0.5480|      0.0676|        0.0577|      0.0116| 90.0000|
+|/players/568571/joseph-gomez           |           1|         60.9171|           1.7179|        0.0374|         0.1426|      0.0100|        0.0036|      0.0147| 90.0000|
+|/players/760712/trent-alexander-arnold |           1|         49.7463|           2.4820|        0.1855|         0.8224|      0.0631|        0.0601|      0.1189| 90.0000|
+|/players/319784/alisson-becker         |           0|         33.7069|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/38807/james-milner            |           0|              NA|               NA|        0.0328|         0.0876|      0.0035|        0.0067|      0.0160| 12.4286|
+|/players/570461/diogo-jota             |           0|              NA|               NA|        0.1041|         0.3642|      0.0572|        0.0539|      0.0137|  9.0111|
+|/players/242709/roberto-firmino        |           0|              NA|               NA|        0.1319|         0.2360|      0.0311|        0.0411|      0.0128|  7.5000|
+|/players/963964/harvey-elliott         |           0|              NA|               NA|        0.0401|         0.1602|      0.0135|        0.0118|      0.0199|  6.3636|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
