@@ -1,0 +1,142 @@
+[1] "Updated at 2023-02-18 10:26:12.203"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Barcelona 1.8431 to Cadiz 0.7807"
+[1] "Total: 2.6238"
+[1] "Barcelona %: 63.27"
+[1] "Draw %: 22.02"
+[1] "Cadiz %: 14.71"
+[1] "--XG Model--"
+[1] "Score: Barcelona 2.1295 to Cadiz 0.7093"
+[1] "Total: 2.8388"
+[1] "Barcelona %: 69.89"
+[1] "Draw %: 19.52"
+[1] "Cadiz %: 10.59"
+[1] "--XGoT Model--"
+[1] "Score: Barcelona 2.254 to Cadiz 0.6652"
+[1] "Total: 2.9192"
+[1] "Barcelona %: 74.11"
+[1] "Draw %: 16.98"
+[1] "Cadiz %: 8.91"
+[1] "--XA Model--"
+[1] "Score: Barcelona 2.0228 to Cadiz 0.6976"
+[1] "Total: 2.7204"
+[1] "Barcelona %: 69.03"
+[1] "Draw %: 19.98"
+[1] "Cadiz %: 10.99"
+[1] "--Mean 4 Models--"
+[1] "Barcelona has a mean win % of 69.08%; a min win % of 63.27%; a max win % of 74.11%."
+[1] "Draw has a mean win % of 19.62%; a min win % of 16.98%; a max win % of 22.02%."
+[1] "Cadiz has a mean win % of 11.3%; a min win % of 8.91%; a max win of % 14.71%."
+[1] "Barcelona has a mean win of the Double Chance of 88.7%; a min win % of 85.29%, a max win % of 91.09%."
+[1] "Cadiz has a mean win of the Double Chance of 30.93%; a min win % of 25.89%, a max win % of 36.73%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.91%; max % is 55.88 and min % is 48.35%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.09%; max % is 51.65 and min % is 44.12%."
+[1] "--Sportsbook Odds--"
+[1] "Barcelona Barstool Odds are: 85.71"
+[1] "The Barstool Odds of a Draw are: 14.29"
+[1] "Cadiz Barstool Odds are: 6.25"
+[1] "Barcelona Adjusted Barstool Odds are: 80.668"
+[1] "The Adjusted Barstool Odds of a Draw are: 13.449"
+[1] "Cadiz Adjusted Barstool Odds are: 5.882"
+[1] "Barcelona's Barstool Odds to cover the -2 spread are: 52.08"
+[1] "Cadiz's Barstool Odds to cover the 2 spread are: 52.36"
+[1] "Barstool's line for the total is 2.5 at 1.53, which is a 65.36% chance of the over 2.5 hitting. The line for the under is 2.5, which is a 40% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                    bet           date_time
+1  draw Barcelona/Cadiz 2023-02-19 12:00:00
+2                 Cadiz 2023-02-19 12:00:00
+3 under Barcelona/Cadiz 2023-02-19 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team      | expected_attg| expected_gs|bet |
+|:-------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/184554/marc-andre-ter-stegen |Barcelona |      0.000000|   0.0370370|    |
+|/players/212472/sergi-roberto         |Barcelona |      0.027725|   0.1333333|    |
+|/players/940573/eric-garcia           |Barcelona |      0.064600|   0.1250000|    |
+|/players/449232/andreas-christensen   |Barcelona |      0.030875|   0.1111111|    |
+|/players/1254166/lex-balde            |Barcelona |      0.057300|   0.0434783|    |
+|/players/579747/franck-kessi          |Barcelona |      0.124525|   0.3448276|    |
+|/players/638622/frenkie-de-jong       |Barcelona |      0.090475|   0.1886792|    |
+|/players/1279040/gavi                 |Barcelona |      0.096325|   0.3030303|    |
+|/players/696679/raphinha              |Barcelona |      0.186700|   0.3773585|    |
+|/players/93447/robert-lewandowski     |Barcelona |      0.538325|   0.6666667|    |
+|/players/1086012/ansu-fati            |Barcelona |      0.294700|   0.5121951|    |
+|/players/303088/roger                 |Cadiz     |      0.128075|   0.2127660|    |
+|/players/638120/sergi-guardiola       |Cadiz     |      0.104125|   0.1666667|    |
+|/players/950286/brian-ocampo          |Cadiz     |      0.018275|   0.1000000|    |
+|/players/639144/rubn-alcaraz          |Cadiz     |      0.015075|   0.0833333|    |
+|/players/434404/gonzalo-escalante     |Cadiz     |      0.034875|   0.1111111|    |
+|/players/466132/tho-bongonda          |Cadiz     |      0.063450|   0.1785714|    |
+|/players/860661/santiago-arzamendia   |Cadiz     |      0.000475|   0.0476190|    |
+|/players/639461/fali                  |Cadiz     |      0.000800|   0.0250000|    |
+|/players/384374/luis-hernndez         |Cadiz     |      0.018150|   0.0196078|    |
+|/players/640276/isaac-carceln         |Cadiz     |      0.051475|   0.0204082|    |
+|/players/486981/jeremias-ledesma      |Cadiz     |      0.000000|   0.2500000|    |
+|/players/881771/ferran-torres         |Barcelona |      0.118825|   0.4878049|    |
+|/players/150739/jordi-alba            |Barcelona |      0.000000|   0.1176471|    |
+|/players/196169/marcos-alonso         |Barcelona |      0.000000|   0.2380952|    |
+|/players/705450/jules-kound           |Barcelona |      0.002600|   0.1333333|    |
+|/players/640089/ivn-alejo             |Cadiz     |      0.064725|   0.1052632|    |
+|/players/210282/anthony-lozano        |Cadiz     |      0.071600|   0.1923077|    |
+|/players/359195/ruben-sobrino         |Cadiz     |      0.040775|   0.1111111|    |
+|/players/213500/lex-fernández         |Cadiz     |      0.026950|   0.1538462|    |
+____________________________________________________
+
+[1] "Facts about Barcelona:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/184554/marc-andre-ter-stegen |           0|         33.7880|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/212472/sergi-roberto         |           1|         67.0852|           1.6952|        0.2956|         0.8342|      0.0723|        0.0303|      0.1622| 90.0000|
+|/players/940573/eric-garcia           |           1|         84.4252|           1.3647|        0.1365|         0.4622|      0.1021|        0.0775|      0.0329| 90.0000|
+|/players/449232/andreas-christensen   |           1|         72.0972|           1.3548|        0.1488|         0.4760|      0.0479|        0.0369|      0.0322| 90.0000|
+|/players/1254166/lex-balde            |           1|         48.2165|           1.5671|        0.1256|         0.8510|      0.0432|        0.0685|      0.1531| 79.6190|
+|/players/579747/franck-kessi          |           3|         56.0559|           1.7312|        0.5434|         2.3610|      0.1562|        0.1507|      0.0681| 90.0000|
+|/players/638622/frenkie-de-jong       |           3|         85.3131|           1.5870|        0.3015|         0.8033|      0.1478|        0.1092|      0.2409| 90.0000|
+|/players/1279040/gavi                 |           3|         49.1138|           2.0623|        0.4136|         1.0850|      0.0892|        0.1144|      0.1502| 76.1818|
+|/players/696679/raphinha              |           5|         34.2849|           1.0812|        0.6042|         2.0071|      0.2419|        0.2404|      0.2863| 73.9667|
+|/players/93447/robert-lewandowski     |           5|         24.2164|           0.4556|        2.0652|         3.4839|      0.7795|        0.8790|      0.1939| 90.0000|
+|/players/1086012/ansu-fati            |           5|         31.2429|           0.8495|        0.7951|         2.2038|      0.2884|        0.3828|      0.1016| 71.8750|
+|/players/881771/ferran-torres         |          NA|              NA|               NA|        0.2722|         0.7194|      0.1234|        0.1478|      0.0435| 18.1250|
+|/players/150739/jordi-alba            |          NA|              NA|               NA|        0.0000|         0.2750|      0.0059|        0.0000|      0.0511| 16.0333|
+|/players/196169/marcos-alonso         |          NA|              NA|               NA|        0.0605|         0.2724|      0.0102|        0.0000|      0.0215| 13.8182|
+|/players/705450/jules-kound           |          NA|              NA|               NA|        0.0446|         0.0893|      0.0086|        0.0038|      0.0088| 10.3810|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Xavi Hernandez |        60280|      14.94242|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Cadiz:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/303088/roger               |           5|         16.9075|           0.9540|        0.5271|         1.3638|      0.1589|        0.1339|      0.0332| 90.0000|
+|/players/638120/sergi-guardiola     |           5|         16.0618|           0.6618|        0.3624|         1.1240|      0.1129|        0.1065|      0.0287| 75.5606|
+|/players/950286/brian-ocampo        |           3|         15.5905|           1.2558|        0.0949|         0.4143|      0.0115|        0.0201|      0.0569| 74.9565|
+|/players/639144/rubn-alcaraz        |           3|         38.1294|           2.3066|        0.1476|         0.6488|      0.0307|        0.0171|      0.0253| 90.0000|
+|/players/434404/gonzalo-escalante   |           3|         26.7399|           1.8899|        0.1617|         0.3697|      0.0319|        0.0333|      0.0118| 78.0000|
+|/players/466132/tho-bongonda        |           3|         11.3766|           1.2253|        0.2480|         0.8250|      0.0571|        0.0654|      0.0295| 68.6364|
+|/players/860661/santiago-arzamendia |           1|         28.7612|           1.8622|        0.1539|         0.5460|      0.0510|        0.0007|      0.0417| 90.0000|
+|/players/639461/fali                |           1|         21.1398|           1.2222|        0.0505|         0.2912|      0.0156|        0.0007|      0.0085| 90.0000|
+|/players/384374/luis-hernndez       |           1|         35.2270|           0.7522|        0.0489|         0.1736|      0.0220|        0.0174|      0.0065| 90.0000|
+|/players/640276/isaac-carceln       |           1|         20.7149|           2.2849|        0.0776|         0.2410|      0.0120|        0.0537|      0.0095| 90.0000|
+|/players/486981/jeremias-ledesma    |           0|         25.3567|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/640089/ivn-alejo           |          NA|              NA|               NA|        0.1382|         0.3914|      0.0334|        0.0663|      0.0464| 21.3636|
+|/players/210282/anthony-lozano      |          NA|              NA|               NA|        0.1532|         0.4595|      0.0683|        0.0719|      0.0227| 15.0435|
+|/players/359195/ruben-sobrino       |          NA|              NA|               NA|        0.1043|         0.4692|      0.0659|        0.0406|      0.0176| 14.4394|
+|/players/213500/lex-fernández       |          NA|              NA|               NA|        0.0977|         0.2444|      0.0290|        0.0284|      0.0153| 12.0000|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Sergio Gonzalez |        77055|      -10.9662|4-4-2     |
