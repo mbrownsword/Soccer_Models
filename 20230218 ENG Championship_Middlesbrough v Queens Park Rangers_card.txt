@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-17 17:19:12.548"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Middlesbrough 1.5158 to Queens Park Rangers 0.9846"
+[1] "Total: 2.5004"
+[1] "Middlesbrough %: 49.63"
+[1] "Draw %: 25.53"
+[1] "Queens Park Rangers %: 24.84"
+[1] "--XG Model--"
+[1] "Score: Middlesbrough 1.8138 to Queens Park Rangers 1.0488"
+[1] "Total: 2.8626"
+[1] "Middlesbrough %: 55.84"
+[1] "Draw %: 22.81"
+[1] "Queens Park Rangers %: 21.35"
+[1] "--XGoT Model--"
+[1] "Score: Middlesbrough 1.8644 to Queens Park Rangers 1.0292"
+[1] "Total: 2.8936"
+[1] "Middlesbrough %: 56.88"
+[1] "Draw %: 22.41"
+[1] "Queens Park Rangers %: 20.71"
+[1] "--XA Model--"
+[1] "Score: Middlesbrough 1.5436 to Queens Park Rangers 0.8945"
+[1] "Total: 2.4381"
+[1] "Middlesbrough %: 52.88"
+[1] "Draw %: 25.29"
+[1] "Queens Park Rangers %: 21.83"
+[1] "--Mean 4 Models--"
+[1] "Middlesbrough has a mean win % of 53.81%; a min win % of 49.63%; a max win % of 56.88%."
+[1] "Draw has a mean win % of 24.01%; a min win % of 22.41%; a max win % of 25.53%."
+[1] "Queens Park Rangers has a mean win % of 22.18%; a min win % of 20.71%; a max win of % 24.84%."
+[1] "Middlesbrough has a mean win of the Double Chance of 77.82%; a min win % of 75.16%, a max win % of 79.29%."
+[1] "Queens Park Rangers has a mean win of the Double Chance of 46.19%; a min win % of 43.12%, a max win % of 50.37%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.29%; max % is 54.86 and min % is 43.51%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.71%; max % is 56.49 and min % is 45.14%."
+[1] "--Sportsbook Odds--"
+[1] "Middlesbrough Barstool Odds are: 62.5"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Queens Park Rangers Barstool Odds are: 19.05"
+[1] "Middlesbrough Adjusted Barstool Odds are: 58.308"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.92"
+[1] "Queens Park Rangers Adjusted Barstool Odds are: 17.772"
+[1] "Middlesbrough's Barstool Odds to cover the -0.5 spread are: 63.69"
+[1] "Queens Park Rangers's Barstool Odds to cover the 0.5 spread are: 43.1"
+[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76% chance of the over 2.5 hitting. The line for the under is 1.89, which is a 52.91% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                      bet           date_time
+1     Queens Park Rangers 2023-02-18 07:00:00
+2 Queens Park Rangers ATS 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team                | expected_attg| expected_gs|bet |
+|:----------------------------------|:-------------------|-------------:|-----------:|:---|
+|/players/533127/zack-steffen       |Middlesbrough       |      0.000000|   0.2777778|    |
+|/players/798661/anfernee-dijksteel |Middlesbrough       |      0.002575|   0.0555556|    |
+|/players/575780/patrick-mcnair     |Middlesbrough       |      0.095775|   0.2631579|    |
+|/players/664826/dael-fry           |Middlesbrough       |      0.024800|   0.1333333|    |
+|/players/524651/darragh-lenihan    |Middlesbrough       |      0.036800|   0.0666667|    |
+|/players/46354/jonathan-howson     |Middlesbrough       |      0.063600|   0.1111111|    |
+|/players/982394/hayden-hackney     |Middlesbrough       |      0.092725|   0.1538462|    |
+|/players/682547/daniel-barlaser    |Middlesbrough       |      0.198675|   0.2173913|    |
+|/players/280507/matt-crooks        |Middlesbrough       |      0.294700|   0.3636364|    |
+|/players/1118697/isaiah-jones      |Middlesbrough       |      0.123400|   0.2631579|    |
+|/players/1086647/cameron-archer    |Middlesbrough       |      0.423100|   0.3333333|*   |
+|/players/490413/seny-dieng         |Queens Park Rangers |      0.000000|   0.1000000|    |
+|/players/729721/jake-clarke-salter |Queens Park Rangers |      0.003600|   0.0476190|    |
+|/players/1077905/ethan-laird       |Queens Park Rangers |      0.044425|   0.0952381|    |
+|/players/621182/rob-dickie         |Queens Park Rangers |      0.023250|   0.1111111|    |
+|/players/767173/jimmy-dunne        |Queens Park Rangers |      0.029500|   0.0909091|    |
+|/players/729733/andre-dozzell      |Queens Park Rangers |      0.014125|   0.1000000|    |
+|/players/113003/albert-adomah      |Queens Park Rangers |      0.073875|   0.2000000|    |
+|/players/676504/ilias-chair        |Queens Park Rangers |      0.155800|   0.2439024|    |
+|/players/748456/sam-field          |Queens Park Rangers |      0.003875|   0.1000000|    |
+|/players/47555/chris-martin        |Queens Park Rangers |      0.149325|   0.2325581|    |
+|/players/768635/lyndon-dykes       |Queens Park Rangers |      0.211225|   0.1818182|    |
+|/players/789585/marcus-forss       |Middlesbrough       |      0.000000|   0.4347826|    |
+|/players/1128945/rodrigo-muniz     |Middlesbrough       |      0.007950|   0.2127660|    |
+|/players/759563/marc-bola          |Middlesbrough       |      0.000000|   0.0555556|    |
+|/players/733486/riley-mcgree       |Middlesbrough       |      0.000725|   0.2000000|    |
+|/players/722751/osman-kakay        |Queens Park Rangers |      0.000000|   0.0256410|    |
+|/players/369754/jamal-lowe         |Queens Park Rangers |      0.093400|   0.2380952|    |
+|/players/643230/tyler-roberts      |Queens Park Rangers |      0.045050|   0.1960784|    |
+|/players/770244/luke-amos          |Queens Park Rangers |      0.019725|   0.1538462|    |
+____________________________________________________
+
+[1] "Facts about Middlesbrough:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/533127/zack-steffen       |           0|         29.5576|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/798661/anfernee-dijksteel |           1|         42.4918|           1.9799|        0.0586|         0.1907|      0.0177|        0.0036|      0.0662| 90.0000|
+|/players/575780/patrick-mcnair     |           1|         55.5025|           1.8494|        0.2767|         0.8366|      0.0923|        0.1160|      0.1226| 90.0000|
+|/players/664826/dael-fry           |           1|         50.3863|           0.9244|        0.0898|         0.3761|      0.0615|        0.0277|      0.0412| 87.1121|
+|/players/524651/darragh-lenihan    |           1|         68.2044|           1.2953|        0.2394|         0.9122|      0.0746|        0.0444|      0.0491| 90.0000|
+|/players/46354/jonathan-howson     |           2|         49.1314|           1.9385|        0.0749|         0.5021|      0.0443|        0.0775|      0.0903| 90.0000|
+|/players/982394/hayden-hackney     |           2|         65.4850|           1.9214|        0.5139|         1.3781|      0.1227|        0.1177|      0.1054| 86.4286|
+|/players/682547/daniel-barlaser    |           3|         38.5672|           1.0582|        0.7584|         1.3979|      0.1419|        0.2644|      0.2497| 82.9167|
+|/players/280507/matt-crooks        |           3|         34.1248|           1.3887|        1.0239|         2.8182|      0.3721|        0.3945|      0.0889| 86.9000|
+|/players/1118697/isaiah-jones      |           3|         30.6315|           1.3124|        0.4823|         1.5172|      0.1758|        0.1527|      0.1975| 90.0000|
+|/players/1086647/cameron-archer    |           5|         20.3231|           0.5030|        1.2618|         2.7189|      0.6153|        0.6282|      0.1040| 90.0000|
+|/players/789585/marcus-forss       |           0|              NA|               NA|        0.0000|         0.1588|      0.0276|        0.0000|      0.0153|  7.0833|
+|/players/1128945/rodrigo-muniz     |           0|              NA|               NA|        0.0559|         0.2375|      0.0319|        0.0096|      0.0010|  3.5714|
+|/players/759563/marc-bola          |           0|              NA|               NA|        0.0000|         0.0364|      0.0021|        0.0000|      0.0103|  3.1000|
+|/players/733486/riley-mcgree       |           0|              NA|               NA|        0.0261|         0.0912|      0.0068|        0.0009|      0.0138|  2.8879|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Michael Carrick |        17779|      5.171111|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Queens Park Rangers:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/490413/seny-dieng         |           0|         31.3386|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/729721/jake-clarke-salter |           1|         34.7699|           2.2989|        0.0381|         0.2316|      0.0183|        0.0033|      0.0242| 90.0000|
+|/players/1077905/ethan-laird       |           1|         23.5599|           1.6675|        0.1297|         0.4706|      0.0378|        0.0470|      0.0575| 82.8387|
+|/players/621182/rob-dickie         |           1|         41.4274|           1.4531|        0.1144|         0.4902|      0.0348|        0.0249|      0.0484| 90.0000|
+|/players/767173/jimmy-dunne        |           1|         44.8074|           1.0581|        0.1179|         0.4091|      0.0508|        0.0340|      0.0195| 90.0000|
+|/players/729733/andre-dozzell      |           3|         37.1138|           1.2192|        0.0209|         0.4356|      0.0314|        0.0167|      0.0288| 80.3929|
+|/players/113003/albert-adomah      |           3|         20.5330|           2.2627|        0.1951|         0.7201|      0.0627|        0.0806|      0.0664| 80.5000|
+|/players/676504/ilias-chair        |           3|         33.1934|           0.8349|        0.8684|         2.4367|      0.1924|        0.1822|      0.1407| 90.0000|
+|/players/748456/sam-field          |           3|         39.8732|           2.5548|        0.0487|         0.3047|      0.0217|        0.0041|      0.0194| 90.0000|
+|/players/47555/chris-martin        |           5|         25.6558|           0.6900|        0.5637|         1.6384|      0.1902|        0.1688|      0.0966| 90.0000|
+|/players/768635/lyndon-dykes       |           5|         16.5327|           0.7280|        0.6039|         1.6910|      0.2520|        0.2503|      0.0454| 81.5000|
+|/players/722751/osman-kakay        |           0|              NA|               NA|        0.0000|         0.1918|      0.0098|        0.0000|      0.0138|  9.6071|
+|/players/369754/jamal-lowe         |           0|              NA|               NA|        0.1637|         0.2456|      0.0501|        0.1011|      0.0174|  9.5000|
+|/players/643230/tyler-roberts      |           0|              NA|               NA|        0.1213|         0.3638|      0.0265|        0.0482|      0.0049|  8.5000|
+|/players/770244/luke-amos          |           0|              NA|               NA|        0.0283|         0.0849|      0.0224|        0.0198|      0.0027|  7.1613|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Neil Critchley |        53355|     -1.729159|4-4-2     |
