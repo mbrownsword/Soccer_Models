@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 12:32:41.358"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Borussia Dortmund 2.0704 to Hertha Berlin 0.7548"
+[1] "Total: 2.8252"
+[1] "Borussia Dortmund %: 68.27"
+[1] "Draw %: 19.86"
+[1] "Hertha Berlin %: 11.87"
+[1] "--XG Model--"
+[1] "Score: Borussia Dortmund 2.3508 to Hertha Berlin 0.6826"
+[1] "Total: 3.0334"
+[1] "Borussia Dortmund %: 74.85"
+[1] "Draw %: 16.57"
+[1] "Hertha Berlin %: 8.58"
+[1] "--XGoT Model--"
+[1] "Score: Borussia Dortmund 2.457 to Hertha Berlin 0.7384"
+[1] "Total: 3.1954"
+[1] "Borussia Dortmund %: 75.33"
+[1] "Draw %: 15.59"
+[1] "Hertha Berlin %: 9.08"
+[1] "--XA Model--"
+[1] "Score: Borussia Dortmund 2.1243 to Hertha Berlin 0.773"
+[1] "Total: 2.8973"
+[1] "Borussia Dortmund %: 68.63"
+[1] "Draw %: 19.69"
+[1] "Hertha Berlin %: 11.68"
+[1] "--Mean 4 Models--"
+[1] "Borussia Dortmund has a mean win % of 71.77%; a min win % of 68.27%; a max win % of 75.33%."
+[1] "Draw has a mean win % of 17.93%; a min win % of 15.59%; a max win % of 19.86%."
+[1] "Hertha Berlin has a mean win % of 10.3%; a min win % of 8.58%; a max win of % 11.87%."
+[1] "Borussia Dortmund has a mean win of the Double Chance of 89.7%; a min win % of 88.13%, a max win % of 91.42%."
+[1] "Hertha Berlin has a mean win of the Double Chance of 28.23%; a min win % of 24.67%, a max win % of 31.73%."
+[1] "The mean likelihood that there are more than 2.5 goals is 56.64%; max % is 61.5 and min % is 52.72%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 43.36%; max % is 47.28 and min % is 38.5%."
+[1] "--Sportsbook Odds--"
+[1] "Borussia Dortmund Barstool Odds are: 75.19"
+[1] "The Barstool Odds of a Draw are: 18.18"
+[1] "Hertha Berlin Barstool Odds are: 11.76"
+[1] "Borussia Dortmund Adjusted Barstool Odds are: 71.521"
+[1] "The Adjusted Barstool Odds of a Draw are: 17.293"
+[1] "Hertha Berlin Adjusted Barstool Odds are: 11.186"
+[1] "Borussia Dortmund's Barstool Odds to cover the -0.5 spread are: 73.53"
+[1] "Hertha Berlin's Barstool Odds to cover the 0.5 spread are: 30.3"
+[1] "Barstool's line for the total is 2.5 at 1.5, which is a 66.67% chance of the over 2.5 hitting. The line for the under is 2.6, which is a 38.46% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                    bet           date_time
+1 under Borussia Dortmund/Hertha Berlin 2023-02-19 08:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team              | expected_attg| expected_gs|bet |
+|:---------------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/764018/gregor-kobel            |Borussia Dortmund |      0.000000|   0.0322581|    |
+|/players/659272/julian-ryerson          |Borussia Dortmund |      0.028625|   0.1052632|    |
+|/players/447084/niklas-sle              |Borussia Dortmund |      0.026550|   0.1000000|    |
+|/players/1002058/nico-schlotterbeck     |Borussia Dortmund |      0.082250|   0.1052632|    |
+|/players/352994/raphal-guerreiro        |Borussia Dortmund |      0.114750|   0.1754386|    |
+|/players/307021/emre-can                |Borussia Dortmund |      0.067475|   0.1694915|    |
+|/players/1077894/jude-bellingham        |Borussia Dortmund |      0.096075|   0.2564103|    |
+|/players/516846/julian-brandt           |Borussia Dortmund |      0.146300|   0.2941176|    |
+|/players/129944/marco-reus              |Borussia Dortmund |      0.372675|   0.4545455|    |
+|/players/959594/karim-adeyemi           |Borussia Dortmund |      0.221200|   0.3703704|    |
+|/players/352968/sebastien-haller        |Borussia Dortmund |      0.436025|   0.5744681|    |
+|/players/276760/florian-niederlechner   |Hertha Berlin     |      0.107475|   0.2222222|    |
+|/players/1083717/jessic-ngankam         |Hertha Berlin     |      0.208175|   0.1785714|    |
+|/players/229759/marvin-plattenhardt     |Hertha Berlin     |      0.017075|   0.0666667|    |
+|/players/667790/suat-serdar             |Hertha Berlin     |      0.040050|   0.1666667|    |
+|/players/212881/tolga-cigerci           |Hertha Berlin     |      0.051475|   0.0769231|    |
+|/players/612277/lucas-tousart           |Hertha Berlin     |      0.015200|   0.1000000|    |
+|/players/642418/marco-richter           |Hertha Berlin     |      0.072750|   0.1818182|    |
+|/players/1153342/marton-dardai          |Hertha Berlin     |      0.022925|   0.0322581|    |
+|/players/355356/marc-oliver-kempf       |Hertha Berlin     |      0.025350|   0.1000000|    |
+|/players/767508/filip-uremovic          |Hertha Berlin     |      0.003175|   0.0400000|    |
+|/players/806972/oliver-christensen      |Hertha Berlin     |      0.000000|   0.1052632|    |
+|/players/1071179/giovanni-reyna         |Borussia Dortmund |      0.077300|   0.3125000|    |
+|/players/660301/donyell-malen           |Borussia Dortmund |      0.102775|   0.4545455|    |
+|/players/71605/anthony-modeste          |Borussia Dortmund |      0.058050|   0.6296296|    |
+|/players/637753/felix-passlack          |Borussia Dortmund |      0.014875|   0.1538462|    |
+|/players/688876/dodi-lukebakio          |Hertha Berlin     |      0.049275|   0.2173913|    |
+|/players/402975/jean-paul-botius        |Hertha Berlin     |      0.028000|   0.1538462|    |
+|/players/614384/maximilian-mittelstaedt |Hertha Berlin     |      0.002575|   0.1428571|    |
+|/players/541551/ivan-sunjic             |Hertha Berlin     |      0.002150|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about Borussia Dortmund:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/764018/gregor-kobel        |           0|         31.9088|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/659272/julian-ryerson      |           1|         38.8966|           1.2281|        0.1259|         0.4269|      0.0181|        0.0306|      0.0601| 83.5882|
+|/players/447084/niklas-sle          |           1|         80.9700|           1.2770|        0.1555|         0.6195|      0.0675|        0.0283|      0.0565| 90.0000|
+|/players/1002058/nico-schlotterbeck |           1|         64.4186|           2.2210|        0.2513|         0.7635|      0.1034|        0.0906|      0.0490| 90.0000|
+|/players/352994/raphal-guerreiro    |           1|         66.2708|           1.5823|        0.2904|         0.8877|      0.1075|        0.1302|      0.1794| 90.0000|
+|/players/307021/emre-can            |           2|         65.3089|           2.1394|        0.1711|         0.6724|      0.0989|        0.0776|      0.1014| 90.0000|
+|/players/1077894/jude-bellingham    |           2|         59.3967|           2.1590|        0.4665|         1.4448|      0.1239|        0.1056|      0.1787| 90.0000|
+|/players/516846/julian-brandt       |           3|         44.3827|           1.2242|        0.5656|         1.4312|      0.1644|        0.1675|      0.2503| 80.6271|
+|/players/129944/marco-reus          |           3|         34.6224|           1.4415|        1.0505|         2.4930|      0.4644|        0.4918|      0.2261| 82.4500|
+|/players/959594/karim-adeyemi       |           3|         20.2338|           0.7643|        0.7945|         1.9818|      0.1913|        0.2624|      0.0798| 67.5000|
+|/players/352968/sebastien-haller    |           5|         21.8791|           0.6190|        1.3172|         2.9017|      0.5885|        0.6123|      0.0940| 90.0000|
+|/players/1071179/giovanni-reyna     |          NA|              NA|               NA|        0.1958|         0.5340|      0.0734|        0.0889|      0.0587| 22.5000|
+|/players/660301/donyell-malen       |          NA|              NA|               NA|        0.2450|         0.4566|      0.0849|        0.1176|      0.0245|  9.3729|
+|/players/71605/anthony-modeste      |          NA|              NA|               NA|        0.2017|         0.4323|      0.0773|        0.0645|      0.0030|  7.5500|
+|/players/637753/felix-passlack      |          NA|              NA|               NA|        0.0436|         0.0871|      0.0150|        0.0169|      0.0027|  6.4118|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Edin Terzic  |        52439|      12.74117|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Hertha Berlin:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/276760/florian-niederlechner   |           5|         20.9867|           0.5657|        0.4813|         1.7576|      0.1282|        0.1386|      0.0675| 77.2931|
+|/players/1083717/jessic-ngankam         |           5|         13.7564|           0.7211|        0.5368|         1.3576|      0.2071|        0.2755|      0.0261| 72.0000|
+|/players/229759/marvin-plattenhardt     |           3|         23.1009|           1.1091|        0.0821|         0.0883|      0.0024|        0.0192|      0.0740| 77.3333|
+|/players/667790/suat-serdar             |           3|         26.1930|           2.7958|        0.2030|         0.7808|      0.0433|        0.0488|      0.0415| 90.0000|
+|/players/212881/tolga-cigerci           |           3|         54.5701|           1.7841|        0.0955|         0.4687|      0.0721|        0.0632|      0.0595| 90.0000|
+|/players/612277/lucas-tousart           |           3|         30.9988|           2.2695|        0.1816|         0.7195|      0.0291|        0.0192|      0.0369| 90.0000|
+|/players/642418/marco-richter           |           3|         19.2590|           1.2538|        0.2926|         1.2552|      0.0768|        0.0929|      0.0849| 77.9565|
+|/players/1153342/marton-dardai          |           1|         37.3031|           1.4769|        0.0993|         0.2508|      0.0123|        0.0315|      0.0207| 90.0000|
+|/players/355356/marc-oliver-kempf       |           1|         39.3563|           1.3813|        0.1294|         0.5383|      0.0499|        0.0327|      0.0180| 90.0000|
+|/players/767508/filip-uremovic          |           1|         32.5327|           1.5359|        0.0516|         0.4434|      0.0355|        0.0041|      0.0051| 90.0000|
+|/players/806972/oliver-christensen      |           0|         29.3762|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/688876/dodi-lukebakio          |          NA|              NA|               NA|        0.1486|         0.4672|      0.0847|        0.0632|      0.0324| 18.0000|
+|/players/402975/jean-paul-botius        |          NA|              NA|               NA|        0.0946|         0.2364|      0.0212|        0.0331|      0.0188| 12.7069|
+|/players/614384/maximilian-mittelstaedt |          NA|              NA|               NA|        0.0000|         0.1303|      0.0067|        0.0032|      0.0407| 12.6667|
+|/players/541551/ivan-sunjic             |          NA|              NA|               NA|        0.0293|         0.0879|      0.0034|        0.0035|      0.0123| 12.0435|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Sandro Schwarz |        19779|     0.9335938|4-3-3     |
