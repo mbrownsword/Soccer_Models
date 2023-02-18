@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 16:40:44.714"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Puebla 1.4481 to Cruz Azul 1.1701"
+[1] "Total: 2.6182"
+[1] "Puebla %: 43.41"
+[1] "Draw %: 25.81"
+[1] "Cruz Azul %: 30.78"
+[1] "--XG Model--"
+[1] "Score: Puebla 1.2229 to Cruz Azul 1.1662"
+[1] "Total: 2.3891"
+[1] "Puebla %: 37.41"
+[1] "Draw %: 28.32"
+[1] "Cruz Azul %: 34.27"
+[1] "--XGoT Model--"
+[1] "Score: Puebla 1.3778 to Cruz Azul 1.4225"
+[1] "Total: 2.8003"
+[1] "Puebla %: 36.9"
+[1] "Draw %: 25.1"
+[1] "Cruz Azul %: 38"
+[1] "--XA Model--"
+[1] "Score: Puebla 1.3437 to Cruz Azul 1.2993"
+[1] "Total: 2.643"
+[1] "Puebla %: 39.06"
+[1] "Draw %: 25.72"
+[1] "Cruz Azul %: 35.22"
+[1] "--Mean 4 Models--"
+[1] "Puebla has a mean win % of 39.2%; a min win % of 36.9%; a max win % of 43.41%."
+[1] "Draw has a mean win % of 26.24%; a min win % of 25.1%; a max win % of 28.32%."
+[1] "Cruz Azul has a mean win % of 34.57%; a min win % of 30.78%; a max win of % 38%."
+[1] "Puebla has a mean win of the Double Chance of 65.43%; a min win % of 62%, a max win % of 69.22%."
+[1] "Cruz Azul has a mean win of the Double Chance of 60.8%; a min win % of 56.59%, a max win % of 63.1%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.65%; max % is 52.72 and min % is 41.92%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 52.35%; max % is 58.08 and min % is 47.28%."
+[1] "--Sportsbook Odds--"
+[1] "Puebla Barstool Odds are: 33.9"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Cruz Azul Barstool Odds are: 44.44"
+[1] "Puebla Adjusted Barstool Odds are: 31.462"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.295"
+[1] "Cruz Azul Adjusted Barstool Odds are: 41.244"
+[1] "Puebla's Barstool Odds to cover the 0.5 spread are: 62.11"
+[1] "Cruz Azul's Barstool Odds to cover the -0.5 spread are: 43.86"
+[1] "Barstool's line for the total is 2.5 at 1.85, which is a 54.05% chance of the over 2.5 hitting. The line for the under is 1.87, which is a 53.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+     bet           date_time
+1 Puebla 2023-02-17 19:05:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team      | expected_attg| expected_gs|bet |
+|:--------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/244289/anthony-silva          |Puebla    |      0.000000|   0.0333333|    |
+|/players/315460/gaston-silva           |Puebla    |      0.005525|   0.0333333|    |
+|/players/848035/emanuel-gularte        |Puebla    |      0.039950|   0.0952381|    |
+|/players/782189/lucas-maia             |Puebla    |      0.028200|   0.0625000|    |
+|/players/602570/gustavo-ferrareis      |Puebla    |      0.045525|   0.1666667|    |
+|/players/272616/diego-de-buen          |Puebla    |      0.039425|   0.1333333|    |
+|/players/198567/pablo-parra            |Puebla    |      0.261700|   0.2173913|    |
+|/players/579659/omar-andres-fernandez  |Puebla    |      0.052075|   0.2702703|    |
+|/players/659034/fernando-juarez        |Puebla    |      0.189225|   0.1428571|    |
+|/players/161344/federico-mancuello     |Puebla    |      0.107150|   0.1754386|    |
+|/players/211146/fernando-aristeguieta  |Puebla    |      0.236925|   0.1428571|*   |
+|/players/876495/sebastian-jurado-roca  |Cruz Azul |      0.000000|   0.2272727|    |
+|/players/111904/joaquin-martinez       |Cruz Azul |      0.020200|   0.0588235|    |
+|/players/494184/jordan-silva           |Cruz Azul |      0.041075|   0.0400000|    |
+|/players/747701/juan-escobar           |Cruz Azul |      0.100225|   0.1666667|    |
+|/players/70199/julio-csar-dominguez    |Cruz Azul |      0.002600|   0.0500000|    |
+|/players/430015/ignacio-rivero         |Cruz Azul |      0.049575|   0.1538462|    |
+|/players/769593/carlos-rodriguez       |Cruz Azul |      0.160350|   0.2127660|    |
+|/players/971628/erik-lira              |Cruz Azul |      0.017275|   0.0500000|    |
+|/players/389892/cristian-tabo          |Cruz Azul |      0.135700|   0.2439024|    |
+|/players/793611/gonzalo-carneiro       |Cruz Azul |      0.342375|   0.3333333|    |
+|/players/497330/michael-estrada        |Cruz Azul |      0.148200|   0.2941176|    |
+|/players/612772/daniel-alvarez         |Puebla    |      0.036450|   0.1754386|    |
+|/players/494183/martin-barragan        |Puebla    |      0.113750|   0.3389831|    |
+|/players/1295524/alberto-herrera       |Puebla    |      0.007250|   0.1333333|    |
+|/players/1108516/ivo-vazquez           |Puebla    |      0.000000|   0.0526316|    |
+|/players/785840/ivan-morales           |Cruz Azul |      0.000000|   0.3030303|    |
+|/players/274099/rafael-baca            |Cruz Azul |      0.000000|   0.1111111|    |
+|/players/277141/jesus-escoboza         |Cruz Azul |      0.032775|   0.1538462|    |
+|/players/855911/carlos-rodolfo-rotondi |Cruz Azul |      0.009725|   0.2439024|    |
+____________________________________________________
+
+[1] "Facts about Puebla:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/244289/anthony-silva         |           0|         22.6878|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/315460/gaston-silva          |           1|         57.5828|           1.5027|        0.0578|         0.3421|      0.0206|        0.0064|      0.0257| 90.0000|
+|/players/848035/emanuel-gularte       |           1|         39.6237|           1.6626|        0.1532|         0.3490|      0.0563|        0.0442|      0.0148| 90.0000|
+|/players/782189/lucas-maia            |           1|         39.8869|           1.1872|        0.1134|         0.4304|      0.0470|        0.0289|      0.0249| 90.0000|
+|/players/602570/gustavo-ferrareis     |           1|         33.5988|           1.4490|        0.1792|         0.8167|      0.0465|        0.0478|      0.0947| 90.0000|
+|/players/272616/diego-de-buen         |           2|         45.0223|           1.8169|        0.2061|         0.8218|      0.0541|        0.0439|      0.0441| 90.0000|
+|/players/198567/pablo-parra           |           3|         22.1638|           1.2120|        1.0708|         2.4133|      0.2771|        0.3111|      0.0922| 76.4667|
+|/players/579659/omar-andres-fernandez |           3|         26.4979|           0.9537|        0.2648|         0.8676|      0.1000|        0.0562|      0.1318| 75.7321|
+|/players/659034/fernando-juarez       |           3|         23.9169|           1.8517|        0.2288|         0.8115|      0.0925|        0.2099|      0.0159| 77.3333|
+|/players/161344/federico-mancuello    |           3|         40.3281|           2.2494|        0.6735|         1.2845|      0.0658|        0.1182|      0.1691| 90.0000|
+|/players/211146/fernando-aristeguieta |           5|         15.5972|           0.4893|        0.9487|         2.2207|      0.2605|        0.2756|      0.0586| 76.6923|
+|/players/612772/daniel-alvarez        |           0|              NA|               NA|        0.2024|         0.5263|      0.0256|        0.0369|      0.0332| 14.2679|
+|/players/494183/martin-barragan       |           0|              NA|               NA|        0.3104|         0.7094|      0.1001|        0.1244|      0.0093| 13.5333|
+|/players/1295524/alberto-herrera      |           0|              NA|               NA|        0.0538|         0.2151|      0.0081|        0.0069|      0.0113| 13.3077|
+|/players/1108516/ivo-vazquez          |           0|              NA|               NA|        0.0000|         0.0522|      0.0016|        0.0000|      0.0214| 12.6667|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Eduardo Arce |         5940|     -6.396667|4-1-4-1   |
+____________________________________________________
+
+[1] "Facts about Cruz Azul:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/876495/sebastian-jurado-roca  |           0|         23.1896|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/111904/joaquin-martinez       |           1|         38.5393|           1.9406|        0.1176|         0.2993|      0.0250|        0.0256|      0.1329| 90.0000|
+|/players/494184/jordan-silva           |           1|         50.0277|           1.7975|        0.0683|         0.8397|      0.0781|        0.0550|      0.0086| 90.0000|
+|/players/747701/juan-escobar           |           1|         41.5066|           2.0569|        0.3484|         0.9813|      0.0720|        0.1311|      0.0766| 90.0000|
+|/players/70199/julio-csar-dominguez    |           1|         49.6653|           1.2322|        0.0773|         0.3089|      0.0193|        0.0031|      0.0157| 90.0000|
+|/players/430015/ignacio-rivero         |           3|         37.1204|           3.0219|        0.4212|         1.5822|      0.1191|        0.0633|      0.1079| 90.0000|
+|/players/769593/carlos-rodriguez       |           3|         41.4486|           0.9622|        0.4113|         1.1100|      0.1345|        0.2101|      0.1162| 78.3762|
+|/players/971628/erik-lira              |           3|         44.6954|           2.3856|        0.1327|         0.5883|      0.0322|        0.0228|      0.0186| 90.0000|
+|/players/389892/cristian-tabo          |           5|         25.0909|           1.5768|        0.5591|         1.9297|      0.1734|        0.1844|      0.1477| 74.8600|
+|/players/793611/gonzalo-carneiro       |           5|         16.8616|           0.6167|        0.8602|         1.7915|      0.2709|        0.5231|      0.0715| 68.3077|
+|/players/497330/michael-estrada        |           5|         15.0158|           0.5598|        0.6800|         2.0532|      0.2139|        0.2001|      0.1109| 70.6081|
+|/players/785840/ivan-morales           |           0|              NA|               NA|        0.0000|         0.5894|      0.0246|        0.0000|      0.0256| 21.6923|
+|/players/274099/rafael-baca            |           0|              NA|               NA|        0.0000|         0.0624|      0.0033|        0.0000|      0.0067| 19.3919|
+|/players/277141/jesus-escoboza         |           0|              NA|               NA|        0.1999|         0.3998|      0.0184|        0.0423|      0.0300| 15.1400|
+|/players/855911/carlos-rodolfo-rotondi |           0|              NA|               NA|        0.0990|         0.4948|      0.0305|        0.0108|      0.0010| 11.6238|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Raul Gutierrez |        14778|    -0.8506667|4-3-3     |
