@@ -1,0 +1,143 @@
+[1] "Updated at 2023-02-18 15:04:08.668"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Paris Saint-Germain 1.6043 to Lille 1.1469"
+[1] "Total: 2.7512"
+[1] "Paris Saint-Germain %: 48.49"
+[1] "Draw %: 23.83"
+[1] "Lille %: 27.68"
+[1] "--XG Model--"
+[1] "Score: Paris Saint-Germain 1.6517 to Lille 1.2141"
+[1] "Total: 2.8658"
+[1] "Paris Saint-Germain %: 48.41"
+[1] "Draw %: 24.38"
+[1] "Lille %: 27.21"
+[1] "--XGoT Model--"
+[1] "Score: Paris Saint-Germain 1.7145 to Lille 1.2099"
+[1] "Total: 2.9244"
+[1] "Paris Saint-Germain %: 49.3"
+[1] "Draw %: 24.38"
+[1] "Lille %: 26.32"
+[1] "--XA Model--"
+[1] "Score: Paris Saint-Germain 1.4544 to Lille 1.0783"
+[1] "Total: 2.5327"
+[1] "Paris Saint-Germain %: 46.24"
+[1] "Draw %: 25.69"
+[1] "Lille %: 28.07"
+[1] "--Mean 4 Models--"
+[1] "Paris Saint-Germain has a mean win % of 48.11%; a min win % of 46.24%; a max win % of 49.3%."
+[1] "Draw has a mean win % of 24.57%; a min win % of 23.83%; a max win % of 25.69%."
+[1] "Lille has a mean win % of 27.32%; a min win % of 26.32%; a max win of % 28.07%."
+[1] "Paris Saint-Germain has a mean win of the Double Chance of 72.68%; a min win % of 71.93%, a max win % of 73.68%."
+[1] "Lille has a mean win of the Double Chance of 51.89%; a min win % of 50.7%, a max win % of 53.76%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.04%; max % is 54.88 and min % is 45.13%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.95%; max % is 54.87 and min % is 45.12%."
+[1] "--Sportsbook Odds--"
+[1] "Paris Saint-Germain Barstool Odds are: 63.64"
+[1] "The Barstool Odds of a Draw are: 23.26"
+[1] "Lille Barstool Odds are: 18.52"
+[1] "Paris Saint-Germain Adjusted Barstool Odds are: 60.368"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.064"
+[1] "Lille Adjusted Barstool Odds are: 17.568"
+[1] "Paris Saint-Germain's Barstool Odds to cover the -0.5 spread are: 62.5"
+[1] "Lille's Barstool Odds to cover the 0.5 spread are: 42.02"
+[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29% chance of the over 2.5 hitting. The line for the under is 2.38, which is a 42.02% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                              bet           date_time
+1  draw Paris Saint-Germain/Lille 2023-02-19 04:00:00
+2                           Lille 2023-02-19 04:00:00
+3 under Paris Saint-Germain/Lille 2023-02-19 04:00:00
+4                       Lille ATS 2023-02-19 04:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team                | expected_attg| expected_gs|bet |
+|:------------------------------------|:-------------------|-------------:|-----------:|:---|
+|/players/618878/gianluigi-donnarumma |Paris Saint-Germain |      0.000000|   0.0357143|    |
+|/players/1108603/timothe-pembélé     |Paris Saint-Germain |      0.038050|   0.1785714|    |
+|/players/562035/presnel-kimpembe     |Paris Saint-Germain |      0.003850|   0.0714286|    |
+|/players/30962/sergio-ramos          |Paris Saint-Germain |      0.086900|   0.1538462|    |
+|/players/282691/juan-bernat          |Paris Saint-Germain |      0.020100|   0.1111111|    |
+|/players/1367615/warren-zaire-emery  |Paris Saint-Germain |      0.078800|   0.1754386|    |
+|/players/190972/marco-verratti       |Paris Saint-Germain |      0.076775|   0.1333333|    |
+|/players/240235/danilo-pereira       |Paris Saint-Germain |      0.079400|   0.1176471|    |
+|/players/19533/neymar                |Paris Saint-Germain |      0.181325|   0.5000000|    |
+|/players/30981/lionel-messi          |Paris Saint-Germain |      0.343375|   0.5000000|    |
+|/players/701154/kylian-mbapp         |Paris Saint-Germain |      0.333250|   0.5652174|    |
+|/players/939569/jonathan-david       |Lille               |      0.265125|   0.3448276|    |
+|/players/466478/jonathan-bamba       |Lille               |      0.111725|   0.2500000|    |
+|/players/199834/rmy-cabella          |Lille               |      0.197800|   0.2173913|    |
+|/players/862616/edon-zhegrova        |Lille               |      0.159300|   0.1754386|    |
+|/players/361770/andr-gomes           |Lille               |      0.016750|   0.0909091|    |
+|/players/148830/benjamin-andr        |Lille               |      0.020500|   0.1176471|    |
+|/players/889536/timothy-weah         |Lille               |      0.018700|   0.2500000|    |
+|/players/866358/tiago-djalo          |Lille               |      0.051950|   0.0666667|    |
+|/players/26552/jos-fonte             |Lille               |      0.042300|   0.0476190|    |
+|/players/979752/bafod-diakité        |Lille               |      0.018700|   0.0588235|    |
+|/players/1177131/lucas-chevalier     |Lille               |      0.000000|   0.0909091|    |
+|/players/1061249/vitinha             |Paris Saint-Germain |      0.006275|   0.1886792|    |
+|/players/1197030/hugo-ekitike        |Paris Saint-Germain |      0.036900|   0.3508772|    |
+|/players/708890/carlos-soler         |Paris Saint-Germain |      0.033050|   0.3030303|    |
+|/players/1158945/nuno-mendes         |Paris Saint-Germain |      0.013025|   0.1052632|    |
+|/players/744494/gabriel-gudmundsson  |Lille               |      0.019075|   0.1052632|    |
+|/players/210142/jonas-martin         |Lille               |      0.000000|   0.1176471|    |
+|/players/848667/angel-gomes          |Lille               |      0.016150|   0.1666667|    |
+|/players/1173793/alan-virginius      |Lille               |      0.048625|   0.2380952|    |
+____________________________________________________
+
+[1] "Facts about Paris Saint-Germain:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/618878/gianluigi-donnarumma |           0|         31.3372|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1108603/timothe-pembélé     |           1|         29.2579|           1.3478|        0.0376|         0.4944|      0.0471|        0.0456|      0.0577| 77.1176|
+|/players/562035/presnel-kimpembe     |           1|         69.1315|           1.6451|        0.0390|         0.2282|      0.0135|        0.0052|      0.0400| 90.0000|
+|/players/30962/sergio-ramos          |           1|         71.1159|           1.1921|        0.3231|         1.0689|      0.1102|        0.1066|      0.0378| 83.5783|
+|/players/282691/juan-bernat          |           1|         51.6170|           2.1216|        0.1419|         0.2421|      0.0101|        0.0226|      0.1277| 81.5185|
+|/players/1367615/warren-zaire-emery  |           2|         54.4890|           1.8796|        0.2641|         0.7012|      0.1128|        0.0957|      0.1066| 90.0000|
+|/players/190972/marco-verratti       |           2|         63.1325|           3.0208|        0.2444|         0.6489|      0.1044|        0.0957|      0.0986| 83.2857|
+|/players/240235/danilo-pereira       |           2|         43.7646|           1.5155|        0.5965|         2.2437|      0.1128|        0.0957|      0.1066| 90.0000|
+|/players/19533/neymar                |           3|         47.6675|           1.5008|        0.8852|         2.0448|      0.2240|        0.2356|      0.2066| 90.0000|
+|/players/30981/lionel-messi          |           5|         33.5790|           1.0564|        1.1267|         2.5562|      0.4020|        0.4839|      0.1217| 90.0000|
+|/players/701154/kylian-mbapp         |           5|         20.3230|           0.4860|        1.2683|         2.3446|      0.4632|        0.4522|      0.0793| 90.0000|
+|/players/1061249/vitinha             |          NA|              NA|               NA|        0.0530|         0.1060|      0.0130|        0.0073|      0.0103| 12.8824|
+|/players/1197030/hugo-ekitike        |          NA|              NA|               NA|        0.1120|         0.1934|      0.0333|        0.0442|      0.0087|  8.4815|
+|/players/708890/carlos-soler         |          NA|              NA|               NA|        0.0606|         0.1549|      0.0260|        0.0376|      0.0063|  6.7143|
+|/players/1158945/nuno-mendes         |          NA|              NA|               NA|        0.0366|         0.0610|      0.0072|        0.0143|      0.0134|  6.4217|
+
+
+|manager_name       | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Christophe Galtier |       112427|      11.67597|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Lille:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/939569/jonathan-david      |           5|         22.0531|           0.5161|        0.8734|         2.0487|      0.3279|        0.3536|      0.0398| 82.0960|
+|/players/466478/jonathan-bamba      |           3|         32.5748|           1.0137|        0.4271|         1.3745|      0.1379|        0.1347|      0.0799| 90.0000|
+|/players/199834/rmy-cabella         |           3|         42.2199|           1.6639|        0.5826|         1.2268|      0.1863|        0.2543|      0.1339| 81.1373|
+|/players/862616/edon-zhegrova       |           3|         19.6003|           1.2770|        0.5912|         1.5922|      0.1506|        0.1981|      0.0951| 71.4082|
+|/players/361770/andr-gomes          |           2|         44.3873|           1.5737|        0.2338|         0.6834|      0.0407|        0.0199|      0.0373| 82.5625|
+|/players/148830/benjamin-andr       |           2|         52.3417|           3.0456|        0.1126|         0.6077|      0.0561|        0.0230|      0.0597| 90.0000|
+|/players/889536/timothy-weah        |           1|         38.6313|           2.2012|        0.3239|         0.7168|      0.0371|        0.0206|      0.0235| 90.0000|
+|/players/866358/tiago-djalo         |           1|         51.7429|           1.9364|        0.0431|         0.2965|      0.0441|        0.0585|      0.0405| 90.0000|
+|/players/26552/jos-fonte            |           1|         52.1010|           0.8490|        0.0520|         0.4204|      0.0567|        0.0485|      0.0544| 90.0000|
+|/players/979752/bafod-diakité       |           1|         48.0888|           1.4804|        0.0719|         0.3483|      0.0371|        0.0206|      0.0926| 90.0000|
+|/players/1177131/lucas-chevalier    |           0|         31.9135|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/744494/gabriel-gudmundsson |          NA|              NA|               NA|        0.1606|         0.4818|      0.0378|        0.0246|      0.0112| 18.5918|
+|/players/210142/jonas-martin        |          NA|              NA|               NA|        0.0000|         0.0221|      0.0025|        0.0000|      0.0022|  8.8627|
+|/players/848667/angel-gomes         |          NA|              NA|               NA|        0.0598|         0.1396|      0.0170|        0.0186|      0.0158|  7.9040|
+|/players/1173793/alan-virginius     |          NA|              NA|               NA|        0.1069|         0.1853|      0.1028|        0.0556|      0.0063|  7.4375|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Paulo Fonseca |        72198|      9.573737|3-4-2-1   |
