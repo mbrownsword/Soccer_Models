@@ -1,0 +1,142 @@
+[1] "Updated at 2023-02-17 18:22:34.024"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Derby County 1.5421 to Charlton Athletic 1.0079"
+[1] "Total: 2.55"
+[1] "Derby County %: 49.7"
+[1] "Draw %: 25.43"
+[1] "Charlton Athletic %: 24.87"
+[1] "--XG Model--"
+[1] "Score: Derby County 1.764 to Charlton Athletic 0.9328"
+[1] "Total: 2.6968"
+[1] "Derby County %: 57.15"
+[1] "Draw %: 23.53"
+[1] "Charlton Athletic %: 19.32"
+[1] "--XGoT Model--"
+[1] "Score: Derby County 1.7239 to Charlton Athletic 0.8796"
+[1] "Total: 2.6035"
+[1] "Derby County %: 57.77"
+[1] "Draw %: 23.46"
+[1] "Charlton Athletic %: 18.77"
+[1] "--XA Model--"
+[1] "Score: Derby County 1.6504 to Charlton Athletic 1.024"
+[1] "Total: 2.6744"
+[1] "Derby County %: 52.16"
+[1] "Draw %: 24.57"
+[1] "Charlton Athletic %: 23.27"
+[1] "--Mean 4 Models--"
+[1] "Derby County has a mean win % of 54.19%; a min win % of 49.7%; a max win % of 57.77%."
+[1] "Draw has a mean win % of 24.25%; a min win % of 23.46%; a max win % of 25.43%."
+[1] "Charlton Athletic has a mean win % of 21.56%; a min win % of 18.77%; a max win of % 24.87%."
+[1] "Derby County has a mean win of the Double Chance of 78.44%; a min win % of 75.13%, a max win % of 81.23%."
+[1] "Charlton Athletic has a mean win of the Double Chance of 45.8%; a min win % of 42.23%, a max win % of 50.3%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.08%; max % is 49.69 and min % is 46%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.92%; max % is 54 and min % is 50.31%."
+[1] "--Sportsbook Odds--"
+[1] "Derby County Barstool Odds are: 65.22"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Charlton Athletic Barstool Odds are: 17.39"
+[1] "Derby County Adjusted Barstool Odds are: 60.608"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.232"
+[1] "Charlton Athletic Adjusted Barstool Odds are: 16.16"
+[1] "Derby County's Barstool Odds to cover the -0.5 spread are: 66.67"
+[1] "Charlton Athletic's Barstool Odds to cover the 0.5 spread are: 40.32"
+[1] "Barstool's line for the total is 2.5 at 1.76, which is a 56.82% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                   bet           date_time
+1                    Charlton Athletic 2023-02-18 07:00:00
+2 under Derby County/Charlton Athletic 2023-02-18 07:00:00
+3                Charlton Athletic ATS 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team              | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/562799/joseph-wildsmith       |Derby County      |      0.000000|   0.4255319|    |
+|/players/110911/craig-forsyth          |Derby County      |      0.046450|   0.0625000|    |
+|/players/24658/curtis-davies           |Derby County      |      0.058525|   0.0952381|    |
+|/players/1127305/eiran-cashin          |Derby County      |      0.029975|   0.0769231|    |
+|/players/881558/max-bird               |Derby County      |      0.025925|   0.1785714|    |
+|/players/1081285/louie-sibley          |Derby County      |      0.092800|   0.1886792|    |
+|/players/206435/nathaniel-mendez-laing |Derby County      |      0.078025|   0.2857143|    |
+|/players/1051415/jason-knight          |Derby County      |      0.042575|   0.1666667|    |
+|/players/207758/conor-hourihane        |Derby County      |      0.074950|   0.2173913|    |
+|/players/31922/david-mcgoldrick        |Derby County      |      0.465300|   0.4545455|    |
+|/players/189075/james-collins          |Derby County      |      0.349475|   0.4444444|    |
+|/players/720460/joseph-wollacott       |Charlton Athletic |      0.000000|   0.2380952|    |
+|/players/822493/matthew-penney         |Charlton Athletic |      0.036775|   0.0833333|    |
+|/players/729738/sean-clare             |Charlton Athletic |      0.032550|   0.0909091|    |
+|/players/314389/ryan-inniss            |Charlton Athletic |      0.073800|   0.0454545|    |
+|/players/469382/jack-payne             |Charlton Athletic |      0.177825|   0.1538462|    |
+|/players/955356/albie-morgan           |Charlton Athletic |      0.087200|   0.1176471|    |
+|/players/410015/todd-kane              |Charlton Athletic |      0.084575|   0.1818182|    |
+|/players/540680/scott-fraser           |Charlton Athletic |      0.094050|   0.1428571|    |
+|/players/660170/george-dobson          |Charlton Athletic |      0.042425|   0.0625000|    |
+|/players/1389994/miles-leaburn         |Charlton Athletic |      0.030425|   0.2564103|    |
+|/players/1226789/jesurun-rak-sakyi     |Charlton Athletic |      0.072550|   0.1886792|    |
+|/players/1098752/lewis-dobbin          |Derby County      |      0.008350|   0.3571429|    |
+|/players/168313/korey-smith            |Derby County      |      0.000000|   0.0769231|    |
+|/players/279456/tom-barkhuizen         |Derby County      |      0.048900|   0.3030303|    |
+|/players/1123933/liam-thompson         |Derby County      |      0.000000|   0.1694915|    |
+|/players/298665/chuks-aneke            |Charlton Athletic |      0.075725|   0.2380952|    |
+|/players/672487/corey-blackett-taylor  |Charlton Athletic |      0.017925|   0.2000000|    |
+|/players/1123510/aaron-henry           |Charlton Athletic |      0.032800|   0.1250000|    |
+|/players/1420196/zach-mitchell         |Charlton Athletic |      0.000000|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about Derby County:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/562799/joseph-wildsmith       |           0|         29.2056|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/110911/craig-forsyth          |           1|         44.1091|           0.9693|        0.2413|         0.7134|      0.0577|        0.0487|      0.0170| 90.0000|
+|/players/24658/curtis-davies           |           1|         52.2298|           1.1319|        0.1827|         0.7760|      0.0763|        0.0592|      0.0028| 90.0000|
+|/players/1127305/eiran-cashin          |           1|         61.8871|           1.9674|        0.2484|         0.9108|      0.0667|        0.0297|      0.0045| 90.0000|
+|/players/881558/max-bird               |           2|         42.4550|           2.1574|        0.1423|         0.8343|      0.0163|        0.0252|      0.1267| 90.0000|
+|/players/1081285/louie-sibley          |           3|         19.2523|           1.5589|        0.4715|         1.6112|      0.1061|        0.0975|      0.1138| 76.4857|
+|/players/206435/nathaniel-mendez-laing |           3|         28.9878|           1.3760|        0.4114|         1.6214|      0.0765|        0.0832|      0.2538| 81.5000|
+|/players/1051415/jason-knight          |           3|         35.6422|           1.8137|        0.3022|         1.1025|      0.0805|        0.0435|      0.0973| 90.0000|
+|/players/207758/conor-hourihane        |           3|         52.2815|           1.2630|        0.3071|         1.2482|      0.0874|        0.0763|      0.2419| 90.0000|
+|/players/31922/david-mcgoldrick        |           5|         23.4122|           0.8195|        1.4502|         3.3781|      0.4409|        0.6088|      0.0750| 79.9074|
+|/players/189075/james-collins          |           5|         15.7699|           0.6208|        0.8457|         2.4169|      0.5034|        0.4092|      0.0515| 82.2088|
+|/players/1098752/lewis-dobbin          |           0|              NA|               NA|        0.0606|         0.4243|      0.0258|        0.0077|      0.0209| 13.5143|
+|/players/168313/korey-smith            |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0032| 10.0926|
+|/players/279456/tom-barkhuizen         |           0|              NA|               NA|        0.1135|         0.1703|      0.0434|        0.0540|      0.0193|  8.5000|
+|/players/1123933/liam-thompson         |           0|              NA|               NA|        0.0000|         0.0726|      0.0020|        0.0000|      0.0044|  7.7912|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Paul Warne   |        75040|      2.840606|3-1-4-2   |
+____________________________________________________
+
+[1] "Facts about Charlton Athletic:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/720460/joseph-wollacott      |           0|         26.8774|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/822493/matthew-penney        |           1|         30.8954|           1.7502|        0.0771|         0.2812|      0.0400|        0.0331|      0.0464| 90.0000|
+|/players/729738/sean-clare            |           1|         43.5995|           1.9518|        0.0487|         0.2462|      0.0192|        0.0282|      0.0348| 90.0000|
+|/players/314389/ryan-inniss           |           1|         40.2397|           0.8497|        0.1633|         0.4193|      0.0717|        0.0658|      0.0094| 90.0000|
+|/players/469382/jack-payne            |           3|         26.8314|           1.3508|        0.5094|         1.2198|      0.0923|        0.1765|      0.0619| 83.5652|
+|/players/955356/albie-morgan          |           3|         28.0075|           1.2749|        0.1598|         0.8854|      0.0763|        0.0821|      0.0568| 79.7455|
+|/players/410015/todd-kane             |           3|         30.8880|           1.0013|        0.1002|         0.4480|      0.0497|        0.0774|      0.1045| 90.0000|
+|/players/540680/scott-fraser          |           3|         33.1914|           1.2876|        0.2801|         0.7879|      0.0836|        0.0857|      0.0439| 90.0000|
+|/players/660170/george-dobson         |           3|         37.1652|           2.9449|        0.0937|         0.3244|      0.0316|        0.0366|      0.0167| 90.0000|
+|/players/1389994/miles-leaburn        |           5|         15.6311|           0.7585|        0.3435|         1.0098|      0.1152|        0.0284|      0.0473| 78.9091|
+|/players/1226789/jesurun-rak-sakyi    |           5|         18.3025|           1.3802|        0.5717|         1.3412|      0.1662|        0.0665|      0.0794| 81.5263|
+|/players/298665/chuks-aneke           |           0|              NA|               NA|        0.3963|         0.6845|      0.0682|        0.0706|      0.0157| 11.0909|
+|/players/672487/corey-blackett-taylor |           0|              NA|               NA|        0.1531|         0.3062|      0.0111|        0.0171|      0.0764| 10.2545|
+|/players/1123510/aaron-henry          |           0|              NA|               NA|        0.1050|         0.4200|      0.0203|        0.0288|      0.0073|  8.4737|
+|/players/1420196/zach-mitchell        |           0|              NA|               NA|        0.0000|         0.1074|      0.0049|        0.0000|      0.0021|  6.4348|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Dean Holden  |        39578|     -3.407292|3-5-2     |
