@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-17 14:35:09.158"
+[1] "Updated at 2023-02-17 16:39:07.676"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: FC Juárez 1.1643 to León 1.2475"
-[1] "Total: 2.4118"
-[1] "FC Juárez %: 34.32"
-[1] "Draw %: 27.94"
-[1] "León %: 37.74"
+[1] "Score: FC Juárez 1.1187 to León 1.2478"
+[1] "Total: 2.3665"
+[1] "FC Juárez %: 32.76"
+[1] "Draw %: 28.43"
+[1] "León %: 38.81"
 [1] "--XG Model--"
-[1] "Score: FC Juárez 1.2992 to León 1.3004"
-[1] "Total: 2.5996"
-[1] "FC Juárez %: 37.5"
-[1] "Draw %: 26.4"
-[1] "León %: 36.1"
+[1] "Score: FC Juárez 1.2018 to León 1.2714"
+[1] "Total: 2.4732"
+[1] "FC Juárez %: 34.92"
+[1] "Draw %: 27.65"
+[1] "León %: 37.43"
 [1] "--XGoT Model--"
-[1] "Score: FC Juárez 1.2566 to León 1.4419"
-[1] "Total: 2.6985"
-[1] "FC Juárez %: 33.36"
-[1] "Draw %: 26.12"
-[1] "León %: 40.52"
+[1] "Score: FC Juárez 1.2023 to León 1.4098"
+[1] "Total: 2.6121"
+[1] "FC Juárez %: 31.91"
+[1] "Draw %: 26.63"
+[1] "León %: 41.46"
 [1] "--XA Model--"
-[1] "Score: FC Juárez 1.2218 to León 1.2186"
-[1] "Total: 2.4404"
-[1] "FC Juárez %: 36.54"
-[1] "Draw %: 27.89"
-[1] "León %: 35.57"
+[1] "Score: FC Juárez 1.228 to León 1.2017"
+[1] "Total: 2.4297"
+[1] "FC Juárez %: 36.67"
+[1] "Draw %: 27.95"
+[1] "León %: 35.38"
 [1] "--Mean 4 Models--"
-[1] "FC Juárez has a mean win % of 35.43%; a min win % of 33.36%; a max win % of 37.5%."
-[1] "Draw has a mean win % of 27.09%; a min win % of 26.12%; a max win % of 27.94%."
-[1] "León has a mean win % of 37.48%; a min win % of 35.57%; a max win of % 40.52%."
-[1] "FC Juárez has a mean win of the Double Chance of 62.52%; a min win % of 59.48%, a max win % of 64.43%."
-[1] "León has a mean win of the Double Chance of 64.57%; a min win % of 62.5%, a max win % of 66.64%."
-[1] "The mean likelihood that there are more than 2.5 goals is 45.7%; max % is 49.77 and min % is 42.39%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 54.3%; max % is 57.61 and min % is 50.23%."
+[1] "FC Juárez has a mean win % of 34.06%; a min win % of 31.91%; a max win % of 36.67%."
+[1] "Draw has a mean win % of 27.66%; a min win % of 26.63%; a max win % of 28.43%."
+[1] "León has a mean win % of 38.27%; a min win % of 35.38%; a max win of % 41.46%."
+[1] "FC Juárez has a mean win of the Double Chance of 61.73%; a min win % of 58.54%, a max win % of 64.62%."
+[1] "León has a mean win of the Double Chance of 65.94%; a min win % of 63.33%, a max win % of 68.09%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.78%; max % is 47.4 and min % is 41.5%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.22%; max % is 58.5 and min % is 52.6%."
 [1] "--Sportsbook Odds--"
 [1] "FC Juárez Barstool Odds are: 37.04"
 [1] "The Barstool Odds of a Draw are: 30.3"
@@ -47,65 +47,64 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-17 17:06:00
-NULL
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                             |team       | expected_attg| expected_gs|bet |
 |:------------------------------------|:----------|-------------:|-----------:|:---|
 |/players/70399/alfredo-talavera      |FC Juárez |      0.000000|   0.1333333|    |
-|/players/163152/jesus-alberto-duenas |FC Juárez |      0.000125|   0.1428571|    |
-|/players/191906/alejandro-arribas    |FC Juárez |      0.000100|   0.0526316|    |
-|/players/431992/carlos-salcedo       |FC Juárez |      0.000100|   0.0526316|    |
-|/players/281238/maximiliano-olivera  |FC Juárez |      0.000100|   0.1250000|    |
-|/players/1347199/denzell-garcia      |FC Juárez |      0.137050|   0.1250000|    |
-|/players/730303/jordan-sierra        |FC Juárez |      0.182175|   0.0952381|*   |
-|/players/402810/jaime-valencia-gomez |FC Juárez |      0.021600|   0.1333333|    |
-|/players/730303/jordan-sierra        |FC Juárez |      0.182175|   0.0952381|*   |
-|/players/434180/gabriel-fernndez     |FC Juárez |      0.509900|   0.3571429|*   |
-|/players/434180/gabriel-fernndez     |FC Juárez |      0.509900|   0.3571429|*   |
+|/players/281238/maximiliano-olivera  |FC Juárez |      0.050825|   0.1250000|    |
+|/players/191906/alejandro-arribas    |FC Juárez |      0.043425|   0.0526316|    |
+|/players/431992/carlos-salcedo       |FC Juárez |      0.033700|   0.0526316|    |
+|/players/200875/luis-rodriguez       |FC Juárez |      0.035875|   0.0714286|    |
+|/players/163152/jesus-alberto-duenas |FC Juárez |      0.096350|   0.1428571|    |
+|/players/1071281/francisco-nevarez   |FC Juárez |      0.073300|   0.0714286|    |
+|/players/730303/jordan-sierra        |FC Juárez |      0.070150|   0.0952381|    |
+|/players/1347199/denzell-garcia      |FC Juárez |      0.107875|   0.1250000|    |
+|/players/434180/gabriel-fernndez     |FC Juárez |      0.156200|   0.3571429|    |
+|/players/728323/tomas-molina         |FC Juárez |      0.302175|   0.3773585|    |
+|/players/740753/lucas-di-yorio       |León      |      0.263375|   0.3571429|    |
+|/players/566247/victor-davila        |León      |      0.244475|   0.3030303|    |
+|/players/950270/adonis-frias         |León      |      0.001100|   0.1333333|    |
+|/players/118374/ngel-mena            |León      |      0.281325|   0.2631579|    |
+|/players/819851/jose-rodriguez       |León      |      0.001350|   0.0357143|    |
+|/players/388605/lucas-daniel-romero  |León      |      0.031225|   0.0769231|    |
+|/players/949958/ivan-moreno          |León      |      0.049275|   0.0666667|    |
+|/players/1203345/paul-bellon         |León      |      0.052450|   0.0909091|    |
+|/players/643753/osvaldo-rodriguez    |León      |      0.025550|   0.1052632|    |
+|/players/282254/jaine-barreiro       |León      |      0.043725|   0.0476190|    |
 |/players/111873/rodolfo-cota         |León      |      0.000000|   0.1960784|    |
-|/players/1199210/oscar-villa         |León      |      0.040075|   0.0666667|    |
-|/players/282254/jaine-barreiro       |León      |      0.126000|   0.0476190|*   |
-|/players/1203345/paul-bellon         |León      |      0.075925|   0.0833333|    |
-|/players/643753/osvaldo-rodriguez    |León      |      0.041000|   0.1000000|    |
-|/players/282254/jaine-barreiro       |León      |      0.126000|   0.0476190|*   |
-|/players/242094/joel-campbell        |León      |      0.073750|   0.1851852|    |
-|/players/1110661/fidel-ambriz        |León      |      0.058700|   0.1000000|    |
-|/players/118374/ngel-mena            |León      |      0.376325|   0.2631579|*   |
-|/players/819851/jose-rodriguez       |León      |      0.001825|   0.0357143|    |
-|/players/566247/victor-davila        |León      |      0.201975|   0.3030303|    |
-|/players/643756/mauro-lainez         |FC Juárez |      0.013775|   0.1333333|    |
-|/players/972509/santiago-ormeno      |FC Juárez |      0.038900|   0.3508772|    |
-|/players/402810/jaime-valencia-gomez |FC Juárez |      0.021600|   0.1333333|    |
-|/players/281870/carlos-fierro        |FC Juárez |      0.039725|   0.1538462|    |
-|/players/106134/elias-hernandez      |León      |      0.026825|   0.2083333|    |
-|/players/242094/joel-campbell        |León      |      0.073750|   0.1851852|    |
-|/players/726475/yairo-moreno         |León      |      0.025250|   0.1754386|    |
-|/players/921579/jos-alvarado         |León      |      0.028450|   0.2040816|    |
+|/players/643756/mauro-lainez         |FC Juárez |      0.007575|   0.0000000|    |
+|/players/402810/jaime-valencia-gomez |FC Juárez |      0.012050|   0.0000000|    |
+|/players/601453/diego-chavez         |FC Juárez |      0.036325|   0.0000000|    |
+|/players/918828/adrian-mora          |FC Juárez |      0.000000|   0.0000000|    |
+|/players/106134/elias-hernandez      |León      |      0.023800|   0.0000000|    |
+|/players/242094/joel-campbell        |León      |      0.008800|   0.0000000|    |
+|/players/726475/yairo-moreno         |León      |      0.016075|   0.0000000|    |
+|/players/921579/jos-alvarado         |León      |      0.019600|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about FC Juárez:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/70399/alfredo-talavera      |           0|         25.5183|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/163152/jesus-alberto-duenas |           1|         36.8160|           1.6241|        0.0931|         0.3171|      0.0017|        0.0001|      0.0715| 90.0000|
-|/players/191906/alejandro-arribas    |           1|         33.5259|           1.7672|        0.1075|         0.4106|      0.0069|        0.0001|      0.0143| 90.0000|
-|/players/431992/carlos-salcedo       |           1|         47.8232|           1.4241|        0.1111|         0.3869|      0.0056|        0.0001|      0.0383| 90.0000|
-|/players/281238/maximiliano-olivera  |           1|         32.5382|           2.0472|        0.1654|         0.7783|      0.0071|        0.0001|      0.0960| 90.0000|
-|/players/1347199/denzell-garcia      |           3|         28.7173|           1.4854|        0.6652|         1.0418|      0.0295|        0.1653|      0.0651| 77.0000|
-|/players/730303/jordan-sierra        |           3|         29.8772|           0.9284|        0.2626|         1.0281|      0.1501|        0.1158|      0.0837| 77.2105|
-|/players/402810/jaime-valencia-gomez |           3|         19.8835|           1.8567|        0.3024|         1.1839|      0.0685|        0.0042|      0.0571| 73.4545|
-|/players/730303/jordan-sierra        |           3|         29.8772|           0.9284|        0.2626|         1.0281|      0.1501|        0.1158|      0.0837| 77.2105|
-|/players/434180/gabriel-fernndez     |           5|         18.8543|           0.7885|        0.7029|         2.2515|      0.3629|        0.3882|      0.0715| 90.0000|
-|/players/434180/gabriel-fernndez     |           5|         18.8543|           0.7885|        0.7029|         2.2515|      0.3629|        0.3882|      0.0715| 90.0000|
-|/players/643756/mauro-lainez         |           0|              NA|               NA|        0.0744|         0.4216|      0.0221|        0.0155|      0.0413| 16.5455|
-|/players/972509/santiago-ormeno      |           0|              NA|               NA|        0.2619|         0.6876|      0.0836|        0.0472|      0.0066| 13.0000|
-|/players/402810/jaime-valencia-gomez |           0|              NA|               NA|        0.0630|         0.1471|      0.0163|        0.0202|      0.0144| 12.7895|
-|/players/281870/carlos-fierro        |           0|              NA|               NA|        0.1601|         0.5335|      0.0827|        0.0465|      0.0281| 12.7895|
+|/players/70399/alfredo-talavera      |           0|         22.8635|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/281238/maximiliano-olivera  |           1|         33.5244|           1.4921|        0.2010|         0.7902|      0.0492|        0.0593|      0.0756| 90.0000|
+|/players/191906/alejandro-arribas    |           1|         34.5420|           1.2880|        0.1306|         0.4168|      0.0479|        0.0478|      0.0113| 90.0000|
+|/players/431992/carlos-salcedo       |           1|         49.2727|           1.0379|        0.1350|         0.3928|      0.0389|        0.0366|      0.0302| 90.0000|
+|/players/200875/luis-rodriguez       |           1|         41.5756|           2.4414|        0.1597|         0.6063|      0.0400|        0.0453|      0.0825| 90.0000|
+|/players/163152/jesus-alberto-duenas |           3|         34.7174|           1.4351|        0.3092|         1.3665|      0.1952|        0.1096|      0.2473| 90.0000|
+|/players/1071281/francisco-nevarez   |           3|         24.9542|           1.3491|        0.2219|         1.0508|      0.0328|        0.0858|      0.0136| 80.0000|
+|/players/730303/jordan-sierra        |           3|         30.7965|           1.3491|        0.2142|         1.0141|      0.1605|        0.0858|      0.0491| 77.2105|
+|/players/1347199/denzell-garcia      |           3|         29.6009|           2.1585|        0.5426|         1.0277|      0.0315|        0.1225|      0.0382| 77.0000|
+|/players/434180/gabriel-fernndez     |           5|         18.8264|           0.3438|        0.5274|         1.4896|      0.1965|        0.1918|      0.0491| 79.3600|
+|/players/728323/tomas-molina         |           5|         18.4141|           1.1884|        1.0938|         2.9356|      0.3626|        0.4039|      0.1120| 90.0000|
+|/players/643756/mauro-lainez         |           0|              NA|               NA|        0.0430|         0.2436|      0.0149|        0.0089|      0.0238| 13.0000|
+|/players/402810/jaime-valencia-gomez |           0|              NA|               NA|        0.0464|         0.1082|      0.0141|        0.0148|      0.0106| 12.7895|
+|/players/601453/diego-chavez         |           0|              NA|               NA|        0.1314|         0.3942|      0.0574|        0.0410|      0.0035| 10.6400|
+|/players/918828/adrian-mora          |           0|              NA|               NA|        0.0000|         0.0452|      0.0108|        0.0000|      0.0025| 10.0000|
 
 
 |manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
@@ -114,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about León:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/111873/rodolfo-cota      |           0|         21.5708|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1199210/oscar-villa      |           1|         29.8204|           1.4072|        0.0992|         0.3132|      0.0130|        0.0511|      0.0241| 80.4000|
-|/players/282254/jaine-barreiro    |           1|         41.2503|           1.2583|        0.1680|         0.7907|      0.1141|        0.0833|      0.0283| 90.0000|
-|/players/1203345/paul-bellon      |           1|         34.4215|           1.9145|        0.3394|         1.2783|      0.1028|        0.1011|      0.1045| 90.0000|
-|/players/643753/osvaldo-rodriguez |           1|         30.0112|           2.2725|        0.1012|         0.5901|      0.0527|        0.0511|      0.1183| 82.0580|
-|/players/282254/jaine-barreiro    |           1|         41.2503|           1.2583|        0.1680|         0.7907|      0.1141|        0.0833|      0.0283| 90.0000|
-|/players/242094/joel-campbell     |           3|         26.6800|           1.6086|        0.4150|         1.4803|      0.0958|        0.0841|      0.1356| 90.0000|
-|/players/1110661/fidel-ambriz     |           3|         34.6036|           2.2639|        0.2503|         1.1250|      0.0241|        0.0722|      0.0232| 80.8571|
-|/players/118374/ngel-mena         |           3|         29.6378|           1.1529|        1.4472|         2.9764|      0.4268|        0.5862|      0.1364| 90.0000|
-|/players/819851/jose-rodriguez    |           3|         37.5650|           2.2658|        0.0706|         0.3524|      0.0106|        0.0022|      0.0269| 90.0000|
-|/players/566247/victor-davila     |           5|         13.2903|           0.5432|        0.6837|         1.9677|      0.2714|        0.2735|      0.0646| 77.8955|
-|/players/106134/elias-hernandez   |           0|              NA|               NA|        0.1453|         0.5603|      0.0438|        0.0339|      0.0383| 12.1045|
-|/players/242094/joel-campbell     |           0|              NA|               NA|        0.1624|         0.3788|      0.0210|        0.0108|      0.0337|  9.6000|
-|/players/726475/yairo-moreno      |           0|              NA|               NA|        0.0815|         0.2444|      0.0247|        0.0328|      0.0162|  9.1429|
-|/players/921579/jos-alvarado      |           0|              NA|               NA|        0.1612|         0.5802|      0.0470|        0.0374|      0.0229|  7.9420|
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/740753/lucas-di-yorio      |           5|         15.1361|           1.0041|        1.1812|         2.8761|      0.3521|        0.3709|      0.0268| 90.0000|
+|/players/566247/victor-davila       |           5|         21.2452|           0.6626|        0.7521|         2.0442|      0.2748|        0.3509|      0.1163| 77.8955|
+|/players/950270/adonis-frias        |           3|         43.0135|           1.3470|        0.1266|         0.6538|      0.0548|        0.0016|      0.0527| 90.0000|
+|/players/118374/ngel-mena           |           3|         27.4085|           0.9341|        0.8305|         1.9628|      0.2722|        0.4085|      0.1815| 82.7229|
+|/players/819851/jose-rodriguez      |           3|         37.7955|           1.9972|        0.0441|         0.2528|      0.0074|        0.0016|      0.0390| 90.0000|
+|/players/388605/lucas-daniel-romero |           3|         44.6422|           2.4071|        0.2476|         0.9835|      0.0291|        0.0382|      0.0808| 90.0000|
+|/players/949958/ivan-moreno         |           3|         14.2099|           2.8375|        0.2051|         1.0594|      0.0529|        0.0598|      0.1136| 75.1667|
+|/players/1203345/paul-bellon        |           1|         41.1491|           1.6053|        0.2413|         0.7162|      0.0627|        0.0658|      0.0342| 90.0000|
+|/players/643753/osvaldo-rodriguez   |           1|         35.8769|           1.9054|        0.0720|         0.3306|      0.0321|        0.0333|      0.0387| 82.0580|
+|/players/282254/jaine-barreiro      |           1|         49.3126|           1.0551|        0.1194|         0.4430|      0.0696|        0.0542|      0.0093| 90.0000|
+|/players/111873/rodolfo-cota        |           0|         20.2078|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/106134/elias-hernandez     |           0|              NA|               NA|        0.1309|         0.5049|      0.0464|        0.0304|      0.0345| 14.8333|
+|/players/242094/joel-campbell       |           0|              NA|               NA|        0.1506|         0.3513|      0.0229|        0.0100|      0.0313| 12.1045|
+|/players/726475/yairo-moreno        |           0|              NA|               NA|        0.0521|         0.1562|      0.0185|        0.0209|      0.0103|  7.9420|
+|/players/921579/jos-alvarado        |           0|              NA|               NA|        0.1086|         0.3910|      0.0371|        0.0251|      0.0154|  7.2771|
 
 
 |manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
