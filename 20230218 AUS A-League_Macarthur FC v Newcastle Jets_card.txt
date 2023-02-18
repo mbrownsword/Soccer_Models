@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-17 15:48:11.702"
+[1] "Updated at 2023-02-17 21:55:31.218"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,19 +34,19 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 57.92%; max % is 68.35 and min % is 52.15%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 42.08%; max % is 47.85 and min % is 31.65%."
 [1] "--Sportsbook Odds--"
-[1] "Macarthur FC Barstool Odds are: 41.67"
+[1] "Macarthur FC Barstool Odds are: 39.22"
 [1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Newcastle Jets Barstool Odds are: 36.36"
-[1] "Macarthur FC Adjusted Barstool Odds are: 39.09"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.801"
-[1] "Newcastle Jets Adjusted Barstool Odds are: 34.109"
+[1] "Newcastle Jets Barstool Odds are: 39.22"
+[1] "Macarthur FC Adjusted Barstool Odds are: 36.651"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.698"
+[1] "Newcastle Jets Adjusted Barstool Odds are: 36.651"
 [1] "Macarthur FC's Barstool Odds to cover the  spread are: NA"
 [1] "Newcastle Jets's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.15, which is a 46.51% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-02-17 23:00:00
+           bet           date_time
+1 Macarthur FC 2023-02-17 23:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -63,24 +63,24 @@
 |/players/1029023/charles-william-mmombwa |Macarthur FC   |      0.001925|   0.1250000|    |
 |/players/150596/craig-noone              |Macarthur FC   |      0.316000|   0.2439024|*   |
 |/players/183484/ulises-davila            |Macarthur FC   |      0.277325|   0.2500000|    |
-|/players/240056/jack-duncan              |Newcastle Jets |      0.000000|   0.1176471|    |
-|/players/110639/jason-hoffman            |Newcastle Jets |      0.061750|   0.2702703|    |
-|/players/823540/dane-ingham              |Newcastle Jets |      0.019475|   0.0500000|    |
-|/players/154878/matthew-jurman           |Newcastle Jets |      0.002375|   0.0500000|    |
-|/players/214685/carl-jenkinson           |Newcastle Jets |      0.036275|   0.0500000|    |
+|/players/240056/jack-duncan              |Newcastle Jets |      0.000000|   0.1111111|    |
+|/players/110639/jason-hoffman            |Newcastle Jets |      0.061750|   0.2777778|    |
+|/players/823540/dane-ingham              |Newcastle Jets |      0.019475|   0.0526316|    |
+|/players/154878/matthew-jurman           |Newcastle Jets |      0.002375|   0.0526316|    |
+|/players/214685/carl-jenkinson           |Newcastle Jets |      0.036275|   0.0526316|    |
 |/players/309646/brandon-oneill           |Newcastle Jets |      0.057900|   0.1250000|    |
-|/players/913132/angus-thurgate           |Newcastle Jets |      0.055325|   0.1754386|    |
-|/players/513424/jaushua-sotirio          |Newcastle Jets |      0.204300|   0.2000000|    |
+|/players/913132/angus-thurgate           |Newcastle Jets |      0.055325|   0.1851852|    |
+|/players/513424/jaushua-sotirio          |Newcastle Jets |      0.204300|   0.2083333|    |
 |/players/912715/callum-timmins           |Newcastle Jets |      0.061650|   0.1538462|    |
-|/players/868985/reno-piscopo             |Newcastle Jets |      0.205275|   0.2702703|    |
-|/players/746815/beka-mikeltadze          |Newcastle Jets |      0.287925|   0.3921569|    |
+|/players/868985/reno-piscopo             |Newcastle Jets |      0.205275|   0.2857143|    |
+|/players/746815/beka-mikeltadze          |Newcastle Jets |      0.287925|   0.4081633|    |
 |/players/1079940/alhassan-toure          |Macarthur FC   |      0.077000|   0.2222222|    |
 |/players/1217247/lachlan-rose            |Macarthur FC   |      0.250775|   0.3333333|    |
 |/players/1351271/jed-drew                |Macarthur FC   |      0.010225|   0.2222222|    |
 |/players/1015651/moudi-najjar            |Macarthur FC   |      0.085325|   0.2857143|    |
-|/players/951242/daniel-stynes            |Newcastle Jets |      0.105400|   0.2222222|    |
-|/players/913821/kostandinos-grozos       |Newcastle Jets |      0.000000|   0.2000000|    |
-|/players/716423/trent-buhagiar           |Newcastle Jets |      0.037300|   0.2272727|    |
+|/players/951242/daniel-stynes            |Newcastle Jets |      0.105400|   0.2325581|    |
+|/players/913821/kostandinos-grozos       |Newcastle Jets |      0.000000|   0.2083333|    |
+|/players/716423/trent-buhagiar           |Newcastle Jets |      0.037300|   0.2380952|    |
 |/players/1232133/archie-goodwin          |Newcastle Jets |      0.013200|   0.3225806|    |
 ____________________________________________________
 
