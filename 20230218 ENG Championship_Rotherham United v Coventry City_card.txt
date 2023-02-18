@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 17:49:19.674"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Rotherham United 0.8666 to Coventry City 1.1747"
+[1] "Total: 2.0413"
+[1] "Rotherham United %: 27.6"
+[1] "Draw %: 30.05"
+[1] "Coventry City %: 42.35"
+[1] "--XG Model--"
+[1] "Score: Rotherham United 0.8137 to Coventry City 1.4998"
+[1] "Total: 2.3135"
+[1] "Rotherham United %: 20.61"
+[1] "Draw %: 25.99"
+[1] "Coventry City %: 53.4"
+[1] "--XGoT Model--"
+[1] "Score: Rotherham United 0.9251 to Coventry City 1.3054"
+[1] "Total: 2.2305"
+[1] "Rotherham United %: 25.79"
+[1] "Draw %: 28.78"
+[1] "Coventry City %: 45.43"
+[1] "--XA Model--"
+[1] "Score: Rotherham United 0.8578 to Coventry City 1.2914"
+[1] "Total: 2.1492"
+[1] "Rotherham United %: 24.5"
+[1] "Draw %: 28.41"
+[1] "Coventry City %: 47.09"
+[1] "--Mean 4 Models--"
+[1] "Rotherham United has a mean win % of 24.63%; a min win % of 20.61%; a max win % of 27.6%."
+[1] "Draw has a mean win % of 28.31%; a min win % of 25.99%; a max win % of 30.05%."
+[1] "Coventry City has a mean win % of 47.07%; a min win % of 42.35%; a max win of % 53.4%."
+[1] "Rotherham United has a mean win of the Double Chance of 52.93%; a min win % of 46.6%, a max win % of 57.65%."
+[1] "Coventry City has a mean win of the Double Chance of 75.38%; a min win % of 72.4%, a max win % of 79.39%."
+[1] "The mean likelihood that there are more than 2.5 goals is 36.71%; max % is 40.5 and min % is 32.69%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 63.29%; max % is 67.31 and min % is 59.5%."
+[1] "--Sportsbook Odds--"
+[1] "Rotherham United Barstool Odds are: 29.41"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Coventry City Barstool Odds are: 47.62"
+[1] "Rotherham United Adjusted Barstool Odds are: 27.631"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.631"
+[1] "Coventry City Adjusted Barstool Odds are: 44.739"
+[1] "Rotherham United's Barstool Odds to cover the 0.5 spread are: 58.14"
+[1] "Coventry City's Barstool Odds to cover the -0.5 spread are: 48.31"
+[1] "Barstool's line for the total is 2.5 at 2.16, which is a 46.3% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                          |team             | expected_attg| expected_gs|bet |
+|:---------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/546252/viktor-johansson  |Rotherham United |      0.000000|   0.4347826|    |
+|/players/23260/richard-wood       |Rotherham United |      0.031900|   0.0588235|    |
+|/players/40567/lee-peltier        |Rotherham United |      0.004625|   0.0555556|    |
+|/players/659198/cameron-humphreys |Rotherham United |      0.004425|   0.0384615|    |
+|/players/582498/jamie-lindsay     |Rotherham United |      0.081900|   0.1538462|    |
+|/players/575800/tariqe-fosu       |Rotherham United |      0.015275|   0.1923077|    |
+|/players/749484/quina             |Rotherham United |      0.078875|   0.1666667|    |
+|/players/820094/cohen-bramall     |Rotherham United |      0.030175|   0.1176471|    |
+|/players/761834/oliver-rathbone   |Rotherham United |      0.130125|   0.1886792|    |
+|/players/490135/jordan-hugill     |Rotherham United |      0.198375|   0.2777778|    |
+|/players/674009/chiedozie-ogbene  |Rotherham United |      0.119375|   0.3030303|    |
+|/players/302783/ben-wilson        |Coventry City    |      0.000000|   0.1250000|    |
+|/players/955366/jonathan-panzo    |Coventry City    |      0.018625|   0.1111111|    |
+|/players/417759/michael-rose      |Coventry City    |      0.031200|   0.0588235|    |
+|/players/213066/kyle-mcfadzean    |Coventry City    |      0.027200|   0.0833333|    |
+|/players/426180/jamie-allen       |Coventry City    |      0.050850|   0.2500000|    |
+|/players/191174/jake-bidwell      |Coventry City    |      0.057675|   0.1052632|    |
+|/players/689302/ben-sheaf         |Coventry City    |      0.028950|   0.1538462|    |
+|/players/775355/gustavo-hamer     |Coventry City    |      0.127000|   0.2500000|    |
+|/players/759801/callum-ohare      |Coventry City    |      0.190175|   0.0588235|*   |
+|/players/184367/matt-godden       |Coventry City    |      0.274575|   0.3333333|    |
+|/players/664500/viktor-gykeres    |Coventry City    |      0.258225|   0.4347826|    |
+|/players/193210/tom-eaves         |Rotherham United |      0.029225|   0.2380952|    |
+|/players/395740/conor-washington  |Rotherham United |      0.044050|   0.2941176|    |
+|/players/174326/shane-ferguson    |Rotherham United |      0.000000|   0.0714286|    |
+|/players/1222770/leo-hjelde       |Rotherham United |      0.000000|   0.0555556|    |
+|/players/740171/kasey-palmer      |Coventry City    |      0.003225|   0.2325581|    |
+|/players/310743/sean-maguire      |Coventry City    |      0.027375|   0.3030303|    |
+|/players/961314/fabio-tavares     |Coventry City    |      0.017625|   0.0952381|    |
+|/players/962000/josh-eccles       |Coventry City    |      0.000000|   0.0952381|    |
+____________________________________________________
+
+[1] "Facts about Rotherham United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/546252/viktor-johansson  |           0|         27.7235|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/23260/richard-wood       |           1|         25.8318|           1.0059|        0.2053|         0.8559|      0.0677|        0.0396|      0.0232| 90.0000|
+|/players/40567/lee-peltier        |           1|         38.4074|           2.0099|        0.0600|         0.2860|      0.0085|        0.0057|      0.0233| 90.0000|
+|/players/659198/cameron-humphreys |           1|         45.4227|           1.4022|        0.0600|         0.2147|      0.0048|        0.0057|      0.0234| 90.0000|
+|/players/582498/jamie-lindsay     |           3|         24.9020|           1.8646|        0.1910|         0.5604|      0.0662|        0.1019|      0.0204| 78.0727|
+|/players/575800/tariqe-fosu       |           3|         29.8112|           1.7222|        0.1705|         0.8308|      0.0451|        0.0195|      0.0885| 90.0000|
+|/players/749484/quina             |           3|         29.1640|           1.8629|        0.2063|         0.8308|      0.0628|        0.1017|      0.0398| 78.4643|
+|/players/820094/cohen-bramall     |           3|         25.1717|           1.3959|        0.0829|         0.3061|      0.0268|        0.0342|      0.0854| 80.4737|
+|/players/761834/oliver-rathbone   |           4|         28.6162|           1.3186|        0.7042|         1.7187|      0.1537|        0.1646|      0.0871| 90.0000|
+|/players/490135/jordan-hugill     |           5|         16.2995|           0.3124|        0.5841|         1.7888|      0.2315|        0.2628|      0.0165| 79.1000|
+|/players/674009/chiedozie-ogbene  |           5|         19.1027|           0.5157|        0.5105|         1.4599|      0.1240|        0.1426|      0.0860| 90.0000|
+|/players/193210/tom-eaves         |           0|              NA|               NA|        0.1143|         0.3715|      0.0265|        0.0379|      0.0060| 11.9273|
+|/players/395740/conor-washington  |           0|              NA|               NA|        0.0414|         0.0828|      0.0439|        0.0567|      0.0024| 11.5357|
+|/players/174326/shane-ferguson    |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0421| 10.9000|
+|/players/1222770/leo-hjelde       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0005|  9.5263|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Matt Taylor  |        29685|      1.771556|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about Coventry City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                       | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/302783/ben-wilson     |           0|         25.4264|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/955366/jonathan-panzo |           1|         47.5652|           1.5045|        0.1004|         0.5531|      0.0470|        0.0178|      0.0260| 84.4583|
+|/players/417759/michael-rose   |           1|         54.9172|           1.5421|        0.1422|         0.5516|      0.0563|        0.0335|      0.0625| 90.0000|
+|/players/213066/kyle-mcfadzean |           1|         46.6641|           1.3055|        0.1082|         0.6501|      0.0539|        0.0301|      0.0434| 90.0000|
+|/players/426180/jamie-allen    |           3|         30.1652|           1.3860|        0.1836|         0.6506|      0.0966|        0.0523|      0.0738| 84.4694|
+|/players/191174/jake-bidwell   |           3|         27.4335|           1.0128|        0.1430|         0.4940|      0.0944|        0.0640|      0.1181| 90.0000|
+|/players/689302/ben-sheaf      |           3|         48.0853|           3.0466|        0.1546|         0.8691|      0.0738|        0.0318|      0.0870| 90.0000|
+|/players/775355/gustavo-hamer  |           3|         44.6192|           2.1021|        0.4901|         1.5691|      0.1070|        0.1406|      0.2260| 82.7812|
+|/players/759801/callum-ohare   |           4|         33.4512|           1.4784|        0.6112|         1.7429|      0.1878|        0.2225|      0.1184| 90.0000|
+|/players/184367/matt-godden    |           5|         16.6821|           0.4824|        0.7608|         2.0192|      0.3452|        0.3379|      0.0870| 81.7170|
+|/players/664500/viktor-gykeres |           5|         23.6905|           0.7874|        0.9819|         2.5996|      0.3816|        0.3078|      0.1404| 90.0000|
+|/players/740171/kasey-palmer   |           0|              NA|               NA|        0.0552|         0.1656|      0.0198|        0.0035|      0.0147|  8.2830|
+|/players/310743/sean-maguire   |           0|              NA|               NA|        0.0413|         0.1653|      0.0167|        0.0310|      0.0091|  7.2188|
+|/players/961314/fabio-tavares  |           0|              NA|               NA|        0.0281|         0.0843|      0.0030|        0.0187|      0.0020|  5.5417|
+|/players/962000/josh-eccles    |           0|              NA|               NA|        0.0000|         0.0318|      0.0026|        0.0000|      0.0083|  5.5306|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mark Robins  |         2965|     -6.596667|3-4-1-2   |
