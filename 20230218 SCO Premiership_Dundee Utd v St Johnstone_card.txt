@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 21:20:17.546"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Dundee Utd 1.5159 to St Johnstone 0.9224"
+[1] "Total: 2.4383"
+[1] "Dundee Utd %: 51.23"
+[1] "Draw %: 25.47"
+[1] "St Johnstone %: 23.3"
+[1] "--XG Model--"
+[1] "Score: Dundee Utd 1.4799 to St Johnstone 0.9721"
+[1] "Total: 2.452"
+[1] "Dundee Utd %: 49.66"
+[1] "Draw %: 25.5"
+[1] "St Johnstone %: 24.84"
+[1] "--XGoT Model--"
+[1] "Score: Dundee Utd 1.5321 to St Johnstone 0.8462"
+[1] "Total: 2.3783"
+[1] "Dundee Utd %: 53.86"
+[1] "Draw %: 25.34"
+[1] "St Johnstone %: 20.8"
+[1] "--XA Model--"
+[1] "Score: Dundee Utd 1.5209 to St Johnstone 0.8802"
+[1] "Total: 2.4011"
+[1] "Dundee Utd %: 52.44"
+[1] "Draw %: 25.48"
+[1] "St Johnstone %: 22.08"
+[1] "--Mean 4 Models--"
+[1] "Dundee Utd has a mean win % of 51.8%; a min win % of 49.66%; a max win % of 53.86%."
+[1] "Draw has a mean win % of 25.45%; a min win % of 25.34%; a max win % of 25.5%."
+[1] "St Johnstone has a mean win % of 22.75%; a min win % of 20.8%; a max win of % 24.84%."
+[1] "Dundee Utd has a mean win of the Double Chance of 77.24%; a min win % of 75.16%, a max win % of 79.2%."
+[1] "St Johnstone has a mean win of the Double Chance of 48.2%; a min win % of 46.14%, a max win % of 50.34%."
+[1] "The mean likelihood that there are more than 2.5 goals is 42.85%; max % is 43.5 and min % is 41.95%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 57.15%; max % is 58.05 and min % is 56.5%."
+[1] "--Sportsbook Odds--"
+[1] "Dundee Utd Barstool Odds are: 46.73"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "St Johnstone Barstool Odds are: 28.99"
+[1] "Dundee Utd Adjusted Barstool Odds are: 43.482"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.543"
+[1] "St Johnstone Adjusted Barstool Odds are: 26.975"
+[1] "Dundee Utd's Barstool Odds to cover the -0.5 spread are: 46.08"
+[1] "St Johnstone's Barstool Odds to cover the 0.5 spread are: 58.48"
+[1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48% chance of the over 2.5 hitting. The line for the under is 1.58, which is a 63.29% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+         bet           date_time
+1 Dundee Utd 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team         | expected_attg| expected_gs|bet |
+|:--------------------------------------|:------------|-------------:|-----------:|:---|
+|/players/140402/mark-romano-birighitti |Dundee Utd   |      0.000000|   0.1052632|    |
+|/players/441695/scott-mcmann           |Dundee Utd   |      0.032050|   0.0303030|    |
+|/players/158818/liam-smith             |Dundee Utd   |      0.061775|   0.0625000|    |
+|/players/1035044/ross-graham           |Dundee Utd   |      0.123050|   0.0370370|*   |
+|/players/1089767/kieran-freeman        |Dundee Utd   |      0.019875|   0.0625000|    |
+|/players/467319/ilmari-niskanen        |Dundee Utd   |      0.076425|   0.1666667|    |
+|/players/825663/ian-harkes             |Dundee Utd   |      0.099050|   0.0400000|*   |
+|/players/1055825/dylan-levitt          |Dundee Utd   |      0.104375|   0.1694915|    |
+|/players/591987/jamie-mcgrath          |Dundee Utd   |      0.208850|   0.1818182|    |
+|/players/789600/glenn-middleton        |Dundee Utd   |      0.207675|   0.1428571|*   |
+|/players/32627/steven-fletcher         |Dundee Utd   |      0.275950|   0.3125000|    |
+|/players/562726/remi-matthews          |St Johnstone |      0.000000|   0.4081633|    |
+|/players/1247997/alexander-mitchell    |St Johnstone |      0.022000|   0.0333333|    |
+|/players/32419/andrew-considine        |St Johnstone |      0.021225|   0.0666667|    |
+|/players/469957/liam-gordon            |St Johnstone |      0.015150|   0.0303030|    |
+|/players/1233682/adam-montgomery       |St Johnstone |      0.008575|   0.0952381|    |
+|/players/798598/james-brown            |St Johnstone |      0.007750|   0.0303030|    |
+|/players/363341/drey-wright            |St Johnstone |      0.109400|   0.1851852|    |
+|/players/315058/melker-hallberg        |St Johnstone |      0.038175|   0.0952381|    |
+|/players/166963/graham-carey           |St Johnstone |      0.113000|   0.1666667|    |
+|/players/190493/alistair-crawford      |St Johnstone |      0.135250|   0.1960784|    |
+|/players/172833/nicky-clark            |St Johnstone |      0.229325|   0.1923077|    |
+|/players/1399546/sadat-anaku           |Dundee Utd   |      0.050850|   0.2631579|    |
+|/players/279854/craig-sibbald          |Dundee Utd   |      0.018100|   0.0909091|    |
+|/players/37104/arnaud-djoum            |Dundee Utd   |      0.000000|   0.1111111|    |
+|/players/1228626/mathew-anim-cudjoe    |Dundee Utd   |      0.017975|   0.1428571|    |
+|/players/739907/connor-mclennan        |St Johnstone |      0.002200|   0.1886792|    |
+|/players/172486/stevie-may             |St Johnstone |      0.050525|   0.2127660|    |
+|/players/888917/cameron-macpherson     |St Johnstone |      0.000000|   0.1111111|    |
+|/players/942893/thelonius-bair         |St Johnstone |      0.041275|   0.1960784|    |
+____________________________________________________
+
+[1] "Facts about Dundee Utd:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/140402/mark-romano-birighitti |           0|         23.9689|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/441695/scott-mcmann           |           1|         45.9463|           1.6879|        0.0828|         0.4380|      0.0468|        0.0277|      0.0453| 90.0000|
+|/players/158818/liam-smith             |           1|         47.2293|           1.2978|        0.1088|         0.4605|      0.0461|        0.0567|      0.0385| 90.0000|
+|/players/1035044/ross-graham           |           1|         53.9509|           1.3833|        0.2974|         0.7556|      0.1264|        0.1196|      0.0151| 90.0000|
+|/players/1089767/kieran-freeman        |           3|         31.7590|           1.5349|        0.0678|         0.3819|      0.0325|        0.0177|      0.0978| 90.0000|
+|/players/467319/ilmari-niskanen        |           3|         23.8143|           1.6620|        0.2337|         0.8771|      0.0887|        0.0713|      0.1186| 78.5588|
+|/players/825663/ian-harkes             |           3|         46.5621|           1.6664|        0.3917|         1.2680|      0.0849|        0.0932|      0.0643| 90.0000|
+|/players/1055825/dylan-levitt          |           3|         60.0103|           1.9354|        0.3844|         1.0821|      0.0594|        0.0937|      0.1027| 90.0000|
+|/players/591987/jamie-mcgrath          |           4|         34.1693|           0.8888|        0.4177|         1.3885|      0.1783|        0.1944|      0.1160| 81.3810|
+|/players/789600/glenn-middleton        |           4|         17.7046|           0.9824|        0.9234|         2.1351|      0.2043|        0.2035|      0.1460| 78.5789|
+|/players/32627/steven-fletcher         |           5|         16.6050|           0.6465|        0.7313|         1.8423|      0.2465|        0.2744|      0.0741| 73.6567|
+|/players/1399546/sadat-anaku           |           0|              NA|               NA|        0.1181|         0.3544|      0.0373|        0.0479|      0.0059| 16.3433|
+|/players/279854/craig-sibbald          |           0|              NA|               NA|        0.0878|         0.0878|      0.0010|        0.0149|      0.0035| 11.4412|
+|/players/37104/arnaud-djoum            |           0|              NA|               NA|        0.0000|         0.1162|      0.0038|        0.0000|      0.0023| 11.4211|
+|/players/1228626/mathew-anim-cudjoe    |           0|              NA|               NA|        0.0896|         0.3582|      0.0234|        0.0164|      0.0072|  8.6190|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Liam Fox     |        18699|     -9.493158|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about St Johnstone:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/562726/remi-matthews       |           0|         27.1636|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1247997/alexander-mitchell |           1|         35.1319|           1.7941|        0.0822|         0.3642|      0.0190|        0.0242|      0.0081| 90.0000|
+|/players/32419/andrew-considine     |           1|         58.7049|           1.1460|        0.1020|         0.4697|      0.0562|        0.0260|      0.0311| 90.0000|
+|/players/469957/liam-gordon         |           1|         39.8466|           1.2944|        0.1327|         0.4703|      0.0489|        0.0152|      0.0203| 90.0000|
+|/players/1233682/adam-montgomery    |           3|         35.9171|           1.4742|        0.0917|         0.4372|      0.0263|        0.0096|      0.0441| 90.0000|
+|/players/798598/james-brown         |           3|         35.5146|           2.2506|        0.0917|         0.6530|      0.0358|        0.0096|      0.0441| 90.0000|
+|/players/363341/drey-wright         |           3|         38.9763|           2.0592|        0.4631|         1.3742|      0.1073|        0.1226|      0.1007| 90.0000|
+|/players/315058/melker-hallberg     |           3|         36.6506|           1.4470|        0.2223|         0.8549|      0.0455|        0.0412|      0.1325| 79.2273|
+|/players/166963/graham-carey        |           4|         23.2233|           1.4061|        0.5489|         1.7520|      0.2366|        0.1314|      0.0796| 79.2222|
+|/players/190493/alistair-crawford   |           4|         25.0785|           0.5597|        0.4006|         1.4916|      0.0855|        0.1587|      0.1353| 79.5405|
+|/players/172833/nicky-clark         |           5|         18.0167|           0.6181|        0.7151|         2.1104|      0.3198|        0.2859|      0.0613| 80.4800|
+|/players/739907/connor-mclennan     |           0|              NA|               NA|        0.0306|         0.2757|      0.0180|        0.0024|      0.0055| 10.7778|
+|/players/172486/stevie-may          |           0|              NA|               NA|        0.2002|         0.2670|      0.0258|        0.0563|      0.0023| 10.7727|
+|/players/888917/cameron-macpherson  |           0|              NA|               NA|        0.0000|         0.0919|      0.0035|        0.0000|      0.0124| 10.4595|
+|/players/942893/thelonius-bair      |           0|              NA|               NA|        0.1890|         0.2835|      0.0273|        0.0464|      0.0009|  9.5200|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Callum Davidson |        92951|     -11.17242|3-4-2-1   |
