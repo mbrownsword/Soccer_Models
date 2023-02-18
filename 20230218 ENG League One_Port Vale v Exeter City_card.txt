@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 18:32:54.545"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Port Vale 1.2276 to Exeter City 1.066"
+[1] "Total: 2.2936"
+[1] "Port Vale %: 40.64"
+[1] "Draw %: 28.37"
+[1] "Exeter City %: 30.99"
+[1] "--XG Model--"
+[1] "Score: Port Vale 1.1453 to Exeter City 1.12"
+[1] "Total: 2.2653"
+[1] "Port Vale %: 36.38"
+[1] "Draw %: 28.93"
+[1] "Exeter City %: 34.69"
+[1] "--XGoT Model--"
+[1] "Score: Port Vale 1.0655 to Exeter City 1.0808"
+[1] "Total: 2.1463"
+[1] "Port Vale %: 35.53"
+[1] "Draw %: 29.52"
+[1] "Exeter City %: 34.95"
+[1] "--XA Model--"
+[1] "Score: Port Vale 1.3059 to Exeter City 1.0958"
+[1] "Total: 2.4017"
+[1] "Port Vale %: 41.99"
+[1] "Draw %: 27.11"
+[1] "Exeter City %: 30.9"
+[1] "--Mean 4 Models--"
+[1] "Port Vale has a mean win % of 38.63%; a min win % of 35.53%; a max win % of 41.99%."
+[1] "Draw has a mean win % of 28.48%; a min win % of 27.11%; a max win % of 29.52%."
+[1] "Exeter City has a mean win % of 32.88%; a min win % of 30.9%; a max win of % 34.95%."
+[1] "Port Vale has a mean win of the Double Chance of 67.12%; a min win % of 65.05%, a max win % of 69.1%."
+[1] "Exeter City has a mean win of the Double Chance of 61.37%; a min win % of 58.01%, a max win % of 64.47%."
+[1] "The mean likelihood that there are more than 2.5 goals is 38.92%; max % is 41.9 and min % is 35.76%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 61.08%; max % is 64.24 and min % is 58.1%."
+[1] "--Sportsbook Odds--"
+[1] "Port Vale Barstool Odds are: 41.67"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Exeter City Barstool Odds are: 35.09"
+[1] "Port Vale Adjusted Barstool Odds are: 39.248"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.701"
+[1] "Exeter City Adjusted Barstool Odds are: 33.051"
+[1] "Port Vale's Barstool Odds to cover the  spread are: NA"
+[1] "Exeter City's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team        | expected_attg| expected_gs|bet |
+|:----------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/575782/jack-stevens       |Port Vale   |      0.000000|   0.1250000|    |
+|/players/484287/dan-jones          |Port Vale   |      0.036025|   0.0454545|    |
+|/players/961310/william-forrester  |Port Vale   |      0.021350|   0.0625000|    |
+|/players/534391/nathan-smith       |Port Vale   |      0.042475|   0.1250000|    |
+|/players/46382/david-worrall       |Port Vale   |      0.035800|   0.1538462|    |
+|/players/171786/funso-ojo          |Port Vale   |      0.084900|   0.1538462|    |
+|/players/493164/tom-conlon         |Port Vale   |      0.088325|   0.1666667|    |
+|/players/363349/malvind-benning    |Port Vale   |      0.059900|   0.0909091|    |
+|/players/1116648/ben-garrity       |Port Vale   |      0.149675|   0.2127660|    |
+|/players/112289/matt-taylor        |Port Vale   |      0.199000|   0.3225806|    |
+|/players/260485/ellis-harrison     |Port Vale   |      0.282475|   0.3030303|    |
+|/players/294230/jamal-blackman     |Exeter City |      0.000000|   0.0555556|    |
+|/players/1101057/cheick-diabate    |Exeter City |      0.015425|   0.1785714|    |
+|/players/882882/alex-hartridge     |Exeter City |      0.030725|   0.0370370|    |
+|/players/307178/pierce-sweeney     |Exeter City |      0.035400|   0.0666667|    |
+|/players/877760/harry-kite         |Exeter City |      0.068400|   0.1886792|    |
+|/players/338754/jake-caprice       |Exeter City |      0.009450|   0.0769231|    |
+|/players/867884/jack-sparkes       |Exeter City |      0.036325|   0.1250000|    |
+|/players/801470/archie-collins     |Exeter City |      0.101975|   0.1538462|    |
+|/players/807203/jevani-brown       |Exeter City |      0.134725|   0.1538462|    |
+|/players/1113816/jay-stansfield    |Exeter City |      0.166100|   0.2857143|    |
+|/players/780485/sam-nombe          |Exeter City |      0.307300|   0.3508772|    |
+|/players/974593/dennis-politic     |Port Vale   |      0.003400|   0.2325581|    |
+|/players/1113675/ademipo-odubeko   |Port Vale   |      0.005475|   0.3030303|    |
+|/players/201729/gavin-massey       |Port Vale   |      0.009525|   0.3030303|    |
+|/players/912931/daniel-butterworth |Port Vale   |      0.004975|   0.2777778|    |
+|/players/1075395/josh-coley        |Exeter City |      0.005275|   0.0625000|    |
+|/players/933016/james-scott        |Exeter City |      0.000000|   0.2631579|    |
+|/players/1089762/kgaogelo-chauke   |Exeter City |      0.000000|   0.2000000|    |
+|/players/846686/demetri-mitchell   |Exeter City |      0.001450|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about Port Vale:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/575782/jack-stevens       |           0|         30.2494|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/484287/dan-jones          |           1|         42.9542|           1.6593|        0.1300|         0.5208|      0.0414|        0.0308|      0.0357| 90.0000|
+|/players/961310/william-forrester  |           1|         40.2677|           1.1630|        0.1401|         0.4057|      0.0258|        0.0178|      0.0328| 75.4762|
+|/players/534391/nathan-smith       |           1|         33.1936|           1.2875|        0.1281|         0.5738|      0.0418|        0.0386|      0.0214| 90.0000|
+|/players/46382/david-worrall       |           3|         27.8887|           1.0951|        0.2010|         0.6427|      0.0169|        0.0345|      0.1868| 81.9265|
+|/players/171786/funso-ojo          |           3|         36.2953|           1.4837|        0.1325|         0.6635|      0.0474|        0.0760|      0.0347| 81.7895|
+|/players/493164/tom-conlon         |           3|         36.8523|           2.1891|        0.4817|         1.4898|      0.1183|        0.0793|      0.0607| 90.0000|
+|/players/363349/malvind-benning    |           3|         27.6258|           2.3679|        0.1413|         0.7153|      0.0675|        0.0554|      0.0559| 90.0000|
+|/players/1116648/ben-garrity       |           4|         31.6248|           1.3920|        0.6619|         1.9079|      0.1502|        0.1346|      0.1299| 90.0000|
+|/players/112289/matt-taylor        |           5|         19.1412|           0.4752|        0.8373|         2.0825|      0.1911|        0.1912|      0.0677| 90.0000|
+|/players/260485/ellis-harrison     |           5|         18.4112|           0.6412|        0.6651|         2.0437|      0.2926|        0.2818|      0.0825| 81.2982|
+|/players/974593/dennis-politic     |           0|              NA|               NA|        0.0551|         0.7158|      0.0190|        0.0032|      0.0114| 14.5238|
+|/players/1113675/ademipo-odubeko   |           0|              NA|               NA|        0.1212|         0.3635|      0.0207|        0.0040|      0.0026|  8.7018|
+|/players/201729/gavin-massey       |           0|              NA|               NA|        0.0323|         0.0646|      0.0016|        0.0091|      0.0377|  8.2105|
+|/players/912931/daniel-butterworth |           0|              NA|               NA|        0.1286|         0.2786|      0.0056|        0.0039|      0.0035|  8.0735|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Darrell Clarke |        22770|     -2.412097|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about Exeter City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/294230/jamal-blackman   |           0|         25.5257|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1101057/cheick-diabate  |           1|         35.8975|           1.2951|        0.1105|         0.4073|      0.0162|        0.0160|      0.0087| 82.9412|
+|/players/882882/alex-hartridge   |           1|         43.5394|           1.5523|        0.0905|         0.4546|      0.0552|        0.0320|      0.0310| 90.0000|
+|/players/307178/pierce-sweeney   |           1|         48.8110|           1.1641|        0.1396|         0.4563|      0.0461|        0.0358|      0.0426| 90.0000|
+|/players/877760/harry-kite       |           3|         32.9427|           2.2853|        0.2224|         0.6602|      0.0457|        0.0696|      0.0451| 75.8710|
+|/players/338754/jake-caprice     |           3|         26.4608|           1.4425|        0.1449|         0.6618|      0.0389|        0.0094|      0.1240| 90.0000|
+|/players/867884/jack-sparkes     |           3|         24.3479|           1.9436|        0.2426|         1.0157|      0.0743|        0.0366|      0.0757| 83.7037|
+|/players/801470/archie-collins   |           3|         48.2124|           1.6556|        0.2013|         0.5903|      0.0787|        0.1047|      0.0775| 90.0000|
+|/players/807203/jevani-brown     |           4|         31.6617|           1.5902|        0.4700|         1.3940|      0.1235|        0.1487|      0.0873| 90.0000|
+|/players/1113816/jay-stansfield  |           5|         17.4282|           0.9896|        0.6258|         1.5367|      0.1590|        0.1713|      0.0861| 90.0000|
+|/players/780485/sam-nombe        |           5|         20.0768|           0.4675|        0.8885|         2.2528|      0.3539|        0.3609|      0.0602| 82.7059|
+|/players/1075395/josh-coley      |           0|              NA|               NA|        0.0470|         0.3288|      0.0157|        0.0050|      0.0019| 14.1290|
+|/players/933016/james-scott      |           0|              NA|               NA|        0.0000|         0.1355|      0.0067|        0.0000|      0.0203|  7.2941|
+|/players/1089762/kgaogelo-chauke |           0|              NA|               NA|        0.0000|         0.0741|      0.0153|        0.0000|      0.0052|  7.0588|
+|/players/846686/demetri-mitchell |           0|              NA|               NA|        0.0714|         0.0714|      0.0016|        0.0016|      0.0021|  6.2963|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Gary Caldwell |        13858|     -4.935714|3-4-1-2   |
