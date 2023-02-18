@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 14:31:39.273"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Pumas Unam 1.2756 to Guadalajara 1.4998"
+[1] "Total: 2.7754"
+[1] "Pumas Unam %: 32.88"
+[1] "Draw %: 25.47"
+[1] "Guadalajara %: 41.65"
+[1] "--XG Model--"
+[1] "Score: Pumas Unam 1.2965 to Guadalajara 1.4305"
+[1] "Total: 2.727"
+[1] "Pumas Unam %: 34.35"
+[1] "Draw %: 26.18"
+[1] "Guadalajara %: 39.47"
+[1] "--XGoT Model--"
+[1] "Score: Pumas Unam 1.4332 to Guadalajara 1.6874"
+[1] "Total: 3.1206"
+[1] "Pumas Unam %: 32.27"
+[1] "Draw %: 24.12"
+[1] "Guadalajara %: 43.61"
+[1] "--XA Model--"
+[1] "Score: Pumas Unam 1.1271 to Guadalajara 1.3929"
+[1] "Total: 2.52"
+[1] "Pumas Unam %: 30.89"
+[1] "Draw %: 26.64"
+[1] "Guadalajara %: 42.47"
+[1] "--Mean 4 Models--"
+[1] "Pumas Unam has a mean win % of 32.6%; a min win % of 30.89%; a max win % of 34.35%."
+[1] "Draw has a mean win % of 25.6%; a min win % of 24.12%; a max win % of 26.64%."
+[1] "Guadalajara has a mean win % of 41.8%; a min win % of 39.47%; a max win of % 43.61%."
+[1] "Pumas Unam has a mean win of the Double Chance of 58.2%; a min win % of 56.39%, a max win % of 60.53%."
+[1] "Guadalajara has a mean win of the Double Chance of 67.4%; a min win % of 65.65%, a max win % of 69.11%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.76%; max % is 59.69 and min % is 45.18%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.24%; max % is 54.82 and min % is 40.31%."
+[1] "--Sportsbook Odds--"
+[1] "Pumas Unam Barstool Odds are: 39.22"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Guadalajara Barstool Odds are: 37.74"
+[1] "Pumas Unam Adjusted Barstool Odds are: 36.406"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.562"
+[1] "Guadalajara Adjusted Barstool Odds are: 35.032"
+[1] "Pumas Unam's Barstool Odds to cover the 0.5 spread are: 68.49"
+[1] "Guadalajara's Barstool Odds to cover the -0.5 spread are: 37.04"
+[1] "Barstool's line for the total is 2.5 at 2, which is a 50% chance of the over 2.5 hitting. The line for the under is 1.73, which is a 57.8% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+          bet           date_time
+1 Guadalajara 2023-02-18 19:05:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team        | expected_attg| expected_gs|bet |
+|:------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/242197/julio-gonzalez       |Pumas Unam  |      0.000000|   0.1538462|    |
+|/players/1169791/jose-galindo        |Pumas Unam  |      0.010125|   0.0952381|    |
+|/players/70827/adrian-aldrete        |Pumas Unam  |      0.011025|   0.1000000|    |
+|/players/418257/arturo-ortiz         |Pumas Unam  |      0.079500|   0.1176471|    |
+|/players/427046/nicolas-freire       |Pumas Unam  |      0.022800|   0.0714286|    |
+|/players/1125757/marco-garcia        |Pumas Unam  |      0.065475|   0.1333333|    |
+|/players/1331128/jose-caicedo        |Pumas Unam  |      0.017275|   0.0952381|    |
+|/players/150093/eduardo-salvio       |Pumas Unam  |      0.203550|   0.2631579|    |
+|/players/1033100/higor-meritao       |Pumas Unam  |      0.048550|   0.0625000|    |
+|/players/1136605/diogo               |Pumas Unam  |      0.151475|   0.1428571|    |
+|/players/486453/juan-dinenno         |Pumas Unam  |      0.314850|   0.3846154|    |
+|/players/251275/miguel-ponce-jimenez |Guadalajara |      0.000000|   0.1886792|    |
+|/players/671944/alan-mozo            |Guadalajara |      0.054575|   0.1333333|    |
+|/players/1249286/jesus-orozco        |Guadalajara |      0.043450|   0.0833333|    |
+|/players/1104990/luis-olivas         |Guadalajara |      0.031800|   0.1333333|    |
+|/players/988723/gilberto-sepulveda   |Guadalajara |      0.023925|   0.0526316|    |
+|/players/861896/fernando-beltran     |Guadalajara |      0.076025|   0.0833333|    |
+|/players/430764/fernando-gonzalez    |Guadalajara |      0.060000|   0.1538462|    |
+|/players/178205/isac-brizuela        |Guadalajara |      0.099350|   0.2083333|    |
+|/players/643748/sergio-flores        |Guadalajara |      0.079450|   0.0952381|    |
+|/players/643749/victor-guzman        |Guadalajara |      0.329375|   0.3571429|    |
+|/players/720737/roberto-alvarado     |Guadalajara |      0.347000|   0.2564103|*   |
+|/players/1306870/jorge-ruvalcaba     |Pumas Unam  |      0.168275|   0.2083333|    |
+|/players/1169770/pablo-bennevendo    |Pumas Unam  |      0.000000|   0.0555556|    |
+|/players/1304418/santiago-trigos     |Pumas Unam  |      0.000000|   0.0714286|    |
+|/players/848182/gustavo-del-prete    |Pumas Unam  |      0.000000|   0.2222222|    |
+|/players/429345/carlos-cisneros      |Guadalajara |      0.025725|   0.1538462|    |
+|/players/1179357/pavel-perez         |Guadalajara |      0.031250|   0.1923077|    |
+|/players/1053696/alan-torres         |Guadalajara |      0.000000|   0.0952381|    |
+|/players/861901/jos-macias           |Guadalajara |      0.040625|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about Pumas Unam:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/242197/julio-gonzalez    |           0|         24.7657|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1169791/jose-galindo     |           1|         32.1442|           1.8521|        0.0583|         0.0674|      0.0165|        0.0117|      0.0193| 80.8387|
+|/players/70827/adrian-aldrete     |           1|         33.9731|           1.3867|        0.1477|         0.5981|      0.0598|        0.0152|      0.0905| 90.0000|
+|/players/418257/arturo-ortiz      |           1|         49.8910|           1.9873|        0.2729|         0.9670|      0.0753|        0.1060|      0.0330| 90.0000|
+|/players/427046/nicolas-freire    |           1|         39.4218|           0.9294|        0.1124|         0.4445|      0.0453|        0.0270|      0.0367| 90.0000|
+|/players/1125757/marco-garcia     |           3|         19.5113|           1.0867|        0.1450|         0.8898|      0.0444|        0.0842|      0.1002| 58.2143|
+|/players/1331128/jose-caicedo     |           3|         44.5757|           1.7782|        0.2460|         0.7152|      0.0133|        0.0200|      0.0322| 90.0000|
+|/players/150093/eduardo-salvio    |           3|         27.1469|           0.9848|        0.7822|         2.0283|      0.2352|        0.2762|      0.1312| 81.3750|
+|/players/1033100/higor-meritao    |           3|         39.2697|           2.8110|        0.3023|         0.8172|      0.0971|        0.0649|      0.0336| 90.0000|
+|/players/1136605/diogo            |           5|         19.0147|           0.8795|        0.5673|         1.6069|      0.2198|        0.2026|      0.0831| 74.5556|
+|/players/486453/juan-dinenno      |           5|         21.5662|           0.2641|        1.1756|         2.6310|      0.3747|        0.4660|      0.0513| 90.0000|
+|/players/1306870/jorge-ruvalcaba  |           0|              NA|               NA|        0.4389|         1.3167|      0.1608|        0.2232|      0.0229| 31.7857|
+|/players/1169770/pablo-bennevendo |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0078| 15.4444|
+|/players/1304418/santiago-trigos  |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0064|  9.1613|
+|/players/848182/gustavo-del-prete |           0|              NA|               NA|        0.1064|         0.4787|      0.0176|        0.0000|      0.0131|  8.6250|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Rafael Puente |         6864|     -7.030714|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Guadalajara:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/251275/miguel-ponce-jimenez |           0|         20.5049|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/671944/alan-mozo            |           1|         36.5600|           2.6452|        0.2605|         0.7212|      0.0358|        0.0608|      0.1505| 90.0000|
+|/players/1249286/jesus-orozco        |           1|         40.8086|           2.0246|        0.1302|         0.4340|      0.0469|        0.0492|      0.0177| 90.0000|
+|/players/1104990/luis-olivas         |           1|         50.9934|           1.3736|        0.1244|         0.5556|      0.0488|        0.0363|      0.0101| 90.0000|
+|/players/988723/gilberto-sepulveda   |           1|         49.5179|           0.9391|        0.1111|         0.3970|      0.0481|        0.0290|      0.0317| 90.0000|
+|/players/861896/fernando-beltran     |           2|         43.4598|           1.5067|        0.3027|         1.0342|      0.0575|        0.0854|      0.0833| 77.8095|
+|/players/430764/fernando-gonzalez    |           2|         43.3782|           2.8009|        0.1801|         0.6047|      0.0848|        0.0706|      0.0517| 90.0000|
+|/players/178205/isac-brizuela        |           3|         23.6653|           0.8801|        0.4139|         1.1323|      0.1718|        0.1177|      0.1362| 80.6038|
+|/players/643748/sergio-flores        |           3|         35.2194|           2.4718|        0.4611|         0.5912|      0.0477|        0.0965|      0.0426| 90.0000|
+|/players/643749/victor-guzman        |           3|         21.7380|           0.8680|        0.9983|         3.1952|      0.3024|        0.4410|      0.1706| 77.4444|
+|/players/720737/roberto-alvarado     |           5|         15.3072|           0.5270|        0.9101|         2.1354|      0.3806|        0.4712|      0.0573| 78.1944|
+|/players/429345/carlos-cisneros      |           0|              NA|               NA|        0.2466|         0.5240|      0.0337|        0.0302|      0.0166| 12.5556|
+|/players/1179357/pavel-perez         |           0|              NA|               NA|        0.0565|         0.1977|      0.0207|        0.0360|      0.0104| 12.1905|
+|/players/1053696/alan-torres         |           0|              NA|               NA|        0.0000|         0.1395|      0.0032|        0.0000|      0.0033| 11.8056|
+|/players/861901/jos-macias           |           0|              NA|               NA|        0.2937|         0.5875|      0.0323|        0.0473|      0.0162|  9.3962|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Veljko Paunovic |        81141|     -1.568313|4-2-3-1   |
