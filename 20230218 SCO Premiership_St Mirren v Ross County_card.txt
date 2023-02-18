@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 21:26:25.538"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: St Mirren 1.3847 to Ross County 0.9856"
+[1] "Total: 2.3703"
+[1] "St Mirren %: 46.78"
+[1] "Draw %: 26.49"
+[1] "Ross County %: 26.73"
+[1] "--XG Model--"
+[1] "Score: St Mirren 1.424 to Ross County 1.12"
+[1] "Total: 2.544"
+[1] "St Mirren %: 44.13"
+[1] "Draw %: 25.89"
+[1] "Ross County %: 29.98"
+[1] "--XGoT Model--"
+[1] "Score: St Mirren 1.3958 to Ross County 1.0189"
+[1] "Total: 2.4147"
+[1] "St Mirren %: 45.64"
+[1] "Draw %: 26.75"
+[1] "Ross County %: 27.61"
+[1] "--XA Model--"
+[1] "Score: St Mirren 1.428 to Ross County 0.9863"
+[1] "Total: 2.4143"
+[1] "St Mirren %: 47.36"
+[1] "Draw %: 26.36"
+[1] "Ross County %: 26.28"
+[1] "--Mean 4 Models--"
+[1] "St Mirren has a mean win % of 45.98%; a min win % of 44.13%; a max win % of 47.36%."
+[1] "Draw has a mean win % of 26.37%; a min win % of 25.89%; a max win % of 26.75%."
+[1] "Ross County has a mean win % of 27.65%; a min win % of 26.28%; a max win of % 29.98%."
+[1] "St Mirren has a mean win of the Double Chance of 72.35%; a min win % of 70.02%, a max win % of 73.72%."
+[1] "Ross County has a mean win of the Double Chance of 54.02%; a min win % of 52.64%, a max win % of 55.87%."
+[1] "The mean likelihood that there are more than 2.5 goals is 42.83%; max % is 45.47 and min % is 41.26%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 57.17%; max % is 58.74 and min % is 54.53%."
+[1] "--Sportsbook Odds--"
+[1] "St Mirren Barstool Odds are: 50.51"
+[1] "The Barstool Odds of a Draw are: 32.26"
+[1] "Ross County Barstool Odds are: 25"
+[1] "St Mirren Adjusted Barstool Odds are: 46.868"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.934"
+[1] "Ross County Adjusted Barstool Odds are: 23.198"
+[1] "St Mirren's Barstool Odds to cover the -0.5 spread are: 50"
+[1] "Ross County's Barstool Odds to cover the 0.5 spread are: 54.64"
+[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51% chance of the over 2.5 hitting. The line for the under is 1.65, which is a 60.61% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+          bet           date_time
+1 Ross County 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team        | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/24462/trevor-carson           |St Mirren   |      0.000000|   0.0454545|    |
+|/players/189927/joe-shaughnessy        |St Mirren   |      0.078200|   0.0416667|    |
+|/players/232094/declan-gallagher       |St Mirren   |      0.025650|   0.0400000|    |
+|/players/294863/marcus-fraser          |St Mirren   |      0.027725|   0.0357143|    |
+|/players/309516/charles-dunne          |St Mirren   |      0.001500|   0.0384615|    |
+|/players/443988/scott-tanser           |St Mirren   |      0.054100|   0.0952381|    |
+|/players/384144/mark-ohara             |St Mirren   |      0.154350|   0.2380952|    |
+|/players/817901/keanu-baccus           |St Mirren   |      0.067000|   0.1250000|    |
+|/players/448812/greg-kiltie            |St Mirren   |      0.177450|   0.2083333|    |
+|/players/188506/tony-watt              |St Mirren   |      0.229550|   0.2941176|    |
+|/players/127633/curtis-main            |St Mirren   |      0.323325|   0.2941176|    |
+|/players/229777/ross-laidlaw           |Ross County |      0.000000|   0.0370370|    |
+|/players/29198/keith-watson            |Ross County |      0.004650|   0.0400000|    |
+|/players/611682/connor-randall         |Ross County |      0.006000|   0.0200000|    |
+|/players/280504/jack-baldwin           |Ross County |      0.060175|   0.0555556|    |
+|/players/687346/alex-iacovitti         |Ross County |      0.028600|   0.1052632|    |
+|/players/766789/david-cancola          |Ross County |      0.060200|   0.0833333|    |
+|/players/491814/jordan-tillson         |Ross County |      0.025825|   0.0434783|    |
+|/players/760714/yan-dhanda             |Ross County |      0.037425|   0.1428571|    |
+|/players/1184220/owura-edwards         |Ross County |      0.104500|   0.1538462|    |
+|/players/263675/ross-callachan         |Ross County |      0.256100|   0.1250000|*   |
+|/players/154893/jordan-white           |Ross County |      0.235250|   0.3333333|    |
+|/players/95335/ryan-flynn              |St Mirren   |      0.002125|   0.0909091|    |
+|/players/684738/alexandros-gogic       |St Mirren   |      0.043750|   0.0588235|    |
+|/players/1195277/thierry-small         |St Mirren   |      0.000000|   0.2857143|    |
+|/players/95335/ryan-flynn              |St Mirren   |      0.002125|   0.0909091|    |
+|/players/440404/eamonn-brophy          |Ross County |      0.023950|   0.1851852|    |
+|/players/414206/dominic-samuel         |Ross County |      0.030350|   0.2127660|    |
+|/players/488203/jordy-hiwula-mayifuila |Ross County |      0.000000|   0.2127660|    |
+|/players/1268808/viktor-loturi         |Ross County |      0.000000|   0.0555556|    |
+____________________________________________________
+
+[1] "Facts about St Mirren:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/24462/trevor-carson     |           0|         27.2823|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/189927/joe-shaughnessy  |           1|         39.2839|           1.3264|        0.2901|         0.9259|      0.0891|        0.0797|      0.0410| 90.0000|
+|/players/232094/declan-gallagher |           1|         53.0265|           1.4133|        0.0977|         0.6818|      0.0457|        0.0252|      0.0896| 90.0000|
+|/players/294863/marcus-fraser    |           1|         46.3075|           2.3616|        0.1344|         0.4485|      0.0261|        0.0270|      0.0861| 90.0000|
+|/players/309516/charles-dunne    |           1|         37.8554|           0.7837|        0.0310|         0.3301|      0.0206|        0.0013|      0.0297| 90.0000|
+|/players/443988/scott-tanser     |           3|         34.4597|           1.4371|        0.2795|         1.0187|      0.0616|        0.0548|      0.1210| 90.0000|
+|/players/384144/mark-ohara       |           3|         33.3575|           1.3868|        0.5528|         1.5464|      0.1554|        0.1576|      0.0802| 90.0000|
+|/players/817901/keanu-baccus     |           3|         48.6996|           2.3936|        0.2860|         1.4003|      0.0895|        0.0670|      0.0824| 83.8246|
+|/players/448812/greg-kiltie      |           5|         23.6368|           0.6728|        0.5270|         1.9555|      0.2105|        0.1914|      0.1463| 76.7333|
+|/players/188506/tony-watt        |           5|         21.3992|           1.1796|        0.8383|         2.1818|      0.2572|        0.2417|      0.1146| 76.4545|
+|/players/127633/curtis-main      |           5|         14.7337|           0.9286|        0.8932|         2.4632|      0.3098|        0.3733|      0.0921| 81.3729|
+|/players/95335/ryan-flynn        |           0|              NA|               NA|        0.0625|         0.0625|      0.0006|        0.0021|      0.0088| 13.5455|
+|/players/684738/alexandros-gogic |           0|              NA|               NA|        0.0978|         0.2933|      0.0213|        0.0426|      0.0029| 13.2667|
+|/players/1195277/thierry-small   |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  8.6271|
+|/players/95335/ryan-flynn        |           0|              NA|               NA|        0.0000|         0.0828|      0.0047|        0.0000|      0.0182|  6.1754|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Steve Robinson |        51169|     -7.972317|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Ross County:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/229777/ross-laidlaw           |           0|         25.9007|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/29198/keith-watson            |           1|         35.9145|           1.0001|        0.0924|         0.5081|      0.0446|        0.0049|      0.0378| 90.0000|
+|/players/611682/connor-randall         |           1|         28.7402|           2.1470|        0.0273|         0.1503|      0.0085|        0.0051|      0.0472| 80.9545|
+|/players/280504/jack-baldwin           |           1|         48.4169|           1.6255|        0.1657|         0.4557|      0.0511|        0.0671|      0.0665| 90.0000|
+|/players/687346/alex-iacovitti         |           1|         35.6489|           1.3014|        0.1469|         0.5265|      0.0457|        0.0305|      0.0197| 90.0000|
+|/players/766789/david-cancola          |           2|         34.9260|           1.4133|        0.1673|         0.7234|      0.0733|        0.0645|      0.0587| 73.0370|
+|/players/491814/jordan-tillson         |           2|         37.8741|           2.1905|        0.1715|         0.5705|      0.0269|        0.0313|      0.0419| 90.0000|
+|/players/760714/yan-dhanda             |           3|         25.0291|           0.8151|        0.3703|         0.9183|      0.0450|        0.0413|      0.1512| 74.1429|
+|/players/1184220/owura-edwards         |           3|         18.3414|           1.2067|        0.4022|         1.1526|      0.1179|        0.1205|      0.0675| 79.6552|
+|/players/263675/ross-callachan         |           3|         26.8388|           1.4692|        0.7509|         2.2898|      0.3089|        0.3199|      0.0764| 90.0000|
+|/players/154893/jordan-white           |           5|         16.5331|           0.6359|        0.7609|         1.9395|      0.3127|        0.2875|      0.0534| 90.0000|
+|/players/440404/eamonn-brophy          |           0|              NA|               NA|        0.0662|         0.9266|      0.0539|        0.0274|      0.0470| 16.9630|
+|/players/414206/dominic-samuel         |           0|              NA|               NA|        0.1265|         0.3795|      0.0329|        0.0325|      0.0177| 15.8571|
+|/players/488203/jordy-hiwula-mayifuila |           0|              NA|               NA|        0.0000|         0.1738|      0.0091|        0.0000|      0.0144| 10.3448|
+|/players/1268808/viktor-loturi         |           0|              NA|               NA|        0.0000|         0.1000|      0.0031|        0.0000|      0.0155|  9.0455|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Malky Mackay |        55320|     -11.54929|4-2-3-1   |
