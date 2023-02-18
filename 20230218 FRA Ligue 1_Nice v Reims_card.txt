@@ -1,91 +1,92 @@
-[1] "Updated at 2023-02-17 14:51:34.786"
+[1] "Updated at 2023-02-18 07:26:38.564"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Nice 1.4651 to Reims 1.1683"
-[1] "Total: 2.6334"
-[1] "Nice %: 43.98"
-[1] "Draw %: 25.74"
-[1] "Reims %: 30.28"
+[1] "Score: Nice 1.533 to Reims 1.2189"
+[1] "Total: 2.7519"
+[1] "Nice %: 44.3"
+[1] "Draw %: 25.34"
+[1] "Reims %: 30.36"
 [1] "--XG Model--"
-[1] "Score: Nice 1.3075 to Reims 1.1351"
-[1] "Total: 2.4426"
-[1] "Nice %: 40.93"
-[1] "Draw %: 27.01"
-[1] "Reims %: 32.06"
+[1] "Score: Nice 1.2598 to Reims 1.1356"
+[1] "Total: 2.3954"
+[1] "Nice %: 39.72"
+[1] "Draw %: 27.61"
+[1] "Reims %: 32.67"
 [1] "--XGoT Model--"
-[1] "Score: Nice 1.7048 to Reims 1.2292"
-[1] "Total: 2.934"
-[1] "Nice %: 49"
-[1] "Draw %: 24.42"
-[1] "Reims %: 26.58"
+[1] "Score: Nice 1.5966 to Reims 1.2431"
+[1] "Total: 2.8397"
+[1] "Nice %: 45.97"
+[1] "Draw %: 24.23"
+[1] "Reims %: 29.8"
 [1] "--XA Model--"
-[1] "Score: Nice 1.3081 to Reims 1.2619"
-[1] "Total: 2.57"
-[1] "Nice %: 38.44"
-[1] "Draw %: 25.98"
-[1] "Reims %: 35.58"
+[1] "Score: Nice 1.3079 to Reims 1.298"
+[1] "Total: 2.6059"
+[1] "Nice %: 37.99"
+[1] "Draw %: 25.92"
+[1] "Reims %: 36.09"
 [1] "--Mean 4 Models--"
-[1] "Nice has a mean win % of 43.09%; a min win % of 38.44%; a max win % of 49%."
-[1] "Draw has a mean win % of 25.79%; a min win % of 24.42%; a max win % of 27.01%."
-[1] "Reims has a mean win % of 31.13%; a min win % of 26.58%; a max win of % 35.58%."
-[1] "Nice has a mean win of the Double Chance of 68.88%; a min win % of 64.42%, a max win % of 73.42%."
-[1] "Reims has a mean win of the Double Chance of 56.91%; a min win % of 51%, a max win % of 61.56%."
-[1] "The mean likelihood that there are more than 2.5 goals is 48.24%; max % is 55.26 and min % is 42.99%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 51.76%; max % is 57.01 and min % is 44.74%."
+[1] "Nice has a mean win % of 41.99%; a min win % of 37.99%; a max win % of 45.97%."
+[1] "Draw has a mean win % of 25.77%; a min win % of 24.23%; a max win % of 27.61%."
+[1] "Reims has a mean win % of 32.23%; a min win % of 29.8%; a max win of % 36.09%."
+[1] "Nice has a mean win of the Double Chance of 67.77%; a min win % of 63.91%, a max win % of 70.2%."
+[1] "Reims has a mean win of the Double Chance of 58%; a min win % of 54.03%, a max win % of 62.01%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.29%; max % is 53.26 and min % is 41.64%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.71%; max % is 58.36 and min % is 46.74%."
 [1] "--Sportsbook Odds--"
 [1] "Nice Barstool Odds are: 47.62"
-[1] "The Barstool Odds of a Draw are: 30.3"
-[1] "Reims Barstool Odds are: 27.78"
-[1] "Nice Adjusted Barstool Odds are: 45.052"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.666"
-[1] "Reims Adjusted Barstool Odds are: 26.282"
-[1] "Nice's Barstool Odds to cover the -0.25 spread are: 54.95"
-[1] "Reims's Barstool Odds to cover the 0.25 spread are: 50.51"
-[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 29.85"
+[1] "Reims Barstool Odds are: 28.57"
+[1] "Nice Adjusted Barstool Odds are: 44.908"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.15"
+[1] "Reims Adjusted Barstool Odds are: 26.943"
+[1] "Nice's Barstool Odds to cover the -0.25 spread are: 54.35"
+[1] "Reims's Barstool Odds to cover the 0.25 spread are: 51.02"
+[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.79, which is a 55.87% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
         bet           date_time
-1 Reims ATS 2023-02-18 08:00:00
+1     Reims 2023-02-18 08:00:00
+2 Reims ATS 2023-02-18 08:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                             |team  | expected_attg| expected_gs|bet |
 |:------------------------------------|:-----|-------------:|-----------:|:---|
 |/players/37770/kasper-schmeichel     |Nice  |      0.000000|   0.2272727|    |
-|/players/643771/jordan-lotomba       |Nice  |      0.002825|   0.1052632|    |
-|/players/955214/jean-clair-todibo    |Nice  |      0.028575|   0.0588235|    |
-|/players/38432/dante                 |Nice  |      0.038750|   0.0666667|    |
-|/players/1092403/melvin-bard         |Nice  |      0.045075|   0.0588235|    |
-|/players/75489/aaron-ramsey          |Nice  |      0.152425|   0.2564103|    |
-|/players/1033099/hichem-boudaoui     |Nice  |      0.040750|   0.1538462|    |
-|/players/980793/khphren-thuram-ulien |Nice  |      0.040050|   0.1250000|    |
-|/players/1388070/badredine-bouanani  |Nice  |      0.196900|   0.1851852|    |
-|/players/885005/terem-moffi          |Nice  |      0.243700|   0.4347826|    |
-|/players/492158/gatan-laborde        |Nice  |      0.202600|   0.3508772|    |
-|/players/982677/folarin-balogun      |Reims |      0.246650|   0.4081633|    |
-|/players/889521/alexis-flips         |Reims |      0.103550|   0.1923077|    |
-|/players/839680/myziane-maolida      |Reims |      0.208275|   0.2000000|    |
-|/players/604044/junya-ito            |Reims |      0.124975|   0.2631579|    |
-|/players/797594/azor-matusiwa        |Reims |      0.003000|   0.0400000|    |
-|/players/786580/marshall-munetsi     |Reims |      0.087050|   0.0625000|    |
-|/players/784448/thibault-de-smet     |Reims |      0.001675|   0.0303030|    |
-|/players/289001/yunis-abdelhamid     |Reims |      0.040100|   0.0666667|    |
-|/players/1114979/emmanuel-agbadou    |Reims |      0.054250|   0.2941176|    |
-|/players/346142/thomas-foket         |Reims |      0.008775|   0.0227273|    |
+|/players/643771/jordan-lotomba       |Nice  |      0.003075|   0.1111111|    |
+|/players/955214/jean-clair-todibo    |Nice  |      0.029000|   0.0588235|    |
+|/players/38432/dante                 |Nice  |      0.040775|   0.0714286|    |
+|/players/1092403/melvin-bard         |Nice  |      0.048575|   0.0625000|    |
+|/players/75489/aaron-ramsey          |Nice  |      0.160300|   0.2702703|    |
+|/players/1033099/hichem-boudaoui     |Nice  |      0.041625|   0.1666667|    |
+|/players/980793/khphren-thuram-ulien |Nice  |      0.042575|   0.1333333|    |
+|/players/953812/sofiane-diop         |Nice  |      0.096350|   0.2564103|    |
+|/players/885005/terem-moffi          |Nice  |      0.298825|   0.4545455|    |
+|/players/492158/gatan-laborde        |Nice  |      0.254700|   0.3636364|    |
+|/players/982677/folarin-balogun      |Reims |      0.249025|   0.4347826|    |
+|/players/889521/alexis-flips         |Reims |      0.106975|   0.2040816|    |
+|/players/839680/myziane-maolida      |Reims |      0.208600|   0.2083333|    |
+|/players/604044/junya-ito            |Reims |      0.126200|   0.2777778|    |
+|/players/797594/azor-matusiwa        |Reims |      0.045375|   0.0416667|    |
+|/players/1053685/dion-lopy           |Reims |      0.045975|   0.0625000|    |
+|/players/784448/thibault-de-smet     |Reims |      0.002900|   0.0322581|    |
+|/players/289001/yunis-abdelhamid     |Reims |      0.080650|   0.0714286|    |
+|/players/1406567/cheick-keita        |Reims |      0.002600|   0.0322581|    |
+|/players/346142/thomas-foket         |Reims |      0.016700|   0.0243902|    |
 |/players/766574/yehvann-diouf        |Reims |      0.000000|   0.0833333|    |
-|/players/953812/sofiane-diop         |Nice  |      0.071400|   0.2439024|    |
-|/players/215384/ross-barkley         |Nice  |      0.113425|   0.1785714|    |
-|/players/664226/pablo-rosario        |Nice  |      0.000000|   0.0833333|    |
-|/players/961770/billal-brahimi       |Nice  |      0.076975|   0.2702703|    |
-|/players/520659/arbr-zeneli          |Reims |      0.042550|   0.1886792|    |
-|/players/801120/jens-lys-cajuste     |Reims |      0.067875|   0.1694915|    |
-|/players/709734/mitchel-van-bergen   |Reims |      0.036700|   0.1724138|    |
-|/players/952259/maxime-busi          |Reims |      0.000000|   0.0263158|    |
+|/players/215384/ross-barkley         |Nice  |      0.108525|   0.0000000|*   |
+|/players/664226/pablo-rosario        |Nice  |      0.000000|   0.0000000|    |
+|/players/961770/billal-brahimi       |Nice  |      0.090250|   0.0000000|*   |
+|/players/1103831/alexis-beka         |Nice  |      0.000000|   0.0000000|    |
+|/players/520659/arbr-zeneli          |Reims |      0.039800|   0.0000000|    |
+|/players/801120/jens-lys-cajuste     |Reims |      0.067750|   0.0000000|*   |
+|/players/709734/mitchel-van-bergen   |Reims |      0.056000|   0.0000000|*   |
+|/players/952259/maxime-busi          |Reims |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Nice:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
@@ -98,13 +99,13 @@ ____________________________________________________
 |/players/75489/aaron-ramsey          |           3|         43.6023|           1.5813|        0.6508|         1.7361|      0.1837|        0.2318|      0.0944| 74.1509|
 |/players/1033099/hichem-boudaoui     |           3|         33.4821|           1.7751|        0.2836|         0.6741|      0.0421|        0.0598|      0.0707| 73.0877|
 |/players/980793/khphren-thuram-ulien |           3|         54.4023|           1.9842|        0.2325|         0.7886|      0.0614|        0.0565|      0.1033| 90.0000|
-|/players/1388070/badredine-bouanani  |           5|         29.4747|           0.8460|        0.7253|         1.0769|      0.0702|        0.3071|      0.1788| 66.5000|
-|/players/885005/terem-moffi          |           5|         17.0665|           0.7870|        0.8513|         2.0913|      0.3961|        0.3856|      0.0674| 78.0581|
-|/players/492158/gatan-laborde        |           5|         26.0955|           1.5691|        1.1555|         3.0720|      0.4047|        0.3071|      0.1100| 90.0000|
-|/players/953812/sofiane-diop         |          NA|              NA|               NA|        0.1927|         0.4576|      0.0605|        0.1093|      0.0620| 23.5000|
-|/players/215384/ross-barkley         |          NA|              NA|               NA|        0.2930|         0.8114|      0.0775|        0.1691|      0.0485| 16.9123|
-|/players/664226/pablo-rosario        |          NA|              NA|               NA|        0.0000|         0.1011|      0.0067|        0.0000|      0.0081| 15.8491|
-|/players/961770/billal-brahimi       |          NA|              NA|               NA|        0.2567|         0.3851|      0.0109|        0.1140|      0.0456| 11.9419|
+|/players/953812/sofiane-diop         |           5|         37.8805|           1.5560|        0.4622|         1.3561|      0.0941|        0.1410|      0.1587| 74.9000|
+|/players/885005/terem-moffi          |           5|         14.9686|           0.5567|        1.0211|         2.0257|      0.3878|        0.4781|      0.0858| 78.0581|
+|/players/492158/gatan-laborde        |           5|         22.8877|           1.1099|        1.3859|         2.9756|      0.3962|        0.3807|      0.1400| 90.0000|
+|/players/215384/ross-barkley         |           0|              NA|               NA|        0.3341|         0.9252|      0.0762|        0.1534|      0.0553| 16.9123|
+|/players/664226/pablo-rosario        |           0|              NA|               NA|        0.0000|         0.1153|      0.0066|        0.0000|      0.0092| 15.8491|
+|/players/961770/billal-brahimi       |           0|              NA|               NA|        0.3701|         0.5552|      0.0136|        0.1308|      0.0657| 15.1000|
+|/players/1103831/alexis-beka         |           0|              NA|               NA|        0.1189|         0.2972|      0.0044|        0.0000|      0.0054| 11.9419|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,7 +114,7 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Reims:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
@@ -122,17 +123,17 @@ ____________________________________________________
 |/players/889521/alexis-flips       |           3|         22.8694|           1.3356|        0.4691|         1.3695|      0.1243|        0.1220|      0.0903| 67.0870|
 |/players/839680/myziane-maolida    |           3|         26.9332|           0.9404|        0.4404|         1.1571|      0.1313|        0.2543|      0.0806| 71.5714|
 |/players/604044/junya-ito          |           3|         28.6223|           1.4005|        0.5932|         1.6389|      0.1860|        0.1453|      0.1561| 90.0000|
-|/players/797594/azor-matusiwa      |           2|         58.0888|           2.4779|        0.0621|         0.2468|      0.0057|        0.0028|      0.0918| 90.0000|
-|/players/786580/marshall-munetsi   |           2|         38.7442|           2.0193|        0.3430|         1.2869|      0.1168|        0.1009|      0.0372| 90.0000|
-|/players/784448/thibault-de-smet   |           1|         39.1777|           1.6980|        0.0566|         0.1207|      0.0083|        0.0014|      0.0364| 79.4444|
-|/players/289001/yunis-abdelhamid   |           1|         49.1684|           1.6120|        0.1486|         0.6865|      0.0617|        0.0458|      0.0210| 90.0000|
-|/players/1114979/emmanuel-agbadou  |           1|         49.6452|           2.0054|        0.1904|         0.7613|      0.0792|        0.0605|      0.0560| 90.0000|
-|/players/346142/thomas-foket       |           1|         38.5999|           1.6791|        0.0641|         0.1538|      0.0069|        0.0089|      0.0807| 90.0000|
+|/players/797594/azor-matusiwa      |           2|         54.6629|           2.0732|        0.2026|         0.6671|      0.0566|        0.0519|      0.0586| 90.0000|
+|/players/1053685/dion-lopy         |           2|         32.7404|           1.8820|        0.1573|         0.6729|      0.0511|        0.0519|      0.0546| 69.8750|
+|/players/784448/thibault-de-smet   |           1|         48.7960|           2.2782|        0.0879|         0.2134|      0.0175|        0.0028|      0.0500| 90.0000|
+|/players/289001/yunis-abdelhamid   |           1|         54.0571|           1.9092|        0.2036|         1.0715|      0.1143|        0.0929|      0.0255| 90.0000|
+|/players/1406567/cheick-keita      |           1|         36.5058|           1.0442|        0.0879|         0.2134|      0.0127|        0.0028|      0.0255| 90.0000|
+|/players/346142/thomas-foket       |           1|         42.4378|           1.9886|        0.0879|         0.2401|      0.0127|        0.0180|      0.0979| 90.0000|
 |/players/766574/yehvann-diouf      |           0|         27.4503|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/520659/arbr-zeneli        |          NA|              NA|               NA|        0.1756|         0.6440|      0.0415|        0.0482|      0.0776| 22.9130|
-|/players/801120/jens-lys-cajuste   |          NA|              NA|               NA|        0.2267|         0.4533|      0.0547|        0.0749|      0.0169| 18.4286|
-|/players/709734/mitchel-van-bergen |          NA|              NA|               NA|        0.1503|         0.3006|      0.0181|        0.0417|      0.0350| 11.4848|
-|/players/952259/maxime-busi        |          NA|              NA|               NA|        0.0000|         0.0704|      0.0051|        0.0000|      0.0121| 10.5556|
+|/players/520659/arbr-zeneli        |           0|              NA|               NA|        0.2003|         0.7343|      0.0408|        0.0438|      0.0884| 22.9130|
+|/players/801120/jens-lys-cajuste   |           0|              NA|               NA|        0.2822|         0.5645|      0.0588|        0.0742|      0.0210| 20.1250|
+|/players/709734/mitchel-van-bergen |           0|              NA|               NA|        0.2750|         0.5499|      0.0286|        0.0607|      0.0640| 18.4286|
+|/players/952259/maxime-busi        |           0|              NA|               NA|        0.0000|         0.0873|      0.0055|        0.0000|      0.0150| 11.4848|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
