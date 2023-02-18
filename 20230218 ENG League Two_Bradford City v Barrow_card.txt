@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 20:51:31.927"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Bradford City 1.4688 to Barrow 0.9771"
+[1] "Total: 2.4459"
+[1] "Bradford City %: 49.54"
+[1] "Draw %: 25.67"
+[1] "Barrow %: 24.79"
+[1] "--XG Model--"
+[1] "Score: Bradford City 1.2782 to Barrow 0.8045"
+[1] "Total: 2.0827"
+[1] "Bradford City %: 47.66"
+[1] "Draw %: 28.9"
+[1] "Barrow %: 23.44"
+[1] "--XGoT Model--"
+[1] "Score: Bradford City 1.6163 to Barrow 0.9094"
+[1] "Total: 2.5257"
+[1] "Bradford City %: 54.74"
+[1] "Draw %: 24.7"
+[1] "Barrow %: 20.56"
+[1] "--XA Model--"
+[1] "Score: Bradford City 1.3466 to Barrow 0.9261"
+[1] "Total: 2.2727"
+[1] "Bradford City %: 46.15"
+[1] "Draw %: 27.37"
+[1] "Barrow %: 26.48"
+[1] "--Mean 4 Models--"
+[1] "Bradford City has a mean win % of 49.52%; a min win % of 46.15%; a max win % of 54.74%."
+[1] "Draw has a mean win % of 26.66%; a min win % of 24.7%; a max win % of 28.9%."
+[1] "Barrow has a mean win % of 23.82%; a min win % of 20.56%; a max win of % 26.48%."
+[1] "Bradford City has a mean win of the Double Chance of 76.18%; a min win % of 73.52%, a max win % of 79.44%."
+[1] "Barrow has a mean win of the Double Chance of 50.48%; a min win % of 45.26%, a max win % of 53.85%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.55%; max % is 45.53 and min % is 34.12%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.45%; max % is 65.88 and min % is 54.47%."
+[1] "--Sportsbook Odds--"
+[1] "Bradford City Barstool Odds are: 50"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Barrow Barstool Odds are: 27.78"
+[1] "Bradford City Adjusted Barstool Odds are: 46.262"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.035"
+[1] "Barrow Adjusted Barstool Odds are: 25.703"
+[1] "Bradford City's Barstool Odds to cover the -0.5 spread are: 49.5"
+[1] "Barrow's Barstool Odds to cover the 0.5 spread are: 57.14"
+[1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48% chance of the over 2.5 hitting. The line for the under is 1.56, which is a 64.1% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team          | expected_attg| expected_gs|bet |
+|:---------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/795510/harry-lewis             |Bradford City |      0.000000|   0.1176471|    |
+|/players/184459/liam-ridehalgh          |Bradford City |      0.001800|   0.0588235|    |
+|/players/1076328/romoney-crichlow-noble |Bradford City |      0.001525|   0.0500000|    |
+|/players/789545/matty-platt             |Bradford City |      0.069000|   0.0769231|    |
+|/players/504176/bradley-halliday        |Bradford City |      0.056575|   0.0500000|    |
+|/players/609506/alex-gilliead           |Bradford City |      0.068400|   0.1785714|    |
+|/players/211839/richard-smallwood       |Bradford City |      0.051100|   0.1785714|    |
+|/players/1022849/scott-banks            |Bradford City |      0.383475|   0.1176471|*   |
+|/players/161659/adam-clayton            |Bradford City |      0.008025|   0.1250000|    |
+|/players/727921/harry-chapman           |Bradford City |      0.126025|   0.2500000|    |
+|/players/184450/andy-cook               |Bradford City |      0.313900|   0.4444444|    |
+|/players/162458/paul-farman             |Barrow        |      0.000000|   0.2222222|    |
+|/players/279848/george-ray              |Barrow        |      0.001425|   0.0333333|    |
+|/players/471699/patrick-brough          |Barrow        |      0.041000|   0.0555556|    |
+|/players/181243/niall-canavan           |Barrow        |      0.019025|   0.0625000|    |
+|/players/1077230/tyrell-warren          |Barrow        |      0.028750|   0.1111111|    |
+|/players/23943/tom-white                |Barrow        |      0.035150|   0.0909091|    |
+|/players/1326195/harrison-neal          |Barrow        |      0.035225|   0.0625000|    |
+|/players/520336/ben-whitfield           |Barrow        |      0.261875|   0.1851852|*   |
+|/players/1006080/robbie-gotts           |Barrow        |      0.015575|   0.1538462|    |
+|/players/39103/sam-foley                |Barrow        |      0.060625|   0.0833333|    |
+|/players/711340/josh-gordon             |Barrow        |      0.217325|   0.1250000|*   |
+|/players/359334/vadaine-oliver          |Bradford City |      0.017400|   0.2941176|    |
+|/players/1086696/thierry-nevers         |Bradford City |      0.005625|   0.2857143|    |
+|/players/881721/abo-eisa                |Bradford City |      0.060275|   0.2857143|    |
+|/players/881721/abo-eisa                |Bradford City |      0.060275|   0.2857143|    |
+|/players/395821/billy-waters            |Barrow        |      0.026575|   0.2439024|    |
+|/players/877652/jordan-stevens          |Barrow        |      0.009225|   0.1818182|    |
+|/players/693691/richie-bennett          |Barrow        |      0.000000|   0.2127660|    |
+|/players/1184217/jake-young             |Barrow        |      0.020150|   0.1754386|    |
+____________________________________________________
+
+[1] "Facts about Bradford City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/795510/harry-lewis             |           0|         29.1546|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/184459/liam-ridehalgh          |           1|         40.1224|           1.7721|        0.0734|         0.2202|      0.0061|        0.0018|      0.0852| 90.0000|
+|/players/1076328/romoney-crichlow-noble |           1|         57.9376|           0.8354|        0.1020|         0.3897|      0.0476|        0.0018|      0.0200| 90.0000|
+|/players/789545/matty-platt             |           1|         48.3700|           1.1350|        0.2957|         0.8925|      0.0811|        0.0830|      0.0237| 90.0000|
+|/players/504176/bradley-halliday        |           1|         50.3398|           2.2953|        0.1349|         0.5834|      0.0271|        0.0659|      0.0922| 90.0000|
+|/players/609506/alex-gilliead           |           2|         41.9484|           2.2597|        0.2786|         0.7709|      0.0572|        0.0824|      0.0497| 90.0000|
+|/players/211839/richard-smallwood       |           2|         59.7649|           1.9162|        0.2953|         1.1284|      0.0624|        0.0634|      0.1057| 90.0000|
+|/players/1022849/scott-banks            |           3|         22.0128|           0.8398|        1.2697|         2.2542|      0.2314|        0.5328|      0.1627| 75.2727|
+|/players/161659/adam-clayton            |           3|         40.7886|           1.8088|        0.0413|         0.4196|      0.0445|        0.0082|      0.1026| 84.3846|
+|/players/727921/harry-chapman           |           3|         23.9028|           0.9211|        0.5545|         2.1437|      0.2024|        0.1461|      0.1167| 77.0323|
+|/players/184450/andy-cook               |           5|         17.9467|           0.5432|        0.9841|         2.2558|      0.3230|        0.4150|      0.0696| 82.3563|
+|/players/359334/vadaine-oliver          |           0|              NA|               NA|        0.1865|         0.3109|      0.0273|        0.0189|      0.0093| 14.7273|
+|/players/1086696/thierry-nevers         |           0|              NA|               NA|        0.1574|         0.3936|      0.0177|        0.0056|      0.0047| 12.9677|
+|/players/881721/abo-eisa                |           0|              NA|               NA|        0.0912|         0.0912|      0.0113|        0.0600|      0.0009|  7.6437|
+|/players/881721/abo-eisa                |           0|              NA|               NA|        0.1141|         0.3422|      0.0182|        0.0107|      0.0007|  5.6154|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mark Hughes  |        27662|      -1.62561|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Barrow:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                       | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/162458/paul-farman    |           0|         24.6702|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/279848/george-ray     |           1|         30.3388|           0.8202|        0.0540|         0.3263|      0.0366|        0.0019|      0.0169| 83.0000|
+|/players/471699/patrick-brough |           1|         37.6929|           1.5012|        0.1285|         0.4704|      0.0272|        0.0473|      0.0802| 90.0000|
+|/players/181243/niall-canavan  |           1|         37.3815|           0.7891|        0.0865|         0.4437|      0.0249|        0.0234|      0.0164| 90.0000|
+|/players/1077230/tyrell-warren |           1|         30.1903|           3.2635|        0.1462|         0.4375|      0.0229|        0.0304|      0.0267| 90.0000|
+|/players/23943/tom-white       |           2|         35.2408|           2.4199|        0.1918|         0.1778|      0.0064|        0.0394|      0.0329| 90.0000|
+|/players/1326195/harrison-neal |           2|         34.5256|           1.7218|        0.1713|         1.2454|      0.0691|        0.0394|      0.0631| 80.3750|
+|/players/520336/ben-whitfield  |           3|         16.5566|           0.9046|        0.6701|         2.0024|      0.2169|        0.3385|      0.1928| 77.6111|
+|/players/1006080/robbie-gotts  |           3|         22.5564|           1.2443|        0.4573|         1.2150|      0.0621|        0.0184|      0.0458| 90.0000|
+|/players/39103/sam-foley       |           3|         31.6487|           1.5986|        0.3081|         1.2027|      0.0595|        0.0680|      0.0386| 90.0000|
+|/players/711340/josh-gordon    |           5|         15.1335|           0.5746|        0.7172|         1.9245|      0.2165|        0.2713|      0.0522| 83.8000|
+|/players/395821/billy-waters   |           0|              NA|               NA|        0.2290|         0.5725|      0.0452|        0.0301|      0.0092| 12.3889|
+|/players/877652/jordan-stevens |           0|              NA|               NA|        0.0512|         0.1535|      0.0077|        0.0104|      0.0014|  9.6250|
+|/players/693691/richie-bennett |           0|              NA|               NA|        0.1083|         0.2887|      0.0153|        0.0000|      0.0433|  7.0000|
+|/players/1184217/jake-young    |           0|              NA|               NA|        0.1034|         0.3103|      0.0261|        0.0229|      0.0071|  6.2000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Peter Wild   |        28701|     -2.498966|4-2-3-1   |
