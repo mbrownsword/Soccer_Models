@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-17 15:49:56.608"
+[1] "Updated at 2023-02-17 21:57:28.760"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 52.02%; max % is 55.09 and min % is 46.45%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 47.98%; max % is 53.55 and min % is 44.91%."
 [1] "--Sportsbook Odds--"
-[1] "Melbourne Victory Barstool Odds are: 26.67"
+[1] "Melbourne Victory Barstool Odds are: 26.32"
 [1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Melbourne City Barstool Odds are: 52.38"
-[1] "Melbourne Victory Adjusted Barstool Odds are: 24.965"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.004"
-[1] "Melbourne City Adjusted Barstool Odds are: 49.031"
-[1] "Melbourne Victory's Barstool Odds to cover the -0.5 spread are: 26.32"
-[1] "Melbourne City's Barstool Odds to cover the 0.5 spread are: 78.12"
-[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
+[1] "Melbourne City Barstool Odds are: 53.19"
+[1] "Melbourne Victory Adjusted Barstool Odds are: 24.532"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.892"
+[1] "Melbourne City Adjusted Barstool Odds are: 49.576"
+[1] "Melbourne Victory's Barstool Odds to cover the  spread are: NA"
+[1] "Melbourne City's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.72, which is a 58.14% chance of the over 2.5 hitting. The line for the under is 2.12, which is a 47.17% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                 bet           date_time
@@ -52,33 +52,33 @@
 
 |pageUrl2                               |team              | expected_attg| expected_gs|bet |
 |:--------------------------------------|:-----------------|-------------:|-----------:|:---|
-|/players/302176/paul-izzo              |Melbourne Victory |      0.000000|   0.2857143|    |
+|/players/302176/paul-izzo              |Melbourne Victory |      0.000000|   0.2941176|    |
 |/players/46726/damien-da-silva         |Melbourne Victory |      0.038625|   0.0416667|    |
 |/players/69130/leigh-broxham           |Melbourne Victory |      0.023975|   0.0666667|    |
 |/players/181548/roderick-miranda       |Melbourne Victory |      0.028050|   0.0416667|    |
 |/players/418799/jason-geria            |Melbourne Victory |      0.025275|   0.0416667|    |
 |/players/703526/rai                    |Melbourne Victory |      0.021450|   0.0666667|    |
-|/players/239774/joshua-brillante       |Melbourne Victory |      0.072725|   0.1666667|    |
+|/players/239774/joshua-brillante       |Melbourne Victory |      0.072725|   0.1694915|    |
 |/players/611224/christopher-ikonomidis |Melbourne Victory |      0.121250|   0.2272727|    |
 |/players/874601/ben-folami             |Melbourne Victory |      0.155900|   0.2127660|    |
 |/players/760713/jake-brimmer           |Melbourne Victory |      0.207525|   0.1666667|    |
 |/players/56704/bruno-fornaroli         |Melbourne Victory |      0.237875|   0.3333333|    |
 |/players/770232/thomas-glover          |Melbourne City    |      0.000000|   0.0500000|    |
-|/players/191787/nuno-reis              |Melbourne City    |      0.005950|   0.0400000|    |
-|/players/118145/scott-jamieson         |Melbourne City    |      0.044650|   0.0400000|    |
-|/players/1227258/callum-talbot         |Melbourne City    |      0.044150|   0.0400000|    |
-|/players/291854/curtis-good            |Melbourne City    |      0.058200|   0.0400000|    |
-|/players/179798/florin-berenguer       |Melbourne City    |      0.147250|   0.2040816|    |
+|/players/191787/nuno-reis              |Melbourne City    |      0.005950|   0.0416667|    |
+|/players/118145/scott-jamieson         |Melbourne City    |      0.044650|   0.0416667|    |
+|/players/1227258/callum-talbot         |Melbourne City    |      0.044150|   0.0416667|    |
+|/players/291854/curtis-good            |Melbourne City    |      0.058200|   0.0416667|    |
+|/players/179798/florin-berenguer       |Melbourne City    |      0.147250|   0.2083333|    |
 |/players/785377/aiden-oneill           |Melbourne City    |      0.016475|   0.0769231|    |
 |/players/1053472/marco-tilio           |Melbourne City    |      0.207250|   0.2941176|    |
-|/players/398901/andrew-nabbout         |Melbourne City    |      0.172500|   0.2325581|    |
+|/players/398901/andrew-nabbout         |Melbourne City    |      0.172500|   0.2380952|    |
 |/players/185014/matthew-leckie         |Melbourne City    |      0.211225|   0.2941176|    |
-|/players/494378/jamie-maclaren         |Melbourne City    |      0.356000|   0.5238095|    |
+|/players/494378/jamie-maclaren         |Melbourne City    |      0.356000|   0.5348837|    |
 |/players/685978/stefan-nigro           |Melbourne Victory |      0.000000|   0.0303030|    |
-|/players/1250885/nishan-velupillay     |Melbourne Victory |      0.055000|   0.1666667|    |
+|/players/1250885/nishan-velupillay     |Melbourne Victory |      0.055000|   0.1694915|    |
 |/players/281206/tomi-juric             |Melbourne Victory |      0.112625|   0.2631579|    |
 |/players/1261617/eli-adams             |Melbourne Victory |      0.005700|   0.1666667|    |
-|/players/662363/richard-van-der-venne  |Melbourne City    |      0.000000|   0.2040816|    |
+|/players/662363/richard-van-der-venne  |Melbourne City    |      0.000000|   0.2083333|    |
 |/players/426141/scott-galloway         |Melbourne City    |      0.004150|   0.0588235|    |
 |/players/1316930/jordan-bos            |Melbourne City    |      0.000000|   0.0769231|    |
 |/players/1313047/jordon-hall           |Melbourne City    |      0.000000|   0.0500000|    |
