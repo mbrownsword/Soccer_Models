@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 18:20:16.372"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Cheltenham Town 0.8644 to Barnsley 1.2833"
+[1] "Total: 2.1477"
+[1] "Cheltenham Town %: 24.82"
+[1] "Draw %: 28.58"
+[1] "Barnsley %: 46.6"
+[1] "--XG Model--"
+[1] "Score: Cheltenham Town 0.8591 to Barnsley 1.2248"
+[1] "Total: 2.0839"
+[1] "Cheltenham Town %: 25.83"
+[1] "Draw %: 29.45"
+[1] "Barnsley %: 44.72"
+[1] "--XGoT Model--"
+[1] "Score: Cheltenham Town 0.7946 to Barnsley 1.2996"
+[1] "Total: 2.0942"
+[1] "Cheltenham Town %: 22.76"
+[1] "Draw %: 29.13"
+[1] "Barnsley %: 48.11"
+[1] "--XA Model--"
+[1] "Score: Cheltenham Town 1.1099 to Barnsley 1.3252"
+[1] "Total: 2.4351"
+[1] "Cheltenham Town %: 31.27"
+[1] "Draw %: 27.57"
+[1] "Barnsley %: 41.16"
+[1] "--Mean 4 Models--"
+[1] "Cheltenham Town has a mean win % of 26.17%; a min win % of 22.76%; a max win % of 31.27%."
+[1] "Draw has a mean win % of 28.68%; a min win % of 27.57%; a max win % of 29.45%."
+[1] "Barnsley has a mean win % of 45.15%; a min win % of 41.16%; a max win of % 48.11%."
+[1] "Cheltenham Town has a mean win of the Double Chance of 54.85%; a min win % of 51.89%, a max win % of 58.84%."
+[1] "Barnsley has a mean win of the Double Chance of 73.83%; a min win % of 68.73%, a max win % of 77.24%."
+[1] "The mean likelihood that there are more than 2.5 goals is 36.66%; max % is 43.59 and min % is 33.57%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 63.34%; max % is 66.43 and min % is 56.41%."
+[1] "--Sportsbook Odds--"
+[1] "Cheltenham Town Barstool Odds are: 29.41"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Barnsley Barstool Odds are: 47.62"
+[1] "Cheltenham Town Adjusted Barstool Odds are: 27.401"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.231"
+[1] "Barnsley Adjusted Barstool Odds are: 44.368"
+[1] "Cheltenham Town's Barstool Odds to cover the 0.5 spread are: 59.52"
+[1] "Barnsley's Barstool Odds to cover the -0.5 spread are: 47.62"
+[1] "Barstool's line for the total is 2.5 at 2.16, which is a 46.3% chance of the over 2.5 hitting. The line for the under is 1.65, which is a 60.61% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team            | expected_attg| expected_gs|bet |
+|:----------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/817731/luke-southwood     |Cheltenham Town |      0.000000|   0.2380952|    |
+|/players/789589/lewis-freestone    |Cheltenham Town |      0.007725|   0.0555556|    |
+|/players/1194286/caleb-taylor      |Cheltenham Town |      0.016450|   0.0555556|    |
+|/players/1193997/elkan-baggott     |Cheltenham Town |      0.041550|   0.0769231|    |
+|/players/914127/ben-williams       |Cheltenham Town |      0.020400|   0.0833333|    |
+|/players/923241/elliot-bonds       |Cheltenham Town |      0.021075|   0.0714286|    |
+|/players/199260/ryan-jackson       |Cheltenham Town |      0.003375|   0.0714286|    |
+|/players/112273/liam-sercombe      |Cheltenham Town |      0.046050|   0.1333333|    |
+|/players/663027/ryan-broom         |Cheltenham Town |      0.130550|   0.2000000|    |
+|/players/968951/christian-norton   |Cheltenham Town |      0.015000|   0.2380952|    |
+|/players/816434/alfie-may          |Cheltenham Town |      0.372575|   0.2857143|*   |
+|/players/759811/bradley-collins    |Barnsley        |      0.000000|   0.1538462|    |
+|/players/662956/robbie-cundy       |Barnsley        |      0.051450|   0.1886792|    |
+|/players/914399/liam-kitching      |Barnsley        |      0.041100|   0.0769231|    |
+|/players/630953/mads-juel-andersen |Barnsley        |      0.030825|   0.0666667|    |
+|/players/490161/nicky-cadden       |Barnsley        |      0.069850|   0.1724138|    |
+|/players/1010219/luca-connell      |Barnsley        |      0.071350|   0.1538462|    |
+|/players/1017899/josh-benson       |Barnsley        |      0.099400|   0.1250000|    |
+|/players/768697/jordan-williams    |Barnsley        |      0.089850|   0.1111111|    |
+|/players/1096390/jonathan-russell  |Barnsley        |      0.118875|   0.1666667|    |
+|/players/178539/james-norwood      |Barnsley        |      0.239475|   0.4878049|    |
+|/players/488205/devante-cole       |Barnsley        |      0.260050|   0.3571429|    |
+|/players/843138/will-ferry         |Cheltenham Town |      0.000000|   0.0769231|    |
+|/players/891387/charlie-brown      |Cheltenham Town |      0.051275|   0.2380952|    |
+|/players/962008/taylor-perry       |Cheltenham Town |      0.000000|   0.1666667|    |
+|/players/961991/james-olayinka     |Cheltenham Town |      0.021725|   0.1851852|    |
+|/players/1010429/clarke-oduor      |Barnsley        |      0.006600|   0.1333333|    |
+|/players/916726/matty-wolfe        |Barnsley        |      0.001450|   0.1250000|    |
+|/players/857469/slobodan-tedic     |Barnsley        |      0.019375|   0.2702703|    |
+|/players/562592/adam-phillips      |Barnsley        |      0.000000|   0.2222222|    |
+____________________________________________________
+
+[1] "Facts about Cheltenham Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/817731/luke-southwood   |           0|         30.6506|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/789589/lewis-freestone  |           1|         39.4961|           1.4078|        0.0710|         0.2985|      0.0190|        0.0083|      0.0073| 90.0000|
+|/players/1194286/caleb-taylor    |           1|         39.1826|           1.5197|        0.1585|         0.4994|      0.0269|        0.0158|      0.0302| 90.0000|
+|/players/1193997/elkan-baggott   |           1|         32.1827|           0.6823|        0.1123|         0.3344|      0.0434|        0.0417|      0.0164| 90.0000|
+|/players/914127/ben-williams     |           3|         22.7973|           1.5670|        0.0602|         0.2168|      0.0240|        0.0238|      0.0313| 77.3333|
+|/players/923241/elliot-bonds     |           3|         34.1485|           2.7724|        0.1158|         0.5480|      0.0116|        0.0202|      0.0397| 79.4872|
+|/players/199260/ryan-jackson     |           3|         21.7036|           0.7723|        0.0645|         0.4978|      0.0188|        0.0037|      0.1314| 84.0714|
+|/players/112273/liam-sercombe    |           3|         36.7910|           1.6112|        0.3772|         1.4829|      0.0834|        0.0495|      0.1290| 90.0000|
+|/players/663027/ryan-broom       |           4|         28.0286|           1.6886|        0.5722|         1.4014|      0.1150|        0.1381|      0.1102| 90.0000|
+|/players/968951/christian-norton |           5|          8.9132|           0.2781|        0.1036|         0.2625|      0.0070|        0.0152|      0.0391| 61.5000|
+|/players/816434/alfie-may        |           5|         21.3778|           0.9838|        1.1274|         3.5506|      0.4796|        0.4579|      0.0610| 90.0000|
+|/players/843138/will-ferry       |           0|              NA|               NA|        0.0000|         0.3163|      0.0000|        0.0000|      0.1127| 28.5000|
+|/players/891387/charlie-brown    |           0|              NA|               NA|        0.1710|         0.3421|      0.0605|        0.0551|      0.0013| 12.6667|
+|/players/962008/taylor-perry     |           0|              NA|               NA|        0.0000|         0.2743|      0.0092|        0.0000|      0.0206| 10.5128|
+|/players/961991/james-olayinka   |           0|              NA|               NA|        0.1709|         0.3417|      0.0201|        0.0245|      0.0017|  5.9286|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Wade Elliott |        27698|     -6.503571|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about Barnsley:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/759811/bradley-collins    |           0|         30.8581|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/662956/robbie-cundy       |           1|         39.3327|           1.1210|        0.1717|         0.6095|      0.0219|        0.0528|      0.0299| 90.0000|
+|/players/914399/liam-kitching      |           1|         60.6290|           1.9925|        0.1764|         0.6051|      0.0502|        0.0420|      0.0555| 90.0000|
+|/players/630953/mads-juel-andersen |           1|         56.8346|           1.5451|        0.1236|         0.4250|      0.0398|        0.0315|      0.0364| 90.0000|
+|/players/490161/nicky-cadden       |           3|         28.6868|           1.0994|        0.4925|         1.7848|      0.0838|        0.0699|      0.1601| 90.0000|
+|/players/1010219/luca-connell      |           3|         42.3884|           1.7669|        0.2697|         1.0753|      0.0566|        0.0699|      0.1198| 90.0000|
+|/players/1017899/josh-benson       |           3|         42.7669|           1.7669|        0.3372|         1.1975|      0.1099|        0.1046|      0.1216| 78.3333|
+|/players/768697/jordan-williams    |           3|         35.7608|           2.2540|        0.2016|         0.7123|      0.0950|        0.0923|      0.0858| 90.0000|
+|/players/1096390/jonathan-russell  |           3|         35.5982|           1.7822|        0.4641|         1.2054|      0.1013|        0.1238|      0.0491| 81.3824|
+|/players/178539/james-norwood      |           5|         20.3406|           0.2993|        0.8967|         2.2564|      0.1186|        0.2639|      0.0895| 73.2549|
+|/players/488205/devante-cole       |           5|         16.7305|           0.8797|        0.6839|         1.9326|      0.3205|        0.2960|      0.0707| 81.4407|
+|/players/1010429/clarke-oduor      |           0|              NA|               NA|        0.0501|         0.1502|      0.0298|        0.0061|      0.0095| 16.7451|
+|/players/916726/matty-wolfe        |           0|              NA|               NA|        0.0367|         0.1101|      0.0144|        0.0016|      0.0026| 11.6667|
+|/players/857469/slobodan-tedic     |           0|              NA|               NA|        0.0658|         0.2631|      0.0432|        0.0189|      0.0145|  8.6176|
+|/players/562592/adam-phillips      |           0|              NA|               NA|        0.0000|         0.2016|      0.0134|        0.0000|      0.0151|  8.5593|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Michael Duff |        27542|      1.909173|3-5-2     |
