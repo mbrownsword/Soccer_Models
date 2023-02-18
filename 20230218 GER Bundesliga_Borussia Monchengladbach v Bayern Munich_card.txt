@@ -1,112 +1,113 @@
-[1] "Updated at 2023-02-17 12:57:16.241"
+[1] "Updated at 2023-02-18 06:11:05.733"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Borussia Monchengladbach 0.8875 to Bayern Munich 1.8745"
-[1] "Total: 2.762"
-[1] "Borussia Monchengladbach %: 17.06"
-[1] "Draw %: 22.41"
-[1] "Bayern Munich %: 60.53"
+[1] "Score: Borussia Monchengladbach 0.874 to Bayern Munich 1.8048"
+[1] "Total: 2.6788"
+[1] "Borussia Monchengladbach %: 17.97"
+[1] "Draw %: 23.02"
+[1] "Bayern Munich %: 59.01"
 [1] "--XG Model--"
-[1] "Score: Borussia Monchengladbach 0.8019 to Bayern Munich 1.7933"
-[1] "Total: 2.5952"
-[1] "Borussia Monchengladbach %: 16.61"
-[1] "Draw %: 23.25"
-[1] "Bayern Munich %: 60.14"
+[1] "Score: Borussia Monchengladbach 0.7885 to Bayern Munich 1.7137"
+[1] "Total: 2.5022"
+[1] "Borussia Monchengladbach %: 17.31"
+[1] "Draw %: 23.76"
+[1] "Bayern Munich %: 58.93"
 [1] "--XGoT Model--"
-[1] "Score: Borussia Monchengladbach 0.738 to Bayern Munich 1.7868"
-[1] "Total: 2.5248"
-[1] "Borussia Monchengladbach %: 15.21"
-[1] "Draw %: 22.99"
-[1] "Bayern Munich %: 61.8"
+[1] "Score: Borussia Monchengladbach 0.7232 to Bayern Munich 1.7501"
+[1] "Total: 2.4733"
+[1] "Borussia Monchengladbach %: 15.06"
+[1] "Draw %: 23.15"
+[1] "Bayern Munich %: 61.79"
 [1] "--XA Model--"
-[1] "Score: Borussia Monchengladbach 1.1675 to Bayern Munich 1.7919"
-[1] "Total: 2.9594"
-[1] "Borussia Monchengladbach %: 23.93"
-[1] "Draw %: 23.96"
-[1] "Bayern Munich %: 52.11"
+[1] "Score: Borussia Monchengladbach 1.1385 to Bayern Munich 1.7452"
+[1] "Total: 2.8837"
+[1] "Borussia Monchengladbach %: 24.55"
+[1] "Draw %: 24.09"
+[1] "Bayern Munich %: 51.36"
 [1] "--Mean 4 Models--"
-[1] "Borussia Monchengladbach has a mean win % of 18.2%; a min win % of 15.21%; a max win % of 23.93%."
-[1] "Draw has a mean win % of 23.15%; a min win % of 22.41%; a max win % of 23.96%."
-[1] "Bayern Munich has a mean win % of 58.65%; a min win % of 52.11%; a max win of % 61.8%."
-[1] "Borussia Monchengladbach has a mean win of the Double Chance of 41.35%; a min win % of 38.2%, a max win % of 47.89%."
-[1] "Bayern Munich has a mean win of the Double Chance of 81.8%; a min win % of 76.07%, a max win % of 84.79%."
-[1] "The mean likelihood that there are more than 2.5 goals is 50.49%; max % is 56.29 and min % is 46.05%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 49.51%; max % is 53.95 and min % is 43.71%."
+[1] "Borussia Monchengladbach has a mean win % of 18.72%; a min win % of 15.06%; a max win % of 24.55%."
+[1] "Draw has a mean win % of 23.51%; a min win % of 23.02%; a max win % of 24.09%."
+[1] "Bayern Munich has a mean win % of 57.77%; a min win % of 51.36%; a max win of % 61.79%."
+[1] "Borussia Monchengladbach has a mean win of the Double Chance of 42.23%; a min win % of 38.21%, a max win % of 48.64%."
+[1] "Bayern Munich has a mean win of the Double Chance of 81.28%; a min win % of 75.45%, a max win % of 84.94%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.35%; max % is 54.17 and min % is 44.77%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.65%; max % is 55.23 and min % is 45.83%."
 [1] "--Sportsbook Odds--"
-[1] "Borussia Monchengladbach Barstool Odds are: 14.29"
-[1] "The Barstool Odds of a Draw are: 17.39"
-[1] "Bayern Munich Barstool Odds are: 74.07"
-[1] "Borussia Monchengladbach Adjusted Barstool Odds are: 13.513"
-[1] "The Adjusted Barstool Odds of a Draw are: 16.444"
-[1] "Bayern Munich Adjusted Barstool Odds are: 70.043"
-[1] "Borussia Monchengladbach's Barstool Odds to cover the 1.5 spread are: 52.36"
-[1] "Bayern Munich's Barstool Odds to cover the -1.5 spread are: 52.08"
-[1] "Barstool's line for the total is 2.5 at 1.32, which is a 75.76% chance of the over 2.5 hitting. The line for the under is 3.4, which is a 29.41% chance of the under 2.5 hitting."
+[1] "Borussia Monchengladbach Barstool Odds are: 14.81"
+[1] "The Barstool Odds of a Draw are: 19.05"
+[1] "Bayern Munich Barstool Odds are: 71.43"
+[1] "Borussia Monchengladbach Adjusted Barstool Odds are: 14.066"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.093"
+[1] "Bayern Munich Adjusted Barstool Odds are: 67.841"
+[1] "Borussia Monchengladbach's Barstool Odds to cover the 0.5 spread are: 33.9"
+[1] "Bayern Munich's Barstool Odds to cover the -0.5 spread are: 70.42"
+[1] "Barstool's line for the total is 2.5 at 1.37, which is a 72.99% chance of the over 2.5 hitting. The line for the under is 3.1, which is a 32.26% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                            bet           date_time
 1                     Borussia Monchengladbach 2023-02-18 06:30:00
 2  draw Borussia Monchengladbach/Bayern Munich 2023-02-18 06:30:00
 3 under Borussia Monchengladbach/Bayern Munich 2023-02-18 06:30:00
+4                 Borussia Monchengladbach ATS 2023-02-18 06:30:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                                |team                     | expected_attg| expected_gs|bet |
 |:---------------------------------------|:------------------------|-------------:|-----------:|:---|
-|/players/557342/jonas-omlin             |Borussia Monchengladbach |      0.000000|   0.2631579|    |
-|/players/195206/stefan-lainer           |Borussia Monchengladbach |      0.014675|   0.0833333|    |
-|/players/620917/ko-itakura              |Borussia Monchengladbach |      0.008525|   0.0588235|    |
-|/players/517346/nico-elvedi             |Borussia Monchengladbach |      0.021425|   0.0588235|    |
-|/players/559065/ramy-bensebaini         |Borussia Monchengladbach |      0.100775|   0.1666667|    |
-|/players/269788/christoph-kramer        |Borussia Monchengladbach |      0.003825|   0.1538462|    |
-|/players/1016132/kouadio-kon            |Borussia Monchengladbach |      0.046875|   0.1000000|    |
-|/players/331542/jonas-hofmann           |Borussia Monchengladbach |      0.131350|   0.2631579|    |
-|/players/94916/lars-stindl              |Borussia Monchengladbach |      0.146600|   0.2631579|    |
-|/players/294859/alassane-plea           |Borussia Monchengladbach |      0.143250|   0.3125000|    |
-|/players/621562/marcus-thuram           |Borussia Monchengladbach |      0.149850|   0.4081633|    |
-|/players/95082/eric-maxim-choupo-moting |Bayern Munich            |      0.455850|   0.5454545|    |
-|/players/116772/thomas-mller            |Bayern Munich            |      0.301400|   0.4000000|    |
-|/players/530859/leroy-san               |Bayern Munich            |      0.175650|   0.4545455|    |
-|/players/751202/alphonso-davies         |Bayern Munich            |      0.091825|   0.2325581|    |
-|/players/1156141/jamal-musiala          |Bayern Munich            |      0.172400|   0.4000000|    |
-|/players/460632/joshua-kimmich          |Bayern Munich            |      0.041200|   0.1886792|    |
-|/players/361757/joao-cancelo            |Bayern Munich            |      0.042425|   0.1666667|    |
-|/players/769895/matthijs-de-ligt        |Bayern Munich            |      0.033225|   0.1428571|    |
-|/players/658554/dayot-upamecano         |Bayern Munich            |      0.029325|   0.1052632|    |
-|/players/611223/benjamin-pavard         |Bayern Munich            |      0.055450|   0.1428571|    |
-|/players/41618/yann-sommer              |Bayern Munich            |      0.000000|   0.1000000|    |
-|/players/192625/patrick-herrmann        |Borussia Monchengladbach |      0.007600|   0.2325581|    |
-|/players/727165/hannes-wolf             |Borussia Monchengladbach |      0.012575|   0.2222222|    |
-|/players/764507/florian-neuhaus         |Borussia Monchengladbach |      0.011775|   0.1538462|    |
-|/players/979759/nathan-ngoumou          |Borussia Monchengladbach |      0.000000|   0.2127660|    |
-|/players/385437/serge-gnabry            |Bayern Munich            |      0.029275|   0.4761905|    |
-|/players/956683/ryan-gravenberch        |Bayern Munich            |      0.010925|   0.1538462|    |
-|/players/343748/leon-goretzka           |Bayern Munich            |      0.015275|   0.2439024|    |
-|/players/950824/josip-stanisic          |Bayern Munich            |      0.000000|   0.0833333|    |
+|/players/557342/jonas-omlin             |Borussia Monchengladbach |      0.000000|   0.2325581|    |
+|/players/195206/stefan-lainer           |Borussia Monchengladbach |      0.001975|   0.0714286|    |
+|/players/620917/ko-itakura              |Borussia Monchengladbach |      0.001100|   0.0526316|    |
+|/players/517346/nico-elvedi             |Borussia Monchengladbach |      0.003200|   0.0500000|    |
+|/players/559065/ramy-bensebaini         |Borussia Monchengladbach |      0.013200|   0.1428571|    |
+|/players/269788/christoph-kramer        |Borussia Monchengladbach |      0.011025|   0.1333333|    |
+|/players/1016132/kouadio-kon            |Borussia Monchengladbach |      0.122975|   0.0909091|    |
+|/players/727165/hannes-wolf             |Borussia Monchengladbach |      0.068650|   0.2000000|    |
+|/players/331542/jonas-hofmann           |Borussia Monchengladbach |      0.177075|   0.2325581|    |
+|/players/94916/lars-stindl              |Borussia Monchengladbach |      0.193975|   0.2325581|    |
+|/players/294859/alassane-plea           |Borussia Monchengladbach |      0.149275|   0.2777778|    |
+|/players/95082/eric-maxim-choupo-moting |Bayern Munich            |      0.390350|   0.5238095|    |
+|/players/116772/thomas-mller            |Bayern Munich            |      0.310950|   0.3846154|    |
+|/players/751202/alphonso-davies         |Bayern Munich            |      0.079050|   0.2222222|    |
+|/players/956683/ryan-gravenberch        |Bayern Munich            |      0.055975|   0.1428571|    |
+|/players/460632/joshua-kimmich          |Bayern Munich            |      0.033675|   0.1818182|    |
+|/players/343748/leon-goretzka           |Bayern Munich            |      0.107650|   0.2325581|    |
+|/players/385437/serge-gnabry            |Bayern Munich            |      0.251475|   0.4545455|    |
+|/players/161012/daley-blind             |Bayern Munich            |      0.034275|   0.1428571|    |
+|/players/658554/dayot-upamecano         |Bayern Munich            |      0.023675|   0.1000000|    |
+|/players/611223/benjamin-pavard         |Bayern Munich            |      0.043975|   0.1333333|    |
+|/players/41618/yann-sommer              |Bayern Munich            |      0.000000|   0.0909091|    |
+|/players/192625/patrick-herrmann        |Borussia Monchengladbach |      0.009325|   0.0000000|    |
+|/players/621562/marcus-thuram           |Borussia Monchengladbach |      0.004250|   0.0000000|    |
+|/players/764507/florian-neuhaus         |Borussia Monchengladbach |      0.014725|   0.0000000|    |
+|/players/521421/julian-weigl            |Borussia Monchengladbach |      0.002925|   0.0000000|    |
+|/players/1156141/jamal-musiala          |Bayern Munich            |      0.032975|   0.0000000|    |
+|/players/530859/leroy-san               |Bayern Munich            |      0.039550|   0.0000000|    |
+|/players/950824/josip-stanisic          |Bayern Munich            |      0.000000|   0.0000000|    |
+|/players/1288111/mathys-tel             |Bayern Munich            |      0.026050|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Borussia Monchengladbach:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/557342/jonas-omlin      |           0|         32.7562|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/195206/stefan-lainer    |           1|         32.7064|           1.5640|        0.0717|         0.3984|      0.0281|        0.0140|      0.0904| 90.0000|
-|/players/620917/ko-itakura       |           1|         42.8276|           1.1167|        0.0614|         0.3021|      0.0231|        0.0085|      0.0209| 90.0000|
-|/players/517346/nico-elvedi      |           1|         47.3384|           1.2873|        0.0565|         0.2877|      0.0392|        0.0212|      0.0078| 90.0000|
-|/players/559065/ramy-bensebaini  |           1|         35.4418|           1.6225|        0.2159|         0.8025|      0.1185|        0.0986|      0.0391| 90.0000|
-|/players/269788/christoph-kramer |           2|         47.0564|           2.2000|        0.0181|         0.4507|      0.0189|        0.0034|      0.0608| 90.0000|
-|/players/1016132/kouadio-kon     |           2|         37.4948|           2.2476|        0.2827|         0.8757|      0.0442|        0.0423|      0.0314| 90.0000|
-|/players/331542/jonas-hofmann    |           3|         25.4589|           1.6691|        0.3311|         0.9025|      0.1043|        0.1264|      0.0910| 82.4762|
-|/players/94916/lars-stindl       |           3|         26.4534|           1.5387|        0.4926|         1.5230|      0.1516|        0.1425|      0.0546| 81.0208|
-|/players/294859/alassane-plea    |           3|         20.8002|           0.9537|        0.3753|         1.1926|      0.1104|        0.1291|      0.1023| 81.4286|
-|/players/621562/marcus-thuram    |           5|         16.5785|           0.4411|        0.4970|         1.4171|      0.1445|        0.1437|      0.0686| 80.1739|
-|/players/192625/patrick-herrmann |          NA|              NA|               NA|        0.0451|         0.1522|      0.0105|        0.0062|      0.0154|  9.8261|
-|/players/727165/hannes-wolf      |          NA|              NA|               NA|        0.0311|         0.0870|      0.0140|        0.0112|      0.0031|  8.9792|
-|/players/764507/florian-neuhaus  |          NA|              NA|               NA|        0.0502|         0.1088|      0.0140|        0.0106|      0.0052|  8.5714|
-|/players/979759/nathan-ngoumou   |          NA|              NA|               NA|        0.0666|         0.1082|      0.0000|        0.0000|      0.0084|  7.5238|
+|/players/557342/jonas-omlin      |           0|         33.9334|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/195206/stefan-lainer    |           1|         32.1755|           1.6641|        0.0574|         0.2906|      0.0141|        0.0019|      0.0574| 90.0000|
+|/players/620917/ko-itakura       |           1|         42.1324|           1.1883|        0.0491|         0.2204|      0.0116|        0.0011|      0.0133| 90.0000|
+|/players/517346/nico-elvedi      |           1|         46.5700|           1.3698|        0.0452|         0.2099|      0.0197|        0.0029|      0.0050| 90.0000|
+|/players/559065/ramy-bensebaini  |           1|         34.8665|           1.7265|        0.1727|         0.5854|      0.0595|        0.0133|      0.0249| 90.0000|
+|/players/269788/christoph-kramer |           2|         43.6825|           2.3423|        0.0196|         0.4558|      0.0280|        0.0098|      0.0641| 90.0000|
+|/players/1016132/kouadio-kon     |           2|         34.8064|           2.3930|        0.3062|         0.8856|      0.0654|        0.1224|      0.0331| 90.0000|
+|/players/727165/hannes-wolf      |           3|         21.2488|           1.5293|        0.2755|         0.9132|      0.0589|        0.0628|      0.0613| 80.3333|
+|/players/331542/jonas-hofmann    |           3|         26.3030|           0.9831|        0.3795|         1.0273|      0.1406|        0.1702|      0.1395| 82.4762|
+|/players/94916/lars-stindl       |           3|         27.3304|           0.9063|        0.5645|         1.7336|      0.2043|        0.1919|      0.0837| 81.0208|
+|/players/294859/alassane-plea    |           5|         17.3018|           0.3689|        0.5324|         1.6155|      0.1571|        0.1385|      0.0564| 79.6829|
+|/players/192625/patrick-herrmann |           0|              NA|               NA|        0.0508|         0.1715|      0.0130|        0.0078|      0.0173| 10.3171|
+|/players/621562/marcus-thuram    |           0|              NA|               NA|        0.0143|         0.1001|      0.0172|        0.0032|      0.0048|  9.6667|
+|/players/764507/florian-neuhaus  |           0|              NA|               NA|        0.0564|         0.1223|      0.0173|        0.0133|      0.0058|  8.9792|
+|/players/521421/julian-weigl     |           0|              NA|               NA|        0.0116|         0.0232|      0.0014|        0.0037|      0.0038|  7.5238|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -115,26 +116,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Bayern Munich:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/95082/eric-maxim-choupo-moting |           5|         22.8384|           0.6363|        1.1317|         2.7195|      0.4820|        0.5803|      0.1754| 78.0000|
-|/players/116772/thomas-mller            |           4|         37.2376|           1.0782|        1.1550|         1.9199|      0.3055|        0.3371|      0.2399| 80.0000|
-|/players/530859/leroy-san               |           4|         39.8185|           1.5779|        0.8948|         2.9220|      0.2230|        0.1817|      0.1156| 90.0000|
-|/players/751202/alphonso-davies         |           3|         46.0909|           1.8725|        0.2244|         0.9666|      0.1236|        0.0943|      0.1016| 90.0000|
-|/players/1156141/jamal-musiala          |           3|         32.1759|           1.3530|        0.4673|         1.6366|      0.1913|        0.1842|      0.1025| 75.3617|
-|/players/460632/joshua-kimmich          |           3|         84.4732|           1.5589|        0.2896|         1.0097|      0.0283|        0.0419|      0.2195| 90.0000|
-|/players/361757/joao-cancelo            |           3|         43.9232|           2.3973|        0.1811|         0.3846|      0.0279|        0.0419|      0.1224| 72.6250|
-|/players/769895/matthijs-de-ligt        |           1|         62.2400|           0.9224|        0.2582|         0.5971|      0.0729|        0.0334|      0.0210| 90.0000|
-|/players/658554/dayot-upamecano         |           1|         77.8605|           1.6959|        0.1167|         0.3376|      0.0478|        0.0294|      0.0288| 90.0000|
-|/players/611223/benjamin-pavard         |           1|         70.4514|           1.4814|        0.2469|         0.7174|      0.0539|        0.0506|      0.0727| 90.0000|
-|/players/41618/yann-sommer              |           0|         44.9266|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/385437/serge-gnabry            |          NA|              NA|               NA|        0.1490|         0.3242|      0.0323|        0.0279|      0.0714| 17.3750|
-|/players/956683/ryan-gravenberch        |          NA|              NA|               NA|        0.0848|         0.2332|      0.0235|        0.0101|      0.0150| 14.6383|
-|/players/343748/leon-goretzka           |          NA|              NA|               NA|        0.0896|         0.3249|      0.0216|        0.0160|      0.0185| 12.0000|
-|/players/950824/josip-stanisic          |          NA|              NA|               NA|        0.0000|         0.0180|      0.0016|        0.0000|      0.0048| 10.0000|
+|/players/95082/eric-maxim-choupo-moting |           5|         16.5458|           0.6498|        1.1091|         2.7865|      0.4526|        0.4765|      0.0843| 78.0000|
+|/players/116772/thomas-mller            |           5|         30.9460|           0.5744|        1.1128|         2.2523|      0.3348|        0.3569|      0.1858| 74.0000|
+|/players/751202/alphonso-davies         |           3|         42.7538|           2.2100|        0.2437|         0.8419|      0.1045|        0.0797|      0.1058| 90.0000|
+|/players/956683/ryan-gravenberch        |           3|         61.4730|           2.1539|        0.3583|         0.9716|      0.0531|        0.0555|      0.1252| 90.0000|
+|/players/460632/joshua-kimmich          |           3|         78.3571|           1.8399|        0.3145|         0.8795|      0.0239|        0.0354|      0.2286| 90.0000|
+|/players/343748/leon-goretzka           |           3|         35.2439|           1.1286|        0.4287|         1.7277|      0.1181|        0.1081|      0.1062| 77.1579|
+|/players/385437/serge-gnabry            |           3|         34.0177|           1.9295|        0.7209|         1.9006|      0.2316|        0.2820|      0.1791| 76.2065|
+|/players/161012/daley-blind             |           1|         74.8645|           1.3421|        0.1234|         0.5340|      0.0453|        0.0349|      0.0878| 90.0000|
+|/players/658554/dayot-upamecano         |           1|         70.2027|           1.7225|        0.0925|         0.3217|      0.0440|        0.0239|      0.0222| 90.0000|
+|/players/611223/benjamin-pavard         |           1|         63.5224|           1.5046|        0.1958|         0.6838|      0.0496|        0.0411|      0.0559| 90.0000|
+|/players/41618/yann-sommer              |           0|         47.9022|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1156141/jamal-musiala          |           0|              NA|               NA|        0.1348|         0.2560|      0.0319|        0.0325|      0.0270| 16.0000|
+|/players/530859/leroy-san               |           0|              NA|               NA|        0.1335|         0.3270|      0.0340|        0.0394|      0.0430| 13.7935|
+|/players/950824/josip-stanisic          |           0|              NA|               NA|        0.0000|         0.0248|      0.0024|        0.0000|      0.0066| 12.8421|
+|/players/1288111/mathys-tel             |           0|              NA|               NA|        0.1075|         0.3225|      0.0297|        0.0260|      0.0047| 12.0000|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
