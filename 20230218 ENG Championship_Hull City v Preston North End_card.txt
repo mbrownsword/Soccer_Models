@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-17 17:14:30.176"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Hull City 1.2399 to Preston North End 0.8652"
+[1] "Total: 2.1051"
+[1] "Hull City %: 45.09"
+[1] "Draw %: 28.99"
+[1] "Preston North End %: 25.92"
+[1] "--XG Model--"
+[1] "Score: Hull City 1.28 to Preston North End 0.8891"
+[1] "Total: 2.1691"
+[1] "Hull City %: 45.46"
+[1] "Draw %: 28.19"
+[1] "Preston North End %: 26.35"
+[1] "--XGoT Model--"
+[1] "Score: Hull City 1.2669 to Preston North End 0.8338"
+[1] "Total: 2.1007"
+[1] "Hull City %: 46.71"
+[1] "Draw %: 28.77"
+[1] "Preston North End %: 24.52"
+[1] "--XA Model--"
+[1] "Score: Hull City 1.3245 to Preston North End 0.8713"
+[1] "Total: 2.1958"
+[1] "Hull City %: 47.24"
+[1] "Draw %: 27.97"
+[1] "Preston North End %: 24.79"
+[1] "--Mean 4 Models--"
+[1] "Hull City has a mean win % of 46.12%; a min win % of 45.09%; a max win % of 47.24%."
+[1] "Draw has a mean win % of 28.48%; a min win % of 27.97%; a max win % of 28.99%."
+[1] "Preston North End has a mean win % of 25.4%; a min win % of 24.52%; a max win of % 26.35%."
+[1] "Hull City has a mean win of the Double Chance of 74.61%; a min win % of 73.65%, a max win % of 75.48%."
+[1] "Preston North End has a mean win of the Double Chance of 53.88%; a min win % of 52.76%, a max win % of 54.91%."
+[1] "The mean likelihood that there are more than 2.5 goals is 35.75%; max % is 37.15 and min % is 34.57%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 64.25%; max % is 65.43 and min % is 62.85%."
+[1] "--Sportsbook Odds--"
+[1] "Hull City Barstool Odds are: 47.62"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Preston North End Barstool Odds are: 28.57"
+[1] "Hull City Adjusted Barstool Odds are: 44.521"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.768"
+[1] "Preston North End Adjusted Barstool Odds are: 26.711"
+[1] "Hull City's Barstool Odds to cover the -0.5 spread are: 48.31"
+[1] "Preston North End's Barstool Odds to cover the 0.5 spread are: 58.14"
+[1] "Barstool's line for the total is 2.5 at 2.16, which is a 46.3% chance of the over 2.5 hitting. The line for the under is 1.65, which is a 60.61% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                bet           date_time
+1 under Hull City/Preston North End 2023-02-18 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team              | expected_attg| expected_gs|bet |
+|:----------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/215785/matt-ingram        |Hull City         |      0.000000|   0.1428571|    |
+|/players/361326/tobias-figueiredo  |Hull City         |      0.049400|   0.0500000|    |
+|/players/864266/sean-mcloughlin    |Hull City         |      0.005475|   0.0357143|    |
+|/players/789598/alfie-jones        |Hull City         |      0.031525|   0.0454545|    |
+|/players/1079103/jacob-greaves     |Hull City         |      0.042975|   0.0909091|    |
+|/players/416104/ryan-woods         |Hull City         |      0.008150|   0.1000000|    |
+|/players/470539/jean-michael-seri  |Hull City         |      0.105125|   0.1666667|    |
+|/players/212418/cyrus-christie     |Hull City         |      0.225775|   0.1250000|*   |
+|/players/886155/ryan-longman       |Hull City         |      0.128150|   0.2857143|    |
+|/players/807930/regan-slater       |Hull City         |      0.142825|   0.1960784|    |
+|/players/683880/oscar-estupinan    |Hull City         |      0.270725|   0.3636364|    |
+|/players/582276/freddie-woodman    |Preston North End |      0.000000|   0.1818182|    |
+|/players/768325/jordan-storey      |Preston North End |      0.026225|   0.0769231|    |
+|/players/212304/andrew-hughes      |Preston North End |      0.009200|   0.1111111|    |
+|/players/445511/liam-lindsay       |Preston North End |      0.023150|   0.0384615|    |
+|/players/231801/robert-brady       |Preston North End |      0.055125|   0.1428571|    |
+|/players/928440/alistair-mccann    |Preston North End |      0.020975|   0.1176471|    |
+|/players/363345/brad-potts         |Preston North End |      0.075425|   0.1111111|    |
+|/players/434498/alan-browne        |Preston North End |      0.089400|   0.1333333|    |
+|/players/600812/ben-whiteman       |Preston North End |      0.039150|   0.1250000|    |
+|/players/107216/ched-evans         |Preston North End |      0.194100|   0.2380952|    |
+|/players/789645/emil-riis-jakobsen |Preston North End |      0.220175|   0.2564103|    |
+|/players/430429/greg-docherty      |Hull City         |      0.003525|   0.1176471|    |
+|/players/709148/lewie-coyle        |Hull City         |      0.000000|   0.0909091|    |
+|/players/358936/ozan-tufan         |Hull City         |      0.081625|   0.2777778|    |
+|/players/358936/ozan-tufan         |Hull City         |      0.081625|   0.2777778|    |
+|/players/765715/benjamin-woodburn  |Preston North End |      0.000350|   0.2040816|    |
+|/players/538114/ryan-ledson        |Preston North End |      0.000000|   0.0714286|    |
+|/players/884383/bambo-diaby        |Preston North End |      0.000000|   0.0769231|    |
+|/players/1190025/lvaro-fernández   |Preston North End |      0.000000|   0.0909091|    |
+____________________________________________________
+
+[1] "Facts about Hull City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/215785/matt-ingram       |           0|         25.7610|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/361326/tobias-figueiredo |           1|         48.5670|           0.9179|        0.1224|         0.4499|      0.0330|        0.0563|      0.0188| 90.0000|
+|/players/864266/sean-mcloughlin   |           1|         52.1244|           1.2986|        0.1749|         0.6235|      0.0400|        0.0055|      0.0626| 90.0000|
+|/players/789598/alfie-jones       |           1|         52.6687|           1.2701|        0.1445|         0.4722|      0.0585|        0.0328|      0.0307| 90.0000|
+|/players/1079103/jacob-greaves    |           1|         49.9449|           2.4086|        0.1466|         0.7033|      0.0465|        0.0445|      0.1077| 90.0000|
+|/players/416104/ryan-woods        |           2|         37.8836|           1.6183|        0.0984|         0.4363|      0.0303|        0.0076|      0.0644| 80.9091|
+|/players/470539/jean-michael-seri |           2|         58.5784|           2.4441|        0.3708|         1.3878|      0.1037|        0.1153|      0.1095| 90.0000|
+|/players/212418/cyrus-christie    |           3|         37.1126|           1.5521|        0.5953|         1.7313|      0.2076|        0.2606|      0.1567| 90.0000|
+|/players/886155/ryan-longman      |           3|         23.3295|           1.0469|        0.7428|         2.3169|      0.1986|        0.1409|      0.1483| 77.8491|
+|/players/807930/regan-slater      |           3|         29.7141|           0.8498|        0.5911|         1.4800|      0.1477|        0.1531|      0.0991| 82.4865|
+|/players/683880/oscar-estupinan   |           5|         17.8802|           0.4576|        0.8677|         2.3042|      0.3082|        0.3301|      0.0628| 80.9487|
+|/players/430429/greg-docherty     |           0|              NA|               NA|        0.0466|         0.2328|      0.0152|        0.0032|      0.0312| 12.1509|
+|/players/709148/lewie-coyle       |           0|              NA|               NA|        0.0000|         0.0526|      0.0005|        0.0000|      0.0279|  9.0909|
+|/players/358936/ozan-tufan        |           0|              NA|               NA|        0.0742|         0.3712|      0.0542|        0.0878|      0.0053|  9.0513|
+|/players/358936/ozan-tufan        |           0|              NA|               NA|        0.0000|         0.0960|      0.0069|        0.0000|      0.0096|  7.5135|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Liam Rosenior |        23699|    -0.0545833|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Preston North End:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/582276/freddie-woodman    |           0|         28.4222|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/768325/jordan-storey      |           1|         44.0829|           1.0922|        0.1337|         0.4047|      0.0317|        0.0334|      0.0325| 90.0000|
+|/players/212304/andrew-hughes      |           1|         48.9926|           1.8613|        0.0944|         0.4941|      0.0351|        0.0125|      0.0265| 90.0000|
+|/players/445511/liam-lindsay       |           1|         43.0179|           1.3735|        0.0841|         0.3792|      0.0403|        0.0283|      0.0231| 90.0000|
+|/players/231801/robert-brady       |           3|         32.5371|           1.8515|        0.2291|         0.8227|      0.0525|        0.0631|      0.1552| 79.4054|
+|/players/928440/alistair-mccann    |           3|         33.1777|           2.6274|        0.1236|         0.6242|      0.0477|        0.0269|      0.0446| 90.0000|
+|/players/363345/brad-potts         |           3|         31.4860|           1.1622|        0.3154|         1.1389|      0.0942|        0.0895|      0.0628| 82.8036|
+|/players/434498/alan-browne        |           3|         35.6049|           1.5556|        0.3957|         0.9546|      0.0940|        0.1130|      0.0634| 90.0000|
+|/players/600812/ben-whiteman       |           3|         45.4554|           1.8239|        0.2360|         0.9383|      0.0544|        0.0480|      0.1101| 90.0000|
+|/players/107216/ched-evans         |           5|         23.1339|           0.6857|        0.7891|         2.1439|      0.2742|        0.2531|      0.0786| 84.1618|
+|/players/789645/emil-riis-jakobsen |           5|         17.1986|           0.6533|        0.7443|         1.8895|      0.2592|        0.2814|      0.0823| 80.6703|
+|/players/765715/benjamin-woodburn  |           0|              NA|               NA|        0.0260|         0.2343|      0.0117|        0.0003|      0.0122| 10.5946|
+|/players/538114/ryan-ledson        |           0|              NA|               NA|        0.0000|         0.1144|      0.0035|        0.0000|      0.0256|  9.3297|
+|/players/884383/bambo-diaby        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0018|  7.1964|
+|/players/1190025/lvaro-fernández   |           0|              NA|               NA|        0.0000|         0.0994|      0.0061|        0.0000|      0.0075|  5.8382|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ryan Lowe    |        50364|     -2.722857|3-5-2     |
