@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-18 12:42:16.888"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Fiorentina 1.8024 to Empoli 1.3222"
+[1] "Total: 3.1246"
+[1] "Fiorentina %: 48.98"
+[1] "Draw %: 23.56"
+[1] "Empoli %: 27.46"
+[1] "--XG Model--"
+[1] "Score: Fiorentina 2.0205 to Empoli 1.2221"
+[1] "Total: 3.2426"
+[1] "Fiorentina %: 56.45"
+[1] "Draw %: 21.5"
+[1] "Empoli %: 22.05"
+[1] "--XGoT Model--"
+[1] "Score: Fiorentina 2.1161 to Empoli 1.3433"
+[1] "Total: 3.4594"
+[1] "Fiorentina %: 55.69"
+[1] "Draw %: 21"
+[1] "Empoli %: 23.31"
+[1] "--XA Model--"
+[1] "Score: Fiorentina 1.9628 to Empoli 1.0959"
+[1] "Total: 3.0587"
+[1] "Fiorentina %: 57.1"
+[1] "Draw %: 22.15"
+[1] "Empoli %: 20.75"
+[1] "--Mean 4 Models--"
+[1] "Fiorentina has a mean win % of 54.56%; a min win % of 48.98%; a max win % of 57.1%."
+[1] "Draw has a mean win % of 22.05%; a min win % of 21%; a max win % of 23.56%."
+[1] "Empoli has a mean win % of 23.39%; a min win % of 20.75%; a max win of % 27.46%."
+[1] "Fiorentina has a mean win of the Double Chance of 76.61%; a min win % of 72.54%, a max win % of 79.25%."
+[1] "Empoli has a mean win of the Double Chance of 45.44%; a min win % of 42.9%, a max win % of 51.02%."
+[1] "The mean likelihood that there are more than 2.5 goals is 61.91%; max % is 66.85 and min % is 58.84%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 38.09%; max % is 41.16 and min % is 33.15%."
+[1] "--Sportsbook Odds--"
+[1] "Fiorentina Barstool Odds are: 62.5"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Empoli Barstool Odds are: 18.18"
+[1] "Fiorentina Adjusted Barstool Odds are: 59.141"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.656"
+[1] "Empoli Adjusted Barstool Odds are: 17.203"
+[1] "Fiorentina's Barstool Odds to cover the -0.75 spread are: 56.5"
+[1] "Empoli's Barstool Odds to cover the 0.75 spread are: 48.54"
+[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                     bet           date_time
+1                 Empoli 2023-02-19 06:00:00
+2 over Fiorentina/Empoli 2023-02-19 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team       | expected_attg| expected_gs|bet |
+|:--------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/281762/pietro-terracciano     |Fiorentina |      0.000000|   0.0588235|    |
+|/players/750734/dodo                   |Fiorentina |      0.014250|   0.0714286|    |
+|/players/766611/nikola-milenkovic      |Fiorentina |      0.048300|   0.1333333|    |
+|/players/768331/igor                   |Fiorentina |      0.008975|   0.3508772|    |
+|/players/239350/cristiano-biraghi      |Fiorentina |      0.085875|   0.1428571|    |
+|/players/577911/rolando-mandragora     |Fiorentina |      0.193575|   0.1538462|    |
+|/players/593116/sofyan-amrabat         |Fiorentina |      0.047825|   0.1111111|    |
+|/players/451966/antonin-barak          |Fiorentina |      0.216850|   0.3508772|    |
+|/players/637745/jonathan-ikon          |Fiorentina |      0.180875|   0.2439024|    |
+|/players/463291/luka-jovic             |Fiorentina |      0.381275|   0.3571429|    |
+|/players/776940/christian-kouam        |Fiorentina |      0.312175|   0.3508772|    |
+|/players/155254/francesco-caputo       |Empoli     |      0.147750|   0.2702703|    |
+|/players/1044029/nicolo-cambiaghi      |Empoli     |      0.222050|   0.1724138|    |
+|/players/1200591/tommaso-baldanzi      |Empoli     |      0.132875|   0.2380952|    |
+|/players/674829/filippo-bandinelli     |Empoli     |      0.052925|   0.1176471|    |
+|/players/574844/razvan-marin           |Empoli     |      0.044300|   0.1176471|    |
+|/players/279879/jean-daniel-akpa-akpro |Empoli     |      0.008975|   0.0833333|    |
+|/players/919671/liberato-cacace        |Empoli     |      0.018425|   0.0909091|    |
+|/players/604330/sebastiano-luperto     |Empoli     |      0.008100|   0.0416667|    |
+|/players/750880/ardian-ismajili        |Empoli     |      0.014475|   0.0416667|    |
+|/players/561844/tyronne-ebuehi         |Empoli     |      0.017725|   0.0416667|    |
+|/players/538501/guglielmo-vicario      |Empoli     |      0.000000|   0.3225806|    |
+|/players/212645/riccardo-saponara      |Fiorentina |      0.069550|   0.2857143|    |
+|/players/688668/josip-brekalo          |Fiorentina |      0.048175|   0.3508772|    |
+|/players/317156/alfred-duncan          |Fiorentina |      0.004275|   0.1428571|    |
+|/players/933817/riccardo-sottil        |Fiorentina |      0.027425|   0.2702703|    |
+|/players/814138/emanuel-vignato        |Empoli     |      0.063150|   0.1333333|    |
+|/players/307235/marko-pjaca            |Empoli     |      0.100450|   0.1724138|    |
+|/players/1017401/roberto-piccoli       |Empoli     |      0.227650|   0.2083333|    |
+|/players/469939/liam-henderson         |Empoli     |      0.007975|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about Fiorentina:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/281762/pietro-terracciano |           0|         36.6290|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/750734/dodo               |           1|         52.2123|           1.3764|        0.1069|         0.5243|      0.0318|        0.0137|      0.0740| 90.0000|
+|/players/766611/nikola-milenkovic  |           1|         58.5529|           1.5205|        0.2930|         0.9374|      0.1071|        0.0528|      0.0216| 90.0000|
+|/players/768331/igor               |           1|         67.5556|           1.6168|        0.0692|         0.3596|      0.0260|        0.0093|      0.0210| 90.0000|
+|/players/239350/cristiano-biraghi  |           1|         58.1261|           1.3193|        0.3895|         1.1867|      0.0936|        0.0951|      0.2088| 90.0000|
+|/players/577911/rolando-mandragora |           3|         45.7008|           2.4459|        0.6783|         2.4842|      0.2586|        0.2375|      0.1448| 90.0000|
+|/players/593116/sofyan-amrabat     |           3|         60.7673|           2.1680|        0.1678|         0.5243|      0.0292|        0.0537|      0.0768| 90.0000|
+|/players/451966/antonin-barak      |           3|         39.5366|           0.9570|        0.5308|         1.3701|      0.2344|        0.2600|      0.1544| 79.9167|
+|/players/637745/jonathan-ikon      |           5|         29.5544|           0.8177|        0.7169|         2.0511|      0.1922|        0.2181|      0.1728| 74.6757|
+|/players/463291/luka-jovic         |           5|         20.7934|           0.4655|        1.0687|         2.9816|      0.4992|        0.5167|      0.0550| 75.3333|
+|/players/776940/christian-kouam    |           5|         28.6640|           1.3753|        0.9760|         2.3368|      0.3508|        0.4044|      0.2360| 80.0909|
+|/players/212645/riccardo-saponara  |          NA|              NA|               NA|        0.2637|         0.6713|      0.0503|        0.0769|      0.0599| 15.3243|
+|/players/688668/josip-brekalo      |          NA|              NA|               NA|        0.1698|         0.3961|      0.0377|        0.0538|      0.0575| 14.6667|
+|/players/317156/alfred-duncan      |          NA|              NA|               NA|        0.0160|         0.0639|      0.0037|        0.0048|      0.0171| 10.0833|
+|/players/933817/riccardo-sottil    |          NA|              NA|               NA|        0.1537|         0.2904|      0.0171|        0.0306|      0.0250|  9.9091|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Vincenzo Italiano |       100573|     0.8829231|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Empoli:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/155254/francesco-caputo       |           5|         15.0898|           0.1072|        0.7493|         1.4128|      0.2117|        0.1706|      0.0381| 82.9043|
+|/players/1044029/nicolo-cambiaghi      |           5|         19.9556|           1.7987|        0.4434|         1.6730|      0.1797|        0.2649|      0.0487| 90.0000|
+|/players/1200591/tommaso-baldanzi      |           3|         20.6549|           0.8025|        0.3777|         1.0223|      0.1294|        0.1513|      0.0817| 65.7273|
+|/players/674829/filippo-bandinelli     |           2|         24.1004|           1.1053|        0.1776|         0.8046|      0.0576|        0.0608|      0.0508| 73.4912|
+|/players/574844/razvan-marin           |           2|         44.8775|           1.3202|        0.2302|         0.6535|      0.0357|        0.0516|      0.0623| 90.0000|
+|/players/279879/jean-daniel-akpa-akpro |           2|         22.3065|           2.0220|        0.1687|         0.5423|      0.0267|        0.0109|      0.0063| 70.3750|
+|/players/919671/liberato-cacace        |           1|         33.9000|           2.3234|        0.1377|         0.4977|      0.0202|        0.0191|      0.0420| 90.0000|
+|/players/604330/sebastiano-luperto     |           1|         37.7701|           1.5424|        0.0617|         0.1671|      0.0102|        0.0083|      0.0082| 90.0000|
+|/players/750880/ardian-ismajili        |           1|         37.1400|           1.5530|        0.0494|         0.2053|      0.0147|        0.0134|      0.0079| 90.0000|
+|/players/561844/tyronne-ebuehi         |           1|         31.5491|           1.6549|        0.0934|         0.3241|      0.0392|        0.0189|      0.0305| 90.0000|
+|/players/538501/guglielmo-vicario      |           0|         29.5511|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/814138/emanuel-vignato        |          NA|              NA|               NA|        0.3382|         0.7779|      0.0593|        0.0659|      0.0731| 24.2727|
+|/players/307235/marko-pjaca            |          NA|              NA|               NA|        0.3878|         0.8725|      0.0910|        0.1135|      0.0231| 19.6250|
+|/players/1017401/roberto-piccoli       |          NA|              NA|               NA|        0.4163|         0.7285|      0.2211|        0.2687|      0.0025| 16.5088|
+|/players/469939/liam-henderson         |          NA|              NA|               NA|        0.0134|         0.0802|      0.0089|        0.0088|      0.0076|  7.0957|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Paolo Zanetti |        50274|     -8.391398|4-3-1-2   |
