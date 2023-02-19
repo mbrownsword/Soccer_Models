@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 18:20:50.047"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Cambuur Leeuwarden 1.1714 to Heerenveen 1.4548"
+[1] "Total: 2.6262"
+[1] "Cambuur Leeuwarden %: 30.62"
+[1] "Draw %: 26.33"
+[1] "Heerenveen %: 43.05"
+[1] "--XG Model--"
+[1] "Score: Cambuur Leeuwarden 1.3074 to Heerenveen 1.5831"
+[1] "Total: 2.8905"
+[1] "Cambuur Leeuwarden %: 31.75"
+[1] "Draw %: 24.72"
+[1] "Heerenveen %: 43.53"
+[1] "--XGoT Model--"
+[1] "Score: Cambuur Leeuwarden 1.3657 to Heerenveen 1.6407"
+[1] "Total: 3.0064"
+[1] "Cambuur Leeuwarden %: 31.72"
+[1] "Draw %: 24.55"
+[1] "Heerenveen %: 43.73"
+[1] "--XA Model--"
+[1] "Score: Cambuur Leeuwarden 1.1834 to Heerenveen 1.5212"
+[1] "Total: 2.7046"
+[1] "Cambuur Leeuwarden %: 30.03"
+[1] "Draw %: 25.86"
+[1] "Heerenveen %: 44.11"
+[1] "--Mean 4 Models--"
+[1] "Cambuur Leeuwarden has a mean win % of 31.03%; a min win % of 30.03%; a max win % of 31.75%."
+[1] "Draw has a mean win % of 25.36%; a min win % of 24.55%; a max win % of 26.33%."
+[1] "Heerenveen has a mean win % of 43.6%; a min win % of 43.05%; a max win of % 44.11%."
+[1] "Cambuur Leeuwarden has a mean win of the Double Chance of 56.39%; a min win % of 55.89%, a max win % of 56.95%."
+[1] "Heerenveen has a mean win of the Double Chance of 68.97%; a min win % of 68.25%, a max win % of 69.97%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.47%; max % is 57.24 and min % is 47.9%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.53%; max % is 52.1 and min % is 42.76%."
+[1] "--Sportsbook Odds--"
+[1] "Cambuur Leeuwarden Barstool Odds are: 33.33"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Heerenveen Barstool Odds are: 44.44"
+[1] "Cambuur Leeuwarden Adjusted Barstool Odds are: 31.22"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.154"
+[1] "Heerenveen Adjusted Barstool Odds are: 41.626"
+[1] "Cambuur Leeuwarden's Barstool Odds to cover the 0.5 spread are: 60.24"
+[1] "Heerenveen's Barstool Odds to cover the -0.5 spread are: 44.44"
+[1] "Barstool's line for the total is 2.5 at 1.96, which is a 51.02% chance of the over 2.5 hitting. The line for the under is 1.85, which is a 54.05% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 03:15:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                    |team               | expected_attg| expected_gs|bet |
+|:-------------------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/118848/robbin-ruiter               |Cambuur Leeuwarden |      0.000000|   0.1666667|    |
+|/players/279861/doke-schmidt                |Cambuur Leeuwarden |      0.018575|   0.0416667|    |
+|/players/873580/marco-tol                   |Cambuur Leeuwarden |      0.019300|   0.0909091|    |
+|/players/1393472/floris-smand               |Cambuur Leeuwarden |      0.017375|   0.0588235|    |
+|/players/1004976/alex-bangura               |Cambuur Leeuwarden |      0.048025|   0.1052632|    |
+|/players/967481/daniel-van-kaam             |Cambuur Leeuwarden |      0.006275|   0.1666667|    |
+|/players/295087/mitchell-paulissen          |Cambuur Leeuwarden |      0.078325|   0.1666667|    |
+|/players/725424/silvester-van-der-water     |Cambuur Leeuwarden |      0.154025|   0.2222222|    |
+|/players/907821/michael-breij               |Cambuur Leeuwarden |      0.137000|   0.2702703|    |
+|/players/230133/navarone-foor               |Cambuur Leeuwarden |      0.141975|   0.1785714|    |
+|/players/561432/bjrn-maars-johnsen          |Cambuur Leeuwarden |      0.211725|   0.2941176|    |
+|/players/949481/sydney-van-hooijdonk        |Heerenveen         |      0.351725|   0.3571429|    |
+|/players/788379/mats-khlert                 |Heerenveen         |      0.078875|   0.1666667|    |
+|/players/792690/simon-olsson                |Heerenveen         |      0.207625|   0.1923077|    |
+|/players/749490/che-nunnely                 |Heerenveen         |      0.283550|   0.2173913|*   |
+|/players/521272/anas-tahiri                 |Heerenveen         |      0.028975|   0.1666667|    |
+|/players/384446/thom-haye                   |Heerenveen         |      0.129500|   0.1428571|    |
+|/players/772083/rami-kaib                   |Heerenveen         |      0.031325|   0.0625000|    |
+|/players/492494/pawel-bochniewicz           |Heerenveen         |      0.057350|   0.1111111|    |
+|/players/184821/jeffrey-bruma               |Heerenveen         |      0.028975|   0.0625000|    |
+|/players/1074750/milan-van-ewijk            |Heerenveen         |      0.031250|   0.1333333|    |
+|/players/562850/xavier-mous                 |Heerenveen         |      0.000000|   0.3571429|    |
+|/players/942354/felix-mambimbi              |Cambuur Leeuwarden |      0.097800|   0.1785714|    |
+|/players/359461/mimoun-mahi                 |Cambuur Leeuwarden |      0.139575|   0.2222222|    |
+|/players/577861/david-sambissa              |Cambuur Leeuwarden |      0.023725|   0.1052632|    |
+|/players/690207/roberts-uldrikis            |Cambuur Leeuwarden |      0.015425|   0.2564103|    |
+|/players/1027551/rami-al-hajj               |Heerenveen         |      0.018150|   0.2083333|    |
+|/players/988160/osame-sahraoui              |Heerenveen         |      0.007350|   0.2777778|    |
+|/players/1127251/antoine-colassin           |Heerenveen         |      0.005375|   0.2702703|    |
+|/players/836685/alexander-timossi-andersson |Heerenveen         |      0.026325|   0.2564103|    |
+____________________________________________________
+
+[1] "Facts about Cambuur Leeuwarden:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/118848/robbin-ruiter           |           0|         31.9850|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/279861/doke-schmidt            |           1|         40.8281|           1.9888|        0.1062|         0.6997|      0.0238|        0.0207|      0.0839| 90.0000|
+|/players/873580/marco-tol               |           1|         48.6925|           1.5495|        0.1454|         0.4636|      0.0440|        0.0232|      0.0204| 90.0000|
+|/players/1393472/floris-smand           |           1|         36.9223|           1.1390|        0.1062|         0.3667|      0.0238|        0.0207|      0.0100| 90.0000|
+|/players/1004976/alex-bangura           |           1|         31.5999|           1.8199|        0.1150|         0.3667|      0.0872|        0.0620|      0.0825| 90.0000|
+|/players/967481/daniel-van-kaam         |           2|         45.2554|           2.7737|        0.0493|         0.6345|      0.0331|        0.0068|      0.0181| 90.0000|
+|/players/295087/mitchell-paulissen      |           2|         37.3425|           2.0275|        0.4127|         1.0300|      0.0825|        0.0938|      0.1090| 90.0000|
+|/players/725424/silvester-van-der-water |           3|         18.0591|           1.4062|        0.3861|         1.0668|      0.1281|        0.1958|      0.1422| 61.7059|
+|/players/907821/michael-breij           |           3|         19.7853|           1.1953|        0.5811|         1.5832|      0.1515|        0.1720|      0.0938| 75.9167|
+|/players/230133/navarone-foor           |           3|         23.7247|           0.6375|        0.4171|         1.1525|      0.1330|        0.1720|      0.0438| 66.6667|
+|/players/561432/bjrn-maars-johnsen      |           5|         15.1703|           0.5013|        0.6862|         1.6403|      0.2443|        0.2776|      0.0469| 72.7273|
+|/players/942354/felix-mambimbi          |          NA|              NA|               NA|        0.2640|         0.7441|      0.1254|        0.1207|      0.0679| 28.2941|
+|/players/359461/mimoun-mahi             |          NA|              NA|               NA|        0.2949|         0.7258|      0.1804|        0.1737|      0.0873| 23.3333|
+|/players/577861/david-sambissa          |          NA|              NA|               NA|        0.1109|         0.2033|      0.0183|        0.0306|      0.0335| 17.2727|
+|/players/690207/roberts-uldrikis        |          NA|              NA|               NA|        0.1798|         0.4494|      0.0552|        0.0190|      0.0117| 14.0833|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Sjors Ultee  |        65272|     -12.53081|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Heerenveen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                    | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/949481/sydney-van-hooijdonk        |           5|         18.1151|           0.5926|        1.0319|         2.3888|      0.4128|        0.4588|      0.0982| 81.5111|
+|/players/788379/mats-khlert                 |           3|         39.1674|           2.2497|        0.5644|         1.8972|      0.1062|        0.0905|      0.1714| 90.0000|
+|/players/792690/simon-olsson                |           3|         36.8960|           1.1788|        0.6752|         1.4840|      0.2078|        0.2558|      0.2219| 81.7714|
+|/players/749490/che-nunnely                 |           3|         19.4658|           1.0024|        0.8372|         2.3289|      0.2901|        0.3576|      0.1303| 81.3478|
+|/players/521272/anas-tahiri                 |           2|         50.1620|           1.4919|        0.1390|         0.1940|      0.0164|        0.0321|      0.0791| 90.0000|
+|/players/384446/thom-haye                   |           2|         55.4616|           3.0200|        0.4458|         1.8668|      0.1775|        0.1542|      0.1260| 90.0000|
+|/players/772083/rami-kaib                   |           1|         38.7823|           1.0714|        0.1754|         0.8216|      0.0527|        0.0331|      0.1172| 80.1429|
+|/players/492494/pawel-bochniewicz           |           1|         61.6913|           1.7425|        0.1602|         0.4912|      0.0960|        0.0640|      0.0309| 90.0000|
+|/players/184821/jeffrey-bruma               |           1|         54.3861|           1.1103|        0.1327|         0.2887|      0.0102|        0.0331|      0.0178| 90.0000|
+|/players/1074750/milan-van-ewijk            |           1|         40.6446|           2.9127|        0.1327|         0.4932|      0.0463|        0.0358|      0.1064| 90.0000|
+|/players/562850/xavier-mous                 |           0|         32.2857|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1027551/rami-al-hajj               |          NA|              NA|               NA|        0.0492|         0.1311|      0.0305|        0.0218|      0.0180|  9.8571|
+|/players/988160/osame-sahraoui              |          NA|              NA|               NA|        0.0472|         0.1729|      0.0197|        0.0082|      0.0143|  8.6522|
+|/players/1127251/antoine-colassin           |          NA|              NA|               NA|        0.0542|         0.2710|      0.0274|        0.0059|      0.0036|  8.4889|
+|/players/836685/alexander-timossi-andersson |          NA|              NA|               NA|        0.0548|         0.1827|      0.0283|        0.0287|      0.0097|  8.2286|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Kees van Wonderen |        49410|       -8.6438|4-2-3-1   |
