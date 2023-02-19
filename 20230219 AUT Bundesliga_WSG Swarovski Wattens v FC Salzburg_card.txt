@@ -1,0 +1,95 @@
+[1] "Updated at 2023-02-18 19:37:53.337"
+[1] "_____________________________________________________________________"
+  bet           date_time
+1     2023-02-19 05:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team                  | expected_attg| expected_gs|bet |
+|:-------------------------------------|:---------------------|-------------:|-----------:|:---|
+|/players/177694/ferdinand-oswald      |WSG Swarovski Wattens |            NA|   0.1538462|NA  |
+|/players/951498/felix-bacher          |WSG Swarovski Wattens |            NA|   0.0384615|NA  |
+|/players/828234/dominik-stumberger    |WSG Swarovski Wattens |            NA|   0.0588235|NA  |
+|/players/276486/kofi-schulz           |WSG Swarovski Wattens |            NA|   0.1176471|NA  |
+|/players/658432/raffael-behounek      |WSG Swarovski Wattens |            NA|   0.0555556|NA  |
+|/players/752559/sandi-ogrinec         |WSG Swarovski Wattens |            NA|   0.2127660|NA  |
+|/players/1168319/zan-rogelj           |WSG Swarovski Wattens |            NA|   0.1250000|NA  |
+|/players/655692/valentino-mller       |WSG Swarovski Wattens |            NA|   0.1176471|NA  |
+|/players/274389/bror-blume            |WSG Swarovski Wattens |            NA|   0.1111111|NA  |
+|/players/956156/tim-prica             |WSG Swarovski Wattens |            NA|   0.2857143|NA  |
+|/players/814457/thomas-sabitzer       |WSG Swarovski Wattens |            NA|   0.2380952|NA  |
+|/players/872934/philipp-khn           |FC Salzburg           |            NA|   0.0454545|NA  |
+|/players/43205/andreas-ulmer          |FC Salzburg           |            NA|   0.1111111|NA  |
+|/players/866708/oumar-solet           |FC Salzburg           |            NA|   0.0909091|NA  |
+|/players/1048023/strahinja-pavlovic   |FC Salzburg           |            NA|   0.1250000|NA  |
+|/players/958010/amar-dedic            |FC Salzburg           |            NA|   0.1886792|NA  |
+|/players/1070404/maurits-kjrgaard     |FC Salzburg           |            NA|   0.2127660|NA  |
+|/players/1018564/nicolas-capaldo      |FC Salzburg           |            NA|   0.2857143|NA  |
+|/players/1024672/nicolas-seiwald      |FC Salzburg           |            NA|   0.1250000|NA  |
+|/players/959597/luka-sucic            |FC Salzburg           |            NA|   0.3030303|NA  |
+|/players/915797/noah-okafor           |FC Salzburg           |            NA|   0.4255319|NA  |
+|/players/1073977/benjamin-sesko       |FC Salzburg           |            NA|   0.3846154|NA  |
+|/players/873836/alexander-ranacher    |WSG Swarovski Wattens |            NA|   0.0909091|NA  |
+|/players/1275650/stefan-skrbo         |WSG Swarovski Wattens |            NA|   0.1666667|NA  |
+|/players/1184073/johannes-naschberger |WSG Swarovski Wattens |            NA|   0.0909091|NA  |
+|/players/1275647/justin-forst         |WSG Swarovski Wattens |            NA|   0.2439024|NA  |
+|/players/882163/chukwubuike-adamu     |FC Salzburg           |            NA|   0.6078431|NA  |
+|/players/1137106/lucas-gourna-douath  |FC Salzburg           |            NA|   0.1052632|NA  |
+|/players/637716/bernardo              |FC Salzburg           |            NA|   0.0769231|NA  |
+|/players/1229526/forson-amankwah      |FC Salzburg           |            NA|   0.2325581|NA  |
+____________________________________________________
+
+[1] "Facts about WSG Swarovski Wattens:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/177694/ferdinand-oswald      |           0|         36.4401|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/951498/felix-bacher          |           1|         31.1317|           1.9147|        0.0805|         0.2580|      0.0142|        0.0059|      0.0101| 90.0000|
+|/players/828234/dominik-stumberger    |           1|         27.9228|           1.5588|        0.0805|         0.3267|      0.0417|        0.0059|      0.0045| 90.0000|
+|/players/276486/kofi-schulz           |           1|         18.0977|           0.9947|        0.3239|         0.7378|      0.1095|        0.1049|      0.0125| 90.0000|
+|/players/658432/raffael-behounek      |           1|         36.2268|           1.1500|        0.1191|         0.4520|      0.0604|        0.0328|      0.0030| 90.0000|
+|/players/752559/sandi-ogrinec         |           3|         20.1240|           1.3120|        0.2397|         1.1876|      0.1565|        0.1830|      0.0323| 72.3333|
+|/players/1168319/zan-rogelj           |           3|         22.2954|           1.0337|        0.2615|         0.6989|      0.0948|        0.1135|      0.0379| 78.9273|
+|/players/655692/valentino-mller       |           3|         37.5758|           2.0045|        0.2397|         0.6875|      0.0886|        0.0892|      0.0139| 78.0000|
+|/players/274389/bror-blume            |           3|         34.6033|           1.6480|        0.3419|         1.2150|      0.1118|        0.0528|      0.0346| 90.0000|
+|/players/956156/tim-prica             |           5|         14.3007|           0.8332|        0.3517|         1.2815|      0.0173|        0.0918|      0.1114| 73.7500|
+|/players/814457/thomas-sabitzer       |           5|         26.5489|           1.6279|        0.6185|         1.2269|      0.0172|        0.0964|      0.0814| 90.0000|
+|/players/873836/alexander-ranacher    |           0|              NA|               NA|        0.0465|         0.1163|      0.0312|        0.0332|      0.0102| 17.6667|
+|/players/1275650/stefan-skrbo         |           0|              NA|               NA|        0.0450|         0.0901|      0.0157|        0.0448|      0.0223| 16.2500|
+|/players/1184073/johannes-naschberger |           0|              NA|               NA|        0.0249|         0.1746|      0.0092|        0.0082|      0.0025| 12.0000|
+|/players/1275647/justin-forst         |           0|              NA|               NA|        0.0479|         0.1677|      0.0084|        0.0199|      0.0084| 11.0727|
+
+
+|manager_name        | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Thomas Silberberger |        31649|     -12.28196|4-4-2     |
+____________________________________________________
+
+[1] "Facts about FC Salzburg:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/872934/philipp-khn          |           0|         23.4938|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/43205/andreas-ulmer         |           1|         46.8894|           1.6073|        0.0765|         0.4092|      0.0119|        0.0022|      0.1365| 90.0000|
+|/players/866708/oumar-solet          |           1|         61.6272|           1.3583|        0.1035|         0.3830|      0.0134|        0.0096|      0.0564| 90.0000|
+|/players/1048023/strahinja-pavlovic  |           1|         56.6478|           2.3622|        0.1464|         0.4916|      0.0240|        0.0116|      0.0336| 90.0000|
+|/players/958010/amar-dedic           |           1|         38.9739|           1.7023|        0.1222|         0.4240|      0.0154|        0.0069|      0.1022| 90.0000|
+|/players/1070404/maurits-kjrgaard    |           2|         38.5785|           1.7974|        0.4477|         1.6720|      0.1680|        0.1974|      0.0843| 77.8571|
+|/players/1018564/nicolas-capaldo     |           2|         46.2064|           2.1457|        0.4647|         1.3452|      0.1542|        0.1797|      0.0669| 90.0000|
+|/players/1024672/nicolas-seiwald     |           2|         66.9832|           2.4735|        0.4366|         0.9783|      0.0739|        0.1020|      0.0900| 90.0000|
+|/players/959597/luka-sucic           |           3|         41.2575|           0.7925|        0.5723|         1.6403|      0.2789|        0.2386|      0.2204| 76.5152|
+|/players/915797/noah-okafor          |           5|         17.0121|           0.5076|        0.8152|         2.1479|      0.3958|        0.4495|      0.1885| 68.2162|
+|/players/1073977/benjamin-sesko      |           5|         19.3676|           0.3434|        1.0139|         2.6806|      0.5114|        0.4682|      0.1533| 72.8000|
+|/players/882163/chukwubuike-adamu    |           0|              NA|               NA|        0.1654|         0.2481|      0.0569|        0.0696|      0.0172| 21.7838|
+|/players/1137106/lucas-gourna-douath |           0|              NA|               NA|        0.0000|         0.0643|      0.0200|        0.0000|      0.0013| 17.2000|
+|/players/637716/bernardo             |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0003| 13.4848|
+|/players/1229526/forson-amankwah     |           0|              NA|               NA|        0.1138|         0.1138|      0.0056|        0.0068|      0.0060| 12.1429|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Matthias Jaissle |        60324|      28.82803|4-3-1-2   |
