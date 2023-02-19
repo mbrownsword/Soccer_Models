@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 15:13:25.751"
+[1] "Updated at 2023-02-18 20:19:20.626"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -53,17 +53,17 @@
 
 |pageUrl2                            |team        | expected_attg| expected_gs|bet |
 |:-----------------------------------|:-----------|-------------:|-----------:|:---|
-|/players/348409/gauthier-gallon     |Troyes      |      0.000000|   0.0434783|    |
+|/players/348409/gauthier-gallon     |Troyes      |      0.000000|   0.0454545|    |
 |/players/1032039/jackson-porozo     |Troyes      |      0.082600|   0.0625000|    |
 |/players/593612/yoann-salmier       |Troyes      |      0.020825|   0.0833333|    |
-|/players/525133/erik-palmer-brown   |Troyes      |      0.002600|   0.0434783|    |
-|/players/1274059/thierno-bald       |Troyes      |      0.010450|   0.0434783|    |
-|/players/971790/lucien-agoume       |Troyes      |      0.012950|   0.0714286|    |
-|/players/632342/jeff-reine-adlaide  |Troyes      |      0.145075|   0.2222222|    |
+|/players/525133/erik-palmer-brown   |Troyes      |      0.002600|   0.0454545|    |
+|/players/1274059/thierno-bald       |Troyes      |      0.010450|   0.0454545|    |
+|/players/971790/lucien-agoume       |Troyes      |      0.012950|   0.0769231|    |
+|/players/632342/jeff-reine-adlaide  |Troyes      |      0.145075|   0.2272727|    |
 |/players/354479/xavier-chavalerin   |Troyes      |      0.158650|   0.2000000|    |
-|/players/1344654/mathis-hamdi       |Troyes      |      0.013100|   0.0434783|    |
+|/players/1344654/mathis-hamdi       |Troyes      |      0.013100|   0.0454545|    |
 |/players/541933/mama-bald           |Troyes      |      0.376300|   0.2941176|*   |
-|/players/435669/rony-lopes          |Troyes      |      0.143950|   0.2439024|    |
+|/players/435669/rony-lopes          |Troyes      |      0.143950|   0.2500000|    |
 |/players/1213430/elye-wahi          |Montpellier |      0.320425|   0.3636364|    |
 |/players/660506/faitout-maouassa    |Montpellier |      0.056675|   0.1428571|    |
 |/players/179515/tji-savanier        |Montpellier |      0.281150|   0.2702703|    |
@@ -75,10 +75,10 @@
 |/players/789318/kiki-kouyat         |Montpellier |      0.040700|   0.1250000|    |
 |/players/643652/falaye-sacko        |Montpellier |      0.018100|   0.0370370|    |
 |/players/210114/benjamin-lecomte    |Montpellier |      0.000000|   0.1176471|    |
-|/players/1077680/papa-ndiaga-yade   |Troyes      |      0.200225|   0.1250000|*   |
+|/players/1077680/papa-ndiaga-yade   |Troyes      |      0.200225|   0.1333333|*   |
 |/players/348420/renaud-ripart       |Troyes      |      0.230475|   0.2564103|    |
-|/players/821101/andreas-bruus       |Troyes      |      0.007125|   0.1250000|    |
-|/players/759823/ike-ugbo            |Troyes      |      0.069850|   0.2631579|    |
+|/players/821101/andreas-bruus       |Troyes      |      0.007125|   0.1333333|    |
+|/players/759823/ike-ugbo            |Troyes      |      0.069850|   0.2702703|    |
 |/players/239259/valre-germain       |Montpellier |      0.176850|   0.3333333|    |
 |/players/166019/wahbi-khazri        |Montpellier |      0.021200|   0.3773585|    |
 |/players/969506/bni-makouana        |Montpellier |      0.007825|   0.1538462|    |
