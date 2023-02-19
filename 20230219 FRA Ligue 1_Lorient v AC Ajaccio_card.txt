@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 15:08:45.437"
+[1] "Updated at 2023-02-18 20:14:43.324"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -58,27 +58,27 @@
 |/players/846392/montassar-talbi       |Lorient    |      0.033375|   0.0952381|    |
 |/players/188467/vincent-le-goff       |Lorient    |      0.037975|   0.0769231|    |
 |/players/699461/jean-victor-makengo   |Lorient    |      0.075850|   0.1333333|    |
-|/players/1049999/enzo-le-fee          |Lorient    |      0.073100|   0.2040816|    |
+|/players/1049999/enzo-le-fee          |Lorient    |      0.073100|   0.2083333|    |
 |/players/904021/romain-faivre         |Lorient    |      0.353350|   0.2564103|*   |
 |/players/955206/julien-ponceau        |Lorient    |      0.053525|   0.1333333|    |
-|/players/1234634/yoann-cathline       |Lorient    |      0.129800|   0.1886792|    |
+|/players/1234634/yoann-cathline       |Lorient    |      0.129800|   0.1923077|    |
 |/players/1230848/ahmadou-bamba-dieng  |Lorient    |      0.367225|   0.3333333|    |
-|/players/179845/romain-hamouma        |AC Ajaccio |      0.228950|   0.2040816|    |
-|/players/949712/moussa-kalilou-djitte |AC Ajaccio |      0.237600|   0.2222222|    |
+|/players/179845/romain-hamouma        |AC Ajaccio |      0.228950|   0.2000000|    |
+|/players/949712/moussa-kalilou-djitte |AC Ajaccio |      0.237600|   0.2173913|    |
 |/players/240725/mickal-barreto        |AC Ajaccio |      0.038350|   0.1428571|    |
-|/players/640292/vincent-marchetti     |AC Ajaccio |      0.066050|   0.0833333|    |
+|/players/640292/vincent-marchetti     |AC Ajaccio |      0.066050|   0.0769231|    |
 |/players/863857/florian-chabrolle     |AC Ajaccio |      0.041650|   0.1052632|    |
 |/players/179823/ryad-nouri            |AC Ajaccio |      0.196850|   0.1923077|    |
 |/players/465965/mickal-alphonse       |AC Ajaccio |      0.043400|   0.0666667|    |
-|/players/46431/cdric-avinel           |AC Ajaccio |      0.060125|   0.0526316|    |
-|/players/771292/oumar-gonzalez        |AC Ajaccio |      0.008725|   0.0909091|    |
+|/players/46431/cdric-avinel           |AC Ajaccio |      0.060125|   0.0500000|    |
+|/players/771292/oumar-gonzalez        |AC Ajaccio |      0.008725|   0.0833333|    |
 |/players/109590/mohamed-youssouf      |AC Ajaccio |      0.008250|   0.0909091|    |
 |/players/181619/benjamin-leroy        |AC Ajaccio |      0.000000|   0.1176471|    |
 |/players/1047664/adil-aouchiche       |Lorient    |      0.047100|   0.2272727|    |
 |/players/928119/ibrahima-kon          |Lorient    |      0.094925|   0.3448276|    |
 |/players/731036/stphane-diarra        |Lorient    |      0.015775|   0.1538462|    |
 |/players/413525/laurent-abergel       |Lorient    |      0.000000|   0.1000000|    |
-|/players/1086018/kevin-spadanuda      |AC Ajaccio |      0.000000|   0.2222222|    |
+|/players/1086018/kevin-spadanuda      |AC Ajaccio |      0.000000|   0.2173913|    |
 |/players/517981/cyrille-bayala        |AC Ajaccio |      0.006425|   0.1538462|    |
 |/players/1243556/jean-botu            |AC Ajaccio |      0.000000|   0.1428571|    |
 |/players/1177753/yanis-cimignani      |AC Ajaccio |      0.000000|   0.0909091|    |
