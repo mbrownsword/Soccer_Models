@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-19 14:20:31.922"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Querétaro 1.379 to Mazatlán FC 1.3226"
+[1] "Total: 2.7016"
+[1] "Querétaro %: 38.93"
+[1] "Draw %: 25.73"
+[1] "Mazatlán FC %: 35.34"
+[1] "--XG Model--"
+[1] "Score: Querétaro 1.0229 to Mazatlán FC 1.1296"
+[1] "Total: 2.1525"
+[1] "Querétaro %: 32.96"
+[1] "Draw %: 29.75"
+[1] "Mazatlán FC %: 37.29"
+[1] "--XGoT Model--"
+[1] "Score: Querétaro 1.4743 to Mazatlán FC 1.4791"
+[1] "Total: 2.9534"
+[1] "Querétaro %: 38.16"
+[1] "Draw %: 24.21"
+[1] "Mazatlán FC %: 37.63"
+[1] "--XA Model--"
+[1] "Score: Querétaro 1.6387 to Mazatlán FC 0.9981"
+[1] "Total: 2.6368"
+[1] "Querétaro %: 53.43"
+[1] "Draw %: 24.22"
+[1] "Mazatlán FC %: 22.35"
+[1] "--Mean 4 Models--"
+[1] "Querétaro has a mean win % of 40.87%; a min win % of 32.96%; a max win % of 53.43%."
+[1] "Draw has a mean win % of 25.98%; a min win % of 24.21%; a max win % of 29.75%."
+[1] "Mazatlán FC has a mean win % of 33.15%; a min win % of 22.35%; a max win of % 37.63%."
+[1] "Querétaro has a mean win of the Double Chance of 66.85%; a min win % of 62.37%, a max win % of 77.65%."
+[1] "Mazatlán FC has a mean win of the Double Chance of 59.13%; a min win % of 46.57%, a max win % of 67.04%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.52%; max % is 55.47 and min % is 36.4%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 52.48%; max % is 63.6 and min % is 44.53%."
+[1] "--Sportsbook Odds--"
+[1] "Querétaro Barstool Odds are: 54.55"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Mazatlán FC Barstool Odds are: 25"
+[1] "Querétaro Adjusted Barstool Odds are: 50.453"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.424"
+[1] "Mazatlán FC Adjusted Barstool Odds are: 23.122"
+[1] "Querétaro's Barstool Odds to cover the -0.5 spread are: 54.35"
+[1] "Mazatlán FC's Barstool Odds to cover the 0.5 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87% chance of the over 2.5 hitting. The line for the under is 1.93, which is a 51.81% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 15:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team         | expected_attg| expected_gs|bet |
+|:----------------------------------|:------------|-------------:|-----------:|:---|
+|/players/610744/gil-alcala         |Querétaro   |      0.000000|   0.1052632|    |
+|/players/675918/kevin-balanta      |Querétaro   |      0.035675|   0.1250000|    |
+|/players/742681/miguel-barbieri    |Querétaro   |      0.032975|   0.1052632|    |
+|/players/559999/omar-mendoza       |Querétaro   |      0.035100|   0.0833333|    |
+|/players/533112/clifford-aboagye   |Querétaro   |      0.079400|   0.1666667|    |
+|/players/610642/kevin-escamilla    |Querétaro   |      0.070025|   0.1250000|    |
+|/players/732548/christian-rivera   |Querétaro   |      0.074275|   0.1000000|    |
+|/players/965120/jonathan-perlaza   |Querétaro   |      0.068750|   0.1428571|    |
+|/players/70865/pablo-barrera       |Querétaro   |      0.164775|   0.2500000|    |
+|/players/1083320/jose-zuniga       |Querétaro   |      0.331700|   0.4444444|    |
+|/players/662089/jonathan-torres    |Querétaro   |      0.154725|   0.4081633|    |
+|/players/658135/nicolas-benedetti  |Mazatlán FC |      0.072350|   0.2325581|    |
+|/players/853997/ake-arnaud-loba    |Mazatlán FC |      0.213350|   0.2857143|    |
+|/players/1341356/andres-montano    |Mazatlán FC |      0.057525|   0.1333333|    |
+|/players/914118/roberto-meraz      |Mazatlán FC |      0.080075|   0.0952381|    |
+|/players/674228/jefferson-intriago |Mazatlán FC |      0.100575|   0.0833333|    |
+|/players/995062/facundo-almada     |Mazatlán FC |      0.003950|   0.1111111|    |
+|/players/693677/francisco-venegas  |Mazatlán FC |      0.004700|   0.1111111|    |
+|/players/1021375/jorge-padilla     |Mazatlán FC |      0.004075|   0.0416667|    |
+|/players/171205/oswaldo-alanis     |Mazatlán FC |      0.084700|   0.1428571|    |
+|/players/996034/raul-sandoval      |Mazatlán FC |      0.002450|   0.0357143|    |
+|/players/56948/nicolas-vikonis     |Mazatlán FC |      0.000000|   0.0370370|    |
+|/players/159848/jorge-hernndez     |Querétaro   |      0.000000|   0.0000000|    |
+|/players/294973/carlos-guzman      |Querétaro   |      0.136150|   0.0000000|*   |
+|/players/1381368/rodrigo-lopez     |Querétaro   |      0.000000|   0.0000000|    |
+|/players/1253932/manuel-duarte     |Querétaro   |      0.000000|   0.0000000|    |
+|/players/111897/marco-fabin        |Mazatlán FC |      0.069600|   0.0000000|*   |
+|/players/658480/bryan-colula       |Mazatlán FC |      0.094025|   0.0000000|*   |
+|/players/571775/alfonso-sanchez    |Mazatlán FC |      0.000000|   0.0000000|    |
+|/players/149584/ariel-nahuelpan    |Mazatlán FC |      0.269650|   0.0000000|*   |
+____________________________________________________
+
+[1] "Facts about Querétaro:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/610744/gil-alcala       |           0|         23.5964|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/675918/kevin-balanta    |           1|         52.6922|           1.0300|        0.1463|         0.3006|      0.0025|        0.0419|      0.0687| 90.0000|
+|/players/742681/miguel-barbieri  |           1|         52.3089|           1.1487|        0.1463|         0.8381|      0.1011|        0.0419|      0.0128| 90.0000|
+|/players/559999/omar-mendoza     |           1|         37.3061|           1.6464|        0.1463|         0.2655|      0.0128|        0.0419|      0.0608| 90.0000|
+|/players/533112/clifford-aboagye |           3|         51.2109|           1.4142|        0.1833|         0.4132|      0.0718|        0.1005|      0.1593| 90.0000|
+|/players/610642/kevin-escamilla  |           3|         30.3526|           1.2973|        0.1751|         0.7502|      0.0635|        0.0889|      0.1408| 79.5600|
+|/players/732548/christian-rivera |           3|         49.6988|           4.7087|        0.1849|         0.5907|      0.0718|        0.1005|      0.1593| 90.0000|
+|/players/965120/jonathan-perlaza |           3|         21.0183|           1.6891|        0.4378|         1.7275|      0.0610|        0.0855|      0.1354| 76.5000|
+|/players/70865/pablo-barrera     |           5|         29.3843|           0.9401|        0.8123|         1.5998|      0.1624|        0.2106|      0.1237| 90.0000|
+|/players/1083320/jose-zuniga     |           5|         10.8594|           0.6222|        1.1508|         2.0920|      0.2776|        0.4855|      0.0866| 63.0000|
+|/players/662089/jonathan-torres  |           5|         25.6111|           0.8162|        1.0765|         2.4294|      0.2507|        0.1934|      0.1136| 82.6452|
+|/players/159848/jorge-hernndez   |           0|              NA|               NA|        0.0000|         0.2595|      0.0043|        0.0000|      0.0130| 27.0000|
+|/players/294973/carlos-guzman    |           0|              NA|               NA|        0.3134|         0.3134|      0.0226|        0.1761|      0.0125| 13.5000|
+|/players/1381368/rodrigo-lopez   |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0905| 10.4400|
+|/players/1253932/manuel-duarte   |           0|              NA|               NA|        0.0000|         0.4502|      0.0133|        0.0000|      0.0273|  7.3548|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mauro Gerk   |        17690|     -10.48611|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Mazatlán FC:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/658135/nicolas-benedetti  |           5|         23.8836|           0.7315|        0.6580|         2.7787|      0.1497|        0.1048|      0.0532| 73.1429|
+|/players/853997/ake-arnaud-loba    |           5|         10.2922|           0.5689|        0.3412|         0.8645|      0.2894|        0.3433|      0.0708| 57.6667|
+|/players/1341356/andres-montano    |           3|         27.1831|           1.5669|        0.1515|         1.8954|      0.2217|        0.0905|      0.1375| 68.5000|
+|/players/914118/roberto-meraz      |           3|         30.6702|           1.8138|        0.1991|         0.5642|      0.0615|        0.1189|      0.0106| 90.0000|
+|/players/674228/jefferson-intriago |           3|         55.3035|           1.8280|        0.5733|         0.7221|      0.0424|        0.1531|      0.0228| 90.0000|
+|/players/995062/facundo-almada     |           1|         42.1120|           1.5058|        0.2074|         0.6235|      0.0988|        0.0055|      0.0206| 90.0000|
+|/players/693677/francisco-venegas  |           1|         47.2218|           2.5261|        0.0480|         1.2552|      0.0526|        0.0055|      0.1084| 90.0000|
+|/players/1021375/jorge-padilla     |           1|         29.8716|           2.5544|        0.0480|         0.6250|      0.0165|        0.0055|      0.0240| 90.0000|
+|/players/171205/oswaldo-alanis     |           1|         50.6458|           1.1485|        0.2512|         0.5315|      0.0452|        0.1286|      0.0509| 90.0000|
+|/players/996034/raul-sandoval      |           1|         18.7630|           0.9087|        0.0332|         0.2150|      0.0023|        0.0038|      0.0063| 62.2500|
+|/players/56948/nicolas-vikonis     |           0|         31.6301|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/111897/marco-fabin        |           0|              NA|               NA|        1.2475|         3.4307|      0.0623|        0.1022|      0.0717| 32.3333|
+|/players/658480/bryan-colula       |           0|              NA|               NA|        0.4247|         1.2741|      0.0535|        0.1461|      0.0851| 27.7500|
+|/players/571775/alfonso-sanchez    |           0|              NA|               NA|        0.3116|         1.2465|      0.0153|        0.0000|      0.0138| 21.5000|
+|/players/149584/ariel-nahuelpan    |           0|              NA|               NA|        0.6384|         1.7024|      0.1973|        0.4504|      0.0183| 16.8571|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Christian Ramirez |         1980|         -2.89|3-5-2     |
