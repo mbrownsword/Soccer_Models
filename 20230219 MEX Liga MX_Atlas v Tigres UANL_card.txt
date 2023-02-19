@@ -1,50 +1,5 @@
-[1] "Updated at 2023-02-18 14:29:44.044"
+[1] "Updated at 2023-02-19 14:16:20.942"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "Score: Atlas 1.1487 to Tigres UANL 1.7595"
-[1] "Total: 2.9082"
-[1] "Atlas %: 24.19"
-[1] "Draw %: 24.18"
-[1] "Tigres UANL %: 51.63"
-[1] "--XG Model--"
-[1] "Score: Atlas 1.5578 to Tigres UANL 1.3264"
-[1] "Total: 2.8842"
-[1] "Atlas %: 43.28"
-[1] "Draw %: 24.48"
-[1] "Tigres UANL %: 32.24"
-[1] "--XGoT Model--"
-[1] "Score: Atlas 1.2566 to Tigres UANL 2.0726"
-[1] "Total: 3.3292"
-[1] "Atlas %: 22.22"
-[1] "Draw %: 21.55"
-[1] "Tigres UANL %: 56.23"
-[1] "--XA Model--"
-[1] "Score: Atlas 1.3436 to Tigres UANL 1.0474"
-[1] "Total: 2.391"
-[1] "Atlas %: 44.3"
-[1] "Draw %: 26.95"
-[1] "Tigres UANL %: 28.75"
-[1] "--Mean 4 Models--"
-[1] "Atlas has a mean win % of 33.5%; a min win % of 22.22%; a max win % of 44.3%."
-[1] "Draw has a mean win % of 24.29%; a min win % of 21.55%; a max win % of 26.95%."
-[1] "Tigres UANL has a mean win % of 42.21%; a min win % of 28.75%; a max win of % 56.23%."
-[1] "Atlas has a mean win of the Double Chance of 57.79%; a min win % of 43.77%, a max win % of 71.25%."
-[1] "Tigres UANL has a mean win of the Double Chance of 66.5%; a min win % of 55.7%, a max win % of 77.78%."
-[1] "The mean likelihood that there are more than 2.5 goals is 54.02%; max % is 64.74 and min % is 41.74%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 45.98%; max % is 58.26 and min % is 35.26%."
-[1] "--Sportsbook Odds--"
-[1] "Atlas Barstool Odds are: 30.3"
-[1] "The Barstool Odds of a Draw are: 30.3"
-[1] "Tigres UANL Barstool Odds are: 46.73"
-[1] "Atlas Adjusted Barstool Odds are: 28.231"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.231"
-[1] "Tigres UANL Adjusted Barstool Odds are: 43.539"
-[1] "Atlas's Barstool Odds to cover the 0.5 spread are: 59.52"
-[1] "Tigres UANL's Barstool Odds to cover the -0.5 spread are: 46.73"
-[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.73, which is a 57.8% chance of the under 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-18 17:05:00
 [1] "____________Anytime Goalscorers______________________"
@@ -52,59 +7,59 @@
 
 |pageUrl2                            |team        | expected_attg| expected_gs|bet |
 |:-----------------------------------|:-----------|-------------:|-----------:|:---|
-|/players/50207/camilo-vargas        |Atlas       |      0.000000|   0.1052632|    |
-|/players/466755/jose-abella         |Atlas       |      0.001200|   0.0400000|    |
-|/players/766849/luis-reyes          |Atlas       |      0.011550|   0.0666667|    |
-|/players/253956/anderson-santamaria |Atlas       |      0.003625|   0.0769231|    |
-|/players/170432/martin-hugo-nervo   |Atlas       |      0.005300|   0.0714286|    |
-|/players/583848/brian-lozano        |Atlas       |      0.099725|   0.2040816|    |
-|/players/1125498/angel-marquez      |Atlas       |      0.017275|   0.0952381|    |
-|/players/418259/aldo-rocha          |Atlas       |      0.033900|   0.1333333|    |
-|/players/766852/edgar-zaldivar      |Atlas       |      0.017100|   0.0588235|    |
-|/players/211074/julio-cesar-furch   |Atlas       |      0.401550|   0.2941176|*   |
-|/players/720560/julian-quinones     |Atlas       |      0.414525|   0.2564103|*   |
-|/players/193993/nahuel-guzman       |Tigres UANL |      0.000000|   0.2325581|    |
-|/players/298327/igor-lichnovsky     |Tigres UANL |      0.079400|   0.0666667|    |
-|/players/453324/samir               |Tigres UANL |      0.123200|   0.0909091|    |
-|/players/172324/javier-aquino       |Tigres UANL |      0.045525|   0.1851852|    |
-|/players/882469/jesus-angulo        |Tigres UANL |      0.016275|   0.0833333|    |
-|/players/127373/rafael-carioca      |Tigres UANL |      0.043175|   0.0666667|    |
-|/players/188116/guido-pizarro       |Tigres UANL |      0.120325|   0.0476190|*   |
-|/players/495198/fernando-gorriaran  |Tigres UANL |      0.165575|   0.2127660|    |
-|/players/425810/luis-quinones       |Tigres UANL |      0.062300|   0.2222222|    |
-|/players/38098/andre-pierre-gignac  |Tigres UANL |      0.284700|   0.4878049|    |
-|/players/996018/nicols-ibánez       |Tigres UANL |      0.324450|   0.3636364|    |
-|/players/951735/christopher-trejo   |Atlas       |      0.003350|   0.2040816|    |
-|/players/766850/diego-barbosa       |Atlas       |      0.001050|   0.0666667|    |
-|/players/959832/jesus-ocejo         |Atlas       |      0.000000|   0.2325581|    |
-|/players/497034/anibal-chal         |Atlas       |      0.004575|   0.0714286|    |
-|/players/828972/diego-lainez        |Tigres UANL |      0.017975|   0.1538462|    |
-|/players/350153/juan-pablo-vigon    |Tigres UANL |      0.004150|   0.0526316|    |
-|/players/362194/nicolas-lopez       |Tigres UANL |      0.000000|   0.3389831|    |
-|/players/862169/eduardo-tercero     |Tigres UANL |      0.002350|   0.0476190|    |
+|/players/50207/camilo-vargas        |Atlas       |            NA|   0.1052632|NA  |
+|/players/253956/anderson-santamaria |Atlas       |            NA|   0.1333333|NA  |
+|/players/170432/martin-hugo-nervo   |Atlas       |            NA|   0.2222222|NA  |
+|/players/721448/gaddi-aguirre       |Atlas       |            NA|   0.1176471|NA  |
+|/players/466755/jose-abella         |Atlas       |            NA|   0.0952381|NA  |
+|/players/583848/brian-lozano        |Atlas       |            NA|   0.3921569|NA  |
+|/players/418259/aldo-rocha          |Atlas       |            NA|   0.1333333|NA  |
+|/players/766849/luis-reyes          |Atlas       |            NA|   0.1052632|NA  |
+|/players/1044928/jaziel-martinez    |Atlas       |            NA|   0.0714286|NA  |
+|/players/211074/julio-cesar-furch   |Atlas       |            NA|   0.3703704|NA  |
+|/players/720560/julian-quinones     |Atlas       |            NA|   0.3921569|NA  |
+|/players/996018/nicols-ibánez       |Tigres UANL |            NA|   0.0370370|NA  |
+|/players/425810/luis-quinones       |Tigres UANL |            NA|   0.1052632|NA  |
+|/players/915602/francisco-cordova   |Tigres UANL |            NA|   0.0714286|NA  |
+|/players/495198/fernando-gorriaran  |Tigres UANL |            NA|   0.1960784|NA  |
+|/players/188116/guido-pizarro       |Tigres UANL |            NA|   0.2127660|NA  |
+|/players/127373/rafael-carioca      |Tigres UANL |            NA|   0.4444444|NA  |
+|/players/882469/jesus-angulo        |Tigres UANL |            NA|   0.0434783|NA  |
+|/players/453324/samir               |Tigres UANL |            NA|   0.0370370|NA  |
+|/players/298327/igor-lichnovsky     |Tigres UANL |            NA|   0.2439024|NA  |
+|/players/172324/javier-aquino       |Tigres UANL |            NA|   0.3703704|NA  |
+|/players/193993/nahuel-guzman       |Tigres UANL |            NA|   0.1000000|NA  |
+|/players/951735/christopher-trejo   |Atlas       |            NA|   0.0000000|NA  |
+|/players/959832/jesus-ocejo         |Atlas       |            NA|   0.0000000|NA  |
+|/players/766852/edgar-zaldivar      |Atlas       |            NA|   0.0000000|NA  |
+|/players/497034/anibal-chal         |Atlas       |            NA|   0.0000000|NA  |
+|/players/828972/diego-lainez        |Tigres UANL |            NA|   0.0000000|NA  |
+|/players/952904/raymundo-fulgencio  |Tigres UANL |            NA|   0.0000000|NA  |
+|/players/350153/juan-pablo-vigon    |Tigres UANL |            NA|   0.0000000|NA  |
+|/players/1075104/jesus-garza        |Tigres UANL |            NA|   0.0000000|NA  |
 ____________________________________________________
 
 [1] "Facts about Atlas:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/50207/camilo-vargas        |           0|         33.4696|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/466755/jose-abella         |           1|         41.8625|           1.0123|        0.0605|         0.3372|      0.0309|        0.0016|      0.0699| 90.0000|
-|/players/766849/luis-reyes          |           1|         40.3499|           0.7320|        0.1562|         0.9589|      0.1389|        0.0118|      0.1215| 90.0000|
-|/players/253956/anderson-santamaria |           1|         44.1486|           0.9237|        0.0951|         0.5094|      0.0844|        0.0049|      0.0194| 90.0000|
-|/players/170432/martin-hugo-nervo   |           1|         47.0457|           0.1993|        0.0443|         0.3522|      0.0563|        0.0046|      0.0099| 90.0000|
-|/players/583848/brian-lozano        |           3|         28.2622|           1.1788|        0.9187|         2.8701|      0.1729|        0.1108|      0.2262| 79.1176|
-|/players/1125498/angel-marquez      |           3|         33.1948|           1.5687|        0.1783|         1.1585|      0.0400|        0.0174|      0.0735| 78.3288|
-|/players/418259/aldo-rocha          |           3|         51.1619|           2.4625|        0.2305|         0.8778|      0.0818|        0.0368|      0.0782| 90.0000|
-|/players/766852/edgar-zaldivar      |           3|         34.6673|           2.0449|        0.1653|         0.4905|      0.0369|        0.0172|      0.0497| 82.1190|
-|/players/211074/julio-cesar-furch   |           5|         21.7078|           1.2665|        0.7195|         1.9460|      0.4180|        0.5303|      0.0679| 82.7000|
-|/players/720560/julian-quinones     |           5|         26.6884|           2.9113|        1.1226|         3.0847|      0.4575|        0.5427|      0.0921| 90.0000|
-|/players/951735/christopher-trejo   |           0|              NA|               NA|        0.0435|         0.2612|      0.0247|        0.0029|      0.0127| 11.6712|
-|/players/766850/diego-barbosa       |           0|              NA|               NA|        0.0427|         0.1707|      0.0063|        0.0012|      0.0034| 10.8824|
-|/players/959832/jesus-ocejo         |           0|              NA|               NA|        0.0273|         0.3816|      0.0256|        0.0000|      0.0142|  7.8810|
-|/players/497034/anibal-chal         |           0|              NA|               NA|        0.0586|         0.1466|      0.0136|        0.0044|      0.0056|  7.3000|
+|/players/50207/camilo-vargas        |           0|         31.3977|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/253956/anderson-santamaria |           1|         44.0429|           1.8717|        0.1690|         0.4425|      0.0424|        0.0325|      0.0499| 90.0000|
+|/players/170432/martin-hugo-nervo   |           1|         46.6929|           0.4620|        0.0705|         0.3431|      0.0402|        0.0605|      0.0271| 90.0000|
+|/players/721448/gaddi-aguirre       |           1|         42.8872|           1.2078|        0.2649|         1.0113|      0.0988|        0.0751|      0.0134| 79.4545|
+|/players/466755/jose-abella         |           3|         30.8906|           2.2250|        0.1274|         0.5682|      0.0347|        0.0145|      0.0551| 90.0000|
+|/players/583848/brian-lozano        |           3|         31.2897|           1.2788|        0.5082|         1.8660|      0.1824|        0.1757|      0.1540| 78.8235|
+|/players/418259/aldo-rocha          |           3|         53.4318|           1.7923|        0.1274|         0.6282|      0.0263|        0.0145|      0.0471| 90.0000|
+|/players/766849/luis-reyes          |           3|         32.3315|           2.0314|        0.2379|         0.8300|      0.0261|        0.0820|      0.0970| 90.0000|
+|/players/1044928/jaziel-martinez    |           4|         30.6714|           1.2291|        0.5884|         1.6425|      0.1527|        0.1315|      0.1143| 79.0000|
+|/players/211074/julio-cesar-furch   |           5|         19.4805|           0.3766|        0.7680|         2.2800|      0.3717|        0.3146|      0.0782| 82.9000|
+|/players/720560/julian-quinones     |           5|         25.0971|           0.7019|        1.2525|         3.1946|      0.3902|        0.3990|      0.0999| 90.0000|
+|/players/951735/christopher-trejo   |           0|              NA|               NA|        0.0744|         0.2231|      0.0394|        0.0271|      0.0072| 11.1765|
+|/players/959832/jesus-ocejo         |           0|              NA|               NA|        0.0875|         0.3499|      0.0365|        0.0160|      0.0121| 11.0000|
+|/players/766852/edgar-zaldivar      |           0|              NA|               NA|        0.0641|         0.1069|      0.0304|        0.0349|      0.0046| 10.5455|
+|/players/497034/anibal-chal         |           0|              NA|               NA|        0.0000|         0.0683|      0.0049|        0.0000|      0.0027|  7.1000|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +68,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Tigres UANL:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/193993/nahuel-guzman      |           0|         22.4813|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/298327/igor-lichnovsky    |           1|         46.4589|           1.0913|        0.1998|         0.6432|      0.0801|        0.1182|      0.0158| 90.0000|
-|/players/453324/samir              |           1|         44.5466|           1.3293|        0.3737|         0.7428|      0.1294|        0.1954|      0.0132| 90.0000|
-|/players/172324/javier-aquino      |           1|         46.0053|           2.3538|        0.3430|         0.7748|      0.0350|        0.0697|      0.0621| 85.4902|
-|/players/882469/jesus-angulo       |           1|         42.3778|           1.9548|        0.1077|         0.4671|      0.0262|        0.0245|      0.0539| 90.0000|
-|/players/127373/rafael-carioca     |           2|         45.3702|           1.5033|        0.2838|         1.0632|      0.0253|        0.0666|      0.1067| 80.6250|
-|/players/188116/guido-pizarro      |           2|         45.2194|           3.6673|        0.3269|         0.7655|      0.1027|        0.1905|      0.0156| 90.0000|
-|/players/495198/fernando-gorriaran |           3|         28.3015|           1.5892|        0.9684|         1.9314|      0.2197|        0.2681|      0.1463| 86.4744|
-|/players/425810/luis-quinones      |           5|         28.7831|           2.1811|        0.4026|         0.9025|      0.0826|        0.0965|      0.1068| 81.7353|
-|/players/38098/andre-pierre-gignac |           5|         18.8631|           0.1308|        1.6275|         3.2012|      0.2959|        0.4961|      0.0358| 90.0000|
-|/players/996018/nicols-ibánez      |           5|         14.6728|           0.6970|        1.2221|         2.3443|      0.3240|        0.5751|      0.0209| 90.0000|
-|/players/828972/diego-lainez       |           0|              NA|               NA|        0.1070|         0.3478|      0.0373|        0.0269|      0.0308|  9.3750|
-|/players/350153/juan-pablo-vigon   |           0|              NA|               NA|        0.0406|         0.2028|      0.0101|        0.0061|      0.0016|  8.2647|
-|/players/362194/nicolas-lopez      |           0|              NA|               NA|        0.0000|         0.1953|      0.0169|        0.0000|      0.0229|  4.5098|
-|/players/862169/eduardo-tercero    |           0|              NA|               NA|        0.0210|         0.0421|      0.0055|        0.0030|      0.0006|  3.5256|
+|/players/996018/nicols-ibánez      |           5|         20.1884|           0.5934|        1.1143|         2.3701|      0.3458|        0.4413|      0.0774| 90.0000|
+|/players/425810/luis-quinones      |           3|         25.9285|           1.7767|        0.5698|         1.5711|      0.1127|        0.1411|      0.1461| 82.8800|
+|/players/915602/francisco-cordova  |           3|         20.9000|           1.1082|        0.9621|         2.0927|      0.1973|        0.2632|      0.1152| 79.7714|
+|/players/495198/fernando-gorriaran |           3|         34.9849|           1.1854|        0.5453|         1.3409|      0.2485|        0.2537|      0.0577| 85.1842|
+|/players/188116/guido-pizarro      |           2|         46.2998|           2.6256|        0.1544|         0.3804|      0.1403|        0.1436|      0.0078| 90.0000|
+|/players/127373/rafael-carioca     |           2|         36.3987|           1.7226|        0.3545|         1.3103|      0.0222|        0.0472|      0.0995| 71.1667|
+|/players/882469/jesus-angulo       |           1|         42.4034|           2.2290|        0.0279|         0.3545|      0.0141|        0.0029|      0.0640| 90.0000|
+|/players/453324/samir              |           1|         44.1417|           1.3467|        0.2073|         0.4759|      0.0839|        0.0947|      0.0337| 90.0000|
+|/players/298327/igor-lichnovsky    |           1|         46.9840|           1.2735|        0.1199|         0.3549|      0.0148|        0.0081|      0.0283| 90.0000|
+|/players/172324/javier-aquino      |           1|         48.1205|           2.3944|        0.2073|         0.6572|      0.0272|        0.0262|      0.0887| 90.0000|
+|/players/193993/nahuel-guzman      |           0|         28.9332|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/828972/diego-lainez       |           0|              NA|               NA|        0.2042|         0.4960|      0.0477|        0.0336|      0.0380| 18.8333|
+|/players/952904/raymundo-fulgencio |           0|              NA|               NA|        0.0000|         0.0291|      0.0079|        0.0000|      0.0141| 10.2286|
+|/players/350153/juan-pablo-vigon   |           0|              NA|               NA|        0.0557|         0.1670|      0.0098|        0.0065|      0.0018|  7.1200|
+|/players/1075104/jesus-garza       |           0|              NA|               NA|        0.0000|         0.0488|      0.0018|        0.0000|      0.0000|  4.8158|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
