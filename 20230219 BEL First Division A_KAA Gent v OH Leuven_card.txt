@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 18:43:43.583"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: KAA Gent 2.0284 to OH Leuven 1.0832"
+[1] "Total: 3.1116"
+[1] "KAA Gent %: 58.84"
+[1] "Draw %: 21.35"
+[1] "OH Leuven %: 19.81"
+[1] "--XG Model--"
+[1] "Score: KAA Gent 1.9121 to OH Leuven 0.9181"
+[1] "Total: 2.8302"
+[1] "KAA Gent %: 60.93"
+[1] "Draw %: 22.03"
+[1] "OH Leuven %: 17.04"
+[1] "--XGoT Model--"
+[1] "Score: KAA Gent 1.9751 to OH Leuven 1.047"
+[1] "Total: 3.0221"
+[1] "KAA Gent %: 58.91"
+[1] "Draw %: 21.38"
+[1] "OH Leuven %: 19.71"
+[1] "--XA Model--"
+[1] "Score: KAA Gent 1.8915 to OH Leuven 1.0087"
+[1] "Total: 2.9002"
+[1] "KAA Gent %: 58.34"
+[1] "Draw %: 21.86"
+[1] "OH Leuven %: 19.8"
+[1] "--Mean 4 Models--"
+[1] "KAA Gent has a mean win % of 59.26%; a min win % of 58.34%; a max win % of 60.93%."
+[1] "Draw has a mean win % of 21.65%; a min win % of 21.35%; a max win % of 22.03%."
+[1] "OH Leuven has a mean win % of 19.09%; a min win % of 17.04%; a max win of % 19.81%."
+[1] "KAA Gent has a mean win of the Double Chance of 80.91%; a min win % of 80.19%, a max win % of 82.96%."
+[1] "OH Leuven has a mean win of the Double Chance of 40.74%; a min win % of 39.07%, a max win % of 41.66%."
+[1] "The mean likelihood that there are more than 2.5 goals is 56.47%; max % is 60.11 and min % is 53.34%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 43.53%; max % is 46.66 and min % is 39.89%."
+[1] "--Sportsbook Odds--"
+[1] "KAA Gent Barstool Odds are: 61.9"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "OH Leuven Barstool Odds are: 20.83"
+[1] "KAA Gent Adjusted Barstool Odds are: 57.458"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.206"
+[1] "OH Leuven Adjusted Barstool Odds are: 19.335"
+[1] "KAA Gent's Barstool Odds to cover the -0.5 spread are: 61.35"
+[1] "OH Leuven's Barstool Odds to cover the 0.5 spread are: 42.92"
+[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.12, which is a 47.17% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team      | expected_attg| expected_gs|bet |
+|:--------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/245599/davy-roef              |KAA Gent  |      0.000000|   0.1694915|    |
+|/players/700074/jordan-torunarigha     |KAA Gent  |      0.074850|   0.1111111|    |
+|/players/726442/joseph-okumu           |KAA Gent  |      0.026075|   0.0476190|    |
+|/players/560772/michael-ngadeu-ngadjui |KAA Gent  |      0.055575|   0.1428571|    |
+|/players/470806/nurio                  |KAA Gent  |      0.122825|   0.0952381|    |
+|/players/482397/julien-de-sart         |KAA Gent  |      0.131925|   0.1960784|    |
+|/players/748620/alessio-castro-montes  |KAA Gent  |      0.163100|   0.1785714|    |
+|/players/40521/sven-kums               |KAA Gent  |      0.040650|   0.1818182|    |
+|/players/925345/hyun-seok-hong         |KAA Gent  |      0.177425|   0.3333333|    |
+|/players/282671/laurent-depoitre       |KAA Gent  |      0.373325|   0.3846154|    |
+|/players/737974/hugo-cuypers           |KAA Gent  |      0.365175|   0.4878049|    |
+|/players/289211/valentin-cojocaru      |OH Leuven |      0.000000|   0.1333333|    |
+|/players/522203/federico-ricca         |OH Leuven |      0.004700|   0.0526316|    |
+|/players/1178319/louis-patris          |OH Leuven |      0.025050|   0.0666667|    |
+|/players/965823/ewoud-pletinckx        |OH Leuven |      0.003700|   0.0434783|    |
+|/players/873236/jon-thorsteinsson      |OH Leuven |      0.074325|   0.1923077|    |
+|/players/552035/kristiyan-malinov      |OH Leuven |      0.003550|   0.0833333|    |
+|/players/813055/musa-al-taamari        |OH Leuven |      0.061300|   0.1666667|    |
+|/players/688991/casper-de-norre        |OH Leuven |      0.016575|   0.1111111|    |
+|/players/1385771/nachon-nsingi         |OH Leuven |      0.167725|   0.2439024|    |
+|/players/497572/mathieu-maertens       |OH Leuven |      0.111150|   0.1250000|    |
+|/players/675095/mario-gonzalez         |OH Leuven |      0.259600|   0.3333333|    |
+|/players/741397/jens-petter-hauge      |KAA Gent  |      0.005275|   0.3448276|    |
+|/players/346111/bruno-godeau           |KAA Gent  |      0.000000|   0.0625000|    |
+|/players/362674/andrew-hjulsager       |KAA Gent  |      0.032550|   0.3225806|    |
+|/players/926409/anderson-niangbo       |KAA Gent  |      0.042025|   0.3125000|    |
+|/players/814139/sofian-kiyine          |OH Leuven |      0.011425|   0.1851852|    |
+|/players/939779/mai-traore             |OH Leuven |      0.114900|   0.2777778|    |
+|/players/166681/joren-dom              |OH Leuven |      0.028225|   0.1111111|    |
+|/players/659998/thibault-vlietinck     |OH Leuven |      0.000000|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about KAA Gent:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/245599/davy-roef              |           0|         25.3468|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/700074/jordan-torunarigha     |           1|         56.8599|           1.4826|        0.1777|         0.4750|      0.0530|        0.0774|      0.0429| 90.0000|
+|/players/726442/joseph-okumu           |           1|         63.6897|           1.9401|        0.1214|         0.6687|      0.0984|        0.0252|      0.0502| 90.0000|
+|/players/560772/michael-ngadeu-ngadjui |           1|         59.7594|           1.3936|        0.1646|         0.7112|      0.0695|        0.0592|      0.0303| 90.0000|
+|/players/470806/nurio                  |           3|         27.6138|           1.8254|        0.4046|         0.9929|      0.0994|        0.1358|      0.1063| 80.3333|
+|/players/482397/julien-de-sart         |           3|         54.6093|           2.8066|        0.7293|         2.0367|      0.1308|        0.1447|      0.0841| 90.0000|
+|/players/748620/alessio-castro-montes  |           3|         37.9109|           2.2852|        0.5533|         1.0634|      0.1216|        0.1807|      0.1565| 82.1912|
+|/players/40521/sven-kums               |           3|         63.7460|           1.4673|        0.2267|         0.8440|      0.0802|        0.0449|      0.1658| 90.0000|
+|/players/925345/hyun-seok-hong         |           4|         34.8022|           1.6165|        0.5665|         1.7896|      0.2387|        0.1910|      0.1964| 79.2000|
+|/players/282671/laurent-depoitre       |           5|         21.5967|           0.5300|        1.1063|         2.8268|      0.4196|        0.4627|      0.1469| 80.4912|
+|/players/737974/hugo-cuypers           |           5|         25.5308|           1.2601|        1.4462|         3.5599|      0.4415|        0.4557|      0.1491| 90.0000|
+|/players/741397/jens-petter-hauge      |           0|              NA|               NA|        0.1032|         0.2837|      0.0149|        0.0055|      0.0333| 10.8000|
+|/players/346111/bruno-godeau           |           0|              NA|               NA|        0.0000|         0.0392|      0.0007|        0.0000|      0.0035|  9.6667|
+|/players/362674/andrew-hjulsager       |           0|              NA|               NA|        0.1934|         0.2708|      0.0146|        0.0335|      0.0270|  9.5088|
+|/players/926409/anderson-niangbo       |           0|              NA|               NA|        0.2814|         0.2814|      0.0149|        0.0442|      0.0403|  7.8088|
+
+
+|manager_name        | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Hein Vanhaezebrouck |        89654|      11.12736|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about OH Leuven:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/289211/valentin-cojocaru  |           0|         32.4209|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/522203/federico-ricca     |           1|         50.4758|           0.9771|        0.0373|         0.3572|      0.0190|        0.0067|      0.0139| 90.0000|
+|/players/1178319/louis-patris      |           1|         32.7435|           2.5342|        0.0849|         0.4026|      0.0356|        0.0294|      0.0193| 90.0000|
+|/players/965823/ewoud-pletinckx    |           1|         38.7641|           1.4440|        0.0072|         0.2067|      0.0123|        0.0041|      0.0072| 90.0000|
+|/players/873236/jon-thorsteinsson  |           3|         20.2524|           1.6205|        0.1769|         0.7737|      0.0795|        0.0866|      0.0949| 70.6667|
+|/players/552035/kristiyan-malinov  |           3|         32.0679|           2.6469|        0.0229|         0.1362|      0.0120|        0.0047|      0.0160| 78.3621|
+|/players/813055/musa-al-taamari    |           3|         31.9685|           1.9071|        0.4030|         0.9816|      0.0621|        0.0704|      0.0585| 90.0000|
+|/players/688991/casper-de-norre    |           3|         47.2447|           2.1786|        0.1205|         0.3953|      0.0299|        0.0193|      0.0506| 90.0000|
+|/players/1385771/nachon-nsingi     |           5|         11.4318|           0.8710|        0.5215|         1.1878|      0.1097|        0.2175|      0.0092| 73.1818|
+|/players/497572/mathieu-maertens   |           5|         39.1217|           1.2953|        0.6786|         1.7311|      0.1429|        0.1358|      0.1207| 90.0000|
+|/players/675095/mario-gonzalez     |           5|         18.6504|           0.2428|        0.6708|         1.6718|      0.2600|        0.3416|      0.0772| 78.0806|
+|/players/814139/sofian-kiyine      |           0|              NA|               NA|        0.2322|         0.4644|      0.0143|        0.0147|      0.0418| 19.3333|
+|/players/939779/mai-traore         |           0|              NA|               NA|        0.4009|         1.2027|      0.1537|        0.1426|      0.0104| 16.8182|
+|/players/166681/joren-dom          |           0|              NA|               NA|        0.1692|         0.2538|      0.0319|        0.0343|      0.0220| 11.9194|
+|/players/659998/thibault-vlietinck |           0|              NA|               NA|        0.0000|         0.3657|      0.0161|        0.0000|      0.0037| 11.6379|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Marc Brys    |        86929|     -6.228636|3-4-3     |
