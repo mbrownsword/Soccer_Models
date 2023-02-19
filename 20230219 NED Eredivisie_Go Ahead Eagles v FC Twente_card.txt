@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 19:20:59.447"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Go Ahead Eagles 0.8804 to FC Twente 1.5013"
+[1] "Total: 2.3817"
+[1] "Go Ahead Eagles %: 22.21"
+[1] "Draw %: 26.02"
+[1] "FC Twente %: 51.77"
+[1] "--XG Model--"
+[1] "Score: Go Ahead Eagles 0.9683 to FC Twente 1.6814"
+[1] "Total: 2.6497"
+[1] "Go Ahead Eagles %: 22.02"
+[1] "Draw %: 24.85"
+[1] "FC Twente %: 53.13"
+[1] "--XGoT Model--"
+[1] "Score: Go Ahead Eagles 0.9852 to FC Twente 1.773"
+[1] "Total: 2.7582"
+[1] "Go Ahead Eagles %: 20.75"
+[1] "Draw %: 23.88"
+[1] "FC Twente %: 55.37"
+[1] "--XA Model--"
+[1] "Score: Go Ahead Eagles 0.9109 to FC Twente 1.5818"
+[1] "Total: 2.4927"
+[1] "Go Ahead Eagles %: 22.06"
+[1] "Draw %: 25.11"
+[1] "FC Twente %: 52.83"
+[1] "--Mean 4 Models--"
+[1] "Go Ahead Eagles has a mean win % of 21.76%; a min win % of 20.75%; a max win % of 22.21%."
+[1] "Draw has a mean win % of 24.96%; a min win % of 23.88%; a max win % of 26.02%."
+[1] "FC Twente has a mean win % of 53.28%; a min win % of 51.77%; a max win of % 55.37%."
+[1] "Go Ahead Eagles has a mean win of the Double Chance of 46.73%; a min win % of 44.63%, a max win % of 48.23%."
+[1] "FC Twente has a mean win of the Double Chance of 78.24%; a min win % of 77.79%, a max win % of 79.25%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.84%; max % is 51.04 and min % is 42.27%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.17%; max % is 57.73 and min % is 48.96%."
+[1] "--Sportsbook Odds--"
+[1] "Go Ahead Eagles Barstool Odds are: 26.32"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "FC Twente Barstool Odds are: 52.38"
+[1] "Go Ahead Eagles Adjusted Barstool Odds are: 24.536"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.634"
+[1] "FC Twente Adjusted Barstool Odds are: 48.83"
+[1] "Go Ahead Eagles's Barstool Odds to cover the 0.5 spread are: 53.19"
+[1] "FC Twente's Barstool Odds to cover the -0.5 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.85, which is a 54.05% chance of the over 2.5 hitting. The line for the under is 1.95, which is a 51.28% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 05:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team            | expected_attg| expected_gs|bet |
+|:-------------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/687868/jeffrey-de-lange      |Go Ahead Eagles |      0.000000|   0.0625000|    |
+|/players/937412/jay-idzes             |Go Ahead Eagles |      0.013575|   0.0526316|    |
+|/players/1069658/jamal-amofa          |Go Ahead Eagles |      0.017425|   0.0370370|    |
+|/players/664562/gerrit-nauber         |Go Ahead Eagles |      0.067575|   0.0833333|    |
+|/players/630494/mats-deijl            |Go Ahead Eagles |      0.082575|   0.0909091|    |
+|/players/583138/philippe-rommens      |Go Ahead Eagles |      0.051275|   0.1538462|    |
+|/players/1178438/xander-blomme        |Go Ahead Eagles |      0.018525|   0.0833333|    |
+|/players/1203189/fredrik-oppegrd      |Go Ahead Eagles |      0.022050|   0.0625000|    |
+|/players/1072516/bobby-adekanye       |Go Ahead Eagles |      0.051125|   0.2564103|    |
+|/players/655095/isac-lidberg          |Go Ahead Eagles |      0.152000|   0.2500000|    |
+|/players/495970/finn-stokkers         |Go Ahead Eagles |      0.208500|   0.2380952|    |
+|/players/116750/ricky-van-wolfswinkel |FC Twente       |      0.343600|   0.4255319|    |
+|/players/253120/virgil-misidjan       |FC Twente       |      0.149375|   0.2500000|    |
+|/players/947898/sem-steijn            |FC Twente       |      0.261450|   0.2500000|    |
+|/players/623540/vclav-cerny           |FC Twente       |      0.183300|   0.2500000|    |
+|/players/1074967/ramiz-zerrouki       |FC Twente       |      0.095725|   0.1333333|    |
+|/players/1050838/anass-salah-eddine   |FC Twente       |      0.092750|   0.0769231|    |
+|/players/883503/gijs-smal             |FC Twente       |      0.022650|   0.1428571|    |
+|/players/298933/robin-propper         |FC Twente       |      0.016075|   0.1666667|    |
+|/players/1192130/mees-hilgers         |FC Twente       |      0.011200|   0.0666667|    |
+|/players/389845/joshua-brenet         |FC Twente       |      0.059075|   0.1538462|    |
+|/players/210822/lars-unnerstall       |FC Twente       |      0.000000|   0.0526316|    |
+|/players/775672/sylla-sow             |Go Ahead Eagles |      0.149550|   0.2000000|    |
+|/players/935623/evert-linthorst       |Go Ahead Eagles |      0.000000|   0.1333333|    |
+|/players/1160390/jose-fontn           |Go Ahead Eagles |      0.000000|   0.0625000|    |
+|/players/528439/federico-mattiello    |Go Ahead Eagles |      0.000000|   0.0454545|    |
+|/players/1016738/manfred-ugalde       |FC Twente       |      0.121400|   0.3508772|    |
+|/players/759592/julio-pleguezuelo     |FC Twente       |      0.001025|   0.2083333|    |
+|/players/1203490/daan-rots            |FC Twente       |      0.000000|   0.2380952|    |
+|/players/662735/michel-vlap           |FC Twente       |      0.008300|   0.3508772|    |
+____________________________________________________
+
+[1] "Facts about Go Ahead Eagles:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/687868/jeffrey-de-lange   |           0|         32.7589|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/937412/jay-idzes          |           1|         42.0560|           0.8093|        0.1793|         0.6337|      0.0635|        0.0205|      0.0297| 90.0000|
+|/players/1069658/jamal-amofa       |           1|         43.2809|           2.1482|        0.0439|         0.2070|      0.0321|        0.0205|      0.0282| 90.0000|
+|/players/664562/gerrit-nauber      |           1|         35.7447|           1.2546|        0.1939|         0.5712|      0.0398|        0.0944|      0.0182| 90.0000|
+|/players/630494/mats-deijl         |           3|         28.0535|           2.0007|        0.2140|         0.6954|      0.0638|        0.1077|      0.0773| 90.0000|
+|/players/583138/philippe-rommens   |           3|         32.8635|           2.0080|        0.2693|         1.4465|      0.0717|        0.0665|      0.1148| 90.0000|
+|/players/1178438/xander-blomme     |           3|         18.0122|           1.2424|        0.0588|         0.1774|      0.0164|        0.0269|      0.0253| 45.0000|
+|/players/1203189/fredrik-oppegrd   |           3|         36.2694|           2.5045|        0.1176|         0.3549|      0.0328|        0.0269|      0.0505| 90.0000|
+|/players/1072516/bobby-adekanye    |           4|         21.7140|           1.1774|        0.3312|         0.8942|      0.0671|        0.0613|      0.0682| 62.1875|
+|/players/655095/isac-lidberg       |           5|         17.4368|           0.3802|        0.6573|         1.8654|      0.2230|        0.1976|      0.0543| 77.3864|
+|/players/495970/finn-stokkers      |           5|         18.9063|           0.6296|        0.7078|         1.6548|      0.2678|        0.2967|      0.0782| 79.2903|
+|/players/775672/sylla-sow          |          NA|              NA|               NA|        0.5026|         1.1727|      0.1965|        0.2053|      0.0712| 45.0000|
+|/players/935623/evert-linthorst    |          NA|              NA|               NA|        0.0000|         0.0737|      0.0143|        0.0000|      0.0203| 27.8125|
+|/players/1160390/jose-fontn        |          NA|              NA|               NA|        0.0000|         0.0735|      0.0016|        0.0000|      0.0029| 12.6136|
+|/players/528439/federico-mattiello |          NA|              NA|               NA|        0.0265|         0.1590|      0.0171|        0.0000|      0.0556| 10.7097|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Rene Hake    |        73144|      3.294865|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about FC Twente:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/116750/ricky-van-wolfswinkel |           5|         22.8437|           0.5440|        1.0811|         2.6366|      0.4076|        0.4703|      0.1144| 84.2909|
+|/players/253120/virgil-misidjan       |           3|         25.6145|           1.2579|        0.6106|         1.2967|      0.1828|        0.1888|      0.1014| 72.4706|
+|/players/947898/sem-steijn            |           3|         32.1442|           1.3708|        0.7098|         1.6522|      0.2218|        0.3353|      0.1656| 84.0769|
+|/players/623540/vclav-cerny           |           3|         34.0028|           1.0692|        0.6488|         2.3315|      0.2458|        0.2279|      0.1970| 72.0000|
+|/players/1074967/ramiz-zerrouki       |           2|         56.8811|           2.4816|        0.4239|         2.0222|      0.1124|        0.1121|      0.0989| 90.0000|
+|/players/1050838/anass-salah-eddine   |           2|         58.2965|           2.1847|        0.1735|         0.4138|      0.1124|        0.1121|      0.1187| 90.0000|
+|/players/883503/gijs-smal             |           1|         56.1254|           2.2310|        0.1556|         0.5355|      0.0214|        0.0256|      0.1756| 90.0000|
+|/players/298933/robin-propper         |           1|         67.3175|           1.0586|        0.1355|         0.5088|      0.0302|        0.0198|      0.0423| 90.0000|
+|/players/1192130/mees-hilgers         |           1|         57.4797|           2.1310|        0.0263|         0.1100|      0.0164|        0.0124|      0.0209| 90.0000|
+|/players/389845/joshua-brenet         |           1|         45.8792|           1.6067|        0.2419|         0.9210|      0.0974|        0.0709|      0.1160| 90.0000|
+|/players/210822/lars-unnerstall       |           0|         29.1933|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1016738/manfred-ugalde       |          NA|              NA|               NA|        0.4165|         1.5271|      0.1500|        0.1436|      0.0162| 18.0000|
+|/players/759592/julio-pleguezuelo     |          NA|              NA|               NA|        0.0500|         0.2001|      0.0132|        0.0010|      0.0325| 17.5294|
+|/players/1203490/daan-rots            |          NA|              NA|               NA|        0.0000|         0.0896|      0.0030|        0.0000|      0.0100|  5.9231|
+|/players/662735/michel-vlap           |          NA|              NA|               NA|        0.0525|         0.1751|      0.0224|        0.0085|      0.0123|  5.7091|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ron Jans     |        83967|      2.450588|4-3-3     |
