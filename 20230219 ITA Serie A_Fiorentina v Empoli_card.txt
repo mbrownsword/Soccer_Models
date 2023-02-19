@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 14:45:38.299"
+[1] "Updated at 2023-02-18 20:34:37.815"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,21 +34,20 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 61.91%; max % is 66.85 and min % is 58.84%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 38.09%; max % is 41.16 and min % is 33.15%."
 [1] "--Sportsbook Odds--"
-[1] "Fiorentina Barstool Odds are: 63.64"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Empoli Barstool Odds are: 17.39"
-[1] "Fiorentina Adjusted Barstool Odds are: 60.021"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.578"
-[1] "Empoli Adjusted Barstool Odds are: 16.401"
-[1] "Fiorentina's Barstool Odds to cover the -0.5 spread are: 62.5"
-[1] "Empoli's Barstool Odds to cover the 0.5 spread are: 41.67"
-[1] "Barstool's line for the total is 2.5 at 1.81, which is a 55.25% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "Fiorentina Barstool Odds are: 61.9"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Empoli Barstool Odds are: 18.52"
+[1] "Fiorentina Adjusted Barstool Odds are: 58.363"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.175"
+[1] "Empoli Adjusted Barstool Odds are: 17.462"
+[1] "Fiorentina's Barstool Odds to cover the -0.5 spread are: 60.61"
+[1] "Empoli's Barstool Odds to cover the 0.5 spread are: 43.86"
+[1] "Barstool's line for the total is 2.5 at 1.88, which is a 53.19% chance of the over 2.5 hitting. The line for the under is 1.92, which is a 52.08% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                      bet           date_time
 1                 Empoli 2023-02-19 06:00:00
 2 over Fiorentina/Empoli 2023-02-19 06:00:00
-3             Empoli ATS 2023-02-19 06:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -66,9 +65,9 @@
 |/players/463291/luka-jovic             |Fiorentina |      0.381275|   0.3571429|    |
 |/players/776940/christian-kouam        |Fiorentina |      0.312175|   0.3508772|    |
 |/players/155254/francesco-caputo       |Empoli     |      0.147750|   0.2702703|    |
-|/players/1044029/nicolo-cambiaghi      |Empoli     |      0.222050|   0.1724138|    |
+|/players/1044029/nicolo-cambiaghi      |Empoli     |      0.222050|   0.1694915|*   |
 |/players/1200591/tommaso-baldanzi      |Empoli     |      0.132875|   0.2380952|    |
-|/players/674829/filippo-bandinelli     |Empoli     |      0.052925|   0.1176471|    |
+|/players/674829/filippo-bandinelli     |Empoli     |      0.052925|   0.1111111|    |
 |/players/574844/razvan-marin           |Empoli     |      0.044300|   0.1176471|    |
 |/players/279879/jean-daniel-akpa-akpro |Empoli     |      0.008975|   0.0833333|    |
 |/players/919671/liberato-cacace        |Empoli     |      0.018425|   0.0909091|    |
@@ -77,12 +76,12 @@
 |/players/561844/tyronne-ebuehi         |Empoli     |      0.017725|   0.0416667|    |
 |/players/538501/guglielmo-vicario      |Empoli     |      0.000000|   0.3225806|    |
 |/players/212645/riccardo-saponara      |Fiorentina |      0.069550|   0.2857143|    |
-|/players/688668/josip-brekalo          |Fiorentina |      0.048175|   0.3508772|    |
+|/players/688668/josip-brekalo          |Fiorentina |      0.048175|   0.3448276|    |
 |/players/317156/alfred-duncan          |Fiorentina |      0.004275|   0.1428571|    |
 |/players/933817/riccardo-sottil        |Fiorentina |      0.027425|   0.2702703|    |
 |/players/814138/emanuel-vignato        |Empoli     |      0.063150|   0.1333333|    |
-|/players/307235/marko-pjaca            |Empoli     |      0.100450|   0.1724138|    |
-|/players/1017401/roberto-piccoli       |Empoli     |      0.227650|   0.2083333|    |
+|/players/307235/marko-pjaca            |Empoli     |      0.100450|   0.1694915|    |
+|/players/1017401/roberto-piccoli       |Empoli     |      0.227650|   0.2040816|    |
 |/players/469939/liam-henderson         |Empoli     |      0.007975|   0.1250000|    |
 ____________________________________________________
 
