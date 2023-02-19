@@ -1,112 +1,110 @@
-[1] "Updated at 2023-02-18 20:21:39.192"
+[1] "Updated at 2023-02-19 07:44:49.294"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Lens 1.5523 to Nantes 0.988"
-[1] "Total: 2.5403"
-[1] "Lens %: 50.86"
-[1] "Draw %: 25.01"
-[1] "Nantes %: 24.13"
+[1] "Score: Lens 1.6403 to Nantes 1.0547"
+[1] "Total: 2.695"
+[1] "Lens %: 51.66"
+[1] "Draw %: 24.44"
+[1] "Nantes %: 23.9"
 [1] "--XG Model--"
-[1] "Score: Lens 1.7068 to Nantes 0.9858"
-[1] "Total: 2.6926"
-[1] "Lens %: 55.05"
-[1] "Draw %: 23.67"
-[1] "Nantes %: 21.28"
+[1] "Score: Lens 1.7891 to Nantes 1.0764"
+[1] "Total: 2.8655"
+[1] "Lens %: 54.92"
+[1] "Draw %: 23"
+[1] "Nantes %: 22.08"
 [1] "--XGoT Model--"
-[1] "Score: Lens 1.6629 to Nantes 0.997"
-[1] "Total: 2.6599"
-[1] "Lens %: 53.61"
-[1] "Draw %: 24.21"
-[1] "Nantes %: 22.18"
+[1] "Score: Lens 1.8088 to Nantes 1.1052"
+[1] "Total: 2.914"
+[1] "Lens %: 54.41"
+[1] "Draw %: 22.9"
+[1] "Nantes %: 22.69"
 [1] "--XA Model--"
-[1] "Score: Lens 1.5884 to Nantes 0.9364"
-[1] "Total: 2.5248"
-[1] "Lens %: 53.04"
-[1] "Draw %: 25.14"
-[1] "Nantes %: 21.82"
+[1] "Score: Lens 1.6019 to Nantes 0.9373"
+[1] "Total: 2.5392"
+[1] "Lens %: 53.62"
+[1] "Draw %: 24.63"
+[1] "Nantes %: 21.75"
 [1] "--Mean 4 Models--"
-[1] "Lens has a mean win % of 53.14%; a min win % of 50.86%; a max win % of 55.05%."
-[1] "Draw has a mean win % of 24.51%; a min win % of 23.67%; a max win % of 25.14%."
-[1] "Nantes has a mean win % of 22.35%; a min win % of 21.28%; a max win of % 24.13%."
-[1] "Lens has a mean win of the Double Chance of 77.65%; a min win % of 75.87%, a max win % of 78.72%."
-[1] "Nantes has a mean win of the Double Chance of 46.86%; a min win % of 44.95%, a max win % of 49.14%."
-[1] "The mean likelihood that there are more than 2.5 goals is 47.48%; max % is 49.73 and min % is 45.36%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 52.52%; max % is 54.64 and min % is 50.27%."
+[1] "Lens has a mean win % of 53.65%; a min win % of 51.66%; a max win % of 54.92%."
+[1] "Draw has a mean win % of 23.74%; a min win % of 22.9%; a max win % of 24.63%."
+[1] "Nantes has a mean win % of 22.6%; a min win % of 21.75%; a max win of % 23.9%."
+[1] "Lens has a mean win of the Double Chance of 77.39%; a min win % of 76.1%, a max win % of 78.25%."
+[1] "Nantes has a mean win of the Double Chance of 46.35%; a min win % of 45.08%, a max win % of 48.34%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.11%; max % is 55.22 and min % is 45.73%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.89%; max % is 54.27 and min % is 44.78%."
 [1] "--Sportsbook Odds--"
-[1] "Lens Barstool Odds are: 67.57"
-[1] "The Barstool Odds of a Draw are: 23.53"
-[1] "Nantes Barstool Odds are: 14.81"
-[1] "Lens Adjusted Barstool Odds are: 63.799"
-[1] "The Adjusted Barstool Odds of a Draw are: 22.217"
-[1] "Nantes Adjusted Barstool Odds are: 13.984"
-[1] "Lens's Barstool Odds to cover the -0.5 spread are: 66.67"
-[1] "Nantes's Barstool Odds to cover the 0.5 spread are: 38.46"
-[1] "Barstool's line for the total is 2.5 at 1.9, which is a 52.63% chance of the over 2.5 hitting. The line for the under is 1.9, which is a 52.63% chance of the under 2.5 hitting."
+[1] "Lens Barstool Odds are: 69.23"
+[1] "The Barstool Odds of a Draw are: 23.26"
+[1] "Nantes Barstool Odds are: 13.33"
+[1] "Lens Adjusted Barstool Odds are: 65.422"
+[1] "The Adjusted Barstool Odds of a Draw are: 21.981"
+[1] "Nantes Adjusted Barstool Odds are: 12.597"
+[1] "Lens's Barstool Odds to cover the -1 spread are: 55.56"
+[1] "Nantes's Barstool Odds to cover the 1 spread are: 49.02"
+[1] "Barstool's line for the total is 2.5 at 1.94, which is a 51.55% chance of the over 2.5 hitting. The line for the under is 1.86, which is a 53.76% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-               bet           date_time
-1 draw Lens/Nantes 2023-02-19 08:05:00
-2           Nantes 2023-02-19 08:05:00
-3       Nantes ATS 2023-02-19 08:05:00
+     bet           date_time
+1 Nantes 2023-02-19 08:05:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                              |team   | expected_attg| expected_gs|bet |
 |:-------------------------------------|:------|-------------:|-----------:|:---|
-|/players/279714/brice-samba           |Lens   |      0.000000|   0.2702703|    |
-|/players/513072/jonathan-gradit       |Lens   |      0.010050|   0.0476190|    |
-|/players/754126/kevin-danso           |Lens   |      0.023725|   0.1333333|    |
-|/players/812652/facundo-medina        |Lens   |      0.067625|   0.1428571|    |
-|/players/402419/przemyslaw-frankowski |Lens   |      0.105550|   0.3125000|    |
-|/players/1074642/salis-abdul-samed    |Lens   |      0.027075|   0.1666667|    |
-|/players/602211/seko-fofana           |Lens   |      0.115550|   0.2777778|    |
-|/players/578756/deiver-machado        |Lens   |      0.074875|   0.1333333|    |
-|/players/612699/florian-sotoca        |Lens   |      0.255725|   0.4347826|    |
-|/players/317062/adrien-thomasson      |Lens   |      0.214850|   0.3448276|    |
-|/players/747767/ikoma-lois-openda     |Lens   |      0.390925|   0.4545455|    |
-|/players/817500/mostafa-mohamed       |Nantes |      0.175850|   0.2222222|    |
-|/players/467486/moses-simon           |Nantes |      0.092300|   0.1960784|    |
-|/players/693171/ludovic-blas          |Nantes |      0.218725|   0.1886792|    |
-|/players/1087966/evann-guessand       |Nantes |      0.040975|   0.1333333|    |
-|/players/866108/samuel-moutoussamy    |Nantes |      0.068400|   0.0833333|    |
-|/players/680031/pedro-chirivella      |Nantes |      0.017700|   0.0714286|    |
-|/players/720738/charles-traor         |Nantes |      0.013800|   0.0222222|    |
-|/players/498655/andrei-girotto        |Nantes |      0.050375|   0.1176471|    |
-|/players/1047358/joao-victor          |Nantes |      0.013900|   0.0294118|    |
-|/players/660887/fabien-centonze       |Nantes |      0.024975|   0.0909091|    |
-|/players/698273/alban-lafont          |Nantes |      0.000000|   0.1538462|    |
-|/players/1138769/david-costa          |Lens   |      0.027125|   0.2500000|    |
-|/players/1177359/ismal-boura          |Lens   |      0.006025|   0.0476190|    |
-|/players/240236/massadio-haidara      |Lens   |      0.000000|   0.3636364|    |
-|/players/611528/angelo-fulgini        |Lens   |      0.026650|   0.3030303|    |
-|/players/165583/sbastien-corchia      |Nantes |      0.016150|   0.0400000|    |
-|/players/606491/marcus-regis-coco     |Nantes |      0.010025|   0.1111111|    |
-|/players/94550/moussa-sissoko         |Nantes |      0.009675|   0.0714286|    |
-|/players/183530/andy-delort           |Nantes |      0.101050|   0.2777778|    |
+|/players/279714/brice-samba           |Lens   |      0.000000|   0.0714286|    |
+|/players/513072/jonathan-gradit       |Lens   |      0.017075|   0.0476190|    |
+|/players/754126/kevin-danso           |Lens   |      0.039125|   0.1333333|    |
+|/players/812652/facundo-medina        |Lens   |      0.118925|   0.1428571|    |
+|/players/402419/przemyslaw-frankowski |Lens   |      0.107775|   0.3030303|    |
+|/players/1074642/salis-abdul-samed    |Lens   |      0.028475|   0.1538462|    |
+|/players/602211/seko-fofana           |Lens   |      0.112100|   0.2777778|    |
+|/players/578756/deiver-machado        |Lens   |      0.072750|   0.1333333|    |
+|/players/611528/angelo-fulgini        |Lens   |      0.239350|   0.3030303|    |
+|/players/317062/adrien-thomasson      |Lens   |      0.243025|   0.3448276|    |
+|/players/612699/florian-sotoca        |Lens   |      0.312100|   0.4255319|    |
+|/players/817500/mostafa-mohamed       |Nantes |      0.204800|   0.2083333|    |
+|/players/319824/florent-mollet        |Nantes |      0.153125|   0.1538462|    |
+|/players/720738/charles-traor         |Nantes |      0.018300|   0.0204082|    |
+|/players/866108/samuel-moutoussamy    |Nantes |      0.016400|   0.0769231|    |
+|/players/467486/moses-simon           |Nantes |      0.109350|   0.1851852|    |
+|/players/94550/moussa-sissoko         |Nantes |      0.076100|   0.0666667|    |
+|/players/165583/sbastien-corchia      |Nantes |      0.023450|   0.0370370|    |
+|/players/1178324/jaouen-hadjam        |Nantes |      0.020750|   0.0400000|    |
+|/players/498655/andrei-girotto        |Nantes |      0.018400|   0.1111111|    |
+|/players/1047358/joao-victor          |Nantes |      0.017675|   0.0270270|    |
+|/players/698273/alban-lafont          |Nantes |      0.000000|   0.1666667|    |
+|/players/747767/ikoma-lois-openda     |Lens   |      0.132900|   0.0000000|*   |
+|/players/1138769/david-costa          |Lens   |      0.028575|   0.0000000|    |
+|/players/1177359/ismal-boura          |Lens   |      0.006775|   0.0000000|    |
+|/players/240236/massadio-haidara      |Lens   |      0.000000|   0.0000000|    |
+|/players/1087966/evann-guessand       |Nantes |      0.071825|   0.0000000|*   |
+|/players/606491/marcus-regis-coco     |Nantes |      0.011150|   0.0000000|    |
+|/players/183530/andy-delort           |Nantes |      0.123425|   0.0000000|*   |
+|/players/693171/ludovic-blas          |Nantes |      0.041500|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Lens:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/279714/brice-samba           |           0|         35.2720|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/513072/jonathan-gradit       |           1|         60.2509|           1.8823|        0.0370|         0.1978|      0.0198|        0.0096|      0.0426| 90.0000|
-|/players/754126/kevin-danso           |           1|         58.2695|           1.2350|        0.1714|         0.9652|      0.0922|        0.0256|      0.0318| 90.0000|
-|/players/812652/facundo-medina        |           1|         76.7947|           1.6953|        0.2179|         0.5771|      0.0895|        0.0787|      0.0428| 90.0000|
-|/players/402419/przemyslaw-frankowski |           3|         42.9978|           2.4770|        0.4050|         1.0936|      0.1398|        0.1235|      0.2046| 81.8642|
-|/players/1074642/salis-abdul-samed    |           3|         70.7809|           1.8515|        0.1394|         0.6084|      0.0402|        0.0310|      0.0688| 90.0000|
-|/players/602211/seko-fofana           |           3|         54.9904|           0.9579|        0.6726|         1.8826|      0.1619|        0.1312|      0.1082| 90.0000|
-|/players/578756/deiver-machado        |           3|         29.2277|           2.2976|        0.1243|         0.5649|      0.0433|        0.0827|      0.0890| 82.1750|
-|/players/612699/florian-sotoca        |           4|         36.5299|           1.1004|        1.0735|         2.5881|      0.3172|        0.3003|      0.2002| 90.0000|
-|/players/317062/adrien-thomasson      |           4|         35.4219|           1.4347|        0.6483|         1.7375|      0.2222|        0.2618|      0.1628| 83.4167|
-|/players/747767/ikoma-lois-openda     |           5|         21.1611|           0.6345|        1.1312|         2.6753|      0.4797|        0.5252|      0.0755| 80.0568|
-|/players/1138769/david-costa          |          NA|              NA|               NA|        0.1540|         0.2861|      0.0321|        0.0296|      0.0451|  9.9432|
-|/players/1177359/ismal-boura          |          NA|              NA|               NA|        0.0304|         0.0912|      0.0041|        0.0061|      0.0158|  8.1358|
-|/players/240236/massadio-haidara      |          NA|              NA|               NA|        0.0000|         0.1590|      0.0198|        0.0000|      0.0046|  7.8250|
-|/players/611528/angelo-fulgini        |          NA|              NA|               NA|        0.0810|         0.1351|      0.0172|        0.0298|      0.0077|  6.5833|
+|/players/279714/brice-samba           |           0|         34.0563|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/513072/jonathan-gradit       |           1|         59.7634|           2.0217|        0.0624|         0.2464|      0.0223|        0.0173|      0.0396| 90.0000|
+|/players/754126/kevin-danso           |           1|         57.7980|           1.3265|        0.2886|         1.2026|      0.1039|        0.0458|      0.0296| 90.0000|
+|/players/812652/facundo-medina        |           1|         76.1733|           1.8208|        0.3669|         0.7190|      0.1009|        0.1409|      0.0399| 90.0000|
+|/players/402419/przemyslaw-frankowski |           3|         43.1878|           2.4726|        0.3625|         1.0372|      0.1590|        0.1270|      0.2004| 81.8642|
+|/players/1074642/salis-abdul-samed    |           3|         71.0937|           1.8482|        0.1248|         0.5771|      0.0458|        0.0319|      0.0674| 90.0000|
+|/players/602211/seko-fofana           |           3|         55.2334|           0.9562|        0.6021|         1.7855|      0.1842|        0.1349|      0.1060| 90.0000|
+|/players/578756/deiver-machado        |           3|         29.3568|           2.2935|        0.1112|         0.5358|      0.0493|        0.0850|      0.0872| 82.1750|
+|/players/611528/angelo-fulgini        |           4|         30.6555|           0.6678|        0.6838|         1.8349|      0.2027|        0.2870|      0.0774| 74.0000|
+|/players/317062/adrien-thomasson      |           4|         42.9888|           1.6011|        0.9837|         2.3229|      0.3276|        0.3032|      0.2685| 90.0000|
+|/players/612699/florian-sotoca        |           5|         23.1736|           0.5288|        1.0215|         2.4506|      0.4002|        0.4060|      0.1037| 80.9231|
+|/players/747767/ikoma-lois-openda     |           0|              NA|               NA|        0.3589|         0.5384|      0.1019|        0.1615|      0.0213| 16.0000|
+|/players/1138769/david-costa          |           0|              NA|               NA|        0.1644|         0.3053|      0.0348|        0.0329|      0.0482|  9.0769|
+|/players/1177359/ismal-boura          |           0|              NA|               NA|        0.0355|         0.1066|      0.0049|        0.0075|      0.0185|  8.1358|
+|/players/240236/massadio-haidara      |           0|              NA|               NA|        0.0000|         0.1858|      0.0236|        0.0000|      0.0054|  7.8250|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -115,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Nantes:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/817500/mostafa-mohamed    |           5|         15.7580|           0.4824|        0.6153|         1.6716|      0.2408|        0.2257|      0.0220| 78.4308|
-|/players/467486/moses-simon        |           3|         23.0182|           0.9344|        0.3413|         0.9365|      0.1223|        0.1133|      0.1505| 80.3077|
-|/players/693171/ludovic-blas       |           3|         32.3823|           1.7689|        0.6858|         2.1964|      0.2519|        0.2876|      0.0843| 90.0000|
-|/players/1087966/evann-guessand    |           3|         16.2482|           0.9218|        0.3792|         0.6012|      0.0385|        0.0474|      0.0303| 71.1111|
-|/players/866108/samuel-moutoussamy |           2|         39.2853|           2.5301|        0.3118|         0.8772|      0.0990|        0.0795|      0.0474| 90.0000|
-|/players/680031/pedro-chirivella   |           2|         37.3561|           1.8409|        0.0659|         0.5060|      0.0233|        0.0240|      0.0377| 80.8571|
-|/players/720738/charles-traor      |           1|         34.7380|           2.1594|        0.0529|         0.1394|      0.0116|        0.0159|      0.0337| 90.0000|
-|/players/498655/andrei-girotto     |           1|         43.4180|           1.9202|        0.1657|         0.6402|      0.0983|        0.0572|      0.0266| 90.0000|
-|/players/1047358/joao-victor       |           1|         49.0058|           1.1913|        0.0668|         0.2932|      0.0116|        0.0159|      0.0266| 90.0000|
-|/players/660887/fabien-centonze    |           1|         34.2467|           1.9379|        0.0934|         0.3937|      0.0309|        0.0309|      0.0559| 90.0000|
-|/players/698273/alban-lafont       |           0|         24.9014|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/165583/sbastien-corchia   |          NA|              NA|               NA|        0.1500|         0.2700|      0.0139|        0.0172|      0.0202| 18.8889|
-|/players/606491/marcus-regis-coco  |          NA|              NA|               NA|        0.0553|         0.2395|      0.0199|        0.0112|      0.0113| 11.5692|
-|/players/94550/moussa-sissoko      |          NA|              NA|               NA|        0.0377|         0.1131|      0.0141|        0.0123|      0.0066|  9.6923|
-|/players/183530/andy-delort        |          NA|              NA|               NA|        0.2336|         0.4673|      0.0753|        0.1244|      0.0420|  9.1429|
+|/players/817500/mostafa-mohamed    |           5|         11.4890|           0.6793|        0.8243|         1.9083|      0.2558|        0.2810|      0.0231| 78.4308|
+|/players/319824/florent-mollet     |           5|         26.0350|           0.7113|        0.4175|         1.2414|      0.1770|        0.2010|      0.1005| 79.2714|
+|/players/720738/charles-traor      |           3|         33.5587|           3.7585|        0.1519|         0.5307|      0.0261|        0.0211|      0.0214| 90.0000|
+|/players/866108/samuel-moutoussamy |           3|         46.2218|           2.2032|        0.2032|         0.6759|      0.0850|        0.0211|      0.0176| 90.0000|
+|/players/467486/moses-simon        |           3|         24.6197|           0.7162|        0.4008|         1.0282|      0.1134|        0.1396|      0.1377| 80.3077|
+|/players/94550/moussa-sissoko      |           3|         40.4001|           1.3771|        0.1519|         0.5307|      0.0666|        0.0938|      0.0584| 90.0000|
+|/players/165583/sbastien-corchia   |           3|         21.1854|           1.5571|        0.2290|         0.8486|      0.0238|        0.0277|      0.0675| 82.1429|
+|/players/1178324/jaouen-hadjam     |           1|         36.3785|           1.6889|        0.1141|         0.4115|      0.0057|        0.0244|      0.0265| 90.0000|
+|/players/498655/andrei-girotto     |           1|         40.8216|           1.9753|        0.1549|         0.5460|      0.1090|        0.0244|      0.0193| 90.0000|
+|/players/1047358/joao-victor       |           1|         46.0753|           1.2255|        0.0624|         0.2501|      0.0057|        0.0244|      0.0193| 90.0000|
+|/players/698273/alban-lafont       |           0|         25.2487|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1087966/evann-guessand    |           0|              NA|               NA|        0.2682|         0.8045|      0.1171|        0.0867|      0.0086| 11.5692|
+|/players/606491/marcus-regis-coco  |           0|              NA|               NA|        0.0599|         0.2596|      0.0220|        0.0127|      0.0122| 10.7286|
+|/players/183530/andy-delort        |           0|              NA|               NA|        0.2895|         0.5790|      0.0951|        0.1606|      0.0520|  9.6923|
+|/players/693171/ludovic-blas       |           0|              NA|               NA|        0.1686|         0.5479|      0.0397|        0.0521|      0.0318|  7.8571|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
