@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 18:52:30.181"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Motherwell 0.9628 to Hearts 1.4305"
+[1] "Total: 2.3933"
+[1] "Motherwell %: 25.5"
+[1] "Draw %: 26.76"
+[1] "Hearts %: 47.74"
+[1] "--XG Model--"
+[1] "Score: Motherwell 1.0982 to Hearts 1.8013"
+[1] "Total: 2.8995"
+[1] "Motherwell %: 23.1"
+[1] "Draw %: 23.48"
+[1] "Hearts %: 53.42"
+[1] "--XGoT Model--"
+[1] "Score: Motherwell 0.8654 to Hearts 1.6937"
+[1] "Total: 2.5591"
+[1] "Motherwell %: 19.36"
+[1] "Draw %: 24.25"
+[1] "Hearts %: 56.39"
+[1] "--XA Model--"
+[1] "Score: Motherwell 1.0133 to Hearts 1.3971"
+[1] "Total: 2.4104"
+[1] "Motherwell %: 27.5"
+[1] "Draw %: 27.09"
+[1] "Hearts %: 45.41"
+[1] "--Mean 4 Models--"
+[1] "Motherwell has a mean win % of 23.86%; a min win % of 19.36%; a max win % of 27.5%."
+[1] "Draw has a mean win % of 25.4%; a min win % of 23.48%; a max win % of 27.09%."
+[1] "Hearts has a mean win % of 50.74%; a min win % of 45.41%; a max win of % 56.39%."
+[1] "Motherwell has a mean win of the Double Chance of 49.26%; a min win % of 43.61%, a max win % of 54.59%."
+[1] "Hearts has a mean win of the Double Chance of 76.13%; a min win % of 72.5%, a max win % of 80.64%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.72%; max % is 54.84 and min % is 42.69%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.28%; max % is 57.31 and min % is 45.16%."
+[1] "--Sportsbook Odds--"
+[1] "Motherwell Barstool Odds are: 33.9"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Hearts Barstool Odds are: 45.45"
+[1] "Motherwell Adjusted Barstool Odds are: 31.29"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.758"
+[1] "Hearts Adjusted Barstool Odds are: 41.951"
+[1] "Motherwell's Barstool Odds to cover the 0.5 spread are: 60.61"
+[1] "Hearts's Barstool Odds to cover the -0.5 spread are: 43.86"
+[1] "Barstool's line for the total is 2.5 at 1.89, which is a 52.91% chance of the over 2.5 hitting. The line for the under is 1.85, which is a 54.05% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 04:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team       | expected_attg| expected_gs|bet |
+|:----------------------------------|:----------|-------------:|-----------:|:---|
+|/players/445522/liam-kelly         |Motherwell |      0.000000|   0.1428571|    |
+|/players/166423/calum-butcher      |Motherwell |      0.026475|   0.0500000|    |
+|/players/287156/stephen-odonnell   |Motherwell |      0.007425|   0.1111111|    |
+|/players/171708/paul-mcginn        |Motherwell |      0.026125|   0.0370370|    |
+|/players/306643/ricki-lamie        |Motherwell |      0.019425|   0.0303030|    |
+|/players/696366/sean-goss          |Motherwell |      0.000000|   0.0500000|    |
+|/players/1006677/stuart-mckinstry  |Motherwell |      0.230675|   0.2173913|    |
+|/players/1052345/dean-cornelius    |Motherwell |      0.082700|   0.0666667|    |
+|/players/798652/callum-slattery    |Motherwell |      0.099675|   0.1428571|    |
+|/players/393272/blair-spittal      |Motherwell |      0.155925|   0.1333333|    |
+|/players/213005/kevin-van-veen     |Motherwell |      0.125525|   0.3225806|    |
+|/players/32562/craig-gordon        |Hearts     |      0.000000|   0.2127660|    |
+|/players/877690/alexander-cochrane |Hearts     |      0.029375|   0.0666667|    |
+|/players/259810/stephen-kingsley   |Hearts     |      0.177400|   0.0833333|*   |
+|/players/825231/kye-rowles         |Hearts     |      0.017675|   0.0344828|    |
+|/players/571824/peter-haring       |Hearts     |      0.052900|   0.1428571|    |
+|/players/32728/robert-snodgrass    |Hearts     |      0.045775|   0.1694915|    |
+|/players/127151/andrew-halliday    |Hearts     |      0.152400|   0.1333333|    |
+|/players/970544/cameron-devlin     |Hearts     |      0.061425|   0.0833333|    |
+|/players/540085/josh-ginnelly      |Hearts     |      0.242625|   0.1666667|*   |
+|/players/318608/barrie-mckay       |Hearts     |      0.107675|   0.1818182|    |
+|/players/317544/lawrence-shankland |Hearts     |      0.342975|   0.4081633|    |
+|/players/1055839/ross-tierney      |Motherwell |      0.047100|   0.1666667|    |
+|/players/964372/oliver-crankshaw   |Motherwell |      0.008275|   0.1666667|    |
+|/players/196865/louis-moult        |Motherwell |      0.036475|   0.2173913|    |
+|/players/213063/josh-morris        |Motherwell |      0.000000|   0.1818182|    |
+|/players/1324022/garang-kuol       |Hearts     |      0.069975|   0.2127660|    |
+|/players/821400/toby-sibbick       |Hearts     |      0.000000|   0.0384615|    |
+|/players/470409/alan-forrest       |Hearts     |      0.025600|   0.2173913|    |
+|/players/1128622/lewis-neilson     |Hearts     |      0.000000|   0.0344828|    |
+____________________________________________________
+
+[1] "Facts about Motherwell:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/445522/liam-kelly        |           0|         30.8041|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/166423/calum-butcher     |           1|         42.9339|           1.0519|        0.1258|         0.4655|      0.0355|        0.0291|      0.0269| 90.0000|
+|/players/287156/stephen-odonnell  |           1|         38.0496|           1.2280|        0.0708|         0.3142|      0.0250|        0.0075|      0.0688| 90.0000|
+|/players/171708/paul-mcginn       |           1|         45.5137|           2.1744|        0.1462|         0.3329|      0.0391|        0.0256|      0.0531| 90.0000|
+|/players/306643/ricki-lamie       |           1|         37.0224|           1.2279|        0.1045|         0.4105|      0.0398|        0.0171|      0.0263| 90.0000|
+|/players/696366/sean-goss         |           2|         38.7620|           1.9826|        0.1153|         0.6094|      0.0121|        0.0000|      0.0643| 90.0000|
+|/players/1006677/stuart-mckinstry |           3|         18.5734|           1.7887|        0.5649|         1.7333|      0.1677|        0.2537|      0.1536| 80.1250|
+|/players/1052345/dean-cornelius   |           3|         21.9884|           1.2346|        0.1994|         0.6117|      0.1307|        0.0856|      0.0128| 80.0588|
+|/players/798652/callum-slattery   |           3|         32.5895|           1.9086|        0.2782|         1.4938|      0.1632|        0.1017|      0.0631| 90.0000|
+|/players/393272/blair-spittal     |           3|         28.9230|           0.9778|        0.5649|         1.5311|      0.2249|        0.1623|      0.1237| 75.5750|
+|/players/213005/kevin-van-veen    |           5|         16.0638|           0.5324|        0.6402|         1.7768|      0.1398|        0.1217|      0.0483| 81.0000|
+|/players/1055839/ross-tierney     |           0|              NA|               NA|        0.1255|         0.2511|      0.0515|        0.0468|      0.0073| 14.4250|
+|/players/964372/oliver-crankshaw  |           0|              NA|               NA|        0.1320|         0.2641|      0.0336|        0.0090|      0.0069|  9.9412|
+|/players/196865/louis-moult       |           0|              NA|               NA|        0.1551|         0.3766|      0.0592|        0.0370|      0.0027|  9.8750|
+|/players/213063/josh-morris       |           0|              NA|               NA|        0.0000|         0.1413|      0.0081|        0.0000|      0.0042|  9.0000|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Stuart Kettlewell |        17741|     -14.17833|4-1-4-1   |
+____________________________________________________
+
+[1] "Facts about Hearts:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/32562/craig-gordon        |           0|         29.7115|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/877690/alexander-cochrane |           1|         50.9813|           2.3188|        0.0541|         0.2841|      0.0441|        0.0341|      0.0368| 90.0000|
+|/players/259810/stephen-kingsley   |           1|         53.8633|           1.1612|        0.4231|         1.0354|      0.1677|        0.2104|      0.0620| 90.0000|
+|/players/825231/kye-rowles         |           1|         63.6036|           1.2396|        0.1026|         0.3775|      0.0813|        0.0189|      0.0160| 90.0000|
+|/players/571824/peter-haring       |           3|         45.4124|           1.7968|        0.2603|         1.1027|      0.1536|        0.0593|      0.0907| 90.0000|
+|/players/32728/robert-snodgrass    |           3|         36.3942|           1.3087|        0.2563|         0.8797|      0.0668|        0.0509|      0.2015| 90.0000|
+|/players/127151/andrew-halliday    |           3|         28.9491|           0.8061|        0.4184|         1.2682|      0.1492|        0.1820|      0.0560| 78.0741|
+|/players/970544/cameron-devlin     |           3|         50.4697|           3.0693|        0.1379|         0.7714|      0.1048|        0.0678|      0.0723| 81.1587|
+|/players/540085/josh-ginnelly      |           5|         15.5066|           0.3892|        0.7307|         1.9602|      0.2100|        0.2969|      0.1179| 79.2333|
+|/players/318608/barrie-mckay       |           5|         39.2900|           1.1783|        0.6678|         1.6483|      0.1484|        0.1193|      0.2349| 90.0000|
+|/players/317544/lawrence-shankland |           5|         29.5679|           0.6092|        0.9530|         2.6634|      0.4585|        0.4452|      0.0786| 84.2174|
+|/players/1324022/garang-kuol       |           0|              NA|               NA|        0.2544|         0.4028|      0.0729|        0.0801|      0.0402| 11.9259|
+|/players/821400/toby-sibbick       |           0|              NA|               NA|        0.0000|         0.0234|      0.0077|        0.0000|      0.0007| 10.7667|
+|/players/470409/alan-forrest       |           0|              NA|               NA|        0.0590|         0.2752|      0.0336|        0.0289|      0.0043|  8.8413|
+|/players/1128622/lewis-neilson     |           0|              NA|               NA|        0.0000|         0.0154|      0.0029|        0.0000|      0.0000|  5.7826|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Robbie Neilson |        59174|    -0.9773333|3-4-3     |
