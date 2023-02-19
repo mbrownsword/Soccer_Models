@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 18:48:43.900"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Cercle Brugge 1.1266 to Club Brugge 1.3194"
+[1] "Total: 2.446"
+[1] "Cercle Brugge %: 31.95"
+[1] "Draw %: 27.5"
+[1] "Club Brugge %: 40.55"
+[1] "--XG Model--"
+[1] "Score: Cercle Brugge 1.069 to Club Brugge 1.4078"
+[1] "Total: 2.4768"
+[1] "Cercle Brugge %: 29.32"
+[1] "Draw %: 26.51"
+[1] "Club Brugge %: 44.17"
+[1] "--XGoT Model--"
+[1] "Score: Cercle Brugge 1.0425 to Club Brugge 1.4607"
+[1] "Total: 2.5032"
+[1] "Cercle Brugge %: 28.04"
+[1] "Draw %: 26.16"
+[1] "Club Brugge %: 45.8"
+[1] "--XA Model--"
+[1] "Score: Cercle Brugge 1.1474 to Club Brugge 1.3643"
+[1] "Total: 2.5117"
+[1] "Cercle Brugge %: 31.88"
+[1] "Draw %: 27.06"
+[1] "Club Brugge %: 41.06"
+[1] "--Mean 4 Models--"
+[1] "Cercle Brugge has a mean win % of 30.3%; a min win % of 28.04%; a max win % of 31.95%."
+[1] "Draw has a mean win % of 26.81%; a min win % of 26.16%; a max win % of 27.5%."
+[1] "Club Brugge has a mean win % of 42.9%; a min win % of 40.55%; a max win of % 45.8%."
+[1] "Cercle Brugge has a mean win of the Double Chance of 57.11%; a min win % of 54.2%, a max win % of 59.45%."
+[1] "Club Brugge has a mean win of the Double Chance of 69.7%; a min win % of 68.05%, a max win % of 71.96%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.86%; max % is 45.39 and min % is 43.91%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.14%; max % is 56.09 and min % is 54.61%."
+[1] "--Sportsbook Odds--"
+[1] "Cercle Brugge Barstool Odds are: 28.99"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Club Brugge Barstool Odds are: 48.78"
+[1] "Cercle Brugge Adjusted Barstool Odds are: 27.154"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.154"
+[1] "Club Brugge Adjusted Barstool Odds are: 45.691"
+[1] "Cercle Brugge's Barstool Odds to cover the 0.5 spread are: 56.18"
+[1] "Club Brugge's Barstool Odds to cover the -0.5 spread are: 48.08"
+[1] "Barstool's line for the total is 2.5 at 1.93, which is a 51.81% chance of the over 2.5 hitting. The line for the under is 1.88, which is a 53.19% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                              bet           date_time
+1 under Cercle Brugge/Club Brugge 2023-02-19 04:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team          | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/724909/radoslaw-majecki       |Cercle Brugge |      0.000000|   0.1250000|    |
+|/players/972307/robbe-decostere        |Cercle Brugge |      0.017800|   0.0416667|    |
+|/players/1280127/boris-popovic         |Cercle Brugge |      0.063875|   0.1111111|    |
+|/players/633094/jesper-daland          |Cercle Brugge |      0.036575|   0.0714286|    |
+|/players/952057/charles-vanhoutte      |Cercle Brugge |      0.026925|   0.0625000|    |
+|/players/232299/hannes-van-der-bruggen |Cercle Brugge |      0.073825|   0.0714286|    |
+|/players/969856/olivier-deman          |Cercle Brugge |      0.008600|   0.1333333|    |
+|/players/1106599/thibo-somers          |Cercle Brugge |      0.093925|   0.1666667|    |
+|/players/318525/dino-hotic             |Cercle Brugge |      0.107575|   0.2380952|    |
+|/players/942393/ayase-ueda             |Cercle Brugge |      0.171125|   0.3333333|    |
+|/players/820477/kevin-denkey           |Cercle Brugge |      0.285000|   0.2941176|    |
+|/players/37868/simon-mignolet          |Club Brugge   |      0.000000|   0.1538462|    |
+|/players/191616/dedryck-boyata         |Club Brugge   |      0.020350|   0.0526316|    |
+|/players/1256178/bjorn-meijer          |Club Brugge   |      0.051725|   0.1538462|    |
+|/players/266105/clinton-mata           |Club Brugge   |      0.012625|   0.0526316|    |
+|/players/445873/brandon-mechele        |Club Brugge   |      0.011500|   0.0666667|    |
+|/players/149150/denis-odoi             |Club Brugge   |      0.075675|   0.0769231|    |
+|/players/1126768/raphael-onyedika      |Club Brugge   |      0.072850|   0.1176471|    |
+|/players/861932/andreas-skov-olsen     |Club Brugge   |      0.181550|   0.2777778|    |
+|/players/352898/casper-nielsen         |Club Brugge   |      0.100775|   0.2380952|    |
+|/players/203666/hans-vanaken           |Club Brugge   |      0.207225|   0.2500000|    |
+|/players/1102732/ferrn-jutglà          |Club Brugge   |      0.288625|   0.3636364|    |
+|/players/1066264/abu-francis           |Cercle Brugge |      0.009925|   0.1538462|    |
+|/players/955411/yann-gboho             |Cercle Brugge |      0.058725|   0.1886792|    |
+|/players/1336773/christiaan-ravych     |Cercle Brugge |      0.000000|   0.1428571|    |
+|/players/1226142/emilio-kehrer         |Cercle Brugge |      0.000000|   0.2564103|    |
+|/players/643690/roman-yaremchuk        |Club Brugge   |      0.081750|   0.4000000|    |
+|/players/837341/noa-lang               |Club Brugge   |      0.075625|   0.3333333|    |
+|/players/923400/kamal-sowah            |Club Brugge   |      0.000000|   0.2222222|    |
+|/players/640642/jack-hendry            |Club Brugge   |      0.001100|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about Cercle Brugge:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/724909/radoslaw-majecki       |           0|         24.0264|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/972307/robbe-decostere        |           1|         36.9845|           2.2799|        0.0762|         0.2085|      0.0170|        0.0175|      0.0304| 90.0000|
+|/players/1280127/boris-popovic         |           1|         37.5680|           0.7869|        0.2745|         0.7184|      0.0772|        0.0724|      0.0220| 90.0000|
+|/players/633094/jesper-daland          |           1|         49.8689|           1.4456|        0.0904|         0.5300|      0.0591|        0.0444|      0.0311| 90.0000|
+|/players/952057/charles-vanhoutte      |           3|         36.9937|           1.9112|        0.1406|         0.4947|      0.0221|        0.0292|      0.0798| 78.2093|
+|/players/232299/hannes-van-der-bruggen |           3|         41.8857|           1.9306|        0.2299|         0.8921|      0.0612|        0.0862|      0.0551| 90.0000|
+|/players/969856/olivier-deman          |           3|         24.0140|           2.5066|        0.1244|         0.4669|      0.0323|        0.0115|      0.0922| 75.9259|
+|/players/1106599/thibo-somers          |           3|         23.1254|           2.0257|        0.3446|         1.1319|      0.1082|        0.1082|      0.0850| 90.0000|
+|/players/318525/dino-hotic             |           4|         26.5236|           1.4479|        0.4686|         1.2056|      0.1179|        0.1156|      0.1010| 76.6364|
+|/players/942393/ayase-ueda             |           5|         17.8849|           0.4132|        0.9616|         2.3326|      0.1949|        0.1963|      0.0834| 90.0000|
+|/players/820477/kevin-denkey           |           5|         20.3036|           0.8240|        0.6498|         1.6972|      0.3743|        0.3651|      0.0734| 78.3171|
+|/players/1066264/abu-francis           |           0|              NA|               NA|        0.0638|         0.1915|      0.0085|        0.0104|      0.0204| 14.0741|
+|/players/955411/yann-gboho             |           0|              NA|               NA|        0.2121|         0.3712|      0.0568|        0.0665|      0.0097| 13.3636|
+|/players/1336773/christiaan-ravych     |           0|              NA|               NA|        0.0000|         0.0798|      0.0166|        0.0000|      0.0000| 11.7907|
+|/players/1226142/emilio-kehrer         |           0|              NA|               NA|        0.1034|         0.3619|      0.0037|        0.0000|      0.0000| 11.6829|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Miron Muslic |        24683|       -5.4672|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about Club Brugge:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/37868/simon-mignolet      |           0|         37.1687|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/191616/dedryck-boyata     |           1|         56.5887|           0.9408|        0.1529|         0.5343|      0.0399|        0.0251|      0.0317| 90.0000|
+|/players/1256178/bjorn-meijer      |           1|         40.5481|           1.7615|        0.1818|         0.5794|      0.0467|        0.0638|      0.0959| 84.7500|
+|/players/266105/clinton-mata       |           1|         48.0977|           2.1529|        0.0825|         0.3004|      0.0210|        0.0138|      0.0882| 86.5185|
+|/players/445873/brandon-mechele    |           1|         57.6374|           2.0947|        0.0886|         0.3294|      0.0455|        0.0149|      0.0115| 90.0000|
+|/players/149150/denis-odoi         |           2|         65.7194|           1.3821|        0.2789|         0.4935|      0.0267|        0.0901|      0.1022| 90.0000|
+|/players/1126768/raphael-onyedika  |           2|         39.6649|           3.3566|        0.2789|         1.4804|      0.1603|        0.0901|      0.0454| 90.0000|
+|/players/861932/andreas-skov-olsen |           3|         22.7176|           1.0341|        0.7420|         1.8478|      0.2018|        0.2356|      0.1340| 75.7727|
+|/players/352898/casper-nielsen     |           3|         26.0664|           1.9138|        0.5116|         1.6028|      0.1326|        0.1270|      0.0941| 90.0000|
+|/players/203666/hans-vanaken       |           3|         48.2947|           1.2263|        0.7132|         1.5282|      0.3049|        0.2759|      0.1336| 90.0000|
+|/players/1102732/ferrn-jutglà      |           5|         18.6430|           0.4725|        0.8304|         1.8549|      0.3114|        0.3919|      0.0692| 72.6786|
+|/players/643690/roman-yaremchuk    |           0|              NA|               NA|        0.2601|         0.4162|      0.0693|        0.1024|      0.0195| 17.3214|
+|/players/837341/noa-lang           |           0|              NA|               NA|        0.1604|         0.4811|      0.0939|        0.0905|      0.0716| 14.2273|
+|/players/923400/kamal-sowah        |           0|              NA|               NA|        0.0000|         0.1016|      0.0114|        0.0000|      0.0051|  5.2500|
+|/players/640642/jack-hendry        |           0|              NA|               NA|        0.0141|         0.0282|      0.0044|        0.0014|      0.0004|  3.4815|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Scott Parker |        90905|        2.4585|4-2-3-1   |
