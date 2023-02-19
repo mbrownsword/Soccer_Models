@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 15:15:49.403"
+[1] "Updated at 2023-02-18 20:21:39.192"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -40,9 +40,9 @@
 [1] "Lens Adjusted Barstool Odds are: 63.799"
 [1] "The Adjusted Barstool Odds of a Draw are: 22.217"
 [1] "Nantes Adjusted Barstool Odds are: 13.984"
-[1] "Lens's Barstool Odds to cover the -0.5 spread are: 65.79"
+[1] "Lens's Barstool Odds to cover the -0.5 spread are: 66.67"
 [1] "Nantes's Barstool Odds to cover the 0.5 spread are: 38.46"
-[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36% chance of the over 2.5 hitting. The line for the under is 1.89, which is a 52.91% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.9, which is a 52.63% chance of the over 2.5 hitting. The line for the under is 1.9, which is a 52.63% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                bet           date_time
@@ -54,7 +54,7 @@
 
 |pageUrl2                              |team   | expected_attg| expected_gs|bet |
 |:-------------------------------------|:------|-------------:|-----------:|:---|
-|/players/279714/brice-samba           |Lens   |      0.000000|   0.2631579|    |
+|/players/279714/brice-samba           |Lens   |      0.000000|   0.2702703|    |
 |/players/513072/jonathan-gradit       |Lens   |      0.010050|   0.0476190|    |
 |/players/754126/kevin-danso           |Lens   |      0.023725|   0.1333333|    |
 |/players/812652/facundo-medina        |Lens   |      0.067625|   0.1428571|    |
