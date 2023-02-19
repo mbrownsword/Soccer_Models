@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 15:17:56.306"
+[1] "Updated at 2023-02-18 20:23:43.945"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -73,7 +73,7 @@
 |/players/574200/eric-bailly        |Marseille |      0.013200|   0.0666667|    |
 |/players/958464/leonardo-balerdi   |Marseille |      0.054025|   0.0714286|    |
 |/players/277761/chancel-mbemba     |Marseille |      0.071975|   0.1666667|    |
-|/players/532942/pau-lopez          |Marseille |      0.000000|   0.2439024|    |
+|/players/532942/pau-lopez          |Marseille |      0.000000|   0.2500000|    |
 |/players/634310/vincent-sierro     |Toulouse  |      0.027150|   0.0769231|    |
 |/players/940735/veljko-birmancevic |Toulouse  |      0.052425|   0.2040816|    |
 |/players/628310/ado-onaiwu         |Toulouse  |      0.005625|   0.2439024|    |
