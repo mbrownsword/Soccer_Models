@@ -1,50 +1,5 @@
-[1] "Updated at 2023-02-18 19:01:41.619"
+[1] "Updated at 2023-02-19 08:42:34.051"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "Score: Odense BK 1.4414 to Randers FC 1.2533"
-[1] "Total: 2.6947"
-[1] "Odense BK %: 41.56"
-[1] "Draw %: 25.85"
-[1] "Randers FC %: 32.59"
-[1] "--XG Model--"
-[1] "Score: Odense BK 1.4533 to Randers FC 1.3095"
-[1] "Total: 2.7628"
-[1] "Odense BK %: 40.8"
-[1] "Draw %: 25.64"
-[1] "Randers FC %: 33.56"
-[1] "--XGoT Model--"
-[1] "Score: Odense BK 1.6568 to Randers FC 1.3837"
-[1] "Total: 3.0405"
-[1] "Odense BK %: 43.93"
-[1] "Draw %: 24.5"
-[1] "Randers FC %: 31.57"
-[1] "--XA Model--"
-[1] "Score: Odense BK 1.3862 to Randers FC 1.2253"
-[1] "Total: 2.6115"
-[1] "Odense BK %: 41.01"
-[1] "Draw %: 26.11"
-[1] "Randers FC %: 32.88"
-[1] "--Mean 4 Models--"
-[1] "Odense BK has a mean win % of 41.83%; a min win % of 40.8%; a max win % of 43.93%."
-[1] "Draw has a mean win % of 25.52%; a min win % of 24.5%; a max win % of 26.11%."
-[1] "Randers FC has a mean win % of 32.65%; a min win % of 31.57%; a max win of % 33.56%."
-[1] "Odense BK has a mean win of the Double Chance of 67.35%; a min win % of 66.44%, a max win % of 68.43%."
-[1] "Randers FC has a mean win of the Double Chance of 58.17%; a min win % of 56.07%, a max win % of 59.2%."
-[1] "The mean likelihood that there are more than 2.5 goals is 51.51%; max % is 57.75 and min % is 47.33%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 48.49%; max % is 52.67 and min % is 42.25%."
-[1] "--Sportsbook Odds--"
-[1] "Odense BK Barstool Odds are: 42.55"
-[1] "The Barstool Odds of a Draw are: 30.77"
-[1] "Randers FC Barstool Odds are: 32.26"
-[1] "Odense BK Adjusted Barstool Odds are: 40.301"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.144"
-[1] "Randers FC Adjusted Barstool Odds are: 30.555"
-[1] "Odense BK's Barstool Odds to cover the 0.5 spread are: 72.46"
-[1] "Randers FC's Barstool Odds to cover the -0.5 spread are: 31.75"
-[1] "Barstool's line for the total is 2.5 at 1.8, which is a 55.56% chance of the over 2.5 hitting. The line for the under is 2.02, which is a 49.5% chance of the under 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-19 05:00:00
 [1] "____________Anytime Goalscorers______________________"
@@ -52,59 +7,59 @@
 
 |pageUrl2                                    |team       | expected_attg| expected_gs|bet |
 |:-------------------------------------------|:----------|-------------:|-----------:|:---|
-|/players/47532/martin-hansen                |Odense BK  |      0.000000|   0.3571429|    |
-|/players/187492/bjrn-paulsen                |Odense BK  |      0.052375|   0.0909091|    |
-|/players/1367915/tobias-slotsager           |Odense BK  |      0.024650|   0.0714286|    |
-|/players/1238240/mihajlo-ivancevic          |Odense BK  |      0.024850|   0.0714286|    |
-|/players/1391319/aske-adelgaard             |Odense BK  |      0.024800|   0.0909091|    |
-|/players/435493/jeppe-tverskov              |Odense BK  |      0.060300|   0.1250000|    |
-|/players/854296/alasana-manneh              |Odense BK  |      0.066175|   0.1538462|    |
-|/players/1051047/franco-tongya              |Odense BK  |      0.125175|   0.2439024|    |
-|/players/949266/mads-frkjær-jensen          |Odense BK  |      0.183050|   0.2702703|    |
-|/players/1400227/yankubah-minteh            |Odense BK  |      0.196750|   0.2777778|    |
-|/players/848008/emmanuel-sabbi              |Odense BK  |      0.324500|   0.3225806|    |
-|/players/858384/stephen-odey                |Randers FC |      0.265875|   0.3571429|    |
-|/players/557324/marvin-egho                 |Randers FC |      0.208575|   0.3636364|    |
-|/players/739812/simen-bolkan-nordli         |Randers FC |      0.179875|   0.2941176|    |
-|/players/641357/mikkel-m-pedersen           |Randers FC |      0.049075|   0.1754386|    |
-|/players/1035206/lasse-berg-johnsen         |Randers FC |      0.053300|   0.1754386|    |
-|/players/180467/jakob-ankersen              |Randers FC |      0.076550|   0.2857143|    |
-|/players/141393/bjrn-kopplin                |Randers FC |      0.010275|   0.0909091|    |
-|/players/892419/hugo-andersson              |Randers FC |      0.070575|   0.1428571|    |
-|/players/172768/daniel-hegh                 |Randers FC |      0.032125|   0.1052632|    |
-|/players/492931/mikkel-kallese              |Randers FC |      0.010500|   0.1428571|    |
-|/players/271031/patrik-carlgren             |Randers FC |      0.000000|   0.0769231|    |
-|/players/262912/aron-elis-thrndarson        |Odense BK  |      0.016900|   0.1923077|    |
-|/players/1154142/max-fenger                 |Odense BK  |      0.091925|   0.3030303|    |
-|/players/782199/agon-mucolli                |Odense BK  |      0.044100|   0.2083333|    |
-|/players/1155675/jakob-breum                |Odense BK  |      0.042525|   0.2702703|    |
-|/players/1034138/tobias-klysner             |Randers FC |      0.030025|   0.2857143|    |
-|/players/1165444/filip-bundgaard-kristensen |Randers FC |      0.040275|   0.2941176|    |
-|/players/369746/alhaji-kamara               |Randers FC |      0.067250|   0.3703704|    |
-|/players/1065653/tosin-kehinde              |Randers FC |      0.009475|   0.2500000|    |
+|/players/972732/hans-christian-bernat       |Odense BK  |            NA|   0.1666667|NA  |
+|/players/1036229/gustav-grubbe              |Odense BK  |            NA|   0.2631579|NA  |
+|/players/1238240/mihajlo-ivancevic          |Odense BK  |            NA|   0.3636364|NA  |
+|/players/127406/jrgen-skjelvik              |Odense BK  |            NA|   0.2127660|NA  |
+|/players/1391319/aske-adelgaard             |Odense BK  |            NA|   0.1666667|NA  |
+|/players/435493/jeppe-tverskov              |Odense BK  |            NA|   0.1428571|NA  |
+|/players/854296/alasana-manneh              |Odense BK  |            NA|   0.3030303|NA  |
+|/players/1051047/franco-tongya              |Odense BK  |            NA|   0.2631579|NA  |
+|/players/930047/naatan-skytt                |Odense BK  |            NA|   0.0666667|NA  |
+|/players/949266/mads-frkjær-jensen          |Odense BK  |            NA|   0.2127660|NA  |
+|/players/848008/emmanuel-sabbi              |Odense BK  |            NA|   0.1754386|NA  |
+|/players/1165444/filip-bundgaard-kristensen |Randers FC |            NA|   0.2083333|NA  |
+|/players/557324/marvin-egho                 |Randers FC |            NA|   0.0714286|NA  |
+|/players/739812/simen-bolkan-nordli         |Randers FC |            NA|   0.2272727|NA  |
+|/players/1185549/mads-enggrd                |Randers FC |            NA|   0.1666667|NA  |
+|/players/1035206/lasse-berg-johnsen         |Randers FC |            NA|   0.2500000|NA  |
+|/players/1034138/tobias-klysner             |Randers FC |            NA|   0.1052632|NA  |
+|/players/614168/adam-andersson              |Randers FC |            NA|   0.0833333|NA  |
+|/players/172768/daniel-hegh                 |Randers FC |            NA|   0.1754386|NA  |
+|/players/484640/carl-johansson              |Randers FC |            NA|   0.2631579|NA  |
+|/players/492931/mikkel-kallese              |Randers FC |            NA|   0.0666667|NA  |
+|/players/271031/patrik-carlgren             |Randers FC |            NA|   0.2173913|NA  |
+|/players/262912/aron-elis-thrndarson        |Odense BK  |            NA|   0.0000000|NA  |
+|/players/782199/agon-mucolli                |Odense BK  |            NA|   0.0000000|NA  |
+|/players/1155675/jakob-breum                |Odense BK  |            NA|   0.0000000|NA  |
+|/players/168603/bashkim-kadrii              |Odense BK  |            NA|   0.0000000|NA  |
+|/players/369746/alhaji-kamara               |Randers FC |            NA|   0.0000000|NA  |
+|/players/488975/edgar-babayan               |Randers FC |            NA|   0.0000000|NA  |
+|/players/180467/jakob-ankersen              |Randers FC |            NA|   0.0000000|NA  |
+|/players/858384/stephen-odey                |Randers FC |            NA|   0.0000000|NA  |
 ____________________________________________________
 
 [1] "Facts about Odense BK:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/47532/martin-hansen         |           0|         31.2538|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/187492/bjrn-paulsen         |           1|         51.3705|           2.0033|        0.2266|         1.1977|      0.1383|        0.0655|      0.0558| 90.0000|
-|/players/1367915/tobias-slotsager    |           1|         39.4441|           1.6936|        0.1469|         0.2859|      0.0142|        0.0308|      0.0721| 90.0000|
-|/players/1238240/mihajlo-ivancevic   |           1|         59.6416|           1.2639|        0.1469|         0.0853|      0.0148|        0.0308|      0.0168| 90.0000|
-|/players/1391319/aske-adelgaard      |           1|         45.0548|           1.4239|        0.1469|         0.8240|      0.0435|        0.0308|      0.0968| 90.0000|
-|/players/435493/jeppe-tverskov       |           2|         59.8606|           2.1371|        0.1700|         1.1058|      0.1318|        0.0820|      0.1000| 90.0000|
-|/players/854296/alasana-manneh       |           2|         44.6758|           2.3062|        0.4252|         0.9221|      0.0302|        0.0876|      0.0690| 90.0000|
-|/players/1051047/franco-tongya       |           3|         23.7925|           0.6085|        0.5521|         1.4933|      0.1302|        0.1618|      0.0371| 73.5000|
-|/players/949266/mads-frkjær-jensen   |           3|         35.9443|           0.6218|        0.8961|         1.7235|      0.1651|        0.2383|      0.1474| 78.0870|
-|/players/1400227/yankubah-minteh     |           3|         23.6970|           2.3327|        0.4907|         1.9911|      0.2362|        0.2647|      0.2270| 77.1667|
-|/players/848008/emmanuel-sabbi       |           5|         16.4344|           0.4683|        0.9858|         2.2609|      0.4045|        0.4815|      0.0708| 74.5000|
-|/players/262912/aron-elis-thrndarson |          NA|              NA|               NA|        0.0436|         0.3053|      0.0562|        0.0201|      0.0136| 16.5000|
-|/players/1154142/max-fenger          |          NA|              NA|               NA|        0.2275|         0.4549|      0.0710|        0.1187|      0.0264| 15.5000|
-|/players/782199/agon-mucolli         |          NA|              NA|               NA|        0.2864|         0.5727|      0.0413|        0.0573|      0.0675| 12.8333|
-|/players/1155675/jakob-breum         |          NA|              NA|               NA|        0.1557|         0.5060|      0.0451|        0.0559|      0.0082| 11.9130|
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/972732/hans-christian-bernat |           0|         26.5101|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1036229/gustav-grubbe        |           1|         38.7657|           2.4567|        0.1578|         0.2326|      0.0055|        0.0336|      0.0775| 90.0000|
+|/players/1238240/mihajlo-ivancevic    |           1|         64.2863|           1.1718|        0.1578|         0.1257|      0.0207|        0.0336|      0.0113| 90.0000|
+|/players/127406/jrgen-skjelvik        |           1|         45.5405|           1.4361|        0.1938|         0.8203|      0.1238|        0.0570|      0.0872| 90.0000|
+|/players/1391319/aske-adelgaard       |           1|         48.5635|           1.3201|        0.1578|         1.2142|      0.0608|        0.0336|      0.0654| 90.0000|
+|/players/435493/jeppe-tverskov        |           2|         60.3642|           2.1371|        0.1700|         1.1058|      0.1318|        0.0820|      0.1000| 90.0000|
+|/players/854296/alasana-manneh        |           2|         45.0517|           2.3062|        0.4252|         0.9221|      0.0302|        0.0876|      0.0690| 90.0000|
+|/players/1051047/franco-tongya        |           3|         20.5222|           1.1416|        0.4273|         1.5027|      0.1468|        0.1587|      0.0592| 73.5000|
+|/players/930047/naatan-skytt          |           3|         32.9974|           1.2453|        0.8288|         1.9871|      0.1996|        0.2724|      0.1178| 77.8182|
+|/players/949266/mads-frkjær-jensen    |           3|         31.0037|           1.1664|        0.6937|         1.7344|      0.1862|        0.2337|      0.2355| 78.0870|
+|/players/848008/emmanuel-sabbi        |           5|         16.5726|           0.4683|        0.9858|         2.2609|      0.4045|        0.4815|      0.0708| 74.5000|
+|/players/262912/aron-elis-thrndarson  |           0|              NA|               NA|        0.0486|         0.3400|      0.0617|        0.0202|      0.0152| 16.5000|
+|/players/782199/agon-mucolli          |           0|              NA|               NA|        0.3851|         0.7702|      0.0548|        0.0692|      0.0908| 15.5000|
+|/players/1155675/jakob-breum          |           0|              NA|               NA|        0.1773|         0.5761|      0.0507|        0.0572|      0.0093| 12.1818|
+|/players/168603/bashkim-kadrii        |           0|              NA|               NA|        0.2865|         0.6304|      0.0543|        0.1092|      0.0039| 11.9130|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +68,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Randers FC:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                                    | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/858384/stephen-odey                |           5|         25.2621|           0.6106|        0.8757|         2.2492|      0.3023|        0.3812|      0.0919| 77.2549|
-|/players/557324/marvin-egho                 |           5|         17.9536|           0.8433|        0.8020|         2.0176|      0.3265|        0.2877|      0.1163| 90.0000|
-|/players/739812/simen-bolkan-nordli         |           3|         22.1606|           1.3149|        0.6538|         1.9209|      0.1923|        0.2438|      0.1118| 79.0870|
-|/players/641357/mikkel-m-pedersen           |           3|         34.9802|           1.4330|        0.3369|         0.7196|      0.0545|        0.0613|      0.1383| 90.0000|
-|/players/1035206/lasse-berg-johnsen         |           3|         66.0874|           2.5341|        0.0999|         0.5006|      0.0545|        0.0613|      0.0699| 90.0000|
-|/players/180467/jakob-ankersen              |           3|         26.6401|           1.5064|        0.3269|         1.4177|      0.1236|        0.1003|      0.0736| 71.8333|
-|/players/141393/bjrn-kopplin                |           1|         41.1853|           2.1407|        0.1141|         0.5340|      0.0388|        0.0131|      0.0845| 90.0000|
-|/players/892419/hugo-andersson              |           1|         38.3665|           0.7059|        0.2124|         0.5123|      0.0708|        0.0903|      0.0132| 90.0000|
-|/players/172768/daniel-hegh                 |           1|         57.7188|           1.3357|        0.1556|         0.5629|      0.0498|        0.0375|      0.0287| 90.0000|
-|/players/492931/mikkel-kallese              |           1|         30.4843|           1.9657|        0.0444|         0.3638|      0.0184|        0.0137|      0.0799| 77.7838|
+|/players/1165444/filip-bundgaard-kristensen |           5|         16.8356|           0.6940|        0.4908|         1.6938|      0.0908|        0.2938|      0.0559| 58.7778|
+|/players/557324/marvin-egho                 |           5|         21.6048|           0.4920|        1.0708|         2.0444|      0.5396|        0.3750|      0.1378| 90.0000|
+|/players/739812/simen-bolkan-nordli         |           3|         25.2446|           1.2195|        0.9613|         2.5997|      0.2381|        0.2211|      0.1644| 90.0000|
+|/players/1185549/mads-enggrd                |           3|         29.8439|           1.4166|        0.0937|         0.4322|      0.0430|        0.0556|      0.0188| 65.3333|
+|/players/1035206/lasse-berg-johnsen         |           3|         66.1559|           2.0653|        0.1291|         0.5953|      0.0593|        0.0556|      0.0903| 90.0000|
+|/players/1034138/tobias-klysner             |           3|         21.8277|           1.6999|        0.2981|         1.1191|      0.1013|        0.1345|      0.1184| 72.3529|
+|/players/614168/adam-andersson              |           1|         44.9164|           1.8183|        0.1036|         0.5433|      0.0335|        0.0117|      0.1066| 90.0000|
+|/players/172768/daniel-hegh                 |           1|         52.4410|           1.3384|        0.1883|         0.4939|      0.0552|        0.0646|      0.0212| 90.0000|
+|/players/484640/carl-johansson              |           1|         43.1386|           1.0211|        0.1793|         0.6236|      0.0683|        0.0547|      0.0227| 90.0000|
+|/players/492931/mikkel-kallese              |           1|         27.6968|           1.9696|        0.0537|         0.3192|      0.0204|        0.0236|      0.0591| 77.7838|
 |/players/271031/patrik-carlgren             |           0|         31.5876|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1034138/tobias-klysner             |          NA|              NA|               NA|        0.1490|         0.4842|      0.0430|        0.0393|      0.0172| 18.1667|
-|/players/1165444/filip-bundgaard-kristensen |          NA|              NA|               NA|        0.2821|         0.6077|      0.0368|        0.0534|      0.0093| 12.7451|
-|/players/369746/alhaji-kamara               |          NA|              NA|               NA|        0.1982|         0.3964|      0.0687|        0.0830|      0.0109| 12.2162|
-|/players/1065653/tosin-kehinde              |          NA|              NA|               NA|        0.0894|         0.2861|      0.0216|        0.0100|      0.0466| 10.9130|
+|/players/369746/alhaji-kamara               |           0|              NA|               NA|        0.5640|         1.1280|      0.1927|        0.2123|      0.0310| 31.2222|
+|/players/488975/edgar-babayan               |           0|              NA|               NA|        0.6363|         1.5113|      0.1765|        0.1106|      0.0811| 24.6667|
+|/players/180467/jakob-ankersen              |           0|              NA|               NA|        0.2935|         0.9391|      0.0579|        0.0446|      0.0130| 17.6471|
+|/players/858384/stephen-odey                |           0|              NA|               NA|        0.2582|         0.4948|      0.0837|        0.0768|      0.0032| 12.2162|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
