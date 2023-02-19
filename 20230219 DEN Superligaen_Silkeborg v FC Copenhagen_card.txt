@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-19 06:39:42.395"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Silkeborg 1.2091 to FC Copenhagen 1.3461"
+[1] "Total: 2.5552"
+[1] "Silkeborg %: 34.24"
+[1] "Draw %: 26.96"
+[1] "FC Copenhagen %: 38.8"
+[1] "--XG Model--"
+[1] "Score: Silkeborg 1.2057 to FC Copenhagen 1.4383"
+[1] "Total: 2.644"
+[1] "Silkeborg %: 31.71"
+[1] "Draw %: 26.4"
+[1] "FC Copenhagen %: 41.89"
+[1] "--XGoT Model--"
+[1] "Score: Silkeborg 1.3096 to FC Copenhagen 1.4923"
+[1] "Total: 2.8019"
+[1] "Silkeborg %: 33.84"
+[1] "Draw %: 25.42"
+[1] "FC Copenhagen %: 40.74"
+[1] "--XA Model--"
+[1] "Score: Silkeborg 1.2159 to FC Copenhagen 1.3477"
+[1] "Total: 2.5636"
+[1] "Silkeborg %: 34.32"
+[1] "Draw %: 26.83"
+[1] "FC Copenhagen %: 38.85"
+[1] "--Mean 4 Models--"
+[1] "Silkeborg has a mean win % of 33.53%; a min win % of 31.71%; a max win % of 34.32%."
+[1] "Draw has a mean win % of 26.4%; a min win % of 25.42%; a max win % of 26.96%."
+[1] "FC Copenhagen has a mean win % of 40.07%; a min win % of 38.8%; a max win of % 41.89%."
+[1] "Silkeborg has a mean win of the Double Chance of 59.93%; a min win % of 58.11%, a max win % of 61.2%."
+[1] "FC Copenhagen has a mean win of the Double Chance of 66.47%; a min win % of 65.68%, a max win % of 68.29%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.08%; max % is 51.94 and min % is 45.97%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.92%; max % is 54.03 and min % is 48.06%."
+[1] "--Sportsbook Odds--"
+[1] "Silkeborg Barstool Odds are: 32.26"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "FC Copenhagen Barstool Odds are: 44.44"
+[1] "Silkeborg Adjusted Barstool Odds are: 30.402"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.717"
+[1] "FC Copenhagen Adjusted Barstool Odds are: 41.881"
+[1] "Silkeborg's Barstool Odds to cover the 0.25 spread are: 53.48"
+[1] "FC Copenhagen's Barstool Odds to cover the -0.25 spread are: 50.76"
+[1] "Barstool's line for the total is 2.5 at 2, which is a 50% chance of the over 2.5 hitting. The line for the under is 1.81, which is a 55.25% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+            bet           date_time
+1 Silkeborg ATS 2023-02-19 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                   |team          | expected_attg| expected_gs|bet |
+|:------------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/200589/nicolai-larsen             |Silkeborg     |      0.000000|   0.3703704|    |
+|/players/1060617/oliver-sonne              |Silkeborg     |      0.034125|   0.0588235|    |
+|/players/502717/tobias-salquist            |Silkeborg     |      0.039500|   0.0588235|    |
+|/players/733965/joel-felix                 |Silkeborg     |      0.029750|   0.0416667|    |
+|/players/860543/lukas-engel                |Silkeborg     |      0.029425|   0.0588235|    |
+|/players/1161870/anders-klynge             |Silkeborg     |      0.099025|   0.1666667|    |
+|/players/683894/mark-brink                 |Silkeborg     |      0.000825|   0.1333333|    |
+|/players/745912/stefan-thordarson          |Silkeborg     |      0.131550|   0.1428571|    |
+|/players/187333/kasper-kusk                |Silkeborg     |      0.103400|   0.2083333|    |
+|/players/954929/sebastian-jrgensen         |Silkeborg     |      0.201225|   0.2857143|    |
+|/players/950603/tonni-adamsen              |Silkeborg     |      0.309575|   0.3030303|    |
+|/players/965349/mohamed-daramy             |FC Copenhagen |      0.196825|   0.3333333|    |
+|/players/576118/diogo-goncalves            |FC Copenhagen |      0.201900|   0.2272727|    |
+|/players/1044470/hkon-arnar-haraldsson     |FC Copenhagen |      0.255275|   0.2631579|    |
+|/players/258226/viktor-claesson            |FC Copenhagen |      0.087500|   0.2941176|    |
+|/players/1320887/william-clem              |FC Copenhagen |      0.076800|   0.1428571|    |
+|/players/262739/lukas-lerager              |FC Copenhagen |      0.079725|   0.1785714|    |
+|/players/205005/christian-srensen          |FC Copenhagen |      0.063450|   0.1052632|    |
+|/players/306563/davit-khocholava           |FC Copenhagen |      0.023400|   0.1111111|    |
+|/players/442602/denis-vavro                |FC Copenhagen |      0.047425|   0.1052632|    |
+|/players/1305787/elias-jelert              |FC Copenhagen |      0.022275|   0.0714286|    |
+|/players/760722/kamil-grabara              |FC Copenhagen |      0.000000|   0.2702703|    |
+|/players/266521/lasse-vigen-christensen    |Silkeborg     |      0.029475|   0.0000000|    |
+|/players/1060542/sren-tengstedt            |Silkeborg     |      0.046525|   0.0000000|    |
+|/players/1026833/pelle-mattsson            |Silkeborg     |      0.006375|   0.0000000|    |
+|/players/728886/mads-kaalund               |Silkeborg     |      0.000000|   0.0000000|    |
+|/players/1000428/isak-bergmann-johannesson |FC Copenhagen |      0.085825|   0.0000000|*   |
+|/players/1078936/paul-mukairu              |FC Copenhagen |      0.015175|   0.0000000|    |
+|/players/566158/kevin-diks                 |FC Copenhagen |      0.004225|   0.0000000|    |
+|/players/1315475/roony-bardghji            |FC Copenhagen |      0.038400|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Silkeborg:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/200589/nicolai-larsen          |           0|         37.2199|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1060617/oliver-sonne           |           1|         38.8428|           2.2956|        0.1929|         0.7116|      0.0570|        0.0448|      0.0811| 90.0000|
+|/players/502717/tobias-salquist         |           1|         63.3604|           0.9972|        0.1360|         0.4390|      0.0558|        0.0457|      0.0194| 90.0000|
+|/players/733965/joel-felix              |           1|         68.7993|           1.0849|        0.1360|         0.1936|      0.0260|        0.0351|      0.0111| 90.0000|
+|/players/860543/lukas-engel             |           1|         51.4872|           1.9486|        0.1461|         0.7744|      0.0436|        0.0351|      0.1154| 90.0000|
+|/players/1161870/anders-klynge          |           3|         44.5167|           2.9997|        0.4328|         0.9230|      0.1104|        0.1252|      0.1035| 90.0000|
+|/players/683894/mark-brink              |           3|         56.1465|           1.2266|        0.1497|         0.4258|      0.0143|        0.0012|      0.0380| 77.1667|
+|/players/745912/stefan-thordarson       |           3|         32.7298|           1.1322|        0.3993|         1.6322|      0.1381|        0.1614|      0.0988| 71.4444|
+|/players/187333/kasper-kusk             |           5|         24.8658|           0.8426|        0.5189|         1.5266|      0.2077|        0.1267|      0.1112| 78.0857|
+|/players/954929/sebastian-jrgensen      |           5|         34.6695|           1.2554|        0.7456|         2.2333|      0.2669|        0.2583|      0.1077| 90.0000|
+|/players/950603/tonni-adamsen           |           5|         18.3222|           0.8738|        0.9081|         1.7811|      0.2136|        0.4381|      0.0887| 67.8000|
+|/players/266521/lasse-vigen-christensen |           0|              NA|               NA|        0.0779|         0.1753|      0.0386|        0.0367|      0.0306| 22.2000|
+|/players/1060542/sren-tengstedt         |           0|              NA|               NA|        0.2050|         0.5980|      0.0877|        0.0565|      0.0133| 18.5556|
+|/players/1026833/pelle-mattsson         |           0|              NA|               NA|        0.0231|         0.0694|      0.0070|        0.0068|      0.0065| 12.8333|
+|/players/728886/mads-kaalund            |           0|              NA|               NA|        0.0000|         0.0513|      0.0014|        0.0000|      0.0063| 11.9143|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Kent Nielsen |        48403|     -3.198525|4-3-2-1   |
+____________________________________________________
+
+[1] "Facts about FC Copenhagen:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                                   | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/965349/mohamed-daramy             |           5|         21.0306|           0.5132|        0.6076|         1.5501|      0.2070|        0.2510|      0.0689| 72.6486|
+|/players/576118/diogo-goncalves            |           5|         21.3582|           1.3344|        0.7650|         2.4974|      0.2564|        0.2510|      0.2512| 90.0000|
+|/players/1044470/hkon-arnar-haraldsson     |           5|         28.2493|           1.0614|        0.8451|         1.7558|      0.2755|        0.3283|      0.0249| 73.2143|
+|/players/258226/viktor-claesson            |           3|         39.8894|           1.2667|        0.4110|         1.3582|      0.1451|        0.1073|      0.1594| 80.7206|
+|/players/1320887/william-clem              |           3|         53.2611|           2.1420|        0.3147|         1.0355|      0.0462|        0.0938|      0.0475| 90.0000|
+|/players/262739/lukas-lerager              |           3|         48.0794|           2.0068|        0.3147|         0.9842|      0.1106|        0.0938|      0.0667| 90.0000|
+|/players/205005/christian-srensen          |           1|         56.6211|           1.7513|        0.2554|         0.8034|      0.0833|        0.0722|      0.1593| 90.0000|
+|/players/306563/davit-khocholava           |           1|         56.6134|           1.2622|        0.0566|         0.2498|      0.0454|        0.0271|      0.0108| 90.0000|
+|/players/442602/denis-vavro                |           1|         55.5947|           1.1744|        0.2157|         0.8173|      0.0606|        0.0547|      0.0184| 90.0000|
+|/players/1305787/elias-jelert              |           1|         39.5220|           1.9966|        0.0505|         0.2306|      0.0180|        0.0271|      0.0418| 80.1667|
+|/players/760722/kamil-grabara              |           0|         25.7932|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1000428/isak-bergmann-johannesson |           0|              NA|               NA|        0.2529|         0.3696|      0.0666|        0.1074|      0.0263| 17.3514|
+|/players/1078936/paul-mukairu              |           0|              NA|               NA|        0.0721|         0.2452|      0.0315|        0.0169|      0.0070| 16.7857|
+|/players/566158/kevin-diks                 |           0|              NA|               NA|        0.0317|         0.0951|      0.0165|        0.0048|      0.0161|  9.8333|
+|/players/1315475/roony-bardghji            |           0|              NA|               NA|        0.1070|         0.3210|      0.0651|        0.0463|      0.0134|  9.2794|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Jacob Neestrup |        10888|     -2.246364|4-3-3     |
