@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 10:10:02.971"
+[1] "Updated at 2023-02-18 20:41:03.462"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,19 +34,20 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 60.65%; max % is 64.17 and min % is 52.88%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 39.36%; max % is 47.12 and min % is 35.83%."
 [1] "--Sportsbook Odds--"
-[1] "Manchester United Barstool Odds are: 62.5"
-[1] "The Barstool Odds of a Draw are: 23.26"
+[1] "Manchester United Barstool Odds are: 61.9"
+[1] "The Barstool Odds of a Draw are: 23.81"
 [1] "Leicester City Barstool Odds are: 19.05"
-[1] "Manchester United Adjusted Barstool Odds are: 59.632"
-[1] "The Adjusted Barstool Odds of a Draw are: 22.193"
-[1] "Leicester City Adjusted Barstool Odds are: 18.176"
-[1] "Manchester United's Barstool Odds to cover the -1 spread are: 50.76"
-[1] "Leicester City's Barstool Odds to cover the 1 spread are: 53.76"
-[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29% chance of the over 2.5 hitting. The line for the under is 2.38, which is a 42.02% chance of the under 2.5 hitting."
+[1] "Manchester United Adjusted Barstool Odds are: 59.087"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.728"
+[1] "Leicester City Adjusted Barstool Odds are: 18.184"
+[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 61.35"
+[1] "Leicester City's Barstool Odds to cover the 0.5 spread are: 43.1"
+[1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11% chance of the over 2.5 hitting. The line for the under is 2.32, which is a 43.1% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-             bet           date_time
-1 Leicester City 2023-02-19 06:00:00
+                 bet           date_time
+1     Leicester City 2023-02-19 06:00:00
+2 Leicester City ATS 2023-02-19 06:00:00
 
 
 |player          |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
@@ -62,36 +63,36 @@
 
 |pageUrl2                              |team              | expected_attg| expected_gs|bet |
 |:-------------------------------------|:-----------------|-------------:|-----------:|:---|
-|/players/182917/david-de-gea          |Manchester United |      0.000000|   0.2127660|    |
+|/players/182917/david-de-gea          |Manchester United |      0.000000|   0.2083333|    |
 |/players/751550/diogo-dalot           |Manchester United |      0.064875|   0.0666667|    |
 |/players/255610/harry-maguire         |Manchester United |      0.055200|   0.1052632|    |
 |/players/847983/lisandro-martinez     |Manchester United |      0.036850|   0.0555556|    |
 |/players/362694/luke-shaw             |Manchester United |      0.028125|   0.0476190|    |
 |/players/215151/marcel-sabitzer       |Manchester United |      0.072125|   0.2439024|    |
 |/players/322049/fred                  |Manchester United |      0.106575|   0.1666667|    |
-|/players/696365/marcus-rashford       |Manchester United |      0.302000|   0.4347826|    |
+|/players/696365/marcus-rashford       |Manchester United |      0.302000|   0.4444444|    |
 |/players/422685/bruno-fernandes       |Manchester United |      0.235300|   0.3225806|    |
-|/players/1203665/alejandro-garnacho   |Manchester United |      0.203625|   0.3636364|    |
+|/players/1203665/alejandro-garnacho   |Manchester United |      0.203625|   0.3571429|    |
 |/players/351999/wout-weghorst         |Manchester United |      0.416275|   0.4000000|    |
-|/players/643709/kelechi-iheanacho     |Leicester City    |      0.262375|   0.3125000|    |
-|/players/760359/harvey-barnes         |Leicester City    |      0.174950|   0.2083333|    |
-|/players/493165/james-maddison        |Leicester City    |      0.169350|   0.1818182|    |
-|/players/1039534/tete                 |Leicester City    |      0.090125|   0.1785714|    |
+|/players/643709/kelechi-iheanacho     |Leicester City    |      0.262375|   0.3030303|    |
+|/players/760359/harvey-barnes         |Leicester City    |      0.174950|   0.2000000|    |
+|/players/493165/james-maddison        |Leicester City    |      0.169350|   0.1754386|    |
+|/players/1039534/tete                 |Leicester City    |      0.090125|   0.1724138|    |
 |/players/886016/kiernan-dewsbury-hall |Leicester City    |      0.015950|   0.0714286|    |
-|/players/210128/nampalys-mendy        |Leicester City    |      0.059650|   0.0285714|    |
+|/players/210128/nampalys-mendy        |Leicester City    |      0.059650|   0.0277778|    |
 |/players/1211437/victor-kristiansen   |Leicester City    |      0.027025|   0.0454545|    |
-|/players/693678/wout-faes             |Leicester City    |      0.030875|   0.0285714|    |
-|/players/671518/harry-souttar         |Leicester City    |      0.015000|   0.1176471|    |
+|/players/693678/wout-faes             |Leicester City    |      0.030875|   0.0277778|    |
+|/players/671518/harry-souttar         |Leicester City    |      0.015000|   0.1111111|    |
 |/players/465750/timothy-castagne      |Leicester City    |      0.036325|   0.0666667|    |
 |/players/254472/danny-ward            |Leicester City    |      0.000000|   0.2564103|    |
-|/players/1073402/facundo-pellistri    |Manchester United |      0.015800|   0.2173913|    |
+|/players/1073402/facundo-pellistri    |Manchester United |      0.015800|   0.2127660|    |
 |/players/846381/jadon-sancho          |Manchester United |      0.010300|   0.2941176|    |
 |/players/1050166/anthony-elanga       |Manchester United |      0.029700|   0.2777778|    |
 |/players/950473/mason-greenwood       |Manchester United |      0.012675|   0.0333333|    |
 |/players/644459/patson-daka           |Leicester City    |      0.089875|   0.3125000|    |
-|/players/286119/jamie-vardy           |Leicester City    |      0.056375|   0.3448276|    |
+|/players/286119/jamie-vardy           |Leicester City    |      0.056375|   0.3389831|    |
 |/players/282012/dennis-praet          |Leicester City    |      0.025150|   0.0833333|    |
-|/players/882401/boubakary-soumar      |Leicester City    |      0.000000|   0.0370370|    |
+|/players/882401/boubakary-soumar      |Leicester City    |      0.000000|   0.0357143|    |
 ____________________________________________________
 
 [1] "Facts about Manchester United:"
