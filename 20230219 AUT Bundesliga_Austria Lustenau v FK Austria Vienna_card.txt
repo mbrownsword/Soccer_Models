@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-18 19:36:04.864"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Austria Lustenau 1.6292 to FK Austria Vienna 1.5455"
+[1] "Total: 3.1747"
+[1] "Austria Lustenau %: 40.06"
+[1] "Draw %: 23.17"
+[1] "FK Austria Vienna %: 36.77"
+[1] "--XG Model--"
+[1] "Score: Austria Lustenau 1.7046 to FK Austria Vienna 1.5643"
+[1] "Total: 3.2689"
+[1] "Austria Lustenau %: 41.64"
+[1] "Draw %: 23.1"
+[1] "FK Austria Vienna %: 35.26"
+[1] "--XGoT Model--"
+[1] "Score: Austria Lustenau 2.0657 to FK Austria Vienna 1.633"
+[1] "Total: 3.6987"
+[1] "Austria Lustenau %: 47.46"
+[1] "Draw %: 21.6"
+[1] "FK Austria Vienna %: 30.94"
+[1] "--XA Model--"
+[1] "Score: Austria Lustenau 1.6227 to FK Austria Vienna 1.7473"
+[1] "Total: 3.37"
+[1] "Austria Lustenau %: 35.61"
+[1] "Draw %: 23.1"
+[1] "FK Austria Vienna %: 41.29"
+[1] "--Mean 4 Models--"
+[1] "Austria Lustenau has a mean win % of 41.19%; a min win % of 35.61%; a max win % of 47.46%."
+[1] "Draw has a mean win % of 22.74%; a min win % of 21.6%; a max win % of 23.17%."
+[1] "FK Austria Vienna has a mean win % of 36.07%; a min win % of 30.94%; a max win of % 41.29%."
+[1] "Austria Lustenau has a mean win of the Double Chance of 63.93%; a min win % of 58.71%, a max win % of 69.06%."
+[1] "FK Austria Vienna has a mean win of the Double Chance of 58.81%; a min win % of 52.54%, a max win % of 64.39%."
+[1] "The mean likelihood that there are more than 2.5 goals is 64.83%; max % is 71.31 and min % is 60.88%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 35.16%; max % is 39.12 and min % is 28.69%."
+[1] "--Sportsbook Odds--"
+[1] "Austria Lustenau Barstool Odds are: 28.57"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "FK Austria Vienna Barstool Odds are: 52.63"
+[1] "Austria Lustenau Adjusted Barstool Odds are: 26.572"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.479"
+[1] "FK Austria Vienna Adjusted Barstool Odds are: 48.949"
+[1] "Austria Lustenau's Barstool Odds to cover the 0.5 spread are: 53.76"
+[1] "FK Austria Vienna's Barstool Odds to cover the -0.5 spread are: 52.08"
+[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29% chance of the over 2.5 hitting. The line for the under is 2.3, which is a 43.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                   bet           date_time
+1     Austria Lustenau 2023-02-19 05:30:00
+2 Austria Lustenau ATS 2023-02-19 05:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team              | expected_attg| expected_gs|bet |
+|:----------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/459256/domenik-schierl    |Austria Lustenau  |      0.000000|   0.0588235|    |
+|/players/792751/fabian-gmeiner     |Austria Lustenau  |      0.008725|   0.0454545|    |
+|/players/949648/hakim-guenouche    |Austria Lustenau  |      0.038950|   0.0714286|    |
+|/players/207070/matthias-maak      |Austria Lustenau  |      0.047725|   0.0666667|    |
+|/players/1081230/jean-hugonet      |Austria Lustenau  |      0.007900|   0.0454545|    |
+|/players/1212869/cem-trkmen        |Austria Lustenau  |      0.081150|   0.1052632|    |
+|/players/171663/pius-grabher       |Austria Lustenau  |      0.044725|   0.1000000|    |
+|/players/1317338/yadaly-diaby      |Austria Lustenau  |      0.109250|   0.2631579|    |
+|/players/1161287/torben-rhein      |Austria Lustenau  |      0.126125|   0.1333333|    |
+|/players/1024295/anderson          |Austria Lustenau  |      0.243325|   0.2222222|    |
+|/players/861738/stefano-surdanovic |Austria Lustenau  |      0.242325|   0.2272727|    |
+|/players/820133/christian-frchtl   |FK Austria Vienna |      0.000000|   0.2439024|    |
+|/players/447085/reinhold-ranftl    |FK Austria Vienna |      0.038650|   0.1428571|    |
+|/players/746794/lukas-mhl          |FK Austria Vienna |      0.056750|   0.0588235|    |
+|/players/466552/lucas-galvao       |FK Austria Vienna |      0.005675|   0.0833333|    |
+|/players/534228/marvin-martins     |FK Austria Vienna |      0.057750|   0.0769231|    |
+|/players/557345/andreas-gruber     |FK Austria Vienna |      0.107950|   0.1111111|    |
+|/players/951960/aleksandar-jukic   |FK Austria Vienna |      0.117200|   0.2777778|    |
+|/players/1073496/matthias-braunder |FK Austria Vienna |      0.056950|   0.1111111|    |
+|/players/658636/manfred-fischer    |FK Austria Vienna |      0.154525|   0.2083333|    |
+|/players/1159533/muharem-huskovic  |FK Austria Vienna |      0.494375|   0.4081633|*   |
+|/players/769955/dominik-fitz       |FK Austria Vienna |      0.117200|   0.3333333|    |
+|/players/824191/lukas-fridrikas    |Austria Lustenau  |      0.131725|   0.3030303|    |
+|/players/919693/michael-cheukoua   |Austria Lustenau  |      0.378275|   0.2222222|*   |
+|/players/182642/darijo-grujcic     |Austria Lustenau  |      0.000000|   0.0555556|    |
+|/players/1056064/tobias-berger     |Austria Lustenau  |      0.000000|   0.0666667|    |
+|/players/1073569/can-keles         |FK Austria Vienna |      0.076325|   0.2702703|    |
+|/players/176907/georg-teigl        |FK Austria Vienna |      0.000000|   0.0769231|    |
+|/players/388903/haris-tabakovic    |FK Austria Vienna |      0.005600|   0.4081633|    |
+|/players/104644/james-holland      |FK Austria Vienna |      0.000000|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about Austria Lustenau:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/459256/domenik-schierl    |           0|         30.9736|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/792751/fabian-gmeiner     |           1|         25.7007|           1.1934|        0.0567|         0.2390|      0.0047|        0.0098|      0.0785| 70.2500|
+|/players/949648/hakim-guenouche    |           1|         43.1691|           2.2932|        0.2105|         0.4889|      0.0405|        0.0454|      0.0656| 90.0000|
+|/players/207070/matthias-maak      |           1|         44.8334|           0.9258|        0.1647|         0.3824|      0.0333|        0.0589|      0.0041| 90.0000|
+|/players/1081230/jean-hugonet      |           1|         49.1336|           1.2764|        0.0726|         0.5624|      0.0853|        0.0098|      0.0191| 90.0000|
+|/players/1212869/cem-trkmen        |           2|         25.8125|           0.9154|        0.1651|         0.6512|      0.0546|        0.0982|      0.0172| 66.2500|
+|/players/171663/pius-grabher       |           2|         49.6332|           3.2644|        0.2243|         0.6519|      0.0574|        0.0509|      0.1371| 90.0000|
+|/players/1317338/yadaly-diaby      |           3|         13.8464|           0.6593|        0.3544|         1.2111|      0.0864|        0.1376|      0.0115| 64.5000|
+|/players/1161287/torben-rhein      |           3|         32.5060|           0.5651|        0.6076|         1.2111|      0.0801|        0.1573|      0.1141| 75.1429|
+|/players/1024295/anderson          |           3|         25.4856|           2.1998|        0.7095|         1.7173|      0.3692|        0.3189|      0.2590| 90.0000|
+|/players/861738/stefano-surdanovic |           5|         18.0834|           0.4834|        0.8804|         2.0980|      0.3097|        0.3261|      0.0701| 90.0000|
+|/players/824191/lukas-fridrikas    |           0|              NA|               NA|        0.4110|         0.6166|      0.1149|        0.1667|      0.0647| 25.5000|
+|/players/919693/michael-cheukoua   |           0|              NA|               NA|        0.5496|         0.8243|      0.3269|        0.5443|      0.0165| 23.7500|
+|/players/182642/darijo-grujcic     |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0037| 19.7500|
+|/players/1056064/tobias-berger     |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0161| 14.8571|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Markus Mader |        14844|     -10.55733|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about FK Austria Vienna:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/820133/christian-frchtl   |           0|         35.4901|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/447085/reinhold-ranftl    |           1|         46.1956|           1.7832|        0.1844|         0.7027|      0.0460|        0.0406|      0.0926| 90.0000|
+|/players/746794/lukas-mhl          |           1|         53.0241|           1.3601|        0.1433|         0.3755|      0.0583|        0.0600|      0.0248| 90.0000|
+|/players/466552/lucas-galvao       |           1|         51.8904|           1.3991|        0.0824|         0.4450|      0.0284|        0.0064|      0.0148| 90.0000|
+|/players/534228/marvin-martins     |           3|         40.3820|           2.5365|        0.2077|         0.7758|      0.0442|        0.0622|      0.0574| 90.0000|
+|/players/557345/andreas-gruber     |           3|         25.4768|           0.3758|        0.4431|         1.2287|      0.1083|        0.1159|      0.1898| 70.3333|
+|/players/951960/aleksandar-jukic   |           3|         29.4046|           1.4348|        0.4230|         1.1968|      0.0968|        0.1290|      0.1259| 72.0000|
+|/players/1073496/matthias-braunder |           3|         44.4273|           2.4157|        0.2077|         0.7758|      0.0442|        0.0622|      0.1235| 90.0000|
+|/players/658636/manfred-fischer    |           3|         45.0497|           2.5701|        0.4754|         1.5183|      0.1484|        0.1684|      0.1077| 90.0000|
+|/players/1159533/muharem-huskovic  |           5|         15.5267|           0.5726|        1.0818|         2.2123|      0.5124|        0.6976|      0.0888| 77.0000|
+|/players/769955/dominik-fitz       |           5|         21.4012|           0.6513|        0.8789|         2.3110|      0.1528|        0.1252|      0.1313| 70.8750|
+|/players/1073569/can-keles         |           0|              NA|               NA|        0.2980|         0.9935|      0.0827|        0.0820|      0.0328| 19.6667|
+|/players/176907/georg-teigl        |           0|              NA|               NA|        0.0000|         0.4157|      0.0507|        0.0000|      0.0728| 19.1250|
+|/players/388903/haris-tabakovic    |           0|              NA|               NA|        0.1013|         0.8101|      0.1024|        0.0058|      0.0061| 18.0000|
+|/players/104644/james-holland      |           0|              NA|               NA|        0.0000|         0.2303|      0.0110|        0.0000|      0.0537| 13.0000|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Michael Wimmer |         7897|           4.8|3-5-2     |
