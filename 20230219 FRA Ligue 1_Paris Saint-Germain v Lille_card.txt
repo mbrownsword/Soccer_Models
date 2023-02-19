@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 15:04:08.668"
+[1] "Updated at 2023-02-18 20:09:54.953"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -35,14 +35,14 @@
 [1] "The mean likelihood that there are fewer than 2.5 goals is 48.95%; max % is 54.87 and min % is 45.12%."
 [1] "--Sportsbook Odds--"
 [1] "Paris Saint-Germain Barstool Odds are: 63.64"
-[1] "The Barstool Odds of a Draw are: 23.26"
+[1] "The Barstool Odds of a Draw are: 23.53"
 [1] "Lille Barstool Odds are: 18.52"
-[1] "Paris Saint-Germain Adjusted Barstool Odds are: 60.368"
-[1] "The Adjusted Barstool Odds of a Draw are: 22.064"
-[1] "Lille Adjusted Barstool Odds are: 17.568"
+[1] "Paris Saint-Germain Adjusted Barstool Odds are: 60.214"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.263"
+[1] "Lille Adjusted Barstool Odds are: 17.523"
 [1] "Paris Saint-Germain's Barstool Odds to cover the -0.5 spread are: 62.5"
 [1] "Lille's Barstool Odds to cover the 0.5 spread are: 42.02"
-[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29% chance of the over 2.5 hitting. The line for the under is 2.38, which is a 42.02% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.64, which is a 60.98% chance of the over 2.5 hitting. The line for the under is 2.28, which is a 43.86% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                               bet           date_time
@@ -66,7 +66,7 @@
 |/players/19533/neymar                |Paris Saint-Germain |      0.181325|   0.5000000|    |
 |/players/30981/lionel-messi          |Paris Saint-Germain |      0.343375|   0.5000000|    |
 |/players/701154/kylian-mbapp         |Paris Saint-Germain |      0.333250|   0.5652174|    |
-|/players/939569/jonathan-david       |Lille               |      0.265125|   0.3448276|    |
+|/players/939569/jonathan-david       |Lille               |      0.265125|   0.3508772|    |
 |/players/466478/jonathan-bamba       |Lille               |      0.111725|   0.2500000|    |
 |/players/199834/rmy-cabella          |Lille               |      0.197800|   0.2173913|    |
 |/players/862616/edon-zhegrova        |Lille               |      0.159300|   0.1754386|    |
@@ -76,7 +76,7 @@
 |/players/866358/tiago-djalo          |Lille               |      0.051950|   0.0666667|    |
 |/players/26552/jos-fonte             |Lille               |      0.042300|   0.0476190|    |
 |/players/979752/bafod-diakité        |Lille               |      0.018700|   0.0588235|    |
-|/players/1177131/lucas-chevalier     |Lille               |      0.000000|   0.0909091|    |
+|/players/1177131/lucas-chevalier     |Lille               |      0.000000|   0.0833333|    |
 |/players/1061249/vitinha             |Paris Saint-Germain |      0.006275|   0.1886792|    |
 |/players/1197030/hugo-ekitike        |Paris Saint-Germain |      0.036900|   0.3508772|    |
 |/players/708890/carlos-soler         |Paris Saint-Germain |      0.033050|   0.3030303|    |
