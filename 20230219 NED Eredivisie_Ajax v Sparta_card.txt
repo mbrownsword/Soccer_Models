@@ -1,0 +1,142 @@
+[1] "Updated at 2023-02-18 19:23:18.500"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Ajax 1.6276 to Sparta 1.0243"
+[1] "Total: 2.6519"
+[1] "Ajax %: 51.6"
+[1] "Draw %: 24.79"
+[1] "Sparta %: 23.61"
+[1] "--XG Model--"
+[1] "Score: Ajax 2.1256 to Sparta 0.739"
+[1] "Total: 2.8646"
+[1] "Ajax %: 69.13"
+[1] "Draw %: 19.74"
+[1] "Sparta %: 11.13"
+[1] "--XGoT Model--"
+[1] "Score: Ajax 2.3174 to Sparta 0.6648"
+[1] "Total: 2.9822"
+[1] "Ajax %: 75.15"
+[1] "Draw %: 16.13"
+[1] "Sparta %: 8.72"
+[1] "--XA Model--"
+[1] "Score: Ajax 2.1444 to Sparta 0.781"
+[1] "Total: 2.9254"
+[1] "Ajax %: 68.9"
+[1] "Draw %: 19.33"
+[1] "Sparta %: 11.77"
+[1] "--Mean 4 Models--"
+[1] "Ajax has a mean win % of 66.2%; a min win % of 51.6%; a max win % of 75.15%."
+[1] "Draw has a mean win % of 20%; a min win % of 16.13%; a max win % of 24.79%."
+[1] "Sparta has a mean win % of 13.81%; a min win % of 8.72%; a max win of % 23.61%."
+[1] "Ajax has a mean win of the Double Chance of 86.19%; a min win % of 76.39%, a max win % of 91.28%."
+[1] "Sparta has a mean win of the Double Chance of 33.8%; a min win % of 24.85%, a max win % of 48.4%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.65%; max % is 56.55 and min % is 48.68%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 46.35%; max % is 51.32 and min % is 43.45%."
+[1] "--Sportsbook Odds--"
+[1] "Ajax Barstool Odds are: 83.33"
+[1] "The Barstool Odds of a Draw are: 15.38"
+[1] "Sparta Barstool Odds are: 7.69"
+[1] "Ajax Adjusted Barstool Odds are: 78.318"
+[1] "The Adjusted Barstool Odds of a Draw are: 14.455"
+[1] "Sparta Adjusted Barstool Odds are: 7.227"
+[1] "Ajax's Barstool Odds to cover the  spread are: NA"
+[1] "Sparta's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.46, which is a 68.49% chance of the over 2.5 hitting. The line for the under is 2.7, which is a 37.04% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                bet           date_time
+1  draw Ajax/Sparta 2023-02-19 07:45:00
+2            Sparta 2023-02-19 07:45:00
+3 under Ajax/Sparta 2023-02-19 07:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team   | expected_attg| expected_gs|bet |
+|:-------------------------------------|:------|-------------:|-----------:|:---|
+|/players/245555/geronimo-rulli        |Ajax   |      0.000000|   0.4761905|    |
+|/players/1180321/devyne-rensch        |Ajax   |      0.089725|   0.1333333|    |
+|/players/942381/jurrien-timber        |Ajax   |      0.019350|   0.1111111|    |
+|/players/877401/calvin-bassey         |Ajax   |      0.016300|   0.1250000|    |
+|/players/798062/owen-wijndal          |Ajax   |      0.039700|   0.1960784|    |
+|/players/209786/steven-berghuis       |Ajax   |      0.100975|   0.4444444|    |
+|/players/783505/edson-lvarez          |Ajax   |      0.132675|   0.2222222|    |
+|/players/970565/kenneth-taylor        |Ajax   |      0.073275|   0.2083333|    |
+|/players/891743/mohammed-kudus        |Ajax   |      0.369275|   0.4651163|    |
+|/players/94267/dusan-tadic            |Ajax   |      0.307425|   0.4347826|    |
+|/players/564818/steven-bergwijn       |Ajax   |      0.308825|   0.4545455|    |
+|/players/630278/tobias-lauritsen      |Sparta |      0.195300|   0.2127660|    |
+|/players/521471/vito-van-crooij       |Sparta |      0.170000|   0.2040816|    |
+|/players/560413/arno-verschueren      |Sparta |      0.129100|   0.1666667|    |
+|/players/320672/younes-namli          |Sparta |      0.049275|   0.1428571|    |
+|/players/24123/jonathan-de-guzmn      |Sparta |      0.033125|   0.1333333|    |
+|/players/902675/joshua-kitolano       |Sparta |      0.036250|   0.1176471|    |
+|/players/361317/michael-pinto         |Sparta |      0.000600|   0.0344828|    |
+|/players/45816/adil-auassar           |Sparta |      0.043550|   0.0526316|    |
+|/players/564808/dirk-abels            |Sparta |      0.021525|   0.0416667|    |
+|/players/1125997/shurandy-sambo       |Sparta |      0.009800|   0.0526316|    |
+|/players/583657/nick-olij             |Sparta |      0.000000|   0.0416667|    |
+|/players/298448/davy-klaassen         |Ajax   |      0.053875|   0.3225806|    |
+|/players/940446/brian-brobbey         |Ajax   |      0.127425|   0.5000000|    |
+|/players/1185336/chico-conceicao      |Ajax   |      0.055175|   0.3125000|    |
+|/players/617044/florian-grillitsch    |Ajax   |      0.001775|   0.1333333|    |
+|/players/1194931/jeremy-van-mullem    |Sparta |      0.002525|   0.0416667|    |
+|/players/101042/aaron-meijers         |Sparta |      0.000000|   0.0833333|    |
+|/players/1049278/elias-hoff-melkersen |Sparta |      0.000000|   0.1923077|    |
+|/players/950861/koki-saito            |Sparta |      0.002200|   0.1428571|    |
+____________________________________________________
+
+[1] "Facts about Ajax:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/245555/geronimo-rulli     |           0|         35.5537|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1180321/devyne-rensch     |           1|         46.4797|           1.7029|        0.2467|         0.6961|      0.0941|        0.1204|      0.1268| 72.0926|
+|/players/942381/jurrien-timber     |           1|         84.0712|           1.5486|        0.1279|         0.6641|      0.0714|        0.0262|      0.0768| 90.0000|
+|/players/877401/calvin-bassey      |           1|         67.4460|           1.5854|        0.0692|         0.3704|      0.0211|        0.0200|      0.0897| 90.0000|
+|/players/798062/owen-wijndal       |           1|         54.3480|           1.4571|        0.2542|         0.8876|      0.0600|        0.0530|      0.1768| 90.0000|
+|/players/209786/steven-berghuis    |           3|         43.2293|           1.4777|        0.5270|         1.9616|      0.2152|        0.1395|      0.2818| 77.7193|
+|/players/783505/edson-lvarez       |           3|         61.4899|           2.2629|        0.5044|         1.2211|      0.1160|        0.1857|      0.1065| 90.0000|
+|/players/970565/kenneth-taylor     |           3|         64.0871|           2.1638|        0.3766|         1.0797|      0.0976|        0.0999|      0.1830| 90.0000|
+|/players/891743/mohammed-kudus     |           5|         22.8355|           1.5748|        1.0053|         2.9989|      0.6103|        0.5977|      0.0787| 80.2174|
+|/players/94267/dusan-tadic         |           5|         37.1139|           0.8404|        1.0459|         2.5566|      0.4342|        0.4639|      0.5648| 90.0000|
+|/players/564818/steven-bergwijn    |           5|         30.3474|           0.7102|        1.1857|         2.6201|      0.2917|        0.4801|      0.2097| 78.1282|
+|/players/298448/davy-klaassen      |          NA|              NA|               NA|        0.1473|         0.2945|      0.0739|        0.0725|      0.0280| 17.9074|
+|/players/940446/brian-brobbey      |          NA|              NA|               NA|        0.2385|         0.5111|      0.1653|        0.1801|      0.0242| 12.2807|
+|/players/1185336/chico-conceicao   |          NA|              NA|               NA|        0.1382|         0.5355|      0.0732|        0.0753|      0.0306| 11.8718|
+|/players/617044/florian-grillitsch |          NA|              NA|               NA|        0.0179|         0.0359|      0.0012|        0.0027|      0.0108|  9.7826|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Johnny Heitinga |         2970|      39.06333|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Sparta:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/630278/tobias-lauritsen      |           5|         18.8641|           0.8647|        0.8072|         1.8919|      0.2230|        0.1992|      0.0368| 90.0000|
+|/players/521471/vito-van-crooij       |           3|         19.9071|           1.0514|        0.6498|         1.2905|      0.1692|        0.1733|      0.1121| 81.5349|
+|/players/560413/arno-verschueren      |           3|         23.5828|           1.8262|        0.5773|         1.5038|      0.1193|        0.1302|      0.0381| 90.0000|
+|/players/320672/younes-namli          |           3|         24.6161|           0.9648|        0.3966|         1.3591|      0.0415|        0.0460|      0.0832| 71.9677|
+|/players/24123/jonathan-de-guzmn      |           2|         33.6552|           1.9877|        0.1723|         0.5636|      0.0200|        0.0344|      0.0111| 74.6000|
+|/players/902675/joshua-kitolano       |           2|         31.6465|           2.1297|        0.2079|         0.5871|      0.0433|        0.0344|      0.0466| 90.0000|
+|/players/361317/michael-pinto         |           1|         35.8279|           1.9931|        0.0384|         0.1389|      0.0069|        0.0005|      0.0506| 90.0000|
+|/players/45816/adil-auassar           |           1|         33.8348|           1.0546|        0.0832|         0.2794|      0.0628|        0.0415|      0.0249| 83.3077|
+|/players/564808/dirk-abels            |           1|         30.5834|           2.1414|        0.0683|         0.3669|      0.0261|        0.0190|      0.0274| 90.0000|
+|/players/1125997/shurandy-sambo       |           1|         34.6017|           2.0702|        0.2762|         0.6523|      0.0093|        0.0097|      0.0121| 90.0000|
+|/players/583657/nick-olij             |           0|         38.2483|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1194931/jeremy-van-mullem    |          NA|              NA|               NA|        0.0408|         0.2042|      0.0189|        0.0029|      0.0045| 18.0323|
+|/players/101042/aaron-meijers         |          NA|              NA|               NA|        0.0328|         0.1639|      0.0037|        0.0000|      0.0153| 15.4000|
+|/players/1049278/elias-hoff-melkersen |          NA|              NA|               NA|        0.0000|         0.1034|      0.0159|        0.0000|      0.0031|  8.4651|
+|/players/950861/koki-saito            |          NA|              NA|               NA|        0.0286|         0.1002|      0.0072|        0.0018|      0.0278|  6.6923|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Maurice Steijn |        24722|       -4.6576|4-3-3     |
