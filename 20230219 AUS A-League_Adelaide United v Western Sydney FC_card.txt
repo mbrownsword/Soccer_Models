@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 19:27:48.665"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Adelaide United 1.4921 to Western Sydney FC 1.1805"
+[1] "Total: 2.6726"
+[1] "Adelaide United %: 44.33"
+[1] "Draw %: 25.36"
+[1] "Western Sydney FC %: 30.31"
+[1] "--XG Model--"
+[1] "Score: Adelaide United 1.4378 to Western Sydney FC 1.1522"
+[1] "Total: 2.59"
+[1] "Adelaide United %: 43.59"
+[1] "Draw %: 25.63"
+[1] "Western Sydney FC %: 30.78"
+[1] "--XGoT Model--"
+[1] "Score: Adelaide United 1.5692 to Western Sydney FC 1.4249"
+[1] "Total: 2.9941"
+[1] "Adelaide United %: 41.32"
+[1] "Draw %: 24.01"
+[1] "Western Sydney FC %: 34.67"
+[1] "--XA Model--"
+[1] "Score: Adelaide United 1.4832 to Western Sydney FC 1.1203"
+[1] "Total: 2.6035"
+[1] "Adelaide United %: 45.48"
+[1] "Draw %: 25.28"
+[1] "Western Sydney FC %: 29.24"
+[1] "--Mean 4 Models--"
+[1] "Adelaide United has a mean win % of 43.68%; a min win % of 41.32%; a max win % of 45.48%."
+[1] "Draw has a mean win % of 25.07%; a min win % of 24.01%; a max win % of 25.63%."
+[1] "Western Sydney FC has a mean win % of 31.25%; a min win % of 29.24%; a max win of % 34.67%."
+[1] "Adelaide United has a mean win of the Double Chance of 68.75%; a min win % of 65.33%, a max win % of 70.76%."
+[1] "Western Sydney FC has a mean win of the Double Chance of 56.32%; a min win % of 54.52%, a max win % of 58.68%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.97%; max % is 56.82 and min % is 46.82%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.03%; max % is 53.18 and min % is 43.18%."
+[1] "--Sportsbook Odds--"
+[1] "Adelaide United Barstool Odds are: 44.44"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Western Sydney FC Barstool Odds are: 33.33"
+[1] "Adelaide United Adjusted Barstool Odds are: 41.626"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.154"
+[1] "Western Sydney FC Adjusted Barstool Odds are: 31.22"
+[1] "Adelaide United's Barstool Odds to cover the -0.25 spread are: 50.51"
+[1] "Western Sydney FC's Barstool Odds to cover the 0.25 spread are: 54.35"
+[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                    bet           date_time
+1 Western Sydney FC ATS 2023-02-18 20:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team              | expected_attg| expected_gs|bet |
+|:----------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/970296/joe-gauci          |Adelaide United   |      0.000000|   0.2631579|    |
+|/players/185123/javi-lopez         |Adelaide United   |      0.031450|   0.0500000|    |
+|/players/1312751/alexandar-popovic |Adelaide United   |      0.016475|   0.0500000|    |
+|/players/588402/ben-warland        |Adelaide United   |      0.032200|   0.0500000|    |
+|/players/497657/ryan-kitto         |Adelaide United   |      0.055525|   0.1111111|    |
+|/players/259480/isaias             |Adelaide United   |      0.086850|   0.0833333|    |
+|/players/970336/joshua-cavallo     |Adelaide United   |      0.085450|   0.1176471|    |
+|/players/213834/ben-halloran       |Adelaide United   |      0.093175|   0.2325581|    |
+|/players/568580/zach-clough        |Adelaide United   |      0.154725|   0.2083333|    |
+|/players/305033/craig-goodwin      |Adelaide United   |      0.282350|   0.3125000|    |
+|/players/170453/hiroshi-ibusuki    |Adelaide United   |      0.285150|   0.2702703|    |
+|/players/1134956/kusini-yengi      |Western Sydney FC |      0.190625|   0.2500000|    |
+|/players/494312/brandon-borrello   |Western Sydney FC |      0.184625|   0.3030303|    |
+|/players/49692/oliver-bozanic      |Western Sydney FC |      0.145900|   0.2380952|    |
+|/players/162915/romain-amalfitano  |Western Sydney FC |      0.046625|   0.1538462|    |
+|/players/1123206/calem-nieuwenhof  |Western Sydney FC |      0.097700|   0.1250000|    |
+|/players/46893/morgan-schneiderlin |Western Sydney FC |      0.056575|   0.1250000|    |
+|/players/181211/adama-traore       |Western Sydney FC |      0.024350|   0.0344828|    |
+|/players/609749/tom-beadling       |Western Sydney FC |      0.024625|   0.0909091|    |
+|/players/340036/tomislav-mrcela    |Western Sydney FC |      0.025950|   0.0500000|    |
+|/players/799469/gabriel-cleur      |Western Sydney FC |      0.024475|   0.0344828|    |
+|/players/254469/lawrence-thomas    |Western Sydney FC |      0.000000|   0.0833333|    |
+|/players/1327214/nestor-irankunda  |Adelaide United   |      0.072625|   0.0000000|*   |
+|/players/915630/louis-darrigo      |Adelaide United   |      0.035900|   0.0000000|    |
+|/players/1409525/ethan-alagich     |Adelaide United   |      0.000000|   0.0000000|    |
+|/players/1352511/asad-kasumovic    |Adelaide United   |      0.038750|   0.0000000|    |
+|/players/1217265/nicolas-milanovic |Western Sydney FC |      0.159075|   0.0000000|*   |
+|/players/92263/milos-ninkovic      |Western Sydney FC |      0.064900|   0.0000000|*   |
+|/players/1137943/jarrod-carluccio  |Western Sydney FC |      0.018350|   0.0000000|    |
+|/players/1217272/alessandro-lopane |Western Sydney FC |      0.000000|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Adelaide United:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/970296/joe-gauci          |           0|         26.8441|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/185123/javi-lopez         |           1|         40.3222|           2.6723|        0.1373|         0.7398|      0.0345|        0.0367|      0.1041| 90.0000|
+|/players/1312751/alexandar-popovic |           1|         52.9039|           1.0634|        0.1499|         0.2546|      0.0236|        0.0179|      0.0106| 90.0000|
+|/players/588402/ben-warland        |           1|         46.3824|           0.9281|        0.1154|         0.5883|      0.0439|        0.0354|      0.0187| 85.2069|
+|/players/497657/ryan-kitto         |           1|         40.1574|           1.5809|        0.2503|         0.8166|      0.0744|        0.0635|      0.1150| 90.0000|
+|/players/259480/isaias             |           2|         59.4929|           2.6460|        0.2916|         0.9065|      0.0589|        0.1025|      0.0131| 90.0000|
+|/players/970336/joshua-cavallo     |           2|         30.1838|           2.0947|        0.2608|         1.1483|      0.1182|        0.1025|      0.0855| 80.5000|
+|/players/213834/ben-halloran       |           3|         36.6287|           1.7236|        0.7687|         1.9612|      0.1026|        0.1110|      0.1168| 90.0000|
+|/players/568580/zach-clough        |           3|         22.8039|           0.9900|        0.6739|         1.7714|      0.2318|        0.1897|      0.1184| 74.3500|
+|/players/305033/craig-goodwin      |           3|         34.2073|           1.2652|        0.8012|         2.1034|      0.2302|        0.3721|      0.2353| 90.0000|
+|/players/170453/hiroshi-ibusuki    |           5|         17.7854|           0.4745|        0.8415|         2.3063|      0.3895|        0.3718|      0.0968| 74.7568|
+|/players/1327214/nestor-irankunda  |           0|              NA|               NA|        0.1755|         0.5517|      0.0538|        0.0884|      0.0153| 15.6500|
+|/players/915630/louis-darrigo      |           0|              NA|               NA|        0.0335|         0.1342|      0.0171|        0.0423|      0.0026| 15.2432|
+|/players/1409525/ethan-alagich     |           0|              NA|               NA|        0.0000|         0.1627|      0.0241|        0.0000|      0.0098|  9.5000|
+|/players/1352511/asad-kasumovic    |           0|              NA|               NA|        0.0907|         0.3630|      0.0455|        0.0458|      0.0005|  4.7931|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Carl Veart   |        64320|    -0.8558571|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Western Sydney FC:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1134956/kusini-yengi      |           5|         18.3400|           1.0349|        0.9830|         2.0298|      0.3450|        0.3257|      0.0406| 82.4286|
+|/players/494312/brandon-borrello   |           5|         21.0294|           0.3409|        0.6071|         1.8873|      0.2655|        0.3077|      0.1304| 70.5882|
+|/players/49692/oliver-bozanic      |           4|         25.2282|           1.2325|        0.3880|         1.2723|      0.1261|        0.2370|      0.1448| 61.0000|
+|/players/162915/romain-amalfitano  |           3|         30.9633|           1.4207|        0.5706|         1.3493|      0.0739|        0.0737|      0.2007| 90.0000|
+|/players/1123206/calem-nieuwenhof  |           3|         52.9959|           3.1944|        0.3429|         1.1793|      0.1589|        0.1556|      0.0794| 90.0000|
+|/players/46893/morgan-schneiderlin |           2|         42.6531|           2.3202|        0.2501|         0.7623|      0.0441|        0.0897|      0.0705| 79.6667|
+|/players/181211/adama-traore       |           1|         46.9578|           2.0874|        0.0869|         0.5646|      0.0537|        0.0390|      0.0618| 90.0000|
+|/players/609749/tom-beadling       |           1|         50.1747|           0.8843|        0.2438|         0.3279|      0.0537|        0.0390|      0.0618| 90.0000|
+|/players/340036/tomislav-mrcela    |           1|         50.8044|           0.8004|        0.1151|         0.7484|      0.0537|        0.0390|      0.0618| 90.0000|
+|/players/799469/gabriel-cleur      |           1|         38.2565|           2.2949|        0.1426|         0.4794|      0.0537|        0.0390|      0.0618| 90.0000|
+|/players/254469/lawrence-thomas    |           0|         31.0043|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1217265/nicolas-milanovic |           0|              NA|               NA|        0.5157|         0.7502|      0.1489|        0.2519|      0.0169| 29.0000|
+|/players/92263/milos-ninkovic      |           0|              NA|               NA|        0.1683|         0.3029|      0.0487|        0.1014|      0.0325| 19.4118|
+|/players/1137943/jarrod-carluccio  |           0|              NA|               NA|        0.0483|         0.0965|      0.0184|        0.0270|      0.0241| 10.3333|
+|/players/1217272/alessandro-lopane |           0|              NA|               NA|        0.0000|         0.0801|      0.0090|        0.0000|      0.0088|  7.5714|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mark Rudan   |        56267|    -0.0270588|3-4-2-1   |
