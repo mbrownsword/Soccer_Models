@@ -1,0 +1,95 @@
+[1] "Updated at 2023-02-18 18:28:29.203"
+[1] "_____________________________________________________________________"
+  bet           date_time
+1     2023-02-19 04:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team                  | expected_attg| expected_gs|bet |
+|:-------------------------------------|:---------------------|-------------:|-----------:|:---|
+|/players/215159/kevin-mller           |1. FC Heidenheim 1846 |            NA|   0.1923077|NA  |
+|/players/1173779/tim-siersleben       |1. FC Heidenheim 1846 |            NA|   0.0714286|NA  |
+|/players/571379/marnon-thomas-busch   |1. FC Heidenheim 1846 |            NA|   0.0833333|NA  |
+|/players/642534/jonas-fhrenbach       |1. FC Heidenheim 1846 |            NA|   0.0833333|NA  |
+|/players/423624/patrick-mainka        |1. FC Heidenheim 1846 |            NA|   0.1052632|NA  |
+|/players/1002673/jan-schppner         |1. FC Heidenheim 1846 |            NA|   0.1538462|NA  |
+|/players/921197/lennard-maloney       |1. FC Heidenheim 1846 |            NA|   0.0625000|NA  |
+|/players/929613/kevin-sessa           |1. FC Heidenheim 1846 |            NA|   0.1923077|NA  |
+|/players/212870/denis-thomalla        |1. FC Heidenheim 1846 |            NA|   0.3333333|NA  |
+|/players/864157/jan-niklas-beste      |1. FC Heidenheim 1846 |            NA|   0.2173913|NA  |
+|/players/442728/tim-kleindienst       |1. FC Heidenheim 1846 |            NA|   0.4255319|NA  |
+|/players/678161/peter-vindahl-jensen  |1. FC Nürnberg       |            NA|   0.1960784|NA  |
+|/players/642536/erik-wekesser         |1. FC Nürnberg       |            NA|   0.1960784|NA  |
+|/players/458602/jan-gyamerah          |1. FC Nürnberg       |            NA|   0.0263158|NA  |
+|/players/212890/christopher-schindler |1. FC Nürnberg       |            NA|   0.0500000|NA  |
+|/players/294966/james-lawrence        |1. FC Nürnberg       |            NA|   0.4166667|NA  |
+|/players/237542/johannes-geis         |1. FC Nürnberg       |            NA|   0.1666667|NA  |
+|/players/1082491/lino-tempelmann      |1. FC Nürnberg       |            NA|   0.1428571|NA  |
+|/players/1185902/jens-castrop         |1. FC Nürnberg       |            NA|   0.1111111|NA  |
+|/players/214123/mats-mller-d�hli      |1. FC Nürnberg       |            NA|   0.1666667|NA  |
+|/players/773519/christoph-daferner    |1. FC Nürnberg       |            NA|   0.2702703|NA  |
+|/players/765908/kwadwo-duah           |1. FC Nürnberg       |            NA|   0.2702703|NA  |
+|/players/767730/stefan-schimmer       |1. FC Heidenheim 1846 |            NA|   0.3333333|NA  |
+|/players/634260/christian-khlwetter   |1. FC Heidenheim 1846 |            NA|   0.3030303|NA  |
+|/players/954188/marvin-rittmller      |1. FC Heidenheim 1846 |            NA|   0.0769231|NA  |
+|/players/660148/dzenis-burnic         |1. FC Heidenheim 1846 |            NA|   0.1250000|NA  |
+|/players/1285732/sadik-fofana         |1. FC Nürnberg       |            NA|   0.0344828|NA  |
+|/players/710328/jannes-kilian-horn    |1. FC Nürnberg       |            NA|   0.2631579|NA  |
+|/players/208193/enrico-valentini      |1. FC Nürnberg       |            NA|   0.0666667|NA  |
+|/players/194423/danny-blum            |1. FC Nürnberg       |            NA|   0.2631579|NA  |
+____________________________________________________
+
+[1] "Facts about 1. FC Heidenheim 1846:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/215159/kevin-mller         |           0|         33.5849|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1173779/tim-siersleben     |           1|         54.3180|           1.7196|        0.1175|         0.4116|      0.0772|        0.0482|      0.0038| 90.0000|
+|/players/571379/marnon-thomas-busch |           1|         47.6424|           1.5045|        0.1953|         0.7982|      0.0261|        0.0227|      0.1002| 90.0000|
+|/players/642534/jonas-fhrenbach     |           1|         41.4717|           1.3045|        0.0346|         0.4035|      0.0125|        0.0227|      0.1481| 90.0000|
+|/players/423624/patrick-mainka      |           1|         56.8321|           1.5272|        0.3025|         0.9678|      0.1170|        0.0830|      0.0218| 90.0000|
+|/players/1002673/jan-schppner       |           2|         52.1822|           1.8566|        0.4275|         1.5708|      0.1579|        0.1814|      0.1182| 90.0000|
+|/players/921197/lennard-maloney     |           2|         50.6470|           2.0022|        0.1477|         0.5426|      0.0091|        0.0020|      0.0696| 82.5000|
+|/players/929613/kevin-sessa         |           3|         27.4879|           1.1873|        0.3168|         1.9268|      0.1638|        0.0254|      0.0855| 73.0000|
+|/players/212870/denis-thomalla      |           3|         33.9728|           0.7246|        0.6131|         1.5030|      0.1893|        0.2374|      0.0895| 76.8387|
+|/players/864157/jan-niklas-beste    |           3|         23.5943|           1.4627|        1.0609|         2.2527|      0.2318|        0.4834|      0.3064| 82.0233|
+|/players/442728/tim-kleindienst     |           5|         19.2893|           0.5154|        1.2027|         2.9886|      0.5638|        0.5642|      0.1000| 90.0000|
+|/players/767730/stefan-schimmer     |           0|              NA|               NA|        0.2089|         0.6790|      0.0574|        0.0888|      0.0119| 17.0000|
+|/players/634260/christian-khlwetter |           0|              NA|               NA|        0.2022|         0.5257|      0.0214|        0.0426|      0.0040| 13.1613|
+|/players/954188/marvin-rittmller    |           0|              NA|               NA|        0.0000|         0.0567|      0.0035|        0.0000|      0.0077|  7.9767|
+|/players/660148/dzenis-burnic       |           0|              NA|               NA|        0.0487|         0.0487|      0.0084|        0.0014|      0.0056|  7.5000|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Frank Schmidt |        17820|     -1.926702|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about 1. FC Nürnberg:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/678161/peter-vindahl-jensen  |           0|         35.6044|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/642536/erik-wekesser         |           1|         33.5059|           1.6689|        0.1842|         0.6987|      0.0254|        0.0270|      0.1125| 90.0000|
+|/players/458602/jan-gyamerah          |           1|         37.9698|           2.2315|        0.0724|         0.4379|      0.0441|        0.0307|      0.0297| 90.0000|
+|/players/212890/christopher-schindler |           1|         33.3878|           1.0279|        0.1038|         0.3545|      0.0203|        0.0057|      0.0016| 90.0000|
+|/players/294966/james-lawrence        |           1|         44.3234|           1.5887|        0.0968|         0.2794|      0.0493|        0.0523|      0.0211| 90.0000|
+|/players/237542/johannes-geis         |           3|         46.6200|           2.1364|        0.3603|         1.3796|      0.0249|        0.0324|      0.0961| 90.0000|
+|/players/1082491/lino-tempelmann      |           3|         35.8156|           1.3941|        0.3701|         1.1982|      0.1133|        0.0235|      0.0413| 90.0000|
+|/players/1185902/jens-castrop         |           3|         17.8229|           2.1214|        0.2628|         0.8168|      0.0863|        0.2308|      0.0403| 71.9333|
+|/players/214123/mats-mller-d�hli      |           3|         30.0479|           0.9463|        0.2280|         0.7189|      0.0771|        0.0349|      0.0989| 78.5918|
+|/players/773519/christoph-daferner    |           5|         23.9291|           1.0716|        0.5942|         1.4932|      0.1921|        0.2259|      0.0564| 82.1875|
+|/players/765908/kwadwo-duah           |           5|         13.7183|           0.2735|        0.6517|         1.8392|      0.2203|        0.2426|      0.0814| 73.2576|
+|/players/1285732/sadik-fofana         |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0012| 18.0667|
+|/players/710328/jannes-kilian-horn    |           0|              NA|               NA|        0.0000|         0.1203|      0.0039|        0.0000|      0.0205| 16.7424|
+|/players/208193/enrico-valentini      |           0|              NA|               NA|        0.1561|         0.2342|      0.0190|        0.0296|      0.0279| 11.4082|
+|/players/194423/danny-blum            |           0|              NA|               NA|        0.1423|         0.4270|      0.0200|        0.0204|      0.0455|  7.8125|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Markus Weinzierl |        45463|      -9.30375|4-4-2     |
