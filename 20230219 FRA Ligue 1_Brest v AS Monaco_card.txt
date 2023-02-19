@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-18 15:06:26.557"
+[1] "Updated at 2023-02-18 20:12:19.580"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -72,7 +72,7 @@
 |/players/769525/caio-henrique       |AS Monaco |      0.014525|   0.1960784|    |
 |/players/402830/guillermo-maripan   |AS Monaco |      0.038625|   0.1538462|    |
 |/players/696646/axel-disasi         |AS Monaco |      0.075325|   0.1666667|    |
-|/players/561046/ruben-aguilar       |AS Monaco |      0.007050|   0.0714286|    |
+|/players/561046/ruben-aguilar       |AS Monaco |      0.007050|   0.0769231|    |
 |/players/554534/alexander-nbel      |AS Monaco |      0.000000|   0.0833333|    |
 |/players/1285784/bradley-locko      |Brest     |      0.003225|   0.0370370|    |
 |/players/478527/steve-mounie        |Brest     |      0.065050|   0.2777778|    |
