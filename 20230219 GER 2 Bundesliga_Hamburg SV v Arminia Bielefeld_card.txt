@@ -1,42 +1,88 @@
-[1] "Updated at 2023-02-18 18:30:23.454"
+[1] "Updated at 2023-02-18 18:37:39.792"
 [1] "_____________________________________________________________________"
-  bet           date_time
-1     2023-02-19 04:30:00
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Hamburg SV 1.8078 to Arminia Bielefeld 1.0187"
+[1] "Total: 2.8265"
+[1] "Hamburg SV %: 56.01"
+[1] "Draw %: 23.03"
+[1] "Arminia Bielefeld %: 20.96"
+[1] "--XG Model--"
+[1] "Score: Hamburg SV 1.8633 to Arminia Bielefeld 0.9149"
+[1] "Total: 2.7782"
+[1] "Hamburg SV %: 59.75"
+[1] "Draw %: 22.23"
+[1] "Arminia Bielefeld %: 18.02"
+[1] "--XGoT Model--"
+[1] "Score: Hamburg SV 2.2295 to Arminia Bielefeld 1.085"
+[1] "Total: 3.3145"
+[1] "Hamburg SV %: 62.97"
+[1] "Draw %: 19.9"
+[1] "Arminia Bielefeld %: 17.13"
+[1] "--XA Model--"
+[1] "Score: Hamburg SV 1.8013 to Arminia Bielefeld 1.0523"
+[1] "Total: 2.8536"
+[1] "Hamburg SV %: 55.57"
+[1] "Draw %: 22.78"
+[1] "Arminia Bielefeld %: 21.65"
+[1] "--Mean 4 Models--"
+[1] "Hamburg SV has a mean win % of 58.58%; a min win % of 55.57%; a max win % of 62.97%."
+[1] "Draw has a mean win % of 21.98%; a min win % of 19.9%; a max win % of 23.03%."
+[1] "Arminia Bielefeld has a mean win % of 19.44%; a min win % of 17.13%; a max win of % 21.65%."
+[1] "Hamburg SV has a mean win of the Double Chance of 80.56%; a min win % of 78.35%, a max win % of 82.87%."
+[1] "Arminia Bielefeld has a mean win of the Double Chance of 41.42%; a min win % of 37.03%, a max win % of 44.43%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.69%; max % is 63.8 and min % is 52.05%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.31%; max % is 47.95 and min % is 36.2%."
+[1] "--Sportsbook Odds--"
+[1] "Hamburg SV Barstool Odds are: 70.42"
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Arminia Bielefeld Barstool Odds are: 14.29"
+[1] "Hamburg SV Adjusted Barstool Odds are: 66.153"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.423"
+[1] "Arminia Bielefeld Adjusted Barstool Odds are: 13.424"
+[1] "Hamburg SV's Barstool Odds to cover the -0.5 spread are: 69.93"
+[1] "Arminia Bielefeld's Barstool Odds to cover the 0.5 spread are: 34.72"
+[1] "Barstool's line for the total is 2.5 at 1.57, which is a 63.69% chance of the over 2.5 hitting. The line for the under is 2.43, which is a 41.15% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                    bet           date_time
+1     Arminia Bielefeld 2023-02-19 04:30:00
+2 Arminia Bielefeld ATS 2023-02-19 04:30:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team              | expected_attg| expected_gs|bet |
 |:--------------------------------------|:-----------------|-------------:|-----------:|:---|
-|/players/406501/daniel-heuer-fernandes |Hamburg SV        |            NA|   0.1000000|NA  |
-|/players/642528/moritz-heyer           |Hamburg SV        |            NA|   0.1886792|NA  |
-|/players/445204/sebastian-schonlau     |Hamburg SV        |            NA|   0.0952381|NA  |
-|/players/759817/miro-muheim            |Hamburg SV        |            NA|   0.0714286|NA  |
-|/players/993786/noah-katterbach        |Hamburg SV        |            NA|   0.0833333|NA  |
-|/players/629112/lszlo-bénes            |Hamburg SV        |            NA|   0.2173913|NA  |
-|/players/409818/jonas-meffert          |Hamburg SV        |            NA|   0.1428571|NA  |
-|/players/869326/ludovit-reis           |Hamburg SV        |            NA|   0.2702703|NA  |
-|/players/212814/sonny-kittel           |Hamburg SV        |            NA|   0.5000000|NA  |
-|/players/613260/jean-luc-dompe         |Hamburg SV        |            NA|   0.3125000|NA  |
-|/players/490489/robert-glatzel         |Hamburg SV        |            NA|   0.6226415|NA  |
-|/players/658621/martin-fraisl          |Arminia Bielefeld |            NA|   0.0666667|NA  |
-|/players/304123/oliver-hsing           |Arminia Bielefeld |            NA|   0.0666667|NA  |
-|/players/711074/guilherme-ramos        |Arminia Bielefeld |            NA|   0.0666667|NA  |
-|/players/1081024/frederik-jkel         |Arminia Bielefeld |            NA|   0.0666667|NA  |
-|/players/688449/andrs-andrade          |Arminia Bielefeld |            NA|   0.0588235|NA  |
-|/players/212907/marc-rzatkowski        |Arminia Bielefeld |            NA|   0.1666667|NA  |
-|/players/884919/robin-hack             |Arminia Bielefeld |            NA|   0.2380952|NA  |
-|/players/647450/masaya-okugawa         |Arminia Bielefeld |            NA|   0.2564103|NA  |
-|/players/178831/fabian-klos            |Arminia Bielefeld |            NA|   0.3448276|NA  |
-|/players/1113737/theodor-corbeanu      |Arminia Bielefeld |            NA|   0.2127660|NA  |
-|/players/641597/janni-serra            |Arminia Bielefeld |            NA|   0.2631579|NA  |
-|/players/1084193/ogechika-heil         |Hamburg SV        |            NA|   0.2702703|NA  |
-|/players/1121170/ransford-knigsdörffer |Hamburg SV        |            NA|   0.3508772|NA  |
-|/players/1050168/andras-nemeth         |Hamburg SV        |            NA|   0.4000000|NA  |
-|/players/1242757/william-mikelbrencis  |Hamburg SV        |            NA|   0.1333333|NA  |
-|/players/815566/bryan-lasme            |Arminia Bielefeld |            NA|   0.2222222|NA  |
-|/players/953995/george-bello           |Arminia Bielefeld |            NA|   0.0833333|NA  |
-|/players/770277/silvan-sidler          |Arminia Bielefeld |            NA|   0.0434783|NA  |
-|/players/274624/manuel-prietl          |Arminia Bielefeld |            NA|   0.0952381|NA  |
+|/players/406501/daniel-heuer-fernandes |Hamburg SV        |      0.000000|   0.1000000|    |
+|/players/642528/moritz-heyer           |Hamburg SV        |      0.088175|   0.1886792|    |
+|/players/445204/sebastian-schonlau     |Hamburg SV        |      0.016525|   0.0952381|    |
+|/players/759817/miro-muheim            |Hamburg SV        |      0.003725|   0.0714286|    |
+|/players/993786/noah-katterbach        |Hamburg SV        |      0.042600|   0.0833333|    |
+|/players/629112/lszlo-bénes            |Hamburg SV        |      0.091675|   0.2173913|    |
+|/players/409818/jonas-meffert          |Hamburg SV        |      0.023425|   0.1428571|    |
+|/players/869326/ludovit-reis           |Hamburg SV        |      0.221650|   0.2702703|    |
+|/players/212814/sonny-kittel           |Hamburg SV        |      0.228250|   0.5000000|    |
+|/players/613260/jean-luc-dompe         |Hamburg SV        |      0.146075|   0.3125000|    |
+|/players/490489/robert-glatzel         |Hamburg SV        |      0.418675|   0.6226415|    |
+|/players/658621/martin-fraisl          |Arminia Bielefeld |      0.000000|   0.0666667|    |
+|/players/304123/oliver-hsing           |Arminia Bielefeld |      0.059050|   0.0666667|    |
+|/players/711074/guilherme-ramos        |Arminia Bielefeld |      0.010125|   0.0666667|    |
+|/players/1081024/frederik-jkel         |Arminia Bielefeld |      0.029400|   0.0666667|    |
+|/players/688449/andrs-andrade          |Arminia Bielefeld |      0.013700|   0.0588235|    |
+|/players/212907/marc-rzatkowski        |Arminia Bielefeld |      0.004300|   0.1666667|    |
+|/players/884919/robin-hack             |Arminia Bielefeld |      0.109875|   0.2380952|    |
+|/players/647450/masaya-okugawa         |Arminia Bielefeld |      0.083825|   0.2564103|    |
+|/players/178831/fabian-klos            |Arminia Bielefeld |      0.135375|   0.3448276|    |
+|/players/1113737/theodor-corbeanu      |Arminia Bielefeld |      0.170250|   0.2127660|    |
+|/players/641597/janni-serra            |Arminia Bielefeld |      0.198825|   0.2631579|    |
+|/players/1084193/ogechika-heil         |Hamburg SV        |      0.048400|   0.2702703|    |
+|/players/1121170/ransford-knigsdörffer |Hamburg SV        |      0.122450|   0.3508772|    |
+|/players/1050168/andras-nemeth         |Hamburg SV        |      0.148850|   0.4000000|    |
+|/players/1242757/william-mikelbrencis  |Hamburg SV        |      0.000000|   0.1333333|    |
+|/players/815566/bryan-lasme            |Arminia Bielefeld |      0.060825|   0.2222222|    |
+|/players/953995/george-bello           |Arminia Bielefeld |      0.000000|   0.0833333|    |
+|/players/770277/silvan-sidler          |Arminia Bielefeld |      0.020450|   0.0434783|    |
+|/players/274624/manuel-prietl          |Arminia Bielefeld |      0.000000|   0.0952381|    |
 ____________________________________________________
 
 [1] "Facts about Hamburg SV:"
