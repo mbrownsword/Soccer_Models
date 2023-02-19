@@ -1,42 +1,90 @@
-[1] "Updated at 2023-02-18 19:43:22.405"
+[1] "Updated at 2023-02-18 19:45:55.688"
 [1] "_____________________________________________________________________"
-  bet           date_time
-1     2023-02-19 05:30:00
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: WSG Swarovski Wattens 0.9445 to FC Salzburg 1.4862"
+[1] "Total: 2.4307"
+[1] "WSG Swarovski Wattens %: 24.72"
+[1] "Draw %: 25.96"
+[1] "FC Salzburg %: 49.32"
+[1] "--XG Model--"
+[1] "Score: WSG Swarovski Wattens 0.7929 to FC Salzburg 1.7391"
+[1] "Total: 2.532"
+[1] "WSG Swarovski Wattens %: 16.99"
+[1] "Draw %: 23.7"
+[1] "FC Salzburg %: 59.31"
+[1] "--XGoT Model--"
+[1] "Score: WSG Swarovski Wattens 0.8989 to FC Salzburg 1.7517"
+[1] "Total: 2.6506"
+[1] "WSG Swarovski Wattens %: 19.49"
+[1] "Draw %: 23.45"
+[1] "FC Salzburg %: 57.06"
+[1] "--XA Model--"
+[1] "Score: WSG Swarovski Wattens 1.0053 to FC Salzburg 1.7144"
+[1] "Total: 2.7197"
+[1] "WSG Swarovski Wattens %: 22.67"
+[1] "Draw %: 24.41"
+[1] "FC Salzburg %: 52.92"
+[1] "--Mean 4 Models--"
+[1] "WSG Swarovski Wattens has a mean win % of 20.97%; a min win % of 16.99%; a max win % of 24.72%."
+[1] "Draw has a mean win % of 24.38%; a min win % of 23.45%; a max win % of 25.96%."
+[1] "FC Salzburg has a mean win % of 54.65%; a min win % of 49.32%; a max win of % 59.31%."
+[1] "WSG Swarovski Wattens has a mean win of the Double Chance of 45.35%; a min win % of 40.69%, a max win % of 50.68%."
+[1] "FC Salzburg has a mean win of the Double Chance of 79.03%; a min win % of 75.28%, a max win % of 83.01%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.12%; max % is 50.18 and min % is 43.62%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 52.89%; max % is 56.38 and min % is 49.82%."
+[1] "--Sportsbook Odds--"
+[1] "WSG Swarovski Wattens Barstool Odds are: 15.38"
+[1] "The Barstool Odds of a Draw are: 20.83"
+[1] "FC Salzburg Barstool Odds are: 71.43"
+[1] "WSG Swarovski Wattens Adjusted Barstool Odds are: 14.288"
+[1] "The Adjusted Barstool Odds of a Draw are: 19.352"
+[1] "FC Salzburg Adjusted Barstool Odds are: 66.36"
+[1] "WSG Swarovski Wattens's Barstool Odds to cover the 0.5 spread are: 34.72"
+[1] "FC Salzburg's Barstool Odds to cover the -0.5 spread are: 71.43"
+[1] "Barstool's line for the total is 2.5 at 1.42, which is a 70.42% chance of the over 2.5 hitting. The line for the under is 2.75, which is a 36.36% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                      bet           date_time
+1                   WSG Swarovski Wattens 2023-02-19 05:30:00
+2  draw WSG Swarovski Wattens/FC Salzburg 2023-02-19 05:30:00
+3 under WSG Swarovski Wattens/FC Salzburg 2023-02-19 05:30:00
+4               WSG Swarovski Wattens ATS 2023-02-19 05:30:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                              |team                  | expected_attg| expected_gs|bet |
 |:-------------------------------------|:---------------------|-------------:|-----------:|:---|
-|/players/177694/ferdinand-oswald      |WSG Swarovski Wattens |            NA|   0.1538462|NA  |
-|/players/951498/felix-bacher          |WSG Swarovski Wattens |            NA|   0.0384615|NA  |
-|/players/828234/dominik-stumberger    |WSG Swarovski Wattens |            NA|   0.0588235|NA  |
-|/players/276486/kofi-schulz           |WSG Swarovski Wattens |            NA|   0.1176471|NA  |
-|/players/658432/raffael-behounek      |WSG Swarovski Wattens |            NA|   0.0555556|NA  |
-|/players/752559/sandi-ogrinec         |WSG Swarovski Wattens |            NA|   0.2127660|NA  |
-|/players/1168319/zan-rogelj           |WSG Swarovski Wattens |            NA|   0.1250000|NA  |
-|/players/655692/valentino-mller       |WSG Swarovski Wattens |            NA|   0.1176471|NA  |
-|/players/274389/bror-blume            |WSG Swarovski Wattens |            NA|   0.1111111|NA  |
-|/players/956156/tim-prica             |WSG Swarovski Wattens |            NA|   0.2857143|NA  |
-|/players/814457/thomas-sabitzer       |WSG Swarovski Wattens |            NA|   0.2380952|NA  |
-|/players/872934/philipp-khn           |FC Salzburg           |            NA|   0.0454545|NA  |
-|/players/43205/andreas-ulmer          |FC Salzburg           |            NA|   0.1111111|NA  |
-|/players/866708/oumar-solet           |FC Salzburg           |            NA|   0.0909091|NA  |
-|/players/1048023/strahinja-pavlovic   |FC Salzburg           |            NA|   0.1250000|NA  |
-|/players/958010/amar-dedic            |FC Salzburg           |            NA|   0.1886792|NA  |
-|/players/1070404/maurits-kjrgaard     |FC Salzburg           |            NA|   0.2127660|NA  |
-|/players/1018564/nicolas-capaldo      |FC Salzburg           |            NA|   0.2857143|NA  |
-|/players/1024672/nicolas-seiwald      |FC Salzburg           |            NA|   0.1250000|NA  |
-|/players/959597/luka-sucic            |FC Salzburg           |            NA|   0.3030303|NA  |
-|/players/915797/noah-okafor           |FC Salzburg           |            NA|   0.4255319|NA  |
-|/players/1073977/benjamin-sesko       |FC Salzburg           |            NA|   0.3846154|NA  |
-|/players/873836/alexander-ranacher    |WSG Swarovski Wattens |            NA|   0.0909091|NA  |
-|/players/1275650/stefan-skrbo         |WSG Swarovski Wattens |            NA|   0.1666667|NA  |
-|/players/1184073/johannes-naschberger |WSG Swarovski Wattens |            NA|   0.0909091|NA  |
-|/players/1275647/justin-forst         |WSG Swarovski Wattens |            NA|   0.2439024|NA  |
-|/players/882163/chukwubuike-adamu     |FC Salzburg           |            NA|   0.6078431|NA  |
-|/players/1137106/lucas-gourna-douath  |FC Salzburg           |            NA|   0.1052632|NA  |
-|/players/637716/bernardo              |FC Salzburg           |            NA|   0.0769231|NA  |
-|/players/1229526/forson-amankwah      |FC Salzburg           |            NA|   0.2325581|NA  |
+|/players/177694/ferdinand-oswald      |WSG Swarovski Wattens |      0.000000|   0.1538462|    |
+|/players/951498/felix-bacher          |WSG Swarovski Wattens |      0.005250|   0.0384615|    |
+|/players/828234/dominik-stumberger    |WSG Swarovski Wattens |      0.006225|   0.0588235|    |
+|/players/276486/kofi-schulz           |WSG Swarovski Wattens |      0.097775|   0.1176471|    |
+|/players/658432/raffael-behounek      |WSG Swarovski Wattens |      0.031050|   0.0555556|    |
+|/players/752559/sandi-ogrinec         |WSG Swarovski Wattens |      0.162200|   0.2127660|    |
+|/players/1168319/zan-rogelj           |WSG Swarovski Wattens |      0.105000|   0.1250000|    |
+|/players/655692/valentino-mller       |WSG Swarovski Wattens |      0.081225|   0.1176471|    |
+|/players/274389/bror-blume            |WSG Swarovski Wattens |      0.048625|   0.1111111|    |
+|/players/956156/tim-prica             |WSG Swarovski Wattens |      0.086775|   0.2857143|    |
+|/players/814457/thomas-sabitzer       |WSG Swarovski Wattens |      0.096275|   0.2380952|    |
+|/players/872934/philipp-khn           |FC Salzburg           |      0.000000|   0.0454545|    |
+|/players/43205/andreas-ulmer          |FC Salzburg           |      0.001750|   0.1111111|    |
+|/players/866708/oumar-solet           |FC Salzburg           |      0.007525|   0.0909091|    |
+|/players/1048023/strahinja-pavlovic   |FC Salzburg           |      0.009850|   0.1250000|    |
+|/players/958010/amar-dedic            |FC Salzburg           |      0.006075|   0.1886792|    |
+|/players/1070404/maurits-kjrgaard     |FC Salzburg           |      0.165075|   0.2127660|    |
+|/players/1018564/nicolas-capaldo      |FC Salzburg           |      0.151950|   0.2857143|    |
+|/players/1024672/nicolas-seiwald      |FC Salzburg           |      0.087875|   0.1250000|    |
+|/players/959597/luka-sucic            |FC Salzburg           |      0.187500|   0.3030303|    |
+|/players/915797/noah-okafor           |FC Salzburg           |      0.339350|   0.4255319|    |
+|/players/1073977/benjamin-sesko       |FC Salzburg           |      0.342675|   0.3846154|    |
+|/players/873836/alexander-ranacher    |WSG Swarovski Wattens |      0.029325|   0.0909091|    |
+|/players/1275650/stefan-skrbo         |WSG Swarovski Wattens |      0.043775|   0.1666667|    |
+|/players/1184073/johannes-naschberger |WSG Swarovski Wattens |      0.006875|   0.0909091|    |
+|/players/1275647/justin-forst         |WSG Swarovski Wattens |      0.018975|   0.2439024|    |
+|/players/882163/chukwubuike-adamu     |FC Salzburg           |      0.059700|   0.6078431|    |
+|/players/1137106/lucas-gourna-douath  |FC Salzburg           |      0.000000|   0.1052632|    |
+|/players/637716/bernardo              |FC Salzburg           |      0.000000|   0.0769231|    |
+|/players/1229526/forson-amankwah      |FC Salzburg           |      0.006775|   0.2325581|    |
 ____________________________________________________
 
 [1] "Facts about WSG Swarovski Wattens:"
