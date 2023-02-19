@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-18 18:32:14.375"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: SV Sandhausen 1.2796 to Karlsruher SC 1.4482"
+[1] "Total: 2.7278"
+[1] "SV Sandhausen %: 33.44"
+[1] "Draw %: 26.32"
+[1] "Karlsruher SC %: 40.24"
+[1] "--XG Model--"
+[1] "Score: SV Sandhausen 1.1576 to Karlsruher SC 1.4447"
+[1] "Total: 2.6023"
+[1] "SV Sandhausen %: 30.25"
+[1] "Draw %: 26.44"
+[1] "Karlsruher SC %: 43.31"
+[1] "--XGoT Model--"
+[1] "Score: SV Sandhausen 1.2698 to Karlsruher SC 1.5965"
+[1] "Total: 2.8663"
+[1] "SV Sandhausen %: 30.01"
+[1] "Draw %: 25.05"
+[1] "Karlsruher SC %: 44.94"
+[1] "--XA Model--"
+[1] "Score: SV Sandhausen 1.2669 to Karlsruher SC 1.5621"
+[1] "Total: 2.829"
+[1] "SV Sandhausen %: 31.07"
+[1] "Draw %: 25.22"
+[1] "Karlsruher SC %: 43.71"
+[1] "--Mean 4 Models--"
+[1] "SV Sandhausen has a mean win % of 31.19%; a min win % of 30.01%; a max win % of 33.44%."
+[1] "Draw has a mean win % of 25.76%; a min win % of 25.05%; a max win % of 26.44%."
+[1] "Karlsruher SC has a mean win % of 43.05%; a min win % of 40.24%; a max win of % 44.94%."
+[1] "SV Sandhausen has a mean win of the Double Chance of 56.95%; a min win % of 55.06%, a max win % of 59.76%."
+[1] "Karlsruher SC has a mean win of the Double Chance of 68.81%; a min win % of 66.56%, a max win % of 69.99%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.27%; max % is 54.29 and min % is 47.42%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.74%; max % is 52.58 and min % is 45.71%."
+[1] "--Sportsbook Odds--"
+[1] "SV Sandhausen Barstool Odds are: 31.75"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Karlsruher SC Barstool Odds are: 44.44"
+[1] "SV Sandhausen Adjusted Barstool Odds are: 29.815"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.453"
+[1] "Karlsruher SC Adjusted Barstool Odds are: 41.732"
+[1] "SV Sandhausen's Barstool Odds to cover the 0.5 spread are: 60.98"
+[1] "Karlsruher SC's Barstool Odds to cover the -0.5 spread are: 43.86"
+[1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.89, which is a 52.91% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-19 04:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team          | expected_attg| expected_gs|bet |
+|:----------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/359203/patrick-drewes     |SV Sandhausen |      0.000000|   0.1052632|    |
+|/players/664528/chima-okoroji      |SV Sandhausen |      0.000100|   0.0434783|    |
+|/players/537996/bashkim-ajdini     |SV Sandhausen |      0.000225|   0.1333333|    |
+|/players/133201/dario-dumic        |SV Sandhausen |      0.000125|   0.0833333|    |
+|/players/651646/aleksandr-zhirov   |SV Sandhausen |      0.000200|   0.0714286|    |
+|/players/179115/marcel-ritzmaier   |SV Sandhausen |      0.042200|   0.1538462|    |
+|/players/308240/erik-zenga         |SV Sandhausen |      0.040875|   0.1960784|    |
+|/players/956863/christian-kinsombi |SV Sandhausen |      0.215925|   0.1923077|    |
+|/players/560976/janik-bachmann     |SV Sandhausen |      0.158800|   0.1923077|    |
+|/players/553597/david-kinsombi     |SV Sandhausen |      0.225650|   0.2702703|    |
+|/players/147735/alexander-esswein  |SV Sandhausen |      0.293500|   0.2564103|    |
+|/players/434259/marius-gersbeck    |Karlsruher SC |      0.000000|   0.1886792|    |
+|/players/291009/marco-thiede       |Karlsruher SC |      0.030800|   0.0769231|    |
+|/players/900537/stephan-ambrosius  |Karlsruher SC |      0.029500|   0.3333333|    |
+|/players/208243/marcel-franke      |Karlsruher SC |      0.029100|   0.0666667|    |
+|/players/276700/philip-heise       |Karlsruher SC |      0.071875|   0.0909091|    |
+|/players/620061/lucas-cueto        |Karlsruher SC |      0.339075|   0.2083333|*   |
+|/players/1175939/paul-nebel        |Karlsruher SC |      0.035625|   0.1666667|    |
+|/players/1201713/tim-breithaupt    |Karlsruher SC |      0.035925|   0.1111111|    |
+|/players/335436/jrome-gondorf      |Karlsruher SC |      0.048675|   0.1333333|    |
+|/players/458998/marvin-wanitzek    |Karlsruher SC |      0.402125|   0.3125000|*   |
+|/players/686112/fabian-schleusener |Karlsruher SC |      0.021100|   0.3389831|    |
+|/players/813690/marcel-mehlem      |SV Sandhausen |      0.024900|   0.1052632|    |
+|/players/887139/ahmed-kutucu       |SV Sandhausen |      0.028300|   0.2857143|    |
+|/players/841938/joseph-gande       |SV Sandhausen |      0.016675|   0.4166667|    |
+|/players/469760/raphael-framberger |SV Sandhausen |      0.000000|   0.0625000|    |
+|/players/232110/simone-rapp        |Karlsruher SC |      0.146150|   0.3030303|    |
+|/players/945935/mikkel-kaufmann    |Karlsruher SC |      0.026525|   0.3225806|    |
+|/players/167065/sebastian-jung     |Karlsruher SC |      0.000000|   0.0625000|    |
+|/players/469702/florian-ballas     |Karlsruher SC |      0.001625|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about SV Sandhausen:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/359203/patrick-drewes     |           0|         25.6619|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/664528/chima-okoroji      |           1|         26.8994|           1.5129|        0.0861|         0.4278|      0.0179|        0.0002|      0.0558| 90.0000|
+|/players/537996/bashkim-ajdini     |           1|         33.7252|           2.5481|        0.1300|         0.6203|      0.0420|        0.0002|      0.0268| 90.0000|
+|/players/133201/dario-dumic        |           1|         43.7740|           1.1795|        0.0460|         0.2097|      0.0149|        0.0001|      0.0157| 90.0000|
+|/players/651646/aleksandr-zhirov   |           1|         41.0835|           1.6217|        0.0701|         0.3390|      0.0185|        0.0001|      0.0107| 90.0000|
+|/players/179115/marcel-ritzmaier   |           2|         37.7905|           1.8596|        0.3587|         1.1637|      0.0873|        0.0476|      0.1110| 84.5000|
+|/players/308240/erik-zenga         |           2|         32.9191|           2.0566|        0.0467|         0.3494|      0.0216|        0.0476|      0.0140| 90.0000|
+|/players/956863/christian-kinsombi |           3|         17.9871|           1.1414|        0.8659|         2.4179|      0.2030|        0.2507|      0.0735| 82.2917|
+|/players/560976/janik-bachmann     |           3|         29.6607|           0.9465|        0.4288|         1.4284|      0.1198|        0.1813|      0.0343| 90.0000|
+|/players/553597/david-kinsombi     |           3|         23.4274|           1.1391|        0.6190|         1.6463|      0.1904|        0.2617|      0.2244| 78.6170|
+|/players/147735/alexander-esswein  |           5|         16.4918|           0.3523|        0.8617|         2.0812|      0.2637|        0.3625|      0.0636| 78.2800|
+|/players/813690/marcel-mehlem      |           0|              NA|               NA|        0.0967|         0.1289|      0.0359|        0.0257|      0.0022| 11.7200|
+|/players/887139/ahmed-kutucu       |           0|              NA|               NA|        0.2197|         0.4395|      0.0481|        0.0300|      0.0057| 11.3830|
+|/players/841938/joseph-gande       |           0|              NA|               NA|        0.1695|         0.3391|      0.0495|        0.0172|      0.0013|  7.7083|
+|/players/469760/raphael-framberger |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0028|  5.5000|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Alois Schwartz |        17819|     -12.89114|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Karlsruher SC:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/434259/marius-gersbeck    |           0|         40.8551|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/291009/marco-thiede       |           1|         37.1925|           2.1038|        0.1116|         0.5172|      0.0430|        0.0309|      0.0546| 90.0000|
+|/players/900537/stephan-ambrosius  |           1|         62.5849|           2.0480|        0.1554|         0.5575|      0.0263|        0.0309|      0.0160| 90.0000|
+|/players/208243/marcel-franke      |           1|         53.2068|           0.7412|        0.1486|         0.5465|      0.0997|        0.0309|      0.0115| 90.0000|
+|/players/276700/philip-heise       |           1|         46.6941|           1.2714|        0.2476|         1.1498|      0.0685|        0.0774|      0.1571| 90.0000|
+|/players/620061/lucas-cueto        |           3|         13.8534|           0.8370|        0.4685|         1.3356|      0.1418|        0.4142|      0.0184| 67.0000|
+|/players/1175939/paul-nebel        |           3|         28.7394|           1.5452|        0.5623|         1.5713|      0.1031|        0.0379|      0.0943| 74.3333|
+|/players/1201713/tim-breithaupt    |           3|         43.2124|           1.4873|        0.0281|         0.5657|      0.0659|        0.0379|      0.0209| 83.4000|
+|/players/335436/jrome-gondorf      |           3|         38.9314|           1.8093|        0.3044|         1.0318|      0.0689|        0.0480|      0.1021| 90.0000|
+|/players/458998/marvin-wanitzek    |           3|         46.2268|           1.4592|        0.9014|         2.0602|      0.3533|        0.5174|      0.3842| 90.0000|
+|/players/686112/fabian-schleusener |           5|         19.7005|           0.6785|        0.7774|         2.0788|      0.1404|        0.0230|      0.0552| 80.5517|
+|/players/232110/simone-rapp        |           0|              NA|               NA|        0.3138|         0.5827|      0.0950|        0.1674|      0.0360| 23.0000|
+|/players/945935/mikkel-kaufmann    |           0|              NA|               NA|        0.1546|         0.3865|      0.0742|        0.0275|      0.0261| 15.6667|
+|/players/167065/sebastian-jung     |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0113|  9.4483|
+|/players/469702/florian-ballas     |           0|              NA|               NA|        0.0339|         0.0677|      0.0135|        0.0019|      0.0140|  6.6000|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Christian Eichner |        18716|     -2.392812|4-5-1     |
