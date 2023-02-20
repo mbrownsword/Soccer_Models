@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-19 16:39:47.944"
+[1] "Updated at 2023-02-19 16:46:59.093"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "Score: Club América 1.8149 to Tijuana 0.7343"
 [1] "Total: 2.5492"
-[1] "Club América %: 64.26"
-[1] "Draw %: 22.17"
-[1] "Tijuana %: 13.57"
+[1] "Club América %: 65.9"
+[1] "Draw %: 21.58"
+[1] "Tijuana %: 12.52"
 [1] "--XG Model--"
 [1] "Score: Club América 1.8468 to Tijuana 0.4606"
 [1] "Total: 2.3074"
-[1] "Club América %: 71.15"
-[1] "Draw %: 20.56"
-[1] "Tijuana %: 8.29"
+[1] "Club América %: 72.57"
+[1] "Draw %: 19.18"
+[1] "Tijuana %: 8.25"
 [1] "--XGoT Model--"
 [1] "Score: Club América 2.0221 to Tijuana 0.5045"
 [1] "Total: 2.5266"
-[1] "Club América %: 73.59"
-[1] "Draw %: 18.47"
-[1] "Tijuana %: 7.94"
+[1] "Club América %: 76.31"
+[1] "Draw %: 16.83"
+[1] "Tijuana %: 6.86"
 [1] "--XA Model--"
 [1] "Score: Club América 2.0735 to Tijuana 0.4953"
 [1] "Total: 2.5688"
-[1] "Club América %: 74.64"
-[1] "Draw %: 17.8"
-[1] "Tijuana %: 7.56"
+[1] "Club América %: 77.54"
+[1] "Draw %: 16.24"
+[1] "Tijuana %: 6.22"
 [1] "--Mean 4 Models--"
-[1] "Club América has a mean win % of 70.91%; a min win % of 64.26%; a max win % of 74.64%."
-[1] "Draw has a mean win % of 19.75%; a min win % of 17.8%; a max win % of 22.17%."
-[1] "Tijuana has a mean win % of 9.34%; a min win % of 7.56%; a max win of % 13.57%."
-[1] "Club América has a mean win of the Double Chance of 90.66%; a min win % of 86.43%, a max win % of 92.44%."
-[1] "Tijuana has a mean win of the Double Chance of 29.09%; a min win % of 25.36%, a max win % of 35.74%."
-[1] "The mean likelihood that there are more than 2.5 goals is 44.74%; max % is 46.71 and min % is 40.04%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 55.26%; max % is 59.96 and min % is 53.29%."
+[1] "Club América has a mean win % of 73.08%; a min win % of 65.9%; a max win % of 77.54%."
+[1] "Draw has a mean win % of 18.46%; a min win % of 16.24%; a max win % of 21.58%."
+[1] "Tijuana has a mean win % of 8.46%; a min win % of 6.22%; a max win of % 12.52%."
+[1] "Club América has a mean win of the Double Chance of 91.54%; a min win % of 87.48%, a max win % of 93.78%."
+[1] "Tijuana has a mean win of the Double Chance of 26.92%; a min win % of 22.46%, a max win % of 34.1%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.4%; max % is 55.57 and min % is 47.3%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.6%; max % is 52.7 and min % is 44.43%."
 [1] "--Sportsbook Odds--"
 [1] "Club América Barstool Odds are: 75.76"
 [1] "The Barstool Odds of a Draw are: 20"
@@ -47,41 +47,42 @@
 [1] "_____________________________________________________________________________________________________________________________"
                           bet           date_time
 1 under Club América/Tijuana 2023-02-19 17:05:00
+NULL
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team          | expected_attg| expected_gs|bet |
 |:--------------------------------------|:-------------|-------------:|-----------:|:---|
-|/players/463774/oscar-jimnez           |Club América |      0.000000|   0.2439024|    |
-|/players/71724/miguel-layun            |Club América |      0.048475|   0.1333333|    |
-|/players/207793/nstor-araujo           |Club América |      0.029475|   0.0769231|    |
-|/players/1074586/israel-reyes          |Club América |      0.027500|   0.1666667|    |
-|/players/914119/salvador-reyes         |Club América |      0.081250|   0.1785714|    |
-|/players/745210/richard-sanchez        |Club América |      0.113525|   0.2631579|    |
-|/players/895954/lvaro-fidalgo          |Club América |      0.059975|   0.2173913|    |
-|/players/595762/leonardo-surez         |Club América |      0.178475|   0.3225806|    |
-|/players/390758/diego-valds            |Club América |      0.261400|   0.3508772|    |
-|/players/495107/jonathan-rodriguez     |Club América |      0.258050|   0.6078431|    |
-|/players/558452/henry-martin           |Club América |      0.402475|   0.6875000|    |
-|/players/616400/alexis-pedro-canelo    |Tijuana       |      0.143175|   0.1851852|    |
-|/players/1023023/francisco-contreras   |Tijuana       |      0.004775|   0.0714286|    |
-|/players/655806/lucas-rodriguez        |Tijuana       |      0.197950|   0.1923077|    |
-|/players/616341/carlos-valenzuela      |Tijuana       |      0.006375|   0.1666667|    |
-|/players/306127/federico-lrtora        |Tijuana       |      0.007250|   0.1000000|    |
-|/players/534735/leonel-lopez           |Tijuana       |      0.005100|   0.0909091|    |
-|/players/926358/ismael-govea           |Tijuana       |      0.013050|   0.0303030|    |
-|/players/841170/nicolas-diaz           |Tijuana       |      0.011175|   0.0370370|    |
-|/players/182456/lisandro-lopez         |Tijuana       |      0.026925|   0.1250000|    |
-|/players/393071/rodrigo-godinez        |Tijuana       |      0.011475|   0.0833333|    |
-|/players/324432/jos-antonio-rodriguez  |Tijuana       |      0.000000|   0.6078431|    |
-|/players/1032811/federico-vinas        |Club América |      0.094175|   0.0000000|*   |
-|/players/189101/jonathan-dos-santos    |Club América |      0.000000|   0.0000000|    |
-|/players/547745/pedro-aquino           |Club América |      0.001000|   0.0000000|    |
-|/players/479026/roger-martinez         |Club América |      0.054925|   0.0000000|*   |
-|/players/384673/lucas-daniel-cavallini |Tijuana       |      0.042625|   0.0000000|    |
-|/players/774427/misael-dominguez       |Tijuana       |      0.001275|   0.0000000|    |
-|/players/1281608/luis-felix            |Tijuana       |      0.000000|   0.0000000|    |
-|/players/1248060/alejandro-martinez    |Tijuana       |      0.000000|   0.0000000|    |
+|/players/463774/oscar-jimnez           |Club América |            NA|   0.2439024|NA  |
+|/players/71724/miguel-layun            |Club América |            NA|   0.1333333|NA  |
+|/players/207793/nstor-araujo           |Club América |            NA|   0.0769231|NA  |
+|/players/1074586/israel-reyes          |Club América |            NA|   0.1666667|NA  |
+|/players/914119/salvador-reyes         |Club América |            NA|   0.1785714|NA  |
+|/players/745210/richard-sanchez        |Club América |            NA|   0.2631579|NA  |
+|/players/895954/lvaro-fidalgo          |Club América |            NA|   0.2173913|NA  |
+|/players/595762/leonardo-surez         |Club América |            NA|   0.3225806|NA  |
+|/players/390758/diego-valds            |Club América |            NA|   0.3508772|NA  |
+|/players/495107/jonathan-rodriguez     |Club América |            NA|   0.6078431|NA  |
+|/players/558452/henry-martin           |Club América |            NA|   0.6875000|NA  |
+|/players/616400/alexis-pedro-canelo    |Tijuana       |            NA|   0.1851852|NA  |
+|/players/1023023/francisco-contreras   |Tijuana       |            NA|   0.0714286|NA  |
+|/players/655806/lucas-rodriguez        |Tijuana       |            NA|   0.1923077|NA  |
+|/players/616341/carlos-valenzuela      |Tijuana       |            NA|   0.1666667|NA  |
+|/players/306127/federico-lrtora        |Tijuana       |            NA|   0.1000000|NA  |
+|/players/534735/leonel-lopez           |Tijuana       |            NA|   0.0909091|NA  |
+|/players/926358/ismael-govea           |Tijuana       |            NA|   0.0303030|NA  |
+|/players/841170/nicolas-diaz           |Tijuana       |            NA|   0.0370370|NA  |
+|/players/182456/lisandro-lopez         |Tijuana       |            NA|   0.1250000|NA  |
+|/players/393071/rodrigo-godinez        |Tijuana       |            NA|   0.0833333|NA  |
+|/players/324432/jos-antonio-rodriguez  |Tijuana       |            NA|   0.6078431|NA  |
+|/players/1032811/federico-vinas        |Club América |            NA|   0.0000000|NA  |
+|/players/189101/jonathan-dos-santos    |Club América |            NA|   0.0000000|NA  |
+|/players/547745/pedro-aquino           |Club América |            NA|   0.0000000|NA  |
+|/players/479026/roger-martinez         |Club América |            NA|   0.0000000|NA  |
+|/players/384673/lucas-daniel-cavallini |Tijuana       |            NA|   0.0000000|NA  |
+|/players/774427/misael-dominguez       |Tijuana       |            NA|   0.0000000|NA  |
+|/players/1281608/luis-felix            |Tijuana       |            NA|   0.0000000|NA  |
+|/players/1248060/alejandro-martinez    |Tijuana       |            NA|   0.0000000|NA  |
 ____________________________________________________
 
 [1] "Facts about Club América:"
@@ -120,6 +121,25 @@ ____________________________________________________
 |:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 |/players/616400/alexis-pedro-canelo    |           5|         18.5762|           0.6583|        0.6352|         1.6921|      0.1933|        0.2083|      0.0434| 90.0000|
 |/players/1023023/francisco-contreras   |           3|         20.7501|           0.5291|        0.3070|         0.3377|      0.0059|        0.0064|      0.0482| 69.3333|
+|/players/655806/lucas-rodriguez        |           3|         22.3344|           1.3889|        0.3582|         1.4184|      0.2850|        0.2884|      0.0672| 80.9000|
+|/players/616341/carlos-valenzuela      |           3|         21.9364|           1.4041|        0.4822|         1.7146|      0.0406|        0.0079|      0.1189| 84.8462|
+|/players/306127/federico-lrtora        |           2|         32.7129|           1.9583|        0.1187|         0.7869|      0.0237|        0.0095|      0.0383| 90.0000|
+|/players/534735/leonel-lopez           |           2|         31.8280|           2.2004|        0.1470|         0.3656|      0.0189|        0.0076|      0.0306| 71.7500|
+|/players/926358/ismael-govea           |           1|         26.6292|           1.7492|        0.0595|         0.3110|      0.0096|        0.0174|      0.0212| 90.0000|
+|/players/841170/nicolas-diaz           |           1|         35.2052|           2.2228|        0.0786|         0.2463|      0.0185|        0.0174|      0.0403| 90.0000|
+|/players/182456/lisandro-lopez         |           1|         41.1495|           1.7402|        0.1474|         0.5775|      0.0610|        0.0332|      0.0264| 90.0000|
+|/players/393071/rodrigo-godinez        |           1|         30.5549|           1.0501|        0.0595|         0.2463|      0.0163|        0.0174|      0.0127| 90.0000|
+|/players/324432/jos-antonio-rodriguez  |           0|         25.4753|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/384673/lucas-daniel-cavallini |           0|              NA|               NA|        0.2709|         0.8253|      0.0596|        0.0577|      0.0128| 20.6667|
+|/players/774427/misael-dominguez       |           0|              NA|               NA|        0.0449|         0.0594|      0.0116|        0.0014|      0.0148| 18.2500|
+|/players/1281608/luis-felix            |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0013|  9.1000|
+|/players/1248060/alejandro-martinez    |           0|              NA|               NA|        0.0108|         0.1579|      0.0048|        0.0000|      0.0018|  5.1538|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Ricardo Valino |        17722|     -8.292222|4-2-3-1   |
+ 20.7501|           0.5291|        0.3070|         0.3377|      0.0059|        0.0064|      0.0482| 69.3333|
 |/players/655806/lucas-rodriguez        |           3|         22.3344|           1.3889|        0.3582|         1.4184|      0.2850|        0.2884|      0.0672| 80.9000|
 |/players/616341/carlos-valenzuela      |           3|         21.9364|           1.4041|        0.4822|         1.7146|      0.0406|        0.0079|      0.1189| 84.8462|
 |/players/306127/federico-lrtora        |           2|         32.7129|           1.9583|        0.1187|         0.7869|      0.0237|        0.0095|      0.0383| 90.0000|
