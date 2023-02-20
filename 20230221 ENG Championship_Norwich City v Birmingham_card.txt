@@ -1,0 +1,143 @@
+[1] "Updated at 2023-02-20 12:55:01.736"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Norwich City 1.1626 to Birmingham 1.1537"
+[1] "Total: 2.3163"
+[1] "Norwich City %: 35.97"
+[1] "Draw %: 28.56"
+[1] "Birmingham %: 35.47"
+[1] "--XG Model--"
+[1] "Score: Norwich City 1.2027 to Birmingham 1.1291"
+[1] "Total: 2.3318"
+[1] "Norwich City %: 38.01"
+[1] "Draw %: 28.47"
+[1] "Birmingham %: 33.52"
+[1] "--XGoT Model--"
+[1] "Score: Norwich City 1.2919 to Birmingham 1.1851"
+[1] "Total: 2.477"
+[1] "Norwich City %: 39.15"
+[1] "Draw %: 27.18"
+[1] "Birmingham %: 33.67"
+[1] "--XA Model--"
+[1] "Score: Norwich City 1.205 to Birmingham 1.0658"
+[1] "Total: 2.2708"
+[1] "Norwich City %: 39.78"
+[1] "Draw %: 28.66"
+[1] "Birmingham %: 31.56"
+[1] "--Mean 4 Models--"
+[1] "Norwich City has a mean win % of 38.23%; a min win % of 35.97%; a max win % of 39.78%."
+[1] "Draw has a mean win % of 28.22%; a min win % of 27.18%; a max win % of 28.66%."
+[1] "Birmingham has a mean win % of 33.56%; a min win % of 31.56%; a max win of % 35.47%."
+[1] "Norwich City has a mean win of the Double Chance of 66.44%; a min win % of 64.53%, a max win % of 68.44%."
+[1] "Birmingham has a mean win of the Double Chance of 61.77%; a min win % of 60.22%, a max win % of 64.03%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.73%; max % is 44.04 and min % is 38.56%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.27%; max % is 61.44 and min % is 55.96%."
+[1] "--Sportsbook Odds--"
+[1] "Norwich City Barstool Odds are: 60.61"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Birmingham Barstool Odds are: 20"
+[1] "Norwich City Adjusted Barstool Odds are: 56.682"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.614"
+[1] "Birmingham Adjusted Barstool Odds are: 18.704"
+[1] "Norwich City's Barstool Odds to cover the -0.75 spread are: 54.35"
+[1] "Birmingham's Barstool Odds to cover the 0.75 spread are: 50.51"
+[1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.88, which is a 53.19% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                            bet           date_time
+1  draw Norwich City/Birmingham 2023-02-21 11:45:00
+2                    Birmingham 2023-02-21 11:45:00
+3 under Norwich City/Birmingham 2023-02-21 11:45:00
+4                Birmingham ATS 2023-02-21 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team         | expected_attg| expected_gs|bet |
+|:-----------------------------------|:------------|-------------:|-----------:|:---|
+|/players/24229/tim-krul             |Norwich City |      0.000000|   0.0833333|    |
+|/players/1050822/andrew-omobamidele |Norwich City |      0.027200|   0.0909091|    |
+|/players/201738/ben-gibson          |Norwich City |      0.028900|   0.0588235|    |
+|/players/202180/grant-hanley        |Norwich City |      0.011425|   0.0909091|    |
+|/players/956621/max-aarons          |Norwich City |      0.030700|   0.0833333|    |
+|/players/1129081/marcelino-nunez    |Norwich City |      0.059975|   0.2777778|    |
+|/players/605262/kieran-dowell       |Norwich City |      0.192925|   0.3030303|    |
+|/players/229711/onel-hernndez       |Norwich City |      0.021925|   0.3030303|    |
+|/players/190851/kenny-mclean        |Norwich City |      0.039300|   0.1886792|    |
+|/players/848011/joshua-sargent      |Norwich City |      0.138325|   0.4166667|    |
+|/players/66578/teemu-pukki          |Norwich City |      0.288600|   0.2380952|*   |
+|/players/40602/john-ruddy           |Birmingham   |      0.000000|   0.1428571|    |
+|/players/470638/marc-roberts        |Birmingham   |      0.089925|   0.2777778|    |
+|/players/1070973/dion-sanderson     |Birmingham   |      0.012925|   0.0714286|    |
+|/players/688271/auston-trusty       |Birmingham   |      0.013275|   0.0909091|    |
+|/players/963949/emmanuel-longelo    |Birmingham   |      0.039150|   0.1111111|    |
+|/players/210389/maxime-colin        |Birmingham   |      0.045900|   0.0952381|    |
+|/players/556952/krystian-bielik     |Birmingham   |      0.004825|   0.2083333|    |
+|/players/282251/gary-gardner        |Birmingham   |      0.062800|   0.1428571|    |
+|/players/614574/juninho-bacuna      |Birmingham   |      0.105625|   0.1428571|    |
+|/players/72436/troy-deeney          |Birmingham   |      0.199950|   0.3225806|    |
+|/players/190424/scott-hogan         |Birmingham   |      0.220950|   0.2380952|    |
+|/players/902710/gabriel-sara        |Norwich City |      0.175650|   0.2083333|    |
+|/players/1111391/liam-gibbs         |Norwich City |      0.007575|   0.2777778|    |
+|/players/1113694/jonathan-rowe      |Norwich City |      0.017050|   0.2222222|    |
+|/players/846009/adam-idah           |Norwich City |      0.000000|   0.4347826|    |
+|/players/27568/lukas-jutkiewicz     |Birmingham   |      0.070200|   0.2702703|    |
+|/players/1288279/george-hall        |Birmingham   |      0.043700|   0.1333333|    |
+|/players/1310975/jordan-james       |Birmingham   |      0.000000|   0.1052632|    |
+|/players/1089922/reda-khadra        |Birmingham   |      0.071550|   0.2325581|    |
+____________________________________________________
+
+[1] "Facts about Norwich City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/24229/tim-krul             |           0|         31.4159|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1050822/andrew-omobamidele |           1|         55.1283|           1.7566|        0.2269|         0.3104|      0.0203|        0.0383|      0.0279| 90.0000|
+|/players/201738/ben-gibson          |           1|         53.6625|           0.5187|        0.1885|         0.5414|      0.0538|        0.0455|      0.0245| 90.0000|
+|/players/202180/grant-hanley        |           1|         44.3448|           1.5179|        0.1090|         0.8941|      0.0682|        0.0175|      0.0117| 90.0000|
+|/players/956621/max-aarons          |           1|         35.2011|           1.6311|        0.1339|         0.5494|      0.0577|        0.0471|      0.1935| 90.0000|
+|/players/1129081/marcelino-nunez    |           3|         40.0153|           1.9980|        0.4190|         1.6273|      0.1392|        0.0863|      0.1849| 80.5161|
+|/players/605262/kieran-dowell       |           3|         33.4143|           1.1867|        0.5295|         1.1458|      0.1812|        0.3048|      0.0952| 68.6957|
+|/players/229711/onel-hernndez       |           3|         20.6890|           1.0498|        0.2136|         0.9907|      0.0890|        0.0316|      0.0883| 78.3684|
+|/players/190851/kenny-mclean        |           3|         45.6867|           1.2119|        0.3515|         1.0503|      0.0772|        0.0548|      0.0338| 90.0000|
+|/players/848011/joshua-sargent      |           5|         20.9621|           0.8433|        0.6683|         1.6632|      0.1554|        0.2137|      0.0739| 78.4103|
+|/players/66578/teemu-pukki          |           5|         17.2278|           0.5131|        1.0347|         2.7026|      0.4991|        0.4766|      0.1427| 90.0000|
+|/players/902710/gabriel-sara        |           0|              NA|               NA|        0.3685|         0.5665|      0.1650|        0.2615|      0.0621| 21.3043|
+|/players/1111391/liam-gibbs         |           0|              NA|               NA|        0.0664|         0.2186|      0.0123|        0.0116|      0.0095| 11.6316|
+|/players/1113694/jonathan-rowe      |           0|              NA|               NA|        0.1804|         0.2641|      0.0124|        0.0210|      0.0222| 11.5897|
+|/players/846009/adam-idah           |           0|              NA|               NA|        0.0000|         0.3439|      0.0234|        0.0000|      0.0075|  9.4839|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|David Wagner |        38386|      7.941964|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Birmingham:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/40602/john-ruddy        |           0|         29.7630|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/470638/marc-roberts     |           1|         43.1546|           1.3348|        0.1994|         0.6676|      0.1315|        0.1175|      0.0256| 90.0000|
+|/players/1070973/dion-sanderson  |           1|         44.3403|           1.2017|        0.0985|         0.3421|      0.0111|        0.0163|      0.0423| 90.0000|
+|/players/688271/auston-trusty    |           1|         53.7798|           1.8286|        0.0985|         0.3333|      0.0244|        0.0163|      0.0201| 90.0000|
+|/players/963949/emmanuel-longelo |           3|         31.2810|           1.7421|        0.1606|         0.8076|      0.0327|        0.0502|      0.1942| 90.0000|
+|/players/210389/maxime-colin     |           3|         37.7535|           3.1580|        0.1541|         0.4134|      0.1131|        0.0545|      0.0644| 90.0000|
+|/players/556952/krystian-bielik  |           3|         44.1614|           2.4594|        0.1134|         0.5130|      0.0304|        0.0057|      0.0424| 78.8824|
+|/players/282251/gary-gardner     |           3|         39.2232|           2.0843|        0.2306|         1.0145|      0.0754|        0.0777|      0.0782| 90.0000|
+|/players/614574/juninho-bacuna   |           3|         32.8608|           1.2904|        0.5353|         1.7587|      0.1128|        0.1285|      0.0946| 78.6667|
+|/players/72436/troy-deeney       |           5|         28.3804|           0.8836|        0.7449|         2.0035|      0.2527|        0.2641|      0.1158| 80.0909|
+|/players/190424/scott-hogan      |           5|         12.9913|           0.4275|        0.8291|         1.9866|      0.2834|        0.2971|      0.0234| 80.1250|
+|/players/27568/lukas-jutkiewicz  |           0|              NA|               NA|        0.2153|         0.5141|      0.0649|        0.0914|      0.0199| 11.3333|
+|/players/1288279/george-hall     |           0|              NA|               NA|        0.0619|         0.2771|      0.0619|        0.0537|      0.0143| 11.1176|
+|/players/1310975/jordan-james    |           0|              NA|               NA|        0.0000|         0.1011|      0.0123|        0.0000|      0.0021|  9.9091|
+|/players/1089922/reda-khadra     |           0|              NA|               NA|        0.2252|         0.3023|      0.0305|        0.0846|      0.0448|  9.8750|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|John Eustace |        33000|     -4.398788|3-5-2     |
