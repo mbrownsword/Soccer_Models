@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-20 07:11:15.761"
+[1] "Updated at 2023-02-20 07:53:37.386"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -48,7 +48,6 @@
           bet           date_time
 1     Watford 2023-02-20 12:00:00
 2 Watford ATS 2023-02-20 12:00:00
-NULL
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -64,8 +63,8 @@ NULL
 |/players/1288119/ismael-kone           |Watford              |      0.079675|   0.1666667|    |
 |/players/771294/ismaila-sarr           |Watford              |      0.347425|   0.2941176|*   |
 |/players/520670/ken-sema               |Watford              |      0.055525|   0.1538462|    |
-|/players/724368/keinan-davis           |Watford              |      0.254050|   0.2857143|    |
-|/players/111027/david-button           |West Bromwich Albion |      0.000000|   0.0625000|    |
+|/players/724368/keinan-davis           |Watford              |      0.254050|   0.2777778|    |
+|/players/111027/david-button           |West Bromwich Albion |      0.000000|   0.0588235|    |
 |/players/410836/semi-ajayi             |West Bromwich Albion |      0.042775|   0.0588235|    |
 |/players/165704/kyle-bartley           |West Bromwich Albion |      0.021000|   0.0909091|    |
 |/players/295069/conor-townsend         |West Bromwich Albion |      0.039575|   0.0769231|    |
@@ -75,10 +74,10 @@ NULL
 |/players/541822/john-swift             |West Bromwich Albion |      0.076225|   0.2040816|    |
 |/players/654091/grady-diangana         |West Bromwich Albion |      0.008100|   0.2173913|    |
 |/players/776184/brandon-thomas-asante  |West Bromwich Albion |      0.242375|   0.3030303|    |
-|/players/586467/karlan-grant           |West Bromwich Albion |      0.235350|   0.3571429|    |
+|/players/586467/karlan-grant           |West Bromwich Albion |      0.235350|   0.3636364|    |
 |/players/1277380/yaser-asprilla        |Watford              |      0.006550|   0.2222222|    |
 |/players/1192386/henrique-araujo       |Watford              |      0.066400|   0.2500000|    |
-|/players/1021382/joao-pedro            |Watford              |      0.005450|   0.3125000|    |
+|/players/1021382/joao-pedro            |Watford              |      0.005450|   0.3030303|    |
 |/players/183185/mario-gaspar           |Watford              |      0.000000|   0.0909091|    |
 |/players/789574/jayson-molumby         |West Bromwich Albion |      0.001425|   0.0909091|    |
 |/players/303899/tom-rogic              |West Bromwich Albion |      0.061050|   0.1818182|    |
