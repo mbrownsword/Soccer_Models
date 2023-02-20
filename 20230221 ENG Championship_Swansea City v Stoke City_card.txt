@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-20 12:59:06.124"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Swansea City 1.453 to Stoke City 1.0627"
+[1] "Total: 2.5157"
+[1] "Swansea City %: 46.69"
+[1] "Draw %: 25.65"
+[1] "Stoke City %: 27.66"
+[1] "--XG Model--"
+[1] "Score: Swansea City 1.519 to Stoke City 1.0174"
+[1] "Total: 2.5364"
+[1] "Swansea City %: 48.72"
+[1] "Draw %: 25.79"
+[1] "Stoke City %: 25.49"
+[1] "--XGoT Model--"
+[1] "Score: Swansea City 1.5188 to Stoke City 1.0245"
+[1] "Total: 2.5433"
+[1] "Swansea City %: 48.51"
+[1] "Draw %: 25.75"
+[1] "Stoke City %: 25.74"
+[1] "--XA Model--"
+[1] "Score: Swansea City 1.4652 to Stoke City 1.0265"
+[1] "Total: 2.4917"
+[1] "Swansea City %: 47.68"
+[1] "Draw %: 26.06"
+[1] "Stoke City %: 26.26"
+[1] "--Mean 4 Models--"
+[1] "Swansea City has a mean win % of 47.9%; a min win % of 46.69%; a max win % of 48.72%."
+[1] "Draw has a mean win % of 25.81%; a min win % of 25.65%; a max win % of 26.06%."
+[1] "Stoke City has a mean win % of 26.29%; a min win % of 25.49%; a max win of % 27.66%."
+[1] "Swansea City has a mean win of the Double Chance of 73.71%; a min win % of 72.34%, a max win % of 74.51%."
+[1] "Stoke City has a mean win of the Double Chance of 52.1%; a min win % of 51.28%, a max win % of 53.31%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.26%; max % is 45.95 and min % is 44.36%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.74%; max % is 55.64 and min % is 54.05%."
+[1] "--Sportsbook Odds--"
+[1] "Swansea City Barstool Odds are: 45.45"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Stoke City Barstool Odds are: 29.41"
+[1] "Swansea City Adjusted Barstool Odds are: 42.833"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.451"
+[1] "Stoke City Adjusted Barstool Odds are: 27.717"
+[1] "Swansea City's Barstool Odds to cover the -0.25 spread are: 52.91"
+[1] "Stoke City's Barstool Odds to cover the 0.25 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+           bet           date_time
+1 Swansea City 2023-02-21 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team         | expected_attg| expected_gs|bet |
+|:-----------------------------------|:------------|-------------:|-----------:|:---|
+|/players/789558/andrew-fisher       |Swansea City |      0.000000|   0.0909091|    |
+|/players/953859/nathan-wood         |Swansea City |      0.034075|   0.0476190|    |
+|/players/111800/kyle-naughton       |Swansea City |      0.014575|   0.0476190|    |
+|/players/948555/ben-cabango         |Swansea City |      0.049275|   0.0833333|    |
+|/players/259809/jay-fulton          |Swansea City |      0.051125|   0.2272727|    |
+|/players/435513/ryan-manning        |Swansea City |      0.149525|   0.1250000|    |
+|/players/47558/joe-allen            |Swansea City |      0.018700|   0.0833333|    |
+|/players/478357/matt-grimes         |Swansea City |      0.067800|   0.1538462|    |
+|/players/962706/oliver-cooper       |Swansea City |      0.087650|   0.2631579|    |
+|/players/1081288/morgan-whittaker   |Swansea City |      0.327750|   0.2631579|*   |
+|/players/792540/joel-piroe          |Swansea City |      0.353225|   0.3846154|    |
+|/players/299148/jack-bonham         |Stoke City   |      0.000000|   0.0769231|    |
+|/players/793905/dujon-sterling      |Stoke City   |      0.018800|   0.0588235|    |
+|/players/406926/morgan-fox          |Stoke City   |      0.016375|   0.0476190|    |
+|/players/23268/phil-jagielka        |Stoke City   |      0.018250|   0.0769231|    |
+|/players/798603/ben-wilmot          |Stoke City   |      0.070675|   0.1052632|    |
+|/players/538499/lewis-baker         |Stoke City   |      0.009075|   0.2173913|    |
+|/players/523193/josh-laurent        |Stoke City   |      0.112300|   0.1333333|    |
+|/players/662728/jordan-thompson     |Stoke City   |      0.033075|   0.0714286|    |
+|/players/807925/william-smallbone   |Stoke City   |      0.165750|   0.1250000|    |
+|/players/722741/josh-tymon          |Stoke City   |      0.181150|   0.0769231|*   |
+|/players/802245/jacob-brown         |Stoke City   |      0.217775|   0.2777778|    |
+|/players/671159/olivier-ntcham      |Swansea City |      0.056225|   0.2380952|    |
+|/players/210825/jamie-paterson      |Swansea City |      0.000000|   0.1538462|    |
+|/players/1023017/armstrong-oko-flex |Swansea City |      0.017925|   0.2777778|    |
+|/players/1075519/matthew-sorinola   |Swansea City |      0.000000|   0.1176471|    |
+|/players/210797/nick-powell         |Stoke City   |      0.029175|   0.2325581|    |
+|/players/807728/tyrese-campbell     |Stoke City   |      0.006625|   0.2439024|    |
+|/players/363340/dwight-gayle        |Stoke City   |      0.016150|   0.2777778|    |
+|/players/179028/sam-clucas          |Stoke City   |      0.000000|   0.2857143|    |
+____________________________________________________
+
+[1] "Facts about Swansea City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/789558/andrew-fisher       |           0|         46.7073|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/953859/nathan-wood         |           1|         54.6943|           1.3329|        0.1976|         0.5293|      0.0174|        0.0372|      0.0546| 84.8500|
+|/players/111800/kyle-naughton       |           1|         67.0136|           1.7169|        0.0710|         0.4276|      0.0236|        0.0159|      0.0228| 90.0000|
+|/players/948555/ben-cabango         |           1|         56.4059|           1.7542|        0.1495|         0.7282|      0.1453|        0.0588|      0.0289| 90.0000|
+|/players/259809/jay-fulton          |           3|         39.9944|           2.5525|        0.2701|         1.0281|      0.0656|        0.0628|      0.0674| 84.1071|
+|/players/435513/ryan-manning        |           3|         40.5274|           1.5588|        0.5281|         1.7450|      0.1776|        0.1810|      0.1953| 90.0000|
+|/players/47558/joe-allen            |           3|         37.1469|           1.8967|        0.1350|         0.5182|      0.0493|        0.0211|      0.0574| 83.1750|
+|/players/478357/matt-grimes         |           3|         72.3031|           1.8227|        0.3799|         1.0604|      0.0703|        0.0766|      0.1759| 90.0000|
+|/players/962706/oliver-cooper       |           4|         33.3940|           1.1606|        0.4483|         1.1502|      0.1923|        0.1038|      0.1333| 80.0000|
+|/players/1081288/morgan-whittaker   |           4|         34.5883|           1.1565|        1.1850|         3.2905|      0.3073|        0.4266|      0.1982| 90.0000|
+|/players/792540/joel-piroe          |           5|         23.7890|           0.6973|        1.1576|         2.9340|      0.4687|        0.4760|      0.0921| 90.0000|
+|/players/671159/olivier-ntcham      |           0|              NA|               NA|        0.2641|         0.8344|      0.0978|        0.0636|      0.0210| 10.0000|
+|/players/210825/jamie-paterson      |           0|              NA|               NA|        0.0000|         0.1584|      0.0123|        0.0000|      0.0243|  6.8250|
+|/players/1023017/armstrong-oko-flex |           0|              NA|               NA|        0.0512|         0.1821|      0.0223|        0.0204|      0.0066|  5.8929|
+|/players/1075519/matthew-sorinola   |           0|              NA|               NA|        0.0000|         0.0418|      0.0033|        0.0000|      0.0105|  5.1500|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Russell Martin |        71175|     -1.364427|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about Stoke City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/299148/jack-bonham       |           0|         24.9152|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/793905/dujon-sterling    |           1|         22.2737|           1.5035|        0.0942|         0.1568|      0.0096|        0.0176|      0.0287| 90.0000|
+|/players/406926/morgan-fox        |           1|         36.4384|           1.5280|        0.0942|         0.1890|      0.0060|        0.0176|      0.0695| 90.0000|
+|/players/23268/phil-jagielka      |           1|         42.7600|           0.9858|        0.0942|         0.3623|      0.0427|        0.0176|      0.0175| 90.0000|
+|/players/798603/ben-wilmot        |           1|         44.8712|           1.5765|        0.1012|         0.7559|      0.1013|        0.0654|      0.0394| 90.0000|
+|/players/538499/lewis-baker       |           2|         37.0568|           0.9183|        0.2481|         0.8611|      0.0537|        0.0097|      0.0878| 90.0000|
+|/players/523193/josh-laurent      |           2|         36.4692|           2.6556|        0.1722|         0.5433|      0.0711|        0.1104|      0.0184| 90.0000|
+|/players/662728/jordan-thompson   |           3|         19.9012|           0.6703|        0.3474|         1.1417|      0.1216|        0.0315|      0.0947| 78.5526|
+|/players/807925/william-smallbone |           3|         21.6071|           1.5010|        0.3143|         1.1755|      0.1118|        0.1713|      0.1032| 78.6429|
+|/players/722741/josh-tymon        |           3|         21.5702|           0.7761|        0.6876|         1.2623|      0.1637|        0.1908|      0.1065| 85.0625|
+|/players/802245/jacob-brown       |           5|         14.2065|           0.4340|        0.6896|         1.7545|      0.2724|        0.2346|      0.0401| 83.5000|
+|/players/210797/nick-powell       |           0|              NA|               NA|        0.0947|         0.2734|      0.0268|        0.0292|      0.0125| 11.4474|
+|/players/807728/tyrese-campbell   |           0|              NA|               NA|        0.0722|         0.2778|      0.0215|        0.0053|      0.0140| 11.3571|
+|/players/363340/dwight-gayle      |           0|              NA|               NA|        0.0314|         0.1648|      0.0365|        0.0153|      0.0092|  6.5000|
+|/players/179028/sam-clucas        |           0|              NA|               NA|        0.0000|         0.0281|      0.0005|        0.0000|      0.0012|  4.9375|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Alex Neil    |        66103|     0.9537383|4-2-3-1   |
