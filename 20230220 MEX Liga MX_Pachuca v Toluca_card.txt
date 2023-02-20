@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-19 18:29:04.725"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Pachuca 1.3394 to Toluca 1.3979"
+[1] "Total: 2.7373"
+[1] "Pachuca %: 33.22"
+[1] "Draw %: 29.17"
+[1] "Toluca %: 37.61"
+[1] "--XG Model--"
+[1] "Score: Pachuca 1.1284 to Toluca 1.0806"
+[1] "Total: 2.209"
+[1] "Pachuca %: 36.56"
+[1] "Draw %: 30"
+[1] "Toluca %: 33.44"
+[1] "--XGoT Model--"
+[1] "Score: Pachuca 1.5015 to Toluca 1.1941"
+[1] "Total: 2.6956"
+[1] "Pachuca %: 44.69"
+[1] "Draw %: 27.31"
+[1] "Toluca %: 28"
+[1] "--XA Model--"
+[1] "Score: Pachuca 1.8263 to Toluca 1.2936"
+[1] "Total: 3.1199"
+[1] "Pachuca %: 50.85"
+[1] "Draw %: 26.55"
+[1] "Toluca %: 22.6"
+[1] "--Mean 4 Models--"
+[1] "Pachuca has a mean win % of 41.33%; a min win % of 33.22%; a max win % of 50.85%."
+[1] "Draw has a mean win % of 28.26%; a min win % of 26.55%; a max win % of 30%."
+[1] "Toluca has a mean win % of 30.41%; a min win % of 22.6%; a max win of % 37.61%."
+[1] "Pachuca has a mean win of the Double Chance of 69.59%; a min win % of 62.39%, a max win % of 77.4%."
+[1] "Toluca has a mean win of the Double Chance of 58.67%; a min win % of 49.15%, a max win % of 66.78%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.67%; max % is 67.77 and min % is 41.85%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.33%; max % is 58.15 and min % is 32.23%."
+[1] "--Sportsbook Odds--"
+[1] "Pachuca Barstool Odds are: 57.14"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Toluca Barstool Odds are: 25"
+[1] "Pachuca Adjusted Barstool Odds are: 52.683"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.267"
+[1] "Toluca Adjusted Barstool Odds are: 23.05"
+[1] "Pachuca's Barstool Odds to cover the -0.75 spread are: 50.51"
+[1] "Toluca's Barstool Odds to cover the 0.75 spread are: 55.56"
+[1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                  bet           date_time
+1 draw Pachuca/Toluca 2023-02-19 19:05:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team    | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-------|-------------:|-----------:|:---|
+|/players/991005/carlos-moreno       |Pachuca |      0.000000|   0.2631579|    |
+|/players/924737/kevin-lvarez        |Pachuca |      0.069825|   0.1111111|    |
+|/players/167928/oscar-murillo       |Pachuca |      0.011975|   0.0833333|    |
+|/players/1128764/mauricio-isais     |Pachuca |      0.008675|   0.1724138|    |
+|/players/18673/gustavo-cabral       |Pachuca |      0.050825|   0.1052632|    |
+|/players/1306880/jesus-hernandez    |Pachuca |      0.048975|   0.4000000|    |
+|/players/527616/luis-chvez          |Pachuca |      0.243650|   0.2127660|    |
+|/players/822211/antonio-figueroa    |Pachuca |      0.012075|   0.1333333|    |
+|/players/868061/roberto-de-la-rosa  |Pachuca |      0.324525|   0.3508772|    |
+|/players/772320/erick-snchez        |Pachuca |      0.168875|   0.1818182|    |
+|/players/1280280/illian-hernandez   |Pachuca |      0.025400|   0.4000000|    |
+|/players/1031656/maximiliano-araujo |Toluca  |      0.063550|   0.1851852|    |
+|/players/614459/carlos-gonzalez     |Toluca  |      0.291075|   0.2631579|    |
+|/players/867741/edgar-lopez         |Toluca  |      0.157075|   0.2380952|    |
+|/players/950681/marcel-ruiz         |Toluca  |      0.053800|   0.1428571|    |
+|/players/360799/claudio-baeza       |Toluca  |      0.065250|   0.0769231|    |
+|/players/664954/jean-meneses        |Toluca  |      0.097525|   0.2631579|    |
+|/players/110331/brayan-angulo       |Toluca  |      0.025475|   0.0416667|    |
+|/players/317774/valber-huerta       |Toluca  |      0.037700|   0.1333333|    |
+|/players/205863/andrs-mosquera      |Toluca  |      0.047200|   0.0526316|    |
+|/players/1205874/brian-garcia       |Toluca  |      0.021825|   0.1111111|    |
+|/players/409017/tiago-volpi         |Toluca  |      0.000000|   0.2380952|    |
+|/players/1205222/marino-hinestroza  |Pachuca |      0.037650|   0.0000000|    |
+|/players/206227/avils-hurtado       |Pachuca |      0.070625|   0.0000000|*   |
+|/players/430767/javier-lopez        |Pachuca |      0.172875|   0.0000000|*   |
+|/players/1109048/israel-luna        |Pachuca |      0.045075|   0.0000000|    |
+|/players/115731/fernando-navarro    |Toluca  |      0.026150|   0.0000000|    |
+|/players/256605/camilo              |Toluca  |      0.210625|   0.0000000|*   |
+|/players/834965/leonardo-fernandez  |Toluca  |      0.006325|   0.0000000|    |
+|/players/622027/sebastian-saucedo   |Toluca  |      0.034900|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Pachuca:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/991005/carlos-moreno      |           0|         24.0915|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/924737/kevin-lvarez       |           1|         37.5562|           1.1698|        0.1408|         0.3518|      0.0588|        0.0830|      0.1621| 90.0000|
+|/players/167928/oscar-murillo      |           1|         50.9400|           1.3382|        0.1865|         0.6991|      0.0511|        0.0141|      0.0371| 90.0000|
+|/players/1128764/mauricio-isais    |           1|         40.0494|           2.2610|        0.1765|         0.8270|      0.0243|        0.0102|      0.0649| 90.0000|
+|/players/18673/gustavo-cabral      |           1|         48.9069|           1.1266|        0.1356|         0.5365|      0.0786|        0.0606|      0.0117| 90.0000|
+|/players/1306880/jesus-hernandez   |           3|         21.1987|           1.4779|        0.0930|         0.3862|      0.0941|        0.0566|      0.0795| 64.0000|
+|/players/527616/luis-chvez         |           3|         53.2015|           1.4670|        0.8864|         2.4538|      0.1932|        0.2916|      0.2029| 90.0000|
+|/players/822211/antonio-figueroa   |           3|         31.7172|           1.4779|        0.1860|         0.7725|      0.0424|        0.0131|      0.0058| 77.0000|
+|/players/868061/roberto-de-la-rosa |           5|         10.9877|           0.4368|        0.7973|         1.7646|      0.2474|        0.4233|      0.1070| 68.8824|
+|/players/772320/erick-snchez       |           5|         28.3458|           1.9157|        0.3709|         1.5445|      0.1726|        0.1988|      0.1249| 90.0000|
+|/players/1280280/illian-hernandez  |           5|          2.4113|           0.0585|        0.1369|         0.3509|      0.0503|        0.0280|      0.0161|  9.2222|
+|/players/1205222/marino-hinestroza |           0|              NA|               NA|        0.8396|         2.3332|      0.0707|        0.0426|      0.2357| 80.7778|
+|/players/206227/avils-hurtado      |           0|              NA|               NA|        0.0877|         1.0054|      0.0703|        0.0808|      0.1195| 26.0000|
+|/players/430767/javier-lopez       |           0|              NA|               NA|        0.4219|         0.8060|      0.0405|        0.2065|      0.1247| 21.1176|
+|/players/1109048/israel-luna       |           0|              NA|               NA|        0.1731|         0.2706|      0.0289|        0.0540|      0.0026| 13.0000|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Guillermo Almada |        85008|      6.310848|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Toluca:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1031656/maximiliano-araujo |           5|         16.4936|           1.7366|        0.5084|         2.0830|      0.1009|        0.0674|      0.1338| 74.6000|
+|/players/614459/carlos-gonzalez     |           5|         25.0022|           0.9262|        0.7909|         1.8258|      0.3657|        0.3422|      0.0409| 82.2444|
+|/players/867741/edgar-lopez         |           5|         22.2532|           0.5789|        0.5649|         1.0286|      0.1124|        0.1732|      0.0638| 69.4444|
+|/players/950681/marcel-ruiz         |           3|         33.8335|           2.7118|        0.1886|         0.8447|      0.0662|        0.0581|      0.0567| 72.0400|
+|/players/360799/claudio-baeza       |           3|         49.9890|           2.2688|        0.2356|         0.3589|      0.0109|        0.0725|      0.0353| 90.0000|
+|/players/664954/jean-meneses        |           3|         37.9714|           1.2856|        0.4981|         1.7794|      0.1772|        0.1093|      0.1250| 90.0000|
+|/players/110331/brayan-angulo       |           1|         43.2153|           2.2610|        0.1373|         0.4220|      0.0354|        0.0269|      0.0454| 90.0000|
+|/players/317774/valber-huerta       |           1|         57.9570|           1.1323|        0.1599|         0.5530|      0.0442|        0.0412|      0.0045| 90.0000|
+|/players/205863/andrs-mosquera      |           1|         45.9657|           1.7893|        0.0477|         0.3418|      0.0487|        0.0495|      0.0632| 90.0000|
+|/players/1205874/brian-garcia       |           1|         40.4031|           2.0621|        0.1566|         0.4010|      0.0291|        0.0236|      0.0652| 90.0000|
+|/players/409017/tiago-volpi         |           0|         33.9842|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/115731/fernando-navarro    |           0|              NA|               NA|        0.1148|         0.7640|      0.0306|        0.0282|      0.1452| 20.5556|
+|/players/256605/camilo              |           0|              NA|               NA|        0.8694|         1.9627|      0.1330|        0.2418|      0.0908| 17.9600|
+|/players/834965/leonardo-fernandez  |           0|              NA|               NA|        0.2716|         1.1619|      0.0119|        0.0065|      0.1134| 15.4000|
+|/players/622027/sebastian-saucedo   |           0|              NA|               NA|        0.3538|         0.5045|      0.0303|        0.0372|      0.0274|  7.7556|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Ignacio Ambriz |        54304|      0.070495|4-2-3-1   |
