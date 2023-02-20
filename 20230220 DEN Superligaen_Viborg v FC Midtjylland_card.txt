@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-20 08:20:29.828"
+[1] "Updated at 2023-02-20 08:39:41.348"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Viborg 1.1386 to FC Midtjylland 1.0975"
+[1] "Score: Viborg 1.1646 to FC Midtjylland 1.0715"
 [1] "Total: 2.2361"
-[1] "Viborg %: 36.82"
-[1] "Draw %: 29.12"
-[1] "FC Midtjylland %: 34.06"
+[1] "Viborg %: 38.73"
+[1] "Draw %: 28.78"
+[1] "FC Midtjylland %: 32.49"
 [1] "--XG Model--"
-[1] "Score: Viborg 1.0979 to FC Midtjylland 1.0713"
+[1] "Score: Viborg 1.1265 to FC Midtjylland 1.0427"
 [1] "Total: 2.1692"
-[1] "Viborg %: 36.76"
-[1] "Draw %: 28.65"
-[1] "FC Midtjylland %: 34.59"
+[1] "Viborg %: 37.88"
+[1] "Draw %: 29.31"
+[1] "FC Midtjylland %: 32.81"
 [1] "--XGoT Model--"
-[1] "Score: Viborg 1.0649 to FC Midtjylland 1.079"
+[1] "Score: Viborg 1.0807 to FC Midtjylland 1.0632"
 [1] "Total: 2.1439"
-[1] "Viborg %: 35.58"
-[1] "Draw %: 29.57"
-[1] "FC Midtjylland %: 34.85"
+[1] "Viborg %: 36.29"
+[1] "Draw %: 29.28"
+[1] "FC Midtjylland %: 34.43"
 [1] "--XA Model--"
-[1] "Score: Viborg 1.1615 to FC Midtjylland 1.1191"
+[1] "Score: Viborg 1.183 to FC Midtjylland 1.0976"
 [1] "Total: 2.2806"
-[1] "Viborg %: 36.9"
-[1] "Draw %: 28.64"
-[1] "FC Midtjylland %: 34.46"
+[1] "Viborg %: 38.05"
+[1] "Draw %: 28.55"
+[1] "FC Midtjylland %: 33.4"
 [1] "--Mean 4 Models--"
-[1] "Viborg has a mean win % of 36.52%; a min win % of 35.58%; a max win % of 36.9%."
-[1] "Draw has a mean win % of 28.99%; a min win % of 28.64%; a max win % of 29.57%."
-[1] "FC Midtjylland has a mean win % of 34.49%; a min win % of 34.06%; a max win of % 34.85%."
-[1] "Viborg has a mean win of the Double Chance of 65.51%; a min win % of 65.15%, a max win % of 65.94%."
-[1] "FC Midtjylland has a mean win of the Double Chance of 63.48%; a min win % of 63.1%, a max win % of 64.42%."
-[1] "The mean likelihood that there are more than 2.5 goals is 37.37%; max % is 39.11 and min % is 35.64%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 62.63%; max % is 64.36 and min % is 60.89%."
+[1] "Viborg has a mean win % of 37.74%; a min win % of 36.29%; a max win % of 38.73%."
+[1] "Draw has a mean win % of 28.98%; a min win % of 28.55%; a max win % of 29.31%."
+[1] "FC Midtjylland has a mean win % of 33.28%; a min win % of 32.49%; a max win of % 34.43%."
+[1] "Viborg has a mean win of the Double Chance of 66.72%; a min win % of 65.57%, a max win % of 67.51%."
+[1] "FC Midtjylland has a mean win of the Double Chance of 62.26%; a min win % of 61.27%, a max win % of 63.71%."
+[1] "The mean likelihood that there are more than 2.5 goals is 37.33%; max % is 39.08 and min % is 35.82%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 62.67%; max % is 64.18 and min % is 60.92%."
 [1] "--Sportsbook Odds--"
 [1] "Viborg Barstool Odds are: 42.11"
 [1] "The Barstool Odds of a Draw are: 31.75"
@@ -54,35 +54,35 @@
 |pageUrl2                                     |team           | expected_attg| expected_gs|bet |
 |:--------------------------------------------|:--------------|-------------:|-----------:|:---|
 |/players/952304/lucas-lund-pedersen          |Viborg         |      0.000000|   0.2439024|    |
-|/players/1329665/anton-gaaei                 |Viborg         |      0.011350|   0.0625000|    |
-|/players/1050895/zan-zaletel                 |Viborg         |      0.093500|   0.0555556|    |
-|/players/558707/nicolas-brgy                 |Viborg         |      0.010600|   0.0555556|    |
-|/players/754437/daniel-anyembe               |Viborg         |      0.012775|   0.0625000|    |
-|/players/561619/clint-leemans                |Viborg         |      0.100200|   0.2439024|    |
-|/players/165547/jeppe-grnning                |Viborg         |      0.010050|   0.1428571|    |
-|/players/288832/jakob-bonde                  |Viborg         |      0.116825|   0.1886792|    |
-|/players/1109045/ibrahim-said                |Viborg         |      0.157950|   0.2222222|    |
-|/players/1033167/alassana-jatta              |Viborg         |      0.216900|   0.2941176|    |
-|/players/1015128/elias-achouri               |Viborg         |      0.185075|   0.1538462|    |
-|/players/1332217/valdemar-byskov             |FC Midtjylland |      0.071000|   0.2222222|    |
-|/players/737825/astrit-selmani               |FC Midtjylland |      0.282150|   0.2857143|    |
-|/players/1016093/gustav-isaksen              |FC Midtjylland |      0.176800|   0.2439024|    |
-|/players/578187/kristoffer-olsson            |FC Midtjylland |      0.048700|   0.1111111|    |
-|/players/1137909/emiliano-martinez           |FC Midtjylland |      0.082325|   0.1111111|    |
-|/players/1057426/armin-gigovic               |FC Midtjylland |      0.078125|   0.1538462|    |
-|/players/891678/paulinho                     |FC Midtjylland |      0.011900|   0.0666667|    |
-|/players/31241/henrik-dalsgaard              |FC Midtjylland |      0.046525|   0.0714286|    |
-|/players/166471/erik-sviatchenko             |FC Midtjylland |      0.029625|   0.0909091|    |
-|/players/614167/joel-andersson               |FC Midtjylland |      0.047600|   0.0769231|    |
+|/players/1329665/anton-gaaei                 |Viborg         |      0.011625|   0.0666667|    |
+|/players/1050895/zan-zaletel                 |Viborg         |      0.096025|   0.0555556|    |
+|/players/558707/nicolas-brgy                 |Viborg         |      0.010700|   0.0555556|    |
+|/players/754437/daniel-anyembe               |Viborg         |      0.013175|   0.0666667|    |
+|/players/561619/clint-leemans                |Viborg         |      0.102325|   0.2439024|    |
+|/players/165547/jeppe-grnning                |Viborg         |      0.009825|   0.1428571|    |
+|/players/288832/jakob-bonde                  |Viborg         |      0.119675|   0.1886792|    |
+|/players/1109045/ibrahim-said                |Viborg         |      0.161275|   0.2222222|    |
+|/players/1033167/alassana-jatta              |Viborg         |      0.219925|   0.3030303|    |
+|/players/1015128/elias-achouri               |Viborg         |      0.188750|   0.1538462|    |
+|/players/1332217/valdemar-byskov             |FC Midtjylland |      0.069700|   0.2222222|    |
+|/players/737825/astrit-selmani               |FC Midtjylland |      0.275275|   0.2857143|    |
+|/players/1016093/gustav-isaksen              |FC Midtjylland |      0.175225|   0.2439024|    |
+|/players/578187/kristoffer-olsson            |FC Midtjylland |      0.046900|   0.1111111|    |
+|/players/1137909/emiliano-martinez           |FC Midtjylland |      0.079450|   0.1111111|    |
+|/players/1057426/armin-gigovic               |FC Midtjylland |      0.076900|   0.1538462|    |
+|/players/891678/paulinho                     |FC Midtjylland |      0.011675|   0.0666667|    |
+|/players/31241/henrik-dalsgaard              |FC Midtjylland |      0.045900|   0.0769231|    |
+|/players/166471/erik-sviatchenko             |FC Midtjylland |      0.028275|   0.0952381|    |
+|/players/614167/joel-andersson               |FC Midtjylland |      0.045825|   0.0769231|    |
 |/players/120598/jonas-lssl                   |FC Midtjylland |      0.000000|   0.1111111|    |
-|/players/917627/marokhy-ndione               |Viborg         |      0.045950|   0.2777778|    |
-|/players/1024959/jan-zamburek                |Viborg         |      0.004225|   0.2127660|    |
+|/players/917627/marokhy-ndione               |Viborg         |      0.047750|   0.2777778|    |
+|/players/1024959/jan-zamburek                |Viborg         |      0.004300|   0.2127660|    |
 |/players/1034139/oliver-bundgaard-kristensen |Viborg         |      0.000000|   0.1428571|    |
-|/players/1169301/sofus-berger                |Viborg         |      0.015400|   0.0952381|    |
-|/players/304673/pione-sisto                  |FC Midtjylland |      0.021150|   0.2325581|    |
-|/players/775266/charles                      |FC Midtjylland |      0.008425|   0.1111111|    |
-|/players/848296/edward-chilufya              |FC Midtjylland |      0.034375|   0.2222222|    |
-|/players/467648/mads-dhr-thychosen           |FC Midtjylland |      0.000000|   0.1694915|    |
+|/players/1169301/sofus-berger                |Viborg         |      0.015525|   0.1000000|    |
+|/players/304673/pione-sisto                  |FC Midtjylland |      0.020475|   0.2325581|    |
+|/players/775266/charles                      |FC Midtjylland |      0.008575|   0.1111111|    |
+|/players/848296/edward-chilufya              |FC Midtjylland |      0.033700|   0.2222222|    |
+|/players/467648/mads-dhr-thychosen           |FC Midtjylland |      0.000000|   0.1724138|    |
 ____________________________________________________
 
 [1] "Facts about Viborg:"
