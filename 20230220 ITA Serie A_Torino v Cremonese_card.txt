@@ -1,13 +1,111 @@
-[1] "Updated at 2023-02-20 06:44:50.591"
+[1] "Updated at 2023-02-20 06:45:46.890"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
 [1] "Score: Torino 1.7566 to Cremonese 1.2056"
 [1] "Total: 2.9622"
+[1] "Torino %: 50.41"
+[1] "Draw %: 23.98"
+[1] "Cremonese %: 25.61"
+[1] "--XG Model--"
+[1] "Score: Torino 1.7152 to Cremonese 1.1207"
+[1] "Total: 2.8359"
+[1] "Torino %: 52.09"
+[1] "Draw %: 23.67"
+[1] "Cremonese %: 24.24"
+[1] "--XGoT Model--"
+[1] "Score: Torino 1.6794 to Cremonese 1.0507"
+[1] "Total: 2.7301"
+[1] "Torino %: 52.84"
+[1] "Draw %: 24.4"
+[1] "Cremonese %: 22.76"
+[1] "--XA Model--"
+[1] "Score: Torino 1.927 to Cremonese 1.0336"
+[1] "Total: 2.9606"
+[1] "Torino %: 58.17"
+[1] "Draw %: 21.68"
+[1] "Cremonese %: 20.15"
+[1] "--Mean 4 Models--"
+[1] "Torino has a mean win % of 53.38%; a min win % of 50.41%; a max win % of 58.17%."
+[1] "Draw has a mean win % of 23.43%; a min win % of 21.68%; a max win % of 24.4%."
+[1] "Cremonese has a mean win % of 23.19%; a min win % of 20.15%; a max win of % 25.61%."
+[1] "Torino has a mean win of the Double Chance of 76.81%; a min win % of 74.39%, a max win % of 79.85%."
+[1] "Cremonese has a mean win of the Double Chance of 46.62%; a min win % of 41.83%, a max win % of 49.59%."
+[1] "The mean likelihood that there are more than 2.5 goals is 54.1%; max % is 56.4 and min % is 50.55%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 45.91%; max % is 49.45 and min % is 43.6%."
+[1] "--Sportsbook Odds--"
+[1] "Torino Barstool Odds are: 60.61"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "Cremonese Barstool Odds are: 17.39"
+[1] "Torino Adjusted Barstool Odds are: 57.707"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.736"
+[1] "Cremonese Adjusted Barstool Odds are: 16.557"
+[1] "Torino's Barstool Odds to cover the -0.5 spread are: 59.88"
+[1] "Cremonese's Barstool Odds to cover the 0.5 spread are: 44.44"
+[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                    bet           date_time
+1             Cremonese 2023-02-20 11:45:00
+2 over Torino/Cremonese 2023-02-20 11:45:00
 [1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team      | expected_attg| expected_gs|bet |
+|:--------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/543021/vanja-milinkovic-savic |Torino    |      0.000000|   0.2564103|    |
+|/players/303155/koffi-djidji           |Torino    |      0.127250|   0.0714286|*   |
+|/players/726127/perr-schuurs           |Torino    |      0.044475|   0.0909091|    |
+|/players/823018/alessandro-buongiorno  |Torino    |      0.017025|   0.0357143|    |
+|/players/1027472/wilfried-singo        |Torino    |      0.041300|   0.1538462|    |
+|/players/936164/michel-ndary-adopo     |Torino    |      0.143300|   0.1428571|    |
+|/players/361403/karol-linetty          |Torino    |      0.063550|   0.1428571|    |
+|/players/682548/ola-aina               |Torino    |      0.083325|   0.1428571|    |
+|/players/442581/aleksey-miranchuk      |Torino    |      0.221425|   0.3125000|    |
+|/players/557677/nikola-vlasic          |Torino    |      0.255225|   0.2564103|    |
+|/players/474448/antonio-sanabria       |Torino    |      0.294825|   0.3846154|    |
+|/players/1307980/felix-afena-gyan      |Cremonese |      0.078500|   0.1724138|    |
+|/players/42052/daniel-ciofani          |Cremonese |      0.331500|   0.2000000|*   |
+|/players/867789/emanuele-valeri        |Cremonese |      0.136200|   0.0833333|*   |
+|/players/279477/soualiho-meit          |Cremonese |      0.010850|   0.0769231|    |
+|/players/362113/marco-benassi          |Cremonese |      0.079900|   0.1538462|    |
+|/players/743720/charles-pickel         |Cremonese |      0.052625|   0.0769231|    |
+|/players/665313/leonardo-sernicola     |Cremonese |      0.014000|   0.0769231|    |
+|/players/279820/matteo-bianchetti      |Cremonese |      0.057325|   0.0270270|    |
+|/players/177837/vlad-chiriches         |Cremonese |      0.014900|   0.0833333|    |
+|/players/919916/emanuel-aiwu           |Cremonese |      0.010125|   0.0625000|    |
+|/players/1013021/marco-carnesecchi     |Cremonese |      0.000000|   0.1538462|    |
+|/players/719360/nemanja-radonjic       |Torino    |      0.060200|   0.2941176|    |
+|/players/817844/pietro-pellegri        |Torino    |      0.050025|   0.0909091|    |
+|/players/321140/valentino-lazaro       |Torino    |      0.000000|   0.3846154|    |
+|/players/686102/yann-karamoh           |Torino    |      0.116400|   0.2857143|    |
+|/players/526230/cyriel-dessers         |Cremonese |      0.089750|   0.2272727|    |
+|/players/611827/paolo-ghiglione        |Cremonese |      0.006825|   0.1000000|    |
+|/players/740161/david-okereke          |Cremonese |      0.046200|   0.2127660|    |
+|/players/522083/pablo-galdames         |Cremonese |      0.002125|   0.0666667|    |
 ____________________________________________________
 
 [1] "Facts about Torino:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/543021/vanja-milinkovic-savic |           0|         31.9838|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/303155/koffi-djidji           |           1|         47.4229|           1.7630|        0.3226|         0.6669|      0.0627|        0.1255|      0.0204| 90.0000|
+|/players/726127/perr-schuurs           |           1|         58.5676|           1.1662|        0.2359|         0.7965|      0.0385|        0.0395|      0.0590| 79.3793|
+|/players/823018/alessandro-buongiorno  |           1|         46.1014|           1.1313|        0.1165|         0.5151|      0.0907|        0.0150|      0.0105| 90.0000|
+|/players/1027472/wilfried-singo        |           3|         45.1786|           1.6801|        0.1592|         0.9323|      0.1255|        0.0405|      0.1013| 90.0000|
+|/players/936164/michel-ndary-adopo     |           3|         23.4772|           0.7168|        0.3804|         1.3546|      0.1409|        0.1411|      0.0759| 75.4000|
+|/players/361403/karol-linetty          |           3|         46.9991|           2.0761|        0.2306|         0.5778|      0.0543|        0.0581|      0.0711| 90.0000|
+|/players/682548/ola-aina               |           3|         49.8061|           1.9506|        0.3235|         0.7167|      0.0633|        0.0815|      0.1730| 90.0000|
+|/players/442581/aleksey-miranchuk      |           4|         25.8211|           0.9661|        0.5875|         1.0939|      0.1178|        0.2122|      0.1783| 73.2727|
+|/players/557677/nikola-vlasic          |           4|         34.6756|           0.7705|        1.0152|         3.0535|      0.3628|        0.2620|      0.1019| 90.0000|
+|/players/474448/antonio-sanabria       |           5|         18.1149|           0.4130|        0.9138|         2.2072|      0.3284|        0.3073|      0.0879| 77.1905|
+|/players/719360/nemanja-radonjic       |          NA|              NA|               NA|        0.2130|         0.6259|      0.0877|        0.0570|      0.0948| 16.7273|
+|/players/817844/pietro-pellegri        |          NA|              NA|               NA|        0.2831|         0.5347|      0.0803|        0.0486|      0.0154| 14.6000|
+|/players/321140/valentino-lazaro       |          NA|              NA|               NA|        0.0000|         0.1184|      0.0063|        0.0000|      0.0228| 12.8095|
+|/players/686102/yann-karamoh           |          NA|              NA|               NA|        0.2433|         0.4425|      0.0692|        0.1120|      0.0107| 10.6207|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -16,14 +114,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Cremonese:"
+[1] "Lineup: expected"
 
 
-|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
-|:-----------------|------------:|-------------:|:---------|
-|Davide Ballardini |        40556|     -10.53089|3-5-2     |
-________________________________
-
-[1] "Facts about Cremonese:"
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1307980/felix-afena-gyan  |           5|         20.0636|           1.0170|        0.2659|         1.1893|      0.0983|        0.0831|      0.0101| 75.8000|
+|/players/42052/daniel-ciofani      |           5|         25.1995|           0.5137|        1.1683|         2.6670|      0.4048|        0.4136|      0.1302| 76.5455|
+|/players/867789/emanuele-valeri    |           3|         32.6354|           1.3424|        0.3302|         1.2888|      0.0921|        0.1502|      0.1515| 83.1667|
+|/players/279477/soualiho-meit      |           3|         47.6058|           2.0967|        0.0484|         0.5189|      0.0410|        0.0113|      0.0470| 90.0000|
+|/players/362113/marco-benassi      |           3|         29.6166|           1.8794|        0.5944|         1.3532|      0.0843|        0.0848|      0.0379| 81.0000|
+|/players/743720/charles-pickel     |           3|         55.2921|           3.0398|        0.2492|         0.9033|      0.0987|        0.0524|      0.0518| 90.0000|
+|/players/665313/leonardo-sernicola |           3|         39.2867|           2.4071|        0.1146|         0.4473|      0.0511|        0.0135|      0.0656| 90.0000|
+|/players/279820/matteo-bianchetti  |           1|         47.4170|           1.7423|        0.2089|         0.5010|      0.0560|        0.0581|      0.0279| 90.0000|
+|/players/177837/vlad-chiriches     |           1|         54.5978|           1.6122|        0.1023|         0.4718|      0.0459|        0.0146|      0.0061| 90.0000|
+|/players/919916/emanuel-aiwu       |           1|         47.5778|           2.1445|        0.0931|         0.5582|      0.0390|        0.0112|      0.0410| 90.0000|
+|/players/1013021/marco-carnesecchi |           0|         34.9553|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/526230/cyriel-dessers     |          NA|              NA|               NA|        0.3354|         0.8162|      0.1170|        0.0934|      0.0537| 14.2000|
+|/players/611827/paolo-ghiglione    |          NA|              NA|               NA|        0.0965|         0.1898|      0.0120|        0.0070|      0.0229| 13.4545|
+|/players/740161/david-okereke      |          NA|              NA|               NA|        0.0637|         0.3008|      0.0439|        0.0491|      0.0064|  9.0000|
+|/players/522083/pablo-galdames     |          NA|              NA|               NA|        0.0523|         0.1234|      0.0048|        0.0020|      0.0100|  6.8333|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
