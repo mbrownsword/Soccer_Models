@@ -1,88 +1,88 @@
-[1] "Updated at 2023-02-20 06:45:46.890"
+[1] "Updated at 2023-02-20 07:23:25.332"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Torino 1.7566 to Cremonese 1.2056"
-[1] "Total: 2.9622"
-[1] "Torino %: 50.41"
-[1] "Draw %: 23.98"
-[1] "Cremonese %: 25.61"
+[1] "Score: Torino 1.519 to Cremonese 1.0782"
+[1] "Total: 2.5972"
+[1] "Torino %: 47.32"
+[1] "Draw %: 25.24"
+[1] "Cremonese %: 27.44"
 [1] "--XG Model--"
-[1] "Score: Torino 1.7152 to Cremonese 1.1207"
-[1] "Total: 2.8359"
-[1] "Torino %: 52.09"
-[1] "Draw %: 23.67"
-[1] "Cremonese %: 24.24"
+[1] "Score: Torino 1.4893 to Cremonese 1.0298"
+[1] "Total: 2.5191"
+[1] "Torino %: 47.96"
+[1] "Draw %: 25.7"
+[1] "Cremonese %: 26.34"
 [1] "--XGoT Model--"
-[1] "Score: Torino 1.6794 to Cremonese 1.0507"
-[1] "Total: 2.7301"
-[1] "Torino %: 52.84"
-[1] "Draw %: 24.4"
-[1] "Cremonese %: 22.76"
+[1] "Score: Torino 1.464 to Cremonese 0.9916"
+[1] "Total: 2.4556"
+[1] "Torino %: 48.52"
+[1] "Draw %: 26.06"
+[1] "Cremonese %: 25.42"
 [1] "--XA Model--"
-[1] "Score: Torino 1.927 to Cremonese 1.0336"
-[1] "Total: 2.9606"
-[1] "Torino %: 58.17"
-[1] "Draw %: 21.68"
-[1] "Cremonese %: 20.15"
+[1] "Score: Torino 1.6482 to Cremonese 0.9825"
+[1] "Total: 2.6307"
+[1] "Torino %: 53.06"
+[1] "Draw %: 24.22"
+[1] "Cremonese %: 22.72"
 [1] "--Mean 4 Models--"
-[1] "Torino has a mean win % of 53.38%; a min win % of 50.41%; a max win % of 58.17%."
-[1] "Draw has a mean win % of 23.43%; a min win % of 21.68%; a max win % of 24.4%."
-[1] "Cremonese has a mean win % of 23.19%; a min win % of 20.15%; a max win of % 25.61%."
-[1] "Torino has a mean win of the Double Chance of 76.81%; a min win % of 74.39%, a max win % of 79.85%."
-[1] "Cremonese has a mean win of the Double Chance of 46.62%; a min win % of 41.83%, a max win % of 49.59%."
-[1] "The mean likelihood that there are more than 2.5 goals is 54.1%; max % is 56.4 and min % is 50.55%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 45.91%; max % is 49.45 and min % is 43.6%."
+[1] "Torino has a mean win % of 49.21%; a min win % of 47.32%; a max win % of 53.06%."
+[1] "Draw has a mean win % of 25.3%; a min win % of 24.22%; a max win % of 26.06%."
+[1] "Cremonese has a mean win % of 25.48%; a min win % of 22.72%; a max win of % 27.44%."
+[1] "Torino has a mean win of the Double Chance of 74.52%; a min win % of 72.56%, a max win % of 77.28%."
+[1] "Cremonese has a mean win of the Double Chance of 50.78%; a min win % of 46.94%, a max win % of 52.68%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.09%; max % is 48.09 and min % is 43.69%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.91%; max % is 56.31 and min % is 51.91%."
 [1] "--Sportsbook Odds--"
-[1] "Torino Barstool Odds are: 60.61"
-[1] "The Barstool Odds of a Draw are: 27.03"
-[1] "Cremonese Barstool Odds are: 17.39"
-[1] "Torino Adjusted Barstool Odds are: 57.707"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.736"
-[1] "Cremonese Adjusted Barstool Odds are: 16.557"
-[1] "Torino's Barstool Odds to cover the -0.5 spread are: 59.88"
-[1] "Cremonese's Barstool Odds to cover the 0.5 spread are: 44.44"
-[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "Torino Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Cremonese Barstool Odds are: 18.52"
+[1] "Torino Adjusted Barstool Odds are: 55.538"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.976"
+[1] "Cremonese Adjusted Barstool Odds are: 17.487"
+[1] "Torino's Barstool Odds to cover the -0.5 spread are: 58.14"
+[1] "Cremonese's Barstool Odds to cover the 0.5 spread are: 46.3"
+[1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                    bet           date_time
-1             Cremonese 2023-02-20 11:45:00
-2 over Torino/Cremonese 2023-02-20 11:45:00
+            bet           date_time
+1     Cremonese 2023-02-20 11:45:00
+2 Cremonese ATS 2023-02-20 11:45:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team      | expected_attg| expected_gs|bet |
 |:--------------------------------------|:---------|-------------:|-----------:|:---|
 |/players/543021/vanja-milinkovic-savic |Torino    |      0.000000|   0.2564103|    |
-|/players/303155/koffi-djidji           |Torino    |      0.127250|   0.0714286|*   |
-|/players/726127/perr-schuurs           |Torino    |      0.044475|   0.0909091|    |
-|/players/823018/alessandro-buongiorno  |Torino    |      0.017025|   0.0357143|    |
-|/players/1027472/wilfried-singo        |Torino    |      0.041300|   0.1538462|    |
-|/players/936164/michel-ndary-adopo     |Torino    |      0.143300|   0.1428571|    |
-|/players/361403/karol-linetty          |Torino    |      0.063550|   0.1428571|    |
-|/players/682548/ola-aina               |Torino    |      0.083325|   0.1428571|    |
-|/players/442581/aleksey-miranchuk      |Torino    |      0.221425|   0.3125000|    |
-|/players/557677/nikola-vlasic          |Torino    |      0.255225|   0.2564103|    |
-|/players/474448/antonio-sanabria       |Torino    |      0.294825|   0.3846154|    |
-|/players/1307980/felix-afena-gyan      |Cremonese |      0.078500|   0.1724138|    |
-|/players/42052/daniel-ciofani          |Cremonese |      0.331500|   0.2000000|*   |
-|/players/867789/emanuele-valeri        |Cremonese |      0.136200|   0.0833333|*   |
-|/players/279477/soualiho-meit          |Cremonese |      0.010850|   0.0769231|    |
-|/players/362113/marco-benassi          |Cremonese |      0.079900|   0.1538462|    |
-|/players/743720/charles-pickel         |Cremonese |      0.052625|   0.0769231|    |
-|/players/665313/leonardo-sernicola     |Cremonese |      0.014000|   0.0769231|    |
-|/players/279820/matteo-bianchetti      |Cremonese |      0.057325|   0.0270270|    |
-|/players/177837/vlad-chiriches         |Cremonese |      0.014900|   0.0833333|    |
-|/players/919916/emanuel-aiwu           |Cremonese |      0.010125|   0.0625000|    |
+|/players/303155/koffi-djidji           |Torino    |      0.111500|   0.0714286|    |
+|/players/726127/perr-schuurs           |Torino    |      0.037725|   0.0909091|    |
+|/players/823018/alessandro-buongiorno  |Torino    |      0.015125|   0.0357143|    |
+|/players/1027472/wilfried-singo        |Torino    |      0.037375|   0.1538462|    |
+|/players/936164/michel-ndary-adopo     |Torino    |      0.121625|   0.1428571|    |
+|/players/361403/karol-linetty          |Torino    |      0.054500|   0.1428571|    |
+|/players/682548/ola-aina               |Torino    |      0.072350|   0.1428571|    |
+|/players/442581/aleksey-miranchuk      |Torino    |      0.194400|   0.3225806|    |
+|/players/557677/nikola-vlasic          |Torino    |      0.221275|   0.2564103|    |
+|/players/474448/antonio-sanabria       |Torino    |      0.258600|   0.3846154|    |
+|/players/1307980/felix-afena-gyan      |Cremonese |      0.074200|   0.1666667|    |
+|/players/42052/daniel-ciofani          |Cremonese |      0.313000|   0.1960784|*   |
+|/players/867789/emanuele-valeri        |Cremonese |      0.133050|   0.0833333|    |
+|/players/279477/soualiho-meit          |Cremonese |      0.010125|   0.0769231|    |
+|/players/362113/marco-benassi          |Cremonese |      0.075675|   0.1538462|    |
+|/players/743720/charles-pickel         |Cremonese |      0.046600|   0.0769231|    |
+|/players/665313/leonardo-sernicola     |Cremonese |      0.012900|   0.0714286|    |
+|/players/279820/matteo-bianchetti      |Cremonese |      0.055275|   0.0263158|    |
+|/players/177837/vlad-chiriches         |Cremonese |      0.013050|   0.0833333|    |
+|/players/919916/emanuel-aiwu           |Cremonese |      0.009325|   0.0625000|    |
 |/players/1013021/marco-carnesecchi     |Cremonese |      0.000000|   0.1538462|    |
-|/players/719360/nemanja-radonjic       |Torino    |      0.060200|   0.2941176|    |
-|/players/817844/pietro-pellegri        |Torino    |      0.050025|   0.0909091|    |
+|/players/719360/nemanja-radonjic       |Torino    |      0.050725|   0.2941176|    |
+|/players/817844/pietro-pellegri        |Torino    |      0.042775|   0.0909091|    |
 |/players/321140/valentino-lazaro       |Torino    |      0.000000|   0.3846154|    |
-|/players/686102/yann-karamoh           |Torino    |      0.116400|   0.2857143|    |
-|/players/526230/cyriel-dessers         |Cremonese |      0.089750|   0.2272727|    |
-|/players/611827/paolo-ghiglione        |Cremonese |      0.006825|   0.1000000|    |
-|/players/740161/david-okereke          |Cremonese |      0.046200|   0.2127660|    |
-|/players/522083/pablo-galdames         |Cremonese |      0.002125|   0.0666667|    |
+|/players/686102/yann-karamoh           |Torino    |      0.097925|   0.2857143|    |
+|/players/526230/cyriel-dessers         |Cremonese |      0.080125|   0.2222222|    |
+|/players/611827/paolo-ghiglione        |Cremonese |      0.006675|   0.0952381|    |
+|/players/740161/david-okereke          |Cremonese |      0.042075|   0.2083333|    |
+|/players/522083/pablo-galdames         |Cremonese |      0.001875|   0.0666667|    |
 ____________________________________________________
 
 [1] "Facts about Torino:"
