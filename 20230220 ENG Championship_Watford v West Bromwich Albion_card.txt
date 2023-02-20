@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-19 18:55:34.216"
+[1] "Updated at 2023-02-20 07:11:15.761"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Watford 1.5464 to West Bromwich Albion 1.1785"
-[1] "Total: 2.7249"
-[1] "Watford %: 45.84"
-[1] "Draw %: 28.94"
-[1] "West Bromwich Albion %: 25.22"
+[1] "Score: Watford 1.2999 to West Bromwich Albion 0.9969"
+[1] "Total: 2.2968"
+[1] "Watford %: 43.96"
+[1] "Draw %: 27.83"
+[1] "West Bromwich Albion %: 28.21"
 [1] "--XG Model--"
-[1] "Score: Watford 1.4421 to West Bromwich Albion 1.1517"
-[1] "Total: 2.5938"
-[1] "Watford %: 43.29"
-[1] "Draw %: 29.08"
-[1] "West Bromwich Albion %: 27.63"
+[1] "Score: Watford 1.2351 to West Bromwich Albion 0.9814"
+[1] "Total: 2.2165"
+[1] "Watford %: 42.89"
+[1] "Draw %: 28.48"
+[1] "West Bromwich Albion %: 28.63"
 [1] "--XGoT Model--"
-[1] "Score: Watford 1.4929 to West Bromwich Albion 1.2333"
-[1] "Total: 2.7262"
-[1] "Watford %: 42.86"
-[1] "Draw %: 28.96"
-[1] "West Bromwich Albion %: 28.18"
+[1] "Score: Watford 1.2662 to West Bromwich Albion 1.0292"
+[1] "Total: 2.2954"
+[1] "Watford %: 42.8"
+[1] "Draw %: 27.86"
+[1] "West Bromwich Albion %: 29.34"
 [1] "--XA Model--"
-[1] "Score: Watford 1.4625 to West Bromwich Albion 1.1866"
-[1] "Total: 2.6491"
-[1] "Watford %: 42.61"
-[1] "Draw %: 29.45"
-[1] "West Bromwich Albion %: 27.94"
+[1] "Score: Watford 1.2475 to West Bromwich Albion 1.0016"
+[1] "Total: 2.2491"
+[1] "Watford %: 42.4"
+[1] "Draw %: 28.58"
+[1] "West Bromwich Albion %: 29.02"
 [1] "--Mean 4 Models--"
-[1] "Watford has a mean win % of 43.65%; a min win % of 42.61%; a max win % of 45.84%."
-[1] "Draw has a mean win % of 29.11%; a min win % of 28.94%; a max win % of 29.45%."
-[1] "West Bromwich Albion has a mean win % of 27.24%; a min win % of 25.22%; a max win of % 28.18%."
-[1] "Watford has a mean win of the Double Chance of 72.76%; a min win % of 71.82%, a max win % of 74.78%."
-[1] "West Bromwich Albion has a mean win of the Double Chance of 56.35%; a min win % of 54.16%, a max win % of 57.39%."
-[1] "The mean likelihood that there are more than 2.5 goals is 55.1%; max % is 56.66 and min % is 52.52%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 44.9%; max % is 47.48 and min % is 43.34%."
+[1] "Watford has a mean win % of 43.01%; a min win % of 42.4%; a max win % of 43.96%."
+[1] "Draw has a mean win % of 28.19%; a min win % of 27.83%; a max win % of 28.58%."
+[1] "West Bromwich Albion has a mean win % of 28.8%; a min win % of 28.21%; a max win of % 29.34%."
+[1] "Watford has a mean win of the Double Chance of 71.2%; a min win % of 70.66%, a max win % of 71.79%."
+[1] "West Bromwich Albion has a mean win of the Double Chance of 56.99%; a min win % of 56.04%, a max win % of 57.6%."
+[1] "The mean likelihood that there are more than 2.5 goals is 38.59%; max % is 39.41 and min % is 37.34%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 61.41%; max % is 62.66 and min % is 60.59%."
 [1] "--Sportsbook Odds--"
 [1] "Watford Barstool Odds are: 37.04"
 [1] "The Barstool Odds of a Draw are: 31.25"
@@ -42,47 +42,47 @@
 [1] "West Bromwich Albion Adjusted Barstool Odds are: 35.812"
 [1] "Watford's Barstool Odds to cover the 0.5 spread are: 67.11"
 [1] "West Bromwich Albion's Barstool Odds to cover the -0.5 spread are: 37.74"
-[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45% chance of the over 2.5 hitting. The line for the under is 1.67, which is a 59.88% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.28, which is a 43.86% chance of the over 2.5 hitting. The line for the under is 1.63, which is a 61.35% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                                bet           date_time
-1                           Watford 2023-02-20 12:00:00
-2 over Watford/West Bromwich Albion 2023-02-20 12:00:00
-3                       Watford ATS 2023-02-20 12:00:00
+          bet           date_time
+1     Watford 2023-02-20 12:00:00
+2 Watford ATS 2023-02-20 12:00:00
+NULL
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team                 | expected_attg| expected_gs|bet |
 |:--------------------------------------|:--------------------|-------------:|-----------:|:---|
-|/players/203964/daniel-bachmann        |Watford              |      0.000000|   0.1923077|    |
-|/players/149219/christian-kabasele     |Watford              |      0.034650|   0.0588235|    |
-|/players/488415/hassane-kamara         |Watford              |      0.049725|   0.0555556|    |
-|/players/770998/ryan-porteous          |Watford              |      0.037525|   0.1666667|    |
-|/players/465628/wesley-hoedt           |Watford              |      0.051825|   0.0588235|    |
-|/players/993022/imran-louza            |Watford              |      0.117925|   0.1818182|    |
-|/players/728123/hamza-choudhury        |Watford              |      0.001400|   0.0909091|    |
-|/players/1288119/ismael-kone           |Watford              |      0.097875|   0.1666667|    |
-|/players/771294/ismaila-sarr           |Watford              |      0.427700|   0.3030303|*   |
-|/players/520670/ken-sema               |Watford              |      0.064450|   0.1538462|    |
-|/players/724368/keinan-davis           |Watford              |      0.294975|   0.2857143|    |
+|/players/203964/daniel-bachmann        |Watford              |      0.000000|   0.1886792|    |
+|/players/149219/christian-kabasele     |Watford              |      0.028825|   0.0588235|    |
+|/players/488415/hassane-kamara         |Watford              |      0.041925|   0.0555556|    |
+|/players/770998/ryan-porteous          |Watford              |      0.032925|   0.1666667|    |
+|/players/465628/wesley-hoedt           |Watford              |      0.042175|   0.0588235|    |
+|/players/993022/imran-louza            |Watford              |      0.097700|   0.1785714|    |
+|/players/728123/hamza-choudhury        |Watford              |      0.001200|   0.0909091|    |
+|/players/1288119/ismael-kone           |Watford              |      0.079675|   0.1666667|    |
+|/players/771294/ismaila-sarr           |Watford              |      0.347425|   0.2941176|*   |
+|/players/520670/ken-sema               |Watford              |      0.055525|   0.1538462|    |
+|/players/724368/keinan-davis           |Watford              |      0.254050|   0.2857143|    |
 |/players/111027/david-button           |West Bromwich Albion |      0.000000|   0.0625000|    |
-|/players/410836/semi-ajayi             |West Bromwich Albion |      0.053675|   0.0625000|    |
-|/players/165704/kyle-bartley           |West Bromwich Albion |      0.027000|   0.0909091|    |
-|/players/295069/conor-townsend         |West Bromwich Albion |      0.049250|   0.0769231|    |
-|/players/789578/dara-oshea             |West Bromwich Albion |      0.020100|   0.0769231|    |
-|/players/287892/jed-wallace            |West Bromwich Albion |      0.112125|   0.2083333|    |
-|/players/115681/jake-livermore         |West Bromwich Albion |      0.013200|   0.1052632|    |
-|/players/541822/john-swift             |West Bromwich Albion |      0.097100|   0.2083333|    |
-|/players/654091/grady-diangana         |West Bromwich Albion |      0.009800|   0.2272727|    |
-|/players/776184/brandon-thomas-asante  |West Bromwich Albion |      0.304925|   0.3125000|    |
-|/players/586467/karlan-grant           |West Bromwich Albion |      0.300525|   0.3703704|    |
-|/players/1277380/yaser-asprilla        |Watford              |      0.009250|   0.2222222|    |
-|/players/1192386/henrique-araujo       |Watford              |      0.081450|   0.2564103|    |
-|/players/1021382/joao-pedro            |Watford              |      0.005250|   0.3125000|    |
-|/players/183185/mario-gaspar           |Watford              |      0.000000|   0.0952381|    |
-|/players/789574/jayson-molumby         |West Bromwich Albion |      0.002025|   0.0909091|    |
-|/players/303899/tom-rogic              |West Bromwich Albion |      0.070625|   0.1851852|    |
-|/players/982361/taylor-gardner-hickman |West Bromwich Albion |      0.000000|   0.0952381|    |
+|/players/410836/semi-ajayi             |West Bromwich Albion |      0.042775|   0.0588235|    |
+|/players/165704/kyle-bartley           |West Bromwich Albion |      0.021000|   0.0909091|    |
+|/players/295069/conor-townsend         |West Bromwich Albion |      0.039575|   0.0769231|    |
+|/players/789578/dara-oshea             |West Bromwich Albion |      0.014975|   0.0769231|    |
+|/players/287892/jed-wallace            |West Bromwich Albion |      0.092975|   0.2000000|    |
+|/players/115681/jake-livermore         |West Bromwich Albion |      0.009500|   0.1052632|    |
+|/players/541822/john-swift             |West Bromwich Albion |      0.076225|   0.2040816|    |
+|/players/654091/grady-diangana         |West Bromwich Albion |      0.008100|   0.2173913|    |
+|/players/776184/brandon-thomas-asante  |West Bromwich Albion |      0.242375|   0.3030303|    |
+|/players/586467/karlan-grant           |West Bromwich Albion |      0.235350|   0.3571429|    |
+|/players/1277380/yaser-asprilla        |Watford              |      0.006550|   0.2222222|    |
+|/players/1192386/henrique-araujo       |Watford              |      0.066400|   0.2500000|    |
+|/players/1021382/joao-pedro            |Watford              |      0.005450|   0.3125000|    |
+|/players/183185/mario-gaspar           |Watford              |      0.000000|   0.0909091|    |
+|/players/789574/jayson-molumby         |West Bromwich Albion |      0.001425|   0.0909091|    |
+|/players/303899/tom-rogic              |West Bromwich Albion |      0.061050|   0.1818182|    |
+|/players/982361/taylor-gardner-hickman |West Bromwich Albion |      0.000000|   0.0909091|    |
 |/players/127133/matthew-phillips       |West Bromwich Albion |      0.000000|   0.1000000|    |
 ____________________________________________________
 
