@@ -1,0 +1,31 @@
+[1] "Updated at 2023-02-20 06:44:50.591"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Torino 1.7566 to Cremonese 1.2056"
+[1] "Total: 2.9622"
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Torino:"
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ivan Juric   |        90017|       -0.9675|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about Cremonese:"
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Davide Ballardini |        40556|     -10.53089|3-5-2     |
+________________________________
+
+[1] "Facts about Cremonese:"
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Davide Ballardini |        40556|     -10.53089|3-5-2     |
