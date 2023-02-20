@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-20 12:37:47.168"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Liverpool 1.5331 to Real Madrid 1.2945"
+[1] "Total: 2.8276"
+[1] "Liverpool %: 43.26"
+[1] "Draw %: 24.73"
+[1] "Real Madrid %: 32.01"
+[1] "--XG Model--"
+[1] "Score: Liverpool 1.5638 to Real Madrid 1.2874"
+[1] "Total: 2.8512"
+[1] "Liverpool %: 43.76"
+[1] "Draw %: 24.54"
+[1] "Real Madrid %: 31.7"
+[1] "--XGoT Model--"
+[1] "Score: Liverpool 1.5227 to Real Madrid 1.3459"
+[1] "Total: 2.8686"
+[1] "Liverpool %: 42.2"
+[1] "Draw %: 24.58"
+[1] "Real Madrid %: 33.22"
+[1] "--XA Model--"
+[1] "Score: Liverpool 1.5426 to Real Madrid 1.3341"
+[1] "Total: 2.8767"
+[1] "Liverpool %: 42.69"
+[1] "Draw %: 24.61"
+[1] "Real Madrid %: 32.7"
+[1] "--Mean 4 Models--"
+[1] "Liverpool has a mean win % of 42.98%; a min win % of 42.2%; a max win % of 43.76%."
+[1] "Draw has a mean win % of 24.62%; a min win % of 24.54%; a max win % of 24.73%."
+[1] "Real Madrid has a mean win % of 32.41%; a min win % of 31.7%; a max win of % 33.22%."
+[1] "Liverpool has a mean win of the Double Chance of 67.59%; a min win % of 66.78%, a max win % of 68.3%."
+[1] "Real Madrid has a mean win of the Double Chance of 57.02%; a min win % of 56.24%, a max win % of 57.8%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.6%; max % is 54.26 and min % is 52.81%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 46.4%; max % is 47.19 and min % is 45.74%."
+[1] "--Sportsbook Odds--"
+[1] "Liverpool Barstool Odds are: 46.51"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Real Madrid Barstool Odds are: 29.85"
+[1] "Liverpool Adjusted Barstool Odds are: 44.325"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.228"
+[1] "Real Madrid Adjusted Barstool Odds are: 28.448"
+[1] "Liverpool's Barstool Odds to cover the 0.5 spread are: 72.99"
+[1] "Real Madrid's Barstool Odds to cover the -0.5 spread are: 31.25"
+[1] "Barstool's line for the total is 2.5 at 1.66, which is a 60.24% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                          bet           date_time
+1                 Real Madrid 2023-02-21 12:00:00
+2 under Liverpool/Real Madrid 2023-02-21 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team        | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/319784/alisson-becker         |Liverpool   |      0.000000|   0.2564103|    |
+|/players/760712/trent-alexander-arnold |Liverpool   |      0.043525|   0.0714286|    |
+|/players/171698/joel-matip             |Liverpool   |      0.040275|   0.0625000|    |
+|/players/209405/virgil-van-dijk        |Liverpool   |      0.048075|   0.0833333|    |
+|/players/357880/andrew-robertson       |Liverpool   |      0.032050|   0.0625000|    |
+|/players/156008/jordan-henderson       |Liverpool   |      0.074050|   0.0625000|    |
+|/players/359188/fabinho                |Liverpool   |      0.034950|   0.0769231|    |
+|/players/1310118/stefan-bajcetic       |Liverpool   |      0.183600|   0.0833333|*   |
+|/players/292462/mohamed-salah          |Liverpool   |      0.303225|   0.3703704|    |
+|/players/806552/cody-gakpo             |Liverpool   |      0.227150|   0.2941176|    |
+|/players/570461/diogo-jota             |Liverpool   |      0.231425|   0.3508772|    |
+|/players/846033/vinicius-junior        |Real Madrid |      0.184425|   0.2631579|    |
+|/players/26166/karim-benzema           |Real Madrid |      0.362075|   0.3846154|    |
+|/players/743533/federico-valverde      |Real Madrid |      0.088200|   0.1694915|    |
+|/players/31097/luka-modric             |Real Madrid |      0.109850|   0.1333333|    |
+|/players/1015185/eduardo-camavinga     |Real Madrid |      0.006300|   0.1000000|    |
+|/players/531629/daniel-ceballos        |Real Madrid |      0.109825|   0.1428571|    |
+|/players/121633/david-alaba            |Real Madrid |      0.043600|   0.0714286|    |
+|/players/276738/antonio-rdiger         |Real Madrid |      0.058250|   0.0434783|    |
+|/players/844415/der-militao            |Real Madrid |      0.023775|   0.0625000|    |
+|/players/282674/daniel-carvajal        |Real Madrid |      0.036350|   0.0322581|    |
+|/players/170323/thibaut-courtois       |Real Madrid |      0.000000|   0.1333333|    |
+|/players/38807/james-milner            |Liverpool   |      0.009575|   0.0909091|    |
+|/players/950561/darwin-nunez           |Liverpool   |      0.068525|   0.3703704|    |
+|/players/963964/harvey-elliott         |Liverpool   |      0.008550|   0.1960784|    |
+|/players/242709/roberto-firmino        |Liverpool   |      0.004650|   0.3389831|    |
+|/players/895362/rodrygo                |Real Madrid |      0.024850|   0.2941176|    |
+|/players/498033/marco-asensio          |Real Madrid |      0.036175|   0.2380952|    |
+|/players/107417/eden-hazard            |Real Madrid |      0.018650|   0.2272727|    |
+|/players/359193/lucas-vzquez           |Real Madrid |      0.002075|   0.1176471|    |
+____________________________________________________
+
+[1] "Facts about Liverpool:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/319784/alisson-becker         |           0|         38.8157|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/760712/trent-alexander-arnold |           1|         59.2736|           2.1441|        0.2019|         0.8941|      0.0479|        0.0484|      0.1529| 90.0000|
+|/players/171698/joel-matip             |           1|         60.2669|           2.4542|        0.1496|         0.5829|      0.0764|        0.0446|      0.0302| 90.0000|
+|/players/209405/virgil-van-dijk        |           1|         66.2818|           0.7706|        0.2273|         0.6505|      0.0662|        0.0487|      0.0127| 90.0000|
+|/players/357880/andrew-robertson       |           1|         57.1376|           1.4638|        0.0926|         0.3847|      0.0329|        0.0303|      0.0795| 90.0000|
+|/players/156008/jordan-henderson       |           3|         60.9260|           1.5686|        0.3731|         1.4985|      0.1724|        0.0826|      0.1524| 81.5306|
+|/players/359188/fabinho                |           3|         56.4823|           3.1989|        0.2710|         0.8551|      0.1180|        0.0376|      0.0441| 90.0000|
+|/players/1310118/stefan-bajcetic       |           3|         39.7022|           1.2600|        0.5540|         1.5297|      0.0697|        0.2107|      0.1094| 87.0000|
+|/players/292462/mohamed-salah          |           5|         33.3741|           0.6880|        1.0619|         2.6999|      0.3705|        0.3722|      0.1533| 90.0000|
+|/players/806552/cody-gakpo             |           5|         28.3405|           1.4319|        0.8610|         2.3485|      0.2378|        0.2596|      0.1703| 86.2917|
+|/players/570461/diogo-jota             |           5|         26.3349|           1.2337|        0.7617|         2.0775|      0.3292|        0.2696|      0.0814| 77.7949|
+|/players/38807/james-milner            |          NA|              NA|               NA|        0.0561|         0.1177|      0.0054|        0.0101|      0.0140| 12.2051|
+|/players/950561/darwin-nunez           |          NA|              NA|               NA|        0.1526|         0.3680|      0.0802|        0.0776|      0.0401|  8.4694|
+|/players/963964/harvey-elliott         |          NA|              NA|               NA|        0.0311|         0.0978|      0.0105|        0.0087|      0.0092|  3.7083|
+|/players/242709/roberto-firmino        |          NA|              NA|               NA|        0.0431|         0.1018|      0.0115|        0.0057|      0.0052|  3.0000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Jürgen Klopp |       128654|      16.65566|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Real Madrid:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/846033/vinicius-junior    |           5|         21.3237|           1.3641|        0.5750|         1.5923|      0.2351|        0.2109|      0.1053| 90.0000|
+|/players/26166/karim-benzema       |           5|         25.9670|           0.4593|        1.1254|         2.6324|      0.4466|        0.4676|      0.1604| 90.0000|
+|/players/743533/federico-valverde  |           5|         28.5187|           1.2055|        0.5082|         1.0918|      0.0777|        0.0952|      0.0697| 83.6667|
+|/players/31097/luka-modric         |           3|         46.8372|           0.8795|        0.4654|         1.0180|      0.1203|        0.1238|      0.1454| 83.4091|
+|/players/1015185/eduardo-camavinga |           3|         31.4647|           2.4696|        0.2312|         0.8481|      0.0511|        0.0068|      0.0498| 77.0000|
+|/players/531629/daniel-ceballos    |           3|         43.3161|           1.4022|        0.1706|         0.7303|      0.0922|        0.1238|      0.0495| 79.2500|
+|/players/121633/david-alaba        |           1|         51.0097|           0.9258|        0.0755|         0.3681|      0.0477|        0.0470|      0.0613| 90.0000|
+|/players/276738/antonio-rdiger     |           1|         56.7145|           1.3886|        0.2108|         0.5799|      0.0536|        0.0556|      0.0361| 90.0000|
+|/players/844415/der-militao        |           1|         42.3594|           1.6313|        0.1260|         0.4605|      0.0582|        0.0247|      0.0285| 90.0000|
+|/players/282674/daniel-carvajal    |           1|         48.3812|           2.0696|        0.0999|         0.2822|      0.0263|        0.0403|      0.0900| 90.0000|
+|/players/170323/thibaut-courtois   |           0|         30.4839|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/895362/rodrygo            |          NA|              NA|               NA|        0.0531|         0.1798|      0.0276|        0.0250|      0.0249| 13.0000|
+|/players/498033/marco-asensio      |          NA|              NA|               NA|        0.0985|         0.2159|      0.0345|        0.0399|      0.0100| 10.7500|
+|/players/107417/eden-hazard        |          NA|              NA|               NA|        0.0427|         0.0642|      0.0226|        0.0207|      0.0087|  6.5909|
+|/players/359193/lucas-vzquez       |          NA|              NA|               NA|        0.0286|         0.0268|      0.0008|        0.0015|      0.0116|  6.3333|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Carlo Ancelotti |       111516|      8.832917|4-3-3     |
