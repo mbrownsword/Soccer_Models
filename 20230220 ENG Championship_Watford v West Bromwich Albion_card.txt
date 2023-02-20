@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-20 09:03:22.463"
+[1] "Updated at 2023-02-20 09:44:26.179"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Watford 1.3115 to West Bromwich Albion 0.9979"
-[1] "Total: 2.3094"
-[1] "Watford %: 44.09"
-[1] "Draw %: 27.76"
-[1] "West Bromwich Albion %: 28.15"
+[1] "Score: Watford 1.3024 to West Bromwich Albion 1.0049"
+[1] "Total: 2.3073"
+[1] "Watford %: 43.94"
+[1] "Draw %: 27.68"
+[1] "West Bromwich Albion %: 28.38"
 [1] "--XG Model--"
-[1] "Score: Watford 1.2406 to West Bromwich Albion 0.9895"
-[1] "Total: 2.2301"
-[1] "Watford %: 42.75"
-[1] "Draw %: 28.61"
-[1] "West Bromwich Albion %: 28.64"
+[1] "Score: Watford 1.2308 to West Bromwich Albion 0.998"
+[1] "Total: 2.2288"
+[1] "Watford %: 41.77"
+[1] "Draw %: 28.98"
+[1] "West Bromwich Albion %: 29.25"
 [1] "--XGoT Model--"
-[1] "Score: Watford 1.2652 to West Bromwich Albion 1.0436"
-[1] "Total: 2.3088"
-[1] "Watford %: 42.37"
-[1] "Draw %: 27.91"
-[1] "West Bromwich Albion %: 29.72"
+[1] "Score: Watford 1.256 to West Bromwich Albion 1.0516"
+[1] "Total: 2.3076"
+[1] "Watford %: 42.1"
+[1] "Draw %: 27.93"
+[1] "West Bromwich Albion %: 29.97"
 [1] "--XA Model--"
-[1] "Score: Watford 1.2473 to West Bromwich Albion 1.0111"
-[1] "Total: 2.2584"
-[1] "Watford %: 42.5"
-[1] "Draw %: 28.38"
-[1] "West Bromwich Albion %: 29.12"
+[1] "Score: Watford 1.2407 to West Bromwich Albion 1.0168"
+[1] "Total: 2.2575"
+[1] "Watford %: 42.25"
+[1] "Draw %: 28.41"
+[1] "West Bromwich Albion %: 29.34"
 [1] "--Mean 4 Models--"
-[1] "Watford has a mean win % of 42.93%; a min win % of 42.37%; a max win % of 44.09%."
-[1] "Draw has a mean win % of 28.17%; a min win % of 27.76%; a max win % of 28.61%."
-[1] "West Bromwich Albion has a mean win % of 28.91%; a min win % of 28.15%; a max win of % 29.72%."
-[1] "Watford has a mean win of the Double Chance of 71.09%; a min win % of 70.28%, a max win % of 71.85%."
-[1] "West Bromwich Albion has a mean win of the Double Chance of 57.07%; a min win % of 55.91%, a max win % of 57.63%."
-[1] "The mean likelihood that there are more than 2.5 goals is 38.76%; max % is 39.61 and min % is 37.7%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 61.24%; max % is 62.3 and min % is 60.39%."
+[1] "Watford has a mean win % of 42.52%; a min win % of 41.77%; a max win % of 43.94%."
+[1] "Draw has a mean win % of 28.25%; a min win % of 27.68%; a max win % of 28.98%."
+[1] "West Bromwich Albion has a mean win % of 29.24%; a min win % of 28.38%; a max win of % 29.97%."
+[1] "Watford has a mean win of the Double Chance of 70.76%; a min win % of 70.03%, a max win % of 71.62%."
+[1] "West Bromwich Albion has a mean win of the Double Chance of 57.48%; a min win % of 56.06%, a max win % of 58.23%."
+[1] "The mean likelihood that there are more than 2.5 goals is 38.64%; max % is 39.36 and min % is 37.64%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 61.36%; max % is 62.36 and min % is 60.64%."
 [1] "--Sportsbook Odds--"
 [1] "Watford Barstool Odds are: 37.04"
 [1] "The Barstool Odds of a Draw are: 31.25"
@@ -53,36 +53,36 @@
 
 |pageUrl2                               |team                 | expected_attg| expected_gs|bet |
 |:--------------------------------------|:--------------------|-------------:|-----------:|:---|
-|/players/203964/daniel-bachmann        |Watford              |      0.000000|   0.1886792|    |
-|/players/149219/christian-kabasele     |Watford              |      0.028775|   0.0588235|    |
-|/players/488415/hassane-kamara         |Watford              |      0.041675|   0.0555556|    |
-|/players/770998/ryan-porteous          |Watford              |      0.033050|   0.1666667|    |
-|/players/465628/wesley-hoedt           |Watford              |      0.042350|   0.0588235|    |
-|/players/993022/imran-louza            |Watford              |      0.098275|   0.1818182|    |
-|/players/728123/hamza-choudhury        |Watford              |      0.001275|   0.0909091|    |
-|/players/1288119/ismael-kone           |Watford              |      0.080075|   0.1666667|    |
-|/players/771294/ismaila-sarr           |Watford              |      0.348875|   0.3030303|    |
-|/players/520670/ken-sema               |Watford              |      0.055925|   0.1538462|    |
-|/players/724368/keinan-davis           |Watford              |      0.254800|   0.2857143|    |
+|/players/203964/daniel-bachmann        |Watford              |      0.000000|   0.1851852|    |
+|/players/149219/christian-kabasele     |Watford              |      0.028800|   0.0588235|    |
+|/players/488415/hassane-kamara         |Watford              |      0.041600|   0.0555556|    |
+|/players/770998/ryan-porteous          |Watford              |      0.032650|   0.1666667|    |
+|/players/465628/wesley-hoedt           |Watford              |      0.042075|   0.0588235|    |
+|/players/993022/imran-louza            |Watford              |      0.097975|   0.1818182|    |
+|/players/728123/hamza-choudhury        |Watford              |      0.001175|   0.0909091|    |
+|/players/1288119/ismael-kone           |Watford              |      0.079550|   0.1666667|    |
+|/players/771294/ismaila-sarr           |Watford              |      0.348425|   0.2941176|*   |
+|/players/520670/ken-sema               |Watford              |      0.055175|   0.1538462|    |
+|/players/724368/keinan-davis           |Watford              |      0.253150|   0.2857143|    |
 |/players/111027/david-button           |West Bromwich Albion |      0.000000|   0.0588235|    |
-|/players/410836/semi-ajayi             |West Bromwich Albion |      0.042425|   0.0588235|    |
-|/players/165704/kyle-bartley           |West Bromwich Albion |      0.021125|   0.0909091|    |
-|/players/295069/conor-townsend         |West Bromwich Albion |      0.040400|   0.0769231|    |
-|/players/789578/dara-oshea             |West Bromwich Albion |      0.015600|   0.0769231|    |
-|/players/287892/jed-wallace            |West Bromwich Albion |      0.093450|   0.2000000|    |
-|/players/115681/jake-livermore         |West Bromwich Albion |      0.009325|   0.1052632|    |
-|/players/541822/john-swift             |West Bromwich Albion |      0.077375|   0.2040816|    |
-|/players/654091/grady-diangana         |West Bromwich Albion |      0.008250|   0.2173913|    |
-|/players/776184/brandon-thomas-asante  |West Bromwich Albion |      0.243350|   0.3030303|    |
-|/players/586467/karlan-grant           |West Bromwich Albion |      0.236550|   0.3571429|    |
-|/players/1277380/yaser-asprilla        |Watford              |      0.006550|   0.2222222|    |
-|/players/1192386/henrique-araujo       |Watford              |      0.065725|   0.2564103|    |
-|/players/1021382/joao-pedro            |Watford              |      0.005450|   0.3125000|    |
-|/players/183185/mario-gaspar           |Watford              |      0.000000|   0.0952381|    |
-|/players/789574/jayson-molumby         |West Bromwich Albion |      0.001425|   0.0909091|    |
-|/players/303899/tom-rogic              |West Bromwich Albion |      0.061700|   0.1818182|    |
+|/players/410836/semi-ajayi             |West Bromwich Albion |      0.042875|   0.0588235|    |
+|/players/165704/kyle-bartley           |West Bromwich Albion |      0.021425|   0.0909091|    |
+|/players/295069/conor-townsend         |West Bromwich Albion |      0.040850|   0.0769231|    |
+|/players/789578/dara-oshea             |West Bromwich Albion |      0.015225|   0.0769231|    |
+|/players/287892/jed-wallace            |West Bromwich Albion |      0.093875|   0.2000000|    |
+|/players/115681/jake-livermore         |West Bromwich Albion |      0.009425|   0.1052632|    |
+|/players/541822/john-swift             |West Bromwich Albion |      0.077850|   0.2000000|    |
+|/players/654091/grady-diangana         |West Bromwich Albion |      0.008450|   0.2173913|    |
+|/players/776184/brandon-thomas-asante  |West Bromwich Albion |      0.244900|   0.3030303|    |
+|/players/586467/karlan-grant           |West Bromwich Albion |      0.238450|   0.3571429|    |
+|/players/1277380/yaser-asprilla        |Watford              |      0.006475|   0.2222222|    |
+|/players/1192386/henrique-araujo       |Watford              |      0.064825|   0.2564103|    |
+|/players/1021382/joao-pedro            |Watford              |      0.005425|   0.3125000|    |
+|/players/183185/mario-gaspar           |Watford              |      0.000000|   0.0909091|    |
+|/players/789574/jayson-molumby         |West Bromwich Albion |      0.001475|   0.0909091|    |
+|/players/303899/tom-rogic              |West Bromwich Albion |      0.061475|   0.1785714|    |
 |/players/982361/taylor-gardner-hickman |West Bromwich Albion |      0.000000|   0.0909091|    |
-|/players/127133/matthew-phillips       |West Bromwich Albion |      0.000000|   0.1000000|    |
+|/players/127133/matthew-phillips       |West Bromwich Albion |      0.000000|   0.0952381|    |
 ____________________________________________________
 
 [1] "Facts about Watford:"
@@ -91,21 +91,21 @@ ____________________________________________________
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/203964/daniel-bachmann    |           0|         27.9271|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/149219/christian-kabasele |           1|         34.5842|           0.7637|        0.0242|         0.3802|      0.0577|        0.0296|      0.0157| 90.0000|
-|/players/488415/hassane-kamara     |           1|         39.5023|           2.3912|        0.1598|         0.4183|      0.0254|        0.0462|      0.1080| 90.0000|
-|/players/770998/ryan-porteous      |           1|         45.8950|           1.7765|        0.2282|         0.6500|      0.0568|        0.0343|      0.0460| 90.0000|
-|/players/465628/wesley-hoedt       |           1|         58.5978|           1.3013|        0.1716|         0.6936|      0.0483|        0.0470|      0.0352| 90.0000|
-|/players/993022/imran-louza        |           2|         40.8990|           1.9144|        0.4130|         1.3411|      0.1148|        0.1058|      0.0981| 72.5000|
-|/players/728123/hamza-choudhury    |           2|         37.9707|           1.9880|        0.0381|         0.2751|      0.0018|        0.0012|      0.0224| 78.3846|
-|/players/1288119/ismael-kone       |           3|         37.9781|           1.0192|        0.4539|         2.2018|      0.1734|        0.0887|      0.0685| 80.2222|
-|/players/771294/ismaila-sarr       |           3|         21.6049|           1.0489|        1.2207|         2.4982|      0.3627|        0.4454|      0.1298| 90.0000|
-|/players/520670/ken-sema           |           3|         25.5409|           1.8484|        0.3269|         0.7062|      0.0493|        0.0599|      0.2081| 90.0000|
-|/players/724368/keinan-davis       |           5|         16.5705|           0.5525|        0.8215|         2.0977|      0.3049|        0.2964|      0.0645| 76.0870|
-|/players/1277380/yaser-asprilla    |           0|              NA|               NA|        0.0985|         0.3839|      0.0169|        0.0070|      0.0343| 17.5000|
-|/players/1192386/henrique-araujo   |           0|              NA|               NA|        0.2251|         0.6318|      0.0669|        0.0721|      0.0320| 13.9130|
-|/players/1021382/joao-pedro        |           0|              NA|               NA|        0.0416|         0.1459|      0.0046|        0.0049|      0.0070| 11.6154|
-|/players/183185/mario-gaspar       |           0|              NA|               NA|        0.0000|         0.0883|      0.0048|        0.0000|      0.0042|  9.7778|
+|/players/203964/daniel-bachmann    |           0|         27.6952|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/149219/christian-kabasele |           1|         34.2970|           0.7573|        0.0240|         0.3770|      0.0572|        0.0294|      0.0156| 90.0000|
+|/players/488415/hassane-kamara     |           1|         39.1743|           2.3713|        0.1585|         0.4148|      0.0252|        0.0458|      0.1071| 90.0000|
+|/players/770998/ryan-porteous      |           1|         45.5139|           1.7617|        0.2263|         0.6446|      0.0564|        0.0340|      0.0456| 90.0000|
+|/players/465628/wesley-hoedt       |           1|         58.1112|           1.2905|        0.1702|         0.6878|      0.0479|        0.0466|      0.0349| 90.0000|
+|/players/993022/imran-louza        |           2|         40.5594|           1.8985|        0.4096|         1.3299|      0.1139|        0.1050|      0.0973| 72.5000|
+|/players/728123/hamza-choudhury    |           2|         37.6554|           1.9715|        0.0378|         0.2728|      0.0018|        0.0012|      0.0222| 78.3846|
+|/players/1288119/ismael-kone       |           3|         37.6628|           1.0108|        0.4501|         2.1835|      0.1720|        0.0880|      0.0679| 80.2222|
+|/players/771294/ismaila-sarr       |           3|         21.4255|           1.0402|        1.2106|         2.4774|      0.3597|        0.4417|      0.1287| 90.0000|
+|/players/520670/ken-sema           |           3|         25.3288|           1.8330|        0.3242|         0.7003|      0.0489|        0.0594|      0.2064| 90.0000|
+|/players/724368/keinan-davis       |           5|         16.4329|           0.5479|        0.8147|         2.0803|      0.3023|        0.2940|      0.0640| 76.0870|
+|/players/1277380/yaser-asprilla    |           0|              NA|               NA|        0.0969|         0.3777|      0.0166|        0.0069|      0.0337| 17.5000|
+|/players/1192386/henrique-araujo   |           0|              NA|               NA|        0.2215|         0.6216|      0.0658|        0.0709|      0.0315| 13.9130|
+|/players/1021382/joao-pedro        |           0|              NA|               NA|        0.0409|         0.1435|      0.0045|        0.0048|      0.0068| 11.6154|
+|/players/183185/mario-gaspar       |           0|              NA|               NA|        0.0000|         0.0868|      0.0047|        0.0000|      0.0041|  9.7778|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -119,20 +119,20 @@ ____________________________________________________
 
 |pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/111027/david-button           |           0|         29.5466|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/410836/semi-ajayi             |           1|         45.3463|           1.4008|        0.1187|         0.3774|      0.0464|        0.0535|      0.0303| 90.0000|
-|/players/165704/kyle-bartley           |           1|         41.8651|           1.0311|        0.1808|         0.7285|      0.0638|        0.0292|      0.0406| 90.0000|
-|/players/295069/conor-townsend         |           1|         49.2657|           1.9519|        0.1160|         0.4204|      0.0564|        0.0534|      0.1030| 90.0000|
-|/players/789578/dara-oshea             |           1|         54.9950|           1.8028|        0.1230|         0.3854|      0.0191|        0.0208|      0.0612| 90.0000|
-|/players/287892/jed-wallace            |           3|         36.7029|           1.8068|        0.3734|         1.1366|      0.1072|        0.1278|      0.1226| 90.0000|
-|/players/115681/jake-livermore         |           3|         41.8196|           2.6354|        0.1506|         0.7886|      0.0663|        0.0137|      0.0231| 90.0000|
-|/players/541822/john-swift             |           3|         52.0065|           0.9029|        0.3411|         1.0529|      0.1007|        0.1038|      0.1166| 82.4167|
-|/players/654091/grady-diangana         |           5|         23.3422|           1.3036|        0.1507|         0.8184|      0.0994|        0.0096|      0.1415| 65.8333|
-|/players/776184/brandon-thomas-asante  |           5|         17.6890|           0.9166|        0.8479|         2.3018|      0.3105|        0.3549|      0.0338| 78.1875|
-|/players/586467/karlan-grant           |           5|         21.5699|           0.2897|        0.9714|         1.9642|      0.2982|        0.3466|      0.1124| 79.0741|
-|/players/789574/jayson-molumby         |           0|              NA|               NA|        0.1048|         0.5915|      0.0369|        0.0024|      0.0105| 24.1667|
-|/players/303899/tom-rogic              |           0|              NA|               NA|        0.2146|         0.3028|      0.0456|        0.0785|      0.0321| 11.8125|
-|/players/982361/taylor-gardner-hickman |           0|              NA|               NA|        0.0000|         0.1112|      0.0036|        0.0000|      0.0031| 10.9259|
+|/players/111027/david-button           |           0|         29.7972|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/410836/semi-ajayi             |           1|         45.7309|           1.4126|        0.1197|         0.3806|      0.0467|        0.0539|      0.0305| 90.0000|
+|/players/165704/kyle-bartley           |           1|         42.2202|           1.0399|        0.1824|         0.7346|      0.0644|        0.0295|      0.0409| 90.0000|
+|/players/295069/conor-townsend         |           1|         49.6836|           1.9685|        0.1169|         0.4240|      0.0569|        0.0538|      0.1039| 90.0000|
+|/players/789578/dara-oshea             |           1|         55.4615|           1.8181|        0.1240|         0.3887|      0.0193|        0.0210|      0.0617| 90.0000|
+|/players/287892/jed-wallace            |           3|         37.0142|           1.8221|        0.3766|         1.1462|      0.1081|        0.1289|      0.1236| 90.0000|
+|/players/115681/jake-livermore         |           3|         42.1743|           2.6577|        0.1519|         0.7953|      0.0668|        0.0139|      0.0233| 90.0000|
+|/players/541822/john-swift             |           3|         52.4477|           0.9105|        0.3440|         1.0619|      0.1016|        0.1047|      0.1176| 82.4167|
+|/players/654091/grady-diangana         |           5|         23.5402|           1.3146|        0.1520|         0.8254|      0.1003|        0.0096|      0.1427| 65.8333|
+|/players/776184/brandon-thomas-asante  |           5|         17.8391|           0.9243|        0.8551|         2.3213|      0.3132|        0.3579|      0.0341| 78.1875|
+|/players/586467/karlan-grant           |           5|         21.7529|           0.2921|        0.9797|         1.9809|      0.3007|        0.3495|      0.1134| 79.0741|
+|/players/789574/jayson-molumby         |           0|              NA|               NA|        0.1048|         0.5918|      0.0370|        0.0024|      0.0105| 24.1667|
+|/players/303899/tom-rogic              |           0|              NA|               NA|        0.2147|         0.3030|      0.0456|        0.0785|      0.0321| 11.8125|
+|/players/982361/taylor-gardner-hickman |           0|              NA|               NA|        0.0000|         0.1113|      0.0036|        0.0000|      0.0031| 10.9259|
 |/players/127133/matthew-phillips       |           0|              NA|               NA|        0.0000|         0.1014|      0.0049|        0.0000|      0.0307|  7.5833|
 
 
