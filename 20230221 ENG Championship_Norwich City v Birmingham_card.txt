@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-20 17:51:55.163"
+[1] "Updated at 2023-02-21 07:16:11.611"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,14 +34,14 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 44.59%; max % is 52.21 and min % is 39.57%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 55.41%; max % is 60.43 and min % is 47.79%."
 [1] "--Sportsbook Odds--"
-[1] "Norwich City Barstool Odds are: 60.61"
-[1] "The Barstool Odds of a Draw are: 26.32"
-[1] "Birmingham Barstool Odds are: 20"
-[1] "Norwich City Adjusted Barstool Odds are: 56.682"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.614"
-[1] "Birmingham Adjusted Barstool Odds are: 18.704"
-[1] "Norwich City's Barstool Odds to cover the -0.5 spread are: 60.61"
-[1] "Birmingham's Barstool Odds to cover the 0.5 spread are: 43.86"
+[1] "Norwich City Barstool Odds are: 60"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Birmingham Barstool Odds are: 19.23"
+[1] "Norwich City Adjusted Barstool Odds are: 56.07"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.96"
+[1] "Birmingham Adjusted Barstool Odds are: 17.97"
+[1] "Norwich City's Barstool Odds to cover the -0.5 spread are: 59.88"
+[1] "Birmingham's Barstool Odds to cover the 0.5 spread are: 44.84"
 [1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.88, which is a 53.19% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -63,26 +63,26 @@
 |/players/229711/onel-hernndez       |Norwich City |      0.025500|   0.3030303|    |
 |/players/190851/kenny-mclean        |Norwich City |      0.045375|   0.1886792|    |
 |/players/848011/joshua-sargent      |Norwich City |      0.159600|   0.4081633|    |
-|/players/66578/teemu-pukki          |Norwich City |      0.327375|   0.2380952|*   |
+|/players/66578/teemu-pukki          |Norwich City |      0.327375|   0.2173913|*   |
 |/players/40602/john-ruddy           |Birmingham   |      0.000000|   0.1428571|    |
 |/players/470638/marc-roberts        |Birmingham   |      0.085475|   0.2777778|    |
-|/players/1070973/dion-sanderson     |Birmingham   |      0.012575|   0.0714286|    |
-|/players/688271/auston-trusty       |Birmingham   |      0.011625|   0.0909091|    |
-|/players/963949/emmanuel-longelo    |Birmingham   |      0.038225|   0.1111111|    |
+|/players/1070973/dion-sanderson     |Birmingham   |      0.012575|   0.0666667|    |
+|/players/688271/auston-trusty       |Birmingham   |      0.011625|   0.0833333|    |
+|/players/963949/emmanuel-longelo    |Birmingham   |      0.038225|   0.1052632|    |
 |/players/210389/maxime-colin        |Birmingham   |      0.037475|   0.0909091|    |
-|/players/556952/krystian-bielik     |Birmingham   |      0.004575|   0.2083333|    |
-|/players/282251/gary-gardner        |Birmingham   |      0.060050|   0.1428571|    |
-|/players/614574/juninho-bacuna      |Birmingham   |      0.094325|   0.1428571|    |
-|/players/72436/troy-deeney          |Birmingham   |      0.181850|   0.3125000|    |
-|/players/190424/scott-hogan         |Birmingham   |      0.202825|   0.2325581|    |
+|/players/556952/krystian-bielik     |Birmingham   |      0.004575|   0.2000000|    |
+|/players/282251/gary-gardner        |Birmingham   |      0.060050|   0.1333333|    |
+|/players/614574/juninho-bacuna      |Birmingham   |      0.094325|   0.1333333|    |
+|/players/72436/troy-deeney          |Birmingham   |      0.181850|   0.2941176|    |
+|/players/190424/scott-hogan         |Birmingham   |      0.202825|   0.2222222|    |
 |/players/902710/gabriel-sara        |Norwich City |      0.211775|   0.2083333|    |
 |/players/1111391/liam-gibbs         |Norwich City |      0.010400|   0.2777778|    |
-|/players/1113694/jonathan-rowe      |Norwich City |      0.020475|   0.2222222|    |
+|/players/1113694/jonathan-rowe      |Norwich City |      0.020475|   0.2272727|    |
 |/players/846009/adam-idah           |Norwich City |      0.000000|   0.4347826|    |
-|/players/27568/lukas-jutkiewicz     |Birmingham   |      0.076075|   0.2702703|    |
-|/players/1288279/george-hall        |Birmingham   |      0.046050|   0.1250000|    |
-|/players/1310975/jordan-james       |Birmingham   |      0.000000|   0.1052632|    |
-|/players/1089922/reda-khadra        |Birmingham   |      0.071025|   0.2272727|    |
+|/players/27568/lukas-jutkiewicz     |Birmingham   |      0.076075|   0.2500000|    |
+|/players/1288279/george-hall        |Birmingham   |      0.046050|   0.1176471|    |
+|/players/1310975/jordan-james       |Birmingham   |      0.000000|   0.0952381|    |
+|/players/1089922/reda-khadra        |Birmingham   |      0.071025|   0.2127660|    |
 ____________________________________________________
 
 [1] "Facts about Norwich City:"
