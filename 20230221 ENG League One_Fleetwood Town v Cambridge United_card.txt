@@ -1,0 +1,109 @@
+[1] "Updated at 2023-02-20 21:50:36.460"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Fleetwood Town 1.5511 to Cambridge United 0.8289"
+[1] "Total: 2.38"
+[1] "Fleetwood Town %: 55.01"
+[1] "Draw %: 25.17"
+[1] "Cambridge United %: 19.82"
+[1] "--XG Model--"
+[1] "Score: Fleetwood Town 1.8217 to Cambridge United 0.8213"
+[1] "Total: 2.643"
+[1] "Fleetwood Town %: 61.32"
+[1] "Draw %: 22.65"
+[1] "Cambridge United %: 16.03"
+[1] "--XGoT Model--"
+[1] "Score: Fleetwood Town 1.7395 to Cambridge United 0.7924"
+[1] "Total: 2.5319"
+[1] "Fleetwood Town %: 60.38"
+[1] "Draw %: 23.11"
+[1] "Cambridge United %: 16.51"
+[1] "--XA Model--"
+[1] "Score: Fleetwood Town 1.9004 to Cambridge United 0.8579"
+[1] "Total: 2.7583"
+[1] "Fleetwood Town %: 62.23"
+[1] "Draw %: 21.52"
+[1] "Cambridge United %: 16.25"
+[1] "--Mean 4 Models--"
+[1] "Fleetwood Town has a mean win % of 59.74%; a min win % of 55.01%; a max win % of 62.23%."
+[1] "Draw has a mean win % of 23.11%; a min win % of 21.52%; a max win % of 25.17%."
+[1] "Cambridge United has a mean win % of 17.15%; a min win % of 16.03%; a max win of % 19.82%."
+[1] "Fleetwood Town has a mean win of the Double Chance of 82.85%; a min win % of 80.18%, a max win % of 83.97%."
+[1] "Cambridge United has a mean win of the Double Chance of 40.26%; a min win % of 37.77%, a max win % of 44.99%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.92%; max % is 51.31 and min % is 42.24%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.08%; max % is 57.76 and min % is 48.69%."
+[1] "--Sportsbook Odds--"
+[1] "Fleetwood Town Barstool Odds are: 50"
+[1] "The Barstool Odds of a Draw are: 29.85"
+[1] "Cambridge United Barstool Odds are: 26.67"
+[1] "Fleetwood Town Adjusted Barstool Odds are: 46.94"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.023"
+[1] "Cambridge United Adjusted Barstool Odds are: 25.038"
+[1] "Fleetwood Town's Barstool Odds to cover the  spread are: NA"
+[1] "Cambridge United's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+             bet           date_time
+1 Fleetwood Town 2023-02-21 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Fleetwood Town:"
+____________________________________________________
+
+[1] "Facts about Fleetwood Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/302545/jay-lynch              |           0|         27.1013|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/968915/harrison-holgate       |           1|         51.4863|           1.2039|        0.0384|         0.1260|      0.0155|        0.0187|      0.0268| 90.0000|
+|/players/191178/aristote-nsiala        |           1|         49.7757|           1.4574|        0.0384|         0.4779|      0.0763|        0.0305|      0.0568| 90.0000|
+|/players/165555/danny-andrew           |           1|         47.6369|           1.5909|        0.3926|         1.3314|      0.0665|        0.0187|      0.1711| 90.0000|
+|/players/864894/josh-earl              |           1|         54.1788|           1.7971|        0.1544|         0.5027|      0.0377|        0.0983|      0.0268| 90.0000|
+|/players/470624/shaun-rooney           |           3|         41.2871|           1.4452|        0.4083|         1.7154|      0.1455|        0.1200|      0.0872| 90.0000|
+|/players/265917/josh-vela              |           3|         43.2885|           2.3193|        0.3320|         1.1504|      0.0796|        0.1095|      0.1440| 90.0000|
+|/players/848668/daniel-batty           |           3|         48.4803|           1.6384|        0.4821|         1.1373|      0.1038|        0.1011|      0.0972| 83.0857|
+|/players/952150/carlos-mendes          |           5|         29.8867|           1.8841|        0.6457|         1.6383|      0.0621|        0.2931|      0.2356| 84.8000|
+|/players/445481/jack-marriott          |           5|         12.7178|           0.6978|        0.8711|         2.6167|      0.2972|        0.2454|      0.0809| 71.3333|
+|/players/186498/jayden-stockley        |           5|         28.3385|           0.3277|        1.0627|         2.5598|      0.5223|        0.4155|      0.1198| 84.3478|
+|/players/1111678/cian-hayes            |           0|              NA|               NA|        0.1315|         0.6482|      0.0397|        0.0704|      0.0393| 18.6667|
+|/players/939035/promise-omochere       |           0|              NA|               NA|        0.1233|         0.2701|      0.0238|        0.0413|      0.0482|  6.9143|
+|/players/956166/brendan-sarpong-wiredu |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0079|  5.6522|
+|/players/1111678/cian-hayes            |           0|              NA|               NA|        0.0788|         0.0863|      0.0155|        0.0000|      0.0089|  5.2000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Scott Brown  |        20801|     -5.104286|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Cambridge United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/969252/joshua-griffiths |           0|         27.0271|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1004999/jubril-okedina  |           1|         30.8083|           2.2301|        0.0785|         0.1891|      0.0281|        0.0039|      0.0518| 90.0000|
+|/players/598228/george-williams  |           1|         33.6342|           1.3871|        0.1000|         0.4919|      0.0087|        0.0039|      0.0764| 90.0000|
+|/players/447418/lloyd-jones      |           1|         36.8516|           1.2278|        0.0785|         0.3973|      0.0231|        0.0320|      0.0092| 90.0000|
+|/players/24382/michael-morrison  |           1|         43.5874|           1.8772|        0.1464|         0.4974|      0.0593|        0.0540|      0.0189| 90.0000|
+|/players/632282/adam-may         |           2|         35.8441|           1.3927|        0.2154|         0.8263|      0.0721|        0.0626|      0.0614| 81.8571|
+|/players/291278/paul-digby       |           2|         37.4695|           2.6417|        0.1143|         0.4762|      0.0089|        0.0165|      0.0299| 90.0000|
+|/players/1286967/liam-bennett    |           3|         22.3054|           0.9113|        0.1887|         1.1423|      0.0672|        0.0232|      0.0629| 82.5455|
+|/players/664514/james-brophy     |           3|         35.2048|           1.1327|        0.1655|         0.6264|      0.0452|        0.0801|      0.1593| 90.0000|
+|/players/1056689/harvey-knibbs   |           3|         14.6475|           1.6706|        1.0377|         2.4346|      0.2443|        0.2901|      0.0719| 80.4500|
+|/players/363344/joe-ironside     |           5|         15.9897|           0.6778|        0.6659|         1.7949|      0.2337|        0.2410|      0.0452| 85.4800|
+|/players/873015/shilow-tracey    |           0|              NA|               NA|        0.0749|         0.2564|      0.0145|        0.0237|      0.0177|  9.5500|
+|/players/967350/jack-lankester   |           0|              NA|               NA|        0.0466|         0.1087|      0.0062|        0.0128|      0.0157|  8.1429|
+|/players/519836/george-thomas    |           0|              NA|               NA|        0.0730|         0.2042|      0.0178|        0.0192|      0.0102|  7.4545|
+|/players/280848/liam-oneil       |           0|              NA|               NA|        0.0158|         0.1034|      0.0060|        0.0065|      0.0148|  4.5200|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mark Bonner  |        27630|      -5.21576|4-2-3-1   |
