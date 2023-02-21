@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-20 17:48:19.576"
+[1] "Updated at 2023-02-21 07:11:35.186"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,55 +34,56 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 36.45%; max % is 37.52 and min % is 35.11%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 63.55%; max % is 64.89 and min % is 62.48%."
 [1] "--Sportsbook Odds--"
-[1] "Blackburn Barstool Odds are: 51.28"
-[1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Blackpool Barstool Odds are: 26.67"
-[1] "Blackburn Adjusted Barstool Odds are: 48.141"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.821"
-[1] "Blackpool Adjusted Barstool Odds are: 25.038"
-[1] "Blackburn's Barstool Odds to cover the -0.5 spread are: 51.28"
-[1] "Blackpool's Barstool Odds to cover the 0.5 spread are: 53.48"
+[1] "Blackburn Barstool Odds are: 52.38"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Blackpool Barstool Odds are: 25.64"
+[1] "Blackburn Adjusted Barstool Odds are: 48.949"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.091"
+[1] "Blackpool Adjusted Barstool Odds are: 23.96"
+[1] "Blackburn's Barstool Odds to cover the -0.5 spread are: 51.81"
+[1] "Blackpool's Barstool Odds to cover the 0.5 spread are: 52.91"
 [1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.74, which is a 57.47% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                         bet           date_time
-1 under Blackburn/Blackpool 2023-02-21 11:45:00
-2             Blackpool ATS 2023-02-21 11:45:00
+1                 Blackpool 2023-02-21 11:45:00
+2 under Blackburn/Blackpool 2023-02-21 11:45:00
+3             Blackpool ATS 2023-02-21 11:45:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                         |team      | expected_attg| expected_gs|bet |
 |:--------------------------------|:---------|-------------:|-----------:|:---|
-|/players/807752/aynsley-pears    |Blackburn |      0.000000|   0.3225806|    |
-|/players/827247/harry-pickering  |Blackburn |      0.026550|   0.0526316|    |
-|/players/181379/daniel-ayala     |Blackburn |      0.015925|   0.1886792|    |
-|/players/694558/dominic-hyam     |Blackburn |      0.037050|   0.0952381|    |
+|/players/807752/aynsley-pears    |Blackburn |      0.000000|   0.3125000|    |
+|/players/827247/harry-pickering  |Blackburn |      0.026550|   0.0500000|    |
+|/players/181379/daniel-ayala     |Blackburn |      0.015925|   0.1851852|    |
+|/players/694558/dominic-hyam     |Blackburn |      0.037050|   0.0909091|    |
 |/players/1030840/john-buckley    |Blackburn |      0.024275|   0.1428571|    |
-|/players/491827/sammie-szmodics  |Blackburn |      0.192300|   0.2777778|    |
-|/players/1113724/tyler-morton    |Blackburn |      0.026800|   0.0952381|    |
-|/players/611489/ryan-hedges      |Blackburn |      0.060925|   0.2222222|    |
-|/players/789556/lewis-travis     |Blackburn |      0.028400|   0.1785714|    |
+|/players/491827/sammie-szmodics  |Blackburn |      0.192300|   0.2702703|    |
+|/players/1113724/tyler-morton    |Blackburn |      0.026800|   0.0909091|    |
+|/players/611489/ryan-hedges      |Blackburn |      0.060925|   0.2173913|    |
+|/players/789556/lewis-travis     |Blackburn |      0.028400|   0.1754386|    |
 |/players/812982/sorba-thomas     |Blackburn |      0.078350|   0.1538462|    |
-|/players/502421/sam-gallagher    |Blackburn |      0.411750|   0.3125000|*   |
+|/players/502421/sam-gallagher    |Blackburn |      0.411750|   0.3030303|*   |
 |/players/862590/daniel-grimshaw  |Blackpool |      0.000000|   0.1250000|    |
-|/players/719340/jordan-thorniley |Blackpool |      0.006175|   0.0370370|    |
+|/players/719340/jordan-thorniley |Blackpool |      0.006175|   0.0357143|    |
 |/players/729449/callum-connolly  |Blackpool |      0.024000|   0.0555556|    |
-|/players/629786/marvin-ekpiteta  |Blackpool |      0.072450|   0.2631579|    |
+|/players/629786/marvin-ekpiteta  |Blackpool |      0.072450|   0.2564103|    |
 |/players/1229058/charlie-patino  |Blackpool |      0.070100|   0.0769231|    |
 |/players/673437/cj-hamilton      |Blackpool |      0.032875|   0.1666667|    |
-|/players/844937/josh-bowler      |Blackpool |      0.081875|   0.2222222|    |
+|/players/844937/josh-bowler      |Blackpool |      0.081875|   0.2173913|    |
 |/players/562884/kenneth-dougall  |Blackpool |      0.019500|   0.1000000|    |
-|/players/534394/jake-beesley     |Blackpool |      0.120100|   0.1000000|    |
-|/players/933798/beryly-lubala    |Blackpool |      0.128375|   0.1250000|    |
-|/players/115977/gary-madine      |Blackpool |      0.208850|   0.2439024|    |
-|/players/1181101/tyrhys-dolan    |Blackburn |      0.037900|   0.3030303|    |
-|/players/1124094/jack-vale       |Blackburn |      0.059575|   0.3125000|    |
-|/players/640669/tayo-edun        |Blackburn |      0.000000|   0.1111111|    |
-|/players/716852/callum-brittain  |Blackburn |      0.000000|   0.1000000|    |
-|/players/652145/shayne-lavery    |Blackpool |      0.013350|   0.2272727|    |
-|/players/962075/ian-poveda       |Blackpool |      0.000000|   0.2325581|    |
-|/players/1081081/sonny-carey     |Blackpool |      0.000000|   0.2083333|    |
-|/players/608535/jerry-yates      |Blackpool |      0.063050|   0.3125000|    |
+|/players/534394/jake-beesley     |Blackpool |      0.120100|   0.0909091|    |
+|/players/933798/beryly-lubala    |Blackpool |      0.128375|   0.1176471|    |
+|/players/115977/gary-madine      |Blackpool |      0.208850|   0.2380952|    |
+|/players/1181101/tyrhys-dolan    |Blackburn |      0.037900|   0.2941176|    |
+|/players/1124094/jack-vale       |Blackburn |      0.059575|   0.3030303|    |
+|/players/640669/tayo-edun        |Blackburn |      0.000000|   0.1052632|    |
+|/players/716852/callum-brittain  |Blackburn |      0.000000|   0.0952381|    |
+|/players/652145/shayne-lavery    |Blackpool |      0.013350|   0.2222222|    |
+|/players/962075/ian-poveda       |Blackpool |      0.000000|   0.2439024|    |
+|/players/1081081/sonny-carey     |Blackpool |      0.000000|   0.2040816|    |
+|/players/608535/jerry-yates      |Blackpool |      0.063050|   0.3030303|    |
 ____________________________________________________
 
 [1] "Facts about Blackburn:"
