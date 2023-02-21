@@ -1,110 +1,110 @@
-[1] "Updated at 2023-02-20 16:54:16.279"
+[1] "Updated at 2023-02-21 10:52:14.429"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Eintracht Frankfurt 1.1854 to Napoli 1.4471"
-[1] "Total: 2.6325"
-[1] "Eintracht Frankfurt %: 31.02"
-[1] "Draw %: 26.57"
-[1] "Napoli %: 42.41"
+[1] "Score: Eintracht Frankfurt 1.2111 to Napoli 1.4822"
+[1] "Total: 2.6933"
+[1] "Eintracht Frankfurt %: 31.1"
+[1] "Draw %: 26.37"
+[1] "Napoli %: 42.53"
 [1] "--XG Model--"
-[1] "Score: Eintracht Frankfurt 1.0891 to Napoli 1.5337"
-[1] "Total: 2.6228"
-[1] "Eintracht Frankfurt %: 27.97"
-[1] "Draw %: 25.66"
-[1] "Napoli %: 46.37"
-[1] "--XGoT Model--"
-[1] "Score: Eintracht Frankfurt 1.1372 to Napoli 1.5315"
-[1] "Total: 2.6687"
-[1] "Eintracht Frankfurt %: 28.6"
-[1] "Draw %: 25.86"
-[1] "Napoli %: 45.54"
-[1] "--XA Model--"
-[1] "Score: Eintracht Frankfurt 1.1758 to Napoli 1.555"
-[1] "Total: 2.7308"
-[1] "Eintracht Frankfurt %: 29.13"
+[1] "Score: Eintracht Frankfurt 1.1646 to Napoli 1.5488"
+[1] "Total: 2.7134"
+[1] "Eintracht Frankfurt %: 29.27"
 [1] "Draw %: 25.7"
-[1] "Napoli %: 45.17"
+[1] "Napoli %: 45.03"
+[1] "--XGoT Model--"
+[1] "Score: Eintracht Frankfurt 1.1344 to Napoli 1.5254"
+[1] "Total: 2.6598"
+[1] "Eintracht Frankfurt %: 28.7"
+[1] "Draw %: 25.93"
+[1] "Napoli %: 45.37"
+[1] "--XA Model--"
+[1] "Score: Eintracht Frankfurt 1.2123 to Napoli 1.6162"
+[1] "Total: 2.8285"
+[1] "Eintracht Frankfurt %: 28.78"
+[1] "Draw %: 24.94"
+[1] "Napoli %: 46.28"
 [1] "--Mean 4 Models--"
-[1] "Eintracht Frankfurt has a mean win % of 29.18%; a min win % of 27.97%; a max win % of 31.02%."
-[1] "Draw has a mean win % of 25.95%; a min win % of 25.66%; a max win % of 26.57%."
-[1] "Napoli has a mean win % of 44.87%; a min win % of 42.41%; a max win of % 46.37%."
-[1] "Eintracht Frankfurt has a mean win of the Double Chance of 55.13%; a min win % of 53.63%, a max win % of 57.59%."
-[1] "Napoli has a mean win of the Double Chance of 70.82%; a min win % of 68.98%, a max win % of 72.03%."
-[1] "The mean likelihood that there are more than 2.5 goals is 49.04%; max % is 50.45 and min % is 47.99%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 50.96%; max % is 52.01 and min % is 49.55%."
+[1] "Eintracht Frankfurt has a mean win % of 29.46%; a min win % of 28.7%; a max win % of 31.1%."
+[1] "Draw has a mean win % of 25.73%; a min win % of 24.94%; a max win % of 26.37%."
+[1] "Napoli has a mean win % of 44.8%; a min win % of 42.53%; a max win of % 46.28%."
+[1] "Eintracht Frankfurt has a mean win of the Double Chance of 55.2%; a min win % of 53.72%, a max win % of 57.47%."
+[1] "Napoli has a mean win of the Double Chance of 70.54%; a min win % of 68.9%, a max win % of 71.3%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.3%; max % is 52.89 and min % is 49.05%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.7%; max % is 50.95 and min % is 47.11%."
 [1] "--Sportsbook Odds--"
-[1] "Eintracht Frankfurt Barstool Odds are: 29.41"
-[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Eintracht Frankfurt Barstool Odds are: 28.57"
+[1] "The Barstool Odds of a Draw are: 28.99"
 [1] "Napoli Barstool Odds are: 46.51"
-[1] "Eintracht Frankfurt Adjusted Barstool Odds are: 28.146"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.342"
-[1] "Napoli Adjusted Barstool Odds are: 44.511"
+[1] "Eintracht Frankfurt Adjusted Barstool Odds are: 27.453"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.856"
+[1] "Napoli Adjusted Barstool Odds are: 44.691"
 [1] "Eintracht Frankfurt's Barstool Odds to cover the 0.5 spread are: 57.47"
 [1] "Napoli's Barstool Odds to cover the -0.5 spread are: 47.17"
-[1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18% chance of the over 2.5 hitting. The line for the under is 2.04, which is a 49.02% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.94, which is a 51.55% chance of the over 2.5 hitting. The line for the under is 1.86, which is a 53.76% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                               bet           date_time
-1 under Eintracht Frankfurt/Napoli 2023-02-21 12:00:00
+                  bet           date_time
+1 Eintracht Frankfurt 2023-02-21 12:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                                   |team                | expected_attg| expected_gs|bet |
 |:------------------------------------------|:-------------------|-------------:|-----------:|:---|
 |/players/145550/kevin-trapp                |Eintracht Frankfurt |      0.000000|   0.0625000|    |
-|/players/1077685/hrvoje-smolcic            |Eintracht Frankfurt |      0.025725|   0.0370370|    |
-|/players/787242/evan-ndicka                |Eintracht Frankfurt |      0.025675|   0.0769231|    |
-|/players/982158/tuta                       |Eintracht Frankfurt |      0.039000|   0.0714286|    |
-|/players/767716/aurelio-buta               |Eintracht Frankfurt |      0.013275|   0.0833333|    |
-|/players/621515/daichi-kamada              |Eintracht Frankfurt |      0.148700|   0.1960784|    |
-|/players/707970/djibril-sow                |Eintracht Frankfurt |      0.026975|   0.1176471|    |
-|/players/488298/philipp-max                |Eintracht Frankfurt |      0.010025|   0.1333333|    |
-|/players/958335/jesper-lindstrm            |Eintracht Frankfurt |      0.176925|   0.2083333|    |
-|/players/177714/mario-gtze                 |Eintracht Frankfurt |      0.128850|   0.1538462|    |
-|/players/823825/randal-kolo-muani          |Eintracht Frankfurt |      0.282250|   0.3030303|    |
-|/players/900433/khvicha-kvaratskhelia      |Napoli              |      0.265275|   0.3508772|    |
-|/players/687681/victor-osimhen             |Napoli              |      0.383200|   0.4166667|    |
-|/players/521210/hirving-lozano             |Napoli              |      0.119625|   0.3125000|    |
-|/players/362212/piotr-zielinski            |Napoli              |      0.133725|   0.2857143|    |
-|/players/308517/stanislav-lobotka          |Napoli              |      0.013000|   0.0833333|    |
-|/players/612863/andre-frank-zambo-anguissa |Napoli              |      0.034700|   0.1333333|    |
-|/players/282731/mario-rui                  |Napoli              |      0.021150|   0.0294118|    |
-|/players/828159/min-jae-kim                |Napoli              |      0.008700|   0.4166667|    |
-|/players/544693/amir-rrahmani              |Napoli              |      0.057750|   0.0909091|    |
-|/players/414906/giovanni-di-lorenzo        |Napoli              |      0.056900|   0.0714286|    |
-|/players/577912/alex-meret                 |Napoli              |      0.000000|   0.0909091|    |
-|/players/269222/lucas-alario               |Eintracht Frankfurt |      0.070075|   0.2857143|    |
-|/players/533775/rafael-santos-borre        |Eintracht Frankfurt |      0.039325|   0.2857143|    |
-|/players/563216/almamy-tour                |Eintracht Frankfurt |      0.005700|   0.0714286|    |
-|/players/1171008/paxten-aaronson           |Eintracht Frankfurt |      0.001850|   0.0588235|    |
-|/players/741049/eljif-elmas                |Napoli              |      0.036000|   0.2380952|    |
-|/players/415539/matteo-politano            |Napoli              |      0.044975|   0.2564103|    |
-|/players/773189/tanguy-ndomblé             |Napoli              |      0.026200|   0.1666667|    |
-|/players/469615/giovanni-simeone           |Napoli              |      0.048550|   0.3636364|    |
+|/players/767716/aurelio-buta               |Eintracht Frankfurt |      0.009700|   0.0833333|    |
+|/players/787242/evan-ndicka                |Eintracht Frankfurt |      0.025700|   0.0769231|    |
+|/players/982158/tuta                       |Eintracht Frankfurt |      0.039650|   0.0666667|    |
+|/players/488298/philipp-max                |Eintracht Frankfurt |      0.056225|   0.1250000|    |
+|/players/621515/daichi-kamada              |Eintracht Frankfurt |      0.170875|   0.1886792|    |
+|/players/643448/kristijan-jakic            |Eintracht Frankfurt |      0.022425|   0.0714286|    |
+|/players/707970/djibril-sow                |Eintracht Frankfurt |      0.029000|   0.1111111|    |
+|/players/958335/jesper-lindstrm            |Eintracht Frankfurt |      0.276250|   0.2000000|*   |
+|/players/823825/randal-kolo-muani          |Eintracht Frankfurt |      0.177350|   0.2941176|    |
+|/players/177714/mario-gtze                 |Eintracht Frankfurt |      0.133825|   0.1428571|    |
+|/players/900433/khvicha-kvaratskhelia      |Napoli              |      0.243750|   0.3333333|    |
+|/players/687681/victor-osimhen             |Napoli              |      0.359675|   0.3846154|    |
+|/players/521210/hirving-lozano             |Napoli              |      0.110400|   0.2857143|    |
+|/players/362212/piotr-zielinski            |Napoli              |      0.193350|   0.2702703|    |
+|/players/308517/stanislav-lobotka          |Napoli              |      0.021600|   0.0769231|    |
+|/players/612863/andre-frank-zambo-anguissa |Napoli              |      0.050925|   0.1250000|    |
+|/players/729093/mathias-olivera            |Napoli              |      0.003875|   0.0833333|    |
+|/players/828159/min-jae-kim                |Napoli              |      0.012775|   0.4166667|    |
+|/players/544693/amir-rrahmani              |Napoli              |      0.089825|   0.0833333|    |
+|/players/414906/giovanni-di-lorenzo        |Napoli              |      0.080650|   0.0625000|    |
+|/players/577912/alex-meret                 |Napoli              |      0.000000|   0.0384615|    |
+|/players/269222/lucas-alario               |Eintracht Frankfurt |      0.056600|   0.0000000|*   |
+|/players/533775/rafael-santos-borre        |Eintracht Frankfurt |      0.023900|   0.0000000|    |
+|/players/563216/almamy-tour                |Eintracht Frankfurt |      0.004000|   0.0000000|    |
+|/players/450974/christopher-lenz           |Eintracht Frankfurt |      0.000000|   0.0000000|    |
+|/players/741049/eljif-elmas                |Napoli              |      0.024300|   0.0000000|    |
+|/players/415539/matteo-politano            |Napoli              |      0.033125|   0.0000000|    |
+|/players/773189/tanguy-ndomblé             |Napoli              |      0.018525|   0.0000000|    |
+|/players/469615/giovanni-simeone           |Napoli              |      0.034700|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Eintracht Frankfurt:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/145550/kevin-trapp         |           0|         33.9974|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1077685/hrvoje-smolcic     |           1|         46.8771|           0.8919|        0.1527|         0.2882|      0.0452|        0.0306|      0.0037| 90.0000|
-|/players/787242/evan-ndicka         |           1|         44.5059|           1.4732|        0.1513|         0.7139|      0.0465|        0.0306|      0.0276| 90.0000|
-|/players/982158/tuta                |           1|         47.0046|           1.8939|        0.1520|         0.4589|      0.0452|        0.0427|      0.0267| 90.0000|
-|/players/767716/aurelio-buta        |           3|         38.0511|           1.1876|        0.1023|         0.5555|      0.0118|        0.0136|      0.0942| 90.0000|
-|/players/621515/daichi-kamada       |           3|         37.5512|           1.9358|        0.6203|         1.4389|      0.1883|        0.1684|      0.0417| 83.4231|
-|/players/707970/djibril-sow         |           3|         43.0315|           2.0611|        0.1534|         0.5356|      0.0323|        0.0293|      0.0536| 82.7826|
-|/players/488298/philipp-max         |           3|         32.9886|           2.1737|        0.1440|         0.9125|      0.0157|        0.0120|      0.1643| 79.4286|
-|/players/958335/jesper-lindstrm     |           4|         15.5790|           0.8811|        0.6581|         2.2304|      0.2210|        0.2082|      0.0937| 75.2273|
-|/players/177714/mario-gtze          |           4|         39.8578|           0.9548|        0.4012|         0.8883|      0.1412|        0.1451|      0.1274| 90.0000|
-|/players/823825/randal-kolo-muani   |           5|         20.6030|           0.8597|        0.8813|         2.1704|      0.3159|        0.3604|      0.0744| 90.0000|
-|/players/269222/lucas-alario        |          NA|              NA|               NA|        0.1417|         0.3863|      0.0755|        0.0807|      0.0114| 14.7727|
-|/players/533775/rafael-santos-borre |          NA|              NA|               NA|        0.0828|         0.1829|      0.0375|        0.0455|      0.0220| 10.5714|
-|/players/563216/almamy-tour         |          NA|              NA|               NA|        0.0286|         0.0527|      0.0084|        0.0058|      0.0066|  7.2174|
-|/players/1171008/paxten-aaronson    |          NA|              NA|               NA|        0.0388|         0.1587|      0.0107|        0.0022|      0.0198|  6.5769|
+|/players/145550/kevin-trapp         |           0|         33.8800|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/767716/aurelio-buta        |           1|         42.2274|           2.0651|        0.1688|         0.3942|      0.0074|        0.0087|      0.0652| 90.0000|
+|/players/787242/evan-ndicka         |           1|         48.8814|           1.1475|        0.0750|         0.5257|      0.0536|        0.0300|      0.0101| 90.0000|
+|/players/982158/tuta                |           1|         51.6258|           1.4752|        0.0753|         0.3379|      0.0522|        0.0418|      0.0097| 90.0000|
+|/players/488298/philipp-max         |           1|         40.1967|           1.3931|        0.2047|         0.7028|      0.0578|        0.0619|      0.1188| 85.1765|
+|/players/621515/daichi-kamada       |           3|         37.1698|           1.7256|        0.5645|         1.3185|      0.1775|        0.1890|      0.0712| 83.4231|
+|/players/643448/kristijan-jakic     |           3|         39.4548|           1.8353|        0.2152|         1.3236|      0.0640|        0.0248|      0.0760| 90.0000|
+|/players/707970/djibril-sow         |           3|         42.5944|           1.8373|        0.1396|         0.4908|      0.0304|        0.0329|      0.0916| 82.7826|
+|/players/958335/jesper-lindstrm     |           5|         11.2784|           0.9026|        0.6084|         2.3575|      0.2338|        0.3367|      0.0654| 75.8333|
+|/players/823825/randal-kolo-muani   |           5|         12.3005|           0.6476|        0.7509|         1.8184|      0.2869|        0.2046|      0.0516| 90.0000|
+|/players/177714/mario-gtze          |           5|         47.0940|           1.5742|        0.7641|         1.3878|      0.1928|        0.1487|      0.1987| 90.0000|
+|/players/269222/lucas-alario        |           0|              NA|               NA|        0.1471|         0.4196|      0.0778|        0.0635|      0.0128| 14.1667|
+|/players/533775/rafael-santos-borre |           0|              NA|               NA|        0.0612|         0.1414|      0.0275|        0.0255|      0.0176|  7.2174|
+|/players/563216/almamy-tour         |           0|              NA|               NA|        0.0283|         0.0544|      0.0082|        0.0044|      0.0070|  6.5769|
+|/players/450974/christopher-lenz    |           0|              NA|               NA|        0.0000|         0.0153|      0.0005|        0.0000|      0.0079|  4.8235|
 
 
 |manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Napoli:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                                   | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/900433/khvicha-kvaratskhelia      |           5|         31.7568|           1.3796|        0.7200|         2.1265|      0.2238|        0.3197|      0.1796| 75.7333|
-|/players/687681/victor-osimhen             |           5|         17.6988|           0.4219|        1.1930|         2.3474|      0.4718|        0.5066|      0.0637| 90.0000|
-|/players/521210/hirving-lozano             |           5|         26.7772|           0.7267|        0.6710|         1.6630|      0.2476|        0.1389|      0.1118| 75.2308|
-|/players/362212/piotr-zielinski            |           3|         40.4375|           0.6540|        0.5604|         1.5339|      0.1578|        0.1545|      0.1621| 77.6349|
-|/players/308517/stanislav-lobotka          |           3|         57.0187|           2.4526|        0.0640|         0.3387|      0.0127|        0.0154|      0.0220| 83.4583|
-|/players/612863/andre-frank-zambo-anguissa |           3|         52.1539|           2.4435|        0.2351|         0.8912|      0.0863|        0.0395|      0.0671| 90.0000|
-|/players/282731/mario-rui                  |           1|         66.3160|           2.1632|        0.1472|         0.7460|      0.0432|        0.0216|      0.1437| 90.0000|
-|/players/828159/min-jae-kim                |           1|         63.6034|           1.3863|        0.0308|         0.1754|      0.0138|        0.0085|      0.0137| 90.0000|
-|/players/544693/amir-rrahmani              |           1|         55.4306|           1.2579|        0.2299|         0.5187|      0.0820|        0.0662|      0.0104| 90.0000|
-|/players/414906/giovanni-di-lorenzo        |           1|         57.7100|           1.8184|        0.1097|         0.3868|      0.0497|        0.0579|      0.1107| 90.0000|
-|/players/577912/alex-meret                 |           0|         28.1093|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/741049/eljif-elmas                |          NA|              NA|               NA|        0.0718|         0.1810|      0.0399|        0.0389|      0.0155| 14.7692|
-|/players/415539/matteo-politano            |          NA|              NA|               NA|        0.0705|         0.3329|      0.0565|        0.0511|      0.0329| 14.2667|
-|/players/773189/tanguy-ndomblé             |          NA|              NA|               NA|        0.0717|         0.1553|      0.0333|        0.0285|      0.0156| 12.3651|
-|/players/469615/giovanni-simeone           |          NA|              NA|               NA|        0.1245|         0.1525|      0.0428|        0.0527|      0.0107|  6.5417|
+|/players/900433/khvicha-kvaratskhelia      |           5|         32.3169|           1.5844|        0.6921|         2.0786|      0.2072|        0.2878|      0.1896| 75.7333|
+|/players/687681/victor-osimhen             |           5|         18.0109|           0.4845|        1.1468|         2.2945|      0.4369|        0.4560|      0.0673| 90.0000|
+|/players/521210/hirving-lozano             |           5|         27.2494|           0.8346|        0.6450|         1.6256|      0.2293|        0.1250|      0.1180| 75.2308|
+|/players/362212/piotr-zielinski            |           3|         39.7583|           0.6409|        0.6859|         1.8235|      0.2002|        0.2214|      0.2005| 77.6349|
+|/players/308517/stanislav-lobotka          |           3|         56.0610|           2.4034|        0.0783|         0.4026|      0.0161|        0.0221|      0.0273| 83.4583|
+|/players/612863/andre-frank-zambo-anguissa |           3|         51.2779|           2.3945|        0.2877|         1.0595|      0.1096|        0.0566|      0.0830| 90.0000|
+|/players/729093/mathias-olivera            |           1|         36.7259|           2.7058|        0.0969|         0.6606|      0.0629|        0.0040|      0.0882| 90.0000|
+|/players/828159/min-jae-kim                |           1|         69.7817|           1.2087|        0.0440|         0.2443|      0.0164|        0.0130|      0.0192| 90.0000|
+|/players/544693/amir-rrahmani              |           1|         60.8150|           1.0968|        0.3286|         0.7224|      0.0973|        0.1011|      0.0147| 90.0000|
+|/players/414906/giovanni-di-lorenzo        |           1|         63.3158|           1.5855|        0.1569|         0.5388|      0.0589|        0.0883|      0.1557| 90.0000|
+|/players/577912/alex-meret                 |           0|         28.7898|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/741049/eljif-elmas                |           0|              NA|               NA|        0.0586|         0.1492|      0.0327|        0.0271|      0.0119| 14.7692|
+|/players/415539/matteo-politano            |           0|              NA|               NA|        0.0575|         0.2745|      0.0463|        0.0355|      0.0253| 14.2667|
+|/players/773189/tanguy-ndomblé             |           0|              NA|               NA|        0.0585|         0.1280|      0.0273|        0.0198|      0.0120| 12.3651|
+|/players/469615/giovanni-simeone           |           0|              NA|               NA|        0.1016|         0.1258|      0.0351|        0.0366|      0.0082|  6.5417|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
