@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-20 12:52:51.150"
+[1] "Updated at 2023-02-20 16:36:12.139"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Millwall 1.3865 to Burnley 1.1269"
-[1] "Total: 2.5134"
-[1] "Millwall %: 43.3"
-[1] "Draw %: 26.25"
-[1] "Burnley %: 30.45"
+[1] "Score: Millwall 1.3942 to Burnley 1.1331"
+[1] "Total: 2.5273"
+[1] "Millwall %: 43.13"
+[1] "Draw %: 26.16"
+[1] "Burnley %: 30.71"
 [1] "--XG Model--"
-[1] "Score: Millwall 1.2592 to Burnley 1.1155"
-[1] "Total: 2.3747"
-[1] "Millwall %: 40.15"
-[1] "Draw %: 27.73"
-[1] "Burnley %: 32.12"
+[1] "Score: Millwall 1.1706 to Burnley 1.037"
+[1] "Total: 2.2076"
+[1] "Millwall %: 39.36"
+[1] "Draw %: 28.64"
+[1] "Burnley %: 32"
 [1] "--XGoT Model--"
-[1] "Score: Millwall 1.2638 to Burnley 1.1783"
-[1] "Total: 2.4421"
-[1] "Millwall %: 38.52"
-[1] "Draw %: 27.67"
-[1] "Burnley %: 33.81"
+[1] "Score: Millwall 1.225 to Burnley 1.1421"
+[1] "Total: 2.3671"
+[1] "Millwall %: 38.31"
+[1] "Draw %: 28.44"
+[1] "Burnley %: 33.25"
 [1] "--XA Model--"
-[1] "Score: Millwall 1.2871 to Burnley 1.1336"
-[1] "Total: 2.4207"
-[1] "Millwall %: 40.5"
-[1] "Draw %: 27.38"
-[1] "Burnley %: 32.12"
+[1] "Score: Millwall 1.2316 to Burnley 1.0848"
+[1] "Total: 2.3164"
+[1] "Millwall %: 40.44"
+[1] "Draw %: 27.97"
+[1] "Burnley %: 31.59"
 [1] "--Mean 4 Models--"
-[1] "Millwall has a mean win % of 40.62%; a min win % of 38.52%; a max win % of 43.3%."
-[1] "Draw has a mean win % of 27.26%; a min win % of 26.25%; a max win % of 27.73%."
-[1] "Burnley has a mean win % of 32.12%; a min win % of 30.45%; a max win of % 33.81%."
-[1] "Millwall has a mean win of the Double Chance of 67.88%; a min win % of 66.19%, a max win % of 69.55%."
-[1] "Burnley has a mean win of the Double Chance of 59.38%; a min win % of 56.7%, a max win % of 61.48%."
-[1] "The mean likelihood that there are more than 2.5 goals is 42.8%; max % is 44.76 and min % is 40.89%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 57.2%; max % is 59.11 and min % is 55.24%."
+[1] "Millwall has a mean win % of 40.31%; a min win % of 38.31%; a max win % of 43.13%."
+[1] "Draw has a mean win % of 27.8%; a min win % of 26.16%; a max win % of 28.64%."
+[1] "Burnley has a mean win % of 31.89%; a min win % of 30.71%; a max win of % 33.25%."
+[1] "Millwall has a mean win of the Double Chance of 68.11%; a min win % of 66.75%, a max win % of 69.29%."
+[1] "Burnley has a mean win of the Double Chance of 59.69%; a min win % of 56.87%, a max win % of 61.69%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.91%; max % is 45.22 and min % is 37.43%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.09%; max % is 62.57 and min % is 54.78%."
 [1] "--Sportsbook Odds--"
 [1] "Millwall Barstool Odds are: 33.9"
 [1] "The Barstool Odds of a Draw are: 31.75"
@@ -40,49 +40,48 @@
 [1] "Millwall Adjusted Barstool Odds are: 31.588"
 [1] "The Adjusted Barstool Odds of a Draw are: 29.584"
 [1] "Burnley Adjusted Barstool Odds are: 38.828"
-[1] "Millwall's Barstool Odds to cover the 0.25 spread are: 57.14"
-[1] "Burnley's Barstool Odds to cover the -0.25 spread are: 47.62"
-[1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84% chance of the over 2.5 hitting. The line for the under is 1.67, which is a 59.88% chance of the under 2.5 hitting."
+[1] "Millwall's Barstool Odds to cover the -0.5 spread are: 33.33"
+[1] "Burnley's Barstool Odds to cover the 0.5 spread are: 71.43"
+[1] "Barstool's line for the total is 2.5 at 2.38, which is a 42.02% chance of the over 2.5 hitting. The line for the under is 1.58, which is a 63.29% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-           bet           date_time
-1     Millwall 2023-02-21 11:45:00
-2 Millwall ATS 2023-02-21 11:45:00
+       bet           date_time
+1 Millwall 2023-02-21 11:45:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                              |team     | expected_attg| expected_gs|bet |
 |:-------------------------------------|:--------|-------------:|-----------:|:---|
 |/players/31920/bartosz-bialkowski     |Millwall |      0.000000|   0.3125000|    |
-|/players/1017196/dan-mcnamara         |Millwall |      0.033700|   0.0400000|    |
-|/players/568577/jake-cooper           |Millwall |      0.066075|   0.1000000|    |
-|/players/254473/murray-wallace        |Millwall |      0.032150|   0.0714286|    |
-|/players/230907/andreas-voglsammer    |Millwall |      0.019775|   0.2127660|    |
-|/players/417067/george-saville        |Millwall |      0.132750|   0.1176471|    |
-|/players/171084/scott-malone          |Millwall |      0.095175|   0.1666667|    |
-|/players/1045656/billy-mitchell       |Millwall |      0.028525|   0.0952381|    |
-|/players/873559/zian-flemming         |Millwall |      0.204950|   0.2439024|    |
-|/players/520230/duncan-watmore        |Millwall |      0.111300|   0.1818182|    |
-|/players/169225/tom-bradshaw          |Millwall |      0.308175|   0.3030303|    |
+|/players/1017196/dan-mcnamara         |Millwall |      0.032325|   0.0400000|    |
+|/players/568577/jake-cooper           |Millwall |      0.064875|   0.1000000|    |
+|/players/254473/murray-wallace        |Millwall |      0.032375|   0.0714286|    |
+|/players/230907/andreas-voglsammer    |Millwall |      0.018300|   0.2127660|    |
+|/players/417067/george-saville        |Millwall |      0.129875|   0.1176471|    |
+|/players/171084/scott-malone          |Millwall |      0.091975|   0.1666667|    |
+|/players/1045656/billy-mitchell       |Millwall |      0.027850|   0.0952381|    |
+|/players/873559/zian-flemming         |Millwall |      0.196550|   0.2439024|    |
+|/players/520230/duncan-watmore        |Millwall |      0.110375|   0.1818182|    |
+|/players/169225/tom-bradshaw          |Millwall |      0.302825|   0.3030303|    |
 |/players/760752/arijanet-muric        |Burnley  |      0.000000|   0.0526316|    |
-|/players/289137/charlie-taylor        |Burnley  |      0.003475|   0.0625000|    |
-|/players/831044/hjalmar-ekdal         |Burnley  |      0.068525|   0.1176471|    |
-|/players/484878/connor-roberts        |Burnley  |      0.062475|   0.0909091|    |
-|/players/966021/taylor-harwood-bellis |Burnley  |      0.025575|   0.0909091|    |
-|/players/46008/jack-cork              |Burnley  |      0.022650|   0.0769231|    |
-|/players/623716/josh-cullen           |Burnley  |      0.070450|   0.0769231|    |
-|/players/494597/josh-brownhill        |Burnley  |      0.109850|   0.2000000|    |
-|/players/881500/lyle-foster           |Burnley  |      0.200500|   0.3125000|    |
-|/players/109491/jay-rodriguez         |Burnley  |      0.094875|   0.3333333|    |
-|/players/817720/michael-obafemi       |Burnley  |      0.248900|   0.2564103|    |
-|/players/609504/oliver-burke          |Millwall |      0.043000|   0.2631579|    |
+|/players/289137/charlie-taylor        |Burnley  |      0.003175|   0.0625000|    |
+|/players/831044/hjalmar-ekdal         |Burnley  |      0.064900|   0.1176471|    |
+|/players/484878/connor-roberts        |Burnley  |      0.060750|   0.0952381|    |
+|/players/966021/taylor-harwood-bellis |Burnley  |      0.025000|   0.0952381|    |
+|/players/46008/jack-cork              |Burnley  |      0.020850|   0.0833333|    |
+|/players/623716/josh-cullen           |Burnley  |      0.069550|   0.0833333|    |
+|/players/494597/josh-brownhill        |Burnley  |      0.106925|   0.2083333|    |
+|/players/881500/lyle-foster           |Burnley  |      0.196925|   0.3225806|    |
+|/players/109491/jay-rodriguez         |Burnley  |      0.089825|   0.3448276|    |
+|/players/817720/michael-obafemi       |Burnley  |      0.241450|   0.2631579|    |
+|/players/609504/oliver-burke          |Millwall |      0.041925|   0.2631579|    |
 |/players/401933/george-evans          |Millwall |      0.000000|   0.0909091|    |
 |/players/617219/george-honeyman       |Millwall |      0.000000|   0.1724138|    |
-|/players/1186444/charlie-cresswell    |Millwall |      0.034825|   0.0833333|    |
-|/players/536457/manuel-benson         |Burnley  |      0.014325|   0.1250000|    |
-|/players/1069536/anass-zaroury        |Burnley  |      0.037125|   0.2631579|    |
-|/players/107280/ashley-barnes         |Burnley  |      0.006400|   0.3225806|    |
-|/players/559077/samuel-bastien        |Burnley  |      0.007300|   0.2000000|    |
+|/players/1186444/charlie-cresswell    |Millwall |      0.033650|   0.0833333|    |
+|/players/536457/manuel-benson         |Burnley  |      0.013900|   0.1250000|    |
+|/players/1069536/anass-zaroury        |Burnley  |      0.035275|   0.2702703|    |
+|/players/107280/ashley-barnes         |Burnley  |      0.006650|   0.3333333|    |
+|/players/559077/samuel-bastien        |Burnley  |      0.007150|   0.2083333|    |
 ____________________________________________________
 
 [1] "Facts about Millwall:"
