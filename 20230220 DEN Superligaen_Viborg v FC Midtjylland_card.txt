@@ -1,87 +1,42 @@
-[1] "Updated at 2023-02-20 09:46:51.078"
+[1] "Updated at 2023-02-20 16:48:42.628"
 [1] "_____________________________________________________________________"
-[1] "-----Model Predictions Below-----"
-[1] "--Pass/Shot Model--"
-[1] "Score: Viborg 1.2118 to FC Midtjylland 0.9711"
-[1] "Total: 2.1829"
-[1] "Viborg %: 41.96"
-[1] "Draw %: 29.02"
-[1] "FC Midtjylland %: 29.02"
-[1] "--XG Model--"
-[1] "Score: Viborg 1.1877 to FC Midtjylland 0.9252"
-[1] "Total: 2.1129"
-[1] "Viborg %: 42.4"
-[1] "Draw %: 29.38"
-[1] "FC Midtjylland %: 28.22"
-[1] "--XGoT Model--"
-[1] "Score: Viborg 1.15 to FC Midtjylland 0.9584"
-[1] "Total: 2.1084"
-[1] "Viborg %: 40.52"
-[1] "Draw %: 29.33"
-[1] "FC Midtjylland %: 30.15"
-[1] "--XA Model--"
-[1] "Score: Viborg 1.2204 to FC Midtjylland 1.0469"
-[1] "Total: 2.2673"
-[1] "Viborg %: 40.4"
-[1] "Draw %: 28.56"
-[1] "FC Midtjylland %: 31.04"
-[1] "--Mean 4 Models--"
-[1] "Viborg has a mean win % of 41.32%; a min win % of 40.4%; a max win % of 42.4%."
-[1] "Draw has a mean win % of 29.07%; a min win % of 28.56%; a max win % of 29.38%."
-[1] "FC Midtjylland has a mean win % of 29.61%; a min win % of 28.22%; a max win of % 31.04%."
-[1] "Viborg has a mean win of the Double Chance of 70.39%; a min win % of 68.96%, a max win % of 71.78%."
-[1] "FC Midtjylland has a mean win of the Double Chance of 58.68%; a min win % of 57.6%, a max win % of 59.6%."
-[1] "The mean likelihood that there are more than 2.5 goals is 36.17%; max % is 38.38 and min % is 34.7%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 63.83%; max % is 65.3 and min % is 61.62%."
-[1] "--Sportsbook Odds--"
-[1] "Viborg Barstool Odds are: 42.11"
-[1] "The Barstool Odds of a Draw are: 31.75"
-[1] "FC Midtjylland Barstool Odds are: 31.75"
-[1] "Viborg Adjusted Barstool Odds are: 39.873"
-[1] "The Adjusted Barstool Odds of a Draw are: 30.063"
-[1] "FC Midtjylland Adjusted Barstool Odds are: 30.063"
-[1] "Viborg's Barstool Odds to cover the 0 spread are: 59.52"
-[1] "FC Midtjylland's Barstool Odds to cover the 0 spread are: 44.44"
-[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
-[1] "-------------------------------------------------------------------------"
-[1] "_____________________________________________________________________________________________________________________________"
-                          bet           date_time
-1 under Viborg/FC Midtjylland 2023-02-20 10:00:00
+  bet           date_time
+1     2023-02-20 10:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                                     |team           | expected_attg| expected_gs|bet |
 |:--------------------------------------------|:--------------|-------------:|-----------:|:---|
-|/players/952304/lucas-lund-pedersen          |Viborg         |      0.000000|   0.2500000|    |
-|/players/1329665/anton-gaaei                 |Viborg         |      0.013200|   0.0625000|    |
-|/players/1050895/zan-zaletel                 |Viborg         |      0.104300|   0.0526316|*   |
-|/players/558707/nicolas-brgy                 |Viborg         |      0.010700|   0.0526316|    |
-|/players/754437/daniel-anyembe               |Viborg         |      0.014300|   0.0625000|    |
-|/players/561619/clint-leemans                |Viborg         |      0.105875|   0.2325581|    |
-|/players/165547/jeppe-grnning                |Viborg         |      0.009800|   0.1333333|    |
-|/players/288832/jakob-bonde                  |Viborg         |      0.126125|   0.1818182|    |
-|/players/1015128/elias-achouri               |Viborg         |      0.199050|   0.1538462|    |
-|/players/1033167/alassana-jatta              |Viborg         |      0.228400|   0.2857143|    |
-|/players/1109045/ibrahim-said                |Viborg         |      0.169975|   0.2127660|    |
-|/players/1126769/aral-simsir                 |FC Midtjylland |      0.128250|   0.2380952|    |
-|/players/578187/kristoffer-olsson            |FC Midtjylland |      0.046500|   0.1176471|    |
-|/players/1016093/gustav-isaksen              |FC Midtjylland |      0.287575|   0.2500000|    |
-|/players/979376/emam-ashour                  |FC Midtjylland |      0.069100|   0.1538462|    |
-|/players/1137909/emiliano-martinez           |FC Midtjylland |      0.067825|   0.1176471|    |
-|/players/1097009/oliver-srensen              |FC Midtjylland |      0.063450|   0.1428571|    |
-|/players/891678/paulinho                     |FC Midtjylland |      0.011675|   0.0666667|    |
-|/players/395651/stefan-gartenmann            |FC Midtjylland |      0.018700|   0.0588235|    |
-|/players/166471/erik-sviatchenko             |FC Midtjylland |      0.036100|   0.0952381|    |
-|/players/614167/joel-andersson               |FC Midtjylland |      0.058375|   0.0833333|    |
-|/players/120598/jonas-lssl                   |FC Midtjylland |      0.000000|   0.1111111|    |
-|/players/1034139/oliver-bundgaard-kristensen |Viborg         |      0.000000|   0.0000000|    |
-|/players/1169301/sofus-berger                |Viborg         |      0.054525|   0.0000000|*   |
-|/players/1179673/mads-sndergaard             |Viborg         |      0.000000|   0.0000000|    |
-|/players/935552/magnus-westergaard           |Viborg         |      0.000000|   0.0000000|    |
-|/players/775266/charles                      |FC Midtjylland |      0.007725|   0.0000000|    |
-|/players/848296/edward-chilufya              |FC Midtjylland |      0.032850|   0.0000000|    |
-|/players/467648/mads-dhr-thychosen           |FC Midtjylland |      0.000000|   0.0000000|    |
-|/players/658261/juninho                      |FC Midtjylland |      0.005525|   0.0000000|    |
+|/players/952304/lucas-lund-pedersen          |Viborg         |            NA|   0.2702703|NA  |
+|/players/1329665/anton-gaaei                 |Viborg         |            NA|   0.2380952|NA  |
+|/players/558707/nicolas-brgy                 |Viborg         |            NA|   0.0500000|NA  |
+|/players/1050895/zan-zaletel                 |Viborg         |            NA|   0.0769231|NA  |
+|/players/754437/daniel-anyembe               |Viborg         |            NA|   0.1250000|NA  |
+|/players/561619/clint-leemans                |Viborg         |            NA|   0.2439024|NA  |
+|/players/165547/jeppe-grnning                |Viborg         |            NA|   0.1250000|NA  |
+|/players/288832/jakob-bonde                  |Viborg         |            NA|   0.2777778|NA  |
+|/players/1109045/ibrahim-said                |Viborg         |            NA|   0.2083333|NA  |
+|/players/1033167/alassana-jatta              |Viborg         |            NA|   0.0625000|NA  |
+|/players/1015128/elias-achouri               |Viborg         |            NA|   0.0588235|NA  |
+|/players/1126769/aral-simsir                 |FC Midtjylland |            NA|   0.4347826|NA  |
+|/players/578187/kristoffer-olsson            |FC Midtjylland |            NA|   0.2777778|NA  |
+|/players/1016093/gustav-isaksen              |FC Midtjylland |            NA|   0.1052632|NA  |
+|/players/979376/emam-ashour                  |FC Midtjylland |            NA|   0.0833333|NA  |
+|/players/1137909/emiliano-martinez           |FC Midtjylland |            NA|   0.1052632|NA  |
+|/players/1097009/oliver-srensen              |FC Midtjylland |            NA|   0.2631579|NA  |
+|/players/891678/paulinho                     |FC Midtjylland |            NA|   0.1666667|NA  |
+|/players/166471/erik-sviatchenko             |FC Midtjylland |            NA|   0.4081633|NA  |
+|/players/395651/stefan-gartenmann            |FC Midtjylland |            NA|   0.1052632|NA  |
+|/players/614167/joel-andersson               |FC Midtjylland |            NA|   0.0714286|NA  |
+|/players/120598/jonas-lssl                   |FC Midtjylland |            NA|   0.1538462|NA  |
+|/players/1034139/oliver-bundgaard-kristensen |Viborg         |            NA|   0.0000000|NA  |
+|/players/1169301/sofus-berger                |Viborg         |            NA|   0.0000000|NA  |
+|/players/1179673/mads-sndergaard             |Viborg         |            NA|   0.0000000|NA  |
+|/players/935552/magnus-westergaard           |Viborg         |            NA|   0.0000000|NA  |
+|/players/775266/charles                      |FC Midtjylland |            NA|   0.0000000|NA  |
+|/players/848296/edward-chilufya              |FC Midtjylland |            NA|   0.0000000|NA  |
+|/players/467648/mads-dhr-thychosen           |FC Midtjylland |            NA|   0.0000000|NA  |
+|/players/658261/juninho                      |FC Midtjylland |            NA|   0.0000000|NA  |
 ____________________________________________________
 
 [1] "Facts about Viborg:"
@@ -90,21 +45,21 @@ ____________________________________________________
 
 |pageUrl2                                     | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/952304/lucas-lund-pedersen          |           0|         30.7809|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  90.000|
-|/players/1329665/anton-gaaei                 |           1|         39.7594|           3.0118|        0.1807|         0.8373|      0.0538|        0.0152|      0.1803|  90.000|
-|/players/1050895/zan-zaletel                 |           1|         66.4149|           1.4478|        0.2977|         0.8625|      0.0991|        0.1255|      0.0027|  90.000|
-|/players/558707/nicolas-brgy                 |           1|         65.4815|           1.3206|        0.0905|         0.6294|      0.0574|        0.0138|      0.0332|  90.000|
-|/players/754437/daniel-anyembe               |           1|         45.3616|           1.3244|        0.0905|         0.0920|      0.0067|        0.0138|      0.0719|  90.000|
-|/players/561619/clint-leemans                |           3|         41.9128|           0.9629|        0.4116|         1.3372|      0.1411|        0.1297|      0.1589|  76.875|
-|/players/165547/jeppe-grnning                |           3|         48.5302|           3.8523|        0.1885|         0.4737|      0.0311|        0.0113|      0.0200|  90.000|
-|/players/288832/jakob-bonde                  |           3|         49.8022|           1.5638|        0.5411|         1.9227|      0.1662|        0.1518|      0.1377|  90.000|
-|/players/1015128/elias-achouri               |           5|         35.8205|           1.2760|        0.7000|         2.2469|      0.1306|        0.2565|      0.1385|  83.000|
-|/players/1033167/alassana-jatta              |           5|         11.9402|           1.0673|        1.1091|         2.2469|      0.3337|        0.2947|      0.1321|  80.000|
-|/players/1109045/ibrahim-said                |           5|         23.7145|           0.8772|        0.5545|         1.6851|      0.3173|        0.2032|      0.1086|  65.750|
-|/players/1034139/oliver-bundgaard-kristensen |           0|              NA|               NA|        0.0000|         0.1171|      0.0311|        0.0000|      0.0283|  24.250|
-|/players/1169301/sofus-berger                |           0|              NA|               NA|        0.2862|         0.3314|      0.0295|        0.0668|      0.0081|  13.125|
-|/players/1179673/mads-sndergaard             |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0273|  10.000|
-|/players/935552/magnus-westergaard           |           0|              NA|               NA|        0.0000|         0.0707|      0.0012|        0.0000|      0.0018|   7.000|
+|/players/952304/lucas-lund-pedersen          |           0|         27.5743|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  90.000|
+|/players/1329665/anton-gaaei                 |           1|         35.6175|           2.6530|        0.1618|         0.7498|      0.0482|        0.0136|      0.1616|  90.000|
+|/players/558707/nicolas-brgy                 |           1|         58.6600|           1.1633|        0.0811|         0.5636|      0.0514|        0.0123|      0.0298|  90.000|
+|/players/1050895/zan-zaletel                 |           1|         59.4962|           1.2753|        0.2666|         0.7724|      0.0887|        0.1122|      0.0024|  90.000|
+|/players/754437/daniel-anyembe               |           1|         40.6361|           1.1666|        0.0811|         0.0824|      0.0060|        0.0123|      0.0644|  90.000|
+|/players/561619/clint-leemans                |           3|         37.5466|           0.8482|        0.3686|         1.1974|      0.1263|        0.1159|      0.1425|  76.875|
+|/players/165547/jeppe-grnning                |           3|         43.4746|           3.3934|        0.1688|         0.4241|      0.0278|        0.0101|      0.0180|  90.000|
+|/players/288832/jakob-bonde                  |           3|         44.6140|           1.3775|        0.4845|         1.7217|      0.1487|        0.1357|      0.1234|  90.000|
+|/players/1109045/ibrahim-said                |           5|         21.2441|           0.7727|        0.4966|         1.5090|      0.2841|        0.1816|      0.0973|  65.750|
+|/players/1033167/alassana-jatta              |           5|         10.6963|           0.9402|        0.9932|         2.0120|      0.2987|        0.2634|      0.1184|  80.000|
+|/players/1015128/elias-achouri               |           5|         32.0889|           1.1240|        0.6269|         2.0120|      0.1169|        0.2293|      0.1241|  83.000|
+|/players/1034139/oliver-bundgaard-kristensen |           0|              NA|               NA|        0.0000|         0.0944|      0.0250|        0.0000|      0.0229|  24.250|
+|/players/1169301/sofus-berger                |           0|              NA|               NA|        0.2303|         0.2671|      0.0238|        0.0534|      0.0065|  13.125|
+|/players/1179673/mads-sndergaard             |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0220|  10.000|
+|/players/935552/magnus-westergaard           |           0|              NA|               NA|        0.0000|         0.0570|      0.0009|        0.0000|      0.0015|   7.000|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -118,21 +73,21 @@ ____________________________________________________
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/1126769/aral-simsir       |           5|         15.1643|           0.6554|        0.3868|         1.7370|      0.1357|        0.1583|      0.0959| 77.0000|
-|/players/578187/kristoffer-olsson  |           5|         39.2432|           1.6647|        0.2233|         0.7688|      0.0604|        0.0581|      0.0782| 90.0000|
-|/players/1016093/gustav-isaksen    |           5|         10.7603|           0.3787|        1.2893|         2.3545|      0.4047|        0.4063|      0.1036| 75.4000|
-|/players/979376/emam-ashour        |           3|         51.7533|           2.1799|        0.6066|         1.7519|      0.0883|        0.0867|      0.0832| 90.0000|
-|/players/1137909/emiliano-martinez |           3|         43.2433|           2.4020|        0.1930|         0.5947|      0.0883|        0.0867|      0.0832| 90.0000|
-|/players/1097009/oliver-srensen    |           3|         25.7230|           0.3220|        0.1323|         0.6112|      0.0801|        0.0786|      0.0755| 81.6250|
-|/players/891678/paulinho           |           1|         37.1966|           1.3379|        0.0939|         0.4079|      0.0309|        0.0179|      0.0681| 81.3889|
-|/players/395651/stefan-gartenmann  |           1|         51.9606|           1.1135|        0.0925|         0.3827|      0.0332|        0.0241|      0.0262| 90.0000|
-|/players/166471/erik-sviatchenko   |           1|         48.0405|           1.2187|        0.2409|         0.8210|      0.0729|        0.0445|      0.0290| 90.0000|
-|/players/614167/joel-andersson     |           1|         38.8931|           1.8126|        0.0686|         0.1420|      0.0317|        0.0695|      0.0700| 90.0000|
-|/players/120598/jonas-lssl         |           0|         30.0351|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/775266/charles            |           0|              NA|               NA|        0.0828|         0.1625|      0.0130|        0.0087|      0.0122| 14.6000|
-|/players/848296/edward-chilufya    |           0|              NA|               NA|        0.1138|         0.1985|      0.0320|        0.0407|      0.0307| 13.0000|
+|/players/1126769/aral-simsir       |           5|         17.0545|           0.7494|        0.4353|         1.9549|      0.1528|        0.1780|      0.1080| 77.0000|
+|/players/578187/kristoffer-olsson  |           5|         44.1348|           1.9034|        0.2513|         0.8652|      0.0680|        0.0653|      0.0881| 90.0000|
+|/players/1016093/gustav-isaksen    |           5|         12.1015|           0.4330|        1.4509|         2.6500|      0.4557|        0.4568|      0.1167| 75.4000|
+|/players/979376/emam-ashour        |           3|         58.2041|           2.4925|        0.6826|         1.9717|      0.0994|        0.0974|      0.0938| 90.0000|
+|/players/1137909/emiliano-martinez |           3|         48.6335|           2.7464|        0.2172|         0.6693|      0.0994|        0.0974|      0.0938| 90.0000|
+|/players/1097009/oliver-srensen    |           3|         28.9293|           0.3682|        0.1488|         0.6879|      0.0902|        0.0884|      0.0851| 81.6250|
+|/players/891678/paulinho           |           1|         41.8330|           1.5298|        0.1056|         0.4591|      0.0348|        0.0201|      0.0767| 81.3889|
+|/players/166471/erik-sviatchenko   |           1|         54.0286|           1.3934|        0.2710|         0.9240|      0.0821|        0.0501|      0.0327| 90.0000|
+|/players/395651/stefan-gartenmann  |           1|         58.4373|           1.2731|        0.1041|         0.4307|      0.0374|        0.0271|      0.0296| 90.0000|
+|/players/614167/joel-andersson     |           1|         43.7410|           2.0725|        0.0772|         0.1598|      0.0357|        0.0782|      0.0788| 90.0000|
+|/players/120598/jonas-lssl         |           0|         33.7788|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/775266/charles            |           0|              NA|               NA|        0.0838|         0.1647|      0.0131|        0.0088|      0.0124| 14.6000|
+|/players/848296/edward-chilufya    |           0|              NA|               NA|        0.1151|         0.2011|      0.0324|        0.0409|      0.0312| 13.0000|
 |/players/467648/mads-dhr-thychosen |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0040|  8.6111|
-|/players/658261/juninho            |           0|              NA|               NA|        0.0320|         0.0419|      0.0025|        0.0072|      0.0005|  8.3750|
+|/players/658261/juninho            |           0|              NA|               NA|        0.0324|         0.0424|      0.0025|        0.0072|      0.0005|  8.3750|
 
 
 |manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
