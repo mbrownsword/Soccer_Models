@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-21 13:17:32.577"
+[1] "Updated at 2023-02-21 14:23:42.28"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,21 +34,36 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 50.02%; max % is 52.84 and min % is 47.59%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 49.98%; max % is 52.41 and min % is 47.16%."
 [1] "--Sportsbook Odds--"
-[1] "RB Leipzig Barstool Odds are: 25"
+[1] "RB Leipzig Barstool Odds are: 23.81"
 [1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Manchester City Barstool Odds are: 53.19"
-[1] "RB Leipzig Adjusted Barstool Odds are: 23.592"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.215"
-[1] "Manchester City Adjusted Barstool Odds are: 50.193"
+[1] "Manchester City Barstool Odds are: 52.63"
+[1] "RB Leipzig Adjusted Barstool Odds are: 22.846"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.655"
+[1] "Manchester City Adjusted Barstool Odds are: 50.499"
 [1] "RB Leipzig's Barstool Odds to cover the 0.5 spread are: 51.55"
 [1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 52.91"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.14, which is a 46.73% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14% chance of the over 2.5 hitting. The line for the under is 2.08, which is a 48.08% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                               bet           date_time
-1                       RB Leipzig 2023-02-22 12:00:00
-2 under RB Leipzig/Manchester City 2023-02-22 12:00:00
-3                   RB Leipzig ATS 2023-02-22 12:00:00
+             bet           date_time
+1     RB Leipzig 2023-02-22 12:00:00
+2 RB Leipzig ATS 2023-02-22 12:00:00
+
+
+|player         |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league            | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:--------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------------|-----------:|----------:|---------:|----------:|--------:|
+|Erling Haaland |MCI  |     11| 1.54|          NA|  0.8618|   0.2124|passes    |INT International |      0.6494|         NA|        NA|         NA|       NA|
+|Emil Forsberg  |RBL  |     25| 1.85|          NA|  0.7114|   0.1709|passes    |INT International |      0.5405|         NA|        NA|         NA|       NA|
+|Emil Forsberg  |RBL  |     21| 1.51|          NA|  0.9123|   0.2500|passes    |INT International |      0.6623|         NA|        NA|         NA|       NA|
+|Konrad Laimer  |RBL  |     34| 2.28|          NA|  0.9693|   0.5307|passes    |INT International |      0.4386|         NA|        NA|         NA|       NA|
+|Konrad Laimer  |RBL  |     38| 2.72|          NA|  0.8917|   0.5241|passes    |INT International |      0.3676|         NA|        NA|         NA|       NA|
+|Konrad Laimer  |RBL  |     42| 3.46|          NA|  0.7333|   0.4443|passes    |INT International |      0.2890|         NA|        NA|         NA|       NA|
+|Konrad Laimer  |RBL  |     26| 1.52|          NA|  0.9993|   0.3414|passes    |INT International |      0.6579|         NA|        NA|         NA|       NA|
+|Konrad Laimer  |RBL  |     30| 1.85|          NA|  0.9943|   0.4538|passes    |INT International |      0.5405|         NA|        NA|         NA|       NA|
+|Konrad Laimer  |RBL  |     46| 4.75|          NA|  0.5114|   0.3009|passes    |INT International |      0.2105|         NA|        NA|         NA|       NA|
+|Xaver Schlager |RBL  |     41| 1.88|          NA|  0.8100|   0.2781|passes    |INT International |      0.5319|         NA|        NA|         NA|       NA|
+|Xaver Schlager |RBL  |     45| 1.96|          NA|  0.6105|   0.1003|passes    |INT International |      0.5102|         NA|        NA|         NA|       NA|
+|Xaver Schlager |RBL  |     37| 1.37|          NA|  0.9324|   0.2025|passes    |INT International |      0.7299|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -61,9 +76,9 @@
 |/players/331535/marcel-halstenberg   |RB Leipzig      |      0.038375|   0.1250000|    |
 |/players/526827/konrad-laimer        |RB Leipzig      |      0.072150|   0.0714286|    |
 |/players/620027/xaver-schlager       |RB Leipzig      |      0.031600|   0.0952381|    |
-|/players/846005/dominik-szoboszlai   |RB Leipzig      |      0.173275|   0.2222222|    |
+|/players/846005/dominik-szoboszlai   |RB Leipzig      |      0.173275|   0.2173913|    |
 |/players/171980/emil-forsberg        |RB Leipzig      |      0.260700|   0.2040816|*   |
-|/players/450980/timo-werner          |RB Leipzig      |      0.039100|   0.2631579|    |
+|/players/450980/timo-werner          |RB Leipzig      |      0.039100|   0.2564103|    |
 |/players/388523/andr-silva           |RB Leipzig      |      0.266400|   0.2173913|    |
 |/players/312765/jack-grealish        |Manchester City |      0.107975|   0.1886792|    |
 |/players/737066/erling-braut-haaland |Manchester City |      0.402850|   0.5000000|    |
@@ -74,16 +89,16 @@
 |/players/417068/nathan-ak            |Manchester City |      0.018150|   0.0666667|    |
 |/players/521318/manuel-akanji        |Manchester City |      0.038225|   0.0555556|    |
 |/players/614006/ruben-dias           |Manchester City |      0.080650|   0.0555556|    |
-|/players/159833/kyle-walker          |Manchester City |      0.038700|   0.0344828|    |
+|/players/159833/kyle-walker          |Manchester City |      0.038700|   0.0357143|    |
 |/players/363364/ederson-moraes       |Manchester City |      0.000000|   0.0285714|    |
 |/players/681383/benjamin-henrichs    |RB Leipzig      |      0.017200|   0.1000000|    |
-|/players/688830/amadou-haidara       |RB Leipzig      |      0.003500|   0.0555556|    |
-|/players/266527/yussuf-poulsen       |RB Leipzig      |      0.013950|   0.2631579|    |
+|/players/688830/amadou-haidara       |RB Leipzig      |      0.003500|   0.0526316|    |
+|/players/266527/yussuf-poulsen       |RB Leipzig      |      0.013950|   0.2564103|    |
 |/players/526657/lukas-klostermann    |RB Leipzig      |      0.000000|   0.0344828|    |
 |/players/844477/sergio-gomez         |Manchester City |      0.004625|   0.0588235|    |
-|/players/169200/kevin-de-bruyne      |Manchester City |      0.009475|   0.2500000|    |
-|/players/815006/phil-foden           |Manchester City |      0.027775|   0.2631579|    |
-|/players/609755/kalvin-phillips      |Manchester City |      0.001575|   0.0588235|    |
+|/players/169200/kevin-de-bruyne      |Manchester City |      0.009475|   0.2564103|    |
+|/players/815006/phil-foden           |Manchester City |      0.027775|   0.2702703|    |
+|/players/609755/kalvin-phillips      |Manchester City |      0.001575|   0.0625000|    |
 ____________________________________________________
 
 [1] "Facts about RB Leipzig:"
