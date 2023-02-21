@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-20 16:17:01.730"
+[1] "Updated at 2023-02-20 16:34:28.920"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Blackburn 1.0339 to Blackpool 1.1009"
-[1] "Total: 2.1348"
-[1] "Blackburn %: 34.01"
-[1] "Draw %: 29.71"
-[1] "Blackpool %: 36.28"
+[1] "Score: Blackburn 1.1262 to Blackpool 0.9978"
+[1] "Total: 2.124"
+[1] "Blackburn %: 38.96"
+[1] "Draw %: 29.45"
+[1] "Blackpool %: 31.59"
 [1] "--XG Model--"
-[1] "Score: Blackburn 1.1501 to Blackpool 1.0159"
-[1] "Total: 2.166"
-[1] "Blackburn %: 39.38"
-[1] "Draw %: 29.21"
-[1] "Blackpool %: 31.41"
+[1] "Score: Blackburn 1.2754 to Blackpool 0.9031"
+[1] "Total: 2.1785"
+[1] "Blackburn %: 45.23"
+[1] "Draw %: 28.28"
+[1] "Blackpool %: 26.49"
 [1] "--XGoT Model--"
-[1] "Score: Blackburn 1.134 to Blackpool 1.0327"
-[1] "Total: 2.1667"
-[1] "Blackburn %: 38.25"
-[1] "Draw %: 29.36"
-[1] "Blackpool %: 32.39"
+[1] "Score: Blackburn 1.2468 to Blackpool 0.9311"
+[1] "Total: 2.1779"
+[1] "Blackburn %: 43.88"
+[1] "Draw %: 28.49"
+[1] "Blackpool %: 27.63"
 [1] "--XA Model--"
-[1] "Score: Blackburn 1.1456 to Blackpool 1.0905"
-[1] "Total: 2.2361"
-[1] "Blackburn %: 37.21"
-[1] "Draw %: 29.06"
-[1] "Blackpool %: 33.73"
+[1] "Score: Blackburn 1.2236 to Blackpool 1.0069"
+[1] "Total: 2.2305"
+[1] "Blackburn %: 41.32"
+[1] "Draw %: 28.82"
+[1] "Blackpool %: 29.86"
 [1] "--Mean 4 Models--"
-[1] "Blackburn has a mean win % of 37.21%; a min win % of 34.01%; a max win % of 39.38%."
-[1] "Draw has a mean win % of 29.34%; a min win % of 29.06%; a max win % of 29.71%."
-[1] "Blackpool has a mean win % of 33.45%; a min win % of 31.41%; a max win of % 36.28%."
-[1] "Blackburn has a mean win of the Double Chance of 66.55%; a min win % of 63.72%, a max win % of 68.59%."
-[1] "Blackpool has a mean win of the Double Chance of 62.79%; a min win % of 60.62%, a max win % of 65.99%."
-[1] "The mean likelihood that there are more than 2.5 goals is 36.58%; max % is 38.3 and min % is 35.55%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 63.42%; max % is 64.45 and min % is 61.7%."
+[1] "Blackburn has a mean win % of 42.35%; a min win % of 38.96%; a max win % of 45.23%."
+[1] "Draw has a mean win % of 28.76%; a min win % of 28.28%; a max win % of 29.45%."
+[1] "Blackpool has a mean win % of 28.89%; a min win % of 26.49%; a max win of % 31.59%."
+[1] "Blackburn has a mean win of the Double Chance of 71.11%; a min win % of 68.41%, a max win % of 73.51%."
+[1] "Blackpool has a mean win of the Double Chance of 57.65%; a min win % of 54.77%, a max win % of 61.04%."
+[1] "The mean likelihood that there are more than 2.5 goals is 36.45%; max % is 37.52 and min % is 35.11%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 63.55%; max % is 64.89 and min % is 62.48%."
 [1] "--Sportsbook Odds--"
 [1] "Blackburn Barstool Odds are: 51.28"
 [1] "The Barstool Odds of a Draw are: 28.57"
@@ -46,45 +46,43 @@
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                         bet           date_time
-1  draw Blackburn/Blackpool 2023-02-21 11:45:00
-2                 Blackpool 2023-02-21 11:45:00
-3 under Blackburn/Blackpool 2023-02-21 11:45:00
-4             Blackpool ATS 2023-02-21 11:45:00
+1 under Blackburn/Blackpool 2023-02-21 11:45:00
+2             Blackpool ATS 2023-02-21 11:45:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                         |team      | expected_attg| expected_gs|bet |
 |:--------------------------------|:---------|-------------:|-----------:|:---|
 |/players/807752/aynsley-pears    |Blackburn |      0.000000|   0.3333333|    |
-|/players/827247/harry-pickering  |Blackburn |      0.024225|   0.0526316|    |
-|/players/181379/daniel-ayala     |Blackburn |      0.014700|   0.1886792|    |
-|/players/694558/dominic-hyam     |Blackburn |      0.032400|   0.0952381|    |
-|/players/1030840/john-buckley    |Blackburn |      0.024200|   0.1428571|    |
-|/players/491827/sammie-szmodics  |Blackburn |      0.183325|   0.2777778|    |
-|/players/1113724/tyler-morton    |Blackburn |      0.024100|   0.0952381|    |
-|/players/611489/ryan-hedges      |Blackburn |      0.056125|   0.2222222|    |
-|/players/789556/lewis-travis     |Blackburn |      0.024350|   0.1785714|    |
-|/players/812982/sorba-thomas     |Blackburn |      0.072525|   0.1538462|    |
-|/players/502421/sam-gallagher    |Blackburn |      0.390925|   0.3125000|*   |
+|/players/827247/harry-pickering  |Blackburn |      0.026550|   0.0526316|    |
+|/players/181379/daniel-ayala     |Blackburn |      0.015925|   0.1886792|    |
+|/players/694558/dominic-hyam     |Blackburn |      0.037050|   0.0952381|    |
+|/players/1030840/john-buckley    |Blackburn |      0.024275|   0.1428571|    |
+|/players/491827/sammie-szmodics  |Blackburn |      0.192300|   0.2777778|    |
+|/players/1113724/tyler-morton    |Blackburn |      0.026800|   0.0952381|    |
+|/players/611489/ryan-hedges      |Blackburn |      0.060925|   0.2222222|    |
+|/players/789556/lewis-travis     |Blackburn |      0.028400|   0.1785714|    |
+|/players/812982/sorba-thomas     |Blackburn |      0.078350|   0.1538462|    |
+|/players/502421/sam-gallagher    |Blackburn |      0.411750|   0.3125000|*   |
 |/players/862590/daniel-grimshaw  |Blackpool |      0.000000|   0.1250000|    |
-|/players/719340/jordan-thorniley |Blackpool |      0.006600|   0.0370370|    |
-|/players/729449/callum-connolly  |Blackpool |      0.027225|   0.0555556|    |
-|/players/629786/marvin-ekpiteta  |Blackpool |      0.078750|   0.2631579|    |
-|/players/1229058/charlie-patino  |Blackpool |      0.076725|   0.0769231|    |
-|/players/673437/cj-hamilton      |Blackpool |      0.037300|   0.1666667|    |
-|/players/844937/josh-bowler      |Blackpool |      0.089150|   0.2222222|    |
-|/players/562884/kenneth-dougall  |Blackpool |      0.021925|   0.1000000|    |
-|/players/534394/jake-beesley     |Blackpool |      0.133175|   0.1000000|    |
-|/players/933798/beryly-lubala    |Blackpool |      0.141550|   0.1250000|    |
-|/players/115977/gary-madine      |Blackpool |      0.229025|   0.2439024|    |
-|/players/1181101/tyrhys-dolan    |Blackburn |      0.034825|   0.3030303|    |
-|/players/1124094/jack-vale       |Blackburn |      0.050300|   0.3125000|    |
+|/players/719340/jordan-thorniley |Blackpool |      0.006175|   0.0370370|    |
+|/players/729449/callum-connolly  |Blackpool |      0.024000|   0.0555556|    |
+|/players/629786/marvin-ekpiteta  |Blackpool |      0.072450|   0.2631579|    |
+|/players/1229058/charlie-patino  |Blackpool |      0.070100|   0.0769231|    |
+|/players/673437/cj-hamilton      |Blackpool |      0.032875|   0.1666667|    |
+|/players/844937/josh-bowler      |Blackpool |      0.081875|   0.2222222|    |
+|/players/562884/kenneth-dougall  |Blackpool |      0.019500|   0.1000000|    |
+|/players/534394/jake-beesley     |Blackpool |      0.120100|   0.1000000|    |
+|/players/933798/beryly-lubala    |Blackpool |      0.128375|   0.1250000|    |
+|/players/115977/gary-madine      |Blackpool |      0.208850|   0.2439024|    |
+|/players/1181101/tyrhys-dolan    |Blackburn |      0.037900|   0.3030303|    |
+|/players/1124094/jack-vale       |Blackburn |      0.059575|   0.3125000|    |
 |/players/640669/tayo-edun        |Blackburn |      0.000000|   0.1111111|    |
 |/players/716852/callum-brittain  |Blackburn |      0.000000|   0.1000000|    |
-|/players/652145/shayne-lavery    |Blackpool |      0.013675|   0.2272727|    |
+|/players/652145/shayne-lavery    |Blackpool |      0.013350|   0.2272727|    |
 |/players/962075/ian-poveda       |Blackpool |      0.000000|   0.2325581|    |
 |/players/1081081/sonny-carey     |Blackpool |      0.000000|   0.2083333|    |
-|/players/608535/jerry-yates      |Blackpool |      0.065450|   0.3125000|    |
+|/players/608535/jerry-yates      |Blackpool |      0.063050|   0.3125000|    |
 ____________________________________________________
 
 [1] "Facts about Blackburn:"
@@ -93,21 +91,21 @@ ____________________________________________________
 
 |pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/807752/aynsley-pears   |           0|         23.5686|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/827247/harry-pickering |           1|         50.2673|           1.8630|        0.1238|         0.5916|      0.0357|        0.0281|      0.0468| 90.0000|
-|/players/181379/daniel-ayala    |           1|         44.5506|           0.9943|        0.1131|         0.5005|      0.0320|        0.0166|      0.0353| 90.0000|
-|/players/694558/dominic-hyam    |           1|         47.9320|           1.4172|        0.1151|         0.4235|      0.0828|        0.0407|      0.0112| 90.0000|
-|/players/1030840/john-buckley   |           3|         31.8887|           1.7509|        0.1227|         0.4776|      0.0443|        0.0247|      0.0711| 71.1875|
-|/players/491827/sammie-szmodics |           3|         21.0680|           0.6946|        0.5950|         2.0840|      0.2130|        0.2213|      0.0794| 79.5455|
-|/players/1113724/tyler-morton   |           3|         55.0365|           1.6063|        0.1552|         0.3389|      0.0129|        0.0312|      0.1498| 90.0000|
-|/players/611489/ryan-hedges     |           3|         31.6094|           1.2549|        0.3130|         1.5781|      0.1285|        0.0697|      0.1220| 78.6087|
-|/players/789556/lewis-travis    |           3|         39.0844|           1.8577|        0.1552|         0.2944|      0.0143|        0.0312|      0.0543| 90.0000|
-|/players/812982/sorba-thomas    |           5|         26.5801|           0.3416|        0.4035|         1.5445|      0.1877|        0.0851|      0.1750| 90.0000|
-|/players/502421/sam-gallagher   |           5|         18.1310|           0.8600|        1.3582|         3.1143|      0.4835|        0.5597|      0.0336| 80.2500|
-|/players/1181101/tyrhys-dolan   |           0|              NA|               NA|        0.0689|         0.2298|      0.0558|        0.0404|      0.0253| 18.8125|
-|/players/1124094/jack-vale      |           0|              NA|               NA|        0.0876|         0.2738|      0.0451|        0.0588|      0.0022| 11.3913|
-|/players/640669/tayo-edun       |           0|              NA|               NA|        0.0000|         0.0531|      0.0078|        0.0000|      0.0275| 10.4545|
-|/players/716852/callum-brittain |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0043|  9.7500|
+|/players/807752/aynsley-pears   |           0|         25.5859|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/827247/harry-pickering |           1|         54.5697|           2.0225|        0.1344|         0.6422|      0.0388|        0.0305|      0.0508| 90.0000|
+|/players/181379/daniel-ayala    |           1|         48.3637|           1.0794|        0.1227|         0.5433|      0.0347|        0.0181|      0.0383| 90.0000|
+|/players/694558/dominic-hyam    |           1|         52.0346|           1.5385|        0.1250|         0.4598|      0.0899|        0.0441|      0.0122| 90.0000|
+|/players/1030840/john-buckley   |           3|         34.6181|           1.9007|        0.1332|         0.5185|      0.0481|        0.0268|      0.0772| 71.1875|
+|/players/491827/sammie-szmodics |           3|         22.8712|           0.7540|        0.6459|         2.2624|      0.2313|        0.2402|      0.0862| 79.5455|
+|/players/1113724/tyler-morton   |           3|         59.7472|           1.7438|        0.1684|         0.3679|      0.0140|        0.0339|      0.1627| 90.0000|
+|/players/611489/ryan-hedges     |           3|         34.3149|           1.3623|        0.3398|         1.7132|      0.1395|        0.0757|      0.1325| 78.6087|
+|/players/789556/lewis-travis    |           3|         42.4297|           2.0167|        0.1684|         0.3196|      0.0155|        0.0339|      0.0589| 90.0000|
+|/players/812982/sorba-thomas    |           5|         28.8552|           0.3709|        0.4380|         1.6767|      0.2038|        0.0924|      0.1900| 90.0000|
+|/players/502421/sam-gallagher   |           5|         19.6829|           0.9336|        1.4744|         3.3809|      0.5249|        0.6076|      0.0365| 80.2500|
+|/players/1181101/tyrhys-dolan   |           0|              NA|               NA|        0.0820|         0.2728|      0.0659|        0.0477|      0.0302| 18.8125|
+|/players/1124094/jack-vale      |           0|              NA|               NA|        0.1042|         0.3251|      0.0533|        0.0694|      0.0026| 11.3913|
+|/players/640669/tayo-edun       |           0|              NA|               NA|        0.0000|         0.0631|      0.0092|        0.0000|      0.0327| 10.4545|
+|/players/716852/callum-brittain |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0051|  9.7500|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
@@ -121,21 +119,162 @@ ____________________________________________________
 
 |pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/862590/daniel-grimshaw  |           0|         34.3144|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/719340/jordan-thorniley |           1|         58.0832|           2.2965|        0.1631|         0.4933|      0.0347|        0.0081|      0.0503| 90.0000|
-|/players/729449/callum-connolly  |           1|         41.9453|           1.2689|        0.0644|         0.7544|      0.0766|        0.0294|      0.0421| 90.0000|
-|/players/629786/marvin-ekpiteta  |           1|         48.6144|           1.7108|        0.2531|         0.5104|      0.0614|        0.0871|      0.0278| 90.0000|
-|/players/1229058/charlie-patino  |           3|         51.6122|           1.8026|        0.1861|         0.4051|      0.0455|        0.0831|      0.0494| 80.6000|
-|/players/673437/cj-hamilton      |           3|         24.2551|           1.6403|        0.2463|         1.0054|      0.0627|        0.0402|      0.1343| 90.0000|
-|/players/844937/josh-bowler      |           3|         18.9245|           1.1266|        0.5118|         1.6712|      0.1387|        0.1038|      0.0541| 80.5500|
-|/players/562884/kenneth-dougall  |           3|         62.6935|           3.2465|        0.0693|         0.4026|      0.0275|        0.0270|      0.0945| 90.0000|
-|/players/534394/jake-beesley     |           4|         23.8719|           1.0020|        0.5636|         1.8534|      0.2087|        0.1465|      0.0111| 83.0000|
-|/players/933798/beryly-lubala    |           4|         37.9142|           1.0865|        0.6111|         1.4718|      0.1174|        0.1589|      0.2618| 90.0000|
-|/players/115977/gary-madine      |           5|         18.7573|           0.6816|        0.7766|         1.9799|      0.2877|        0.2712|      0.0673| 82.6842|
-|/players/652145/shayne-lavery    |           0|              NA|               NA|        0.0270|         0.0785|      0.0129|        0.0147|      0.0132|  9.4500|
-|/players/962075/ian-poveda       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0283|  9.4000|
-|/players/1081081/sonny-carey     |           0|              NA|               NA|        0.0000|         0.1762|      0.0203|        0.0000|      0.0074|  7.3158|
-|/players/608535/jerry-yates      |           0|              NA|               NA|        0.1291|         0.2816|      0.0602|        0.0708|      0.0115|  7.0000|
+|/players/862590/daniel-grimshaw  |           0|         30.7439|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/719340/jordan-thorniley |           1|         52.0394|           2.0575|        0.1461|         0.4419|      0.0311|        0.0072|      0.0451| 90.0000|
+|/players/729449/callum-connolly  |           1|         37.5808|           1.1369|        0.0577|         0.6759|      0.0687|        0.0264|      0.0377| 90.0000|
+|/players/629786/marvin-ekpiteta  |           1|         43.5558|           1.5328|        0.2268|         0.4572|      0.0550|        0.0781|      0.0249| 90.0000|
+|/players/1229058/charlie-patino  |           3|         46.2418|           1.6151|        0.1667|         0.3630|      0.0408|        0.0745|      0.0443| 80.6000|
+|/players/673437/cj-hamilton      |           3|         21.7313|           1.4696|        0.2207|         0.9008|      0.0562|        0.0360|      0.1203| 90.0000|
+|/players/844937/josh-bowler      |           3|         16.9553|           1.0094|        0.4585|         1.4973|      0.1242|        0.0930|      0.0485| 80.5500|
+|/players/562884/kenneth-dougall  |           3|         56.1700|           2.9087|        0.0621|         0.3607|      0.0247|        0.0242|      0.0847| 90.0000|
+|/players/534394/jake-beesley     |           4|         21.3879|           0.8978|        0.5050|         1.6605|      0.1870|        0.1313|      0.0099| 83.0000|
+|/players/933798/beryly-lubala    |           4|         33.9691|           0.9735|        0.5476|         1.3187|      0.1052|        0.1424|      0.2346| 90.0000|
+|/players/115977/gary-madine      |           5|         16.8055|           0.6107|        0.6958|         1.7739|      0.2578|        0.2430|      0.0603| 82.6842|
+|/players/652145/shayne-lavery    |           0|              NA|               NA|        0.0265|         0.0770|      0.0126|        0.0144|      0.0130|  9.4500|
+|/players/962075/ian-poveda       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0278|  9.4000|
+|/players/1081081/sonny-carey     |           0|              NA|               NA|        0.0000|         0.1727|      0.0198|        0.0000|      0.0072|  7.3158|
+|/players/608535/jerry-yates      |           0|              NA|               NA|        0.1267|         0.2760|      0.0587|        0.0690|      0.0113|  7.0000|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Mick McCarthy |        37575|      3.473158|3-4-2-1   |
+
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Blackburn 1.1262 to Blackpool 0.9978"
+[1] "Total: 2.124"
+[1] "Blackburn %: 38.96"
+[1] "Draw %: 29.45"
+[1] "Blackpool %: 31.59"
+[1] "--XG Model--"
+[1] "Score: Blackburn 1.2754 to Blackpool 0.9031"
+[1] "Total: 2.1785"
+[1] "Blackburn %: 45.23"
+[1] "Draw %: 28.28"
+[1] "Blackpool %: 26.49"
+[1] "--XGoT Model--"
+[1] "Score: Blackburn 1.2468 to Blackpool 0.9311"
+[1] "Total: 2.1779"
+[1] "Blackburn %: 43.88"
+[1] "Draw %: 28.49"
+[1] "Blackpool %: 27.63"
+[1] "--XA Model--"
+[1] "Score: Blackburn 1.2236 to Blackpool 1.0069"
+[1] "Total: 2.2305"
+[1] "Blackburn %: 41.32"
+[1] "Draw %: 28.82"
+[1] "Blackpool %: 29.86"
+[1] "--Mean 4 Models--"
+[1] "Blackburn has a mean win % of 42.35%; a min win % of 38.96%; a max win % of 45.23%."
+[1] "Draw has a mean win % of 28.76%; a min win % of 28.28%; a max win % of 29.45%."
+[1] "Blackpool has a mean win % of 28.89%; a min win % of 26.49%; a max win of % 31.59%."
+[1] "Blackburn has a mean win of the Double Chance of 71.11%; a min win % of 68.41%, a max win % of 73.51%."
+[1] "Blackpool has a mean win of the Double Chance of 57.65%; a min win % of 54.77%, a max win % of 61.04%."
+[1] "The mean likelihood that there are more than 2.5 goals is 36.45%; max % is 37.52 and min % is 35.11%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 63.55%; max % is 64.89 and min % is 62.48%."
+[1] "--Sportsbook Odds--"
+[1] "Blackburn Barstool Odds are: 51.28"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Blackpool Barstool Odds are: 26.67"
+[1] "Blackburn Adjusted Barstool Odds are: 48.141"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.821"
+[1] "Blackpool Adjusted Barstool Odds are: 25.038"
+[1] "Blackburn's Barstool Odds to cover the -0.5 spread are: 51.28"
+[1] "Blackpool's Barstool Odds to cover the 0.5 spread are: 53.48"
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.74, which is a 57.47% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                        bet           date_time
+1 under Blackburn/Blackpool 2023-02-21 11:45:00
+2             Blackpool ATS 2023-02-21 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                         |team      | expected_attg| expected_gs|bet |
+|:--------------------------------|:---------|-------------:|-----------:|:---|
+|/players/807752/aynsley-pears    |Blackburn |      0.000000|   0.3333333|    |
+|/players/827247/harry-pickering  |Blackburn |      0.026550|   0.0526316|    |
+|/players/181379/daniel-ayala     |Blackburn |      0.015925|   0.1886792|    |
+|/players/694558/dominic-hyam     |Blackburn |      0.037050|   0.0952381|    |
+|/players/1030840/john-buckley    |Blackburn |      0.024275|   0.1428571|    |
+|/players/491827/sammie-szmodics  |Blackburn |      0.192300|   0.2777778|    |
+|/players/1113724/tyler-morton    |Blackburn |      0.026800|   0.0952381|    |
+|/players/611489/ryan-hedges      |Blackburn |      0.060925|   0.2222222|    |
+|/players/789556/lewis-travis     |Blackburn |      0.028400|   0.1785714|    |
+|/players/812982/sorba-thomas     |Blackburn |      0.078350|   0.1538462|    |
+|/players/502421/sam-gallagher    |Blackburn |      0.411750|   0.3125000|*   |
+|/players/862590/daniel-grimshaw  |Blackpool |      0.000000|   0.1250000|    |
+|/players/719340/jordan-thorniley |Blackpool |      0.006175|   0.0370370|    |
+|/players/729449/callum-connolly  |Blackpool |      0.024000|   0.0555556|    |
+|/players/629786/marvin-ekpiteta  |Blackpool |      0.072450|   0.2631579|    |
+|/players/1229058/charlie-patino  |Blackpool |      0.070100|   0.0769231|    |
+|/players/673437/cj-hamilton      |Blackpool |      0.032875|   0.1666667|    |
+|/players/844937/josh-bowler      |Blackpool |      0.081875|   0.2222222|    |
+|/players/562884/kenneth-dougall  |Blackpool |      0.019500|   0.1000000|    |
+|/players/534394/jake-beesley     |Blackpool |      0.120100|   0.1000000|    |
+|/players/933798/beryly-lubala    |Blackpool |      0.128375|   0.1250000|    |
+|/players/115977/gary-madine      |Blackpool |      0.208850|   0.2439024|    |
+|/players/1181101/tyrhys-dolan    |Blackburn |      0.037900|   0.3030303|    |
+|/players/1124094/jack-vale       |Blackburn |      0.059575|   0.3125000|    |
+|/players/640669/tayo-edun        |Blackburn |      0.000000|   0.1111111|    |
+|/players/716852/callum-brittain  |Blackburn |      0.000000|   0.1000000|    |
+|/players/652145/shayne-lavery    |Blackpool |      0.013350|   0.2272727|    |
+|/players/962075/ian-poveda       |Blackpool |      0.000000|   0.2325581|    |
+|/players/1081081/sonny-carey     |Blackpool |      0.000000|   0.2083333|    |
+|/players/608535/jerry-yates      |Blackpool |      0.063050|   0.3125000|    |
+____________________________________________________
+
+[1] "Facts about Blackburn:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/807752/aynsley-pears   |           0|         25.5859|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/827247/harry-pickering |           1|         54.5697|           2.0225|        0.1344|         0.6422|      0.0388|        0.0305|      0.0508| 90.0000|
+|/players/181379/daniel-ayala    |           1|         48.3637|           1.0794|        0.1227|         0.5433|      0.0347|        0.0181|      0.0383| 90.0000|
+|/players/694558/dominic-hyam    |           1|         52.0346|           1.5385|        0.1250|         0.4598|      0.0899|        0.0441|      0.0122| 90.0000|
+|/players/1030840/john-buckley   |           3|         34.6181|           1.9007|        0.1332|         0.5185|      0.0481|        0.0268|      0.0772| 71.1875|
+|/players/491827/sammie-szmodics |           3|         22.8712|           0.7540|        0.6459|         2.2624|      0.2313|        0.2402|      0.0862| 79.5455|
+|/players/1113724/tyler-morton   |           3|         59.7472|           1.7438|        0.1684|         0.3679|      0.0140|        0.0339|      0.1627| 90.0000|
+|/players/611489/ryan-hedges     |           3|         34.3149|           1.3623|        0.3398|         1.7132|      0.1395|        0.0757|      0.1325| 78.6087|
+|/players/789556/lewis-travis    |           3|         42.4297|           2.0167|        0.1684|         0.3196|      0.0155|        0.0339|      0.0589| 90.0000|
+|/players/812982/sorba-thomas    |           5|         28.8552|           0.3709|        0.4380|         1.6767|      0.2038|        0.0924|      0.1900| 90.0000|
+|/players/502421/sam-gallagher   |           5|         19.6829|           0.9336|        1.4744|         3.3809|      0.5249|        0.6076|      0.0365| 80.2500|
+|/players/1181101/tyrhys-dolan   |           0|              NA|               NA|        0.0820|         0.2728|      0.0659|        0.0477|      0.0302| 18.8125|
+|/players/1124094/jack-vale      |           0|              NA|               NA|        0.1042|         0.3251|      0.0533|        0.0694|      0.0026| 11.3913|
+|/players/640669/tayo-edun       |           0|              NA|               NA|        0.0000|         0.0631|      0.0092|        0.0000|      0.0327| 10.4545|
+|/players/716852/callum-brittain |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0051|  9.7500|
+
+
+|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Jon Dahl Tomasson |        96126|      10.16404|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Blackpool:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/862590/daniel-grimshaw  |           0|         30.7439|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/719340/jordan-thorniley |           1|         52.0394|           2.0575|        0.1461|         0.4419|      0.0311|        0.0072|      0.0451| 90.0000|
+|/players/729449/callum-connolly  |           1|         37.5808|           1.1369|        0.0577|         0.6759|      0.0687|        0.0264|      0.0377| 90.0000|
+|/players/629786/marvin-ekpiteta  |           1|         43.5558|           1.5328|        0.2268|         0.4572|      0.0550|        0.0781|      0.0249| 90.0000|
+|/players/1229058/charlie-patino  |           3|         46.2418|           1.6151|        0.1667|         0.3630|      0.0408|        0.0745|      0.0443| 80.6000|
+|/players/673437/cj-hamilton      |           3|         21.7313|           1.4696|        0.2207|         0.9008|      0.0562|        0.0360|      0.1203| 90.0000|
+|/players/844937/josh-bowler      |           3|         16.9553|           1.0094|        0.4585|         1.4973|      0.1242|        0.0930|      0.0485| 80.5500|
+|/players/562884/kenneth-dougall  |           3|         56.1700|           2.9087|        0.0621|         0.3607|      0.0247|        0.0242|      0.0847| 90.0000|
+|/players/534394/jake-beesley     |           4|         21.3879|           0.8978|        0.5050|         1.6605|      0.1870|        0.1313|      0.0099| 83.0000|
+|/players/933798/beryly-lubala    |           4|         33.9691|           0.9735|        0.5476|         1.3187|      0.1052|        0.1424|      0.2346| 90.0000|
+|/players/115977/gary-madine      |           5|         16.8055|           0.6107|        0.6958|         1.7739|      0.2578|        0.2430|      0.0603| 82.6842|
+|/players/652145/shayne-lavery    |           0|              NA|               NA|        0.0265|         0.0770|      0.0126|        0.0144|      0.0130|  9.4500|
+|/players/962075/ian-poveda       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0278|  9.4000|
+|/players/1081081/sonny-carey     |           0|              NA|               NA|        0.0000|         0.1727|      0.0198|        0.0000|      0.0072|  7.3158|
+|/players/608535/jerry-yates      |           0|              NA|               NA|        0.1267|         0.2760|      0.0587|        0.0690|      0.0113|  7.0000|
 
 
 |manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
