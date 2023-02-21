@@ -1,0 +1,126 @@
+[1] "Updated at 2023-02-21 11:26:01.016"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Morecambe 1.142 to Port Vale 0.8881"
+[1] "Total: 2.0301"
+[1] "Morecambe %: 42.09"
+[1] "Draw %: 29.97"
+[1] "Port Vale %: 27.94"
+[1] "--XG Model--"
+[1] "Score: Morecambe 1.1716 to Port Vale 0.9996"
+[1] "Total: 2.1712"
+[1] "Morecambe %: 40.08"
+[1] "Draw %: 29.03"
+[1] "Port Vale %: 30.89"
+[1] "--XGoT Model--"
+[1] "Score: Morecambe 1.1339 to Port Vale 0.8552"
+[1] "Total: 1.9891"
+[1] "Morecambe %: 42.31"
+[1] "Draw %: 30.6"
+[1] "Port Vale %: 27.09"
+[1] "--XA Model--"
+[1] "Score: Morecambe 1.126 to Port Vale 0.9025"
+[1] "Total: 2.0285"
+[1] "Morecambe %: 41.26"
+[1] "Draw %: 30.05"
+[1] "Port Vale %: 28.69"
+[1] "--Mean 4 Models--"
+[1] "Morecambe has a mean win % of 41.44%; a min win % of 40.08%; a max win % of 42.31%."
+[1] "Draw has a mean win % of 29.91%; a min win % of 29.03%; a max win % of 30.6%."
+[1] "Port Vale has a mean win % of 28.65%; a min win % of 27.09%; a max win of % 30.89%."
+[1] "Morecambe has a mean win of the Double Chance of 71.35%; a min win % of 69.11%, a max win % of 72.91%."
+[1] "Port Vale has a mean win of the Double Chance of 58.56%; a min win % of 57.69%, a max win % of 59.92%."
+[1] "The mean likelihood that there are more than 2.5 goals is 33.38%; max % is 36.55 and min % is 31.55%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 66.62%; max % is 68.45 and min % is 63.45%."
+[1] "--Sportsbook Odds--"
+[1] "Morecambe Barstool Odds are: 28.99"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Port Vale Barstool Odds are: 46.73"
+[1] "Morecambe Adjusted Barstool Odds are: 27.223"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.895"
+[1] "Port Vale Adjusted Barstool Odds are: 43.882"
+[1] "Morecambe's Barstool Odds to cover the 0.5 spread are: 58.14"
+[1] "Port Vale's Barstool Odds to cover the -0.5 spread are: 46.51"
+[1] "Barstool's line for the total is 2.5 at 2.38, which is a 42.02% chance of the over 2.5 hitting. The line for the under is 1.58, which is a 63.29% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                        bet           date_time
+1                 Morecambe 2023-02-21 11:45:00
+2 under Morecambe/Port Vale 2023-02-21 11:45:00
+3             Morecambe ATS 2023-02-21 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                          |team      | expected_attg| expected_gs|bet |
+|:---------------------------------|:---------|-------------:|-----------:|:---|
+|/players/237562/connor-ripley     |Morecambe |      0.000000|   0.4255319|    |
+|/players/684734/donald-love       |Morecambe |      0.027725|   0.1052632|    |
+|/players/575792/farrend-rawson    |Morecambe |      0.030525|   0.1666667|    |
+|/players/780817/jacob-bedeau      |Morecambe |      0.034525|   0.1960784|    |
+|/players/724365/liam-gibson       |Morecambe |      0.032775|   0.1333333|    |
+|/players/896053/jensen-weir       |Morecambe |      0.063775|   0.3448276|    |
+|/players/966683/liam-shaw         |Morecambe |      0.043150|   0.2777778|    |
+|/players/1199726/michael-mellon   |Morecambe |      0.141000|   0.0714286|*   |
+|/players/660878/daniel-crowley    |Morecambe |      0.173450|   0.0476190|*   |
+|/players/199502/adam-major        |Morecambe |      0.159225|   0.0588235|*   |
+|/players/303659/cole-stockton     |Morecambe |      0.281800|   0.1428571|*   |
+|/players/112289/matt-taylor       |Port Vale |      0.174700|   0.0769231|*   |
+|/players/201729/gavin-massey      |Port Vale |      0.255325|   0.1666667|*   |
+|/players/1096352/samson-robinson  |Port Vale |      0.032975|   0.0909091|    |
+|/players/493164/tom-conlon        |Port Vale |      0.229950|   0.2857143|    |
+|/players/1116648/ben-garrity      |Port Vale |      0.013950|   0.3225806|    |
+|/players/563230/tom-pett          |Port Vale |      0.003050|   0.1052632|    |
+|/players/46382/david-worrall      |Port Vale |      0.003375|   0.2127660|    |
+|/players/1339627/aaron-donnelly   |Port Vale |      0.036300|   0.0769231|    |
+|/players/534391/nathan-smith      |Port Vale |      0.004500|   0.0769231|    |
+|/players/961310/william-forrester |Port Vale |      0.010300|   0.1052632|    |
+|/players/1003215/aidan-stone      |Port Vale |      0.000000|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about Morecambe:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/237562/connor-ripley   |           0|         28.9550|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/684734/donald-love     |           1|         39.0152|           0.5036|        0.0736|         0.7606|      0.0324|        0.0282|      0.0926| 75.6000|
+|/players/575792/farrend-rawson  |           1|         38.3256|           0.7234|        0.2694|         0.5584|      0.0385|        0.0336|      0.0238| 90.0000|
+|/players/780817/jacob-bedeau    |           1|         44.7573|           1.2204|        0.1025|         0.3234|      0.0439|        0.0336|      0.0045| 90.0000|
+|/players/724365/liam-gibson     |           1|         39.2434|           3.2936|        0.0876|         0.2764|      0.0385|        0.0336|      0.0294| 90.0000|
+|/players/896053/jensen-weir     |           2|         36.8970|           0.9400|        0.2260|         0.8711|      0.0620|        0.0633|      0.0878| 90.0000|
+|/players/966683/liam-shaw       |           2|         33.2946|           2.3500|        0.1607|         0.6194|      0.0441|        0.0450|      0.0366| 64.0000|
+|/players/1199726/michael-mellon |           3|         12.5824|           1.2674|        0.5128|         3.1485|      0.3817|        0.1513|      0.0077| 73.0000|
+|/players/660878/daniel-crowley  |           3|         38.5564|           0.9917|        0.6322|         0.9854|      0.0574|        0.1865|      0.2356| 90.0000|
+|/players/199502/adam-major      |           3|         23.6013|           0.9750|        0.6215|         0.6297|      0.0128|        0.1645|      0.0839| 79.3846|
+|/players/303659/cole-stockton   |           5|         16.8471|           0.4946|        0.9032|         2.3818|      0.3054|        0.3251|      0.0552| 90.0000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Derek Adams  |        28664|     -5.806742|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Port Vale:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/112289/matt-taylor       |           5|         19.8522|           0.5275|        1.3967|         2.8590|      0.4037|        0.2313|      0.0591| 90.0000|
+|/players/201729/gavin-massey      |           5|         20.4245|           0.8450|        0.4475|         1.7236|      0.2182|        0.3540|      0.1228| 81.4286|
+|/players/1096352/samson-robinson  |           3|         23.6599|           1.3870|        0.2950|         0.9916|      0.0745|        0.0424|      0.1583| 74.2000|
+|/players/493164/tom-conlon        |           3|         38.7474|           1.8634|        0.5268|         1.6291|      0.2308|        0.3197|      0.0742| 90.0000|
+|/players/1116648/ben-garrity      |           3|         35.5873|           1.6222|        0.2635|         0.8561|      0.0399|        0.0202|      0.0432| 90.0000|
+|/players/563230/tom-pett          |           3|         44.3543|           3.0882|        0.1103|         0.5193|      0.0139|        0.0041|      0.0290| 90.0000|
+|/players/46382/david-worrall      |           3|         33.6224|           1.1620|        0.2883|         0.9305|      0.0237|        0.0041|      0.1689| 90.0000|
+|/players/1339627/aaron-donnelly   |           1|         44.1623|           1.0074|        0.1887|         0.4280|      0.0191|        0.0472|      0.0040| 67.5000|
+|/players/534391/nathan-smith      |           1|         31.9376|           1.3432|        0.0520|         0.4197|      0.0245|        0.0053|      0.0298| 90.0000|
+|/players/961310/william-forrester |           1|         36.0855|           1.3900|        0.0343|         0.3113|      0.0546|        0.0139|      0.0475| 75.0000|
+|/players/1003215/aidan-stone      |           0|         28.9405|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Darrell Clarke |        22770|     -2.412097|3-4-1-2   |
