@@ -1,0 +1,124 @@
+[1] "Updated at 2023-02-21 11:41:27.840"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Walsall 1.1372 to Crewe Alexandra 0.824"
+[1] "Total: 1.9612"
+[1] "Walsall %: 43.13"
+[1] "Draw %: 30.55"
+[1] "Crewe Alexandra %: 26.32"
+[1] "--XG Model--"
+[1] "Score: Walsall 1.3911 to Crewe Alexandra 0.9566"
+[1] "Total: 2.3477"
+[1] "Walsall %: 47.59"
+[1] "Draw %: 26.49"
+[1] "Crewe Alexandra %: 25.92"
+[1] "--XGoT Model--"
+[1] "Score: Walsall 1.1642 to Crewe Alexandra 0.782"
+[1] "Total: 1.9462"
+[1] "Walsall %: 44.82"
+[1] "Draw %: 30.21"
+[1] "Crewe Alexandra %: 24.97"
+[1] "--XA Model--"
+[1] "Score: Walsall 1.275 to Crewe Alexandra 0.9141"
+[1] "Total: 2.1891"
+[1] "Walsall %: 45.09"
+[1] "Draw %: 27.9"
+[1] "Crewe Alexandra %: 27.01"
+[1] "--Mean 4 Models--"
+[1] "Walsall has a mean win % of 45.16%; a min win % of 43.13%; a max win % of 47.59%."
+[1] "Draw has a mean win % of 28.79%; a min win % of 26.49%; a max win % of 30.55%."
+[1] "Crewe Alexandra has a mean win % of 26.06%; a min win % of 24.97%; a max win of % 27.01%."
+[1] "Walsall has a mean win of the Double Chance of 73.94%; a min win % of 72.99%, a max win % of 75.03%."
+[1] "Crewe Alexandra has a mean win of the Double Chance of 54.84%; a min win % of 52.41%, a max win % of 56.87%."
+[1] "The mean likelihood that there are more than 2.5 goals is 34.68%; max % is 40.66 and min % is 30.38%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 65.32%; max % is 69.62 and min % is 59.34%."
+[1] "--Sportsbook Odds--"
+[1] "Walsall Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Crewe Alexandra Barstool Odds are: 20"
+[1] "Walsall Adjusted Barstool Odds are: 54.559"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.89"
+[1] "Crewe Alexandra Adjusted Barstool Odds are: 18.551"
+[1] "Walsall's Barstool Odds to cover the  spread are: NA"
+[1] "Crewe Alexandra's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+              bet           date_time
+1 Crewe Alexandra 2023-02-21 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                         |team            | expected_attg| expected_gs|bet |
+|:--------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/509174/owen-evans       |Walsall         |      0.000000|   0.1851852|    |
+|/players/516000/hayden-white     |Walsall         |      0.070625|   0.1785714|    |
+|/players/410017/donervon-daniels |Walsall         |      0.023150|   0.0454545|    |
+|/players/530464/emmanuel-monthe  |Walsall         |      0.022225|   0.2325581|    |
+|/players/911499/tom-knowles      |Walsall         |      0.033075|   0.0454545|    |
+|/players/621869/brandon-comley   |Walsall         |      0.113700|   0.0714286|    |
+|/players/112157/robbie-willmott  |Walsall         |      0.033775|   0.0833333|    |
+|/players/1041477/taylor-allen    |Walsall         |      0.033050|   0.0909091|    |
+|/players/877688/isaac-hutchinson |Walsall         |      0.151300|   0.3636364|    |
+|/players/238776/jamille-matt     |Walsall         |      0.301050|   0.3225806|    |
+|/players/579057/mathew-stevens   |Walsall         |      0.267600|   0.1694915|*   |
+|/players/627223/daniel-agyei     |Crewe Alexandra |      0.242325|   0.3225806|    |
+|/players/1273271/elliott-nevitt  |Crewe Alexandra |      0.186925|   0.1052632|*   |
+|/players/1075952/rio-adebisi     |Crewe Alexandra |      0.189125|   0.2857143|    |
+|/players/1186512/ryan-finnigan   |Crewe Alexandra |      0.009875|   0.1666667|    |
+|/players/1318729/joel-tabiner    |Crewe Alexandra |      0.008150|   0.3333333|    |
+|/players/891384/tariq-uwakwe     |Crewe Alexandra |      0.009150|   0.1333333|    |
+|/players/1392929/sean-robertson  |Crewe Alexandra |      0.009525|   0.2777778|    |
+|/players/902279/luke-offord      |Crewe Alexandra |      0.028600|   0.1250000|    |
+|/players/213798/rodney-mcdonald  |Crewe Alexandra |      0.028400|   0.1538462|    |
+|/players/1318728/connor-oriordan |Crewe Alexandra |      0.030850|   0.0555556|    |
+|/players/1431281/james-beadle    |Crewe Alexandra |      0.000000|   0.2173913|    |
+____________________________________________________
+
+[1] "Facts about Walsall:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/509174/owen-evans       |           0|         28.0644|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/516000/hayden-white     |           1|         43.9468|           1.5547|        0.1051|         0.1823|      0.0951|        0.0714|      0.0318| 90.0000|
+|/players/410017/donervon-daniels |           1|         48.9168|           1.5434|        0.2267|         0.9831|      0.0410|        0.0221|      0.0151| 90.0000|
+|/players/530464/emmanuel-monthe  |           1|         47.0905|           1.2828|        0.1041|         0.5416|      0.0174|        0.0221|      0.0514| 90.0000|
+|/players/911499/tom-knowles      |           3|         25.8856|           1.8619|        0.1130|         1.9513|      0.1034|        0.0356|      0.1506| 90.0000|
+|/players/621869/brandon-comley   |           3|         39.2563|           1.6201|        0.3870|         0.4851|      0.0353|        0.1197|      0.0108| 75.8333|
+|/players/112157/robbie-willmott  |           3|         52.3120|           1.8476|        0.1130|         0.4722|      0.0419|        0.0356|      0.2127| 90.0000|
+|/players/1041477/taylor-allen    |           3|         27.1898|           1.5044|        0.2902|         0.7277|      0.0721|        0.0329|      0.0505| 83.2500|
+|/players/877688/isaac-hutchinson |           4|         27.9574|           1.2728|        0.6530|         1.8124|      0.1463|        0.1593|      0.1378| 79.3333|
+|/players/238776/jamille-matt     |           5|         24.4928|           0.4753|        0.8726|         2.2906|      0.3685|        0.3480|      0.1060| 90.0000|
+|/players/579057/mathew-stevens   |           5|         13.9009|           0.8327|        0.9569|         2.5129|      0.3147|        0.2972|      0.0905| 76.8636|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Michael Flynn |        26274|     -3.524237|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Crewe Alexandra:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/627223/daniel-agyei     |           5|         18.6312|           0.7017|        0.8323|         2.0003|      0.2734|        0.2696|      0.0627| 90.0000|
+|/players/1273271/elliott-nevitt  |           5|         19.0629|           0.5388|        0.5478|         1.6455|      0.1757|        0.2029|      0.0867| 80.0769|
+|/players/1075952/rio-adebisi     |           3|         30.3516|           1.1358|        0.2567|         1.7220|      0.1947|        0.2040|      0.0147| 79.0000|
+|/players/1186512/ryan-finnigan   |           3|         44.2628|           3.7860|        0.2268|         0.4415|      0.0067|        0.0105|      0.0383| 90.0000|
+|/players/1318729/joel-tabiner    |           3|         21.2461|           0.7572|        0.1769|         0.3444|      0.0052|        0.0082|      0.0485| 70.2000|
+|/players/891384/tariq-uwakwe     |           3|         33.8926|           0.6058|        0.2054|         1.2054|      0.0843|        0.0095|      0.2464| 81.5000|
+|/players/1392929/sean-robertson  |           3|         24.1027|           2.4052|        0.2268|         0.4415|      0.0067|        0.0105|      0.0135| 90.0000|
+|/players/902279/luke-offord      |           1|         46.7351|           1.5181|        0.1794|         0.3803|      0.0202|        0.0291|      0.0244| 90.0000|
+|/players/213798/rodney-mcdonald  |           1|         38.6489|           2.2639|        0.0829|         0.4880|      0.0565|        0.0291|      0.0312| 90.0000|
+|/players/1318728/connor-oriordan |           1|         36.0493|           0.5889|        0.0829|         0.3803|      0.0202|        0.0291|      0.0244| 90.0000|
+|/players/1431281/james-beadle    |           0|         28.4799|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Lee Bell     |        11836|     -4.186667|4-4-2     |
