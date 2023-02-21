@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-21 07:13:53.291"
+[1] "Updated at 2023-02-21 11:09:00.298"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Millwall 1.224 to Burnley 1.2578"
-[1] "Total: 2.4818"
-[1] "Millwall %: 35.86"
-[1] "Draw %: 27.55"
-[1] "Burnley %: 36.59"
+[1] "Score: Millwall 1.1498 to Burnley 1.123"
+[1] "Total: 2.2728"
+[1] "Millwall %: 36.52"
+[1] "Draw %: 28.71"
+[1] "Burnley %: 34.77"
 [1] "--XG Model--"
-[1] "Score: Millwall 1.0138 to Burnley 1.1869"
-[1] "Total: 2.2007"
-[1] "Millwall %: 31.61"
-[1] "Draw %: 29.04"
-[1] "Burnley %: 39.35"
+[1] "Score: Millwall 1.0928 to Burnley 1.104"
+[1] "Total: 2.1968"
+[1] "Millwall %: 35.45"
+[1] "Draw %: 28.77"
+[1] "Burnley %: 35.78"
 [1] "--XGoT Model--"
-[1] "Score: Millwall 1.072 to Burnley 1.2848"
-[1] "Total: 2.3568"
-[1] "Millwall %: 30.51"
-[1] "Draw %: 28.26"
-[1] "Burnley %: 41.23"
+[1] "Score: Millwall 1.1955 to Burnley 1.1906"
+[1] "Total: 2.3861"
+[1] "Millwall %: 36.24"
+[1] "Draw %: 28.22"
+[1] "Burnley %: 35.54"
 [1] "--XA Model--"
-[1] "Score: Millwall 1.1158 to Burnley 1.1816"
-[1] "Total: 2.2974"
-[1] "Millwall %: 34.01"
-[1] "Draw %: 28.69"
-[1] "Burnley %: 37.3"
+[1] "Score: Millwall 1.1216 to Burnley 1.1292"
+[1] "Total: 2.2508"
+[1] "Millwall %: 35.31"
+[1] "Draw %: 29.06"
+[1] "Burnley %: 35.63"
 [1] "--Mean 4 Models--"
-[1] "Millwall has a mean win % of 33%; a min win % of 30.51%; a max win % of 35.86%."
-[1] "Draw has a mean win % of 28.38%; a min win % of 27.55%; a max win % of 29.04%."
-[1] "Burnley has a mean win % of 38.62%; a min win % of 36.59%; a max win of % 41.23%."
-[1] "Millwall has a mean win of the Double Chance of 61.38%; a min win % of 58.77%, a max win % of 63.41%."
-[1] "Burnley has a mean win of the Double Chance of 67%; a min win % of 64.14%, a max win % of 69.49%."
-[1] "The mean likelihood that there are more than 2.5 goals is 40.74%; max % is 43.89 and min % is 37.14%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 59.26%; max % is 62.86 and min % is 56.11%."
+[1] "Millwall has a mean win % of 35.88%; a min win % of 35.31%; a max win % of 36.52%."
+[1] "Draw has a mean win % of 28.69%; a min win % of 28.22%; a max win % of 29.06%."
+[1] "Burnley has a mean win % of 35.43%; a min win % of 34.77%; a max win of % 35.78%."
+[1] "Millwall has a mean win of the Double Chance of 64.57%; a min win % of 64.22%, a max win % of 65.23%."
+[1] "Burnley has a mean win of the Double Chance of 64.12%; a min win % of 63.48%, a max win % of 64.69%."
+[1] "The mean likelihood that there are more than 2.5 goals is 39.17%; max % is 41.57 and min % is 37.14%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 60.83%; max % is 62.86 and min % is 58.43%."
 [1] "--Sportsbook Odds--"
 [1] "Millwall Barstool Odds are: 31.75"
 [1] "The Barstool Odds of a Draw are: 31.75"
@@ -42,69 +42,69 @@
 [1] "Burnley Adjusted Barstool Odds are: 40.123"
 [1] "Millwall's Barstool Odds to cover the -0.5 spread are: 31.75"
 [1] "Burnley's Barstool Odds to cover the 0.5 spread are: 72.99"
-[1] "Barstool's line for the total is 2.5 at 2.5, which is a 40% chance of the over 2.5 hitting. The line for the under is 1.53, which is a 65.36% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.65, which is a 37.74% chance of the over 2.5 hitting. The line for the under is 1.48, which is a 67.57% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-02-21 11:45:00
+       bet           date_time
+1 Millwall 2023-02-21 11:45:00
 [1] "____________Anytime Goalscorers______________________"
 
 
-|pageUrl2                              |team     | expected_attg| expected_gs|bet |
-|:-------------------------------------|:--------|-------------:|-----------:|:---|
-|/players/31920/bartosz-bialkowski     |Millwall |      0.000000|   0.3125000|    |
-|/players/1017196/dan-mcnamara         |Millwall |      0.027125|   0.0370370|    |
-|/players/568577/jake-cooper           |Millwall |      0.056350|   0.0909091|    |
-|/players/254473/murray-wallace        |Millwall |      0.029450|   0.0666667|    |
-|/players/230907/andreas-voglsammer    |Millwall |      0.017225|   0.2000000|    |
-|/players/417067/george-saville        |Millwall |      0.117800|   0.1111111|    |
-|/players/171084/scott-malone          |Millwall |      0.082725|   0.1538462|    |
-|/players/1045656/billy-mitchell       |Millwall |      0.025325|   0.0909091|    |
-|/players/873559/zian-flemming         |Millwall |      0.178525|   0.2272727|    |
-|/players/520230/duncan-watmore        |Millwall |      0.093600|   0.1724138|    |
-|/players/169225/tom-bradshaw          |Millwall |      0.275325|   0.2857143|    |
-|/players/760752/arijanet-muric        |Burnley  |      0.000000|   0.0476190|    |
-|/players/289137/charlie-taylor        |Burnley  |      0.003325|   0.0588235|    |
-|/players/831044/hjalmar-ekdal         |Burnley  |      0.073475|   0.1111111|    |
-|/players/484878/connor-roberts        |Burnley  |      0.069025|   0.0909091|    |
-|/players/966021/taylor-harwood-bellis |Burnley  |      0.031425|   0.0909091|    |
-|/players/46008/jack-cork              |Burnley  |      0.022900|   0.0769231|    |
-|/players/623716/josh-cullen           |Burnley  |      0.077900|   0.0769231|    |
-|/players/494597/josh-brownhill        |Burnley  |      0.121125|   0.1960784|    |
-|/players/881500/lyle-foster           |Burnley  |      0.217225|   0.3030303|    |
-|/players/109491/jay-rodriguez         |Burnley  |      0.102850|   0.3225806|    |
-|/players/817720/michael-obafemi       |Burnley  |      0.271300|   0.2500000|    |
-|/players/609504/oliver-burke          |Millwall |      0.034250|   0.2500000|    |
-|/players/401933/george-evans          |Millwall |      0.000000|   0.0833333|    |
-|/players/617219/george-honeyman       |Millwall |      0.000000|   0.1666667|    |
-|/players/1186444/charlie-cresswell    |Millwall |      0.024650|   0.0769231|    |
-|/players/536457/manuel-benson         |Burnley  |      0.014175|   0.1250000|    |
-|/players/1069536/anass-zaroury        |Burnley  |      0.034625|   0.2564103|    |
-|/players/107280/ashley-barnes         |Burnley  |      0.006000|   0.3125000|    |
-|/players/559077/samuel-bastien        |Burnley  |      0.007225|   0.1960784|    |
+|pageUrl2                                |team     | expected_attg| expected_gs|bet |
+|:---------------------------------------|:--------|-------------:|-----------:|:---|
+|/players/241996/george-long             |Millwall |      0.000000|   0.1176471|    |
+|/players/1017196/dan-mcnamara           |Millwall |      0.021725|   0.0370370|    |
+|/players/1186444/charlie-cresswell      |Millwall |      0.030575|   0.0769231|    |
+|/players/568577/jake-cooper             |Millwall |      0.038825|   0.0909091|    |
+|/players/254473/murray-wallace          |Millwall |      0.020900|   0.0666667|    |
+|/players/955379/jamie-shackleton        |Millwall |      0.049400|   0.1000000|    |
+|/players/417067/george-saville          |Millwall |      0.047825|   0.1111111|    |
+|/players/230907/andreas-voglsammer      |Millwall |      0.020050|   0.2000000|    |
+|/players/873559/zian-flemming           |Millwall |      0.250275|   0.2272727|    |
+|/players/617219/george-honeyman         |Millwall |      0.195050|   0.1666667|    |
+|/players/520230/duncan-watmore          |Millwall |      0.217300|   0.1724138|    |
+|/players/107280/ashley-barnes           |Burnley  |      0.246525|   0.3125000|    |
+|/players/1069536/anass-zaroury          |Burnley  |      0.205525|   0.2564103|    |
+|/players/494597/josh-brownhill          |Burnley  |      0.148925|   0.1960784|    |
+|/players/746406/scott-twine             |Burnley  |      0.062150|   0.1724138|    |
+|/players/1279764/ameen-al-dakhil        |Burnley  |      0.009600|   0.0500000|    |
+|/players/623716/josh-cullen             |Burnley  |      0.100525|   0.0769231|    |
+|/players/966026/ian-maatsen             |Burnley  |      0.042975|   0.1000000|    |
+|/players/905498/vitinho                 |Burnley  |      0.011400|   0.1538462|    |
+|/players/831044/hjalmar-ekdal           |Burnley  |      0.033575|   0.1111111|    |
+|/players/484878/connor-roberts          |Burnley  |      0.029650|   0.0909091|    |
+|/players/760752/arijanet-muric          |Burnley  |      0.000000|   0.0500000|    |
+|/players/171084/scott-malone            |Millwall |      0.004350|   0.0000000|    |
+|/players/401933/george-evans            |Millwall |      0.075000|   0.0000000|*   |
+|/players/169225/tom-bradshaw            |Millwall |      0.008225|   0.0000000|    |
+|/players/198265/ryan-leonard            |Millwall |      0.000000|   0.0000000|    |
+|/players/817720/michael-obafemi         |Burnley  |      0.059275|   0.0000000|*   |
+|/players/877700/nathan-tella            |Burnley  |      0.009975|   0.0000000|    |
+|/players/129915/johann-berg-gudmundsson |Burnley  |      0.018925|   0.0000000|    |
+|/players/289137/charlie-taylor          |Burnley  |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Millwall:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/31920/bartosz-bialkowski  |           0|         19.0856|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1017196/dan-mcnamara      |           1|         42.4756|           1.4129|        0.0813|         0.1302|      0.0051|        0.0325|      0.0298| 90.0000|
-|/players/568577/jake-cooper        |           1|         51.7215|           1.1524|        0.2370|         0.7259|      0.0811|        0.0636|      0.0401| 90.0000|
-|/players/254473/murray-wallace     |           1|         50.7308|           2.0752|        0.0813|         0.6149|      0.0780|        0.0325|      0.0220| 90.0000|
-|/players/230907/andreas-voglsammer |           3|         22.2215|           0.7730|        0.3982|         1.3755|      0.1066|        0.0191|      0.0757| 77.3636|
-|/players/417067/george-saville     |           3|         36.9190|           2.2467|        0.2240|         0.6465|      0.0648|        0.1255|      0.0625| 79.8182|
-|/players/171084/scott-malone       |           3|         38.3671|           2.3624|        0.2879|         0.9112|      0.0374|        0.0933|      0.1675| 90.0000|
-|/players/1045656/billy-mitchell    |           3|         52.8494|           1.7910|        0.0870|         0.3656|      0.0391|        0.0253|      0.0296| 90.0000|
-|/players/873559/zian-flemming      |           5|         30.0476|           1.1058|        1.1188|         2.9428|      0.2226|        0.2049|      0.1512| 90.0000|
-|/players/520230/duncan-watmore     |           5|         17.7519|           0.4249|        0.4299|         1.1248|      0.1384|        0.1068|      0.0913| 75.1481|
-|/players/169225/tom-bradshaw       |           5|         19.3668|           0.8406|        0.7004|         1.8528|      0.3206|        0.3352|      0.0716| 77.1034|
-|/players/609504/oliver-burke       |           0|              NA|               NA|        0.2102|         0.4087|      0.0263|        0.0349|      0.0165| 14.8519|
-|/players/401933/george-evans       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0027| 12.8966|
-|/players/617219/george-honeyman    |           0|              NA|               NA|        0.0762|         0.0925|      0.0092|        0.0000|      0.0300| 12.6364|
-|/players/1186444/charlie-cresswell |           0|              NA|               NA|        0.1302|         0.2372|      0.0144|        0.0270|      0.0197| 10.1818|
+|/players/241996/george-long        |           0|         24.5516|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1017196/dan-mcnamara      |           1|         34.9577|           1.1954|        0.0619|         0.1105|      0.0032|        0.0244|      0.0397| 90.0000|
+|/players/1186444/charlie-cresswell |           1|         54.9117|           1.9885|        0.2102|         0.7877|      0.0808|        0.0400|      0.0855| 90.0000|
+|/players/568577/jake-cooper        |           1|         42.5672|           0.9750|        0.1804|         0.6158|      0.0510|        0.0477|      0.0535| 90.0000|
+|/players/254473/murray-wallace     |           1|         41.7519|           1.7558|        0.0619|         0.5216|      0.0491|        0.0244|      0.0293| 90.0000|
+|/players/955379/jamie-shackleton   |           2|         43.6216|           1.0444|        0.2472|         1.1524|      0.0589|        0.0599|      0.0622| 90.0000|
+|/players/417067/george-saville     |           2|         43.6216|           2.9726|        0.2298|         0.6205|      0.0638|        0.0557|      0.0730| 83.6923|
+|/players/230907/andreas-voglsammer |           3|         19.1998|           0.6051|        0.5906|         1.9759|      0.2291|        0.0225|      0.0888| 77.3636|
+|/players/873559/zian-flemming      |           3|         23.3673|           0.7456|        1.0442|         2.6082|      0.2752|        0.3236|      0.0845| 90.0000|
+|/players/617219/george-honeyman    |           3|         40.9761|           2.3888|        0.1834|         0.5048|      0.0557|        0.2393|      0.2110| 86.5161|
+|/players/520230/duncan-watmore     |           5|         15.8653|           0.4780|        0.7664|         1.9129|      0.2973|        0.2809|      0.0558| 75.1481|
+|/players/171084/scott-malone       |           0|              NA|               NA|        0.0891|         0.1948|      0.0158|        0.0052|      0.0238| 14.8519|
+|/players/401933/george-evans       |           0|              NA|               NA|        0.1063|         0.0774|      0.0183|        0.0923|      0.0007| 12.6364|
+|/players/169225/tom-bradshaw       |           0|              NA|               NA|        0.0595|         0.2168|      0.0195|        0.0083|      0.0018|  6.3077|
+|/players/198265/ryan-leonard       |           0|              NA|               NA|        0.0000|         0.1379|      0.0050|        0.0000|      0.0065|  3.4839|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Burnley:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/760752/arijanet-muric        |           0|         32.0616|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/289137/charlie-taylor        |           1|         41.3882|           1.9970|        0.0245|         0.1156|      0.0058|        0.0037|      0.0663| 90.0000|
-|/players/831044/hjalmar-ekdal         |           1|         61.3987|           1.5102|        0.2168|         1.0246|      0.0976|        0.0832|      0.0312| 90.0000|
-|/players/484878/connor-roberts        |           1|         44.4539|           1.2842|        0.1563|         0.3324|      0.0398|        0.0774|      0.0955| 90.0000|
-|/players/966021/taylor-harwood-bellis |           1|         63.0960|           1.2813|        0.1343|         0.6093|      0.0601|        0.0350|      0.0264| 90.0000|
-|/players/46008/jack-cork              |           3|         35.5578|           1.3753|        0.0620|         0.4229|      0.0560|        0.0279|      0.0351| 86.0357|
-|/players/623716/josh-cullen           |           3|         64.3357|           1.8330|        0.2783|         1.0402|      0.0797|        0.0897|      0.1186| 90.0000|
-|/players/494597/josh-brownhill        |           3|         43.0458|           2.1217|        0.5791|         1.8114|      0.1538|        0.1434|      0.1334| 90.0000|
-|/players/881500/lyle-foster           |           5|         29.7342|           0.7662|        0.6082|         1.5442|      0.2431|        0.2679|      0.1747| 80.9000|
-|/players/109491/jay-rodriguez         |           5|         23.6477|           1.2486|        0.8259|         2.2878|      0.2125|        0.1222|      0.0453| 81.3333|
-|/players/817720/michael-obafemi       |           5|         17.4660|           0.8872|        0.7469|         1.8423|      0.3119|        0.3489|      0.0845| 84.0000|
-|/players/536457/manuel-benson         |           0|              NA|               NA|        0.1143|         0.2729|      0.0101|        0.0172|      0.0557|  9.1000|
-|/players/1069536/anass-zaroury        |           0|              NA|               NA|        0.2072|         0.2590|      0.0260|        0.0392|      0.0158|  8.6667|
-|/players/107280/ashley-barnes         |           0|              NA|               NA|        0.0557|         0.1552|      0.0145|        0.0067|      0.0019|  6.0000|
-|/players/559077/samuel-bastien        |           0|              NA|               NA|        0.0377|         0.0749|      0.0069|        0.0083|      0.0021|  3.9643|
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/107280/ashley-barnes           |           5|         18.0328|           0.5203|        0.7908|         1.9787|      0.3295|        0.3130|      0.0687| 77.1579|
+|/players/1069536/anass-zaroury          |           3|         22.4360|           1.0861|        0.4640|         1.3872|      0.1628|        0.2535|      0.1376| 75.4286|
+|/players/494597/josh-brownhill          |           3|         42.8077|           1.8152|        0.2710|         0.8103|      0.1483|        0.1823|      0.1631| 90.0000|
+|/players/746406/scott-twine             |           3|         28.9200|           0.8944|        0.9075|         2.5963|      0.2125|        0.0723|      0.0875| 81.7647|
+|/players/1279764/ameen-al-dakhil        |           2|         46.3041|           2.4285|        0.1253|         0.3841|      0.0160|        0.0121|      0.0156| 90.0000|
+|/players/623716/josh-cullen             |           2|         57.9109|           1.7976|        0.3426|         1.3999|      0.1384|        0.1205|      0.1347| 90.0000|
+|/players/966026/ian-maatsen             |           1|         47.2136|           1.9090|        0.2411|         0.6961|      0.0449|        0.0476|      0.0983| 90.0000|
+|/players/905498/vitinho                 |           1|         35.1249|           2.3135|        0.0663|         0.3951|      0.0228|        0.0143|      0.0321| 85.6111|
+|/players/831044/hjalmar-ekdal           |           1|         65.1591|           1.1158|        0.1120|         0.6063|      0.0808|        0.0372|      0.0188| 90.0000|
+|/players/484878/connor-roberts          |           1|         47.1766|           0.9488|        0.0807|         0.1967|      0.0330|        0.0347|      0.0576| 90.0000|
+|/players/760752/arijanet-muric          |           0|         32.9444|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/817720/michael-obafemi         |           0|              NA|               NA|        0.1374|         0.3184|      0.0498|        0.0679|      0.0149| 14.5714|
+|/players/877700/nathan-tella            |           0|              NA|               NA|        0.0532|         0.1346|      0.0039|        0.0111|      0.0102| 12.8421|
+|/players/129915/johann-berg-gudmundsson |           0|              NA|               NA|        0.0519|         0.1529|      0.0061|        0.0239|      0.0023|  8.2353|
+|/players/289137/charlie-taylor          |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0067|  4.3889|
 
 
 |manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
