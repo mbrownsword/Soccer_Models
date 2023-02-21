@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-21 07:18:27.500"
+[1] "Updated at 2023-02-21 11:13:36.510"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Rotherham United 1.0407 to Sunderland 1.4737"
-[1] "Total: 2.5144"
-[1] "Rotherham United %: 27.85"
-[1] "Draw %: 25.91"
-[1] "Sunderland %: 46.24"
+[1] "Score: Rotherham United 1.0847 to Sunderland 1.4688"
+[1] "Total: 2.5535"
+[1] "Rotherham United %: 28.8"
+[1] "Draw %: 26.14"
+[1] "Sunderland %: 45.06"
 [1] "--XG Model--"
-[1] "Score: Rotherham United 0.8305 to Sunderland 1.4159"
-[1] "Total: 2.2464"
-[1] "Rotherham United %: 22.58"
-[1] "Draw %: 26.83"
-[1] "Sunderland %: 50.59"
-[1] "--XGoT Model--"
-[1] "Score: Rotherham United 0.9404 to Sunderland 1.4353"
-[1] "Total: 2.3757"
-[1] "Rotherham United %: 24.91"
-[1] "Draw %: 26.9"
-[1] "Sunderland %: 48.19"
-[1] "--XA Model--"
-[1] "Score: Rotherham United 0.8722 to Sunderland 1.3964"
-[1] "Total: 2.2686"
-[1] "Rotherham United %: 23.88"
+[1] "Score: Rotherham United 0.7983 to Sunderland 1.3864"
+[1] "Total: 2.1847"
+[1] "Rotherham United %: 22.02"
 [1] "Draw %: 27.35"
-[1] "Sunderland %: 48.77"
+[1] "Sunderland %: 50.63"
+[1] "--XGoT Model--"
+[1] "Score: Rotherham United 0.9498 to Sunderland 1.557"
+[1] "Total: 2.5068"
+[1] "Rotherham United %: 23.83"
+[1] "Draw %: 25.24"
+[1] "Sunderland %: 50.93"
+[1] "--XA Model--"
+[1] "Score: Rotherham United 0.837 to Sunderland 1.4523"
+[1] "Total: 2.2893"
+[1] "Rotherham United %: 22.07"
+[1] "Draw %: 26.55"
+[1] "Sunderland %: 51.38"
 [1] "--Mean 4 Models--"
-[1] "Rotherham United has a mean win % of 24.8%; a min win % of 22.58%; a max win % of 27.85%."
-[1] "Draw has a mean win % of 26.75%; a min win % of 25.91%; a max win % of 27.35%."
-[1] "Sunderland has a mean win % of 48.45%; a min win % of 46.24%; a max win of % 50.59%."
-[1] "Rotherham United has a mean win of the Double Chance of 51.55%; a min win % of 49.41%, a max win % of 53.76%."
-[1] "Sunderland has a mean win of the Double Chance of 75.2%; a min win % of 72.15%, a max win % of 77.42%."
-[1] "The mean likelihood that there are more than 2.5 goals is 41.25%; max % is 45.53 and min % is 38.56%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 58.75%; max % is 61.44 and min % is 54.47%."
+[1] "Rotherham United has a mean win % of 24.18%; a min win % of 22.02%; a max win % of 28.8%."
+[1] "Draw has a mean win % of 26.32%; a min win % of 25.24%; a max win % of 27.35%."
+[1] "Sunderland has a mean win % of 49.5%; a min win % of 45.06%; a max win of % 51.38%."
+[1] "Rotherham United has a mean win of the Double Chance of 50.5%; a min win % of 48.62%, a max win % of 54.94%."
+[1] "Sunderland has a mean win of the Double Chance of 75.82%; a min win % of 71.2%, a max win % of 77.98%."
+[1] "The mean likelihood that there are more than 2.5 goals is 42.3%; max % is 46.37 and min % is 37.1%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 57.71%; max % is 62.9 and min % is 53.63%."
 [1] "--Sportsbook Odds--"
 [1] "Rotherham United Barstool Odds are: 25"
 [1] "The Barstool Odds of a Draw are: 31.25"
@@ -42,7 +42,7 @@
 [1] "Sunderland Adjusted Barstool Odds are: 47.689"
 [1] "Rotherham United's Barstool Odds to cover the  spread are: NA"
 [1] "Sunderland's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 2.28, which is a 43.86% chance of the over 2.5 hitting. The line for the under is 1.63, which is a 61.35% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -52,59 +52,59 @@
 
 |pageUrl2                          |team             | expected_attg| expected_gs|bet |
 |:---------------------------------|:----------------|-------------:|-----------:|:---|
-|/players/546252/viktor-johansson  |Rotherham United |      0.000000|   0.0833333|    |
-|/players/23260/richard-wood       |Rotherham United |      0.056950|   0.0526316|    |
-|/players/40567/lee-peltier        |Rotherham United |      0.002550|   0.0500000|    |
-|/players/659198/cameron-humphreys |Rotherham United |      0.002300|   0.0344828|    |
-|/players/582498/jamie-lindsay     |Rotherham United |      0.059500|   0.1428571|    |
-|/players/575800/tariqe-fosu       |Rotherham United |      0.003950|   0.1785714|    |
-|/players/749484/quina             |Rotherham United |      0.060950|   0.1538462|    |
-|/players/820094/cohen-bramall     |Rotherham United |      0.003325|   0.1052632|    |
-|/players/761834/oliver-rathbone   |Rotherham United |      0.106900|   0.1754386|    |
-|/players/490135/jordan-hugill     |Rotherham United |      0.250800|   0.2500000|    |
-|/players/674009/chiedozie-ogbene  |Rotherham United |      0.154025|   0.2777778|    |
-|/players/968912/anthony-patterson |Sunderland       |      0.000000|   0.0666667|    |
-|/players/1118480/dennis-cirkin    |Sunderland       |      0.028450|   0.0714286|    |
-|/players/974268/daniel-ballard    |Sunderland       |      0.059650|   0.0769231|    |
-|/players/480253/luke-onien        |Sunderland       |      0.027700|   0.1333333|    |
-|/players/185008/danny-batth       |Sunderland       |      0.026175|   0.0625000|    |
-|/players/173411/corry-evans       |Sunderland       |      0.069450|   0.0833333|    |
-|/players/982246/daniel-neil       |Sunderland       |      0.082350|   0.1250000|    |
-|/players/914402/jack-clarke       |Sunderland       |      0.118525|   0.2325581|    |
-|/players/1070052/amad-diallo      |Sunderland       |      0.337100|   0.3125000|    |
-|/players/289819/alex-pritchard    |Sunderland       |      0.142825|   0.2777778|    |
-|/players/776159/ross-stewart      |Sunderland       |      0.155175|   0.4081633|    |
-|/players/193210/tom-eaves         |Rotherham United |      0.020175|   0.2173913|    |
-|/players/621848/georgie-kelly     |Rotherham United |      0.068375|   0.2272727|    |
-|/players/395740/conor-washington  |Rotherham United |      0.025100|   0.2702703|    |
-|/players/174326/shane-ferguson    |Rotherham United |      0.000000|   0.1000000|    |
-|/players/956161/joe-gelhardt      |Sunderland       |      0.098150|   0.3333333|    |
-|/players/1283779/jewison-bennette |Sunderland       |      0.038575|   0.2325581|    |
-|/players/527549/patrick-roberts   |Sunderland       |      0.014150|   0.2777778|    |
-|/players/775772/elliot-embleton   |Sunderland       |      0.015675|   0.2777778|    |
+|/players/546252/viktor-johansson  |Rotherham United |      0.000000|   0.2325581|    |
+|/players/40567/lee-peltier        |Rotherham United |      0.008950|   0.0526316|    |
+|/players/163649/grant-hall        |Rotherham United |      0.063875|   0.0476190|    |
+|/players/659198/cameron-humphreys |Rotherham United |      0.008750|   0.0357143|    |
+|/players/1222770/leo-hjelde       |Rotherham United |      0.010275|   0.0526316|    |
+|/players/174326/shane-ferguson    |Rotherham United |      0.033050|   0.1000000|    |
+|/players/770256/conor-coventry    |Rotherham United |      0.024475|   0.0833333|    |
+|/players/761834/oliver-rathbone   |Rotherham United |      0.168500|   0.1754386|    |
+|/players/575800/tariqe-fosu       |Rotherham United |      0.024825|   0.1785714|    |
+|/players/674009/chiedozie-ogbene  |Rotherham United |      0.127350|   0.2777778|    |
+|/players/490135/jordan-hugill     |Rotherham United |      0.207125|   0.2564103|    |
+|/players/956161/joe-gelhardt      |Sunderland       |      0.289500|   0.3333333|    |
+|/players/914402/jack-clarke       |Sunderland       |      0.112250|   0.2325581|    |
+|/players/1070052/amad-diallo      |Sunderland       |      0.255825|   0.3125000|    |
+|/players/1173785/edouard-michut   |Sunderland       |      0.093050|   0.1333333|    |
+|/players/982246/daniel-neil       |Sunderland       |      0.074000|   0.1250000|    |
+|/players/289819/alex-pritchard    |Sunderland       |      0.055150|   0.2777778|    |
+|/players/1118480/dennis-cirkin    |Sunderland       |      0.030375|   0.0714286|    |
+|/players/185008/danny-batth       |Sunderland       |      0.030575|   0.0625000|    |
+|/players/974268/daniel-ballard    |Sunderland       |      0.066625|   0.0769231|    |
+|/players/480253/luke-onien        |Sunderland       |      0.030650|   0.1333333|    |
+|/players/968912/anthony-patterson |Sunderland       |      0.000000|   0.0625000|    |
+|/players/582498/jamie-lindsay     |Rotherham United |      0.000000|   0.0000000|    |
+|/players/621848/georgie-kelly     |Rotherham United |      0.112525|   0.0000000|*   |
+|/players/865934/wes-harding       |Rotherham United |      0.000000|   0.0000000|    |
+|/players/395740/conor-washington  |Rotherham United |      0.023100|   0.0000000|    |
+|/players/527549/patrick-roberts   |Sunderland       |      0.020475|   0.0000000|    |
+|/players/1239583/abdoullah-ba     |Sunderland       |      0.000000|   0.0000000|    |
+|/players/1283779/jewison-bennette |Sunderland       |      0.183275|   0.0000000|*   |
+|/players/1067763/trai-hume        |Sunderland       |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Rotherham United:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/546252/viktor-johansson  |           0|         29.4267|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/23260/richard-wood       |           1|         26.1827|           0.8824|        0.1181|         0.6538|      0.0763|        0.0669|      0.0362| 90.0000|
-|/players/40567/lee-peltier        |           1|         36.9409|           1.5167|        0.0304|         0.2470|      0.0119|        0.0033|      0.0180| 90.0000|
-|/players/659198/cameron-humphreys |           1|         45.6557|           1.0748|        0.0304|         0.2816|      0.0088|        0.0033|      0.0279| 90.0000|
-|/players/582498/jamie-lindsay     |           3|         28.6048|           1.7030|        0.2887|         0.7558|      0.0517|        0.0727|      0.0240| 82.0769|
-|/players/575800/tariqe-fosu       |           3|         32.8458|           1.5532|        0.1633|         0.9554|      0.0415|        0.0056|      0.0441| 90.0000|
-|/players/749484/quina             |           3|         31.7473|           2.0554|        0.3149|         0.9919|      0.0642|        0.0775|      0.0413| 80.6154|
-|/players/820094/cohen-bramall     |           3|         22.3467|           1.3572|        0.0758|         0.2729|      0.0116|        0.0038|      0.1416| 77.8889|
-|/players/761834/oliver-rathbone   |           4|         27.1352|           1.0609|        0.6253|         1.5387|      0.1443|        0.1274|      0.1329| 90.0000|
-|/players/490135/jordan-hugill     |           5|         16.7757|           0.7843|        0.8078|         2.1858|      0.3269|        0.3413|      0.0150| 78.8696|
-|/players/674009/chiedozie-ogbene  |           5|         19.0881|           1.1441|        0.7070|         1.7506|      0.1596|        0.1884|      0.1281| 90.0000|
-|/players/193210/tom-eaves         |           0|              NA|               NA|        0.1218|         0.4216|      0.0198|        0.0240|      0.0067| 12.1111|
-|/players/621848/georgie-kelly     |           0|              NA|               NA|        0.3272|         0.6583|      0.0546|        0.0833|      0.0236| 11.1304|
-|/players/395740/conor-washington  |           0|              NA|               NA|        0.0353|         0.0753|      0.0262|        0.0288|      0.0021|  9.3846|
-|/players/174326/shane-ferguson    |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0335|  7.9231|
+|/players/546252/viktor-johansson  |           0|         29.0473|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/40567/lee-peltier        |           1|         32.3167|           2.3375|        0.0682|         0.2777|      0.0226|        0.0115|      0.0213| 90.0000|
+|/players/163649/grant-hall        |           1|         32.9412|           1.0283|        0.2665|         0.8135|      0.1026|        0.0823|      0.0409| 90.0000|
+|/players/659198/cameron-humphreys |           1|         39.9406|           1.6564|        0.0682|         0.3165|      0.0168|        0.0115|      0.0331| 90.0000|
+|/players/1222770/leo-hjelde       |           1|         32.0689|           1.2677|        0.0682|         0.3482|      0.0094|        0.0115|      0.0609| 90.0000|
+|/players/174326/shane-ferguson    |           3|         17.4354|           0.9111|        0.2095|         0.7583|      0.0788|        0.0399|      0.0807| 76.7778|
+|/players/770256/conor-coventry    |           3|         45.6643|           1.4192|        0.2651|         0.5118|      0.0483|        0.0323|      0.0858| 83.0625|
+|/players/761834/oliver-rathbone   |           3|         30.6453|           2.7176|        0.4420|         1.3201|      0.0739|        0.2141|      0.0559| 90.0000|
+|/players/575800/tariqe-fosu       |           3|         24.1698|           1.7872|        0.3142|         1.4786|      0.0933|        0.0325|      0.0830| 83.5556|
+|/players/674009/chiedozie-ogbene  |           5|         20.4848|           0.6942|        0.6289|         1.5770|      0.1362|        0.1530|      0.1125| 90.0000|
+|/players/490135/jordan-hugill     |           5|         18.0032|           0.4759|        0.7185|         1.9690|      0.2789|        0.2770|      0.0132| 78.8696|
+|/players/582498/jamie-lindsay     |           0|              NA|               NA|        0.0000|         0.1159|      0.0006|        0.0000|      0.0065| 13.2222|
+|/players/621848/georgie-kelly     |           0|              NA|               NA|        0.6863|         1.1835|      0.0744|        0.1440|      0.0439| 11.1304|
+|/players/865934/wes-harding       |           0|              NA|               NA|        0.0000|         0.0755|      0.0037|        0.0000|      0.0015|  6.9375|
+|/players/395740/conor-washington  |           0|              NA|               NA|        0.0537|         0.2083|      0.0256|        0.0262|      0.0005|  6.4444|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
@@ -113,26 +113,26 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Sunderland:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/968912/anthony-patterson |           0|         25.3856|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1118480/dennis-cirkin    |           1|         41.7133|           2.3715|        0.0905|         0.7387|      0.0330|        0.0289|      0.0185| 90.0000|
-|/players/974268/daniel-ballard    |           1|         51.5407|           1.5688|        0.2226|         0.6923|      0.1078|        0.0617|      0.1465| 90.0000|
-|/players/480253/luke-onien        |           1|         66.6366|           1.4908|        0.0914|         0.3551|      0.0133|        0.0289|      0.0657| 90.0000|
-|/players/185008/danny-batth       |           1|         48.4105|           0.8314|        0.1483|         0.4998|      0.0510|        0.0289|      0.0247| 90.0000|
-|/players/173411/corry-evans       |           3|         50.8838|           1.9393|        0.4526|         1.3244|      0.1024|        0.0740|      0.0375| 78.6400|
-|/players/982246/daniel-neil       |           3|         55.3215|           1.6802|        0.3139|         0.6111|      0.0136|        0.0847|      0.1306| 90.0000|
-|/players/914402/jack-clarke       |           3|         26.3846|           1.6326|        0.2829|         1.3598|      0.1948|        0.1357|      0.1582| 81.1000|
-|/players/1070052/amad-diallo      |           5|         25.7374|           1.0577|        1.2305|         2.4763|      0.3481|        0.4162|      0.1683| 73.6667|
-|/players/289819/alex-pritchard    |           5|         24.7027|           0.6346|        0.2051|         1.0834|      0.0449|        0.1538|      0.1192| 79.6667|
-|/players/776159/ross-stewart      |           5|         21.1568|           0.8709|        0.9418|         2.2303|      0.4483|        0.1738|      0.0416| 90.0000|
-|/players/956161/joe-gelhardt      |           0|              NA|               NA|        0.2353|         0.6348|      0.0980|        0.1062|      0.0523| 16.3333|
-|/players/1283779/jewison-bennette |           0|              NA|               NA|        0.1646|         0.2351|      0.0177|        0.0444|      0.0182| 11.3600|
-|/players/527549/patrick-roberts   |           0|              NA|               NA|        0.0767|         0.2192|      0.0128|        0.0132|      0.0243| 10.3333|
-|/players/775772/elliot-embleton   |           0|              NA|               NA|        0.1330|         0.2744|      0.0237|        0.0176|      0.0039|  8.9000|
+|/players/956161/joe-gelhardt      |           5|         14.4721|           0.4174|        0.7970|         1.9946|      0.3866|        0.3670|      0.0617| 67.8750|
+|/players/914402/jack-clarke       |           3|         20.3815|           1.3796|        0.3270|         1.4790|      0.2145|        0.1311|      0.3113| 90.0000|
+|/players/1070052/amad-diallo      |           3|         25.9084|           0.1507|        1.1785|         2.3178|      0.3406|        0.3184|      0.1235| 72.4000|
+|/players/1173785/edouard-michut   |           3|         35.5105|           2.0092|        0.2591|         1.1589|      0.0300|        0.1039|      0.0374| 71.3333|
+|/players/982246/daniel-neil       |           2|         54.9966|           2.7121|        0.1878|         0.5457|      0.0248|        0.0812|      0.0691| 90.0000|
+|/players/289819/alex-pritchard    |           2|         40.9273|           1.1117|        0.2791|         1.0690|      0.1182|        0.0645|      0.1000| 71.5263|
+|/players/1118480/dennis-cirkin    |           1|         40.5578|           2.4111|        0.1062|         0.7209|      0.0330|        0.0348|      0.0199| 90.0000|
+|/players/185008/danny-batth       |           1|         47.0694|           0.8452|        0.1740|         0.4877|      0.0510|        0.0348|      0.0265| 90.0000|
+|/players/974268/daniel-ballard    |           1|         50.1129|           1.5949|        0.2612|         0.6756|      0.1078|        0.0744|      0.1577| 90.0000|
+|/players/480253/luke-onien        |           1|         64.7906|           1.5156|        0.1072|         0.3466|      0.0133|        0.0348|      0.0707| 90.0000|
+|/players/968912/anthony-patterson |           0|         25.6558|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/527549/patrick-roberts   |           0|              NA|               NA|        0.1516|         0.4217|      0.0758|        0.0220|      0.0638| 22.1250|
+|/players/1239583/abdoullah-ba     |           0|              NA|               NA|        0.0703|         0.4694|      0.0103|        0.0000|      0.0117| 18.6667|
+|/players/1283779/jewison-bennette |           0|              NA|               NA|        0.6706|         0.9330|      0.0739|        0.2228|      0.0079| 18.4737|
+|/players/1067763/trai-hume        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0040| 17.6000|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
