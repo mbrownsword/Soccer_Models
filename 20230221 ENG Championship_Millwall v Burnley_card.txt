@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-20 17:50:04.260"
+[1] "Updated at 2023-02-21 07:13:53.291"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 40.74%; max % is 43.89 and min % is 37.14%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 59.26%; max % is 62.86 and min % is 56.11%."
 [1] "--Sportsbook Odds--"
-[1] "Millwall Barstool Odds are: 33.9"
+[1] "Millwall Barstool Odds are: 31.75"
 [1] "The Barstool Odds of a Draw are: 31.75"
-[1] "Burnley Barstool Odds are: 41.67"
-[1] "Millwall Adjusted Barstool Odds are: 31.588"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.584"
-[1] "Burnley Adjusted Barstool Odds are: 38.828"
-[1] "Millwall's Barstool Odds to cover the -0.5 spread are: 33.33"
-[1] "Burnley's Barstool Odds to cover the 0.5 spread are: 71.43"
-[1] "Barstool's line for the total is 2.5 at 2.38, which is a 42.02% chance of the over 2.5 hitting. The line for the under is 1.58, which is a 63.29% chance of the under 2.5 hitting."
+[1] "Burnley Barstool Odds are: 42.55"
+[1] "Millwall Adjusted Barstool Odds are: 29.939"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.939"
+[1] "Burnley Adjusted Barstool Odds are: 40.123"
+[1] "Millwall's Barstool Odds to cover the -0.5 spread are: 31.75"
+[1] "Burnley's Barstool Odds to cover the 0.5 spread are: 72.99"
+[1] "Barstool's line for the total is 2.5 at 2.5, which is a 40% chance of the over 2.5 hitting. The line for the under is 1.53, which is a 65.36% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -53,35 +53,35 @@
 |pageUrl2                              |team     | expected_attg| expected_gs|bet |
 |:-------------------------------------|:--------|-------------:|-----------:|:---|
 |/players/31920/bartosz-bialkowski     |Millwall |      0.000000|   0.3125000|    |
-|/players/1017196/dan-mcnamara         |Millwall |      0.027125|   0.0400000|    |
-|/players/568577/jake-cooper           |Millwall |      0.056350|   0.1000000|    |
-|/players/254473/murray-wallace        |Millwall |      0.029450|   0.0714286|    |
-|/players/230907/andreas-voglsammer    |Millwall |      0.017225|   0.2127660|    |
-|/players/417067/george-saville        |Millwall |      0.117800|   0.1176471|    |
-|/players/171084/scott-malone          |Millwall |      0.082725|   0.1666667|    |
-|/players/1045656/billy-mitchell       |Millwall |      0.025325|   0.0952381|    |
-|/players/873559/zian-flemming         |Millwall |      0.178525|   0.2380952|    |
-|/players/520230/duncan-watmore        |Millwall |      0.093600|   0.1818182|    |
-|/players/169225/tom-bradshaw          |Millwall |      0.275325|   0.3030303|    |
-|/players/760752/arijanet-muric        |Burnley  |      0.000000|   0.0526316|    |
-|/players/289137/charlie-taylor        |Burnley  |      0.003325|   0.0625000|    |
-|/players/831044/hjalmar-ekdal         |Burnley  |      0.073475|   0.1176471|    |
+|/players/1017196/dan-mcnamara         |Millwall |      0.027125|   0.0370370|    |
+|/players/568577/jake-cooper           |Millwall |      0.056350|   0.0909091|    |
+|/players/254473/murray-wallace        |Millwall |      0.029450|   0.0666667|    |
+|/players/230907/andreas-voglsammer    |Millwall |      0.017225|   0.2000000|    |
+|/players/417067/george-saville        |Millwall |      0.117800|   0.1111111|    |
+|/players/171084/scott-malone          |Millwall |      0.082725|   0.1538462|    |
+|/players/1045656/billy-mitchell       |Millwall |      0.025325|   0.0909091|    |
+|/players/873559/zian-flemming         |Millwall |      0.178525|   0.2272727|    |
+|/players/520230/duncan-watmore        |Millwall |      0.093600|   0.1724138|    |
+|/players/169225/tom-bradshaw          |Millwall |      0.275325|   0.2857143|    |
+|/players/760752/arijanet-muric        |Burnley  |      0.000000|   0.0476190|    |
+|/players/289137/charlie-taylor        |Burnley  |      0.003325|   0.0588235|    |
+|/players/831044/hjalmar-ekdal         |Burnley  |      0.073475|   0.1111111|    |
 |/players/484878/connor-roberts        |Burnley  |      0.069025|   0.0909091|    |
 |/players/966021/taylor-harwood-bellis |Burnley  |      0.031425|   0.0909091|    |
 |/players/46008/jack-cork              |Burnley  |      0.022900|   0.0769231|    |
 |/players/623716/josh-cullen           |Burnley  |      0.077900|   0.0769231|    |
-|/players/494597/josh-brownhill        |Burnley  |      0.121125|   0.2000000|    |
-|/players/881500/lyle-foster           |Burnley  |      0.217225|   0.3125000|    |
-|/players/109491/jay-rodriguez         |Burnley  |      0.102850|   0.3333333|    |
-|/players/817720/michael-obafemi       |Burnley  |      0.271300|   0.2564103|    |
-|/players/609504/oliver-burke          |Millwall |      0.034250|   0.2631579|    |
-|/players/401933/george-evans          |Millwall |      0.000000|   0.0909091|    |
-|/players/617219/george-honeyman       |Millwall |      0.000000|   0.1724138|    |
-|/players/1186444/charlie-cresswell    |Millwall |      0.024650|   0.0833333|    |
+|/players/494597/josh-brownhill        |Burnley  |      0.121125|   0.1960784|    |
+|/players/881500/lyle-foster           |Burnley  |      0.217225|   0.3030303|    |
+|/players/109491/jay-rodriguez         |Burnley  |      0.102850|   0.3225806|    |
+|/players/817720/michael-obafemi       |Burnley  |      0.271300|   0.2500000|    |
+|/players/609504/oliver-burke          |Millwall |      0.034250|   0.2500000|    |
+|/players/401933/george-evans          |Millwall |      0.000000|   0.0833333|    |
+|/players/617219/george-honeyman       |Millwall |      0.000000|   0.1666667|    |
+|/players/1186444/charlie-cresswell    |Millwall |      0.024650|   0.0769231|    |
 |/players/536457/manuel-benson         |Burnley  |      0.014175|   0.1250000|    |
-|/players/1069536/anass-zaroury        |Burnley  |      0.034625|   0.2631579|    |
-|/players/107280/ashley-barnes         |Burnley  |      0.006000|   0.3225806|    |
-|/players/559077/samuel-bastien        |Burnley  |      0.007225|   0.2000000|    |
+|/players/1069536/anass-zaroury        |Burnley  |      0.034625|   0.2564103|    |
+|/players/107280/ashley-barnes         |Burnley  |      0.006000|   0.3125000|    |
+|/players/559077/samuel-bastien        |Burnley  |      0.007225|   0.1960784|    |
 ____________________________________________________
 
 [1] "Facts about Millwall:"
