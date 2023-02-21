@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-20 12:50:44.983"
+[1] "Updated at 2023-02-20 16:17:01.730"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Blackburn 0.9239 to Blackpool 0.9838"
-[1] "Total: 1.9077"
-[1] "Blackburn %: 32.99"
-[1] "Draw %: 32.12"
-[1] "Blackpool %: 34.89"
+[1] "Score: Blackburn 1.0339 to Blackpool 1.1009"
+[1] "Total: 2.1348"
+[1] "Blackburn %: 34.01"
+[1] "Draw %: 29.71"
+[1] "Blackpool %: 36.28"
 [1] "--XG Model--"
-[1] "Score: Blackburn 1.0179 to Blackpool 0.8991"
-[1] "Total: 1.917"
-[1] "Blackburn %: 38.23"
-[1] "Draw %: 31.3"
-[1] "Blackpool %: 30.47"
+[1] "Score: Blackburn 1.1501 to Blackpool 1.0159"
+[1] "Total: 2.166"
+[1] "Blackburn %: 39.38"
+[1] "Draw %: 29.21"
+[1] "Blackpool %: 31.41"
 [1] "--XGoT Model--"
-[1] "Score: Blackburn 1.0041 to Blackpool 0.9144"
-[1] "Total: 1.9185"
-[1] "Blackburn %: 37.4"
-[1] "Draw %: 31.4"
-[1] "Blackpool %: 31.2"
+[1] "Score: Blackburn 1.134 to Blackpool 1.0327"
+[1] "Total: 2.1667"
+[1] "Blackburn %: 38.25"
+[1] "Draw %: 29.36"
+[1] "Blackpool %: 32.39"
 [1] "--XA Model--"
-[1] "Score: Blackburn 1.0054 to Blackpool 0.957"
-[1] "Total: 1.9624"
-[1] "Blackburn %: 36.79"
-[1] "Draw %: 31.09"
-[1] "Blackpool %: 32.12"
+[1] "Score: Blackburn 1.1456 to Blackpool 1.0905"
+[1] "Total: 2.2361"
+[1] "Blackburn %: 37.21"
+[1] "Draw %: 29.06"
+[1] "Blackpool %: 33.73"
 [1] "--Mean 4 Models--"
-[1] "Blackburn has a mean win % of 36.35%; a min win % of 32.99%; a max win % of 38.23%."
-[1] "Draw has a mean win % of 31.48%; a min win % of 31.09%; a max win % of 32.12%."
-[1] "Blackpool has a mean win % of 32.17%; a min win % of 30.47%; a max win of % 34.89%."
-[1] "Blackburn has a mean win of the Double Chance of 67.83%; a min win % of 65.11%, a max win % of 69.53%."
-[1] "Blackpool has a mean win of the Double Chance of 63.65%; a min win % of 61.77%, a max win % of 67.01%."
-[1] "The mean likelihood that there are more than 2.5 goals is 29.82%; max % is 30.71 and min % is 29.18%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 70.18%; max % is 70.82 and min % is 69.29%."
+[1] "Blackburn has a mean win % of 37.21%; a min win % of 34.01%; a max win % of 39.38%."
+[1] "Draw has a mean win % of 29.34%; a min win % of 29.06%; a max win % of 29.71%."
+[1] "Blackpool has a mean win % of 33.45%; a min win % of 31.41%; a max win of % 36.28%."
+[1] "Blackburn has a mean win of the Double Chance of 66.55%; a min win % of 63.72%, a max win % of 68.59%."
+[1] "Blackpool has a mean win of the Double Chance of 62.79%; a min win % of 60.62%, a max win % of 65.99%."
+[1] "The mean likelihood that there are more than 2.5 goals is 36.58%; max % is 38.3 and min % is 35.55%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 63.42%; max % is 64.45 and min % is 61.7%."
 [1] "--Sportsbook Odds--"
 [1] "Blackburn Barstool Odds are: 51.28"
 [1] "The Barstool Odds of a Draw are: 28.57"
@@ -55,36 +55,36 @@
 
 |pageUrl2                         |team      | expected_attg| expected_gs|bet |
 |:--------------------------------|:---------|-------------:|-----------:|:---|
-|/players/807752/aynsley-pears    |Blackburn |      0.000000|   0.3225806|    |
-|/players/827247/harry-pickering  |Blackburn |      0.021725|   0.0500000|    |
-|/players/181379/daniel-ayala     |Blackburn |      0.013050|   0.1851852|    |
-|/players/694558/dominic-hyam     |Blackburn |      0.029400|   0.0909091|    |
-|/players/1030840/john-buckley    |Blackburn |      0.020650|   0.1428571|    |
-|/players/491827/sammie-szmodics  |Blackburn |      0.163575|   0.2702703|    |
-|/players/1113724/tyler-morton    |Blackburn |      0.021525|   0.0909091|    |
-|/players/611489/ryan-hedges      |Blackburn |      0.050600|   0.2173913|    |
-|/players/789556/lewis-travis     |Blackburn |      0.024050|   0.1754386|    |
-|/players/812982/sorba-thomas     |Blackburn |      0.063575|   0.1538462|    |
-|/players/502421/sam-gallagher    |Blackburn |      0.357650|   0.3030303|*   |
+|/players/807752/aynsley-pears    |Blackburn |      0.000000|   0.3333333|    |
+|/players/827247/harry-pickering  |Blackburn |      0.024225|   0.0526316|    |
+|/players/181379/daniel-ayala     |Blackburn |      0.014700|   0.1886792|    |
+|/players/694558/dominic-hyam     |Blackburn |      0.032400|   0.0952381|    |
+|/players/1030840/john-buckley    |Blackburn |      0.024200|   0.1428571|    |
+|/players/491827/sammie-szmodics  |Blackburn |      0.183325|   0.2777778|    |
+|/players/1113724/tyler-morton    |Blackburn |      0.024100|   0.0952381|    |
+|/players/611489/ryan-hedges      |Blackburn |      0.056125|   0.2222222|    |
+|/players/789556/lewis-travis     |Blackburn |      0.024350|   0.1785714|    |
+|/players/812982/sorba-thomas     |Blackburn |      0.072525|   0.1538462|    |
+|/players/502421/sam-gallagher    |Blackburn |      0.390925|   0.3125000|*   |
 |/players/862590/daniel-grimshaw  |Blackpool |      0.000000|   0.1250000|    |
-|/players/719340/jordan-thorniley |Blackpool |      0.005375|   0.0370370|    |
-|/players/729449/callum-connolly  |Blackpool |      0.023475|   0.0588235|    |
-|/players/629786/marvin-ekpiteta  |Blackpool |      0.069225|   0.2631579|    |
-|/players/1229058/charlie-patino  |Blackpool |      0.067625|   0.0769231|    |
-|/players/673437/cj-hamilton      |Blackpool |      0.030850|   0.1666667|    |
-|/players/844937/josh-bowler      |Blackpool |      0.078500|   0.2222222|    |
-|/players/562884/kenneth-dougall  |Blackpool |      0.020550|   0.1052632|    |
-|/players/534394/jake-beesley     |Blackpool |      0.116075|   0.1000000|    |
-|/players/933798/beryly-lubala    |Blackpool |      0.128975|   0.1333333|    |
-|/players/115977/gary-madine      |Blackpool |      0.208475|   0.2439024|    |
-|/players/1181101/tyrhys-dolan    |Blackburn |      0.029250|   0.2941176|    |
-|/players/1124094/jack-vale       |Blackburn |      0.044725|   0.3030303|    |
-|/players/640669/tayo-edun        |Blackburn |      0.000000|   0.1052632|    |
-|/players/716852/callum-brittain  |Blackburn |      0.000000|   0.0952381|    |
-|/players/652145/shayne-lavery    |Blackpool |      0.013600|   0.2272727|    |
+|/players/719340/jordan-thorniley |Blackpool |      0.006600|   0.0370370|    |
+|/players/729449/callum-connolly  |Blackpool |      0.027225|   0.0555556|    |
+|/players/629786/marvin-ekpiteta  |Blackpool |      0.078750|   0.2631579|    |
+|/players/1229058/charlie-patino  |Blackpool |      0.076725|   0.0769231|    |
+|/players/673437/cj-hamilton      |Blackpool |      0.037300|   0.1666667|    |
+|/players/844937/josh-bowler      |Blackpool |      0.089150|   0.2222222|    |
+|/players/562884/kenneth-dougall  |Blackpool |      0.021925|   0.1000000|    |
+|/players/534394/jake-beesley     |Blackpool |      0.133175|   0.1000000|    |
+|/players/933798/beryly-lubala    |Blackpool |      0.141550|   0.1250000|    |
+|/players/115977/gary-madine      |Blackpool |      0.229025|   0.2439024|    |
+|/players/1181101/tyrhys-dolan    |Blackburn |      0.034825|   0.3030303|    |
+|/players/1124094/jack-vale       |Blackburn |      0.050300|   0.3125000|    |
+|/players/640669/tayo-edun        |Blackburn |      0.000000|   0.1111111|    |
+|/players/716852/callum-brittain  |Blackburn |      0.000000|   0.1000000|    |
+|/players/652145/shayne-lavery    |Blackpool |      0.013675|   0.2272727|    |
 |/players/962075/ian-poveda       |Blackpool |      0.000000|   0.2325581|    |
 |/players/1081081/sonny-carey     |Blackpool |      0.000000|   0.2083333|    |
-|/players/608535/jerry-yates      |Blackpool |      0.058300|   0.3125000|    |
+|/players/608535/jerry-yates      |Blackpool |      0.065450|   0.3125000|    |
 ____________________________________________________
 
 [1] "Facts about Blackburn:"
