@@ -1,0 +1,142 @@
+[1] "Updated at 2023-02-22 07:09:59.086"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AS Roma 1.6564 to FC Salzburg 1.408"
+[1] "Total: 3.0644"
+[1] "AS Roma %: 43.69"
+[1] "Draw %: 24.17"
+[1] "FC Salzburg %: 32.14"
+[1] "--XG Model--"
+[1] "Score: AS Roma 1.7816 to FC Salzburg 1.2724"
+[1] "Total: 3.054"
+[1] "AS Roma %: 49.97"
+[1] "Draw %: 23.78"
+[1] "FC Salzburg %: 26.25"
+[1] "--XGoT Model--"
+[1] "Score: AS Roma 1.8414 to FC Salzburg 1.2628"
+[1] "Total: 3.1042"
+[1] "AS Roma %: 51.39"
+[1] "Draw %: 23.3"
+[1] "FC Salzburg %: 25.31"
+[1] "--XA Model--"
+[1] "Score: AS Roma 1.6259 to FC Salzburg 1.2313"
+[1] "Total: 2.8572"
+[1] "AS Roma %: 47.15"
+[1] "Draw %: 24.24"
+[1] "FC Salzburg %: 28.61"
+[1] "--Mean 4 Models--"
+[1] "AS Roma has a mean win % of 48.05%; a min win % of 43.69%; a max win % of 51.39%."
+[1] "Draw has a mean win % of 23.87%; a min win % of 23.3%; a max win % of 24.24%."
+[1] "FC Salzburg has a mean win % of 28.08%; a min win % of 25.31%; a max win of % 32.14%."
+[1] "AS Roma has a mean win of the Double Chance of 71.92%; a min win % of 67.86%, a max win % of 74.69%."
+[1] "FC Salzburg has a mean win of the Double Chance of 51.95%; a min win % of 48.61%, a max win % of 56.31%."
+[1] "The mean likelihood that there are more than 2.5 goals is 57.12%; max % is 59.15 and min % is 53.33%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 42.88%; max % is 46.67 and min % is 40.85%."
+[1] "--Sportsbook Odds--"
+[1] "AS Roma Barstool Odds are: 60"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "FC Salzburg Barstool Odds are: 18.52"
+[1] "AS Roma Adjusted Barstool Odds are: 56.845"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.609"
+[1] "FC Salzburg Adjusted Barstool Odds are: 17.546"
+[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 59.52"
+[1] "FC Salzburg's Barstool Odds to cover the 0.5 spread are: 45.45"
+[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.79, which is a 55.87% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                       bet           date_time
+1              FC Salzburg 2023-02-23 12:00:00
+2 over AS Roma/FC Salzburg 2023-02-23 12:00:00
+3          FC Salzburg ATS 2023-02-23 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team        | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/40604/rui-patricio            |AS Roma     |      0.000000|   0.0500000|    |
+|/players/588687/gianluca-mancini       |AS Roma     |      0.050250|   0.0833333|    |
+|/players/165823/chris-smalling         |AS Roma     |      0.028975|   0.1052632|    |
+|/players/862538/roger-ibanez           |AS Roma     |      0.020575|   0.1052632|    |
+|/players/1053714/nicola-zalewski       |AS Roma     |      0.171275|   0.1666667|    |
+|/players/299799/bryan-cristante        |AS Roma     |      0.041100|   0.1333333|    |
+|/players/115067/nemanja-matic          |AS Roma     |      0.014975|   0.0625000|    |
+|/players/215242/leonardo-spinazzola    |AS Roma     |      0.129525|   0.0909091|    |
+|/players/540307/lorenzo-pellegrini     |AS Roma     |      0.334875|   0.2631579|*   |
+|/players/161328/stephan-el-shaarawy    |AS Roma     |      0.079400|   0.2631579|    |
+|/players/309726/andrea-belotti         |AS Roma     |      0.283500|   0.3571429|    |
+|/players/896256/fernando               |FC Salzburg |      0.305225|   0.1851852|*   |
+|/players/915797/noah-okafor            |FC Salzburg |      0.136875|   0.1666667|    |
+|/players/959597/luka-sucic             |FC Salzburg |      0.133650|   0.1176471|    |
+|/players/1024672/nicolas-seiwald       |FC Salzburg |      0.032050|   0.0357143|    |
+|/players/1137106/lucas-gourna-douath   |FC Salzburg |      0.030175|   0.0294118|    |
+|/players/1018564/nicolas-capaldo       |FC Salzburg |      0.030375|   0.1111111|    |
+|/players/43205/andreas-ulmer           |FC Salzburg |      0.027200|   0.0322581|    |
+|/players/1048023/strahinja-pavlovic    |FC Salzburg |      0.091175|   0.0625000|    |
+|/players/866708/oumar-solet            |FC Salzburg |      0.042625|   0.0250000|    |
+|/players/958010/amar-dedic             |FC Salzburg |      0.033550|   0.0625000|    |
+|/players/872934/philipp-khn            |FC Salzburg |      0.000000|   0.0714286|    |
+|/players/108038/georginio-wijnaldum    |AS Roma     |      0.094575|   0.1333333|    |
+|/players/325916/paulo-dybala           |AS Roma     |      0.110950|   0.4444444|    |
+|/players/749661/tammy-abraham          |AS Roma     |      0.107575|   0.4166667|    |
+|/players/872362/marash-kumbulla        |AS Roma     |      0.000000|   0.0833333|    |
+|/players/1073977/benjamin-sesko        |FC Salzburg |      0.111400|   0.1666667|    |
+|/players/882163/chukwubuike-adamu      |FC Salzburg |      0.066050|   0.2702703|    |
+|/players/1070404/maurits-kjrgaard      |FC Salzburg |      0.057025|   0.0625000|    |
+|/players/1082597/ignace-van-der-brempt |FC Salzburg |      0.000000|   0.0200000|    |
+____________________________________________________
+
+[1] "Facts about AS Roma:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/40604/rui-patricio         |           0|         21.8454|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|    90.0|
+|/players/588687/gianluca-mancini    |           1|         55.3334|           1.7441|        0.2127|         0.6117|      0.0667|        0.0537|      0.0210|    90.0|
+|/players/165823/chris-smalling      |           1|         47.2708|           1.1125|        0.0881|         0.5067|      0.0676|        0.0296|      0.0196|    90.0|
+|/players/862538/roger-ibanez        |           1|         54.0093|           2.2483|        0.0958|         0.4392|      0.0452|        0.0207|      0.0286|    90.0|
+|/players/1053714/nicola-zalewski    |           3|         26.4918|           1.3136|        0.3607|         0.9215|      0.1228|        0.1853|      0.0508|    75.2|
+|/players/299799/bryan-cristante     |           3|         51.7497|           3.1130|        0.2662|         1.2101|      0.1065|        0.0434|      0.0648|    90.0|
+|/players/115067/nemanja-matic       |           3|         56.7446|           2.0205|        0.2569|         0.8837|      0.0449|        0.0161|      0.1372|    90.0|
+|/players/215242/leonardo-spinazzola |           3|         32.6044|           0.3941|        0.2597|         1.0207|      0.1239|        0.1458|      0.1384|    80.4|
+|/players/540307/lorenzo-pellegrini  |           4|         32.2056|           1.1763|        0.9632|         2.6465|      0.3695|        0.4186|      0.1727|    90.0|
+|/players/161328/stephan-el-shaarawy |           4|         26.1644|           1.1256|        0.5908|         1.1724|      0.0634|        0.0865|      0.1062|    79.0|
+|/players/309726/andrea-belotti      |           5|         20.7923|           0.3233|        0.9185|         2.3992|      0.4168|        0.3433|      0.0951|    81.6|
+|/players/108038/georginio-wijnaldum |          NA|              NA|               NA|        0.0593|         0.1548|      0.0564|        0.1071|      0.0053|    14.8|
+|/players/325916/paulo-dybala        |          NA|              NA|               NA|        0.3174|         0.8792|      0.1190|        0.1260|      0.0623|    11.0|
+|/players/749661/tammy-abraham       |          NA|              NA|               NA|        0.2632|         0.4073|      0.1020|        0.1144|      0.0038|     9.6|
+|/players/872362/marash-kumbulla     |          NA|              NA|               NA|        0.0000|         0.0891|      0.0113|        0.0000|      0.0076|     8.4|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|José Mourinho |       101235|       10.3063|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about FC Salzburg:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/896256/fernando               |           5|         14.9988|           0.6664|        1.1005|         2.4854|      0.4005|        0.3775|      0.0919| 74.2500|
+|/players/915797/noah-okafor            |           5|         18.7740|           0.7405|        0.5240|         1.0621|      0.1074|        0.1553|      0.0758| 71.0556|
+|/players/959597/luka-sucic             |           3|         39.6176|           1.2779|        0.6579|         1.8072|      0.1475|        0.1489|      0.1266| 90.0000|
+|/players/1024672/nicolas-seiwald       |           2|         47.3828|           2.7453|        0.2576|         1.1488|      0.0637|        0.0316|      0.0979| 90.0000|
+|/players/1137106/lucas-gourna-douath   |           2|         47.7793|           1.6963|        0.2576|         0.3661|      0.0533|        0.0316|      0.0178| 90.0000|
+|/players/1018564/nicolas-capaldo       |           2|         26.2755|           2.0772|        0.2442|         1.1957|      0.0737|        0.0346|      0.0709| 73.4737|
+|/players/43205/andreas-ulmer           |           1|         45.4913|           1.3288|        0.1467|         0.5008|      0.0490|        0.0282|      0.0692| 90.0000|
+|/players/1048023/strahinja-pavlovic    |           1|         55.2962|           2.0718|        0.1724|         0.4415|      0.1121|        0.0981|      0.0139| 90.0000|
+|/players/866708/oumar-solet            |           1|         49.4351|           1.1609|        0.1363|         0.4124|      0.0514|        0.0450|      0.0161| 77.1429|
+|/players/958010/amar-dedic             |           1|         35.5068|           1.5665|        0.1198|         0.4460|      0.0487|        0.0375|      0.0601| 90.0000|
+|/players/872934/philipp-khn            |           0|         26.5798|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1073977/benjamin-sesko        |          NA|              NA|               NA|        0.2774|         0.5618|      0.1016|        0.1266|      0.0086| 18.9444|
+|/players/882163/chukwubuike-adamu      |          NA|              NA|               NA|        0.1569|         0.4182|      0.0635|        0.0725|      0.0213| 16.5263|
+|/players/1070404/maurits-kjrgaard      |          NA|              NA|               NA|        0.1425|         0.2658|      0.0430|        0.0566|      0.0106| 15.7500|
+|/players/1082597/ignace-van-der-brempt |          NA|              NA|               NA|        0.0000|         0.0325|      0.0159|        0.0000|      0.0201| 12.8571|
+
+
+|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Matthias Jaissle |        62304|      28.45159|4-3-1-2   |
