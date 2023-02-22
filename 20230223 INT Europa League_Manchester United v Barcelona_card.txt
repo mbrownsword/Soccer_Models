@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 07:05:08.048"
+[1] "Updated at 2023-02-22 15:20:25.439"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -36,13 +36,13 @@
 [1] "--Sportsbook Odds--"
 [1] "Manchester United Barstool Odds are: 45.45"
 [1] "The Barstool Odds of a Draw are: 29.41"
-[1] "Barcelona Barstool Odds are: 31.25"
-[1] "Manchester United Adjusted Barstool Odds are: 42.833"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.717"
-[1] "Barcelona Adjusted Barstool Odds are: 29.451"
-[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 45.45"
-[1] "Barcelona's Barstool Odds to cover the 0.5 spread are: 59.52"
-[1] "Barstool's line for the total is 2.5 at 1.8, which is a 55.56% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "Barcelona Barstool Odds are: 30.3"
+[1] "Manchester United Adjusted Barstool Odds are: 43.22"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.967"
+[1] "Barcelona Adjusted Barstool Odds are: 28.813"
+[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 45.87"
+[1] "Barcelona's Barstool Odds to cover the 0.5 spread are: 58.48"
+[1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87% chance of the over 2.5 hitting. The line for the under is 2.02, which is a 49.5% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
             bet           date_time
@@ -75,11 +75,11 @@
 |/players/921253/ronald-araujo         |Barcelona         |      0.017750|   0.0833333|    |
 |/players/705450/jules-kound           |Barcelona         |      0.019325|   0.0526316|    |
 |/players/184554/marc-andre-ter-stegen |Barcelona         |      0.000000|   0.0434783|    |
-|/players/612836/donny-van-de-beek     |Manchester United |      0.028550|   0.0200000|    |
+|/players/612836/donny-van-de-beek     |Manchester United |      0.028550|   0.0196078|    |
 |/players/1073402/facundo-pellistri    |Manchester United |      0.000000|   0.1666667|    |
 |/players/322049/fred                  |Manchester United |      0.020200|   0.1250000|    |
 |/players/413557/anthony-martial       |Manchester United |      0.047375|   0.3448276|    |
-|/players/881771/ferran-torres         |Barcelona         |      0.094250|   0.2631579|    |
+|/players/881771/ferran-torres         |Barcelona         |      0.094250|   0.2564103|    |
 |/players/212472/sergi-roberto         |Barcelona         |      0.002875|   0.0555556|    |
 |/players/940573/eric-garcia           |Barcelona         |      0.000000|   0.0500000|    |
 |/players/449232/andreas-christensen   |Barcelona         |      0.000000|   0.0434783|    |
