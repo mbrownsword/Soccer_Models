@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 07:12:27.102"
+[1] "Updated at 2023-02-22 15:27:49.502"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 52.58%; max % is 54.9 and min % is 49.99%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 47.42%; max % is 50.01 and min % is 45.1%."
 [1] "--Sportsbook Odds--"
-[1] "1. FC Union Berlin Barstool Odds are: 46.73"
-[1] "The Barstool Odds of a Draw are: 30.77"
-[1] "Ajax Barstool Odds are: 27.78"
-[1] "1. FC Union Berlin Adjusted Barstool Odds are: 44.386"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.227"
-[1] "Ajax Adjusted Barstool Odds are: 26.387"
-[1] "1. FC Union Berlin's Barstool Odds to cover the -0.5 spread are: 46.73"
-[1] "Ajax's Barstool Odds to cover the 0.5 spread are: 57.8"
-[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "1. FC Union Berlin Barstool Odds are: 45.45"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Ajax Barstool Odds are: 28.57"
+[1] "1. FC Union Berlin Adjusted Barstool Odds are: 42.971"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.018"
+[1] "Ajax Adjusted Barstool Odds are: 27.011"
+[1] "1. FC Union Berlin's Barstool Odds to cover the -0.5 spread are: 45.87"
+[1] "Ajax's Barstool Odds to cover the 0.5 spread are: 58.82"
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                            bet           date_time
@@ -65,23 +65,23 @@
 |/players/244558/jrome-roussillon   |1. FC Union Berlin |      0.061200|   0.0555556|    |
 |/players/614923/kevin-behrens      |1. FC Union Berlin |      0.269900|   0.2941176|    |
 |/players/495222/sheraldo-becker    |1. FC Union Berlin |      0.223050|   0.3225806|    |
-|/players/94267/dusan-tadic         |Ajax               |      0.336825|   0.1886792|*   |
+|/players/94267/dusan-tadic         |Ajax               |      0.336825|   0.1851852|*   |
 |/players/564818/steven-bergwijn    |Ajax               |      0.030250|   0.2000000|    |
 |/players/891743/mohammed-kudus     |Ajax               |      0.222950|   0.2040816|    |
-|/players/209786/steven-berghuis    |Ajax               |      0.201200|   0.1960784|    |
-|/players/970565/kenneth-taylor     |Ajax               |      0.059000|   0.0833333|    |
+|/players/209786/steven-berghuis    |Ajax               |      0.201200|   0.1923077|    |
+|/players/970565/kenneth-taylor     |Ajax               |      0.059000|   0.0769231|    |
 |/players/783505/edson-lvarez       |Ajax               |      0.051100|   0.0833333|    |
 |/players/798062/owen-wijndal       |Ajax               |      0.034975|   0.0714286|    |
 |/players/877401/calvin-bassey      |Ajax               |      0.021600|   0.0400000|    |
-|/players/942381/jurrien-timber     |Ajax               |      0.022075|   0.0384615|    |
+|/players/942381/jurrien-timber     |Ajax               |      0.022075|   0.0370370|    |
 |/players/1180321/devyne-rensch     |Ajax               |      0.045425|   0.0454545|    |
 |/players/245555/geronimo-rulli     |Ajax               |      0.000000|   0.0625000|    |
 |/players/439148/morten-thorsby     |1. FC Union Berlin |      0.011550|   0.1250000|    |
 |/players/290105/kevin-mhwald       |1. FC Union Berlin |      0.089100|   0.3225806|    |
 |/players/419774/sven-michel        |1. FC Union Berlin |      0.106900|   0.2777778|    |
-|/players/836726/andrs-schäfer      |1. FC Union Berlin |      0.016925|   0.0322581|    |
+|/players/836726/andrs-schäfer      |1. FC Union Berlin |      0.016925|   0.0312500|    |
 |/players/298448/davy-klaassen      |Ajax               |      0.055300|   0.1333333|    |
-|/players/940446/brian-brobbey      |Ajax               |      0.138750|   0.2272727|    |
+|/players/940446/brian-brobbey      |Ajax               |      0.138750|   0.2222222|    |
 |/players/617044/florian-grillitsch |Ajax               |      0.000000|   0.0454545|    |
 |/players/1185336/chico-conceicao   |Ajax               |      0.047775|   0.1333333|    |
 ____________________________________________________
