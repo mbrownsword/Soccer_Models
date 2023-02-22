@@ -1,0 +1,141 @@
+[1] "Updated at 2023-02-22 07:01:56.306"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: PSV 1.3716 to Sevilla FC 1.2157"
+[1] "Total: 2.5873"
+[1] "PSV %: 40.47"
+[1] "Draw %: 26.68"
+[1] "Sevilla FC %: 32.85"
+[1] "--XG Model--"
+[1] "Score: PSV 1.3197 to Sevilla FC 1.1039"
+[1] "Total: 2.4236"
+[1] "PSV %: 42.07"
+[1] "Draw %: 26.91"
+[1] "Sevilla FC %: 31.02"
+[1] "--XGoT Model--"
+[1] "Score: PSV 1.3606 to Sevilla FC 1.0925"
+[1] "Total: 2.4531"
+[1] "PSV %: 43.42"
+[1] "Draw %: 26.45"
+[1] "Sevilla FC %: 30.13"
+[1] "--XA Model--"
+[1] "Score: PSV 1.4073 to Sevilla FC 1.1622"
+[1] "Total: 2.5695"
+[1] "PSV %: 43.02"
+[1] "Draw %: 25.81"
+[1] "Sevilla FC %: 31.17"
+[1] "--Mean 4 Models--"
+[1] "PSV has a mean win % of 42.24%; a min win % of 40.47%; a max win % of 43.42%."
+[1] "Draw has a mean win % of 26.46%; a min win % of 25.81%; a max win % of 26.91%."
+[1] "Sevilla FC has a mean win % of 31.29%; a min win % of 30.13%; a max win of % 32.85%."
+[1] "PSV has a mean win of the Double Chance of 68.71%; a min win % of 67.15%, a max win % of 69.87%."
+[1] "Sevilla FC has a mean win of the Double Chance of 57.76%; a min win % of 56.58%, a max win % of 59.53%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.59%; max % is 46.48 and min % is 42.3%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.41%; max % is 57.7 and min % is 53.52%."
+[1] "--Sportsbook Odds--"
+[1] "PSV Barstool Odds are: 47.62"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Sevilla FC Barstool Odds are: 29.41"
+[1] "PSV Adjusted Barstool Odds are: 45.435"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.505"
+[1] "Sevilla FC Adjusted Barstool Odds are: 28.06"
+[1] "PSV's Barstool Odds to cover the -0.5 spread are: 48.08"
+[1] "Sevilla FC's Barstool Odds to cover the 0.5 spread are: 56.82"
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                   bet           date_time
+1           Sevilla FC 2023-02-23 09:45:00
+2 under PSV/Sevilla FC 2023-02-23 09:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team       | expected_attg| expected_gs|bet |
+|:-----------------------------------|:----------|-------------:|-----------:|:---|
+|/players/448897/walter-benitez      |PSV        |      0.000000|   0.0285714|    |
+|/players/423812/philipp-mwene       |PSV        |      0.049900|   0.0714286|    |
+|/players/251244/andre-ramalho-silva |PSV        |      0.041425|   0.0714286|    |
+|/players/1030829/jarrad-branthwaite |PSV        |      0.034350|   0.0526316|    |
+|/players/180330/patrick-van-aanholt |PSV        |      0.067950|   0.0909091|    |
+|/players/774947/guus-til            |PSV        |      0.168225|   0.2439024|    |
+|/players/795371/ibrahim-sangar      |PSV        |      0.000775|   0.1333333|    |
+|/players/792429/joey-veerman        |PSV        |      0.095150|   0.1851852|    |
+|/players/1203194/johan-bakayoko     |PSV        |      0.340975|   0.1724138|*   |
+|/players/150201/luuk-de-jong        |PSV        |      0.107500|   0.3225806|    |
+|/players/1173787/xavi-simons        |PSV        |      0.169950|   0.2941176|    |
+|/players/788555/youssef-en-nesyri   |Sevilla FC |      0.265275|   0.3030303|    |
+|/players/970692/bryan-gil           |Sevilla FC |      0.132850|   0.1538462|    |
+|/players/316771/oliver-torres       |Sevilla FC |      0.163875|   0.1666667|    |
+|/players/561187/marcos-acuna        |Sevilla FC |      0.023000|   0.0526316|    |
+|/players/25773/ivan-rakitic         |Sevilla FC |      0.159850|   0.1428571|    |
+|/players/574662/joan-jordn          |Sevilla FC |      0.043525|   0.0666667|    |
+|/players/33991/jesus-navas          |Sevilla FC |      0.021400|   0.1428571|    |
+|/players/178753/nemanja-gudelj      |Sevilla FC |      0.019475|   0.0625000|    |
+|/players/101103/fernando            |Sevilla FC |      0.020025|   0.1851852|    |
+|/players/1070617/tanguy-nianzou     |Sevilla FC |      0.058375|   0.0952381|    |
+|/players/340020/yassine-bounou      |Sevilla FC |      0.000000|   0.3846154|    |
+|/players/264190/thorgan-hazard      |PSV        |      0.027400|   0.0909091|    |
+|/players/1050158/fabio-silva        |PSV        |      0.034850|   0.3636364|    |
+|/players/562267/anwar-el-ghazi      |PSV        |      0.016950|   0.0500000|    |
+|/players/794244/armando-obispo      |PSV        |      0.000750|   0.0625000|    |
+|/players/640492/rafa-mir            |Sevilla FC |      0.026050|   0.3030303|    |
+|/players/428672/alex-telles         |Sevilla FC |      0.000000|   0.0285714|    |
+|/players/844544/pape-gueye          |Sevilla FC |      0.013450|   0.1250000|    |
+|/players/357080/lucas-ocampos       |Sevilla FC |      0.029800|   0.2272727|    |
+____________________________________________________
+
+[1] "Facts about PSV:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/448897/walter-benitez      |           0|         23.0446|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/423812/philipp-mwene       |           1|         46.3354|           2.1799|        0.1423|         0.3459|      0.0432|        0.0558|      0.1589| 90.0000|
+|/players/251244/andre-ramalho-silva |           1|         68.4642|           1.2489|        0.2006|         0.8129|      0.0739|        0.0490|      0.0527| 90.0000|
+|/players/1030829/jarrad-branthwaite |           1|         50.0470|           1.2883|        0.1152|         0.3267|      0.0491|        0.0406|      0.0130| 90.0000|
+|/players/180330/patrick-van-aanholt |           1|         44.3691|           1.6940|        0.2866|         0.8040|      0.0696|        0.0793|      0.0563| 90.0000|
+|/players/774947/guus-til            |           3|         21.3963|           1.1289|        0.5343|         1.4721|      0.1658|        0.2025|      0.0784| 80.8000|
+|/players/795371/ibrahim-sangar      |           3|         61.3336|           2.6296|        0.0887|         0.6457|      0.0308|        0.0010|      0.0748| 90.0000|
+|/players/792429/joey-veerman        |           3|         54.2781|           1.6404|        0.4153|         1.3654|      0.0948|        0.1153|      0.1622| 90.0000|
+|/players/1203194/johan-bakayoko     |           5|         27.1965|           1.4083|        0.6501|         1.6198|      0.4014|        0.4603|      0.2459| 77.1818|
+|/players/150201/luuk-de-jong        |           5|         16.4567|           0.5608|        0.8179|         1.9653|      0.2019|        0.1266|      0.0515| 73.5000|
+|/players/1173787/xavi-simons        |           5|         22.5880|           0.7150|        0.7945|         1.9600|      0.2072|        0.2069|      0.0709| 75.4000|
+|/players/264190/thorgan-hazard      |          NA|              NA|               NA|        0.1372|         0.2619|      0.0302|        0.0303|      0.0314| 16.5000|
+|/players/1050158/fabio-silva        |          NA|              NA|               NA|        0.2064|         0.5153|      0.0567|        0.0389|      0.0136| 14.6000|
+|/players/562267/anwar-el-ghazi      |          NA|              NA|               NA|        0.0942|         0.1867|      0.0174|        0.0191|      0.0105| 12.8182|
+|/players/794244/armando-obispo      |          NA|              NA|               NA|        0.0000|         0.0235|      0.0024|        0.0012|      0.0006|  9.2000|
+
+
+|manager_name        | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Ruud van Nistelrooy |        29958|      16.63903|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Sevilla FC:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/788555/youssef-en-nesyri |           5|         19.0375|           0.5663|        0.7552|         1.9819|      0.3226|        0.3161|      0.0552| 78.3333|
+|/players/970692/bryan-gil         |           4|         13.9481|           0.8630|        0.5679|         1.7216|      0.1744|        0.1475|      0.1695| 72.6667|
+|/players/316771/oliver-torres     |           4|         46.7213|           1.2010|        0.7034|         1.5973|      0.1706|        0.1827|      0.0744| 90.0000|
+|/players/561187/marcos-acuna      |           3|         29.9951|           3.0352|        0.4124|         0.9294|      0.0710|        0.0236|      0.1474| 90.0000|
+|/players/25773/ivan-rakitic       |           3|         47.8934|           1.5807|        0.2469|         1.1196|      0.1290|        0.1776|      0.0748| 78.2353|
+|/players/574662/joan-jordn        |           3|         48.7164|           2.0941|        0.1677|         0.9072|      0.0551|        0.0458|      0.0863| 77.5472|
+|/players/33991/jesus-navas        |           3|         33.8738|           0.8690|        0.1947|         0.3725|      0.0204|        0.0236|      0.0627| 90.0000|
+|/players/178753/nemanja-gudelj    |           1|         56.4083|           1.5618|        0.0635|         0.3278|      0.0251|        0.0216|      0.0383| 90.0000|
+|/players/101103/fernando          |           1|         44.8890|           1.2853|        0.0635|         0.4415|      0.0417|        0.0216|      0.0232| 90.0000|
+|/players/1070617/tanguy-nianzou   |           1|         52.5330|           2.3090|        0.2253|         0.4758|      0.0555|        0.0605|      0.0351| 90.0000|
+|/players/340020/yassine-bounou    |           0|         35.2490|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/640492/rafa-mir          |          NA|              NA|               NA|        0.2456|         0.4856|      0.0597|        0.0280|      0.0018| 17.3333|
+|/players/428672/alex-telles       |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0183| 12.4528|
+|/players/844544/pape-gueye        |          NA|              NA|               NA|        0.0191|         0.1799|      0.0102|        0.0119|      0.0068| 11.7647|
+|/players/357080/lucas-ocampos     |          NA|              NA|               NA|        0.1032|         0.1960|      0.0151|        0.0284|      0.0176| 11.6667|
+
+
+|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Jorge Sampaoli |        69793|      5.233009|4-2-3-1   |
