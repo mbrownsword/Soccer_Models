@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 10:56:46.178"
+[1] "Updated at 2023-02-22 11:08:45.253"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -35,14 +35,14 @@
 [1] "The mean likelihood that there are fewer than 2.5 goals is 48.95%; max % is 51.08 and min % is 47.15%."
 [1] "--Sportsbook Odds--"
 [1] "RB Leipzig Barstool Odds are: 23.81"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Manchester City Barstool Odds are: 52.63"
-[1] "RB Leipzig Adjusted Barstool Odds are: 22.846"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.655"
-[1] "Manchester City Adjusted Barstool Odds are: 50.499"
-[1] "RB Leipzig's Barstool Odds to cover the 0.5 spread are: 51.55"
-[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 52.91"
-[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.97, which is a 50.76% chance of the under 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Manchester City Barstool Odds are: 52.38"
+[1] "RB Leipzig Adjusted Barstool Odds are: 22.728"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.272"
+[1] "Manchester City Adjusted Barstool Odds are: 50"
+[1] "RB Leipzig's Barstool Odds to cover the 0.5 spread are: 51.81"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 52.63"
+[1] "Barstool's line for the total is 2.5 at 1.87, which is a 53.48% chance of the over 2.5 hitting. The line for the under is 1.93, which is a 51.81% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
              bet           date_time
@@ -60,21 +60,21 @@
 |/players/331535/marcel-halstenberg   |RB Leipzig      |      0.038575|   0.1111111|    |
 |/players/526827/konrad-laimer        |RB Leipzig      |      0.074475|   0.0625000|    |
 |/players/620027/xaver-schlager       |RB Leipzig      |      0.033475|   0.0909091|    |
-|/players/846005/dominik-szoboszlai   |RB Leipzig      |      0.170975|   0.1960784|    |
+|/players/846005/dominik-szoboszlai   |RB Leipzig      |      0.170975|   0.2000000|    |
 |/players/171980/emil-forsberg        |RB Leipzig      |      0.263750|   0.1851852|*   |
-|/players/450980/timo-werner          |RB Leipzig      |      0.036800|   0.2325581|    |
+|/players/450980/timo-werner          |RB Leipzig      |      0.036800|   0.2380952|    |
 |/players/388523/andr-silva           |RB Leipzig      |      0.261075|   0.1960784|*   |
 |/players/312765/jack-grealish        |Manchester City |      0.107775|   0.1785714|    |
 |/players/737066/erling-braut-haaland |Manchester City |      0.408725|   0.5121951|    |
 |/players/278343/riyad-mahrez         |Manchester City |      0.242000|   0.3030303|    |
-|/players/178818/ilkay-gndogan        |Manchester City |      0.119550|   0.1923077|    |
+|/players/178818/ilkay-gndogan        |Manchester City |      0.119550|   0.1886792|    |
 |/players/675088/rodri                |Manchester City |      0.058600|   0.0714286|    |
 |/players/488139/bernardo-silva       |Manchester City |      0.087900|   0.1818182|    |
 |/players/417068/nathan-ak            |Manchester City |      0.015075|   0.0625000|    |
-|/players/521318/manuel-akanji        |Manchester City |      0.034600|   0.0555556|    |
-|/players/614006/ruben-dias           |Manchester City |      0.080950|   0.0555556|    |
+|/players/521318/manuel-akanji        |Manchester City |      0.034600|   0.0526316|    |
+|/players/614006/ruben-dias           |Manchester City |      0.080950|   0.0526316|    |
 |/players/159833/kyle-walker          |Manchester City |      0.035900|   0.0333333|    |
-|/players/363364/ederson-moraes       |Manchester City |      0.000000|   0.0277778|    |
+|/players/363364/ederson-moraes       |Manchester City |      0.000000|   0.2380952|    |
 |/players/681383/benjamin-henrichs    |RB Leipzig      |      0.011600|   0.0000000|    |
 |/players/688830/amadou-haidara       |RB Leipzig      |      0.002275|   0.0000000|    |
 |/players/266527/yussuf-poulsen       |RB Leipzig      |      0.012800|   0.0000000|    |
