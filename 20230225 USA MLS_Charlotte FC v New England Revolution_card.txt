@@ -1,0 +1,79 @@
+[1] "Updated at 2023-02-22 08:48:06.340"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Charlotte FC 1.0455 to New England Revolution 1.3219"
+[1] "Total: 2.3674"
+[1] "Charlotte FC %: 29.33"
+[1] "Draw %: 28.09"
+[1] "New England Revolution %: 42.58"
+[1] "--XG Model--"
+[1] "Score: Charlotte FC 1.1269 to New England Revolution 1.2738"
+[1] "Total: 2.4007"
+[1] "Charlotte FC %: 32.62"
+[1] "Draw %: 28.19"
+[1] "New England Revolution %: 39.19"
+[1] "--XGoT Model--"
+[1] "Score: Charlotte FC 1.2354 to New England Revolution 1.3307"
+[1] "Total: 2.5661"
+[1] "Charlotte FC %: 35.28"
+[1] "Draw %: 26.74"
+[1] "New England Revolution %: 37.98"
+[1] "--XA Model--"
+[1] "Score: Charlotte FC 1.1952 to New England Revolution 1.2847"
+[1] "Total: 2.4799"
+[1] "Charlotte FC %: 34.32"
+[1] "Draw %: 27.69"
+[1] "New England Revolution %: 37.99"
+[1] "--Mean 4 Models--"
+[1] "Charlotte FC has a mean win % of 32.89%; a min win % of 29.33%; a max win % of 35.28%."
+[1] "Draw has a mean win % of 27.68%; a min win % of 26.74%; a max win % of 28.19%."
+[1] "New England Revolution has a mean win % of 39.44%; a min win % of 37.98%; a max win of % 42.58%."
+[1] "Charlotte FC has a mean win of the Double Chance of 60.57%; a min win % of 57.42%, a max win % of 62.02%."
+[1] "New England Revolution has a mean win of the Double Chance of 67.11%; a min win % of 64.72%, a max win % of 70.67%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.7%; max % is 46.4 and min % is 41.91%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.3%; max % is 58.09 and min % is 53.6%."
+[1] "--Sportsbook Odds--"
+[1] "Charlotte FC Barstool Odds are: 48.78"
+[1] "The Barstool Odds of a Draw are: 26.67"
+[1] "New England Revolution Barstool Odds are: 31.25"
+[1] "Charlotte FC Adjusted Barstool Odds are: 45.717"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.995"
+[1] "New England Revolution Adjusted Barstool Odds are: 29.288"
+[1] "Charlotte FC's Barstool Odds to cover the -0.5 spread are: 48.08"
+[1] "New England Revolution's Barstool Odds to cover the 0.5 spread are: 56.18"
+[1] "Barstool's line for the total is 2.5 at 1.63, which is a 61.35% chance of the over 2.5 hitting. The line for the under is 2.18, which is a 45.87% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                        bet           date_time
+1  draw Charlotte FC/New England Revolution 2023-02-25 16:30:00
+2                    New England Revolution 2023-02-25 16:30:00
+3 under Charlotte FC/New England Revolution 2023-02-25 16:30:00
+4                New England Revolution ATS 2023-02-25 16:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Charlotte FC:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name        | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Christian Lattanzio |        15806|       -9.2375|4-1-4-1   |
+____________________________________________________
+
+[1] "Facts about New England Revolution:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Bruce Arena  |        87358|      5.344667|4-2-3-1   |
