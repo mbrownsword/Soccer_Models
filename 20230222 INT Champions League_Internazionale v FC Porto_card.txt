@@ -1,147 +1,140 @@
-[1] "Updated at 2023-02-21 14:28:32.766"
+[1] "Updated at 2023-02-22 11:06:36.509"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Internazionale 1.2986 to FC Porto 1.1326"
-[1] "Total: 2.4312"
-[1] "Internazionale %: 40.88"
-[1] "Draw %: 27.13"
-[1] "FC Porto %: 31.99"
+[1] "Score: Internazionale 1.2605 to FC Porto 1.1888"
+[1] "Total: 2.4493"
+[1] "Internazionale %: 38.15"
+[1] "Draw %: 27.58"
+[1] "FC Porto %: 34.27"
 [1] "--XG Model--"
-[1] "Score: Internazionale 1.2995 to FC Porto 1.1409"
-[1] "Total: 2.4404"
-[1] "Internazionale %: 40.49"
-[1] "Draw %: 27.21"
-[1] "FC Porto %: 32.3"
+[1] "Score: Internazionale 1.3929 to FC Porto 1.1618"
+[1] "Total: 2.5547"
+[1] "Internazionale %: 42.68"
+[1] "Draw %: 25.93"
+[1] "FC Porto %: 31.39"
 [1] "--XGoT Model--"
-[1] "Score: Internazionale 1.2886 to FC Porto 1.1457"
-[1] "Total: 2.4343"
-[1] "Internazionale %: 39.97"
-[1] "Draw %: 27.5"
-[1] "FC Porto %: 32.53"
+[1] "Score: Internazionale 1.4122 to FC Porto 1.1339"
+[1] "Total: 2.5461"
+[1] "Internazionale %: 43.59"
+[1] "Draw %: 26.02"
+[1] "FC Porto %: 30.39"
 [1] "--XA Model--"
-[1] "Score: Internazionale 1.3952 to FC Porto 1.198"
-[1] "Total: 2.5932"
-[1] "Internazionale %: 41.44"
-[1] "Draw %: 26.12"
-[1] "FC Porto %: 32.44"
+[1] "Score: Internazionale 1.3864 to FC Porto 1.2378"
+[1] "Total: 2.6242"
+[1] "Internazionale %: 40.97"
+[1] "Draw %: 26.03"
+[1] "FC Porto %: 33"
 [1] "--Mean 4 Models--"
-[1] "Internazionale has a mean win % of 40.7%; a min win % of 39.97%; a max win % of 41.44%."
-[1] "Draw has a mean win % of 26.99%; a min win % of 26.12%; a max win % of 27.5%."
-[1] "FC Porto has a mean win % of 32.31%; a min win % of 31.99%; a max win of % 32.53%."
-[1] "Internazionale has a mean win of the Double Chance of 67.68%; a min win % of 67.47%, a max win % of 68.01%."
-[1] "FC Porto has a mean win of the Double Chance of 59.3%; a min win % of 58.56%, a max win % of 60.03%."
-[1] "The mean likelihood that there are more than 2.5 goals is 43.79%; max % is 46.86 and min % is 42.6%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 56.21%; max % is 57.4 and min % is 53.14%."
+[1] "Internazionale has a mean win % of 41.35%; a min win % of 38.15%; a max win % of 43.59%."
+[1] "Draw has a mean win % of 26.39%; a min win % of 25.93%; a max win % of 27.58%."
+[1] "FC Porto has a mean win % of 32.26%; a min win % of 30.39%; a max win of % 34.27%."
+[1] "Internazionale has a mean win of the Double Chance of 67.74%; a min win % of 65.73%, a max win % of 69.61%."
+[1] "FC Porto has a mean win of the Double Chance of 58.65%; a min win % of 56.41%, a max win % of 61.85%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.71%; max % is 47.71 and min % is 43.2%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.29%; max % is 56.8 and min % is 52.29%."
 [1] "--Sportsbook Odds--"
-[1] "Internazionale Barstool Odds are: 58.82"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "FC Porto Barstool Odds are: 18.18"
-[1] "Internazionale Adjusted Barstool Odds are: 56.137"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.513"
-[1] "FC Porto Adjusted Barstool Odds are: 17.351"
+[1] "Internazionale Barstool Odds are: 56.52"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "FC Porto Barstool Odds are: 19.23"
+[1] "Internazionale Adjusted Barstool Odds are: 53.962"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.678"
+[1] "FC Porto Adjusted Barstool Odds are: 18.36"
 [1] "Internazionale's Barstool Odds to cover the  spread are: NA"
 [1] "FC Porto's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 2.25, which is a 44.44% chance of the over 2.5 hitting. The line for the under is 1.65, which is a 60.61% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
        bet           date_time
 1 FC Porto 2023-02-22 12:00:00
-
-
-|player        |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league            | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
-|:-------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------------|-----------:|----------:|---------:|----------:|--------:|
-|Romelu Lukaku |INT  |     24| 2.30|          NA|  0.5516|   0.1168|passes    |INT International |      0.4348|         NA|        NA|         NA|       NA|
-|Romelu Lukaku |INT  |     20| 1.85|          NA|  0.8304|   0.2899|passes    |INT International |      0.5405|         NA|        NA|         NA|       NA|
-|Romelu Lukaku |INT  |     16| 1.51|          NA|  0.9669|   0.3046|passes    |INT International |      0.6623|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                            |team           | expected_attg| expected_gs|bet |
 |:-----------------------------------|:--------------|-------------:|-----------:|:---|
-|/players/611491/andre-onana         |Internazionale |      0.000000|   0.2173913|    |
-|/players/309328/milan-skriniar      |Internazionale |      0.045250|   0.0833333|    |
-|/players/73024/francesco-acerbi     |Internazionale |      0.015525|   0.0769231|    |
-|/players/805451/alessandro-bastoni  |Internazionale |      0.024075|   0.0769231|    |
-|/players/46820/matteo-darmian       |Internazionale |      0.054725|   0.0625000|    |
-|/players/541820/nicolo-barella      |Internazionale |      0.076800|   0.1428571|    |
-|/players/206508/marcelo-brozovic    |Internazionale |      0.051100|   0.1111111|    |
-|/players/304733/hakan-calhanoglu    |Internazionale |      0.115950|   0.2222222|    |
-|/players/605224/federico-dimarco    |Internazionale |      0.112750|   0.1111111|    |
-|/players/690230/lautaro-martinez    |Internazionale |      0.228375|   0.3636364|    |
-|/players/181276/romelu-lukaku       |Internazionale |      0.314675|   0.3703704|    |
-|/players/640123/antonio-martinez    |FC Porto       |      0.165500|   0.1960784|    |
-|/players/619506/mehdi-taremi        |FC Porto       |      0.302275|   0.2272727|*   |
-|/players/850356/pepe                |FC Porto       |      0.096900|   0.0416667|*   |
-|/players/1080684/andre-franco       |FC Porto       |      0.104450|   0.0952381|    |
-|/players/816223/stephen-eustaquio   |FC Porto       |      0.091725|   0.0625000|    |
-|/players/463284/marko-grujic        |FC Porto       |      0.031975|   0.0666667|    |
-|/players/487867/wendell             |FC Porto       |      0.013225|   0.0555556|    |
-|/players/80497/ivan-marcano         |FC Porto       |      0.076175|   0.0555556|    |
-|/players/25921/pepe                 |FC Porto       |      0.016625|   0.0416667|    |
-|/players/958421/joao-mario          |FC Porto       |      0.012400|   0.0196078|    |
-|/players/795630/diogo-costa         |FC Porto       |      0.000000|   0.0555556|    |
-|/players/518346/robin-gosens        |Internazionale |      0.009000|   0.2000000|    |
-|/players/15403/edin-dzeko           |Internazionale |      0.038600|   0.4166667|    |
-|/players/319631/joaquin-correa      |Internazionale |      0.035150|   0.2000000|    |
-|/players/485634/roberto-gagliardini |Internazionale |      0.000000|   0.1250000|    |
-|/players/776972/wenderson-galeno    |FC Porto       |      0.074800|   0.4166667|    |
-|/players/1098096/evanilson          |FC Porto       |      0.000000|   0.1960784|    |
-|/players/980264/rodrigo-conceicao   |FC Porto       |      0.000000|   0.0212766|    |
-|/players/522643/wilson-manafa       |FC Porto       |      0.000000|   0.0285714|    |
+|/players/611491/andre-onana         |Internazionale |      0.000000|   0.1960784|    |
+|/players/309328/milan-skriniar      |Internazionale |      0.032675|   0.0833333|    |
+|/players/73024/francesco-acerbi     |Internazionale |      0.014425|   0.0769231|    |
+|/players/805451/alessandro-bastoni  |Internazionale |      0.018025|   0.0769231|    |
+|/players/46820/matteo-darmian       |Internazionale |      0.042000|   0.0588235|    |
+|/players/541820/nicolo-barella      |Internazionale |      0.062150|   0.1333333|    |
+|/players/304733/hakan-calhanoglu    |Internazionale |      0.094375|   0.2127660|    |
+|/players/73167/henrikh-mkhitaryan   |Internazionale |      0.124825|   0.2941176|    |
+|/players/605224/federico-dimarco    |Internazionale |      0.085850|   0.1052632|    |
+|/players/690230/lautaro-martinez    |Internazionale |      0.278075|   0.3508772|    |
+|/players/15403/edin-dzeko           |Internazionale |      0.339075|   0.4081633|    |
+|/players/776972/wenderson-galeno    |FC Porto       |      0.167975|   0.4081633|    |
+|/players/619506/mehdi-taremi        |FC Porto       |      0.378200|   0.2272727|*   |
+|/players/850356/pepe                |FC Porto       |      0.116025|   0.0416667|*   |
+|/players/463284/marko-grujic        |FC Porto       |      0.059075|   0.0666667|    |
+|/players/320618/mateus-uribe        |FC Porto       |      0.070550|   0.0952381|    |
+|/players/397019/otvio               |FC Porto       |      0.062025|   0.1000000|    |
+|/players/1079056/zaidu-sanusi       |FC Porto       |      0.026675|   0.0454545|    |
+|/players/80497/ivan-marcano         |FC Porto       |      0.036600|   0.0555556|    |
+|/players/25921/pepe                 |FC Porto       |      0.007750|   0.0416667|    |
+|/players/958421/joao-mario          |FC Porto       |      0.008175|   0.0196078|    |
+|/players/795630/diogo-costa         |FC Porto       |      0.000000|   0.0714286|    |
+|/players/518346/robin-gosens        |Internazionale |      0.014150|   0.0000000|    |
+|/players/485634/roberto-gagliardini |Internazionale |      0.000000|   0.0000000|    |
+|/players/130155/danilo-dambrosio    |Internazionale |      0.033150|   0.0000000|    |
+|/players/593118/denzel-dumfries     |Internazionale |      0.002000|   0.0000000|    |
+|/players/640123/antonio-martinez    |FC Porto       |      0.039850|   0.0000000|    |
+|/players/487867/wendell             |FC Porto       |      0.002650|   0.0000000|    |
+|/players/1098096/evanilson          |FC Porto       |      0.000000|   0.0000000|    |
+|/players/980264/rodrigo-conceicao   |FC Porto       |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Internazionale:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/611491/andre-onana         |           0|         36.1731|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/309328/milan-skriniar      |           1|         53.8237|           1.3684|        0.2319|         0.8188|      0.0983|        0.0519|      0.0220| 90.0000|
-|/players/73024/francesco-acerbi     |           1|         56.7750|           1.1576|        0.0538|         0.4334|      0.0373|        0.0177|      0.0278| 90.0000|
-|/players/805451/alessandro-bastoni  |           1|         55.3142|           1.4968|        0.1065|         0.3120|      0.0207|        0.0268|      0.0533| 90.0000|
-|/players/46820/matteo-darmian       |           3|         22.0501|           2.1370|        0.1345|         0.4360|      0.0862|        0.0607|      0.0453| 77.1111|
-|/players/541820/nicolo-barella      |           3|         44.6498|           2.0177|        0.2648|         0.9856|      0.0890|        0.0907|      0.1151| 90.0000|
-|/players/206508/marcelo-brozovic    |           3|         62.7536|           2.0074|        0.2755|         0.9606|      0.0597|        0.0627|      0.0690| 90.0000|
-|/players/304733/hakan-calhanoglu    |           3|         43.6035|           1.3693|        0.5542|         1.9205|      0.1341|        0.1326|      0.1594| 80.1842|
-|/players/605224/federico-dimarco    |           3|         26.7201|           0.9016|        0.3934|         1.2098|      0.1056|        0.1323|      0.1419| 75.7500|
-|/players/690230/lautaro-martinez    |           5|         19.4306|           1.1095|        0.8768|         2.3342|      0.2914|        0.2822|      0.0554| 77.9506|
-|/players/181276/romelu-lukaku       |           5|         25.3159|           0.2243|        1.0506|         2.2548|      0.3896|        0.4165|      0.1249| 90.0000|
-|/players/518346/robin-gosens        |          NA|              NA|               NA|        0.0486|         0.2402|      0.0200|        0.0107|      0.0327| 14.2500|
-|/players/15403/edin-dzeko           |          NA|              NA|               NA|        0.1594|         0.3152|      0.0528|        0.0410|      0.0217| 12.8889|
-|/players/319631/joaquin-correa      |          NA|              NA|               NA|        0.0905|         0.2253|      0.0476|        0.0444|      0.0276| 12.0494|
-|/players/485634/roberto-gagliardini |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0086|  9.8158|
+|/players/611491/andre-onana         |           0|         37.6380|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/309328/milan-skriniar      |           1|         49.3630|           1.5456|        0.2718|         0.8305|      0.1067|        0.0408|      0.0224| 90.0000|
+|/players/73024/francesco-acerbi     |           1|         51.9449|           1.3050|        0.0828|         0.4527|      0.0408|        0.0155|      0.0284| 90.0000|
+|/players/805451/alessandro-bastoni  |           1|         50.7975|           1.7165|        0.1230|         0.3117|      0.0220|        0.0207|      0.0559| 90.0000|
+|/players/46820/matteo-darmian       |           3|         24.4108|           2.2222|        0.1122|         0.3937|      0.0753|        0.0527|      0.0460| 77.1111|
+|/players/541820/nicolo-barella      |           3|         49.4234|           2.1273|        0.2180|         0.8972|      0.0781|        0.0775|      0.1177| 90.0000|
+|/players/304733/hakan-calhanoglu    |           3|         48.2718|           1.4239|        0.4624|         1.7345|      0.1171|        0.1152|      0.1620| 80.1842|
+|/players/73167/henrikh-mkhitaryan   |           3|         40.7429|           1.7974|        0.3953|         1.2770|      0.1889|        0.1539|      0.1014| 90.0000|
+|/players/605224/federico-dimarco    |           3|         29.7407|           1.0286|        0.3151|         1.0772|      0.0895|        0.1101|      0.1461| 75.8800|
+|/players/690230/lautaro-martinez    |           5|         16.7464|           0.6485|        0.9126|         1.9974|      0.3165|        0.3719|      0.0537| 77.9506|
+|/players/15403/edin-dzeko           |           5|         27.8631|           0.3411|        1.0018|         2.3929|      0.4293|        0.4793|      0.1006| 90.0000|
+|/players/518346/robin-gosens        |           0|              NA|               NA|        0.0713|         0.2934|      0.0316|        0.0180|      0.0309| 14.1200|
+|/players/485634/roberto-gagliardini |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0109| 12.8889|
+|/players/130155/danilo-dambrosio    |           0|              NA|               NA|        0.0920|         0.1457|      0.0228|        0.0380|      0.0024| 12.0494|
+|/players/593118/denzel-dumfries     |           0|              NA|               NA|        0.0459|         0.0872|      0.0079|        0.0031|      0.0182|  9.8158|
 
 
 |manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
 |:--------------|------------:|-------------:|:---------|
-|Simone Inzaghi |       110754|      11.59271|3-5-2     |
+|Simone Inzaghi |       111744|      11.61166|3-5-2     |
 ____________________________________________________
 
 [1] "Facts about FC Porto:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/640123/antonio-martinez  |           5|         16.8072|           0.7348|        0.6907|         1.6497|      0.1860|        0.2054|      0.0677| 75.3333|
-|/players/619506/mehdi-taremi      |           5|         28.3884|           0.9562|        0.8632|         2.3127|      0.4574|        0.4198|      0.1159| 90.0000|
-|/players/850356/pepe              |           3|         28.8933|           0.9974|        0.2653|         0.8702|      0.0946|        0.1214|      0.1420| 81.0000|
-|/players/1080684/andre-franco     |           3|         25.3133|           1.5360|        0.5837|         1.4890|      0.1540|        0.1294|      0.0624| 81.3333|
-|/players/816223/stephen-eustaquio |           3|         52.7899|           2.2609|        0.3147|         1.0704|      0.0759|        0.1121|      0.0962| 90.0000|
-|/players/463284/marko-grujic      |           3|         44.4697|           1.8951|        0.2985|         0.8702|      0.0557|        0.0391|      0.0650| 75.0000|
-|/players/487867/wendell           |           1|         57.4083|           2.9428|        0.0903|         0.2755|      0.0089|        0.0138|      0.0630| 90.0000|
-|/players/80497/ivan-marcano       |           1|         45.1799|           0.7013|        0.2474|         0.8628|      0.1019|        0.0903|      0.0359| 90.0000|
-|/players/25921/pepe               |           1|         53.3294|           1.1142|        0.0587|         0.3683|      0.0331|        0.0189|      0.0188| 90.0000|
-|/players/958421/joao-mario        |           1|         37.4334|           1.3419|        0.0653|         0.2989|      0.0164|        0.0164|      0.0701| 90.0000|
-|/players/795630/diogo-costa       |           0|         39.1436|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/776972/wenderson-galeno  |          NA|              NA|               NA|        0.2633|         0.4909|      0.0775|        0.0880|      0.0261| 15.0000|
-|/players/1098096/evanilson        |          NA|              NA|               NA|        0.0000|         0.1829|      0.0311|        0.0000|      0.0108| 14.6667|
-|/players/980264/rodrigo-conceicao |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0433|  9.0000|
-|/players/522643/wilson-manafa     |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0018|  8.6667|
+|/players/776972/wenderson-galeno  |           5|         20.5536|           0.6824|        0.6538|         1.6103|      0.1371|        0.2009|      0.0735| 77.6923|
+|/players/619506/mehdi-taremi      |           5|         20.0927|           0.5700|        1.4016|         3.2607|      0.5858|        0.5342|      0.1038| 90.0000|
+|/players/850356/pepe              |           3|         32.7739|           1.2355|        0.4559|         1.5509|      0.1731|        0.1464|      0.1214| 81.0000|
+|/players/463284/marko-grujic      |           2|         35.7235|           2.6167|        0.1725|         0.6972|      0.0305|        0.0650|      0.0139| 80.3333|
+|/players/320618/mateus-uribe      |           2|         40.6387|           1.3653|        0.2957|         0.8367|      0.0785|        0.0796|      0.0337| 80.2857|
+|/players/397019/otvio             |           2|         49.3741|           1.8767|        0.3323|         1.1585|      0.0781|        0.0729|      0.2755| 90.0000|
+|/players/1079056/zaidu-sanusi     |           1|         37.0813|           2.0801|        0.0957|         0.4315|      0.0440|        0.0305|      0.0318| 90.0000|
+|/players/80497/ivan-marcano       |           1|         55.6961|           0.8710|        0.2203|         0.7729|      0.0892|        0.0457|      0.0418| 90.0000|
+|/players/25921/pepe               |           1|         65.7426|           1.3839|        0.0522|         0.3299|      0.0290|        0.0095|      0.0219| 90.0000|
+|/players/958421/joao-mario        |           1|         46.1465|           1.6666|        0.0582|         0.2677|      0.0143|        0.0083|      0.0818| 90.0000|
+|/players/795630/diogo-costa       |           0|         38.2927|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/640123/antonio-martinez  |           0|              NA|               NA|        0.1842|         0.3880|      0.0407|        0.0463|      0.0051| 12.3077|
+|/players/487867/wendell           |           0|              NA|               NA|        0.0166|         0.0349|      0.0063|        0.0027|      0.0032|  9.7143|
+|/players/1098096/evanilson        |           0|              NA|               NA|        0.0000|         0.0826|      0.0066|        0.0000|      0.0073|  9.6667|
+|/players/980264/rodrigo-conceicao |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0442|  9.0000|
 
 
 |manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
 |:----------------|------------:|-------------:|:---------|
-|Sergio Conceicao |       101283|      20.69945|4-4-2     |
+|Sergio Conceicao |       102273|      20.79945|4-4-2     |
