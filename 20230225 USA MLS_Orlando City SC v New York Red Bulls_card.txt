@@ -1,0 +1,76 @@
+[1] "Updated at 2023-02-22 08:55:50.735"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Orlando City SC 1.2823 to New York Red Bulls 1.1214"
+[1] "Total: 2.4037"
+[1] "Orlando City SC %: 40.75"
+[1] "Draw %: 27.33"
+[1] "New York Red Bulls %: 31.92"
+[1] "--XG Model--"
+[1] "Score: Orlando City SC 1.355 to New York Red Bulls 1.0873"
+[1] "Total: 2.4423"
+[1] "Orlando City SC %: 43.38"
+[1] "Draw %: 26.3"
+[1] "New York Red Bulls %: 30.32"
+[1] "--XGoT Model--"
+[1] "Score: Orlando City SC 1.3988 to New York Red Bulls 1.1196"
+[1] "Total: 2.5184"
+[1] "Orlando City SC %: 43.82"
+[1] "Draw %: 26.07"
+[1] "New York Red Bulls %: 30.11"
+[1] "--XA Model--"
+[1] "Score: Orlando City SC 1.4469 to New York Red Bulls 1.1014"
+[1] "Total: 2.5483"
+[1] "Orlando City SC %: 45.01"
+[1] "Draw %: 25.76"
+[1] "New York Red Bulls %: 29.23"
+[1] "--Mean 4 Models--"
+[1] "Orlando City SC has a mean win % of 43.24%; a min win % of 40.75%; a max win % of 45.01%."
+[1] "Draw has a mean win % of 26.36%; a min win % of 25.76%; a max win % of 27.33%."
+[1] "New York Red Bulls has a mean win % of 30.4%; a min win % of 29.23%; a max win of % 31.92%."
+[1] "Orlando City SC has a mean win of the Double Chance of 69.61%; a min win % of 68.08%, a max win % of 70.77%."
+[1] "New York Red Bulls has a mean win of the Double Chance of 56.76%; a min win % of 54.99%, a max win % of 59.25%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.89%; max % is 45.78 and min % is 41.91%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.11%; max % is 58.09 and min % is 54.22%."
+[1] "--Sportsbook Odds--"
+[1] "Orlando City SC Barstool Odds are: 42.55"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "New York Red Bulls Barstool Odds are: 33.33"
+[1] "Orlando City SC Adjusted Barstool Odds are: 39.897"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.851"
+[1] "New York Red Bulls Adjusted Barstool Odds are: 31.252"
+[1] "Orlando City SC's Barstool Odds to cover the -0.5 spread are: 42.02"
+[1] "New York Red Bulls's Barstool Odds to cover the 0.5 spread are: 62.5"
+[1] "Barstool's line for the total is 2.5 at 2.07, which is a 48.31% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 16:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Orlando City SC:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Oscar Pareja |        83252|    -0.0966667|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about New York Red Bulls:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Gerhard Struber |        73377|      1.204894|4-2-3-1   |
