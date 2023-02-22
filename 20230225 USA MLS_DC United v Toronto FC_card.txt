@@ -1,0 +1,78 @@
+[1] "Updated at 2023-02-22 08:50:04.990"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: DC United 1.025 to Toronto FC 1.2893"
+[1] "Total: 2.3143"
+[1] "DC United %: 29.19"
+[1] "Draw %: 28.56"
+[1] "Toronto FC %: 42.25"
+[1] "--XG Model--"
+[1] "Score: DC United 1.0204 to Toronto FC 1.319"
+[1] "Total: 2.3394"
+[1] "DC United %: 28.79"
+[1] "Draw %: 28.17"
+[1] "Toronto FC %: 43.04"
+[1] "--XGoT Model--"
+[1] "Score: DC United 0.9938 to Toronto FC 1.2921"
+[1] "Total: 2.2859"
+[1] "DC United %: 28.42"
+[1] "Draw %: 28.83"
+[1] "Toronto FC %: 42.75"
+[1] "--XA Model--"
+[1] "Score: DC United 1.0504 to Toronto FC 1.379"
+[1] "Total: 2.4294"
+[1] "DC United %: 28.88"
+[1] "Draw %: 27.24"
+[1] "Toronto FC %: 43.88"
+[1] "--Mean 4 Models--"
+[1] "DC United has a mean win % of 28.82%; a min win % of 28.42%; a max win % of 29.19%."
+[1] "Draw has a mean win % of 28.2%; a min win % of 27.24%; a max win % of 28.83%."
+[1] "Toronto FC has a mean win % of 42.98%; a min win % of 42.25%; a max win of % 43.88%."
+[1] "DC United has a mean win of the Double Chance of 57.02%; a min win % of 56.12%, a max win % of 57.75%."
+[1] "Toronto FC has a mean win of the Double Chance of 71.18%; a min win % of 70.81%, a max win % of 71.58%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.88%; max % is 43.52 and min % is 39.17%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.11%; max % is 60.83 and min % is 56.48%."
+[1] "--Sportsbook Odds--"
+[1] "DC United Barstool Odds are: 43.48"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Toronto FC Barstool Odds are: 35.71"
+[1] "DC United Adjusted Barstool Odds are: 40.647"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.97"
+[1] "Toronto FC Adjusted Barstool Odds are: 33.383"
+[1] "DC United's Barstool Odds to cover the -0.5 spread are: 42.92"
+[1] "Toronto FC's Barstool Odds to cover the 0.5 spread are: 61.35"
+[1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                         bet           date_time
+1                 Toronto FC 2023-02-25 16:30:00
+2 under DC United/Toronto FC 2023-02-25 16:30:00
+3             Toronto FC ATS 2023-02-25 16:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about DC United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Wayne Rooney |        86880|     -5.354432|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Toronto FC:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Bob Bradley  |        81055|      6.740119|4-3-3     |
