@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 07:07:25.548"
+[1] "Updated at 2023-02-22 15:22:46.777"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 46.1%; max % is 49.83 and min % is 41.71%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 53.9%; max % is 58.29 and min % is 50.17%."
 [1] "--Sportsbook Odds--"
-[1] "Stade Rennes Barstool Odds are: 60.61"
+[1] "Stade Rennes Barstool Odds are: 61.9"
 [1] "The Barstool Odds of a Draw are: 25"
-[1] "Shakhtar Donetsk Barstool Odds are: 20.83"
-[1] "Stade Rennes Adjusted Barstool Odds are: 56.943"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.487"
-[1] "Shakhtar Donetsk Adjusted Barstool Odds are: 19.57"
-[1] "Stade Rennes's Barstool Odds to cover the -0.5 spread are: 59.52"
-[1] "Shakhtar Donetsk's Barstool Odds to cover the 0.5 spread are: 45.45"
-[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
+[1] "Shakhtar Donetsk Barstool Odds are: 20"
+[1] "Stade Rennes Adjusted Barstool Odds are: 57.905"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.386"
+[1] "Shakhtar Donetsk Adjusted Barstool Odds are: 18.709"
+[1] "Stade Rennes's Barstool Odds to cover the -0.5 spread are: 60.61"
+[1] "Shakhtar Donetsk's Barstool Odds to cover the 0.5 spread are: 43.86"
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.14, which is a 46.73% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                   bet           date_time
@@ -54,34 +54,34 @@
 
 |pageUrl2                                  |team             | expected_attg| expected_gs|bet |
 |:-----------------------------------------|:----------------|-------------:|-----------:|:---|
-|/players/31293/steve-mandanda             |Stade Rennes     |      0.000000|   0.1851852|    |
+|/players/31293/steve-mandanda             |Stade Rennes     |      0.000000|   0.1818182|    |
 |/players/894803/djed-spence               |Stade Rennes     |      0.037450|   0.1111111|    |
 |/players/1202595/warmed-omari             |Stade Rennes     |      0.033225|   0.0500000|    |
 |/players/1329406/jeanul-belocian          |Stade Rennes     |      0.033350|   0.0333333|    |
 |/players/566681/birger-meling             |Stade Rennes     |      0.032825|   0.0833333|    |
-|/players/441871/benjamin-bourigeaud       |Stade Rennes     |      0.104100|   0.1666667|    |
+|/players/441871/benjamin-bourigeaud       |Stade Rennes     |      0.104100|   0.1538462|    |
 |/players/762721/lovro-majer               |Stade Rennes     |      0.117050|   0.2500000|    |
 |/players/478105/baptiste-santamaria       |Stade Rennes     |      0.023750|   0.1250000|    |
 |/players/426906/karl-toko-ekambi          |Stade Rennes     |      0.251800|   0.3030303|    |
 |/players/844437/amine-gouiri              |Stade Rennes     |      0.297175|   0.3846154|    |
 |/players/1095445/arnaud-kalimuendo-muinga |Stade Rennes     |      0.260925|   0.3636364|    |
-|/players/850858/lassina-traore            |Shakhtar Donetsk |      0.265625|   0.2564103|    |
-|/players/1189791/dmytro-kryskiv           |Shakhtar Donetsk |      0.108775|   0.1785714|    |
+|/players/850858/lassina-traore            |Shakhtar Donetsk |      0.265625|   0.2702703|    |
+|/players/1189791/dmytro-kryskiv           |Shakhtar Donetsk |      0.108775|   0.1851852|    |
 |/players/1192398/georgiy-sudakov          |Shakhtar Donetsk |      0.111175|   0.1428571|    |
 |/players/1116325/artem-bondarenko         |Shakhtar Donetsk |      0.101350|   0.1333333|    |
 |/players/655636/oleksandr-zubkov          |Shakhtar Donetsk |      0.100925|   0.1428571|    |
-|/players/92642/taras-stepanenko           |Shakhtar Donetsk |      0.016700|   0.0526316|    |
-|/players/629902/bogdan-mykhaylychenko     |Shakhtar Donetsk |      0.008525|   0.0384615|    |
-|/players/656667/mykola-matviyenko         |Shakhtar Donetsk |      0.078425|   0.0357143|    |
-|/players/1024427/valeriy-bondar           |Shakhtar Donetsk |      0.008425|   0.0384615|    |
-|/players/1054026/yukhym-konoplia          |Shakhtar Donetsk |      0.006700|   0.0357143|    |
+|/players/92642/taras-stepanenko           |Shakhtar Donetsk |      0.016700|   0.0555556|    |
+|/players/629902/bogdan-mykhaylychenko     |Shakhtar Donetsk |      0.008525|   0.0400000|    |
+|/players/656667/mykola-matviyenko         |Shakhtar Donetsk |      0.078425|   0.0370370|    |
+|/players/1024427/valeriy-bondar           |Shakhtar Donetsk |      0.008425|   0.0400000|    |
+|/players/1054026/yukhym-konoplia          |Shakhtar Donetsk |      0.006700|   0.0370370|    |
 |/players/1022350/anatolii-trubin          |Shakhtar Donetsk |      0.000000|   0.2380952|    |
 |/players/942368/jrémy-doku                |Stade Rennes     |      0.024025|   0.2173913|    |
 |/players/1177358/adrien-truffert          |Stade Rennes     |      0.077125|   0.0909091|    |
 |/players/1200631/lesley-ugochukwu         |Stade Rennes     |      0.001450|   0.0714286|    |
 |/players/470810/xeka                      |Stade Rennes     |      0.008075|   0.1250000|    |
-|/players/620543/maryan-shved              |Shakhtar Donetsk |      0.015575|   0.0416667|    |
-|/players/955572/danylo-sikan              |Shakhtar Donetsk |      0.054525|   0.2564103|    |
+|/players/620543/maryan-shved              |Shakhtar Donetsk |      0.015575|   0.0434783|    |
+|/players/955572/danylo-sikan              |Shakhtar Donetsk |      0.054525|   0.2702703|    |
 |/players/291731/ivan-petryak              |Shakhtar Donetsk |      0.000000|   0.1538462|    |
 |/players/1054024/viktor-korniienko        |Shakhtar Donetsk |      0.002425|   0.0303030|    |
 ____________________________________________________
