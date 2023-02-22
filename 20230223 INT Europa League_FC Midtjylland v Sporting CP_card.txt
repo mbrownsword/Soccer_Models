@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 06:53:14.148"
+[1] "Updated at 2023-02-22 15:09:13.212"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -41,7 +41,7 @@
 [1] "The Adjusted Barstool Odds of a Draw are: 26.354"
 [1] "Sporting CP Adjusted Barstool Odds are: 51.75"
 [1] "FC Midtjylland's Barstool Odds to cover the 0.5 spread are: 50.51"
-[1] "Sporting CP's Barstool Odds to cover the -0.5 spread are: 54.35"
+[1] "Sporting CP's Barstool Odds to cover the -0.5 spread are: 54.05"
 [1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.88, which is a 53.19% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -53,35 +53,35 @@
 |pageUrl2                             |team           | expected_attg| expected_gs|bet |
 |:------------------------------------|:--------------|-------------:|-----------:|:---|
 |/players/120598/jonas-lssl           |FC Midtjylland |      0.000000|   0.0476190|    |
-|/players/614167/joel-andersson       |FC Midtjylland |      0.017675|   0.0526316|    |
-|/players/31241/henrik-dalsgaard      |FC Midtjylland |      0.027275|   0.0476190|    |
-|/players/395651/stefan-gartenmann    |FC Midtjylland |      0.022475|   0.0357143|    |
-|/players/891678/paulinho             |FC Midtjylland |      0.016775|   0.0312500|    |
-|/players/1057426/armin-gigovic       |FC Midtjylland |      0.108350|   0.1111111|    |
-|/players/1097009/oliver-srensen      |FC Midtjylland |      0.006625|   0.1000000|    |
+|/players/614167/joel-andersson       |FC Midtjylland |      0.017675|   0.0500000|    |
+|/players/31241/henrik-dalsgaard      |FC Midtjylland |      0.027275|   0.0454545|    |
+|/players/395651/stefan-gartenmann    |FC Midtjylland |      0.022475|   0.0344828|    |
+|/players/891678/paulinho             |FC Midtjylland |      0.016775|   0.0294118|    |
+|/players/1057426/armin-gigovic       |FC Midtjylland |      0.108350|   0.1052632|    |
+|/players/1097009/oliver-srensen      |FC Midtjylland |      0.006625|   0.0952381|    |
 |/players/578187/kristoffer-olsson    |FC Midtjylland |      0.056100|   0.0769231|    |
-|/players/1016093/gustav-isaksen      |FC Midtjylland |      0.145600|   0.1694915|    |
-|/players/1129810/frederik-heiselberg |FC Midtjylland |      0.172725|   0.2083333|    |
-|/players/1332217/valdemar-byskov     |FC Midtjylland |      0.152000|   0.0384615|*   |
+|/players/1016093/gustav-isaksen      |FC Midtjylland |      0.145600|   0.1666667|    |
+|/players/1129810/frederik-heiselberg |FC Midtjylland |      0.172725|   0.2000000|    |
+|/players/1332217/valdemar-byskov     |FC Midtjylland |      0.152000|   0.0400000|*   |
 |/players/875133/pedro-goncalves      |Sporting CP    |      0.353525|   0.0416667|*   |
-|/players/361377/paulinho             |Sporting CP    |      0.303075|   0.0312500|*   |
+|/players/361377/paulinho             |Sporting CP    |      0.303075|   0.0294118|*   |
 |/players/637744/marcus-edwards       |Sporting CP    |      0.117525|   0.3125000|    |
-|/players/554283/nuno-santos          |Sporting CP    |      0.182850|   0.3636364|    |
+|/players/554283/nuno-santos          |Sporting CP    |      0.182850|   0.3703704|    |
 |/players/1035614/manuel-ugarte       |Sporting CP    |      0.029900|   0.0909091|    |
 |/players/915102/hidemasa-morita      |Sporting CP    |      0.079275|   0.1538462|    |
-|/players/300918/ricardo-esgaio       |Sporting CP    |      0.026650|   0.0555556|    |
-|/players/653592/matheus              |Sporting CP    |      0.038300|   0.3508772|    |
+|/players/300918/ricardo-esgaio       |Sporting CP    |      0.026650|   0.0588235|    |
+|/players/653592/matheus              |Sporting CP    |      0.038300|   0.3571429|    |
 |/players/165526/sebastin-coates      |Sporting CP    |      0.043175|   0.0714286|    |
 |/players/611831/jerry-st-juste       |Sporting CP    |      0.037600|   0.0769231|    |
 |/players/40648/antonio-adan          |Sporting CP    |      0.000000|   0.2702703|    |
-|/players/848296/edward-chilufya      |FC Midtjylland |      0.043525|   0.1724138|    |
+|/players/848296/edward-chilufya      |FC Midtjylland |      0.043525|   0.1666667|    |
 |/players/304673/pione-sisto          |FC Midtjylland |      0.003875|   0.0526316|    |
 |/players/775266/charles              |FC Midtjylland |      0.014800|   0.0714286|    |
-|/players/737825/astrit-selmani       |FC Midtjylland |      0.040550|   0.2380952|    |
-|/players/732282/trincao              |Sporting CP    |      0.074300|   0.2702703|    |
+|/players/737825/astrit-selmani       |FC Midtjylland |      0.040550|   0.2272727|    |
+|/players/732282/trincao              |Sporting CP    |      0.074300|   0.2777778|    |
 |/players/554285/rochinha             |Sporting CP    |      0.051175|   0.2857143|    |
-|/players/785716/jovane-cabral        |Sporting CP    |      0.058425|   0.2631579|    |
-|/players/164319/neto                 |Sporting CP    |      0.000000|   0.3508772|    |
+|/players/785716/jovane-cabral        |Sporting CP    |      0.058425|   0.2702703|    |
+|/players/164319/neto                 |Sporting CP    |      0.000000|   0.3571429|    |
 ____________________________________________________
 
 [1] "Facts about FC Midtjylland:"
