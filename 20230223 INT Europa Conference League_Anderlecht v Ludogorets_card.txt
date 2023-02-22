@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-22 15:56:55.438"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Anderlecht 1.6208 to Ludogorets 1.2521"
+[1] "Total: 2.8729"
+[1] "Anderlecht %: 46.54"
+[1] "Draw %: 24.37"
+[1] "Ludogorets %: 29.09"
+[1] "--XG Model--"
+[1] "Score: Anderlecht 1.608 to Ludogorets 1.0597"
+[1] "Total: 2.6677"
+[1] "Anderlecht %: 50.58"
+[1] "Draw %: 24.61"
+[1] "Ludogorets %: 24.81"
+[1] "--XGoT Model--"
+[1] "Score: Anderlecht 1.5059 to Ludogorets 1.126"
+[1] "Total: 2.6319"
+[1] "Anderlecht %: 46.5"
+[1] "Draw %: 24.63"
+[1] "Ludogorets %: 28.87"
+[1] "--XA Model--"
+[1] "Score: Anderlecht 1.8042 to Ludogorets 1.1683"
+[1] "Total: 2.9725"
+[1] "Anderlecht %: 52.9"
+[1] "Draw %: 23.15"
+[1] "Ludogorets %: 23.95"
+[1] "--Mean 4 Models--"
+[1] "Anderlecht has a mean win % of 49.13%; a min win % of 46.5%; a max win % of 52.9%."
+[1] "Draw has a mean win % of 24.19%; a min win % of 23.15%; a max win % of 24.63%."
+[1] "Ludogorets has a mean win % of 26.68%; a min win % of 23.95%; a max win of % 29.09%."
+[1] "Anderlecht has a mean win of the Double Chance of 73.32%; a min win % of 70.91%, a max win % of 76.05%."
+[1] "Ludogorets has a mean win of the Double Chance of 50.87%; a min win % of 47.1%, a max win % of 53.5%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.84%; max % is 56.51 and min % is 48%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.16%; max % is 52 and min % is 43.49%."
+[1] "--Sportsbook Odds--"
+[1] "Anderlecht Barstool Odds are: 52.38"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Ludogorets Barstool Odds are: 25"
+[1] "Anderlecht Adjusted Barstool Odds are: 49.438"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.966"
+[1] "Ludogorets Adjusted Barstool Odds are: 23.596"
+[1] "Anderlecht's Barstool Odds to cover the 0.5 spread are: 80"
+[1] "Ludogorets's Barstool Odds to cover the -0.5 spread are: 24.39"
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.74, which is a 57.47% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                         bet           date_time
+1 over Anderlecht/Ludogorets 2023-02-23 09:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                          |team       | expected_attg| expected_gs|bet |
+|:---------------------------------|:----------|-------------:|-----------:|:---|
+|/players/1131987/bart-verbruggen  |Anderlecht |      0.000000|   0.0555556|    |
+|/players/1359649/noah-sadiki      |Anderlecht |      0.026125|   0.0833333|    |
+|/players/1232172/zeno-debast      |Anderlecht |      0.031300|   0.0434783|    |
+|/players/37762/jan-vertonghen     |Anderlecht |      0.062450|   0.0555556|    |
+|/players/1076975/killian-sardella |Anderlecht |      0.030575|   0.0357143|    |
+|/players/1053293/kristian-arnstad |Anderlecht |      0.070200|   0.1176471|    |
+|/players/668307/amadou-diawara    |Anderlecht |      0.011475|   0.0666667|    |
+|/players/988793/yari-verschaeren  |Anderlecht |      0.181975|   0.1724138|    |
+|/players/641344/anders-dreyer     |Anderlecht |      0.363625|   0.3508772|    |
+|/players/289248/benito-raman      |Anderlecht |      0.197350|   0.3125000|    |
+|/players/1219672/mario-stroeykens |Anderlecht |      0.249025|   0.2500000|    |
+|/players/1302005/thiago-rodrigues |Ludogorets |      0.243250|   0.0476190|*   |
+|/players/726948/bernard-tekpetey  |Ludogorets |      0.137575|   0.1694915|    |
+|/players/951359/nonato            |Ludogorets |      0.132775|   0.0909091|    |
+|/players/364430/kiril-despodov    |Ludogorets |      0.143550|   0.2083333|    |
+|/players/1109550/pedrinho         |Ludogorets |      0.057325|   0.2857143|    |
+|/players/689987/jakub-piotrowski  |Ludogorets |      0.055700|   0.0909091|    |
+|/players/312458/anton-nedyalkov   |Ludogorets |      0.019100|   0.0270270|    |
+|/players/176910/igor-plastun      |Ludogorets |      0.043200|   0.0434783|    |
+|/players/736362/franco-russo      |Ludogorets |      0.020300|   0.0312500|    |
+|/players/537194/aslak-fonn-witry  |Ludogorets |      0.038400|   0.0500000|    |
+|/players/156553/sergio-padt       |Ludogorets |      0.000000|   0.0769231|    |
+|/players/291219/islam-slimani     |Anderlecht |      0.049650|   0.3703704|    |
+|/players/911296/francis-amuzu     |Anderlecht |      0.054525|   0.2325581|    |
+|/players/850925/majeed-ashimeru   |Anderlecht |      0.045050|   0.0833333|    |
+|/players/14557/lior-refaelov      |Anderlecht |      0.000000|   0.2857143|    |
+|/players/859042/show              |Ludogorets |      0.026875|   0.0303030|    |
+|/players/640279/dinis-almeida     |Ludogorets |      0.000000|   0.1052632|    |
+|/players/169287/spas-delev        |Ludogorets |      0.000000|   0.2000000|    |
+|/players/791624/pipa              |Ludogorets |      0.076175|   0.0303030|    |
+____________________________________________________
+
+[1] "Facts about Anderlecht:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1131987/bart-verbruggen  |           0|         37.1903|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1359649/noah-sadiki      |           1|         33.7690|           2.1642|        0.0916|         0.2752|      0.0235|        0.0242|      0.0609| 73.0000|
+|/players/1232172/zeno-debast      |           1|         55.6632|           1.4373|        0.1129|         0.3393|      0.0290|        0.0298|      0.1042| 90.0000|
+|/players/37762/jan-vertonghen     |           1|         61.2719|           1.2979|        0.2905|         0.9351|      0.0801|        0.0616|      0.0330| 90.0000|
+|/players/1076975/killian-sardella |           1|         57.4558|           1.2839|        0.1129|         0.7577|      0.0646|        0.0298|      0.0699| 90.0000|
+|/players/1053293/kristian-arnstad |           3|         40.8564|           2.5496|        0.2629|         1.2395|      0.0848|        0.0710|      0.0542| 90.0000|
+|/players/668307/amadou-diawara    |           3|         48.6097|           1.6886|        0.1096|         0.5815|      0.0213|        0.0116|      0.0394| 78.8235|
+|/players/988793/yari-verschaeren  |           3|         43.3554|           1.4530|        0.7764|         1.8305|      0.2091|        0.1940|      0.2111| 79.3667|
+|/players/641344/anders-dreyer     |           5|         30.7270|           0.6771|        1.0533|         3.3326|      0.4904|        0.4261|      0.2623| 90.0000|
+|/players/289248/benito-raman      |           5|         14.8561|           0.9125|        0.7422|         2.1796|      0.3510|        0.2106|      0.1200| 71.4706|
+|/players/1219672/mario-stroeykens |           5|         33.4057|           1.7430|        0.9346|         1.4791|      0.0923|        0.2652|      0.0719| 90.0000|
+|/players/291219/islam-slimani     |          NA|              NA|               NA|        0.2610|         0.8816|      0.0881|        0.0492|      0.0269| 18.5294|
+|/players/911296/francis-amuzu     |          NA|              NA|               NA|        0.2738|         0.8893|      0.0846|        0.0524|      0.0302| 17.0000|
+|/players/850925/majeed-ashimeru   |          NA|              NA|               NA|        0.0726|         0.1887|      0.0309|        0.0454|      0.0508| 11.1765|
+|/players/14557/lior-refaelov      |          NA|              NA|               NA|        0.0000|         0.1000|      0.0089|        0.0000|      0.0628| 10.6333|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Brian Riemer |         9611|        10.832|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Ludogorets:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1302005/thiago-rodrigues |           5|         15.7924|           0.6444|        0.7304|         1.5976|      0.2527|        0.2803|      0.0414| 75.5000|
+|/players/726948/bernard-tekpetey  |           3|         12.5267|           1.4781|        0.4488|         1.2158|      0.1226|        0.1451|      0.0810| 69.0000|
+|/players/951359/nonato            |           3|         36.4724|           1.3139|        0.0997|         0.4323|      0.1192|        0.1411|      0.0788| 67.1111|
+|/players/364430/kiril-despodov    |           3|         15.7107|           0.4607|        0.9792|         2.0336|      0.1316|        0.1558|      0.0870| 74.0909|
+|/players/1109550/pedrinho         |           2|         44.2096|           3.7917|        0.2194|         0.6941|      0.0535|        0.0563|      0.0234| 90.0000|
+|/players/689987/jakub-piotrowski  |           2|         41.0610|           0.7075|        0.2194|         0.6941|      0.0535|        0.0563|      0.0755| 90.0000|
+|/players/312458/anton-nedyalkov   |           1|         42.1767|           2.2102|        0.0383|         0.1975|      0.0087|        0.0196|      0.0347| 90.0000|
+|/players/176910/igor-plastun      |           1|         40.6300|           0.8019|        0.2237|         0.5767|      0.0810|        0.0437|      0.0190| 90.0000|
+|/players/736362/franco-russo      |           1|         33.5182|           1.7439|        0.0579|         0.1493|      0.0076|        0.0196|      0.0166| 90.0000|
+|/players/537194/aslak-fonn-witry  |           1|         44.5115|           2.4159|        0.1826|         0.6634|      0.0498|        0.0409|      0.0891| 90.0000|
+|/players/156553/sergio-padt       |           0|         41.4416|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/859042/show              |          NA|              NA|               NA|        0.1848|         0.3537|      0.0308|        0.0271|      0.0058| 22.8889|
+|/players/640279/dinis-almeida     |          NA|              NA|               NA|        0.0000|         0.2463|      0.0126|        0.0000|      0.0071| 21.0000|
+|/players/169287/spas-delev        |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0297| 15.9091|
+|/players/791624/pipa              |          NA|              NA|               NA|        0.2483|         0.7128|      0.0859|        0.0793|      0.0483| 14.5000|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Ante Simundza |         4949|       -27.616|4-2-3-1   |
