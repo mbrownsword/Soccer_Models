@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-21 14:23:42.28"
+[1] "Updated at 2023-02-22 10:56:46.178"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: RB Leipzig 1.172 to Manchester City 1.4287"
-[1] "Total: 2.6007"
-[1] "RB Leipzig %: 31.01"
-[1] "Draw %: 26.33"
-[1] "Manchester City %: 42.66"
+[1] "Score: RB Leipzig 1.1928 to Manchester City 1.4735"
+[1] "Total: 2.6663"
+[1] "RB Leipzig %: 31.03"
+[1] "Draw %: 26.19"
+[1] "Manchester City %: 42.78"
 [1] "--XG Model--"
-[1] "Score: RB Leipzig 1.1455 to Manchester City 1.5067"
-[1] "Total: 2.6522"
-[1] "RB Leipzig %: 29.51"
-[1] "Draw %: 25.66"
-[1] "Manchester City %: 44.83"
+[1] "Score: RB Leipzig 1.1709 to Manchester City 1.5455"
+[1] "Total: 2.7164"
+[1] "RB Leipzig %: 29.36"
+[1] "Draw %: 25.7"
+[1] "Manchester City %: 44.94"
 [1] "--XGoT Model--"
-[1] "Score: RB Leipzig 1.2241 to Manchester City 1.5228"
-[1] "Total: 2.7469"
-[1] "RB Leipzig %: 31.09"
-[1] "Draw %: 25.71"
-[1] "Manchester City %: 43.2"
+[1] "Score: RB Leipzig 1.2474 to Manchester City 1.5695"
+[1] "Total: 2.8169"
+[1] "RB Leipzig %: 30.22"
+[1] "Draw %: 25.33"
+[1] "Manchester City %: 44.45"
 [1] "--XA Model--"
-[1] "Score: RB Leipzig 1.2225 to Manchester City 1.5937"
-[1] "Total: 2.8162"
-[1] "RB Leipzig %: 29.24"
-[1] "Draw %: 24.7"
-[1] "Manchester City %: 46.06"
+[1] "Score: RB Leipzig 1.2272 to Manchester City 1.5865"
+[1] "Total: 2.8137"
+[1] "RB Leipzig %: 29.53"
+[1] "Draw %: 24.54"
+[1] "Manchester City %: 45.93"
 [1] "--Mean 4 Models--"
-[1] "RB Leipzig has a mean win % of 30.21%; a min win % of 29.24%; a max win % of 31.09%."
-[1] "Draw has a mean win % of 25.6%; a min win % of 24.7%; a max win % of 26.33%."
-[1] "Manchester City has a mean win % of 44.19%; a min win % of 42.66%; a max win of % 46.06%."
-[1] "RB Leipzig has a mean win of the Double Chance of 55.81%; a min win % of 53.94%, a max win % of 57.34%."
-[1] "Manchester City has a mean win of the Double Chance of 69.79%; a min win % of 68.91%, a max win % of 70.76%."
-[1] "The mean likelihood that there are more than 2.5 goals is 50.02%; max % is 52.84 and min % is 47.59%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 49.98%; max % is 52.41 and min % is 47.16%."
+[1] "RB Leipzig has a mean win % of 30.04%; a min win % of 29.36%; a max win % of 31.03%."
+[1] "Draw has a mean win % of 25.44%; a min win % of 24.54%; a max win % of 26.19%."
+[1] "Manchester City has a mean win % of 44.53%; a min win % of 42.78%; a max win of % 45.93%."
+[1] "RB Leipzig has a mean win of the Double Chance of 55.48%; a min win % of 54.07%, a max win % of 57.22%."
+[1] "Manchester City has a mean win of the Double Chance of 69.97%; a min win % of 68.97%, a max win % of 70.64%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.04%; max % is 52.85 and min % is 48.92%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.95%; max % is 51.08 and min % is 47.15%."
 [1] "--Sportsbook Odds--"
 [1] "RB Leipzig Barstool Odds are: 23.81"
 [1] "The Barstool Odds of a Draw are: 27.78"
@@ -42,116 +42,100 @@
 [1] "Manchester City Adjusted Barstool Odds are: 50.499"
 [1] "RB Leipzig's Barstool Odds to cover the 0.5 spread are: 51.55"
 [1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 52.91"
-[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14% chance of the over 2.5 hitting. The line for the under is 2.08, which is a 48.08% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.97, which is a 50.76% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
              bet           date_time
 1     RB Leipzig 2023-02-22 12:00:00
 2 RB Leipzig ATS 2023-02-22 12:00:00
-
-
-|player         |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league            | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
-|:--------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------------|-----------:|----------:|---------:|----------:|--------:|
-|Erling Haaland |MCI  |     11| 1.54|          NA|  0.8618|   0.2124|passes    |INT International |      0.6494|         NA|        NA|         NA|       NA|
-|Emil Forsberg  |RBL  |     25| 1.85|          NA|  0.7114|   0.1709|passes    |INT International |      0.5405|         NA|        NA|         NA|       NA|
-|Emil Forsberg  |RBL  |     21| 1.51|          NA|  0.9123|   0.2500|passes    |INT International |      0.6623|         NA|        NA|         NA|       NA|
-|Konrad Laimer  |RBL  |     34| 2.28|          NA|  0.9693|   0.5307|passes    |INT International |      0.4386|         NA|        NA|         NA|       NA|
-|Konrad Laimer  |RBL  |     38| 2.72|          NA|  0.8917|   0.5241|passes    |INT International |      0.3676|         NA|        NA|         NA|       NA|
-|Konrad Laimer  |RBL  |     42| 3.46|          NA|  0.7333|   0.4443|passes    |INT International |      0.2890|         NA|        NA|         NA|       NA|
-|Konrad Laimer  |RBL  |     26| 1.52|          NA|  0.9993|   0.3414|passes    |INT International |      0.6579|         NA|        NA|         NA|       NA|
-|Konrad Laimer  |RBL  |     30| 1.85|          NA|  0.9943|   0.4538|passes    |INT International |      0.5405|         NA|        NA|         NA|       NA|
-|Konrad Laimer  |RBL  |     46| 4.75|          NA|  0.5114|   0.3009|passes    |INT International |      0.2105|         NA|        NA|         NA|       NA|
-|Xaver Schlager |RBL  |     41| 1.88|          NA|  0.8100|   0.2781|passes    |INT International |      0.5319|         NA|        NA|         NA|       NA|
-|Xaver Schlager |RBL  |     45| 1.96|          NA|  0.6105|   0.1003|passes    |INT International |      0.5102|         NA|        NA|         NA|       NA|
-|Xaver Schlager |RBL  |     37| 1.37|          NA|  0.9324|   0.2025|passes    |INT International |      0.7299|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                             |team            | expected_attg| expected_gs|bet |
 |:------------------------------------|:---------------|-------------:|-----------:|:---|
-|/players/278814/janis-blaswich       |RB Leipzig      |      0.000000|   0.1886792|    |
-|/players/1039600/mohamed-simakan     |RB Leipzig      |      0.027325|   0.0344828|    |
-|/players/278856/willi-orban          |RB Leipzig      |      0.030025|   0.0833333|    |
-|/players/1070712/josko-gvardiol      |RB Leipzig      |      0.045650|   0.0500000|    |
-|/players/331535/marcel-halstenberg   |RB Leipzig      |      0.038375|   0.1250000|    |
-|/players/526827/konrad-laimer        |RB Leipzig      |      0.072150|   0.0714286|    |
-|/players/620027/xaver-schlager       |RB Leipzig      |      0.031600|   0.0952381|    |
-|/players/846005/dominik-szoboszlai   |RB Leipzig      |      0.173275|   0.2173913|    |
-|/players/171980/emil-forsberg        |RB Leipzig      |      0.260700|   0.2040816|*   |
-|/players/450980/timo-werner          |RB Leipzig      |      0.039100|   0.2564103|    |
-|/players/388523/andr-silva           |RB Leipzig      |      0.266400|   0.2173913|    |
-|/players/312765/jack-grealish        |Manchester City |      0.107975|   0.1886792|    |
-|/players/737066/erling-braut-haaland |Manchester City |      0.402850|   0.5000000|    |
-|/players/278343/riyad-mahrez         |Manchester City |      0.239300|   0.3225806|    |
-|/players/178818/ilkay-gndogan        |Manchester City |      0.128825|   0.2000000|    |
-|/players/675088/rodri                |Manchester City |      0.055850|   0.0769231|    |
-|/players/488139/bernardo-silva       |Manchester City |      0.087350|   0.1923077|    |
-|/players/417068/nathan-ak            |Manchester City |      0.018150|   0.0666667|    |
-|/players/521318/manuel-akanji        |Manchester City |      0.038225|   0.0555556|    |
-|/players/614006/ruben-dias           |Manchester City |      0.080650|   0.0555556|    |
-|/players/159833/kyle-walker          |Manchester City |      0.038700|   0.0357143|    |
-|/players/363364/ederson-moraes       |Manchester City |      0.000000|   0.0285714|    |
-|/players/681383/benjamin-henrichs    |RB Leipzig      |      0.017200|   0.1000000|    |
-|/players/688830/amadou-haidara       |RB Leipzig      |      0.003500|   0.0526316|    |
-|/players/266527/yussuf-poulsen       |RB Leipzig      |      0.013950|   0.2564103|    |
-|/players/526657/lukas-klostermann    |RB Leipzig      |      0.000000|   0.0344828|    |
-|/players/844477/sergio-gomez         |Manchester City |      0.004625|   0.0588235|    |
-|/players/169200/kevin-de-bruyne      |Manchester City |      0.009475|   0.2564103|    |
-|/players/815006/phil-foden           |Manchester City |      0.027775|   0.2702703|    |
-|/players/609755/kalvin-phillips      |Manchester City |      0.001575|   0.0625000|    |
+|/players/278814/janis-blaswich       |RB Leipzig      |      0.000000|   0.1785714|    |
+|/players/526657/lukas-klostermann    |RB Leipzig      |      0.027375|   0.0312500|    |
+|/players/278856/willi-orban          |RB Leipzig      |      0.029975|   0.0714286|    |
+|/players/1070712/josko-gvardiol      |RB Leipzig      |      0.046400|   0.0454545|    |
+|/players/331535/marcel-halstenberg   |RB Leipzig      |      0.038575|   0.1111111|    |
+|/players/526827/konrad-laimer        |RB Leipzig      |      0.074475|   0.0625000|    |
+|/players/620027/xaver-schlager       |RB Leipzig      |      0.033475|   0.0909091|    |
+|/players/846005/dominik-szoboszlai   |RB Leipzig      |      0.170975|   0.1960784|    |
+|/players/171980/emil-forsberg        |RB Leipzig      |      0.263750|   0.1851852|*   |
+|/players/450980/timo-werner          |RB Leipzig      |      0.036800|   0.2325581|    |
+|/players/388523/andr-silva           |RB Leipzig      |      0.261075|   0.1960784|*   |
+|/players/312765/jack-grealish        |Manchester City |      0.107775|   0.1785714|    |
+|/players/737066/erling-braut-haaland |Manchester City |      0.408725|   0.5121951|    |
+|/players/278343/riyad-mahrez         |Manchester City |      0.242000|   0.3030303|    |
+|/players/178818/ilkay-gndogan        |Manchester City |      0.119550|   0.1923077|    |
+|/players/675088/rodri                |Manchester City |      0.058600|   0.0714286|    |
+|/players/488139/bernardo-silva       |Manchester City |      0.087900|   0.1818182|    |
+|/players/417068/nathan-ak            |Manchester City |      0.015075|   0.0625000|    |
+|/players/521318/manuel-akanji        |Manchester City |      0.034600|   0.0555556|    |
+|/players/614006/ruben-dias           |Manchester City |      0.080950|   0.0555556|    |
+|/players/159833/kyle-walker          |Manchester City |      0.035900|   0.0333333|    |
+|/players/363364/ederson-moraes       |Manchester City |      0.000000|   0.0277778|    |
+|/players/681383/benjamin-henrichs    |RB Leipzig      |      0.011600|   0.0000000|    |
+|/players/688830/amadou-haidara       |RB Leipzig      |      0.002275|   0.0000000|    |
+|/players/266527/yussuf-poulsen       |RB Leipzig      |      0.012800|   0.0000000|    |
+|/players/704523/christopher-nkunku   |RB Leipzig      |      0.028600|   0.0000000|    |
+|/players/844477/sergio-gomez         |Manchester City |      0.006950|   0.0000000|    |
+|/players/815006/phil-foden           |Manchester City |      0.038500|   0.0000000|    |
+|/players/609755/kalvin-phillips      |Manchester City |      0.002775|   0.0000000|    |
+|/players/1096353/cole-palmer         |Manchester City |      0.025725|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about RB Leipzig:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/278814/janis-blaswich     |           0|         32.2216|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1039600/mohamed-simakan   |           1|         39.1967|           1.8567|        0.1289|         0.4239|      0.0349|        0.0298|      0.0499| 90.0000|
-|/players/278856/willi-orban        |           1|         46.9878|           1.4171|        0.1225|         0.5056|      0.0578|        0.0375|      0.0276| 90.0000|
-|/players/1070712/josko-gvardiol    |           1|         54.9103|           1.2752|        0.1538|         0.3982|      0.0491|        0.0537|      0.0437| 90.0000|
-|/players/331535/marcel-halstenberg |           1|         49.8563|           1.7935|        0.1449|         0.5633|      0.0465|        0.0442|      0.0734| 90.0000|
-|/players/526827/konrad-laimer      |           2|         46.8629|           2.4889|        0.3399|         0.7172|      0.0779|        0.0840|      0.0716| 79.2000|
-|/players/620027/xaver-schlager     |           2|         47.5890|           1.9570|        0.1288|         0.9244|      0.0521|        0.0388|      0.0595| 90.0000|
-|/players/846005/dominik-szoboszlai |           3|         32.3437|           1.3957|        0.6814|         1.6915|      0.1856|        0.2102|      0.1818| 79.8378|
-|/players/171980/emil-forsberg      |           3|         28.5934|           1.6430|        0.7334|         2.0820|      0.3177|        0.3315|      0.1133| 90.0000|
-|/players/450980/timo-werner        |           3|         28.0295|           0.8069|        0.3602|         0.8815|      0.0637|        0.0423|      0.0711| 80.2500|
-|/players/388523/andr-silva         |           5|         19.1757|           0.6042|        0.8211|         1.9728|      0.3216|        0.3290|      0.0654| 80.9636|
-|/players/681383/benjamin-henrichs  |          NA|              NA|               NA|        0.0669|         0.1679|      0.0127|        0.0189|      0.0092| 10.8000|
-|/players/688830/amadou-haidara     |          NA|              NA|               NA|        0.0125|         0.0835|      0.0116|        0.0041|      0.0137| 10.1622|
-|/players/266527/yussuf-poulsen     |          NA|              NA|               NA|        0.0656|         0.1667|      0.0152|        0.0155|      0.0027|  9.7500|
-|/players/526657/lukas-klostermann  |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0013|  9.0364|
+|/players/278814/janis-blaswich     |           0|         32.1895|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/526657/lukas-klostermann  |           1|         44.3711|           1.5617|        0.0893|         0.3473|      0.0409|        0.0303|      0.0297| 90.0000|
+|/players/278856/willi-orban        |           1|         45.3534|           1.5085|        0.1339|         0.5324|      0.0556|        0.0374|      0.0318| 90.0000|
+|/players/1070712/josko-gvardiol    |           1|         53.0002|           1.3574|        0.1682|         0.4192|      0.0472|        0.0536|      0.0504| 90.0000|
+|/players/331535/marcel-halstenberg |           1|         48.1220|           1.9092|        0.1584|         0.5931|      0.0448|        0.0441|      0.0845| 90.0000|
+|/players/526827/konrad-laimer      |           2|         46.8081|           2.4908|        0.3399|         0.7189|      0.0782|        0.0839|      0.0716| 79.2000|
+|/players/620027/xaver-schlager     |           2|         47.5333|           1.9585|        0.1289|         0.9267|      0.0523|        0.0387|      0.0594| 90.0000|
+|/players/846005/dominik-szoboszlai |           3|         32.2981|           1.3960|        0.6785|         1.6892|      0.1861|        0.2092|      0.1824| 79.8378|
+|/players/171980/emil-forsberg      |           3|         28.5531|           1.6433|        0.7302|         2.0792|      0.3185|        0.3300|      0.1137| 90.0000|
+|/players/450980/timo-werner        |           3|         27.9899|           0.8071|        0.3586|         0.8803|      0.0638|        0.0421|      0.0713| 80.2500|
+|/players/388523/andr-silva         |           5|         19.1471|           0.6025|        0.8204|         1.9739|      0.3228|        0.3305|      0.0657| 80.9636|
+|/players/681383/benjamin-henrichs  |           0|              NA|               NA|        0.0410|         0.1283|      0.0104|        0.0147|      0.0071| 10.8000|
+|/players/688830/amadou-haidara     |           0|              NA|               NA|        0.0076|         0.0638|      0.0096|        0.0032|      0.0104| 10.1622|
+|/players/266527/yussuf-poulsen     |           0|              NA|               NA|        0.0401|         0.1274|      0.0125|        0.0121|      0.0020|  9.7500|
+|/players/704523/christopher-nkunku |           0|              NA|               NA|        0.1361|         0.2112|      0.0294|        0.0337|      0.0103|  9.0364|
 
 
 |manager_name | m_minutes_xg| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Marco Rose   |       102744|      8.614961|4-2-3-1   |
+|Marco Rose   |       103734|      8.596562|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about Manchester City:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/312765/jack-grealish        |           5|         34.4434|           1.4200|        0.4350|         1.7455|      0.1506|        0.1199|      0.1819| 83.0357|
-|/players/737066/erling-braut-haaland |           5|         15.7824|           0.1870|        1.3160|         2.5681|      0.5100|        0.5180|      0.0836| 84.7241|
-|/players/278343/riyad-mahrez         |           5|         37.4597|           1.5813|        0.7511|         1.9201|      0.2457|        0.2727|      0.1285| 83.1500|
-|/players/178818/ilkay-gndogan        |           3|         51.2508|           1.6478|        0.4576|         1.4675|      0.1910|        0.1421|      0.1275| 90.0000|
-|/players/675088/rodri                |           3|         71.4311|           2.6238|        0.2032|         1.0201|      0.0505|        0.0607|      0.0745| 90.0000|
-|/players/488139/bernardo-silva       |           3|         41.2298|           1.5205|        0.3599|         0.8682|      0.0816|        0.0956|      0.1105| 83.2857|
-|/players/417068/nathan-ak            |           1|         57.6886|           1.5962|        0.1203|         0.6423|      0.0517|        0.0186|      0.0558| 90.0000|
-|/players/521318/manuel-akanji        |           1|         59.1901|           2.0794|        0.1487|         0.5372|      0.0692|        0.0389|      0.0445| 90.0000|
-|/players/614006/ruben-dias           |           1|         60.7748|           1.2838|        0.1936|         0.5302|      0.0718|        0.0868|      0.0831| 90.0000|
-|/players/159833/kyle-walker          |           1|         59.2058|           1.8065|        0.1680|         0.4247|      0.0247|        0.0428|      0.0949| 90.0000|
-|/players/363364/ederson-moraes       |           0|         31.7575|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/844477/sergio-gomez         |          NA|              NA|               NA|        0.0395|         0.1045|      0.0106|        0.0045|      0.0097|  6.9643|
-|/players/169200/kevin-de-bruyne      |          NA|              NA|               NA|        0.0605|         0.2081|      0.0142|        0.0099|      0.0218|  6.8500|
-|/players/815006/phil-foden           |          NA|              NA|               NA|        0.0387|         0.1330|      0.0152|        0.0288|      0.0031|  6.7143|
-|/players/609755/kalvin-phillips      |          NA|              NA|               NA|        0.0279|         0.0369|      0.0073|        0.0016|      0.0004|  5.2759|
+|/players/312765/jack-grealish        |           5|         34.5341|           1.4004|        0.4412|         1.7599|      0.1528|        0.1221|      0.1835| 83.0357|
+|/players/737066/erling-braut-haaland |           5|         16.5009|           0.2433|        1.3772|         2.6962|      0.5339|        0.5396|      0.0849| 90.0000|
+|/players/278343/riyad-mahrez         |           5|         37.5582|           1.5595|        0.7617|         1.9359|      0.2494|        0.2777|      0.1296| 83.1500|
+|/players/178818/ilkay-gndogan        |           3|         47.6633|           1.5597|        0.4299|         1.3803|      0.1775|        0.1318|      0.1197| 84.9643|
+|/players/675088/rodri                |           3|         71.8730|           2.6247|        0.2040|         1.0234|      0.0514|        0.0606|      0.0749| 90.0000|
+|/players/488139/bernardo-silva       |           3|         41.4848|           1.5211|        0.3612|         0.8709|      0.0830|        0.0955|      0.1111| 83.2857|
+|/players/417068/nathan-ak            |           1|         56.9110|           1.5426|        0.1160|         0.6510|      0.0683|        0.0170|      0.0544| 90.0000|
+|/players/521318/manuel-akanji        |           1|         59.5391|           2.0741|        0.1480|         0.5338|      0.0603|        0.0372|      0.0453| 90.0000|
+|/players/614006/ruben-dias           |           1|         60.9353|           1.2990|        0.2034|         0.5400|      0.0673|        0.0917|      0.0824| 90.0000|
+|/players/159833/kyle-walker          |           1|         59.4532|           1.8523|        0.1617|         0.4083|      0.0207|        0.0393|      0.0961| 90.0000|
+|/players/363364/ederson-moraes       |           0|         31.8399|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/844477/sergio-gomez         |           0|              NA|               NA|        0.0622|         0.1654|      0.0174|        0.0067|      0.0167|  6.9643|
+|/players/815006/phil-foden           |           0|              NA|               NA|        0.0603|         0.2084|      0.0235|        0.0404|      0.0050|  6.8500|
+|/players/609755/kalvin-phillips      |           0|              NA|               NA|        0.0540|         0.0719|      0.0146|        0.0029|      0.0009|  6.7143|
+|/players/1096353/cole-palmer         |           0|              NA|               NA|        0.0856|         0.1708|      0.0193|        0.0250|      0.0159|  5.0357|
 
 
 |manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
 |:---------------|------------:|-------------:|:---------|
-|Josep Guardiola |       133677|      21.07445|4-3-3     |
+|Josep Guardiola |       135657|      21.05423|4-3-3     |
