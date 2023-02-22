@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-22 06:59:04.247"
+[1] "Updated at 2023-02-22 15:14:44.760"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Nantes 1.3089 to Juventus 1.7076"
-[1] "Total: 3.0165"
+[1] "Score: Nantes 1.3097 to Juventus 1.7079"
+[1] "Total: 3.0176"
 [1] "Nantes %: 29.48"
-[1] "Draw %: 24.87"
-[1] "Juventus %: 45.65"
+[1] "Draw %: 24.84"
+[1] "Juventus %: 45.68"
 [1] "--XG Model--"
-[1] "Score: Nantes 1.0657 to Juventus 1.5895"
-[1] "Total: 2.6552"
-[1] "Nantes %: 26.68"
-[1] "Draw %: 24.9"
-[1] "Juventus %: 48.42"
+[1] "Score: Nantes 1.0471 to Juventus 1.5635"
+[1] "Total: 2.6106"
+[1] "Nantes %: 26.61"
+[1] "Draw %: 25.32"
+[1] "Juventus %: 48.07"
 [1] "--XGoT Model--"
-[1] "Score: Nantes 1.174 to Juventus 1.7253"
-[1] "Total: 2.8993"
-[1] "Nantes %: 26.01"
-[1] "Draw %: 24.42"
-[1] "Juventus %: 49.57"
+[1] "Score: Nantes 1.1676 to Juventus 1.7159"
+[1] "Total: 2.8835"
+[1] "Nantes %: 26.13"
+[1] "Draw %: 24.38"
+[1] "Juventus %: 49.49"
 [1] "--XA Model--"
-[1] "Score: Nantes 1.0845 to Juventus 1.5381"
-[1] "Total: 2.6226"
-[1] "Nantes %: 27.61"
-[1] "Draw %: 25.67"
-[1] "Juventus %: 46.72"
+[1] "Score: Nantes 1.0868 to Juventus 1.5412"
+[1] "Total: 2.628"
+[1] "Nantes %: 27.78"
+[1] "Draw %: 25.58"
+[1] "Juventus %: 46.64"
 [1] "--Mean 4 Models--"
-[1] "Nantes has a mean win % of 27.44%; a min win % of 26.01%; a max win % of 29.48%."
-[1] "Draw has a mean win % of 24.96%; a min win % of 24.42%; a max win % of 25.67%."
-[1] "Juventus has a mean win % of 47.59%; a min win % of 45.65%; a max win of % 49.57%."
-[1] "Nantes has a mean win of the Double Chance of 52.41%; a min win % of 50.43%, a max win % of 54.35%."
-[1] "Juventus has a mean win of the Double Chance of 72.56%; a min win % of 70.52%, a max win % of 73.99%."
-[1] "The mean likelihood that there are more than 2.5 goals is 52.15%; max % is 56.95 and min % is 48.2%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 47.85%; max % is 51.8 and min % is 43.05%."
+[1] "Nantes has a mean win % of 27.5%; a min win % of 26.13%; a max win % of 29.48%."
+[1] "Draw has a mean win % of 25.03%; a min win % of 24.38%; a max win % of 25.58%."
+[1] "Juventus has a mean win % of 47.47%; a min win % of 45.68%; a max win of % 49.49%."
+[1] "Nantes has a mean win of the Double Chance of 52.53%; a min win % of 50.51%, a max win % of 54.32%."
+[1] "Juventus has a mean win of the Double Chance of 72.5%; a min win % of 70.52%, a max win % of 73.87%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.84%; max % is 56.95 and min % is 48.31%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.16%; max % is 51.69 and min % is 43.05%."
 [1] "--Sportsbook Odds--"
 [1] "Nantes Barstool Odds are: 21.74"
 [1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Juventus Barstool Odds are: 56.52"
-[1] "Nantes Adjusted Barstool Odds are: 20.35"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.743"
-[1] "Juventus Adjusted Barstool Odds are: 52.906"
-[1] "Nantes's Barstool Odds to cover the 0.5 spread are: 49.02"
-[1] "Juventus's Barstool Odds to cover the -0.5 spread are: 55.56"
-[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "Juventus Barstool Odds are: 55.56"
+[1] "Nantes Adjusted Barstool Odds are: 20.535"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.986"
+[1] "Juventus Adjusted Barstool Odds are: 52.479"
+[1] "Nantes's Barstool Odds to cover the 0.5 spread are: 49.5"
+[1] "Juventus's Barstool Odds to cover the -0.5 spread are: 55.25"
+[1] "Barstool's line for the total is 2.5 at 2.16, which is a 46.3% chance of the over 2.5 hitting. The line for the under is 1.7, which is a 58.82% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                    bet           date_time
@@ -54,36 +54,36 @@
 
 |pageUrl2                                 |team     | expected_attg| expected_gs|bet |
 |:----------------------------------------|:--------|-------------:|-----------:|:---|
-|/players/698273/alban-lafont             |Nantes   |      0.000000|   0.0416667|    |
-|/players/439368/jean-charles-castelletto |Nantes   |      0.025125|   0.0400000|    |
-|/players/498655/andrei-girotto           |Nantes   |      0.024100|   0.0952381|    |
-|/players/198277/nicolas-pallois          |Nantes   |      0.023450|   0.0312500|    |
-|/players/660887/fabien-centonze          |Nantes   |      0.108100|   0.0714286|    |
-|/players/94550/moussa-sissoko            |Nantes   |      0.138175|   0.0555556|*   |
-|/players/680031/pedro-chirivella         |Nantes   |      0.033425|   0.0555556|    |
-|/players/866108/samuel-moutoussamy       |Nantes   |      0.011425|   0.0625000|    |
-|/players/606491/marcus-regis-coco        |Nantes   |      0.003125|   0.0833333|    |
-|/players/693171/ludovic-blas             |Nantes   |      0.217025|   0.1666667|*   |
-|/players/817500/mostafa-mohamed          |Nantes   |      0.211450|   0.2127660|    |
-|/players/281012/filip-kostic             |Juventus |      0.170525|   0.1666667|    |
-|/players/737857/dusan-vlahovic           |Juventus |      0.367600|   0.3921569|    |
-|/players/46509/ngel-di-maria             |Juventus |      0.144500|   0.2631579|    |
-|/players/352879/adrien-rabiot            |Juventus |      0.075225|   0.1176471|    |
-|/players/624166/manuel-locatelli         |Juventus |      0.100375|   0.1333333|    |
-|/players/951712/nicolo-fagioli           |Juventus |      0.058800|   0.2127660|    |
-|/players/157865/alex-sandro              |Juventus |      0.062900|   0.0526316|    |
-|/players/857269/gleison-bremer           |Juventus |      0.055575|   0.0666667|    |
-|/players/208077/danilo                   |Juventus |      0.006275|   0.0357143|    |
-|/players/288613/mattia-de-sciglio        |Juventus |      0.024525|   0.0285714|    |
+|/players/698273/alban-lafont             |Nantes   |      0.000000|   0.0434783|    |
+|/players/439368/jean-charles-castelletto |Nantes   |      0.025575|   0.0416667|    |
+|/players/498655/andrei-girotto           |Nantes   |      0.024275|   0.0952381|    |
+|/players/198277/nicolas-pallois          |Nantes   |      0.023275|   0.0322581|    |
+|/players/660887/fabien-centonze          |Nantes   |      0.107975|   0.0714286|    |
+|/players/94550/moussa-sissoko            |Nantes   |      0.138150|   0.0555556|*   |
+|/players/680031/pedro-chirivella         |Nantes   |      0.033450|   0.0555556|    |
+|/players/866108/samuel-moutoussamy       |Nantes   |      0.011000|   0.0666667|    |
+|/players/606491/marcus-regis-coco        |Nantes   |      0.003075|   0.0833333|    |
+|/players/693171/ludovic-blas             |Nantes   |      0.218150|   0.1694915|    |
+|/players/817500/mostafa-mohamed          |Nantes   |      0.211950|   0.2173913|    |
+|/players/281012/filip-kostic             |Juventus |      0.167150|   0.1666667|    |
+|/players/737857/dusan-vlahovic           |Juventus |      0.367825|   0.3846154|    |
+|/players/46509/ngel-di-maria             |Juventus |      0.145875|   0.2631579|    |
+|/players/352879/adrien-rabiot            |Juventus |      0.074100|   0.1111111|    |
+|/players/624166/manuel-locatelli         |Juventus |      0.102500|   0.1333333|    |
+|/players/951712/nicolo-fagioli           |Juventus |      0.056550|   0.2083333|    |
+|/players/157865/alex-sandro              |Juventus |      0.065300|   0.0526316|    |
+|/players/857269/gleison-bremer           |Juventus |      0.054725|   0.0666667|    |
+|/players/208077/danilo                   |Juventus |      0.006075|   0.0357143|    |
+|/players/288613/mattia-de-sciglio        |Juventus |      0.026975|   0.0285714|    |
 |/players/169718/wojciech-szczesny        |Juventus |      0.000000|   0.1250000|    |
-|/players/863708/ignatius-ganago          |Nantes   |      0.101200|   0.1886792|    |
-|/players/165583/sbastien-corchia         |Nantes   |      0.016025|   0.0312500|    |
-|/players/1087966/evann-guessand          |Nantes   |      0.070675|   0.1052632|    |
-|/players/183530/andy-delort              |Nantes   |      0.043700|   0.2702703|    |
-|/players/747926/moise-kean               |Juventus |      0.176525|   0.3333333|    |
-|/players/248453/paul-pogba               |Juventus |      0.088075|   0.4444444|    |
-|/players/784510/federico-chiesa          |Juventus |      0.032875|   0.3333333|    |
-|/players/155066/juan-cuadrado            |Juventus |      0.010875|   0.1754386|    |
+|/players/863708/ignatius-ganago          |Nantes   |      0.098500|   0.1923077|    |
+|/players/165583/sbastien-corchia         |Nantes   |      0.015325|   0.0312500|    |
+|/players/1087966/evann-guessand          |Nantes   |      0.068950|   0.1052632|    |
+|/players/183530/andy-delort              |Nantes   |      0.042775|   0.2777778|    |
+|/players/747926/moise-kean               |Juventus |      0.187950|   0.3225806|    |
+|/players/248453/paul-pogba               |Juventus |      0.092425|   0.4444444|    |
+|/players/155066/juan-cuadrado            |Juventus |      0.018400|   0.1724138|    |
+|/players/24235/leonardo-bonucci          |Juventus |      0.000000|   0.1694915|    |
 ____________________________________________________
 
 [1] "Facts about Nantes:"
@@ -103,10 +103,10 @@ ____________________________________________________
 |/players/606491/marcus-regis-coco        |           3|         23.0983|           1.9716|        0.0842|         0.7784|      0.0275|        0.0034|      0.0453| 72.7273|
 |/players/693171/ludovic-blas             |           5|         27.3664|           0.7362|        0.7616|         2.0636|      0.2076|        0.2609|      0.1216| 86.2857|
 |/players/817500/mostafa-mohamed          |           5|         12.3957|           0.3387|        0.7378|         2.0365|      0.2939|        0.2576|      0.0474| 78.0000|
-|/players/863708/ignatius-ganago          |          NA|              NA|               NA|        0.4118|         1.0833|      0.1023|        0.1129|      0.0238| 17.2727|
-|/players/165583/sbastien-corchia         |          NA|              NA|               NA|        0.1934|         0.3771|      0.0130|        0.0186|      0.0212| 12.0000|
-|/players/1087966/evann-guessand          |          NA|              NA|               NA|        0.3180|         0.9841|      0.0735|        0.0792|      0.0189| 10.3333|
-|/players/183530/andy-delort              |          NA|              NA|               NA|        0.1063|         0.2960|      0.0212|        0.0474|      0.0148|  3.7143|
+|/players/863708/ignatius-ganago          |          NA|              NA|               NA|        0.4063|         0.9629|      0.0932|        0.1101|      0.0245| 17.2727|
+|/players/165583/sbastien-corchia         |          NA|              NA|               NA|        0.1908|         0.3352|      0.0119|        0.0182|      0.0218| 12.0000|
+|/players/1087966/evann-guessand          |          NA|              NA|               NA|        0.3137|         0.8747|      0.0670|        0.0772|      0.0194| 10.3333|
+|/players/183530/andy-delort              |          NA|              NA|               NA|        0.1049|         0.2631|      0.0193|        0.0462|      0.0153|  3.7143|
 
 
 |manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
@@ -131,10 +131,10 @@ ____________________________________________________
 |/players/208077/danilo            |           1|         71.3911|           2.0722|        0.0642|         0.5608|      0.0311|        0.0074|      0.0470| 90.0000|
 |/players/288613/mattia-de-sciglio |           1|         51.0919|           1.3539|        0.1279|         0.2705|      0.0152|        0.0291|      0.1132| 90.0000|
 |/players/169718/wojciech-szczesny |           0|         26.0528|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/747926/moise-kean        |          NA|              NA|               NA|        0.5920|         1.3057|      0.1666|        0.2216|      0.0131| 22.1600|
-|/players/248453/paul-pogba        |          NA|              NA|               NA|        0.6055|         0.9445|      0.0632|        0.1057|      0.0412| 20.4000|
-|/players/784510/federico-chiesa   |          NA|              NA|               NA|        0.0931|         0.7925|      0.0598|        0.0388|      0.0200| 13.0000|
-|/players/155066/juan-cuadrado     |          NA|              NA|               NA|        0.0653|         0.1853|      0.0049|        0.0123|      0.0329|  7.4545|
+|/players/747926/moise-kean        |          NA|              NA|               NA|        0.6039|         1.4559|      0.1876|        0.2345|      0.0129| 22.1600|
+|/players/248453/paul-pogba        |          NA|              NA|               NA|        0.6177|         1.0531|      0.0711|        0.1118|      0.0405| 20.4000|
+|/players/155066/juan-cuadrado     |          NA|              NA|               NA|        0.1162|         0.3603|      0.0097|        0.0226|      0.0564| 13.0000|
+|/players/24235/leonardo-bonucci   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0006|  7.4545|
 
 
 |manager_name         | m_minutes_xg| m_avg_elo_dif|formation |
