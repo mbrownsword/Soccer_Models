@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 07:01:56.306"
+[1] "Updated at 2023-02-22 15:17:23.624"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,20 +34,21 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 44.59%; max % is 46.48 and min % is 42.3%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 55.41%; max % is 57.7 and min % is 53.52%."
 [1] "--Sportsbook Odds--"
-[1] "PSV Barstool Odds are: 47.62"
+[1] "PSV Barstool Odds are: 49.02"
 [1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Sevilla FC Barstool Odds are: 29.41"
-[1] "PSV Adjusted Barstool Odds are: 45.435"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.505"
-[1] "Sevilla FC Adjusted Barstool Odds are: 28.06"
-[1] "PSV's Barstool Odds to cover the -0.5 spread are: 48.08"
-[1] "Sevilla FC's Barstool Odds to cover the 0.5 spread are: 56.82"
-[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
+[1] "Sevilla FC Barstool Odds are: 28.57"
+[1] "PSV Adjusted Barstool Odds are: 46.522"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.364"
+[1] "Sevilla FC Adjusted Barstool Odds are: 27.114"
+[1] "PSV's Barstool Odds to cover the -0.5 spread are: 49.02"
+[1] "Sevilla FC's Barstool Odds to cover the 0.5 spread are: 55.56"
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35% chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                    bet           date_time
 1           Sevilla FC 2023-02-23 09:45:00
 2 under PSV/Sevilla FC 2023-02-23 09:45:00
+3       Sevilla FC ATS 2023-02-23 09:45:00
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -72,17 +73,17 @@
 |/players/574662/joan-jordn          |Sevilla FC |      0.043525|   0.0666667|    |
 |/players/33991/jesus-navas          |Sevilla FC |      0.021400|   0.1428571|    |
 |/players/178753/nemanja-gudelj      |Sevilla FC |      0.019475|   0.0625000|    |
-|/players/101103/fernando            |Sevilla FC |      0.020025|   0.1851852|    |
-|/players/1070617/tanguy-nianzou     |Sevilla FC |      0.058375|   0.0952381|    |
+|/players/101103/fernando            |Sevilla FC |      0.020025|   0.1818182|    |
+|/players/1070617/tanguy-nianzou     |Sevilla FC |      0.058375|   0.0909091|    |
 |/players/340020/yassine-bounou      |Sevilla FC |      0.000000|   0.3846154|    |
 |/players/264190/thorgan-hazard      |PSV        |      0.027400|   0.0909091|    |
-|/players/1050158/fabio-silva        |PSV        |      0.034850|   0.3636364|    |
+|/players/1050158/fabio-silva        |PSV        |      0.034850|   0.3703704|    |
 |/players/562267/anwar-el-ghazi      |PSV        |      0.016950|   0.0500000|    |
 |/players/794244/armando-obispo      |PSV        |      0.000750|   0.0625000|    |
 |/players/640492/rafa-mir            |Sevilla FC |      0.026050|   0.3030303|    |
 |/players/428672/alex-telles         |Sevilla FC |      0.000000|   0.0285714|    |
-|/players/844544/pape-gueye          |Sevilla FC |      0.013450|   0.1250000|    |
-|/players/357080/lucas-ocampos       |Sevilla FC |      0.029800|   0.2272727|    |
+|/players/844544/pape-gueye          |Sevilla FC |      0.013450|   0.1052632|    |
+|/players/357080/lucas-ocampos       |Sevilla FC |      0.029800|   0.2222222|    |
 ____________________________________________________
 
 [1] "Facts about PSV:"
