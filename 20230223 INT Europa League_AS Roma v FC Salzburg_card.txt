@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 07:09:59.086"
+[1] "Updated at 2023-02-22 15:25:21.585"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 57.12%; max % is 59.15 and min % is 53.33%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 42.88%; max % is 46.67 and min % is 40.85%."
 [1] "--Sportsbook Odds--"
-[1] "AS Roma Barstool Odds are: 60"
-[1] "The Barstool Odds of a Draw are: 27.03"
-[1] "FC Salzburg Barstool Odds are: 18.52"
-[1] "AS Roma Adjusted Barstool Odds are: 56.845"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.609"
-[1] "FC Salzburg Adjusted Barstool Odds are: 17.546"
-[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 59.52"
-[1] "FC Salzburg's Barstool Odds to cover the 0.5 spread are: 45.45"
-[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.79, which is a 55.87% chance of the under 2.5 hitting."
+[1] "AS Roma Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "FC Salzburg Barstool Odds are: 19.23"
+[1] "AS Roma Adjusted Barstool Odds are: 55.58"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.25"
+[1] "FC Salzburg Adjusted Barstool Odds are: 18.171"
+[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 57.8"
+[1] "FC Salzburg's Barstool Odds to cover the 0.5 spread are: 46.73"
+[1] "Barstool's line for the total is 2.5 at 2.04, which is a 49.02% chance of the over 2.5 hitting. The line for the under is 1.78, which is a 56.18% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                        bet           date_time
@@ -65,25 +65,25 @@
 |/players/540307/lorenzo-pellegrini     |AS Roma     |      0.334875|   0.2631579|*   |
 |/players/161328/stephan-el-shaarawy    |AS Roma     |      0.079400|   0.2631579|    |
 |/players/309726/andrea-belotti         |AS Roma     |      0.283500|   0.3571429|    |
-|/players/896256/fernando               |FC Salzburg |      0.305225|   0.1851852|*   |
+|/players/896256/fernando               |FC Salzburg |      0.305225|   0.1818182|*   |
 |/players/915797/noah-okafor            |FC Salzburg |      0.136875|   0.1666667|    |
-|/players/959597/luka-sucic             |FC Salzburg |      0.133650|   0.1176471|    |
+|/players/959597/luka-sucic             |FC Salzburg |      0.133650|   0.1111111|    |
 |/players/1024672/nicolas-seiwald       |FC Salzburg |      0.032050|   0.0357143|    |
 |/players/1137106/lucas-gourna-douath   |FC Salzburg |      0.030175|   0.0294118|    |
-|/players/1018564/nicolas-capaldo       |FC Salzburg |      0.030375|   0.1111111|    |
-|/players/43205/andreas-ulmer           |FC Salzburg |      0.027200|   0.0322581|    |
+|/players/1018564/nicolas-capaldo       |FC Salzburg |      0.030375|   0.1052632|    |
+|/players/43205/andreas-ulmer           |FC Salzburg |      0.027200|   0.0312500|    |
 |/players/1048023/strahinja-pavlovic    |FC Salzburg |      0.091175|   0.0625000|    |
-|/players/866708/oumar-solet            |FC Salzburg |      0.042625|   0.0250000|    |
+|/players/866708/oumar-solet            |FC Salzburg |      0.042625|   0.0243902|    |
 |/players/958010/amar-dedic             |FC Salzburg |      0.033550|   0.0625000|    |
 |/players/872934/philipp-khn            |FC Salzburg |      0.000000|   0.0714286|    |
 |/players/108038/georginio-wijnaldum    |AS Roma     |      0.094575|   0.1333333|    |
 |/players/325916/paulo-dybala           |AS Roma     |      0.110950|   0.4444444|    |
 |/players/749661/tammy-abraham          |AS Roma     |      0.107575|   0.4166667|    |
 |/players/872362/marash-kumbulla        |AS Roma     |      0.000000|   0.0833333|    |
-|/players/1073977/benjamin-sesko        |FC Salzburg |      0.111400|   0.1666667|    |
+|/players/1073977/benjamin-sesko        |FC Salzburg |      0.111400|   0.1538462|    |
 |/players/882163/chukwubuike-adamu      |FC Salzburg |      0.066050|   0.2702703|    |
 |/players/1070404/maurits-kjrgaard      |FC Salzburg |      0.057025|   0.0625000|    |
-|/players/1082597/ignace-van-der-brempt |FC Salzburg |      0.000000|   0.0200000|    |
+|/players/1082597/ignace-van-der-brempt |FC Salzburg |      0.000000|   0.0196078|    |
 ____________________________________________________
 
 [1] "Facts about AS Roma:"
