@@ -1,0 +1,142 @@
+[1] "Updated at 2023-02-22 07:12:27.102"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: 1. FC Union Berlin 1.5071 to Ajax 1.4026"
+[1] "Total: 2.9097"
+[1] "1. FC Union Berlin %: 40.18"
+[1] "Draw %: 24.87"
+[1] "Ajax %: 34.95"
+[1] "--XG Model--"
+[1] "Score: 1. FC Union Berlin 1.2885 to Ajax 1.5554"
+[1] "Total: 2.8439"
+[1] "1. FC Union Berlin %: 32.02"
+[1] "Draw %: 25.27"
+[1] "Ajax %: 42.71"
+[1] "--XGoT Model--"
+[1] "Score: 1. FC Union Berlin 1.173 to Ajax 1.538"
+[1] "Total: 2.711"
+[1] "1. FC Union Berlin %: 29.58"
+[1] "Draw %: 25.81"
+[1] "Ajax %: 44.61"
+[1] "--XA Model--"
+[1] "Score: 1. FC Union Berlin 1.2572 to Ajax 1.5543"
+[1] "Total: 2.8115"
+[1] "1. FC Union Berlin %: 31.16"
+[1] "Draw %: 25.39"
+[1] "Ajax %: 43.45"
+[1] "--Mean 4 Models--"
+[1] "1. FC Union Berlin has a mean win % of 33.24%; a min win % of 29.58%; a max win % of 40.18%."
+[1] "Draw has a mean win % of 25.34%; a min win % of 24.87%; a max win % of 25.81%."
+[1] "Ajax has a mean win % of 41.43%; a min win % of 34.95%; a max win of % 44.61%."
+[1] "1. FC Union Berlin has a mean win of the Double Chance of 58.57%; a min win % of 55.39%, a max win % of 65.05%."
+[1] "Ajax has a mean win of the Double Chance of 66.76%; a min win % of 59.82%, a max win % of 70.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.58%; max % is 54.9 and min % is 49.99%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.42%; max % is 50.01 and min % is 45.1%."
+[1] "--Sportsbook Odds--"
+[1] "1. FC Union Berlin Barstool Odds are: 46.73"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Ajax Barstool Odds are: 27.78"
+[1] "1. FC Union Berlin Adjusted Barstool Odds are: 44.386"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.227"
+[1] "Ajax Adjusted Barstool Odds are: 26.387"
+[1] "1. FC Union Berlin's Barstool Odds to cover the -0.5 spread are: 46.73"
+[1] "Ajax's Barstool Odds to cover the 0.5 spread are: 57.8"
+[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                           bet           date_time
+1                         Ajax 2023-02-23 12:00:00
+2 over 1. FC Union Berlin/Ajax 2023-02-23 12:00:00
+3                     Ajax ATS 2023-02-23 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team               | expected_attg| expected_gs|bet |
+|:----------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/186557/frederik-rnnow     |1. FC Union Berlin |      0.000000|   0.0833333|    |
+|/players/724196/danilho-doekhi     |1. FC Union Berlin |      0.039000|   0.1176471|    |
+|/players/259296/robin-knoche       |1. FC Union Berlin |      0.039450|   0.1176471|    |
+|/players/514301/timo-baumgartl     |1. FC Union Berlin |      0.026950|   0.1176471|    |
+|/players/622373/josip-juranovic    |1. FC Union Berlin |      0.073300|   0.0588235|    |
+|/players/715642/aissa-laidouni     |1. FC Union Berlin |      0.060950|   0.1250000|    |
+|/players/304348/rani-khedira       |1. FC Union Berlin |      0.067300|   0.0588235|    |
+|/players/304354/janik-haberer      |1. FC Union Berlin |      0.056575|   0.1666667|    |
+|/players/244558/jrome-roussillon   |1. FC Union Berlin |      0.061200|   0.0555556|    |
+|/players/614923/kevin-behrens      |1. FC Union Berlin |      0.269900|   0.2941176|    |
+|/players/495222/sheraldo-becker    |1. FC Union Berlin |      0.223050|   0.3225806|    |
+|/players/94267/dusan-tadic         |Ajax               |      0.336825|   0.1886792|*   |
+|/players/564818/steven-bergwijn    |Ajax               |      0.030250|   0.2000000|    |
+|/players/891743/mohammed-kudus     |Ajax               |      0.222950|   0.2040816|    |
+|/players/209786/steven-berghuis    |Ajax               |      0.201200|   0.1960784|    |
+|/players/970565/kenneth-taylor     |Ajax               |      0.059000|   0.0833333|    |
+|/players/783505/edson-lvarez       |Ajax               |      0.051100|   0.0833333|    |
+|/players/798062/owen-wijndal       |Ajax               |      0.034975|   0.0714286|    |
+|/players/877401/calvin-bassey      |Ajax               |      0.021600|   0.0400000|    |
+|/players/942381/jurrien-timber     |Ajax               |      0.022075|   0.0384615|    |
+|/players/1180321/devyne-rensch     |Ajax               |      0.045425|   0.0454545|    |
+|/players/245555/geronimo-rulli     |Ajax               |      0.000000|   0.0625000|    |
+|/players/439148/morten-thorsby     |1. FC Union Berlin |      0.011550|   0.1250000|    |
+|/players/290105/kevin-mhwald       |1. FC Union Berlin |      0.089100|   0.3225806|    |
+|/players/419774/sven-michel        |1. FC Union Berlin |      0.106900|   0.2777778|    |
+|/players/836726/andrs-schäfer      |1. FC Union Berlin |      0.016925|   0.0322581|    |
+|/players/298448/davy-klaassen      |Ajax               |      0.055300|   0.1333333|    |
+|/players/940446/brian-brobbey      |Ajax               |      0.138750|   0.2272727|    |
+|/players/617044/florian-grillitsch |Ajax               |      0.000000|   0.0454545|    |
+|/players/1185336/chico-conceicao   |Ajax               |      0.047775|   0.1333333|    |
+____________________________________________________
+
+[1] "Facts about 1. FC Union Berlin:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/186557/frederik-rnnow   |           0|         34.2547|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/724196/danilho-doekhi   |           1|         42.9998|           1.3152|        0.2153|         0.7489|      0.0661|        0.0413|      0.0367| 90.0000|
+|/players/259296/robin-knoche     |           1|         47.7363|           1.4044|        0.1273|         0.2710|      0.0324|        0.0436|      0.0295| 90.0000|
+|/players/514301/timo-baumgartl   |           1|         40.5860|           1.4157|        0.2073|         0.6709|      0.0621|        0.0260|      0.0295| 90.0000|
+|/players/622373/josip-juranovic  |           3|         35.8655|           0.6394|        0.0963|         1.0958|      0.0854|        0.0723|      0.1117| 90.0000|
+|/players/715642/aissa-laidouni   |           3|         38.2223|           2.8133|        0.1629|         0.7670|      0.0761|        0.0644|      0.0995| 80.2000|
+|/players/304348/rani-khedira     |           3|         31.1659|           3.2127|        0.0963|         0.8097|      0.0854|        0.0723|      0.1117| 90.0000|
+|/players/304354/janik-haberer    |           3|         29.1778|           1.4807|        0.5145|         1.2111|      0.0699|        0.0591|      0.0913| 73.5789|
+|/players/244558/jrome-roussillon |           3|         27.4627|           1.0230|        0.6517|         1.3149|      0.0759|        0.0643|      0.0993| 80.0000|
+|/players/614923/kevin-behrens    |           5|         27.0373|           0.8258|        1.0664|         2.5681|      0.4322|        0.3124|      0.0427| 90.0000|
+|/players/495222/sheraldo-becker  |           5|         14.0868|           0.4226|        0.9154|         2.0276|      0.1660|        0.2496|      0.1455| 73.7308|
+|/players/439148/morten-thorsby   |          NA|              NA|               NA|        0.1993|         0.5650|      0.0680|        0.0110|      0.0173| 16.4211|
+|/players/290105/kevin-mhwald     |          NA|              NA|               NA|        0.2196|         0.7116|      0.0542|        0.0930|      0.0416| 16.2692|
+|/players/419774/sven-michel      |          NA|              NA|               NA|        0.1583|         0.5130|      0.0805|        0.1054|      0.0352| 10.0000|
+|/players/836726/andrs-schäfer    |          NA|              NA|               NA|        0.2456|         0.3316|      0.0259|        0.0174|      0.0160|  9.8000|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Urs Fischer  |        94819|      1.065887|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Ajax:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/94267/dusan-tadic         |           5|         22.5056|           0.6511|        1.0502|         2.4892|      0.4397|        0.4396|      0.1133| 90.0000|
+|/players/564818/steven-bergwijn    |           3|         24.1526|           1.1436|        0.2598|         1.3140|      0.1703|        0.0333|      0.1364| 75.1429|
+|/players/891743/mohammed-kudus     |           3|         23.8803|           0.6671|        0.8185|         1.5679|      0.1758|        0.2718|      0.0522| 71.1250|
+|/players/209786/steven-berghuis    |           3|         40.7322|           1.6562|        0.5018|         1.6147|      0.1980|        0.2425|      0.2646| 77.7931|
+|/players/970565/kenneth-taylor     |           2|         55.1156|           1.0332|        0.1026|         0.5609|      0.0726|        0.0660|      0.1209| 90.0000|
+|/players/783505/edson-lvarez       |           2|         56.0034|           3.3583|        0.3790|         1.2054|      0.0697|        0.0549|      0.0674| 90.0000|
+|/players/798062/owen-wijndal       |           1|         47.0143|           1.5752|        0.1732|         0.6705|      0.0419|        0.0382|      0.1231| 90.0000|
+|/players/877401/calvin-bassey      |           1|         55.3914|           1.8168|        0.0678|         0.2735|      0.0183|        0.0243|      0.0382| 90.0000|
+|/players/942381/jurrien-timber     |           1|         69.6991|           1.3576|        0.0917|         0.3994|      0.0521|        0.0245|      0.0300| 90.0000|
+|/players/1180321/devyne-rensch     |           1|         37.6844|           1.4826|        0.1558|         0.4900|      0.0726|        0.0521|      0.0708| 69.7308|
+|/players/245555/geronimo-rulli     |           0|         39.0677|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/298448/davy-klaassen      |          NA|              NA|               NA|        0.1840|         0.2995|      0.0553|        0.0625|      0.0343| 20.2692|
+|/players/940446/brian-brobbey      |          NA|              NA|               NA|        0.3902|         0.8063|      0.1342|        0.1654|      0.0290| 18.8750|
+|/players/617044/florian-grillitsch |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0219| 14.8571|
+|/players/1185336/chico-conceicao   |          NA|              NA|               NA|        0.1566|         0.8492|      0.0706|        0.0534|      0.0552| 12.2069|
+
+
+|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Johnny Heitinga |         4950|        30.914|4-2-3-1   |
