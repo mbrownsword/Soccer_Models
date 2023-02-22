@@ -1,0 +1,31 @@
+[1] "Updated at 2023-02-22 08:53:38.851"
+[1] "_____________________________________________________________________"
+  bet           date_time
+1     2023-02-25 16:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Inter Miami CF:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Phil Neville |        59123|     -6.653333|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Montreal Impact:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Hernan Losada |        57325|     -4.591035|3-4-3     |
