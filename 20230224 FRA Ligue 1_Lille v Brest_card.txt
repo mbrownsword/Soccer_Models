@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 07:02:17.601"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Lille 2.1554 to Brest 0.7014"
+[1] "Total: 2.8568"
+[1] "Lille %: 70.98"
+[1] "Draw %: 18.97"
+[1] "Brest %: 10.05"
+[1] "--XG Model--"
+[1] "Score: Lille 2.229 to Brest 0.491"
+[1] "Total: 2.72"
+[1] "Lille %: 77.69"
+[1] "Draw %: 15.71"
+[1] "Brest %: 6.6"
+[1] "--XGoT Model--"
+[1] "Score: Lille 2.3539 to Brest 0.5816"
+[1] "Total: 2.9355"
+[1] "Lille %: 77.1"
+[1] "Draw %: 15.5"
+[1] "Brest %: 7.4"
+[1] "--XA Model--"
+[1] "Score: Lille 2.2277 to Brest 0.589"
+[1] "Total: 2.8167"
+[1] "Lille %: 75.34"
+[1] "Draw %: 16.73"
+[1] "Brest %: 7.93"
+[1] "--Mean 4 Models--"
+[1] "Lille has a mean win % of 75.28%; a min win % of 70.98%; a max win % of 77.69%."
+[1] "Draw has a mean win % of 16.73%; a min win % of 15.5%; a max win % of 18.97%."
+[1] "Brest has a mean win % of 7.99%; a min win % of 6.6%; a max win of % 10.05%."
+[1] "Lille has a mean win of the Double Chance of 92.01%; a min win % of 89.95%, a max win % of 93.4%."
+[1] "Brest has a mean win of the Double Chance of 24.72%; a min win % of 22.31%, a max win % of 29.02%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.44%; max % is 55.61 and min % is 51.01%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 46.56%; max % is 48.99 and min % is 44.39%."
+[1] "--Sportsbook Odds--"
+[1] "Lille Barstool Odds are: 75.76"
+[1] "The Barstool Odds of a Draw are: 19.05"
+[1] "Brest Barstool Odds are: 10.53"
+[1] "Lille Adjusted Barstool Odds are: 71.919"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.084"
+[1] "Brest Adjusted Barstool Odds are: 9.996"
+[1] "Lille's Barstool Odds to cover the -0.5 spread are: 74.07"
+[1] "Brest's Barstool Odds to cover the 0.5 spread are: 29.85"
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.15, which is a 46.51% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-24 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team  | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-----|-------------:|-----------:|:---|
+|/players/1177131/lucas-chevalier    |Lille |      0.000000|   0.0625000|    |
+|/players/979752/bafod-diakité       |Lille |      0.019150|   0.1250000|    |
+|/players/26552/jos-fonte            |Lille |      0.062175|   0.0833333|    |
+|/players/866358/tiago-djalo         |Lille |      0.091375|   0.1111111|    |
+|/players/889536/timothy-weah        |Lille |      0.016200|   0.4081633|    |
+|/players/148830/benjamin-andr       |Lille |      0.158350|   0.1851852|    |
+|/players/361770/andr-gomes          |Lille |      0.060575|   0.1538462|    |
+|/players/848667/angel-gomes         |Lille |      0.161625|   0.2380952|    |
+|/players/199834/rmy-cabella         |Lille |      0.308775|   0.3389831|    |
+|/players/466478/jonathan-bamba      |Lille |      0.315850|   0.4081633|    |
+|/players/939569/jonathan-david      |Lille |      0.358525|   0.5652174|    |
+|/players/917808/jrémy-le-douaron    |Brest |      0.073150|   0.1960784|    |
+|/players/562682/alberth-elis        |Brest |      0.110550|   0.2173913|    |
+|/players/696263/romain-del-castillo |Brest |      0.101000|   0.1333333|    |
+|/players/561869/haris-belkebla      |Brest |      0.005400|   0.0434783|    |
+|/players/660462/pierre-lees-melou   |Brest |      0.057200|   0.1818182|    |
+|/players/770321/mahdi-camara        |Brest |      0.031950|   0.1176471|    |
+|/players/769168/jean-kevin-duverne  |Brest |      0.016525|   0.0294118|    |
+|/players/1073941/lilian-brassier    |Brest |      0.015225|   0.0357143|    |
+|/players/448865/brendan-chardonnet  |Brest |      0.025000|   0.0769231|    |
+|/players/279461/kenny-lala          |Brest |      0.014175|   0.1111111|    |
+|/players/195782/marco-bizot         |Brest |      0.000000|   0.1333333|    |
+|/players/862616/edon-zhegrova       |Lille |      0.246325|   0.2857143|    |
+|/players/684978/adam-ounas          |Lille |      0.052325|   0.1538462|    |
+|/players/210142/jonas-martin        |Lille |      0.000000|   0.1851852|    |
+|/players/744494/gabriel-gudmundsson |Lille |      0.001900|   0.1538462|    |
+|/players/812415/hugo-magnetti       |Brest |      0.045225|   0.0500000|    |
+|/players/1285784/bradley-locko      |Brest |      0.007400|   0.0294118|    |
+|/players/478527/steve-mounie        |Brest |      0.032325|   0.2173913|    |
+|/players/988119/noah-fadiga         |Brest |      0.000000|   0.0666667|    |
+____________________________________________________
+
+[1] "Facts about Lille:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1177131/lucas-chevalier    |           0|         28.8158|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/979752/bafod-diakité       |           1|         64.8711|           1.8273|        0.1350|         0.6409|      0.0647|        0.0195|      0.1012| 90.0000|
+|/players/26552/jos-fonte            |           1|         71.6753|           0.8418|        0.0872|         0.6670|      0.1003|        0.0704|      0.1351| 90.0000|
+|/players/866358/tiago-djalo         |           1|         70.3500|           2.3994|        0.0467|         0.4032|      0.0566|        0.1038|      0.0835| 90.0000|
+|/players/889536/timothy-weah        |           1|         45.5613|           1.7778|        0.5124|         1.1053|      0.0566|        0.0195|      0.0489| 90.0000|
+|/players/148830/benjamin-andr       |           2|         68.9077|           2.8620|        0.3680|         1.2387|      0.1634|        0.1848|      0.1577| 90.0000|
+|/players/361770/andr-gomes          |           2|         65.4921|           1.5741|        0.5312|         1.5328|      0.1190|        0.0722|      0.0935| 90.0000|
+|/players/848667/angel-gomes         |           3|         27.1456|           1.3041|        0.3697|         1.9063|      0.2415|        0.1952|      0.1067| 76.3571|
+|/players/199834/rmy-cabella         |           3|         44.6276|           1.6130|        1.4173|         2.5083|      0.3871|        0.4097|      0.3091| 79.6429|
+|/players/466478/jonathan-bamba      |           3|         34.0374|           0.8720|        1.1503|         2.7053|      0.2981|        0.3872|      0.1857| 83.7222|
+|/players/939569/jonathan-david      |           5|         20.5275|           0.5686|        1.2353|         2.9607|      0.5455|        0.4732|      0.1222| 82.8485|
+|/players/862616/edon-zhegrova       |          NA|              NA|               NA|        0.8504|         1.1949|      0.1290|        0.3104|      0.0477| 13.6429|
+|/players/684978/adam-ounas          |          NA|              NA|               NA|        0.0844|         0.6185|      0.0596|        0.0603|      0.0969| 10.3571|
+|/players/210142/jonas-martin        |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0038|  7.1515|
+|/players/744494/gabriel-gudmundsson |          NA|              NA|               NA|        0.0851|         0.4369|      0.0641|        0.0032|      0.0022|  6.2778|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Paulo Fonseca |     73.92727|        9.4121|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about Brest:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/917808/jrémy-le-douaron    |           5|         10.8303|           0.8519|        0.3777|         1.2436|      0.1126|        0.0996|      0.0137| 75.1818|
+|/players/562682/alberth-elis        |           5|         12.5370|           0.7809|        0.4394|         1.1525|      0.1447|        0.1503|      0.0151| 79.3462|
+|/players/696263/romain-del-castillo |           5|         21.9239|           1.1714|        0.3895|         0.9771|      0.1362|        0.1333|      0.0938| 61.2500|
+|/players/561869/haris-belkebla      |           3|         32.7535|           1.9073|        0.0643|         0.1719|      0.0097|        0.0069|      0.0342| 90.0000|
+|/players/660462/pierre-lees-melou   |           3|         32.5192|           2.0794|        0.3412|         1.3291|      0.1067|        0.0767|      0.0574| 82.9730|
+|/players/770321/mahdi-camara        |           3|         29.7793|           2.0113|        0.1875|         0.6416|      0.0574|        0.0425|      0.0422| 90.0000|
+|/players/769168/jean-kevin-duverne  |           1|         36.7542|           2.0866|        0.0377|         0.2101|      0.0208|        0.0232|      0.0137| 90.0000|
+|/players/1073941/lilian-brassier    |           1|         35.0717|           1.5692|        0.0619|         0.2657|      0.0200|        0.0195|      0.0178| 90.0000|
+|/players/448865/brendan-chardonnet  |           1|         34.1255|           1.4719|        0.1560|         0.4186|      0.0426|        0.0336|      0.0047| 90.0000|
+|/players/279461/kenny-lala          |           1|         29.6446|           1.5085|        0.1112|         0.4298|      0.0141|        0.0218|      0.0626| 90.0000|
+|/players/195782/marco-bizot         |           0|         28.5822|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/812415/hugo-magnetti       |          NA|              NA|               NA|        0.2668|         0.5557|      0.0083|        0.0643|      0.0140| 28.7500|
+|/players/1285784/bradley-locko      |          NA|              NA|               NA|        0.0498|         0.0778|      0.0037|        0.0105|      0.0087| 14.8182|
+|/players/478527/steve-mounie        |          NA|              NA|               NA|        0.0609|         0.3489|      0.0706|        0.0426|      0.0155| 10.6538|
+|/players/988119/noah-fadiga         |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0016|  7.0270|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Eric Roy     |            7|     -10.93429|4-1-4-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904527/Soccer_Models'...
+Receiving objects:   1% (44/4359),   63 kb
+Receiving objects:  11% (480/4359),  127 kb
+Receiving objects:  21% (916/4359),  183 kb
+Receiving objects:  31% (1352/4359),  295 kb
+Receiving objects:  41% (1788/4359),  799 kb
+Receiving objects:  51% (2224/4359),  912 kb
+Receiving objects:  61% (2659/4359), 1304 kb
+Receiving objects:  71% (3095/4359), 10213 kb
+Receiving objects:  81% (3531/4359), 10493 kb
+Receiving objects:  91% (3967/4359), 10774 kb
+Receiving objects: 100% (4359/4359), 11041 kb, done.
