@@ -1,112 +1,111 @@
-[1] "Updated at 2023-02-22 20:10:58.816"
+[1] "Updated at 2023-02-23 11:21:44.223"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Stade Rennes 1.5747 to Shakhtar Donetsk 0.9908"
-[1] "Total: 2.5655"
-[1] "Stade Rennes %: 51.12"
-[1] "Draw %: 25.23"
-[1] "Shakhtar Donetsk %: 23.65"
-[1] "--XG Model--"
-[1] "Score: Stade Rennes 1.462 to Shakhtar Donetsk 0.9126"
-[1] "Total: 2.3746"
-[1] "Stade Rennes %: 50.35"
-[1] "Draw %: 26.01"
+[1] "Score: Stade Rennes 1.5392 to Shakhtar Donetsk 0.9604"
+[1] "Total: 2.4996"
+[1] "Stade Rennes %: 51.15"
+[1] "Draw %: 25.21"
 [1] "Shakhtar Donetsk %: 23.64"
+[1] "--XG Model--"
+[1] "Score: Stade Rennes 1.4736 to Shakhtar Donetsk 0.9052"
+[1] "Total: 2.3788"
+[1] "Stade Rennes %: 50.65"
+[1] "Draw %: 25.92"
+[1] "Shakhtar Donetsk %: 23.43"
 [1] "--XGoT Model--"
-[1] "Score: Stade Rennes 1.5124 to Shakhtar Donetsk 1.0453"
-[1] "Total: 2.5577"
-[1] "Stade Rennes %: 48.03"
-[1] "Draw %: 25.39"
-[1] "Shakhtar Donetsk %: 26.58"
+[1] "Score: Stade Rennes 1.5844 to Shakhtar Donetsk 1.0722"
+[1] "Total: 2.6566"
+[1] "Stade Rennes %: 49.53"
+[1] "Draw %: 24.95"
+[1] "Shakhtar Donetsk %: 25.52"
 [1] "--XA Model--"
-[1] "Score: Stade Rennes 1.6355 to Shakhtar Donetsk 1.0848"
-[1] "Total: 2.7203"
-[1] "Stade Rennes %: 50.55"
-[1] "Draw %: 24.54"
-[1] "Shakhtar Donetsk %: 24.91"
+[1] "Score: Stade Rennes 1.6267 to Shakhtar Donetsk 1.0819"
+[1] "Total: 2.7086"
+[1] "Stade Rennes %: 50.57"
+[1] "Draw %: 24.51"
+[1] "Shakhtar Donetsk %: 24.92"
 [1] "--Mean 4 Models--"
-[1] "Stade Rennes has a mean win % of 50.01%; a min win % of 48.03%; a max win % of 51.12%."
-[1] "Draw has a mean win % of 25.29%; a min win % of 24.54%; a max win % of 26.01%."
-[1] "Shakhtar Donetsk has a mean win % of 24.7%; a min win % of 23.64%; a max win of % 26.58%."
-[1] "Stade Rennes has a mean win of the Double Chance of 75.31%; a min win % of 73.42%, a max win % of 76.36%."
-[1] "Shakhtar Donetsk has a mean win of the Double Chance of 49.99%; a min win % of 48.88%, a max win % of 51.97%."
-[1] "The mean likelihood that there are more than 2.5 goals is 46.1%; max % is 49.83 and min % is 41.71%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 53.9%; max % is 58.29 and min % is 50.17%."
+[1] "Stade Rennes has a mean win % of 50.48%; a min win % of 49.53%; a max win % of 51.15%."
+[1] "Draw has a mean win % of 25.15%; a min win % of 24.51%; a max win % of 25.92%."
+[1] "Shakhtar Donetsk has a mean win % of 24.38%; a min win % of 23.43%; a max win of % 25.52%."
+[1] "Stade Rennes has a mean win of the Double Chance of 75.62%; a min win % of 74.48%, a max win % of 76.57%."
+[1] "Shakhtar Donetsk has a mean win of the Double Chance of 49.52%; a min win % of 48.85%, a max win % of 50.47%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.39%; max % is 49.86 and min % is 41.81%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.61%; max % is 58.19 and min % is 50.14%."
 [1] "--Sportsbook Odds--"
-[1] "Stade Rennes Barstool Odds are: 60.98"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Shakhtar Donetsk Barstool Odds are: 20"
-[1] "Stade Rennes Adjusted Barstool Odds are: 57.539"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.589"
-[1] "Shakhtar Donetsk Adjusted Barstool Odds are: 18.871"
-[1] "Stade Rennes's Barstool Odds to cover the -0.5 spread are: 60.24"
-[1] "Shakhtar Donetsk's Barstool Odds to cover the 0.5 spread are: 44.44"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.14, which is a 46.73% chance of the under 2.5 hitting."
+[1] "Stade Rennes Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Shakhtar Donetsk Barstool Odds are: 20.83"
+[1] "Stade Rennes Adjusted Barstool Odds are: 55.506"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.837"
+[1] "Shakhtar Donetsk Adjusted Barstool Odds are: 19.657"
+[1] "Stade Rennes's Barstool Odds to cover the -0.75 spread are: 53.19"
+[1] "Shakhtar Donetsk's Barstool Odds to cover the 0.75 spread are: 52.08"
+[1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18% chance of the over 2.5 hitting. The line for the under is 2.04, which is a 49.02% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                   bet           date_time
 1                    Shakhtar Donetsk 2023-02-23 12:00:00
 2 under Stade Rennes/Shakhtar Donetsk 2023-02-23 12:00:00
-3                Shakhtar Donetsk ATS 2023-02-23 12:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                                  |team             | expected_attg| expected_gs|bet |
 |:-----------------------------------------|:----------------|-------------:|-----------:|:---|
-|/players/31293/steve-mandanda             |Stade Rennes     |      0.000000|   0.1818182|    |
-|/players/894803/djed-spence               |Stade Rennes     |      0.037450|   0.1111111|    |
-|/players/1202595/warmed-omari             |Stade Rennes     |      0.033225|   0.0500000|    |
-|/players/1329406/jeanul-belocian          |Stade Rennes     |      0.033350|   0.0333333|    |
-|/players/566681/birger-meling             |Stade Rennes     |      0.032825|   0.0833333|    |
-|/players/441871/benjamin-bourigeaud       |Stade Rennes     |      0.104100|   0.1538462|    |
-|/players/762721/lovro-majer               |Stade Rennes     |      0.117050|   0.2500000|    |
-|/players/478105/baptiste-santamaria       |Stade Rennes     |      0.023750|   0.1250000|    |
-|/players/426906/karl-toko-ekambi          |Stade Rennes     |      0.251800|   0.3030303|    |
-|/players/844437/amine-gouiri              |Stade Rennes     |      0.297175|   0.3846154|    |
-|/players/1095445/arnaud-kalimuendo-muinga |Stade Rennes     |      0.260925|   0.3636364|    |
-|/players/850858/lassina-traore            |Shakhtar Donetsk |      0.265625|   0.2702703|    |
-|/players/1189791/dmytro-kryskiv           |Shakhtar Donetsk |      0.108775|   0.1851852|    |
-|/players/1192398/georgiy-sudakov          |Shakhtar Donetsk |      0.111175|   0.1428571|    |
-|/players/1116325/artem-bondarenko         |Shakhtar Donetsk |      0.101350|   0.1333333|    |
-|/players/655636/oleksandr-zubkov          |Shakhtar Donetsk |      0.100925|   0.1428571|    |
-|/players/92642/taras-stepanenko           |Shakhtar Donetsk |      0.016700|   0.0555556|    |
-|/players/629902/bogdan-mykhaylychenko     |Shakhtar Donetsk |      0.008525|   0.0400000|    |
-|/players/656667/mykola-matviyenko         |Shakhtar Donetsk |      0.078425|   0.0370370|    |
-|/players/1024427/valeriy-bondar           |Shakhtar Donetsk |      0.008425|   0.0400000|    |
-|/players/1054026/yukhym-konoplia          |Shakhtar Donetsk |      0.006700|   0.0370370|    |
-|/players/1022350/anatolii-trubin          |Shakhtar Donetsk |      0.000000|   0.2564103|    |
-|/players/942368/jrémy-doku                |Stade Rennes     |      0.024025|   0.2173913|    |
-|/players/1177358/adrien-truffert          |Stade Rennes     |      0.077125|   0.0909091|    |
-|/players/1200631/lesley-ugochukwu         |Stade Rennes     |      0.001450|   0.0714286|    |
-|/players/470810/xeka                      |Stade Rennes     |      0.008075|   0.1250000|    |
-|/players/620543/maryan-shved              |Shakhtar Donetsk |      0.015575|   0.0434783|    |
-|/players/955572/danylo-sikan              |Shakhtar Donetsk |      0.054525|   0.2702703|    |
-|/players/291731/ivan-petryak              |Shakhtar Donetsk |      0.000000|   0.1538462|    |
-|/players/1054024/viktor-korniienko        |Shakhtar Donetsk |      0.002425|   0.0303030|    |
+|/players/31293/steve-mandanda             |Stade Rennes     |      0.000000|   0.2040816|    |
+|/players/894803/djed-spence               |Stade Rennes     |      0.051875|   0.1052632|    |
+|/players/1202595/warmed-omari             |Stade Rennes     |      0.026525|   0.0476190|    |
+|/players/1329406/jeanul-belocian          |Stade Rennes     |      0.025500|   0.0312500|    |
+|/players/1177358/adrien-truffert          |Stade Rennes     |      0.024700|   0.0909091|    |
+|/players/942368/jrémy-doku                |Stade Rennes     |      0.092900|   0.2083333|    |
+|/players/478105/baptiste-santamaria       |Stade Rennes     |      0.023200|   0.1250000|    |
+|/players/762721/lovro-majer               |Stade Rennes     |      0.115600|   0.2380952|    |
+|/players/426906/karl-toko-ekambi          |Stade Rennes     |      0.256775|   0.2941176|    |
+|/players/1095445/arnaud-kalimuendo-muinga |Stade Rennes     |      0.249850|   0.3448276|    |
+|/players/844437/amine-gouiri              |Stade Rennes     |      0.308225|   0.3703704|    |
+|/players/850858/lassina-traore            |Shakhtar Donetsk |      0.260325|   0.2631579|    |
+|/players/1075532/dmytro-topalov           |Shakhtar Donetsk |      0.104125|   0.1785714|    |
+|/players/1192398/georgiy-sudakov          |Shakhtar Donetsk |      0.109800|   0.1428571|    |
+|/players/1116325/artem-bondarenko         |Shakhtar Donetsk |      0.097375|   0.1333333|    |
+|/players/655636/oleksandr-zubkov          |Shakhtar Donetsk |      0.098200|   0.1428571|    |
+|/players/92642/taras-stepanenko           |Shakhtar Donetsk |      0.015900|   0.0526316|    |
+|/players/629902/bogdan-mykhaylychenko     |Shakhtar Donetsk |      0.008600|   0.0384615|    |
+|/players/656667/mykola-matviyenko         |Shakhtar Donetsk |      0.072550|   0.0357143|    |
+|/players/1024427/valeriy-bondar           |Shakhtar Donetsk |      0.007950|   0.0384615|    |
+|/players/1054026/yukhym-konoplia          |Shakhtar Donetsk |      0.006825|   0.0357143|    |
+|/players/1022350/anatolii-trubin          |Shakhtar Donetsk |      0.000000|   0.0625000|    |
+|/players/1200631/lesley-ugochukwu         |Stade Rennes     |      0.001075|   0.0000000|    |
+|/players/428815/flavien-tait              |Stade Rennes     |      0.067600|   0.0000000|*   |
+|/players/566681/birger-meling             |Stade Rennes     |      0.000000|   0.0000000|    |
+|/players/1339208/dsiré-doué               |Stade Rennes     |      0.072450|   0.0000000|*   |
+|/players/955572/danylo-sikan              |Shakhtar Donetsk |      0.094525|   0.0000000|*   |
+|/players/932736/neven-djurasek            |Shakhtar Donetsk |      0.000000|   0.0000000|    |
+|/players/728941/egor-nazarina             |Shakhtar Donetsk |      0.000000|   0.0000000|    |
+|/players/1192419/oleg-ocheretko           |Shakhtar Donetsk |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Stade Rennes:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/31293/steve-mandanda             |           0|         34.5417|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/894803/djed-spence               |           1|         36.4679|           1.8334|        0.1597|         1.0945|      0.1581|        0.0435|      0.1172| 90.0000|
-|/players/1202595/warmed-omari             |           1|         68.2834|           1.2927|        0.1597|         0.0772|      0.0068|        0.0389|      0.0348| 90.0000|
-|/players/1329406/jeanul-belocian          |           1|         61.6303|           1.2927|        0.1597|         0.7327|      0.0231|        0.0389|      0.0138| 90.0000|
-|/players/566681/birger-meling             |           1|         44.8229|           2.2584|        0.1743|         0.5802|      0.0401|        0.0389|      0.1670| 90.0000|
-|/players/441871/benjamin-bourigeaud       |           3|         50.8713|           1.5014|        0.4461|         1.4345|      0.0953|        0.1304|      0.2061| 90.0000|
-|/players/762721/lovro-majer               |           3|         44.1686|           2.1284|        0.3373|         1.2201|      0.1548|        0.1390|      0.2281| 79.5517|
-|/players/478105/baptiste-santamaria       |           3|         54.5233|           2.7636|        0.2383|         1.0264|      0.0501|        0.0259|      0.0416| 90.0000|
-|/players/426906/karl-toko-ekambi          |           3|         30.6242|           0.8844|        0.8230|         2.0981|      0.3205|        0.3249|      0.1151| 80.8462|
-|/players/844437/amine-gouiri              |           5|         29.5927|           0.9397|        1.0931|         2.6287|      0.3610|        0.3863|      0.1523| 82.6591|
-|/players/1095445/arnaud-kalimuendo-muinga |           5|         16.0027|           0.4901|        1.0639|         2.5525|      0.3166|        0.3316|      0.0536| 73.9310|
-|/players/942368/jrémy-doku                |          NA|              NA|               NA|        0.1310|         0.4569|      0.0265|        0.0272|      0.0364| 16.0690|
-|/players/1177358/adrien-truffert          |          NA|              NA|               NA|        0.3281|         0.4770|      0.0899|        0.0890|      0.0074| 10.4483|
-|/players/1200631/lesley-ugochukwu         |          NA|              NA|               NA|        0.0942|         0.1643|      0.0106|        0.0016|      0.0019|  9.1538|
-|/players/470810/xeka                      |          NA|              NA|               NA|        0.0832|         0.1451|      0.0126|        0.0093|      0.0049|  7.3409|
+|/players/31293/steve-mandanda             |           0|         34.5090|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/894803/djed-spence               |           1|         35.4976|           1.6302|        0.1661|         0.8668|      0.1297|        0.0645|      0.1476| 90.0000|
+|/players/1202595/warmed-omari             |           1|         66.4665|           1.1494|        0.1623|         0.0611|      0.0056|        0.0318|      0.0439| 90.0000|
+|/players/1329406/jeanul-belocian          |           1|         59.9905|           1.1494|        0.1623|         0.5803|      0.0189|        0.0318|      0.0173| 90.0000|
+|/players/1177358/adrien-truffert          |           1|         43.3539|           2.4290|        0.1434|         0.8610|      0.0651|        0.0281|      0.1093| 79.5484|
+|/players/942368/jrémy-doku                |           3|         36.8990|           1.5888|        0.2973|         1.0584|      0.1122|        0.1157|      0.1981| 90.0000|
+|/players/478105/baptiste-santamaria       |           3|         59.9498|           2.7243|        0.2611|         1.1066|      0.0486|        0.0266|      0.0423| 90.0000|
+|/players/762721/lovro-majer               |           3|         48.5646|           2.0982|        0.3696|         1.3155|      0.1501|        0.1426|      0.2320| 79.5517|
+|/players/426906/karl-toko-ekambi          |           3|         33.6721|           0.8719|        0.9017|         2.2620|      0.3109|        0.3333|      0.1171| 80.8462|
+|/players/1095445/arnaud-kalimuendo-muinga |           5|         15.9875|           0.4901|        1.0629|         2.5502|      0.3164|        0.3314|      0.0536| 73.9310|
+|/players/844437/amine-gouiri              |           5|         32.1903|           1.0232|        1.1890|         2.8595|      0.3927|        0.4203|      0.1656| 90.0000|
+|/players/1200631/lesley-ugochukwu         |           0|              NA|               NA|        0.0918|         0.1691|      0.0138|        0.0012|      0.0031| 16.0690|
+|/players/428815/flavien-tait              |           0|              NA|               NA|        0.1358|         0.2084|      0.0389|        0.0797|      0.0230| 10.4516|
+|/players/566681/birger-meling             |           0|              NA|               NA|        0.0000|         0.0513|      0.0000|        0.0000|      0.0076| 10.4483|
+|/players/1339208/dsiré-doué               |           0|              NA|               NA|        0.2373|         0.6010|      0.0746|        0.0903|      0.0109|  9.1538|
 
 
 |manager_name  | approx_games| m_avg_elo_dif|formation |
@@ -115,28 +114,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Shakhtar Donetsk:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/850858/lassina-traore        |           5|         17.3803|           0.4634|        0.6247|         1.5281|      0.2967|        0.3386|      0.0359| 75.1538|
-|/players/1189791/dmytro-kryskiv       |           3|         24.0258|           1.4489|        0.3812|         2.0992|      0.2195|        0.1252|      0.0615| 90.0000|
-|/players/1192398/georgiy-sudakov      |           3|         48.6995|           1.2888|        0.3812|         0.3868|      0.0133|        0.1252|      0.2393| 90.0000|
-|/players/1116325/artem-bondarenko     |           3|         34.2034|           1.1551|        0.3417|         0.3467|      0.0119|        0.1122|      0.0187| 80.6667|
-|/players/655636/oleksandr-zubkov      |           3|         21.8902|           1.3201|        0.3474|         1.9126|      0.2000|        0.1141|      0.0560| 82.0000|
-|/players/92642/taras-stepanenko       |           2|         40.0553|           2.0339|        0.1199|         0.5273|      0.0229|        0.0174|      0.0440| 77.3000|
-|/players/629902/bogdan-mykhaylychenko |           1|         43.8215|           2.3922|        0.0723|         0.6424|      0.0369|        0.0089|      0.1222| 90.0000|
-|/players/656667/mykola-matviyenko     |           1|         57.0948|           1.6352|        0.1482|         0.2196|      0.0459|        0.0844|      0.0380| 90.0000|
-|/players/1024427/valeriy-bondar       |           1|         45.7887|           1.5581|        0.0723|         0.2196|      0.0190|        0.0089|      0.0023| 90.0000|
-|/players/1054026/yukhym-konoplia      |           1|         30.1408|           1.5313|        0.0723|         0.2604|      0.0190|        0.0089|      0.0241| 90.0000|
-|/players/1022350/anatolii-trubin      |           0|         38.3126|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/620543/maryan-shved          |          NA|              NA|               NA|        0.1490|         0.3098|      0.0190|        0.0179|      0.0123| 14.8462|
-|/players/955572/danylo-sikan          |          NA|              NA|               NA|        0.1179|         0.1650|      0.0537|        0.0593|      0.0081| 12.7000|
-|/players/291731/ivan-petryak          |          NA|              NA|               NA|        0.0000|         0.1849|      0.0045|        0.0000|      0.0028|  9.3333|
-|/players/1054024/viktor-korniienko    |          NA|              NA|               NA|        0.0833|         0.0933|      0.0038|        0.0028|      0.0057|  8.0000|
+|/players/850858/lassina-traore        |           5|         17.3959|           0.4634|        0.6253|         1.5293|      0.2969|        0.3389|      0.0360| 75.1538|
+|/players/1075532/dmytro-topalov       |           3|         24.0473|           1.4489|        0.3816|         2.1009|      0.2197|        0.1253|      0.0616| 90.0000|
+|/players/1192398/georgiy-sudakov      |           3|         48.7431|           1.2888|        0.3816|         0.3871|      0.0133|        0.1253|      0.2395| 90.0000|
+|/players/1116325/artem-bondarenko     |           3|         34.2341|           1.1551|        0.3420|         0.3470|      0.0119|        0.1123|      0.0187| 80.6667|
+|/players/655636/oleksandr-zubkov      |           3|         21.9098|           1.3201|        0.3476|         1.9142|      0.2001|        0.1142|      0.0561| 82.0000|
+|/players/92642/taras-stepanenko       |           2|         40.0912|           2.0339|        0.1200|         0.5277|      0.0230|        0.0175|      0.0441| 77.3000|
+|/players/629902/bogdan-mykhaylychenko |           1|         43.8608|           2.3922|        0.0723|         0.6429|      0.0369|        0.0089|      0.1223| 90.0000|
+|/players/656667/mykola-matviyenko     |           1|         57.1460|           1.6352|        0.1484|         0.2197|      0.0460|        0.0845|      0.0380| 90.0000|
+|/players/1024427/valeriy-bondar       |           1|         45.8298|           1.5581|        0.0723|         0.2197|      0.0190|        0.0089|      0.0023| 90.0000|
+|/players/1054026/yukhym-konoplia      |           1|         30.1678|           1.5313|        0.0723|         0.2606|      0.0190|        0.0089|      0.0241| 90.0000|
+|/players/1022350/anatolii-trubin      |           0|         38.3470|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/955572/danylo-sikan          |           0|              NA|               NA|        0.2527|         0.3639|      0.0728|        0.1060|      0.0254| 14.8462|
+|/players/932736/neven-djurasek        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 12.7000|
+|/players/728941/egor-nazarina         |           0|              NA|               NA|        0.0000|         0.2567|      0.0000|        0.0000|      0.0000|  9.3333|
+|/players/1192419/oleg-ocheretko       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  8.0000|
 
 
 |manager_name   | approx_games| m_avg_elo_dif|formation |
 |:--------------|------------:|-------------:|:---------|
 |Igor Jovicevic |            7|     -17.88286|4-1-4-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4060627/Soccer_Models'...
+Receiving objects:   1% (45/4401),   63 kb
+Receiving objects:  11% (485/4401),  127 kb
+Receiving objects:  21% (925/4401),  183 kb
+Receiving objects:  31% (1365/4401),  351 kb
+Receiving objects:  41% (1805/4401),  856 kb
+Receiving objects:  51% (2245/4401),  912 kb
+Receiving objects:  61% (2685/4401), 1360 kb
+Receiving objects:  71% (3125/4401), 10213 kb
+Receiving objects:  81% (3565/4401), 10493 kb
+Receiving objects:  91% (4005/4401), 10774 kb
+Receiving objects: 100% (4401/4401), 11079 kb, done.
