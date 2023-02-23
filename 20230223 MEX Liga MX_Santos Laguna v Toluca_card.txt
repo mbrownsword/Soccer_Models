@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 14:38:04.413"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Santos Laguna 1.4763 to Toluca 1.108"
+[1] "Total: 2.5843"
+[1] "Santos Laguna %: 45.8"
+[1] "Draw %: 25.14"
+[1] "Toluca %: 29.06"
+[1] "--XG Model--"
+[1] "Score: Santos Laguna 1.4953 to Toluca 1.0503"
+[1] "Total: 2.5456"
+[1] "Santos Laguna %: 47.56"
+[1] "Draw %: 25.39"
+[1] "Toluca %: 27.05"
+[1] "--XGoT Model--"
+[1] "Score: Santos Laguna 1.6126 to Toluca 1.065"
+[1] "Total: 2.6776"
+[1] "Santos Laguna %: 50.56"
+[1] "Draw %: 24.51"
+[1] "Toluca %: 24.93"
+[1] "--XA Model--"
+[1] "Score: Santos Laguna 1.443 to Toluca 1.0978"
+[1] "Total: 2.5408"
+[1] "Santos Laguna %: 44.82"
+[1] "Draw %: 25.92"
+[1] "Toluca %: 29.26"
+[1] "--Mean 4 Models--"
+[1] "Santos Laguna has a mean win % of 47.19%; a min win % of 44.82%; a max win % of 50.56%."
+[1] "Draw has a mean win % of 25.24%; a min win % of 24.51%; a max win % of 25.92%."
+[1] "Toluca has a mean win % of 27.58%; a min win % of 24.93%; a max win of % 29.26%."
+[1] "Santos Laguna has a mean win of the Double Chance of 72.43%; a min win % of 70.74%, a max win % of 75.07%."
+[1] "Toluca has a mean win of the Double Chance of 52.81%; a min win % of 49.44%, a max win % of 55.18%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.93%; max % is 49.32 and min % is 45.44%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.07%; max % is 54.56 and min % is 50.68%."
+[1] "--Sportsbook Odds--"
+[1] "Santos Laguna Barstool Odds are: 50.51"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "Toluca Barstool Odds are: 30.3"
+[1] "Santos Laguna Adjusted Barstool Odds are: 46.838"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.065"
+[1] "Toluca Adjusted Barstool Odds are: 28.097"
+[1] "Santos Laguna's Barstool Odds to cover the -0.5 spread are: 50.51"
+[1] "Toluca's Barstool Odds to cover the 0.5 spread are: 55.25"
+[1] "Barstool's line for the total is 2.5 at 1.45, which is a 68.97% chance of the over 2.5 hitting. The line for the under is 2.55, which is a 39.22% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                         bet           date_time
+1 under Santos Laguna/Toluca 2023-02-23 18:05:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team          | expected_attg| expected_gs|bet |
+|:----------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/751164/carlos-acevedo     |Santos Laguna |      0.000000|   0.0454545|    |
+|/players/432851/raul-lopez         |Santos Laguna |      0.044675|   0.1754386|    |
+|/players/320686/matheus-doria      |Santos Laguna |      0.060750|   0.1538462|    |
+|/players/200588/hugo-rodriguez     |Santos Laguna |      0.040425|   0.0909091|    |
+|/players/1222470/omar-campos       |Santos Laguna |      0.022050|   0.1333333|    |
+|/players/1174785/jair-gonzalez     |Santos Laguna |      0.003925|   0.1754386|    |
+|/players/301391/cecilio-dominguez  |Santos Laguna |      0.196650|   0.3333333|    |
+|/players/793586/juan-brunetta      |Santos Laguna |      0.144350|   0.3508772|    |
+|/players/848049/alan-cervantes     |Santos Laguna |      0.005400|   0.0476190|    |
+|/players/564613/javier-correa      |Santos Laguna |      0.147025|   0.3773585|    |
+|/players/466600/harold-preciado    |Santos Laguna |      0.437850|   0.5348837|    |
+|/players/409017/tiago-volpi        |Toluca        |      0.000000|   0.1428571|    |
+|/players/205863/andrs-mosquera     |Toluca        |      0.040750|   0.0625000|    |
+|/players/317774/valber-huerta      |Toluca        |      0.032675|   0.1538462|    |
+|/players/1205874/brian-garcia      |Toluca        |      0.019025|   0.1333333|    |
+|/players/110331/brayan-angulo      |Toluca        |      0.021125|   0.0526316|    |
+|/players/950681/marcel-ruiz        |Toluca        |      0.051525|   0.1666667|    |
+|/players/360799/claudio-baeza      |Toluca        |      0.050650|   0.0909091|    |
+|/players/115731/fernando-navarro   |Toluca        |      0.066975|   0.0909091|    |
+|/players/834965/leonardo-fernandez |Toluca        |      0.160500|   0.3333333|    |
+|/players/664954/jean-meneses       |Toluca        |      0.158900|   0.3125000|    |
+|/players/614459/carlos-gonzalez    |Toluca        |      0.247525|   0.3125000|    |
+|/players/1200713/emerson-rodriguez |Santos Laguna |      0.065950|   0.2380952|    |
+|/players/1096623/diego-medina      |Santos Laguna |      0.008900|   0.2631579|    |
+|/players/1085770/jose-lozano       |Santos Laguna |      0.046925|   0.2173913|    |
+|/players/1138422/aldo-lopez        |Santos Laguna |      0.000000|   0.1538462|    |
+|/players/256605/camilo             |Toluca        |      0.081975|   0.1052632|    |
+|/players/1084096/alan-rodriguez    |Toluca        |      0.000000|   0.1538462|    |
+|/players/622027/sebastian-saucedo  |Toluca        |      0.006225|   0.2500000|    |
+|/players/1222434/jorge-rodriguez   |Toluca        |      0.000000|   0.0526316|    |
+____________________________________________________
+
+[1] "Facts about Santos Laguna:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/751164/carlos-acevedo     |           0|         18.6654|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/432851/raul-lopez         |           1|         38.9388|           2.2986|        0.2169|         0.4943|      0.0310|        0.0549|      0.1327| 90.0000|
+|/players/320686/matheus-doria      |           1|         43.7215|           0.9258|        0.2217|         0.8378|      0.1174|        0.0726|      0.0218| 90.0000|
+|/players/200588/hugo-rodriguez     |           1|         43.8959|           1.1739|        0.1666|         0.5696|      0.0493|        0.0472|      0.0061| 90.0000|
+|/players/1222470/omar-campos       |           1|         39.2556|           1.9311|        0.1009|         0.5558|      0.0309|        0.0268|      0.0937| 90.0000|
+|/players/1174785/jair-gonzalez     |           3|         20.7821|           0.4262|        0.1038|         0.6549|      0.0166|        0.0050|      0.0547| 71.5000|
+|/players/301391/cecilio-dominguez  |           3|         21.7096|           1.5344|        0.7885|         1.7814|      0.2560|        0.2472|      0.1069| 70.8000|
+|/players/793586/juan-brunetta      |           3|         39.4541|           1.4614|        0.5336|         1.9648|      0.1368|        0.1854|      0.1959| 73.8571|
+|/players/848049/alan-cervantes     |           3|         44.3324|           3.0830|        0.1072|         0.5685|      0.0253|        0.0063|      0.0310| 90.0000|
+|/players/564613/javier-correa      |           5|         17.2570|           0.6850|        1.0057|         2.6081|      0.2303|        0.1950|      0.0552| 79.0400|
+|/players/466600/harold-preciado    |           5|         22.2638|           0.6832|        1.0873|         2.4754|      0.5425|        0.6670|      0.1543| 90.0000|
+|/players/1200713/emerson-rodriguez |           0|              NA|               NA|        0.4524|         0.7068|      0.0516|        0.0813|      0.0327| 19.2000|
+|/players/1096623/diego-medina      |           0|              NA|               NA|        0.1082|         0.3512|      0.0150|        0.0084|      0.0459| 18.5000|
+|/players/1085770/jose-lozano       |           0|              NA|               NA|        0.1271|         0.1375|      0.0634|        0.0583|      0.0013| 16.1429|
+|/players/1138422/aldo-lopez        |           0|              NA|               NA|        0.0000|         0.2726|      0.0075|        0.0000|      0.0037| 10.9600|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Eduardo Fentanes |     33.92424|         4.565|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Toluca:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/409017/tiago-volpi        |           0|         31.9336|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/205863/andrs-mosquera     |           1|         43.7136|           1.6496|        0.0493|         0.3911|      0.0474|        0.0498|      0.0678| 90.0000|
+|/players/317774/valber-huerta      |           1|         54.7405|           1.0782|        0.1660|         0.6589|      0.0440|        0.0404|      0.0053| 90.0000|
+|/players/1205874/brian-garcia      |           1|         37.9046|           1.9293|        0.1591|         0.4512|      0.0280|        0.0235|      0.0692| 90.0000|
+|/players/110331/brayan-angulo      |           1|         37.9290|           1.9422|        0.1311|         0.4459|      0.0318|        0.0250|      0.0465| 82.5581|
+|/players/950681/marcel-ruiz        |           2|         44.0249|           1.7205|        0.3978|         1.3740|      0.1224|        0.0592|      0.0669| 90.0000|
+|/players/360799/claudio-baeza      |           2|         49.6865|           2.7602|        0.0627|         0.3608|      0.0069|        0.0592|      0.0674| 90.0000|
+|/players/115731/fernando-navarro   |           3|         29.7808|           1.4191|        0.2211|         0.9298|      0.1150|        0.0796|      0.0523| 81.2000|
+|/players/834965/leonardo-fernandez |           3|         23.4751|           0.5256|        0.7896|         2.2580|      0.1525|        0.2049|      0.1829| 72.4286|
+|/players/664954/jean-meneses       |           3|         27.5497|           2.0505|        0.5696|         1.5513|      0.1879|        0.1987|      0.0801| 90.0000|
+|/players/614459/carlos-gonzalez    |           5|         17.6341|           0.5334|        0.8408|         2.0376|      0.3228|        0.3322|      0.0641| 82.3478|
+|/players/256605/camilo             |           0|              NA|               NA|        0.4569|         0.8709|      0.0913|        0.0988|      0.0498| 17.5714|
+|/players/1084096/alan-rodriguez    |           0|              NA|               NA|        0.0000|         0.1678|      0.0033|        0.0000|      0.0033|  8.8000|
+|/players/622027/sebastian-saucedo  |           0|              NA|               NA|        0.0807|         0.1448|      0.0055|        0.0065|      0.0147|  7.6522|
+|/players/1222434/jorge-rodriguez   |           0|              NA|               NA|        0.0000|         0.0438|      0.0012|        0.0000|      0.0010|  7.4419|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Ignacio Ambriz |     55.85253|    -0.0229412|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065396/Soccer_Models'...
+Receiving objects:   1% (45/4419),   63 kb
+Receiving objects:  11% (487/4419),  127 kb
+Receiving objects:  21% (928/4419),  183 kb
+Receiving objects:  31% (1370/4419),  351 kb
+Receiving objects:  41% (1812/4419),  856 kb
+Receiving objects:  51% (2254/4419),  912 kb
+Receiving objects:  61% (2696/4419), 1360 kb
+Receiving objects:  71% (3138/4419), 10213 kb
+Receiving objects:  81% (3580/4419), 10493 kb
+Receiving objects:  91% (4022/4419), 10774 kb
+Receiving objects: 100% (4419/4419), 11086 kb, done.
