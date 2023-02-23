@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 14:47:06.835"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Empoli 0.6906 to Napoli 1.5903"
+[1] "Total: 2.2809"
+[1] "Empoli %: 16.13"
+[1] "Draw %: 25.19"
+[1] "Napoli %: 58.68"
+[1] "--XG Model--"
+[1] "Score: Empoli 0.3893 to Napoli 1.7814"
+[1] "Total: 2.1707"
+[1] "Empoli %: 7.25"
+[1] "Draw %: 20.93"
+[1] "Napoli %: 71.82"
+[1] "--XGoT Model--"
+[1] "Score: Empoli 0.4545 to Napoli 1.6251"
+[1] "Total: 2.0796"
+[1] "Empoli %: 9.77"
+[1] "Draw %: 23.78"
+[1] "Napoli %: 66.45"
+[1] "--XA Model--"
+[1] "Score: Empoli 0.535 to Napoli 2.0341"
+[1] "Total: 2.5691"
+[1] "Empoli %: 8.99"
+[1] "Draw %: 18.28"
+[1] "Napoli %: 72.73"
+[1] "--Mean 4 Models--"
+[1] "Empoli has a mean win % of 10.54%; a min win % of 7.25%; a max win % of 16.13%."
+[1] "Draw has a mean win % of 22.05%; a min win % of 18.28%; a max win % of 25.19%."
+[1] "Napoli has a mean win % of 67.42%; a min win % of 58.68%; a max win of % 72.73%."
+[1] "Empoli has a mean win of the Double Chance of 32.58%; a min win % of 27.27%, a max win % of 41.32%."
+[1] "Napoli has a mean win of the Double Chance of 89.46%; a min win % of 83.87%, a max win % of 92.75%."
+[1] "The mean likelihood that there are more than 2.5 goals is 39.38%; max % is 47.31 and min % is 34.13%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 60.62%; max % is 65.87 and min % is 52.69%."
+[1] "--Sportsbook Odds--"
+[1] "Empoli Barstool Odds are: 14.81"
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Napoli Barstool Odds are: 69.23"
+[1] "Empoli Adjusted Barstool Odds are: 14.001"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.552"
+[1] "Napoli Adjusted Barstool Odds are: 65.447"
+[1] "Empoli's Barstool Odds to cover the 0.5 spread are: 37.04"
+[1] "Napoli's Barstool Odds to cover the -0.5 spread are: 67.57"
+[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                  bet           date_time
+1 under Empoli/Napoli 2023-02-25 09:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                   |team   | expected_attg| expected_gs|bet |
+|:------------------------------------------|:------|-------------:|-----------:|:---|
+|/players/538501/guglielmo-vicario          |Empoli |      0.000000|   0.3030303|    |
+|/players/750880/ardian-ismajili            |Empoli |      0.000025|   0.0416667|    |
+|/players/604330/sebastiano-luperto         |Empoli |      0.000000|   0.0416667|    |
+|/players/1093285/fabiano-parisi            |Empoli |      0.000175|   0.0909091|    |
+|/players/311016/petar-stojanovic           |Empoli |      0.000125|   0.0416667|    |
+|/players/570830/nicolas-haas               |Empoli |      0.071375|   0.1000000|    |
+|/players/469939/liam-henderson             |Empoli |      0.036200|   0.1111111|    |
+|/players/574844/razvan-marin               |Empoli |      0.047625|   0.1176471|    |
+|/players/575364/alberto-grassi             |Empoli |      0.163550|   0.0769231|*   |
+|/players/1197039/martin-satriano           |Empoli |      0.045925|   0.2040816|    |
+|/players/155254/francesco-caputo           |Empoli |      0.075100|   0.2631579|    |
+|/players/577912/alex-meret                 |Napoli |      0.000000|   0.0217391|    |
+|/players/198099/bartosz-bereszynski        |Napoli |      0.011225|   0.0833333|    |
+|/players/544693/amir-rrahmani              |Napoli |      0.075975|   0.1428571|    |
+|/players/282731/mario-rui                  |Napoli |      0.024300|   0.0526316|    |
+|/players/414906/giovanni-di-lorenzo        |Napoli |      0.062625|   0.1176471|    |
+|/players/612863/andre-frank-zambo-anguissa |Napoli |      0.079350|   0.2040816|    |
+|/players/308517/stanislav-lobotka          |Napoli |      0.030850|   0.1428571|    |
+|/players/362212/piotr-zielinski            |Napoli |      0.290650|   0.3921569|    |
+|/players/900433/khvicha-kvaratskhelia      |Napoli |      0.238600|   0.4761905|    |
+|/players/469615/giovanni-simeone           |Napoli |      0.203150|   0.5000000|    |
+|/players/687681/victor-osimhen             |Napoli |      0.357475|   0.5652174|    |
+|/players/814138/emanuel-vignato            |Empoli |      0.000400|   0.1333333|    |
+|/players/307235/marko-pjaca                |Empoli |      0.023800|   0.1694915|    |
+|/players/1017401/roberto-piccoli           |Empoli |      0.002200|   0.2040816|    |
+|/players/561844/tyronne-ebuehi             |Empoli |      0.000000|   0.0416667|    |
+|/players/741049/eljif-elmas                |Napoli |      0.016150|   0.3333333|    |
+|/players/415539/matteo-politano            |Napoli |      0.025000|   0.3508772|    |
+|/players/773189/tanguy-ndomblé             |Napoli |      0.005525|   0.2439024|    |
+|/players/521210/hirving-lozano             |Napoli |      0.038000|   0.4166667|    |
+____________________________________________________
+
+[1] "Facts about Empoli:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/538501/guglielmo-vicario  |           0|         32.3593|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/750880/ardian-ismajili    |           1|         30.1929|           1.0612|        0.0359|         0.2358|      0.0036|        0.0000|      0.0047| 90.0000|
+|/players/604330/sebastiano-luperto |           1|         29.9553|           0.9432|        0.0376|         0.1765|      0.0031|        0.0000|      0.0041| 90.0000|
+|/players/1093285/fabiano-parisi    |           1|         30.2534|           1.3549|        0.0658|         0.4768|      0.0091|        0.0002|      0.0170| 90.0000|
+|/players/311016/petar-stojanovic   |           1|         30.9592|           2.0472|        0.0463|         0.2259|      0.0036|        0.0001|      0.0386| 90.0000|
+|/players/570830/nicolas-haas       |           2|         27.9748|           4.0679|        0.0462|         0.6267|      0.0657|        0.0754|      0.0138| 81.7083|
+|/players/469939/liam-henderson     |           2|         26.0281|           0.7613|        0.0822|         0.7118|      0.0760|        0.0402|      0.0239| 75.2778|
+|/players/574844/razvan-marin       |           2|         37.7139|           2.8983|        0.0587|         0.5597|      0.0298|        0.0519|      0.0620| 90.0000|
+|/players/575364/alberto-grassi     |           3|         22.9396|           1.6970|        0.6489|         1.3271|      0.1969|        0.1838|      0.0695| 75.8889|
+|/players/1197039/martin-satriano   |           5|         15.5148|           0.6281|        0.3822|         1.3806|      0.0826|        0.0528|      0.0539| 79.7333|
+|/players/155254/francesco-caputo   |           5|         17.6185|           0.1052|        0.5763|         1.2866|      0.0868|        0.0789|      0.0838| 90.0000|
+|/players/814138/emanuel-vignato    |           0|              NA|               NA|        0.0212|         0.0589|      0.0029|        0.0007|      0.0142| 14.7222|
+|/players/307235/marko-pjaca        |           0|              NA|               NA|        0.0725|         0.1512|      0.0096|        0.0244|      0.0058| 14.1111|
+|/players/1017401/roberto-piccoli   |           0|              NA|               NA|        0.0236|         0.1640|      0.0124|        0.0023|      0.0003| 10.2667|
+|/players/561844/tyronne-ebuehi     |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0008|  8.2917|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Paolo Zanetti |     51.78182|     -8.507872|4-3-1-2   |
+____________________________________________________
+
+[1] "Facts about Napoli:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                   | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/577912/alex-meret                 |           0|         27.1751|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/198099/bartosz-bereszynski        |           1|         46.1089|           2.5672|        0.0392|         0.2639|      0.0066|        0.0101|      0.0484| 90.0000|
+|/players/544693/amir-rrahmani              |           1|         66.1571|           1.3559|        0.3195|         0.8973|      0.1408|        0.0727|      0.0115| 90.0000|
+|/players/282731/mario-rui                  |           1|         78.1715|           2.3370|        0.2082|         1.2463|      0.0732|        0.0243|      0.1565| 90.0000|
+|/players/414906/giovanni-di-lorenzo        |           1|         67.9590|           1.9534|        0.1530|         0.6557|      0.0841|        0.0639|      0.1187| 90.0000|
+|/players/612863/andre-frank-zambo-anguissa |           3|         54.4704|           2.0126|        0.2774|         1.4080|      0.1760|        0.0777|      0.0794| 90.0000|
+|/players/308517/stanislav-lobotka          |           3|         59.4372|           2.1607|        0.0746|         0.5112|      0.0255|        0.0301|      0.0286| 83.7200|
+|/players/362212/piotr-zielinski            |           3|         41.9439|           0.5456|        0.6810|         2.4118|      0.3308|        0.3151|      0.1944| 77.6349|
+|/players/900433/khvicha-kvaratskhelia      |           5|         41.8821|           1.4913|        0.8187|         2.3840|      0.2004|        0.2538|      0.3084| 75.8750|
+|/players/469615/giovanni-simeone           |           5|         26.2846|           0.8181|        0.7218|         1.7159|      0.2786|        0.2175|      0.0938| 81.8857|
+|/players/687681/victor-osimhen             |           5|         21.4286|           0.4629|        1.3879|         2.8244|      0.4563|        0.4133|      0.0935| 90.0000|
+|/players/741049/eljif-elmas                |           0|              NA|               NA|        0.0712|         0.1920|      0.0175|        0.0168|      0.0129| 14.1250|
+|/players/415539/matteo-politano            |           0|              NA|               NA|        0.0685|         0.2650|      0.0168|        0.0223|      0.0270| 12.3651|
+|/players/773189/tanguy-ndomblé             |           0|              NA|               NA|        0.0283|         0.1173|      0.0104|        0.0052|      0.0106|  8.1143|
+|/players/521210/hirving-lozano             |           0|              NA|               NA|        0.1092|         0.1902|      0.0344|        0.0395|      0.0139|  6.2800|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Luciano Spalletti |     68.85758|      15.55296|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3919271/Soccer_Models'...
+Receiving objects:   1% (45/4422),   63 kb
+Receiving objects:  11% (487/4422),  127 kb
+Receiving objects:  21% (929/4422),  183 kb
+Receiving objects:  31% (1371/4422),  351 kb
+Receiving objects:  41% (1814/4422),  856 kb
+Receiving objects:  51% (2256/4422),  912 kb
+Receiving objects:  61% (2698/4422), 1360 kb
+Receiving objects:  71% (3140/4422), 10213 kb
+Receiving objects:  81% (3582/4422), 10493 kb
+Receiving objects:  91% (4025/4422), 10774 kb
+Receiving objects: 100% (4422/4422), 11089 kb, done.
