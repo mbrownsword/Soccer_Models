@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 15:25:21.585"
+[1] "Updated at 2023-02-22 20:13:34.967"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -35,14 +35,14 @@
 [1] "The mean likelihood that there are fewer than 2.5 goals is 42.88%; max % is 46.67 and min % is 40.85%."
 [1] "--Sportsbook Odds--"
 [1] "AS Roma Barstool Odds are: 58.82"
-[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "The Barstool Odds of a Draw are: 28.57"
 [1] "FC Salzburg Barstool Odds are: 19.23"
-[1] "AS Roma Adjusted Barstool Odds are: 55.58"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.25"
-[1] "FC Salzburg Adjusted Barstool Odds are: 18.171"
-[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 57.8"
-[1] "FC Salzburg's Barstool Odds to cover the 0.5 spread are: 46.73"
-[1] "Barstool's line for the total is 2.5 at 2.04, which is a 49.02% chance of the over 2.5 hitting. The line for the under is 1.78, which is a 56.18% chance of the under 2.5 hitting."
+[1] "AS Roma Adjusted Barstool Odds are: 55.168"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.796"
+[1] "FC Salzburg Adjusted Barstool Odds are: 18.036"
+[1] "AS Roma's Barstool Odds to cover the -0.5 spread are: 57.47"
+[1] "FC Salzburg's Barstool Odds to cover the 0.5 spread are: 47.17"
+[1] "Barstool's line for the total is 2.5 at 2.07, which is a 48.31% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                        bet           date_time
@@ -54,7 +54,7 @@
 
 |pageUrl2                               |team        | expected_attg| expected_gs|bet |
 |:--------------------------------------|:-----------|-------------:|-----------:|:---|
-|/players/40604/rui-patricio            |AS Roma     |      0.000000|   0.0500000|    |
+|/players/40604/rui-patricio            |AS Roma     |      0.000000|   0.0476190|    |
 |/players/588687/gianluca-mancini       |AS Roma     |      0.050250|   0.0833333|    |
 |/players/165823/chris-smalling         |AS Roma     |      0.028975|   0.1052632|    |
 |/players/862538/roger-ibanez           |AS Roma     |      0.020575|   0.1052632|    |
@@ -70,10 +70,10 @@
 |/players/959597/luka-sucic             |FC Salzburg |      0.133650|   0.1111111|    |
 |/players/1024672/nicolas-seiwald       |FC Salzburg |      0.032050|   0.0357143|    |
 |/players/1137106/lucas-gourna-douath   |FC Salzburg |      0.030175|   0.0294118|    |
-|/players/1018564/nicolas-capaldo       |FC Salzburg |      0.030375|   0.1052632|    |
-|/players/43205/andreas-ulmer           |FC Salzburg |      0.027200|   0.0312500|    |
+|/players/1018564/nicolas-capaldo       |FC Salzburg |      0.030375|   0.1111111|    |
+|/players/43205/andreas-ulmer           |FC Salzburg |      0.027200|   0.0322581|    |
 |/players/1048023/strahinja-pavlovic    |FC Salzburg |      0.091175|   0.0625000|    |
-|/players/866708/oumar-solet            |FC Salzburg |      0.042625|   0.0243902|    |
+|/players/866708/oumar-solet            |FC Salzburg |      0.042625|   0.0250000|    |
 |/players/958010/amar-dedic             |FC Salzburg |      0.033550|   0.0625000|    |
 |/players/872934/philipp-khn            |FC Salzburg |      0.000000|   0.0714286|    |
 |/players/108038/georginio-wijnaldum    |AS Roma     |      0.094575|   0.1333333|    |
@@ -109,9 +109,9 @@ ____________________________________________________
 |/players/872362/marash-kumbulla     |          NA|              NA|               NA|        0.0000|         0.0891|      0.0113|        0.0000|      0.0076|     8.4|
 
 
-|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name  | approx_games| m_avg_elo_dif|formation |
 |:-------------|------------:|-------------:|:---------|
-|José Mourinho |       101235|       10.3063|4-2-3-1   |
+|José Mourinho |     102.2576|       10.3063|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about FC Salzburg:"
@@ -137,6 +137,6 @@ ____________________________________________________
 |/players/1082597/ignace-van-der-brempt |          NA|              NA|               NA|        0.0000|         0.0325|      0.0159|        0.0000|      0.0201| 12.8571|
 
 
-|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name     | approx_games| m_avg_elo_dif|formation |
 |:----------------|------------:|-------------:|:---------|
-|Matthias Jaissle |        62304|      28.45159|4-3-1-2   |
+|Matthias Jaissle |     62.93333|      28.45159|4-3-1-2   |
