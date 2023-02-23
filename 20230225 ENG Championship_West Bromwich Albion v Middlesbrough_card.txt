@@ -1,0 +1,154 @@
+[1] "Updated at 2023-02-23 15:43:47.340"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: West Bromwich Albion 1.2021 to Middlesbrough 1.2534"
+[1] "Total: 2.4555"
+[1] "West Bromwich Albion %: 35.19"
+[1] "Draw %: 27.73"
+[1] "Middlesbrough %: 37.08"
+[1] "--XG Model--"
+[1] "Score: West Bromwich Albion 1.2138 to Middlesbrough 1.1646"
+[1] "Total: 2.3784"
+[1] "West Bromwich Albion %: 37.39"
+[1] "Draw %: 28.36"
+[1] "Middlesbrough %: 34.25"
+[1] "--XGoT Model--"
+[1] "Score: West Bromwich Albion 1.2037 to Middlesbrough 1.2739"
+[1] "Total: 2.4776"
+[1] "West Bromwich Albion %: 34.89"
+[1] "Draw %: 27.69"
+[1] "Middlesbrough %: 37.42"
+[1] "--XA Model--"
+[1] "Score: West Bromwich Albion 1.1715 to Middlesbrough 1.1688"
+[1] "Total: 2.3403"
+[1] "West Bromwich Albion %: 35.67"
+[1] "Draw %: 28.58"
+[1] "Middlesbrough %: 35.75"
+[1] "--Mean 4 Models--"
+[1] "West Bromwich Albion has a mean win % of 35.78%; a min win % of 34.89%; a max win % of 37.39%."
+[1] "Draw has a mean win % of 28.09%; a min win % of 27.69%; a max win % of 28.58%."
+[1] "Middlesbrough has a mean win % of 36.12%; a min win % of 34.25%; a max win of % 37.42%."
+[1] "West Bromwich Albion has a mean win of the Double Chance of 63.87%; a min win % of 62.58%, a max win % of 65.75%."
+[1] "Middlesbrough has a mean win of the Double Chance of 64.22%; a min win % of 62.61%, a max win % of 65.11%."
+[1] "The mean likelihood that there are more than 2.5 goals is 42.25%; max % is 43.65 and min % is 40.7%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 57.75%; max % is 59.3 and min % is 56.35%."
+[1] "--Sportsbook Odds--"
+[1] "West Bromwich Albion Barstool Odds are: 43.48"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Middlesbrough Barstool Odds are: 33.9"
+[1] "West Bromwich Albion Adjusted Barstool Odds are: 40.715"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.54"
+[1] "Middlesbrough Adjusted Barstool Odds are: 31.745"
+[1] "West Bromwich Albion's Barstool Odds to cover the -0.5 spread are: 42.92"
+[1] "Middlesbrough's Barstool Odds to cover the 0.5 spread are: 62.11"
+[1] "Barstool's line for the total is 2.5 at 2, which is a 50% chance of the over 2.5 hitting. The line for the under is 1.8, which is a 55.56% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                       bet           date_time
+1                            Middlesbrough 2023-02-25 07:00:00
+2 under West Bromwich Albion/Middlesbrough 2023-02-25 07:00:00
+3                        Middlesbrough ATS 2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team                 | expected_attg| expected_gs|bet |
+|:--------------------------------------|:--------------------|-------------:|-----------:|:---|
+|/players/111027/david-button           |West Bromwich Albion |      0.000000|   0.0952381|    |
+|/players/609733/darnell-furlong        |West Bromwich Albion |      0.038000|   0.0909091|    |
+|/players/410836/semi-ajayi             |West Bromwich Albion |      0.028875|   0.0714286|    |
+|/players/295069/conor-townsend         |West Bromwich Albion |      0.033575|   0.0833333|    |
+|/players/789578/dara-oshea             |West Bromwich Albion |      0.034400|   0.0909091|    |
+|/players/287892/jed-wallace            |West Bromwich Albion |      0.095975|   0.2272727|    |
+|/players/115681/jake-livermore         |West Bromwich Albion |      0.081275|   0.1176471|    |
+|/players/541822/john-swift             |West Bromwich Albion |      0.085125|   0.2325581|    |
+|/players/654091/grady-diangana         |West Bromwich Albion |      0.170100|   0.2439024|    |
+|/players/776184/brandon-thomas-asante  |West Bromwich Albion |      0.213475|   0.3333333|    |
+|/players/586467/karlan-grant           |West Bromwich Albion |      0.239775|   0.4166667|    |
+|/players/533127/zack-steffen           |Middlesbrough        |      0.000000|   0.0333333|    |
+|/players/798661/anfernee-dijksteel     |Middlesbrough        |      0.010075|   0.0454545|    |
+|/players/575780/patrick-mcnair         |Middlesbrough        |      0.056325|   0.1960784|    |
+|/players/664826/dael-fry               |Middlesbrough        |      0.011100|   0.0952381|    |
+|/players/524651/darragh-lenihan        |Middlesbrough        |      0.047875|   0.0555556|    |
+|/players/46354/jonathan-howson         |Middlesbrough        |      0.055000|   0.0952381|    |
+|/players/982394/hayden-hackney         |Middlesbrough        |      0.053125|   0.1333333|    |
+|/players/682547/daniel-barlaser        |Middlesbrough        |      0.190200|   0.1666667|    |
+|/players/280507/matt-crooks            |Middlesbrough        |      0.154075|   0.2702703|    |
+|/players/1118697/isaiah-jones          |Middlesbrough        |      0.159150|   0.1960784|    |
+|/players/1086647/cameron-archer        |Middlesbrough        |      0.277775|   0.3333333|    |
+|/players/789574/jayson-molumby         |West Bromwich Albion |      0.000425|   0.1000000|    |
+|/players/303899/tom-rogic              |West Bromwich Albion |      0.011225|   0.2040816|    |
+|/players/982361/taylor-gardner-hickman |West Bromwich Albion |      0.000000|   0.1000000|    |
+|/players/139671/marc-albrighton        |West Bromwich Albion |      0.000000|   0.2173913|    |
+|/players/789585/marcus-forss           |Middlesbrough        |      0.000000|   0.3225806|    |
+|/players/1128945/rodrigo-muniz         |Middlesbrough        |      0.011600|   0.1960784|    |
+|/players/759563/marc-bola              |Middlesbrough        |      0.000000|   0.0454545|    |
+|/players/733486/riley-mcgree           |Middlesbrough        |      0.000850|   0.1724138|    |
+____________________________________________________
+
+[1] "Facts about West Bromwich Albion:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/111027/david-button           |           0|         31.5831|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/609733/darnell-furlong        |           1|         41.8162|           1.1495|        0.1524|         0.6974|      0.0516|        0.0436|      0.0989| 90.0000|
+|/players/410836/semi-ajayi             |           1|         44.5128|           1.4743|        0.1672|         0.5943|      0.0558|        0.0295|      0.0207| 90.0000|
+|/players/295069/conor-townsend         |           1|         48.4588|           2.0758|        0.1114|         0.3058|      0.0254|        0.0373|      0.0849| 90.0000|
+|/players/789578/dara-oshea             |           1|         57.7692|           1.4200|        0.1067|         0.4882|      0.0512|        0.0396|      0.0234| 90.0000|
+|/players/287892/jed-wallace            |           3|         37.5743|           1.8070|        0.6379|         1.8242|      0.1890|        0.1074|      0.1201| 90.0000|
+|/players/115681/jake-livermore         |           3|         37.5414|           2.5202|        0.0631|         0.4370|      0.0194|        0.0946|      0.0214| 82.4333|
+|/players/541822/john-swift             |           3|         50.1555|           0.9790|        0.3907|         1.2138|      0.0961|        0.0972|      0.1127| 84.6429|
+|/players/654091/grady-diangana         |           5|         24.2615|           1.5033|        0.5940|         1.1320|      0.0519|        0.1907|      0.1335| 66.4444|
+|/players/776184/brandon-thomas-asante  |           5|         20.5085|           0.8512|        0.8046|         2.7644|      0.3428|        0.2583|      0.1090| 90.0000|
+|/players/586467/karlan-grant           |           5|         21.2844|           0.4454|        0.8148|         2.0754|      0.4053|        0.2915|      0.0712| 81.2222|
+|/players/789574/jayson-molumby         |           0|              NA|               NA|        0.0292|         0.2522|      0.0129|        0.0005|      0.0058| 23.5556|
+|/players/303899/tom-rogic              |           0|              NA|               NA|        0.0456|         0.0984|      0.0121|        0.0116|      0.0136|  8.7778|
+|/players/982361/taylor-gardner-hickman |           0|              NA|               NA|        0.0000|         0.0337|      0.0009|        0.0000|      0.0012|  7.5667|
+|/players/139671/marc-albrighton        |           0|              NA|               NA|        0.0000|         0.0443|      0.0023|        0.0000|      0.0032|  5.3571|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Carlos Corberan |     111.9848|     -1.950526|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Middlesbrough:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/533127/zack-steffen       |           0|         31.0347|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/798661/anfernee-dijksteel |           1|         35.8934|           2.3207|        0.0396|         0.1147|      0.0119|        0.0123|      0.0721| 90.0000|
+|/players/575780/patrick-mcnair     |           1|         46.0571|           2.0691|        0.1413|         0.6748|      0.0584|        0.0603|      0.0865| 90.0000|
+|/players/664826/dael-fry           |           1|         45.2239|           0.9433|        0.0734|         0.2657|      0.0414|        0.0123|      0.0156| 90.0000|
+|/players/524651/darragh-lenihan    |           1|         59.2021|           1.3352|        0.2747|         0.7950|      0.0662|        0.0559|      0.0448| 90.0000|
+|/players/46354/jonathan-howson     |           2|         44.9548|           2.4207|        0.2292|         0.3409|      0.0260|        0.0614|      0.0523| 90.0000|
+|/players/982394/hayden-hackney     |           2|         52.8613|           1.7106|        0.2227|         1.2600|      0.1116|        0.0596|      0.0906| 87.4444|
+|/players/682547/daniel-barlaser    |           3|         34.3641|           1.0918|        0.5990|         0.9927|      0.0835|        0.2235|      0.1548| 84.3684|
+|/players/280507/matt-crooks        |           3|         30.4230|           1.5418|        0.7550|         2.6216|      0.3181|        0.1808|      0.0884| 87.3243|
+|/players/1118697/isaiah-jones      |           3|         25.9769|           1.3348|        0.5900|         1.4084|      0.1635|        0.1910|      0.1538| 90.0000|
+|/players/1086647/cameron-archer    |           5|         18.4113|           0.6147|        0.8819|         2.0272|      0.3480|        0.3522|      0.0643| 85.9167|
+|/players/789585/marcus-forss       |           0|              NA|               NA|        0.0000|         0.0966|      0.0089|        0.0000|      0.0087|  5.6316|
+|/players/1128945/rodrigo-muniz     |           0|              NA|               NA|        0.0544|         0.2078|      0.0148|        0.0115|      0.0008|  4.0833|
+|/players/759563/marc-bola          |           0|              NA|               NA|        0.0000|         0.0240|      0.0007|        0.0000|      0.0064|  2.6757|
+|/players/733486/riley-mcgree       |           0|              NA|               NA|        0.0196|         0.0618|      0.0024|        0.0008|      0.0087|  2.5556|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Michael Carrick |     19.95859|         5.231|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3915641/Soccer_Models'...
+Receiving objects:   1% (45/4455),   63 kb
+Receiving objects:  11% (491/4455),  127 kb
+Receiving objects:  21% (936/4455),  183 kb
+Receiving objects:  31% (1382/4455),  351 kb
+Receiving objects:  41% (1827/4455),  856 kb
+Receiving objects:  51% (2273/4455),  968 kb
+Receiving objects:  61% (2718/4455), 1360 kb
+Receiving objects:  71% (3164/4455), 10269 kb
+Receiving objects:  81% (3609/4455), 10549 kb
+Receiving objects:  91% (4055/4455), 10774 kb
+Receiving objects: 100% (4455/4455), 11124 kb, done.
