@@ -1,0 +1,140 @@
+[1] "Updated at 2023-02-23 06:33:00.407"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Fulham 1.445 to Wolverhampton 1.0866"
+[1] "Total: 2.5316"
+[1] "Fulham %: 45.34"
+[1] "Draw %: 25.76"
+[1] "Wolverhampton %: 28.9"
+[1] "--XG Model--"
+[1] "Score: Fulham 1.4629 to Wolverhampton 1.0721"
+[1] "Total: 2.535"
+[1] "Fulham %: 46.79"
+[1] "Draw %: 25.58"
+[1] "Wolverhampton %: 27.63"
+[1] "--XGoT Model--"
+[1] "Score: Fulham 1.5676 to Wolverhampton 1.0964"
+[1] "Total: 2.664"
+[1] "Fulham %: 48.27"
+[1] "Draw %: 24.71"
+[1] "Wolverhampton %: 27.02"
+[1] "--XA Model--"
+[1] "Score: Fulham 1.6289 to Wolverhampton 1.2239"
+[1] "Total: 2.8528"
+[1] "Fulham %: 47.43"
+[1] "Draw %: 24.37"
+[1] "Wolverhampton %: 28.2"
+[1] "--Mean 4 Models--"
+[1] "Fulham has a mean win % of 46.96%; a min win % of 45.34%; a max win % of 48.27%."
+[1] "Draw has a mean win % of 25.1%; a min win % of 24.37%; a max win % of 25.76%."
+[1] "Wolverhampton has a mean win % of 27.94%; a min win % of 27.02%; a max win of % 28.9%."
+[1] "Fulham has a mean win of the Double Chance of 72.06%; a min win % of 71.1%, a max win % of 72.98%."
+[1] "Wolverhampton has a mean win of the Double Chance of 53.04%; a min win % of 51.73%, a max win % of 54.66%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.15%; max % is 53.09 and min % is 45.27%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.85%; max % is 54.73 and min % is 46.91%."
+[1] "--Sportsbook Odds--"
+[1] "Fulham Barstool Odds are: 44.44"
+[1] "The Barstool Odds of a Draw are: 29.85"
+[1] "Wolverhampton Barstool Odds are: 30.77"
+[1] "Fulham Adjusted Barstool Odds are: 42.3"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.412"
+[1] "Wolverhampton Adjusted Barstool Odds are: 29.288"
+[1] "Fulham's Barstool Odds to cover the -0.5 spread are: 44.44"
+[1] "Wolverhampton's Barstool Odds to cover the 0.5 spread are: 59.88"
+[1] "Barstool's line for the total is 2.5 at 2.05, which is a 48.78% chance of the over 2.5 hitting. The line for the under is 1.77, which is a 56.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+     bet           date_time
+1 Fulham 2023-02-24 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team          | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/215168/bernd-leno          |Fulham        |      0.000000|   0.1886792|    |
+|/players/469804/kenny-tete          |Fulham        |      0.024825|   0.0384615|    |
+|/players/696443/issa-diop           |Fulham        |      0.113475|   0.0400000|*   |
+|/players/198444/tim-ream            |Fulham        |      0.001875|   0.0344828|    |
+|/players/662428/antonee-robinson    |Fulham        |      0.011200|   0.0384615|    |
+|/players/502420/harrison-reed       |Fulham        |      0.071850|   0.0952381|    |
+|/players/524434/joao-palhinha       |Fulham        |      0.059075|   0.0952381|    |
+|/players/262550/bobby-reid          |Fulham        |      0.189775|   0.1694915|    |
+|/players/575779/andreas-pereira     |Fulham        |      0.099150|   0.2040816|    |
+|/players/94086/willian              |Fulham        |      0.267600|   0.2439024|    |
+|/players/866201/vinicius            |Fulham        |      0.304800|   0.2439024|*   |
+|/players/863098/matheus-cunha       |Wolverhampton |      0.222625|   0.2857143|    |
+|/players/240054/pablo-sarabia       |Wolverhampton |      0.222900|   0.2083333|    |
+|/players/524435/daniel-podence      |Wolverhampton |      0.142375|   0.1886792|    |
+|/players/493647/adama-traor         |Wolverhampton |      0.063900|   0.1538462|    |
+|/players/534684/ruben-neves         |Wolverhampton |      0.047700|   0.1538462|    |
+|/players/421786/mario-lemina        |Wolverhampton |      0.037725|   0.0909091|    |
+|/players/1116391/hugo-bueno         |Wolverhampton |      0.021250|   0.0333333|    |
+|/players/865931/max-kilman          |Wolverhampton |      0.007275|   0.1694915|    |
+|/players/169162/craig-dawson        |Wolverhampton |      0.079150|   0.0833333|    |
+|/players/470834/nlson-semedo        |Wolverhampton |      0.005125|   0.0625000|    |
+|/players/416175/jos-sá              |Wolverhampton |      0.000000|   0.0833333|    |
+|/players/182962/tom-cairney         |Fulham        |      0.010475|   0.1666667|    |
+|/players/717176/daniel-james        |Fulham        |      0.098725|   0.2222222|    |
+|/players/351860/aleksandar-mitrovic |Fulham        |      0.031600|   0.4347826|    |
+|/players/556972/sasa-lukic          |Fulham        |      0.004875|   0.1538462|    |
+|/players/37549/joao-moutinho        |Wolverhampton |      0.007975|   0.0400000|    |
+|/players/933845/rayan-ait-nouri     |Wolverhampton |      0.074475|   0.1886792|    |
+|/players/1070794/joe-hodge          |Wolverhampton |      0.000000|   0.0833333|    |
+|/players/843040/pedro-neto          |Wolverhampton |      0.027075|   0.1886792|    |
+____________________________________________________
+
+[1] "Facts about Fulham:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/215168/bernd-leno          |           0|         26.9731|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/469804/kenny-tete          |           1|         44.7268|           2.7706|        0.2526|         1.0158|      0.0556|        0.0260|      0.1148| 90.0000|
+|/players/696443/issa-diop           |           1|         40.6829|           1.1486|        0.2235|         0.4669|      0.1060|        0.1321|      0.0184| 90.0000|
+|/players/198444/tim-ream            |           1|         62.5727|           1.1499|        0.0226|         0.2313|      0.0478|        0.0028|      0.0265| 90.0000|
+|/players/662428/antonee-robinson    |           1|         43.9430|           1.4088|        0.1376|         0.6037|      0.0128|        0.0108|      0.0941| 90.0000|
+|/players/502420/harrison-reed       |           2|         50.3406|           0.9923|        0.2238|         0.7665|      0.0479|        0.0812|      0.1372| 80.0000|
+|/players/524434/joao-palhinha       |           2|         42.6347|           3.3915|        0.3488|         1.2312|      0.1059|        0.0671|      0.0218| 90.0000|
+|/players/262550/bobby-reid          |           3|         20.6577|           1.5528|        0.5960|         1.6368|      0.3272|        0.2290|      0.1310| 80.8529|
+|/players/575779/andreas-pereira     |           3|         37.6360|           1.0782|        0.6816|         1.9648|      0.1349|        0.1171|      0.2419| 90.0000|
+|/players/94086/willian              |           3|         28.6735|           1.2221|        0.8131|         2.0191|      0.2136|        0.3278|      0.0932| 73.7222|
+|/players/866201/vinicius            |           5|         16.6077|           0.5454|        0.9661|         2.3251|      0.4038|        0.3905|      0.0732| 77.0952|
+|/players/182962/tom-cairney         |          NA|              NA|               NA|        0.0463|         0.2618|      0.0130|        0.0131|      0.0682| 16.2778|
+|/players/717176/daniel-james        |          NA|              NA|               NA|        0.2250|         0.3029|      0.0966|        0.1145|      0.0126| 12.9048|
+|/players/351860/aleksandar-mitrovic |          NA|              NA|               NA|        0.2851|         0.7294|      0.0541|        0.0343|      0.0208| 10.0000|
+|/players/556972/sasa-lukic          |          NA|              NA|               NA|        0.0416|         0.0785|      0.0045|        0.0048|      0.0384|  9.1471|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Marco Silva  |     70.89394|      9.747917|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Wolverhampton:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/863098/matheus-cunha   |           5|         15.8684|           0.5076|        0.6768|         1.6534|      0.2608|        0.2601|      0.0544| 71.7222|
+|/players/240054/pablo-sarabia   |           3|         42.6588|           0.9581|        0.7087|         2.0587|      0.2376|        0.2651|      0.1965| 90.0000|
+|/players/524435/daniel-podence  |           3|         25.0285|           1.7136|        0.5762|         1.3693|      0.1571|        0.1598|      0.0485| 79.8333|
+|/players/493647/adama-traor     |           3|         20.2614|           1.2623|        0.3335|         1.1448|      0.0991|        0.0656|      0.1171| 90.0000|
+|/players/534684/ruben-neves     |           2|         47.0674|           1.8005|        0.2112|         1.3546|      0.1174|        0.0500|      0.0427| 90.0000|
+|/players/421786/mario-lemina    |           2|         39.3698|           2.4237|        0.1845|         0.1976|      0.0024|        0.0436|      0.0723| 78.6000|
+|/players/1116391/hugo-bueno     |           1|         28.5449|           2.1886|        0.1359|         0.3677|      0.0122|        0.0226|      0.0572| 79.8000|
+|/players/865931/max-kilman      |           1|         51.3870|           0.9986|        0.0715|         0.3872|      0.0371|        0.0071|      0.0145| 90.0000|
+|/players/169162/craig-dawson    |           1|         39.7073|           0.6666|        0.1850|         0.6613|      0.0968|        0.0860|      0.0076| 90.0000|
+|/players/470834/nlson-semedo    |           1|         49.4036|           2.6663|        0.0517|         0.2450|      0.0111|        0.0047|      0.0855| 90.0000|
+|/players/416175/jos-sá          |           0|         27.4833|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/37549/joao-moutinho    |          NA|              NA|               NA|        0.1214|         0.3253|      0.0338|        0.0090|      0.0194| 18.2778|
+|/players/933845/rayan-ait-nouri |          NA|              NA|               NA|        0.1683|         0.3007|      0.0383|        0.0799|      0.0025| 11.4000|
+|/players/1070794/joe-hodge      |          NA|              NA|               NA|        0.0000|         0.0775|      0.0141|        0.0000|      0.0026| 10.2000|
+|/players/843040/pedro-neto      |          NA|              NA|               NA|        0.1498|         0.3532|      0.0331|        0.0273|      0.0777| 10.1667|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Julen Lopetegui |     110.9929|      6.708521|4-3-3     |
