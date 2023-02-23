@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 15:14:44.760"
+[1] "Updated at 2023-02-22 20:02:36.930"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -67,7 +67,7 @@
 |/players/817500/mostafa-mohamed          |Nantes   |      0.211950|   0.2173913|    |
 |/players/281012/filip-kostic             |Juventus |      0.167150|   0.1666667|    |
 |/players/737857/dusan-vlahovic           |Juventus |      0.367825|   0.3846154|    |
-|/players/46509/ngel-di-maria             |Juventus |      0.145875|   0.2631579|    |
+|/players/46509/ngel-di-maria             |Juventus |      0.145875|   0.2564103|    |
 |/players/352879/adrien-rabiot            |Juventus |      0.074100|   0.1111111|    |
 |/players/624166/manuel-locatelli         |Juventus |      0.102500|   0.1333333|    |
 |/players/951712/nicolo-fagioli           |Juventus |      0.056550|   0.2083333|    |
@@ -109,9 +109,9 @@ ____________________________________________________
 |/players/183530/andy-delort              |          NA|              NA|               NA|        0.1049|         0.2631|      0.0193|        0.0462|      0.0153|  3.7143|
 
 
-|manager_name      | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name      | approx_games| m_avg_elo_dif|formation |
 |:-----------------|------------:|-------------:|:---------|
-|Antoine Kombouare |        78974|     -2.858235|4-2-3-1   |
+|Antoine Kombouare |     79.77172|     -2.858235|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about Juventus:"
@@ -137,6 +137,6 @@ ____________________________________________________
 |/players/24235/leonardo-bonucci   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0006|  7.4545|
 
 
-|manager_name         | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name         | approx_games| m_avg_elo_dif|formation |
 |:--------------------|------------:|-------------:|:---------|
-|Massimiliano Allegri |        73249|      10.34073|4-4-2     |
+|Massimiliano Allegri |     73.98889|      10.34073|4-4-2     |
