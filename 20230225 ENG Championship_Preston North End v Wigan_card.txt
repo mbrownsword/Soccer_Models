@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 15:32:31.097"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Preston North End 1.2268 to Wigan 0.9635"
+[1] "Total: 2.1903"
+[1] "Preston North End %: 42.61"
+[1] "Draw %: 28.98"
+[1] "Wigan %: 28.41"
+[1] "--XG Model--"
+[1] "Score: Preston North End 1.2638 to Wigan 0.8693"
+[1] "Total: 2.1331"
+[1] "Preston North End %: 45.59"
+[1] "Draw %: 28.61"
+[1] "Wigan %: 25.8"
+[1] "--XGoT Model--"
+[1] "Score: Preston North End 1.2073 to Wigan 0.8309"
+[1] "Total: 2.0382"
+[1] "Preston North End %: 44.44"
+[1] "Draw %: 30.19"
+[1] "Wigan %: 25.37"
+[1] "--XA Model--"
+[1] "Score: Preston North End 1.2881 to Wigan 0.9665"
+[1] "Total: 2.2546"
+[1] "Preston North End %: 44.68"
+[1] "Draw %: 27.59"
+[1] "Wigan %: 27.73"
+[1] "--Mean 4 Models--"
+[1] "Preston North End has a mean win % of 44.33%; a min win % of 42.61%; a max win % of 45.59%."
+[1] "Draw has a mean win % of 28.84%; a min win % of 27.59%; a max win % of 30.19%."
+[1] "Wigan has a mean win % of 26.83%; a min win % of 25.37%; a max win of % 28.41%."
+[1] "Preston North End has a mean win of the Double Chance of 73.17%; a min win % of 71.59%, a max win % of 74.63%."
+[1] "Wigan has a mean win of the Double Chance of 55.67%; a min win % of 54.41%, a max win % of 57.39%."
+[1] "The mean likelihood that there are more than 2.5 goals is 35.94%; max % is 38.53 and min % is 32.89%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 64.06%; max % is 67.11 and min % is 61.47%."
+[1] "--Sportsbook Odds--"
+[1] "Preston North End Barstool Odds are: 43.48"
+[1] "The Barstool Odds of a Draw are: 32.79"
+[1] "Wigan Barstool Odds are: 30.3"
+[1] "Preston North End Adjusted Barstool Odds are: 40.799"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.769"
+[1] "Wigan Adjusted Barstool Odds are: 28.432"
+[1] "Preston North End's Barstool Odds to cover the -0.5 spread are: 43.1"
+[1] "Wigan's Barstool Odds to cover the 0.5 spread are: 61.73"
+[1] "Barstool's line for the total is 2.5 at 2.38, which is a 42.02% chance of the over 2.5 hitting. The line for the under is 1.58, which is a 63.29% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                          |team              | expected_attg| expected_gs|bet |
+|:---------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/582276/freddie-woodman   |Preston North End |      0.000000|   0.2564103|    |
+|/players/276734/patrick-bauer     |Preston North End |      0.036850|   0.0833333|    |
+|/players/768325/jordan-storey     |Preston North End |      0.027625|   0.0833333|    |
+|/players/445511/liam-lindsay      |Preston North End |      0.015850|   0.0434783|    |
+|/players/231801/robert-brady      |Preston North End |      0.074025|   0.1724138|    |
+|/players/928440/alistair-mccann   |Preston North End |      0.027100|   0.1538462|    |
+|/players/363345/brad-potts        |Preston North End |      0.052675|   0.1250000|    |
+|/players/434498/alan-browne       |Preston North End |      0.163050|   0.1666667|    |
+|/players/600812/ben-whiteman      |Preston North End |      0.034375|   0.1176471|    |
+|/players/1113903/liam-delap       |Preston North End |      0.216550|   0.2777778|    |
+|/players/942365/troy-parrott      |Preston North End |      0.369225|   0.2941176|*   |
+|/players/133089/jamie-jones       |Wigan             |      0.000000|   0.0400000|    |
+|/players/583435/jason-kerr        |Wigan             |      0.048550|   0.0769231|    |
+|/players/491810/jack-whatmough    |Wigan             |      0.024500|   0.0769231|    |
+|/players/607858/curtis-tilt       |Wigan             |      0.022850|   0.0666667|    |
+|/players/767738/callum-lang       |Wigan             |      0.156325|   0.2702703|    |
+|/players/629924/ryan-nyambe       |Wigan             |      0.002250|   0.0952381|    |
+|/players/210819/max-power         |Wigan             |      0.002950|   0.0833333|    |
+|/players/175947/james-mcclean     |Wigan             |      0.059425|   0.1538462|    |
+|/players/1184468/thelo-aasgaard   |Wigan             |      0.125825|   0.2127660|    |
+|/players/290409/will-keane        |Wigan             |      0.129350|   0.2631579|    |
+|/players/675023/danel-sinani      |Wigan             |      0.203075|   0.1960784|    |
+|/players/765715/benjamin-woodburn |Preston North End |      0.019075|   0.2325581|    |
+|/players/538114/ryan-ledson       |Preston North End |      0.000000|   0.0833333|    |
+|/players/884383/bambo-diaby       |Preston North End |      0.000000|   0.0909091|    |
+|/players/1190025/lvaro-fernández  |Preston North End |      0.000000|   0.1052632|    |
+|/players/180137/josh-magennis     |Wigan             |      0.005000|   0.2439024|    |
+|/players/716410/ashley-fletcher   |Wigan             |      0.007975|   0.2702703|    |
+|/players/308194/charlie-wyke      |Wigan             |      0.000000|   0.3571429|    |
+|/players/914400/tom-pearce        |Wigan             |      0.000000|   0.0400000|    |
+____________________________________________________
+
+[1] "Facts about Preston North End:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/582276/freddie-woodman   |           0|         27.1727|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/276734/patrick-bauer     |           1|         49.6713|           1.5905|        0.1994|         0.6536|      0.0529|        0.0364|      0.0267| 90.0000|
+|/players/768325/jordan-storey     |           1|         49.1906|           1.3489|        0.0859|         0.4927|      0.0470|        0.0254|      0.0316| 90.0000|
+|/players/445511/liam-lindsay      |           1|         46.7387|           1.7090|        0.0571|         0.3434|      0.0356|        0.0140|      0.0315| 90.0000|
+|/players/231801/robert-brady      |           3|         37.4594|           1.7532|        0.1725|         1.0401|      0.0832|        0.0729|      0.1856| 78.4286|
+|/players/928440/alistair-mccann   |           3|         36.1246|           2.5960|        0.1114|         0.5987|      0.0466|        0.0255|      0.0375| 90.0000|
+|/players/363345/brad-potts        |           3|         29.1625|           0.9145|        0.3064|         1.1297|      0.0845|        0.0510|      0.0727| 77.8077|
+|/players/434498/alan-browne       |           3|         37.8835|           1.2626|        0.5139|         1.0902|      0.1335|        0.1657|      0.0645| 90.0000|
+|/players/600812/ben-whiteman      |           3|         43.7243|           1.4750|        0.2229|         1.0042|      0.0474|        0.0354|      0.1009| 81.8462|
+|/players/1113903/liam-delap       |           5|         11.4064|           0.5135|        0.9078|         2.6370|      0.3177|        0.2195|      0.0620| 82.1429|
+|/players/942365/troy-parrott      |           5|         35.2010|           0.8713|        0.8802|         2.1210|      0.3393|        0.4273|      0.1363| 90.0000|
+|/players/765715/benjamin-woodburn |           0|              NA|               NA|        0.1795|         0.4086|      0.0379|        0.0177|      0.0106| 12.1923|
+|/players/538114/ryan-ledson       |           0|              NA|               NA|        0.0000|         0.2150|      0.0122|        0.0000|      0.0239| 11.5714|
+|/players/884383/bambo-diaby       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0016|  8.1538|
+|/players/1190025/lvaro-fernández  |           0|              NA|               NA|        0.0000|         0.2028|      0.0231|        0.0000|      0.0076|  7.8571|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ryan Lowe    |     52.83232|     -2.758074|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Wigan:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/133089/jamie-jones     |           0|         28.9872|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/583435/jason-kerr      |           1|         46.6535|           1.8098|        0.1561|         0.5150|      0.0635|        0.0472|      0.0629| 90.0000|
+|/players/491810/jack-whatmough  |           1|         57.3991|           1.2799|        0.1516|         0.4902|      0.0592|        0.0247|      0.0183| 90.0000|
+|/players/607858/curtis-tilt     |           1|         37.0661|           1.6470|        0.0928|         0.5762|      0.0195|        0.0247|      0.0230| 90.0000|
+|/players/767738/callum-lang     |           3|         22.7117|           1.1587|        0.5169|         1.6384|      0.1706|        0.1635|      0.0379| 83.3333|
+|/players/629924/ryan-nyambe     |           3|         25.3836|           1.7781|        0.0803|         0.1600|      0.0069|        0.0026|      0.0157| 79.1000|
+|/players/210819/max-power       |           3|         63.8108|           1.2714|        0.0914|         0.5682|      0.0195|        0.0030|      0.1549| 90.0000|
+|/players/175947/james-mcclean   |           3|         39.6655|           2.7090|        0.1966|         0.8925|      0.0500|        0.0581|      0.0859| 90.0000|
+|/players/1184468/thelo-aasgaard |           4|         28.7861|           0.9166|        0.4875|         0.3592|      0.0604|        0.1279|      0.2100| 82.3333|
+|/players/290409/will-keane      |           4|         28.8420|           1.0019|        0.5329|         2.8246|      0.2487|        0.1399|      0.0040| 90.0000|
+|/players/675023/danel-sinani    |           5|         16.3478|           0.5582|        0.6314|         1.7080|      0.2358|        0.2147|      0.0552| 76.3077|
+|/players/180137/josh-magennis   |           0|              NA|               NA|        0.0685|         0.2723|      0.0216|        0.0047|      0.0189| 13.6923|
+|/players/716410/ashley-fletcher |           0|              NA|               NA|        0.0839|         0.2779|      0.0218|        0.0086|      0.0123| 10.9000|
+|/players/308194/charlie-wyke    |           0|              NA|               NA|        0.0000|         0.1737|      0.0142|        0.0000|      0.0029|  7.6667|
+|/players/914400/tom-pearce      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0047|  6.6667|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Shaun Maloney |     13.97273|     -6.093571|3-4-2-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3915638/Soccer_Models'...
+Receiving objects:   1% (45/4440),   63 kb
+Receiving objects:  11% (489/4440),  127 kb
+Receiving objects:  21% (933/4440),  183 kb
+Receiving objects:  31% (1377/4440),  351 kb
+Receiving objects:  41% (1821/4440),  856 kb
+Receiving objects:  51% (2265/4440),  968 kb
+Receiving objects:  61% (2709/4440), 1360 kb
+Receiving objects:  71% (3153/4440), 10269 kb
+Receiving objects:  81% (3597/4440), 10549 kb
+Receiving objects:  91% (4041/4440), 10774 kb
+Receiving objects: 100% (4440/4440), 11108 kb, done.
