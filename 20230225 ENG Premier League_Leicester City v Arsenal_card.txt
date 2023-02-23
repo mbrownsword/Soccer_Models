@@ -1,0 +1,155 @@
+[1] "Updated at 2023-02-23 08:14:12.994"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Leicester City 1.006 to Arsenal 1.3832"
+[1] "Total: 2.3892"
+[1] "Leicester City %: 27.57"
+[1] "Draw %: 27.29"
+[1] "Arsenal %: 45.14"
+[1] "--XG Model--"
+[1] "Score: Leicester City 0.9066 to Arsenal 1.5536"
+[1] "Total: 2.4602"
+[1] "Leicester City %: 22.47"
+[1] "Draw %: 25.42"
+[1] "Arsenal %: 52.11"
+[1] "--XGoT Model--"
+[1] "Score: Leicester City 0.9626 to Arsenal 1.5601"
+[1] "Total: 2.5227"
+[1] "Leicester City %: 23.98"
+[1] "Draw %: 25.33"
+[1] "Arsenal %: 50.69"
+[1] "--XA Model--"
+[1] "Score: Leicester City 0.9635 to Arsenal 1.6128"
+[1] "Total: 2.5763"
+[1] "Leicester City %: 22.81"
+[1] "Draw %: 25.07"
+[1] "Arsenal %: 52.12"
+[1] "--Mean 4 Models--"
+[1] "Leicester City has a mean win % of 24.21%; a min win % of 22.47%; a max win % of 27.57%."
+[1] "Draw has a mean win % of 25.78%; a min win % of 25.07%; a max win % of 27.29%."
+[1] "Arsenal has a mean win % of 50.02%; a min win % of 45.14%; a max win of % 52.12%."
+[1] "Leicester City has a mean win of the Double Chance of 49.98%; a min win % of 47.88%, a max win % of 54.86%."
+[1] "Arsenal has a mean win of the Double Chance of 75.79%; a min win % of 72.43%, a max win % of 77.53%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.24%; max % is 47.84 and min % is 42.31%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.76%; max % is 57.69 and min % is 52.16%."
+[1] "--Sportsbook Odds--"
+[1] "Leicester City Barstool Odds are: 21.05"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Arsenal Barstool Odds are: 58.82"
+[1] "Leicester City Adjusted Barstool Odds are: 20.072"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.839"
+[1] "Arsenal Adjusted Barstool Odds are: 56.088"
+[1] "Leicester City's Barstool Odds to cover the 0.5 spread are: 46.08"
+[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 58.14"
+[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                           bet           date_time
+1               Leicester City 2023-02-25 07:00:00
+2  draw Leicester City/Arsenal 2023-02-25 07:00:00
+3 under Leicester City/Arsenal 2023-02-25 07:00:00
+4           Leicester City ATS 2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team           | expected_attg| expected_gs|bet |
+|:-------------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/617763/daniel-iversen        |Leicester City |      0.000000|   0.0434783|    |
+|/players/1211437/victor-kristiansen   |Leicester City |      0.004525|   0.0454545|    |
+|/players/465750/timothy-castagne      |Leicester City |      0.028175|   0.0666667|    |
+|/players/436036/daniel-amartey        |Leicester City |      0.045425|   0.0434783|    |
+|/players/693678/wout-faes             |Leicester City |      0.029225|   0.0277778|    |
+|/players/210128/nampalys-mendy        |Leicester City |      0.039600|   0.0303030|    |
+|/players/882401/boubakary-soumar      |Leicester City |      0.029400|   0.0333333|    |
+|/players/493165/james-maddison        |Leicester City |      0.246650|   0.1818182|*   |
+|/players/465960/youri-tielemans       |Leicester City |      0.118750|   0.1176471|    |
+|/players/886016/kiernan-dewsbury-hall |Leicester City |      0.047750|   0.0666667|    |
+|/players/644459/patson-daka           |Leicester City |      0.202700|   0.3225806|    |
+|/players/746395/aaron-ramsdale        |Arsenal        |      0.000000|   0.0500000|    |
+|/players/1021834/jakub-kiwior         |Arsenal        |      0.023100|   0.0769231|    |
+|/players/776151/ben-white             |Arsenal        |      0.001550|   0.0500000|    |
+|/players/795179/gabriel               |Arsenal        |      0.077850|   0.1052632|    |
+|/players/955406/william-saliba        |Arsenal        |      0.045300|   0.0833333|    |
+|/players/434325/thomas-partey         |Arsenal        |      0.012150|   0.1428571|    |
+|/players/207236/granit-xhaka          |Arsenal        |      0.140850|   0.1666667|    |
+|/players/1021586/gabriel-martinelli   |Arsenal        |      0.205850|   0.3333333|    |
+|/players/961995/bukayo-saka           |Arsenal        |      0.198000|   0.3125000|    |
+|/players/534670/martin-degaard        |Arsenal        |      0.137550|   0.2857143|    |
+|/players/576165/gabriel-jesus         |Arsenal        |      0.354775|   0.0769231|*   |
+|/players/286119/jamie-vardy           |Leicester City |      0.037525|   0.3508772|    |
+|/players/643709/kelechi-iheanacho     |Leicester City |      0.011200|   0.3125000|    |
+|/players/282012/dennis-praet          |Leicester City |      0.000000|   0.0833333|    |
+|/players/760359/harvey-barnes         |Leicester City |      0.007250|   0.2083333|    |
+|/players/318615/leandro-trossard      |Arsenal        |      0.039925|   0.3389831|    |
+|/players/1025462/fabio-vieira         |Arsenal        |      0.026225|   0.2222222|    |
+|/players/860920/edward-nketiah        |Arsenal        |      0.012400|   0.3846154|    |
+|/players/623621/oleksandr-zinchenko   |Arsenal        |      0.000000|   0.0909091|    |
+____________________________________________________
+
+[1] "Facts about Leicester City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/617763/daniel-iversen        |           0|         29.9343|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1211437/victor-kristiansen   |           1|         32.3114|           2.1229|        0.0479|         0.2969|      0.0173|        0.0055|      0.1025| 90.0000|
+|/players/465750/timothy-castagne      |           1|         40.6215|           1.9197|        0.1752|         0.5211|      0.0540|        0.0290|      0.0365| 90.0000|
+|/players/436036/daniel-amartey        |           1|         52.4793|           1.1543|        0.0934|         0.3088|      0.0279|        0.0522|      0.0068| 90.0000|
+|/players/693678/wout-faes             |           1|         38.2012|           1.0887|        0.1247|         0.6956|      0.0684|        0.0346|      0.0123| 90.0000|
+|/players/210128/nampalys-mendy        |           2|         37.9824|           1.2044|        0.1898|         0.4589|      0.0192|        0.0419|      0.0310| 78.2308|
+|/players/882401/boubakary-soumar      |           2|         30.8132|           2.4008|        0.1614|         0.7954|      0.0643|        0.0356|      0.0511| 66.5000|
+|/players/493165/james-maddison        |           3|         20.9860|           1.1861|        0.7447|         2.0273|      0.2900|        0.3090|      0.1274| 84.4118|
+|/players/465960/youri-tielemans       |           3|         36.0636|           1.5127|        0.4550|         1.3987|      0.1273|        0.1382|      0.0638| 90.0000|
+|/players/886016/kiernan-dewsbury-hall |           3|         26.4575|           1.4319|        0.4635|         1.2255|      0.0716|        0.0525|      0.1127| 90.0000|
+|/players/644459/patson-daka           |           5|         17.4192|           0.5292|        0.7038|         1.7215|      0.2505|        0.2319|      0.0439| 79.9231|
+|/players/286119/jamie-vardy           |           0|              NA|               NA|        0.1167|         0.3422|      0.0448|        0.0374|      0.0173| 23.5000|
+|/players/643709/kelechi-iheanacho     |           0|              NA|               NA|        0.1214|         0.3671|      0.0268|        0.0123|      0.0137| 11.7692|
+|/players/282012/dennis-praet          |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0057| 10.0769|
+|/players/760359/harvey-barnes         |           0|              NA|               NA|        0.0419|         0.0922|      0.0093|        0.0085|      0.0071|  5.5882|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Brendan Rodgers |     113.9485|      4.484641|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Arsenal:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/746395/aaron-ramsdale      |           0|         30.3425|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1021834/jakub-kiwior       |           1|         46.9444|           1.6162|        0.1596|         0.6863|      0.0231|        0.0267|      0.0527| 90.0000|
+|/players/776151/ben-white           |           1|         48.8257|           1.8195|        0.0580|         0.3325|      0.0191|        0.0019|      0.1198| 90.0000|
+|/players/795179/gabriel             |           1|         58.3490|           1.7363|        0.2916|         0.8058|      0.1162|        0.0870|      0.0496| 90.0000|
+|/players/955406/william-saliba      |           1|         67.5136|           1.5954|        0.1044|         0.3366|      0.0703|        0.0530|      0.0426| 90.0000|
+|/players/434325/thomas-partey       |           2|         56.9745|           2.5736|        0.1809|         1.2339|      0.1224|        0.0122|      0.0840| 90.0000|
+|/players/207236/granit-xhaka        |           2|         55.6961|           1.6765|        0.3714|         0.7600|      0.0826|        0.1662|      0.0983| 84.0227|
+|/players/1021586/gabriel-martinelli |           3|         22.6446|           1.4865|        0.6938|         1.8456|      0.2373|        0.2462|      0.1199| 81.2414|
+|/players/961995/bukayo-saka         |           3|         31.8729|           1.2640|        0.7014|         2.0814|      0.2456|        0.2393|      0.1500| 82.9259|
+|/players/534670/martin-degaard      |           3|         45.2388|           1.3172|        0.5918|         1.4986|      0.1561|        0.1595|      0.1870| 78.0200|
+|/players/576165/gabriel-jesus       |           5|         21.9643|           0.6432|        1.1258|         2.6083|      0.4983|        0.4638|      0.0996| 90.0000|
+|/players/318615/leandro-trossard    |           0|              NA|               NA|        0.1600|         0.2905|      0.0312|        0.0457|      0.0331| 11.9800|
+|/players/1025462/fabio-vieira       |           0|              NA|               NA|        0.0984|         0.4170|      0.0621|        0.0298|      0.0262|  8.7586|
+|/players/860920/edward-nketiah      |           0|              NA|               NA|        0.1207|         0.2849|      0.0337|        0.0157|      0.0051|  7.0741|
+|/players/623621/oleksandr-zinchenko |           0|              NA|               NA|        0.0000|         0.0413|      0.0014|        0.0000|      0.0104|  5.9773|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mikel Arteta |     118.6667|      8.733618|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901177/Soccer_Models'...
+Receiving objects:   1% (44/4374),   63 kb
+Receiving objects:  11% (482/4374),  127 kb
+Receiving objects:  21% (919/4374),  183 kb
+Receiving objects:  31% (1356/4374),  351 kb
+Receiving objects:  41% (1794/4374),  800 kb
+Receiving objects:  51% (2231/4374),  912 kb
+Receiving objects:  61% (2669/4374), 1304 kb
+Receiving objects:  71% (3106/4374), 10213 kb
+Receiving objects:  81% (3543/4374), 10493 kb
+Receiving objects:  91% (3981/4374), 10774 kb
+Receiving objects: 100% (4374/4374), 11057 kb, done.
