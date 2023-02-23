@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 06:51:29.623"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Mainz 1.5816 to Borussia Monchengladbach 1.2833"
+[1] "Total: 2.8649"
+[1] "Mainz %: 44.6"
+[1] "Draw %: 24.25"
+[1] "Borussia Monchengladbach %: 31.15"
+[1] "--XG Model--"
+[1] "Score: Mainz 1.8362 to Borussia Monchengladbach 1.3178"
+[1] "Total: 3.154"
+[1] "Mainz %: 49.8"
+[1] "Draw %: 23.31"
+[1] "Borussia Monchengladbach %: 26.89"
+[1] "--XGoT Model--"
+[1] "Score: Mainz 1.6047 to Borussia Monchengladbach 1.1919"
+[1] "Total: 2.7966"
+[1] "Mainz %: 47.45"
+[1] "Draw %: 24.06"
+[1] "Borussia Monchengladbach %: 28.49"
+[1] "--XA Model--"
+[1] "Score: Mainz 1.6518 to Borussia Monchengladbach 1.23"
+[1] "Total: 2.8818"
+[1] "Mainz %: 48.17"
+[1] "Draw %: 24.23"
+[1] "Borussia Monchengladbach %: 27.6"
+[1] "--Mean 4 Models--"
+[1] "Mainz has a mean win % of 47.5%; a min win % of 44.6%; a max win % of 49.8%."
+[1] "Draw has a mean win % of 23.96%; a min win % of 23.31%; a max win % of 24.25%."
+[1] "Borussia Monchengladbach has a mean win % of 28.53%; a min win % of 26.89%; a max win of % 31.15%."
+[1] "Mainz has a mean win of the Double Chance of 71.47%; a min win % of 68.85%, a max win % of 73.11%."
+[1] "Borussia Monchengladbach has a mean win of the Double Chance of 52.5%; a min win % of 50.2%, a max win % of 55.4%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.05%; max % is 60.01 and min % is 51.88%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.95%; max % is 48.12 and min % is 39.99%."
+[1] "--Sportsbook Odds--"
+[1] "Mainz Barstool Odds are: 48.08"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "Borussia Monchengladbach Barstool Odds are: 30.3"
+[1] "Mainz Adjusted Barstool Odds are: 45.612"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.643"
+[1] "Borussia Monchengladbach Adjusted Barstool Odds are: 28.745"
+[1] "Mainz's Barstool Odds to cover the -0.5 spread are: 48.08"
+[1] "Borussia Monchengladbach's Barstool Odds to cover the 0.5 spread are: 56.5"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82% chance of the over 2.5 hitting. The line for the under is 2.15, which is a 46.51% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-24 11:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team                     | expected_attg| expected_gs|bet |
+|:------------------------------------|:------------------------|-------------:|-----------:|:---|
+|/players/926445/finn-dahmen          |Mainz                    |      0.000000|   0.1111111|    |
+|/players/630286/andreas-hanche-olsen |Mainz                    |      0.105350|   0.0833333|    |
+|/players/193901/stefan-bell          |Mainz                    |      0.022625|   0.1000000|    |
+|/players/451335/edimilson-fernandes  |Mainz                    |      0.022325|   0.1250000|    |
+|/players/275034/silvan-widmer        |Mainz                    |      0.082600|   0.1000000|    |
+|/players/930065/leandro-barreiro     |Mainz                    |      0.097775|   0.1538462|    |
+|/players/303905/dominik-kohr         |Mainz                    |      0.030325|   0.1111111|    |
+|/players/771401/anthony-caci         |Mainz                    |      0.052475|   0.0909091|    |
+|/players/523749/jae-sung-lee         |Mainz                    |      0.172225|   0.2439024|    |
+|/players/176953/karim-onisiwo        |Mainz                    |      0.282750|   0.4081633|    |
+|/players/471153/ludovic-ajorque      |Mainz                    |      0.374475|   0.4444444|    |
+|/players/621562/marcus-thuram        |Borussia Monchengladbach |      0.239550|   0.4255319|    |
+|/players/294859/alassane-plea        |Borussia Monchengladbach |      0.099800|   0.3225806|    |
+|/players/94916/lars-stindl           |Borussia Monchengladbach |      0.230500|   0.2702703|    |
+|/players/331542/jonas-hofmann        |Borussia Monchengladbach |      0.138475|   0.2702703|    |
+|/players/1016132/kouadio-kon         |Borussia Monchengladbach |      0.092475|   0.1111111|    |
+|/players/269788/christoph-kramer     |Borussia Monchengladbach |      0.030425|   0.1428571|    |
+|/players/559065/ramy-bensebaini      |Borussia Monchengladbach |      0.089025|   0.1666667|    |
+|/players/517346/nico-elvedi          |Borussia Monchengladbach |      0.009375|   0.0625000|    |
+|/players/620917/ko-itakura           |Borussia Monchengladbach |      0.007250|   0.0666667|    |
+|/players/959696/joseph-scally        |Borussia Monchengladbach |      0.018150|   0.0666667|    |
+|/players/557342/jonas-omlin          |Borussia Monchengladbach |      0.000000|   0.3333333|    |
+|/players/904710/delano-burgzorg      |Mainz                    |      0.077575|   0.2702703|    |
+|/players/803027/aymen-barkok         |Mainz                    |      0.023975|   0.2439024|    |
+|/players/443733/marcus-ingvartsen    |Mainz                    |      0.047975|   0.3636364|    |
+|/players/240537/danny-da-costa       |Mainz                    |      0.000000|   0.1754386|    |
+|/players/727165/hannes-wolf          |Borussia Monchengladbach |      0.026400|   0.2325581|    |
+|/players/192625/patrick-herrmann     |Borussia Monchengladbach |      0.013925|   0.2380952|    |
+|/players/764507/florian-neuhaus      |Borussia Monchengladbach |      0.020675|   0.1538462|    |
+|/players/1155130/luca-netz           |Borussia Monchengladbach |      0.052925|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about Mainz:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/926445/finn-dahmen          |           0|         28.2905|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/630286/andreas-hanche-olsen |           1|         56.4103|           1.1757|        0.2410|         0.5338|      0.0760|        0.1152|      0.0223| 90.0000|
+|/players/193901/stefan-bell          |           1|         51.0032|           1.4582|        0.1442|         0.7040|      0.0955|        0.0232|      0.0459| 90.0000|
+|/players/451335/edimilson-fernandes  |           1|         40.5762|           1.7224|        0.1442|         0.5503|      0.0325|        0.0232|      0.0448| 90.0000|
+|/players/275034/silvan-widmer        |           3|         30.8825|           1.2098|        0.3421|         0.9471|      0.0906|        0.0894|      0.1645| 82.4815|
+|/players/930065/leandro-barreiro     |           3|         32.1278|           2.2262|        0.4737|         1.2879|      0.1251|        0.1101|      0.0865| 84.9744|
+|/players/303905/dominik-kohr         |           3|         48.5395|           2.0453|        0.1593|         0.9447|      0.0542|        0.0310|      0.0450| 81.4828|
+|/players/771401/anthony-caci         |           3|         38.6911|           1.9194|        0.3173|         0.9411|      0.0335|        0.0566|      0.1784| 90.0000|
+|/players/523749/jae-sung-lee         |           4|         27.5583|           1.1407|        0.6041|         1.5418|      0.1887|        0.1977|      0.1432| 71.8750|
+|/players/176953/karim-onisiwo        |           5|         18.0165|           0.6581|        1.0308|         2.6525|      0.3427|        0.3361|      0.1308| 90.0000|
+|/players/471153/ludovic-ajorque      |           5|         27.4180|           0.8552|        1.1375|         2.8770|      0.4744|        0.4842|      0.0948| 90.0000|
+|/players/904710/delano-burgzorg      |          NA|              NA|               NA|        0.1721|         0.5506|      0.0963|        0.0843|      0.0294| 18.1250|
+|/players/803027/aymen-barkok         |          NA|              NA|               NA|        0.0806|         0.1058|      0.0079|        0.0258|      0.0443|  8.5172|
+|/players/443733/marcus-ingvartsen    |          NA|              NA|               NA|        0.1192|         0.2349|      0.0761|        0.0522|      0.0068|  7.5185|
+|/players/240537/danny-da-costa       |          NA|              NA|               NA|        0.0000|         0.0580|      0.0046|        0.0000|      0.0022|  5.0256|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Bo Svensson  |      73.7798|    -0.6438961|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Borussia Monchengladbach:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/621562/marcus-thuram    |           5|         18.6982|           0.4615|        0.6369|         1.6002|      0.2505|        0.2331|      0.0646| 77.2759|
+|/players/294859/alassane-plea    |           3|         21.0605|           0.8958|        0.2960|         1.2771|      0.0894|        0.0905|      0.1093| 79.1667|
+|/players/94916/lars-stindl       |           3|         31.5986|           1.2779|        0.7970|         2.0110|      0.2363|        0.2237|      0.0890| 81.0000|
+|/players/331542/jonas-hofmann    |           3|         30.5529|           1.3402|        0.3383|         1.0045|      0.1309|        0.1235|      0.1042| 82.0000|
+|/players/1016132/kouadio-kon     |           2|         37.1125|           2.5373|        0.3748|         0.9659|      0.0713|        0.0828|      0.0335| 90.0000|
+|/players/269788/christoph-kramer |           2|         54.8995|           1.8619|        0.0777|         0.6010|      0.0428|        0.0286|      0.0821| 90.0000|
+|/players/559065/ramy-bensebaini  |           1|         41.3462|           2.1399|        0.2509|         0.7988|      0.0858|        0.0785|      0.0523| 90.0000|
+|/players/517346/nico-elvedi      |           1|         56.1500|           1.7409|        0.0254|         0.2443|      0.0204|        0.0078|      0.0100| 90.0000|
+|/players/620917/ko-itakura       |           1|         50.0335|           1.4730|        0.0441|         0.2831|      0.0201|        0.0054|      0.0408| 90.0000|
+|/players/959696/joseph-scally    |           1|         32.7828|           1.2917|        0.0967|         0.3546|      0.0177|        0.0150|      0.0747| 90.0000|
+|/players/557342/jonas-omlin      |           0|         33.8017|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/727165/hannes-wolf      |          NA|              NA|               NA|        0.0252|         0.1034|      0.0368|        0.0232|      0.0047| 12.7241|
+|/players/192625/patrick-herrmann |          NA|              NA|               NA|        0.1124|         0.3642|      0.0269|        0.0130|      0.0136| 10.8333|
+|/players/764507/florian-neuhaus  |          NA|              NA|               NA|        0.0576|         0.1573|      0.0203|        0.0166|      0.0029|  9.0000|
+|/players/1155130/luca-netz       |          NA|              NA|               NA|        0.0426|         0.0436|      0.0339|        0.0456|      0.0359|  8.0000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Daniel Farke |     77.81717|      1.212871|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3903737/Soccer_Models'...
+Receiving objects:   1% (44/4356),   63 kb
+Receiving objects:  11% (480/4356),  127 kb
+Receiving objects:  21% (915/4356),  183 kb
+Receiving objects:  31% (1351/4356),  295 kb
+Receiving objects:  41% (1786/4356),  800 kb
+Receiving objects:  51% (2222/4356),  912 kb
+Receiving objects:  61% (2658/4356), 1304 kb
+Receiving objects:  71% (3093/4356), 10213 kb
+Receiving objects:  81% (3529/4356), 10493 kb
+Receiving objects:  91% (3964/4356), 10774 kb
+Receiving objects: 100% (4356/4356), 11038 kb, done.
