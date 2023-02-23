@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 15:22:46.777"
+[1] "Updated at 2023-02-22 20:10:58.816"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,14 +34,14 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 46.1%; max % is 49.83 and min % is 41.71%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 53.9%; max % is 58.29 and min % is 50.17%."
 [1] "--Sportsbook Odds--"
-[1] "Stade Rennes Barstool Odds are: 61.9"
+[1] "Stade Rennes Barstool Odds are: 60.98"
 [1] "The Barstool Odds of a Draw are: 25"
 [1] "Shakhtar Donetsk Barstool Odds are: 20"
-[1] "Stade Rennes Adjusted Barstool Odds are: 57.905"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.386"
-[1] "Shakhtar Donetsk Adjusted Barstool Odds are: 18.709"
-[1] "Stade Rennes's Barstool Odds to cover the -0.5 spread are: 60.61"
-[1] "Shakhtar Donetsk's Barstool Odds to cover the 0.5 spread are: 43.86"
+[1] "Stade Rennes Adjusted Barstool Odds are: 57.539"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.589"
+[1] "Shakhtar Donetsk Adjusted Barstool Odds are: 18.871"
+[1] "Stade Rennes's Barstool Odds to cover the -0.5 spread are: 60.24"
+[1] "Shakhtar Donetsk's Barstool Odds to cover the 0.5 spread are: 44.44"
 [1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.14, which is a 46.73% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -75,7 +75,7 @@
 |/players/656667/mykola-matviyenko         |Shakhtar Donetsk |      0.078425|   0.0370370|    |
 |/players/1024427/valeriy-bondar           |Shakhtar Donetsk |      0.008425|   0.0400000|    |
 |/players/1054026/yukhym-konoplia          |Shakhtar Donetsk |      0.006700|   0.0370370|    |
-|/players/1022350/anatolii-trubin          |Shakhtar Donetsk |      0.000000|   0.2380952|    |
+|/players/1022350/anatolii-trubin          |Shakhtar Donetsk |      0.000000|   0.2564103|    |
 |/players/942368/jrémy-doku                |Stade Rennes     |      0.024025|   0.2173913|    |
 |/players/1177358/adrien-truffert          |Stade Rennes     |      0.077125|   0.0909091|    |
 |/players/1200631/lesley-ugochukwu         |Stade Rennes     |      0.001450|   0.0714286|    |
@@ -109,9 +109,9 @@ ____________________________________________________
 |/players/470810/xeka                      |          NA|              NA|               NA|        0.0832|         0.1451|      0.0126|        0.0093|      0.0049|  7.3409|
 
 
-|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name  | approx_games| m_avg_elo_dif|formation |
 |:-------------|------------:|-------------:|:---------|
-|Bruno Genesio |        77967|        10.106|4-4-2     |
+|Bruno Genesio |     78.75455|        10.106|4-4-2     |
 ____________________________________________________
 
 [1] "Facts about Shakhtar Donetsk:"
@@ -137,6 +137,6 @@ ____________________________________________________
 |/players/1054024/viktor-korniienko    |          NA|              NA|               NA|        0.0833|         0.0933|      0.0038|        0.0028|      0.0057|  8.0000|
 
 
-|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name   | approx_games| m_avg_elo_dif|formation |
 |:--------------|------------:|-------------:|:---------|
-|Igor Jovicevic |         6930|     -17.88286|4-1-4-1   |
+|Igor Jovicevic |            7|     -17.88286|4-1-4-1   |
