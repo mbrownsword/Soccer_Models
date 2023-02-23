@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 15:11:55.332"
+[1] "Updated at 2023-02-22 19:59:53.730"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -36,13 +36,13 @@
 [1] "--Sportsbook Odds--"
 [1] "AS Monaco Barstool Odds are: 45.45"
 [1] "The Barstool Odds of a Draw are: 28.57"
-[1] "Bayer Leverkusen Barstool Odds are: 31.25"
-[1] "AS Monaco Adjusted Barstool Odds are: 43.175"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.14"
-[1] "Bayer Leverkusen Adjusted Barstool Odds are: 29.686"
+[1] "Bayer Leverkusen Barstool Odds are: 31.75"
+[1] "AS Monaco Adjusted Barstool Odds are: 42.971"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.011"
+[1] "Bayer Leverkusen Adjusted Barstool Odds are: 30.018"
 [1] "AS Monaco's Barstool Odds to cover the -0.5 spread are: 45.87"
-[1] "Bayer Leverkusen's Barstool Odds to cover the 0.5 spread are: 58.48"
-[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.14, which is a 46.73% chance of the under 2.5 hitting."
+[1] "Bayer Leverkusen's Barstool Odds to cover the 0.5 spread are: 58.82"
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.12, which is a 47.17% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                    bet           date_time
@@ -108,9 +108,9 @@ ____________________________________________________
 |/players/527103/breel-embolo        |          NA|              NA|               NA|        0.2421|         0.5444|      0.0758|        0.0853|      0.0295| 13.4643|
 
 
-|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name     | approx_games| m_avg_elo_dif|formation |
 |:----------------|------------:|-------------:|:---------|
-|Philippe Clement |       121695|      15.29051|4-3-3     |
+|Philippe Clement |     122.9242|      15.29051|4-3-3     |
 ____________________________________________________
 
 [1] "Facts about Bayer Leverkusen:"
@@ -136,6 +136,6 @@ ____________________________________________________
 |/players/208230/karim-bellarabi    |          NA|              NA|               NA|        0.3219|         0.6139|      0.0897|        0.0568|      0.0301| 12.2500|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Xabi Alonso  |        16801|      4.354118|3-4-3     |
+|Xabi Alonso  |     16.97071|      4.354118|3-4-3     |
