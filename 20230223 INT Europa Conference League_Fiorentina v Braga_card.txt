@@ -1,0 +1,155 @@
+[1] "Updated at 2023-02-23 11:48:21.933"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Fiorentina 1.1759 to Braga 1.2599"
+[1] "Total: 2.4358"
+[1] "Fiorentina %: 34.51"
+[1] "Draw %: 27.87"
+[1] "Braga %: 37.62"
+[1] "--XG Model--"
+[1] "Score: Fiorentina 1.3899 to Braga 1.1849"
+[1] "Total: 2.5748"
+[1] "Fiorentina %: 41.66"
+[1] "Draw %: 26.4"
+[1] "Braga %: 31.94"
+[1] "--XGoT Model--"
+[1] "Score: Fiorentina 1.3463 to Braga 1.2722"
+[1] "Total: 2.6185"
+[1] "Fiorentina %: 39.61"
+[1] "Draw %: 25.97"
+[1] "Braga %: 34.42"
+[1] "--XA Model--"
+[1] "Score: Fiorentina 1.3599 to Braga 1.1508"
+[1] "Total: 2.5107"
+[1] "Fiorentina %: 41.35"
+[1] "Draw %: 26.58"
+[1] "Braga %: 32.07"
+[1] "--Mean 4 Models--"
+[1] "Fiorentina has a mean win % of 39.28%; a min win % of 34.51%; a max win % of 41.66%."
+[1] "Draw has a mean win % of 26.71%; a min win % of 25.97%; a max win % of 27.87%."
+[1] "Braga has a mean win % of 34.01%; a min win % of 31.94%; a max win of % 37.62%."
+[1] "Fiorentina has a mean win of the Double Chance of 65.99%; a min win % of 62.38%, a max win % of 68.06%."
+[1] "Braga has a mean win of the Double Chance of 60.72%; a min win % of 58.34%, a max win % of 65.49%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.51%; max % is 47.86 and min % is 42.86%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.49%; max % is 57.14 and min % is 52.14%."
+[1] "--Sportsbook Odds--"
+[1] "Fiorentina Barstool Odds are: 64.52"
+[1] "The Barstool Odds of a Draw are: 22.73"
+[1] "Braga Barstool Odds are: 18.18"
+[1] "Fiorentina Adjusted Barstool Odds are: 61.197"
+[1] "The Adjusted Barstool Odds of a Draw are: 21.559"
+[1] "Braga Adjusted Barstool Odds are: 17.244"
+[1] "Fiorentina's Barstool Odds to cover the -1 spread are: 51.02"
+[1] "Braga's Barstool Odds to cover the 1 spread are: 53.19"
+[1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18% chance of the over 2.5 hitting. The line for the under is 2.05, which is a 48.78% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                     bet           date_time
+1  draw Fiorentina/Braga 2023-02-23 12:00:00
+2                  Braga 2023-02-23 12:00:00
+3 under Fiorentina/Braga 2023-02-23 12:00:00
+4              Braga ATS 2023-02-23 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team       | expected_attg| expected_gs|bet |
+|:-------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/27659/salvatore-sirigu       |Fiorentina |      0.000000|   0.1176471|    |
+|/players/750734/dodo                  |Fiorentina |      0.007150|   0.0476190|    |
+|/players/638771/lucas-martinez-quarta |Fiorentina |      0.036500|   0.1000000|    |
+|/players/935406/luca-ranieri          |Fiorentina |      0.008525|   0.0357143|    |
+|/players/239350/cristiano-biraghi     |Fiorentina |      0.057300|   0.1250000|    |
+|/players/1228840/alessandro-bianco    |Fiorentina |      0.034375|   0.1428571|    |
+|/players/577911/rolando-mandragora    |Fiorentina |      0.070300|   0.1250000|    |
+|/players/127460/giacomo-bonaventura   |Fiorentina |      0.106975|   0.3125000|    |
+|/players/841672/nicols-gonzález       |Fiorentina |      0.258725|   0.3333333|    |
+|/players/670948/arthur-cabral         |Fiorentina |      0.245500|   0.3921569|    |
+|/players/212645/riccardo-saponara     |Fiorentina |      0.070550|   0.2702703|    |
+|/players/605507/andre-horta           |Braga      |      0.077150|   0.1000000|    |
+|/players/696932/simon-banza           |Braga      |      0.358900|   0.2083333|*   |
+|/players/1355668/alvaro-djalo         |Braga      |      0.019650|   0.1176471|    |
+|/players/1192166/rodrigo-gomes        |Braga      |      0.056775|   0.0714286|    |
+|/players/186748/pizzi                 |Braga      |      0.122550|   0.1785714|    |
+|/players/40956/andre-castro           |Braga      |      0.028025|   0.1000000|    |
+|/players/683964/cristian-borja        |Braga      |      0.080050|   0.0238095|*   |
+|/players/193927/paulo-oliveira        |Braga      |      0.009950|   0.0238095|    |
+|/players/821312/sikou-niakat          |Braga      |      0.022775|   0.0384615|    |
+|/players/1284496/josafat-mendes       |Braga      |      0.022225|   0.0238095|    |
+|/players/470815/tiago-sa              |Braga      |      0.000000|   0.1785714|    |
+|/players/463291/luka-jovic            |Fiorentina |      0.178100|   0.0000000|*   |
+|/players/637745/jonathan-ikon         |Fiorentina |      0.047125|   0.0000000|    |
+|/players/317156/alfred-duncan         |Fiorentina |      0.000000|   0.0000000|    |
+|/players/688668/josip-brekalo         |Fiorentina |      0.006750|   0.0000000|    |
+|/players/748380/abel-ruiz             |Braga      |      0.056200|   0.0000000|*   |
+|/players/361322/bruma                 |Braga      |      0.132300|   0.0000000|*   |
+|/players/764624/uros-racic            |Braga      |      0.010350|   0.0000000|    |
+|/players/361321/iuri-medeiros         |Braga      |      0.026925|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Fiorentina:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/27659/salvatore-sirigu       |           0|         30.0820|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/750734/dodo                  |           1|         50.8832|           1.2151|        0.0553|         0.4311|      0.0208|        0.0116|      0.0629| 90.0000|
+|/players/638771/lucas-martinez-quarta |           1|         70.1803|           2.3935|        0.3161|         0.9453|      0.0819|        0.0571|      0.0095| 90.0000|
+|/players/935406/luca-ranieri          |           1|         44.5708|           1.3074|        0.0454|         0.2575|      0.0521|        0.0126|      0.0414| 90.0000|
+|/players/239350/cristiano-biraghi     |           1|         60.4005|           1.3349|        0.2827|         0.9188|      0.0720|        0.0956|      0.1975| 90.0000|
+|/players/1228840/alessandro-bianco    |           3|         28.6591|           1.6109|        0.3872|         0.6979|      0.0343|        0.0506|      0.0194| 54.5000|
+|/players/577911/rolando-mandragora    |           3|         52.8002|           1.4961|        0.3407|         1.4840|      0.1352|        0.1148|      0.1818| 90.0000|
+|/players/127460/giacomo-bonaventura   |           3|         44.7706|           1.2171|        0.3098|         1.2563|      0.1741|        0.1732|      0.1279| 76.3111|
+|/players/841672/nicols-gonzález       |           5|         31.3885|           1.3201|        1.1959|         2.8615|      0.2987|        0.4535|      0.2053| 90.0000|
+|/players/670948/arthur-cabral         |           5|         18.5478|           0.7201|        1.0763|         2.6501|      0.5146|        0.4284|      0.0577| 82.0000|
+|/players/212645/riccardo-saponara     |           5|         25.5547|           0.8801|        0.4784|         1.4784|      0.1414|        0.1153|      0.1613| 69.9333|
+|/players/463291/luka-jovic            |           0|              NA|               NA|        0.7471|         2.5659|      0.3844|        0.2962|      0.0517| 35.5000|
+|/players/637745/jonathan-ikon         |           0|              NA|               NA|        0.3149|         1.0817|      0.0803|        0.0786|      0.0882| 20.0667|
+|/players/317156/alfred-duncan         |           0|              NA|               NA|        0.0000|         0.0784|      0.0000|        0.0000|      0.0405| 13.6889|
+|/players/688668/josip-brekalo         |           0|              NA|               NA|        0.0503|         0.2072|      0.0173|        0.0131|      0.0272|  8.0000|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Vincenzo Italiano |     103.5889|      1.041591|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Braga:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/605507/andre-horta     |           5|         43.5882|           1.0900|        0.6404|         0.6711|      0.0244|        0.0802|      0.0782| 90.0000|
+|/players/696932/simon-banza     |           5|          9.7353|           0.9391|        0.6804|         1.5339|      0.3928|        0.4470|      0.0351| 77.5357|
+|/players/1355668/alvaro-djalo   |           5|          3.5317|           0.2647|        0.1555|         0.6711|      0.0372|        0.0195|      0.0356| 21.8571|
+|/players/1192166/rodrigo-gomes  |           3|         17.7558|           0.7021|        0.3372|         0.5351|      0.0281|        0.0580|      0.0195| 63.6000|
+|/players/186748/pizzi           |           3|         51.4107|           1.9537|        0.3262|         1.4982|      0.1762|        0.1336|      0.1521| 90.0000|
+|/players/40956/andre-castro     |           3|         34.2542|           2.3402|        0.0781|         0.4707|      0.0315|        0.0289|      0.0263| 72.1111|
+|/players/683964/cristian-borja  |           1|         40.6053|           1.7512|        0.1359|         0.2238|      0.0170|        0.0846|      0.0298| 90.0000|
+|/players/193927/paulo-oliveira  |           1|         48.7582|           1.4409|        0.0430|         0.3979|      0.0282|        0.0089|      0.0287| 90.0000|
+|/players/821312/sikou-niakat    |           1|         44.2104|           1.3437|        0.1688|         0.6254|      0.0305|        0.0244|      0.0013| 90.0000|
+|/players/1284496/josafat-mendes |           1|         38.5591|           1.6396|        0.1202|         0.2968|      0.0748|        0.0236|      0.1059| 90.0000|
+|/players/470815/tiago-sa        |           0|         34.5438|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/748380/abel-ruiz       |           0|              NA|               NA|        0.2753|         1.1187|      0.1207|        0.0572|      0.0568| 68.1429|
+|/players/361322/bruma           |           0|              NA|               NA|        0.2864|         0.5757|      0.1079|        0.1360|      0.0257| 26.4000|
+|/players/764624/uros-racic      |           0|              NA|               NA|        0.0494|         0.3010|      0.0218|        0.0109|      0.0107| 17.8889|
+|/players/361321/iuri-medeiros   |           0|              NA|               NA|        0.0547|         0.1025|      0.0152|        0.0289|      0.0067| 12.4643|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Artur Jorge  |     27.91515|      12.29286|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4060641/Soccer_Models'...
+Receiving objects:   1% (45/4413),   63 kb
+Receiving objects:  11% (486/4413),  127 kb
+Receiving objects:  21% (927/4413),  183 kb
+Receiving objects:  31% (1369/4413),  351 kb
+Receiving objects:  41% (1810/4413),  856 kb
+Receiving objects:  51% (2251/4413),  912 kb
+Receiving objects:  61% (2692/4413), 1360 kb
+Receiving objects:  71% (3134/4413), 10213 kb
+Receiving objects:  81% (3575/4413), 10493 kb
+Receiving objects:  91% (4016/4413), 10774 kb
+Receiving objects: 100% (4413/4413), 11089 kb, done.
