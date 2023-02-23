@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-23 08:50:38.045"
+[1] "Updated at 2023-02-23 09:03:28.504"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -74,7 +74,7 @@
 |/players/157865/alex-sandro              |Juventus |      0.025350|   0.0526316|    |
 |/players/857269/gleison-bremer           |Juventus |      0.023425|   0.0714286|    |
 |/players/208077/danilo                   |Juventus |      0.002725|   0.0370370|    |
-|/players/169718/wojciech-szczesny        |Juventus |      0.000000|   0.1250000|    |
+|/players/169718/wojciech-szczesny        |Juventus |      0.000000|   0.1176471|    |
 |/players/606491/marcus-regis-coco        |Nantes   |      0.004325|   0.0000000|    |
 |/players/863708/ignatius-ganago          |Nantes   |      0.021525|   0.0000000|    |
 |/players/866108/samuel-moutoussamy       |Nantes   |      0.007150|   0.0000000|    |
@@ -140,14 +140,14 @@ ____________________________________________________
 |:--------------------|------------:|-------------:|:---------|
 |Massimiliano Allegri |     73.98889|      10.34073|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4060625/Soccer_Models'...
-Receiving objects:   1% (44/4386),   63 kb
-Receiving objects:  11% (483/4386),  127 kb
-Receiving objects:  21% (922/4386),  183 kb
-Receiving objects:  31% (1360/4386),  351 kb
-Receiving objects:  41% (1799/4386),  856 kb
-Receiving objects:  51% (2237/4386),  912 kb
-Receiving objects:  61% (2676/4386), 1304 kb
-Receiving objects:  71% (3115/4386), 10213 kb
-Receiving objects:  81% (3553/4386), 10493 kb
-Receiving objects:  91% (3992/4386), 10774 kb
-Receiving objects: 100% (4386/4386), 11069 kb, done.
+Receiving objects:   1% (44/4395),   63 kb
+Receiving objects:  11% (484/4395),  127 kb
+Receiving objects:  21% (923/4395),  183 kb
+Receiving objects:  31% (1363/4395),  351 kb
+Receiving objects:  41% (1802/4395),  856 kb
+Receiving objects:  51% (2242/4395),  912 kb
+Receiving objects:  61% (2681/4395), 1304 kb
+Receiving objects:  71% (3121/4395), 10229 kb
+Receiving objects:  81% (3560/4395), 10509 kb
+Receiving objects:  91% (4000/4395), 10790 kb
+Receiving objects: 100% (4395/4395), 11076 kb, done.
