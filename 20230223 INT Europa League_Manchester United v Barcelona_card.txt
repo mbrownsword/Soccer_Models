@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 15:20:25.439"
+[1] "Updated at 2023-02-22 20:08:39.179"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 52.03%; max % is 54.85 and min % is 48.04%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 47.97%; max % is 51.96 and min % is 45.15%."
 [1] "--Sportsbook Odds--"
-[1] "Manchester United Barstool Odds are: 45.45"
+[1] "Manchester United Barstool Odds are: 44.44"
 [1] "The Barstool Odds of a Draw are: 29.41"
-[1] "Barcelona Barstool Odds are: 30.3"
-[1] "Manchester United Adjusted Barstool Odds are: 43.22"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.967"
-[1] "Barcelona Adjusted Barstool Odds are: 28.813"
-[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 45.87"
-[1] "Barcelona's Barstool Odds to cover the 0.5 spread are: 58.48"
-[1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87% chance of the over 2.5 hitting. The line for the under is 2.02, which is a 49.5% chance of the under 2.5 hitting."
+[1] "Barcelona Barstool Odds are: 31.75"
+[1] "Manchester United Adjusted Barstool Odds are: 42.083"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.85"
+[1] "Barcelona Adjusted Barstool Odds are: 30.066"
+[1] "Manchester United's Barstool Odds to cover the -0.5 spread are: 44.44"
+[1] "Barcelona's Barstool Odds to cover the 0.5 spread are: 60.24"
+[1] "Barstool's line for the total is 2.5 at 1.8, which is a 55.56% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
             bet           date_time
@@ -55,33 +55,33 @@
 |:-------------------------------------|:-----------------|-------------:|-----------:|:---|
 |/players/182917/david-de-gea          |Manchester United |      0.000000|   0.4444444|    |
 |/players/760320/aaron-wan-bissaka     |Manchester United |      0.033800|   0.0303030|    |
-|/players/230982/raphal-varane         |Manchester United |      0.021225|   0.0476190|    |
+|/players/230982/raphal-varane         |Manchester United |      0.021225|   0.0454545|    |
 |/players/847983/lisandro-martinez     |Manchester United |      0.052400|   0.0434783|    |
-|/players/362694/luke-shaw             |Manchester United |      0.041350|   0.0370370|    |
-|/players/208494/casemiro              |Manchester United |      0.076650|   0.1000000|    |
-|/players/215151/marcel-sabitzer       |Manchester United |      0.035900|   0.1923077|    |
-|/players/846381/jadon-sancho          |Manchester United |      0.157100|   0.2325581|    |
-|/players/422685/bruno-fernandes       |Manchester United |      0.151625|   0.2564103|    |
-|/players/696365/marcus-rashford       |Manchester United |      0.221000|   0.4000000|    |
-|/players/351999/wout-weghorst         |Manchester United |      0.294475|   0.3333333|    |
-|/players/1086012/ansu-fati            |Barcelona         |      0.103675|   0.2777778|    |
-|/players/93447/robert-lewandowski     |Barcelona         |      0.418500|   0.3773585|    |
-|/players/696679/raphinha              |Barcelona         |      0.139375|   0.1960784|    |
-|/players/579747/franck-kessi          |Barcelona         |      0.078025|   0.1754386|    |
-|/players/154257/sergio-busquets       |Barcelona         |      0.020175|   0.0454545|    |
+|/players/362694/luke-shaw             |Manchester United |      0.041350|   0.0357143|    |
+|/players/208494/casemiro              |Manchester United |      0.076650|   0.0952381|    |
+|/players/215151/marcel-sabitzer       |Manchester United |      0.035900|   0.1851852|    |
+|/players/846381/jadon-sancho          |Manchester United |      0.157100|   0.2272727|    |
+|/players/422685/bruno-fernandes       |Manchester United |      0.151625|   0.2500000|    |
+|/players/696365/marcus-rashford       |Manchester United |      0.221000|   0.3921569|    |
+|/players/351999/wout-weghorst         |Manchester United |      0.294475|   0.3225806|    |
+|/players/1086012/ansu-fati            |Barcelona         |      0.103675|   0.2702703|    |
+|/players/93447/robert-lewandowski     |Barcelona         |      0.418500|   0.3703704|    |
+|/players/696679/raphinha              |Barcelona         |      0.139375|   0.1923077|    |
+|/players/579747/franck-kessi          |Barcelona         |      0.078025|   0.1724138|    |
+|/players/154257/sergio-busquets       |Barcelona         |      0.020175|   0.0434783|    |
 |/players/638622/frenkie-de-jong       |Barcelona         |      0.158200|   0.0833333|*   |
 |/players/150739/jordi-alba            |Barcelona         |      0.018725|   0.0476190|    |
-|/players/196169/marcos-alonso         |Barcelona         |      0.094325|   0.1176471|    |
-|/players/921253/ronald-araujo         |Barcelona         |      0.017750|   0.0833333|    |
+|/players/196169/marcos-alonso         |Barcelona         |      0.094325|   0.1111111|    |
+|/players/921253/ronald-araujo         |Barcelona         |      0.017750|   0.0769231|    |
 |/players/705450/jules-kound           |Barcelona         |      0.019325|   0.0526316|    |
 |/players/184554/marc-andre-ter-stegen |Barcelona         |      0.000000|   0.0434783|    |
 |/players/612836/donny-van-de-beek     |Manchester United |      0.028550|   0.0196078|    |
 |/players/1073402/facundo-pellistri    |Manchester United |      0.000000|   0.1666667|    |
 |/players/322049/fred                  |Manchester United |      0.020200|   0.1250000|    |
-|/players/413557/anthony-martial       |Manchester United |      0.047375|   0.3448276|    |
+|/players/413557/anthony-martial       |Manchester United |      0.047375|   0.3389831|    |
 |/players/881771/ferran-torres         |Barcelona         |      0.094250|   0.2564103|    |
-|/players/212472/sergi-roberto         |Barcelona         |      0.002875|   0.0555556|    |
-|/players/940573/eric-garcia           |Barcelona         |      0.000000|   0.0500000|    |
+|/players/212472/sergi-roberto         |Barcelona         |      0.002875|   0.0526316|    |
+|/players/940573/eric-garcia           |Barcelona         |      0.000000|   0.0476190|    |
 |/players/449232/andreas-christensen   |Barcelona         |      0.000000|   0.0434783|    |
 ____________________________________________________
 
@@ -108,9 +108,9 @@ ____________________________________________________
 |/players/413557/anthony-martial    |          NA|              NA|               NA|        0.0710|         0.1930|      0.0487|        0.0559|      0.0073|  6.1935|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Erik ten Hag |       118574|      25.43446|4-3-3     |
+|Erik ten Hag |     119.7717|      25.43446|4-3-3     |
 ____________________________________________________
 
 [1] "Facts about Barcelona:"
@@ -136,6 +136,6 @@ ____________________________________________________
 |/players/449232/andreas-christensen   |          NA|              NA|               NA|        0.0000|         0.0149|      0.0000|        0.0000|      0.0000|  6.8667|
 
 
-|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name   | approx_games| m_avg_elo_dif|formation |
 |:--------------|------------:|-------------:|:---------|
-|Xavi Hernandez |        62260|       15.0475|4-3-3     |
+|Xavi Hernandez |     62.88889|       15.0475|4-3-3     |
