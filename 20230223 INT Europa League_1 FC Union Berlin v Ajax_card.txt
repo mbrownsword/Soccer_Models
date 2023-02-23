@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 15:27:49.502"
+[1] "Updated at 2023-02-22 20:16:01.101"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -35,12 +35,12 @@
 [1] "The mean likelihood that there are fewer than 2.5 goals is 47.42%; max % is 50.01 and min % is 45.1%."
 [1] "--Sportsbook Odds--"
 [1] "1. FC Union Berlin Barstool Odds are: 45.45"
-[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "The Barstool Odds of a Draw are: 31.25"
 [1] "Ajax Barstool Odds are: 28.57"
-[1] "1. FC Union Berlin Adjusted Barstool Odds are: 42.971"
-[1] "The Adjusted Barstool Odds of a Draw are: 30.018"
-[1] "Ajax Adjusted Barstool Odds are: 27.011"
-[1] "1. FC Union Berlin's Barstool Odds to cover the -0.5 spread are: 45.87"
+[1] "1. FC Union Berlin Adjusted Barstool Odds are: 43.175"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.686"
+[1] "Ajax Adjusted Barstool Odds are: 27.14"
+[1] "1. FC Union Berlin's Barstool Odds to cover the -0.5 spread are: 45.45"
 [1] "Ajax's Barstool Odds to cover the 0.5 spread are: 58.82"
 [1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
@@ -79,7 +79,7 @@
 |/players/439148/morten-thorsby     |1. FC Union Berlin |      0.011550|   0.1250000|    |
 |/players/290105/kevin-mhwald       |1. FC Union Berlin |      0.089100|   0.3225806|    |
 |/players/419774/sven-michel        |1. FC Union Berlin |      0.106900|   0.2777778|    |
-|/players/836726/andrs-schäfer      |1. FC Union Berlin |      0.016925|   0.0312500|    |
+|/players/836726/andrs-schäfer      |1. FC Union Berlin |      0.016925|   0.0322581|    |
 |/players/298448/davy-klaassen      |Ajax               |      0.055300|   0.1333333|    |
 |/players/940446/brian-brobbey      |Ajax               |      0.138750|   0.2222222|    |
 |/players/617044/florian-grillitsch |Ajax               |      0.000000|   0.0454545|    |
@@ -109,9 +109,9 @@ ____________________________________________________
 |/players/836726/andrs-schäfer    |          NA|              NA|               NA|        0.2456|         0.3316|      0.0259|        0.0174|      0.0160|  9.8000|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Urs Fischer  |        94819|      1.065887|3-5-2     |
+|Urs Fischer  |     95.77677|      1.065887|3-5-2     |
 ____________________________________________________
 
 [1] "Facts about Ajax:"
@@ -137,6 +137,6 @@ ____________________________________________________
 |/players/1185336/chico-conceicao   |          NA|              NA|               NA|        0.1566|         0.8492|      0.0706|        0.0534|      0.0552| 12.2069|
 
 
-|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name    | approx_games| m_avg_elo_dif|formation |
 |:---------------|------------:|-------------:|:---------|
-|Johnny Heitinga |         4950|        30.914|4-2-3-1   |
+|Johnny Heitinga |            5|        30.914|4-2-3-1   |
