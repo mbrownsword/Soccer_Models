@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 15:34:46.248"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Queens Park Rangers 1.4466 to Blackburn 1.0996"
+[1] "Total: 2.5462"
+[1] "Queens Park Rangers %: 44.98"
+[1] "Draw %: 25.84"
+[1] "Blackburn %: 29.18"
+[1] "--XG Model--"
+[1] "Score: Queens Park Rangers 1.3976 to Blackburn 1.0691"
+[1] "Total: 2.4667"
+[1] "Queens Park Rangers %: 45.19"
+[1] "Draw %: 26.4"
+[1] "Blackburn %: 28.41"
+[1] "--XGoT Model--"
+[1] "Score: Queens Park Rangers 1.5924 to Blackburn 1.1341"
+[1] "Total: 2.7265"
+[1] "Queens Park Rangers %: 48.05"
+[1] "Draw %: 24.35"
+[1] "Blackburn %: 27.6"
+[1] "--XA Model--"
+[1] "Score: Queens Park Rangers 1.2813 to Blackburn 1.0341"
+[1] "Total: 2.3154"
+[1] "Queens Park Rangers %: 43.43"
+[1] "Draw %: 27.4"
+[1] "Blackburn %: 29.17"
+[1] "--Mean 4 Models--"
+[1] "Queens Park Rangers has a mean win % of 45.41%; a min win % of 43.43%; a max win % of 48.05%."
+[1] "Draw has a mean win % of 26%; a min win % of 24.35%; a max win % of 27.4%."
+[1] "Blackburn has a mean win % of 28.59%; a min win % of 27.6%; a max win of % 29.18%."
+[1] "Queens Park Rangers has a mean win of the Double Chance of 71.41%; a min win % of 70.82%, a max win % of 72.4%."
+[1] "Blackburn has a mean win of the Double Chance of 54.59%; a min win % of 51.95%, a max win % of 56.57%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.84%; max % is 50.23 and min % is 39.98%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.16%; max % is 60.02 and min % is 49.77%."
+[1] "--Sportsbook Odds--"
+[1] "Queens Park Rangers Barstool Odds are: 47.62"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Blackburn Barstool Odds are: 28.99"
+[1] "Queens Park Rangers Adjusted Barstool Odds are: 44.542"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.342"
+[1] "Blackburn Adjusted Barstool Odds are: 27.116"
+[1] "Queens Park Rangers's Barstool Odds to cover the -0.5 spread are: 47.17"
+[1] "Blackburn's Barstool Odds to cover the 0.5 spread are: 57.47"
+[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.74, which is a 57.47% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team                | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-------------------|-------------:|-----------:|:---|
+|/players/490413/seny-dieng          |Queens Park Rangers |      0.000000|   0.1176471|    |
+|/players/722751/osman-kakay         |Queens Park Rangers |      0.012050|   0.0312500|    |
+|/players/564816/kenneth-paal        |Queens Park Rangers |      0.013725|   0.0952381|    |
+|/players/621182/rob-dickie          |Queens Park Rangers |      0.028350|   0.1666667|    |
+|/players/767173/jimmy-dunne         |Queens Park Rangers |      0.082375|   0.1000000|    |
+|/players/70078/stefan-johansen      |Queens Park Rangers |      0.042500|   0.1666667|    |
+|/players/748456/sam-field           |Queens Park Rangers |      0.060025|   0.1428571|    |
+|/players/729733/andre-dozzell       |Queens Park Rangers |      0.096200|   0.1176471|    |
+|/players/113003/albert-adomah       |Queens Park Rangers |      0.104525|   0.2325581|    |
+|/players/676504/ilias-chair         |Queens Park Rangers |      0.265725|   0.2857143|    |
+|/players/47555/chris-martin         |Queens Park Rangers |      0.288275|   0.3225806|    |
+|/players/131408/thomas-kaminski     |Blackburn           |      0.000000|   0.0833333|    |
+|/players/181379/daniel-ayala        |Blackburn           |      0.026750|   0.1428571|    |
+|/players/694558/dominic-hyam        |Blackburn           |      0.016750|   0.0714286|    |
+|/players/765563/scott-wharton       |Blackburn           |      0.023150|   0.0909091|    |
+|/players/1113724/tyler-morton       |Blackburn           |      0.071800|   0.0714286|    |
+|/players/827247/harry-pickering     |Blackburn           |      0.012900|   0.0384615|    |
+|/players/611489/ryan-hedges         |Blackburn           |      0.168825|   0.1666667|    |
+|/players/812982/sorba-thomas        |Blackburn           |      0.035075|   0.1176471|    |
+|/players/789556/lewis-travis        |Blackburn           |      0.001450|   0.1428571|    |
+|/players/820581/ben-brereton        |Blackburn           |      0.234600|   0.2941176|    |
+|/players/502421/sam-gallagher       |Blackburn           |      0.162900|   0.2500000|    |
+|/players/369754/jamal-lowe          |Queens Park Rangers |      0.148175|   0.3333333|    |
+|/players/643230/tyler-roberts       |Queens Park Rangers |      0.044375|   0.2777778|    |
+|/players/770244/luke-amos           |Queens Park Rangers |      0.010450|   0.1724138|    |
+|/players/1307663/sinclair-armstrong |Queens Park Rangers |      0.022000|   0.2777778|    |
+|/players/1181101/tyrhys-dolan       |Blackburn           |      0.035925|   0.2380952|    |
+|/players/363352/bradley-dack        |Blackburn           |      0.072475|   0.0769231|    |
+|/players/491827/sammie-szmodics     |Blackburn           |      0.048750|   0.2083333|    |
+|/players/1030840/john-buckley       |Blackburn           |      0.019275|   0.1176471|    |
+____________________________________________________
+
+[1] "Facts about Queens Park Rangers:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/490413/seny-dieng          |           0|         27.8596|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/722751/osman-kakay         |           1|         36.8757|           1.2591|        0.0804|         0.6113|      0.0654|        0.0156|      0.0762| 90.0000|
+|/players/564816/kenneth-paal        |           1|         42.2112|           2.4507|        0.1301|         0.5768|      0.0210|        0.0156|      0.1085| 90.0000|
+|/players/621182/rob-dickie          |           1|         52.0089|           1.4300|        0.1869|         0.7176|      0.0444|        0.0333|      0.0322| 90.0000|
+|/players/767173/jimmy-dunne         |           1|         56.6950|           0.7908|        0.2586|         0.4914|      0.0719|        0.1070|      0.0181| 90.0000|
+|/players/70078/stefan-johansen      |           2|         39.3871|           1.0541|        0.2039|         1.0505|      0.0445|        0.0554|      0.1276| 68.1667|
+|/players/748456/sam-field           |           2|         40.9142|           2.8748|        0.2692|         0.5730|      0.0961|        0.0731|      0.0233| 90.0000|
+|/players/729733/andre-dozzell       |           3|         33.0295|           0.7851|        0.2831|         0.6784|      0.0470|        0.1240|      0.0336| 77.6552|
+|/players/113003/albert-adomah       |           3|         17.8469|           1.9328|        0.3099|         1.1094|      0.1326|        0.1358|      0.1457| 85.0000|
+|/players/676504/ilias-chair         |           3|         29.2645|           0.7115|        1.5946|         4.1279|      0.4493|        0.3638|      0.2491| 84.4375|
+|/players/47555/chris-martin         |           5|         18.0553|           0.5233|        1.0834|         2.6886|      0.3982|        0.4110|      0.0789| 90.0000|
+|/players/369754/jamal-lowe          |           0|              NA|               NA|        0.2579|         0.3752|      0.1009|        0.1944|      0.0371| 21.8333|
+|/players/643230/tyler-roberts       |           0|              NA|               NA|        0.1207|         0.3512|      0.0337|        0.0586|      0.0065| 12.3448|
+|/players/770244/luke-amos           |           0|              NA|               NA|        0.0151|         0.0438|      0.0152|        0.0128|      0.0020|  5.5625|
+|/players/1307663/sinclair-armstrong |           0|              NA|               NA|        0.0572|         0.1294|      0.0243|        0.0265|      0.0015|  5.0000|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Gareth Ainsworth |     73.13838|     -2.783111|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Blackburn:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/131408/thomas-kaminski |           0|         31.7736|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/181379/daniel-ayala    |           1|         36.0774|           1.2504|        0.0962|         0.3588|      0.0327|        0.0301|      0.0183| 81.4400|
+|/players/694558/dominic-hyam    |           1|         50.3191|           1.3950|        0.0555|         0.2258|      0.0439|        0.0199|      0.0299| 90.0000|
+|/players/765563/scott-wharton   |           1|         41.1134|           1.5609|        0.1655|         0.6980|      0.0382|        0.0262|      0.0306| 90.0000|
+|/players/1113724/tyler-morton   |           3|         49.6599|           1.8475|        0.2787|         0.6616|      0.0266|        0.0793|      0.0540| 90.0000|
+|/players/827247/harry-pickering |           3|         33.6412|           1.1632|        0.1755|         0.2083|      0.0150|        0.0128|      0.0438| 90.0000|
+|/players/611489/ryan-hedges     |           3|         32.5560|           1.9387|        0.6581|         1.9959|      0.1872|        0.1978|      0.1288| 82.3333|
+|/players/812982/sorba-thomas    |           3|         22.0211|           0.7308|        0.1286|         1.2211|      0.0909|        0.0374|      0.1971| 90.0000|
+|/players/789556/lewis-travis    |           3|         39.0893|           3.4987|        0.0445|         0.4226|      0.0433|        0.0015|      0.0357| 90.0000|
+|/players/820581/ben-brereton    |           5|         19.3474|           0.6581|        0.7755|         2.0549|      0.3110|        0.2914|      0.1093| 80.7368|
+|/players/502421/sam-gallagher   |           5|         18.3891|           0.6324|        0.6913|         1.8437|      0.2333|        0.1914|      0.0473| 76.4000|
+|/players/1181101/tyrhys-dolan   |           0|              NA|               NA|        0.0790|         0.2187|      0.0427|        0.0426|      0.0157| 13.6000|
+|/players/363352/bradley-dack    |           0|              NA|               NA|        0.0676|         0.2105|      0.0641|        0.0797|      0.0111|  9.2632|
+|/players/491827/sammie-szmodics |           0|              NA|               NA|        0.0766|         0.1192|      0.0175|        0.0510|      0.0016|  8.5600|
+|/players/1030840/john-buckley   |           0|              NA|               NA|        0.0913|         0.1422|      0.0056|        0.0212|      0.0082|  7.6667|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Jon Dahl Tomasson |     99.09697|      9.681287|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3915637/Soccer_Models'...
+Receiving objects:   1% (45/4443),   63 kb
+Receiving objects:  11% (489/4443),  127 kb
+Receiving objects:  21% (934/4443),  183 kb
+Receiving objects:  31% (1378/4443),  351 kb
+Receiving objects:  41% (1822/4443),  856 kb
+Receiving objects:  51% (2266/4443),  968 kb
+Receiving objects:  61% (2711/4443), 1360 kb
+Receiving objects:  71% (3155/4443), 10269 kb
+Receiving objects:  81% (3599/4443), 10549 kb
+Receiving objects:  91% (4044/4443), 10774 kb
+Receiving objects: 100% (4443/4443), 11111 kb, done.
