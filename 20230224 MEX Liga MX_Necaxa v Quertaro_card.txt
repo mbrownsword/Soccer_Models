@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 14:14:36.096"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Necaxa 1.5207 to Querétaro 1.2562"
+[1] "Total: 2.7769"
+[1] "Necaxa %: 43.3"
+[1] "Draw %: 25.11"
+[1] "Querétaro %: 31.59"
+[1] "--XG Model--"
+[1] "Score: Necaxa 1.3908 to Querétaro 1.1163"
+[1] "Total: 2.5071"
+[1] "Necaxa %: 43.68"
+[1] "Draw %: 25.95"
+[1] "Querétaro %: 30.37"
+[1] "--XGoT Model--"
+[1] "Score: Necaxa 1.4704 to Querétaro 1.0748"
+[1] "Total: 2.5452"
+[1] "Necaxa %: 47.06"
+[1] "Draw %: 25.42"
+[1] "Querétaro %: 27.52"
+[1] "--XA Model--"
+[1] "Score: Necaxa 1.5678 to Querétaro 1.207"
+[1] "Total: 2.7748"
+[1] "Necaxa %: 45.74"
+[1] "Draw %: 24.62"
+[1] "Querétaro %: 29.64"
+[1] "--Mean 4 Models--"
+[1] "Necaxa has a mean win % of 44.94%; a min win % of 43.3%; a max win % of 47.06%."
+[1] "Draw has a mean win % of 25.27%; a min win % of 24.62%; a max win % of 25.95%."
+[1] "Querétaro has a mean win % of 29.78%; a min win % of 27.52%; a max win of % 31.59%."
+[1] "Necaxa has a mean win of the Double Chance of 70.22%; a min win % of 68.41%, a max win % of 72.48%."
+[1] "Querétaro has a mean win of the Double Chance of 55.06%; a min win % of 52.94%, a max win % of 56.7%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.22%; max % is 51.4 and min % is 44.42%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.78%; max % is 55.58 and min % is 48.6%."
+[1] "--Sportsbook Odds--"
+[1] "Necaxa Barstool Odds are: 45.87"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Querétaro Barstool Odds are: 31.25"
+[1] "Necaxa Adjusted Barstool Odds are: 42.702"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.207"
+[1] "Querétaro Adjusted Barstool Odds are: 29.091"
+[1] "Necaxa's Barstool Odds to cover the -0.5 spread are: 45.87"
+[1] "Querétaro's Barstool Odds to cover the 0.5 spread are: 60.24"
+[1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.8, which is a 55.56% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-24 17:05:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team       | expected_attg| expected_gs|bet |
+|:------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/581726/raul-gudino          |Necaxa     |      0.000000|   0.3571429|    |
+|/players/384342/fabricio-formiliano  |Necaxa     |      0.069475|   0.1250000|    |
+|/players/952324/agustin-oliveros     |Necaxa     |      0.053875|   0.0909091|    |
+|/players/624060/juan-pablo-segovia   |Necaxa     |      0.031575|   0.0769231|    |
+|/players/671970/alexis-pena          |Necaxa     |      0.007375|   0.0476190|    |
+|/players/477493/edgar-mndez          |Necaxa     |      0.198450|   0.2272727|    |
+|/players/659757/ngelo-araos          |Necaxa     |      0.001175|   0.1052632|    |
+|/players/614519/fernando-madrigal    |Necaxa     |      0.225750|   0.1052632|*   |
+|/players/766570/jose-esquivel        |Necaxa     |      0.002250|   0.0769231|    |
+|/players/976444/facundo-batista      |Necaxa     |      0.337225|   0.3773585|    |
+|/players/1256494/maximiliano-silvera |Necaxa     |      0.149600|   0.3921569|    |
+|/players/521632/washington-aguerre   |Querétaro |      0.000000|   0.0769231|    |
+|/players/294973/carlos-guzman        |Querétaro |      0.010825|   0.0833333|    |
+|/players/675918/kevin-balanta        |Querétaro |      0.018200|   0.0952381|    |
+|/players/244791/erik-franco-vera     |Querétaro |      0.081675|   0.0526316|    |
+|/players/559999/omar-mendoza         |Querétaro |      0.014250|   0.0625000|    |
+|/players/1381368/rodrigo-lopez       |Querétaro |      0.005150|   0.1333333|    |
+|/players/732548/christian-rivera     |Querétaro |      0.006100|   0.0833333|    |
+|/players/159848/jorge-hernndez       |Querétaro |      0.007075|   0.0434783|    |
+|/players/610642/kevin-escamilla      |Querétaro |      0.261175|   0.0952381|*   |
+|/players/70865/pablo-barrera         |Querétaro |      0.105800|   0.2040816|    |
+|/players/215428/angel-sepulveda      |Querétaro |      0.317400|   0.2941176|    |
+|/players/1306869/heriberto-jurado    |Necaxa     |      0.003925|   0.1666667|    |
+|/players/1211623/vicente-poggi       |Necaxa     |      0.022775|   0.1052632|    |
+|/players/1023022/ricardo-monreal     |Necaxa     |      0.079500|   0.2702703|    |
+|/players/1327189/diego-gomez         |Necaxa     |      0.063600|   0.1428571|    |
+|/players/533112/clifford-aboagye     |Querétaro |      0.062400|   0.1333333|    |
+|/players/1253932/manuel-duarte       |Querétaro |      0.003550|   0.1666667|    |
+|/players/1302079/ettson-ayon         |Querétaro |      0.074800|   0.2702703|    |
+|/players/742681/miguel-barbieri      |Querétaro |      0.000000|   0.0769231|    |
+____________________________________________________
+
+[1] "Facts about Necaxa:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/581726/raul-gudino          |           0|         25.5709|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/384342/fabricio-formiliano  |           1|         40.3459|           1.1717|        0.2175|         0.4982|      0.0739|        0.0779|      0.0506| 90.0000|
+|/players/952324/agustin-oliveros     |           1|         38.5318|           1.5598|        0.0835|         0.6217|      0.0342|        0.0605|      0.0565| 90.0000|
+|/players/624060/juan-pablo-segovia   |           1|         43.2652|           1.3117|        0.1936|         0.6971|      0.0642|        0.0334|      0.0497| 90.0000|
+|/players/671970/alexis-pena          |           1|         51.4397|           2.0639|        0.1436|         0.4936|      0.0321|        0.0080|      0.0760| 90.0000|
+|/players/477493/edgar-mndez          |           3|         21.7403|           0.8754|        0.5932|         1.3311|      0.2509|        0.2425|      0.1551| 76.6190|
+|/players/659757/ngelo-araos          |           3|         27.6214|           1.6126|        0.2768|         1.1344|      0.0132|        0.0017|      0.0698| 62.8000|
+|/players/614519/fernando-madrigal    |           3|         38.3968|           1.8217|        0.6797|         1.7907|      0.1293|        0.2674|      0.1429| 90.0000|
+|/players/766570/jose-esquivel        |           3|         49.7329|           2.0450|        0.0609|         0.7492|      0.0734|        0.0025|      0.0336| 90.0000|
+|/players/976444/facundo-batista      |           5|         13.7483|           0.5960|        1.2305|         2.5005|      0.3844|        0.4394|      0.0928| 75.2727|
+|/players/1256494/maximiliano-silvera |           5|         20.3742|           0.6244|        0.3760|         1.5628|      0.1839|        0.1728|      0.0651| 69.4167|
+|/players/1306869/heriberto-jurado    |           0|              NA|               NA|        0.1974|         0.5316|      0.0642|        0.0036|      0.0976| 27.2000|
+|/players/1211623/vicente-poggi       |           0|              NA|               NA|        0.2748|         1.2338|      0.0621|        0.0248|      0.0530| 20.5833|
+|/players/1023022/ricardo-monreal     |           0|              NA|               NA|        0.6333|         1.3268|      0.0629|        0.0935|      0.0949| 14.7273|
+|/players/1327189/diego-gomez         |           0|              NA|               NA|        0.2156|         0.5808|      0.0292|        0.0741|      0.0083| 13.3810|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Andres Lillini |     68.78283|     -4.690198|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Querétaro:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/521632/washington-aguerre |           0|         24.1103|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/294973/carlos-guzman      |           1|         45.6016|           1.3571|        0.0739|         0.5610|      0.0230|        0.0118|      0.0899| 78.4000|
+|/players/675918/kevin-balanta      |           1|         42.0001|           1.8439|        0.2051|         0.4212|      0.0460|        0.0184|      0.0045| 90.0000|
+|/players/244791/erik-franco-vera   |           1|         26.9210|           1.5393|        0.1049|         0.3592|      0.0309|        0.0842|      0.0385| 90.0000|
+|/players/559999/omar-mendoza       |           1|         33.7922|           1.8460|        0.0848|         0.3483|      0.0476|        0.0136|      0.0390| 90.0000|
+|/players/1381368/rodrigo-lopez     |           3|         21.8248|           0.4758|        0.0857|         1.3780|      0.1287|        0.0048|      0.1217| 64.0000|
+|/players/732548/christian-rivera   |           3|         38.5592|           3.1655|        0.1205|         0.9780|      0.0551|        0.0067|      0.0417| 90.0000|
+|/players/159848/jorge-hernndez     |           3|         41.3042|           2.3086|        0.1205|         0.3032|      0.0052|        0.0067|      0.0643| 90.0000|
+|/players/610642/kevin-escamilla    |           3|         25.8279|           1.2687|        0.9053|         1.1155|      0.1125|        0.3003|      0.0511| 77.0000|
+|/players/70865/pablo-barrera       |           5|         23.1202|           1.1444|        0.2732|         1.2817|      0.0752|        0.1101|      0.1023| 90.0000|
+|/players/215428/angel-sepulveda    |           5|         15.7334|           0.4443|        1.0608|         2.2557|      0.4306|        0.3837|      0.0381| 75.0909|
+|/players/533112/clifford-aboagye   |           0|              NA|               NA|        0.2112|         0.4649|      0.0618|        0.0652|      0.1442| 26.0000|
+|/players/1253932/manuel-duarte     |           0|              NA|               NA|        0.1753|         1.1580|      0.0418|        0.0032|      0.0421| 14.9091|
+|/players/1302079/ettson-ayon       |           0|              NA|               NA|        0.6534|         1.0787|      0.0604|        0.0727|      0.0030| 13.0000|
+|/players/742681/miguel-barbieri    |           0|              NA|               NA|        0.0000|         0.2040|      0.0043|        0.0000|      0.0000| 11.6000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mauro Gerk   |     19.86869|      -10.8575|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065364/Soccer_Models'...
+Receiving objects:   1% (45/4416),   63 kb
+Receiving objects:  11% (486/4416),  127 kb
+Receiving objects:  21% (928/4416),  183 kb
+Receiving objects:  31% (1369/4416),  351 kb
+Receiving objects:  41% (1811/4416),  856 kb
+Receiving objects:  51% (2253/4416),  912 kb
+Receiving objects:  61% (2694/4416), 1360 kb
+Receiving objects:  71% (3136/4416), 10213 kb
+Receiving objects:  81% (3577/4416), 10493 kb
+Receiving objects:  91% (4019/4416), 10774 kb
+Receiving objects: 100% (4416/4416), 11082 kb, done.
