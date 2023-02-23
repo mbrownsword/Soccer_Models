@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 15:27:54.382"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Burnley 1.9307 to Huddersfield Town 0.8941"
+[1] "Total: 2.8248"
+[1] "Burnley %: 62.13"
+[1] "Draw %: 21.64"
+[1] "Huddersfield Town %: 16.23"
+[1] "--XG Model--"
+[1] "Score: Burnley 2.1234 to Huddersfield Town 0.8027"
+[1] "Total: 2.9261"
+[1] "Burnley %: 67.54"
+[1] "Draw %: 20"
+[1] "Huddersfield Town %: 12.46"
+[1] "--XGoT Model--"
+[1] "Score: Burnley 2.169 to Huddersfield Town 0.7759"
+[1] "Total: 2.9449"
+[1] "Burnley %: 69.38"
+[1] "Draw %: 19.19"
+[1] "Huddersfield Town %: 11.43"
+[1] "--XA Model--"
+[1] "Score: Burnley 1.8511 to Huddersfield Town 0.6559"
+[1] "Total: 2.507"
+[1] "Burnley %: 66.68"
+[1] "Draw %: 21.45"
+[1] "Huddersfield Town %: 11.87"
+[1] "--Mean 4 Models--"
+[1] "Burnley has a mean win % of 66.43%; a min win % of 62.13%; a max win % of 69.38%."
+[1] "Draw has a mean win % of 20.57%; a min win % of 19.19%; a max win % of 21.64%."
+[1] "Huddersfield Town has a mean win % of 13%; a min win % of 11.43%; a max win of % 16.23%."
+[1] "Burnley has a mean win of the Double Chance of 87%; a min win % of 83.77%, a max win % of 88.57%."
+[1] "Huddersfield Town has a mean win of the Double Chance of 33.57%; a min win % of 30.62%, a max win % of 37.87%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.51%; max % is 55.69 and min % is 45.58%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.49%; max % is 54.42 and min % is 44.31%."
+[1] "--Sportsbook Odds--"
+[1] "Burnley Barstool Odds are: 71.43"
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Huddersfield Town Barstool Odds are: 13.33"
+[1] "Burnley Adjusted Barstool Odds are: 67.07"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.413"
+[1] "Huddersfield Town Adjusted Barstool Odds are: 12.516"
+[1] "Burnley's Barstool Odds to cover the -0.5 spread are: 71.43"
+[1] "Huddersfield Town's Barstool Odds to cover the 0.5 spread are: 33.33"
+[1] "Barstool's line for the total is 2.5 at 1.8, which is a 55.56% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                         |team              | expected_attg| expected_gs|bet |
+|:--------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/760752/arijanet-muric   |Burnley           |      0.000000|   0.0500000|    |
+|/players/1279764/ameen-al-dakhil |Burnley           |      0.012925|   0.0714286|    |
+|/players/289137/charlie-taylor   |Burnley           |      0.009100|   0.0952381|    |
+|/players/831044/hjalmar-ekdal    |Burnley           |      0.084025|   0.1538462|    |
+|/players/484878/connor-roberts   |Burnley           |      0.062925|   0.1428571|    |
+|/players/46008/jack-cork         |Burnley           |      0.080675|   0.1052632|    |
+|/players/623716/josh-cullen      |Burnley           |      0.084375|   0.1176471|    |
+|/players/966026/ian-maatsen      |Burnley           |      0.086100|   0.1428571|    |
+|/players/877700/nathan-tella     |Burnley           |      0.355750|   0.3125000|    |
+|/players/494597/josh-brownhill   |Burnley           |      0.121975|   0.2702703|    |
+|/players/817720/michael-obafemi  |Burnley           |      0.357875|   0.3773585|    |
+|/players/231596/lee-nicholls     |Huddersfield Town |      0.000000|   0.0833333|    |
+|/players/202063/oliver-turton    |Huddersfield Town |      0.004750|   0.2564103|    |
+|/players/541513/yuta-nakayama    |Huddersfield Town |      0.026775|   0.0312500|    |
+|/players/183747/tom-lees         |Huddersfield Town |      0.015675|   0.0666667|    |
+|/players/488960/michal-helik     |Huddersfield Town |      0.032225|   0.0714286|    |
+|/players/746408/david-kasumu     |Huddersfield Town |      0.008400|   0.0952381|    |
+|/players/1222191/etienne-camara  |Huddersfield Town |      0.005800|   0.1052632|    |
+|/players/480787/duane-holmes     |Huddersfield Town |      0.134550|   0.1666667|    |
+|/players/1030830/jack-rudoni     |Huddersfield Town |      0.082775|   0.1428571|    |
+|/players/189074/jonathan-hogg    |Huddersfield Town |      0.052225|   0.0952381|    |
+|/players/181234/danny-ward       |Huddersfield Town |      0.157250|   0.2380952|    |
+|/players/1069536/anass-zaroury   |Burnley           |      0.297200|   0.3921569|    |
+|/players/107280/ashley-barnes    |Burnley           |      0.049875|   0.4878049|    |
+|/players/559077/samuel-bastien   |Burnley           |      0.063600|   0.2702703|    |
+|/players/905498/vitinho          |Burnley           |      0.003350|   0.2127660|    |
+|/players/104258/jordan-rhodes    |Huddersfield Town |      0.080150|   0.2173913|    |
+|/players/1117779/scott-high      |Huddersfield Town |      0.016675|   0.0952381|    |
+|/players/109434/martyn-waghorn   |Huddersfield Town |      0.030700|   0.2777778|    |
+|/players/1077221/joseph-hungbo   |Huddersfield Town |      0.046175|   0.2325581|    |
+____________________________________________________
+
+[1] "Facts about Burnley:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/760752/arijanet-muric   |           0|         30.3260|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1279764/ameen-al-dakhil |           1|         48.0877|           1.0961|        0.1460|         0.4164|      0.0240|        0.0128|      0.0150| 81.5333|
+|/players/289137/charlie-taylor   |           1|         52.0044|           1.8654|        0.0532|         0.2734|      0.0173|        0.0089|      0.1289| 90.0000|
+|/players/831044/hjalmar-ekdal    |           1|         75.3643|           1.5405|        0.3224|         1.1037|      0.1276|        0.0963|      0.0416| 90.0000|
+|/players/484878/connor-roberts   |           1|         58.2604|           1.5888|        0.2161|         0.7706|      0.0738|        0.0732|      0.1371| 90.0000|
+|/players/46008/jack-cork         |           2|         54.8364|           2.3147|        0.3451|         0.4347|      0.0548|        0.0965|      0.0389| 90.0000|
+|/players/623716/josh-cullen      |           2|         67.8637|           1.7648|        0.3451|         1.9642|      0.1334|        0.0965|      0.1915| 90.0000|
+|/players/966026/ian-maatsen      |           3|         43.7811|           1.4733|        0.4805|         2.1576|      0.1736|        0.1035|      0.2120| 83.5909|
+|/players/877700/nathan-tella     |           3|         16.9983|           0.8360|        1.2586|         2.4658|      0.4608|        0.4980|      0.1424| 71.0000|
+|/players/494597/josh-brownhill   |           3|         46.9305|           1.4361|        0.5621|         1.7207|      0.1349|        0.1482|      0.2316| 90.0000|
+|/players/817720/michael-obafemi  |           5|         18.3021|           0.5474|        1.1506|         2.8329|      0.5181|        0.4965|      0.0985| 78.2174|
+|/players/1069536/anass-zaroury   |           0|              NA|               NA|        1.0140|         1.7225|      0.2901|        0.3899|      0.0679| 19.0000|
+|/players/107280/ashley-barnes    |           0|              NA|               NA|        0.2443|         0.9244|      0.1449|        0.0598|      0.0072| 11.7826|
+|/players/559077/samuel-bastien   |           0|              NA|               NA|        0.1796|         0.4855|      0.0754|        0.0800|      0.0088|  8.4667|
+|/players/905498/vitinho          |           0|              NA|               NA|        0.0716|         0.3096|      0.0384|        0.0049|      0.0349|  6.4091|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Vincent Kompany |     107.7212|      9.999907|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Huddersfield Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/231596/lee-nicholls    |           0|         29.5730|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/202063/oliver-turton   |           1|         28.9391|           1.5668|        0.0447|         0.2579|      0.0135|        0.0051|      0.0197| 90.0000|
+|/players/541513/yuta-nakayama   |           1|         35.2267|           1.9063|        0.0923|         0.3944|      0.0176|        0.0297|      0.0242| 90.0000|
+|/players/183747/tom-lees        |           1|         31.3300|           1.1897|        0.0925|         0.2823|      0.0230|        0.0177|      0.0259| 90.0000|
+|/players/488960/michal-helik    |           1|         28.3556|           1.7923|        0.0816|         0.3632|      0.0541|        0.0319|      0.0225| 90.0000|
+|/players/746408/david-kasumu    |           2|         29.4252|           2.7834|        0.1351|         0.5789|      0.0239|        0.0088|      0.0574| 90.0000|
+|/players/1222191/etienne-camara |           2|         34.2192|           1.5657|        0.1216|         0.5210|      0.0215|        0.0079|      0.0119| 81.0000|
+|/players/480787/duane-holmes    |           3|         15.9060|           0.3928|        0.4260|         1.2629|      0.1170|        0.1439|      0.0891| 70.8000|
+|/players/1030830/jack-rudoni    |           3|         16.5507|           1.4566|        0.5641|         1.6168|      0.1603|        0.0897|      0.0948| 90.0000|
+|/players/189074/jonathan-hogg   |           3|         30.0023|           1.4535|        0.0609|         0.3294|      0.0625|        0.0550|      0.0358| 82.2000|
+|/players/181234/danny-ward      |           5|         14.2907|           0.4928|        0.4760|         1.3163|      0.1643|        0.1712|      0.0343| 74.4375|
+|/players/104258/jordan-rhodes   |           0|              NA|               NA|        0.3394|         0.8682|      0.1162|        0.0868|      0.0038| 19.2000|
+|/players/1117779/scott-high     |           0|              NA|               NA|        0.0879|         0.1312|      0.0082|        0.0156|      0.0068| 15.5625|
+|/players/109434/martyn-waghorn  |           0|              NA|               NA|        0.1188|         0.4491|      0.0484|        0.0318|      0.0190|  9.0000|
+|/players/1077221/joseph-hungbo  |           0|              NA|               NA|        0.1019|         0.2366|      0.0372|        0.0497|      0.0103|  7.8000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Neil Warnock |     62.92828|     0.8770833|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3915647/Soccer_Models'...
+Receiving objects:   1% (45/4434),   63 kb
+Receiving objects:  11% (488/4434),  127 kb
+Receiving objects:  21% (932/4434),  183 kb
+Receiving objects:  31% (1375/4434),  351 kb
+Receiving objects:  41% (1818/4434),  856 kb
+Receiving objects:  51% (2262/4434),  968 kb
+Receiving objects:  61% (2705/4434), 1360 kb
+Receiving objects:  71% (3149/4434), 10245 kb
+Receiving objects:  81% (3592/4434), 10533 kb
+Receiving objects:  91% (4035/4434), 10757 kb
+Receiving objects: 100% (4434/4434), 11101 kb, done.
