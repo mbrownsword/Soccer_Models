@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-23 15:39:22.394"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Sheffield United 1.462 to Watford 0.9559"
+[1] "Total: 2.4179"
+[1] "Sheffield United %: 49.67"
+[1] "Draw %: 26.06"
+[1] "Watford %: 24.27"
+[1] "--XG Model--"
+[1] "Score: Sheffield United 1.5986 to Watford 0.8596"
+[1] "Total: 2.4582"
+[1] "Sheffield United %: 55.22"
+[1] "Draw %: 24.99"
+[1] "Watford %: 19.79"
+[1] "--XGoT Model--"
+[1] "Score: Sheffield United 1.6021 to Watford 0.8856"
+[1] "Total: 2.4877"
+[1] "Sheffield United %: 54.89"
+[1] "Draw %: 24.85"
+[1] "Watford %: 20.26"
+[1] "--XA Model--"
+[1] "Score: Sheffield United 1.5158 to Watford 0.8411"
+[1] "Total: 2.3569"
+[1] "Sheffield United %: 53.33"
+[1] "Draw %: 25.52"
+[1] "Watford %: 21.15"
+[1] "--Mean 4 Models--"
+[1] "Sheffield United has a mean win % of 53.28%; a min win % of 49.67%; a max win % of 55.22%."
+[1] "Draw has a mean win % of 25.36%; a min win % of 24.85%; a max win % of 26.06%."
+[1] "Watford has a mean win % of 21.37%; a min win % of 19.79%; a max win of % 24.27%."
+[1] "Sheffield United has a mean win of the Double Chance of 78.63%; a min win % of 75.73%, a max win % of 80.21%."
+[1] "Watford has a mean win of the Double Chance of 46.72%; a min win % of 44.78%, a max win % of 50.33%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.15%; max % is 44.61 and min % is 41.33%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.85%; max % is 58.67 and min % is 55.39%."
+[1] "--Sportsbook Odds--"
+[1] "Sheffield United Barstool Odds are: 56.52"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Watford Barstool Odds are: 22.22"
+[1] "Sheffield United Adjusted Barstool Odds are: 52.67"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.624"
+[1] "Watford Adjusted Barstool Odds are: 20.706"
+[1] "Sheffield United's Barstool Odds to cover the -0.5 spread are: 55.56"
+[1] "Watford's Barstool Odds to cover the 0.5 spread are: 49.5"
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team             | expected_attg| expected_gs|bet |
+|:----------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/212944/wesley-foderingham |Sheffield United |      0.000000|   0.0500000|    |
+|/players/113772/chris-basham       |Sheffield United |      0.000600|   0.0909091|    |
+|/players/295062/john-egan          |Sheffield United |      0.045175|   0.1000000|    |
+|/players/793820/anel-ahmedhodzic   |Sheffield United |      0.085550|   0.1818182|    |
+|/players/511032/ben-osborn         |Sheffield United |      0.184700|   0.1818182|    |
+|/players/97194/john-fleck          |Sheffield United |      0.007000|   0.1818182|    |
+|/players/940442/thomas-doyle       |Sheffield United |      0.062575|   0.1250000|    |
+|/players/540963/sander-berge       |Sheffield United |      0.094675|   0.2272727|    |
+|/players/210971/oliver-norwood     |Sheffield United |      0.068525|   0.1538462|    |
+|/players/509151/oliver-mcburnie    |Sheffield United |      0.332175|   0.4255319|    |
+|/players/965764/iliman-ndiaye      |Sheffield United |      0.256500|   0.3125000|    |
+|/players/203964/daniel-bachmann    |Watford          |      0.000000|   0.1428571|    |
+|/players/149219/christian-kabasele |Watford          |      0.016350|   0.0476190|    |
+|/players/488415/hassane-kamara     |Watford          |      0.015450|   0.0454545|    |
+|/players/770998/ryan-porteous      |Watford          |      0.053675|   0.0769231|    |
+|/players/465628/wesley-hoedt       |Watford          |      0.016125|   0.0500000|    |
+|/players/909803/edo-kayembe        |Watford          |      0.034700|   0.2272727|    |
+|/players/728123/hamza-choudhury    |Watford          |      0.032100|   0.0769231|    |
+|/players/1288119/ismael-kone       |Watford          |      0.024275|   0.1428571|    |
+|/players/771294/ismaila-sarr       |Watford          |      0.230075|   0.2564103|    |
+|/players/520670/ken-sema           |Watford          |      0.065325|   0.1250000|    |
+|/players/724368/keinan-davis       |Watford          |      0.184875|   0.2439024|    |
+|/players/1258092/william-osula     |Sheffield United |      0.140225|   0.0357143|*   |
+|/players/1107648/james-mcatee      |Sheffield United |      0.012400|   0.2272727|    |
+|/players/1253827/daniel-jebbison   |Sheffield United |      0.010750|   0.3225806|    |
+|/players/161414/ciaran-clark       |Sheffield United |      0.000000|   0.1333333|    |
+|/players/1277380/yaser-asprilla    |Watford          |      0.006775|   0.1923077|    |
+|/players/1192386/henrique-araujo   |Watford          |      0.081325|   0.2173913|    |
+|/players/1021382/joao-pedro        |Watford          |      0.006875|   0.2631579|    |
+|/players/183185/mario-gaspar       |Watford          |      0.000000|   0.0769231|    |
+____________________________________________________
+
+[1] "Facts about Sheffield United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/212944/wesley-foderingham |           0|         24.1477|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/113772/chris-basham       |           1|         48.2201|           1.8735|        0.0376|         0.3071|      0.0283|        0.0006|      0.0308| 90.0000|
+|/players/295062/john-egan          |           1|         52.5811|           0.9727|        0.1930|         0.7879|      0.0914|        0.0500|      0.0393| 90.0000|
+|/players/793820/anel-ahmedhodzic   |           1|         59.2802|           1.3755|        0.2961|         0.6717|      0.0922|        0.1019|      0.0540| 90.0000|
+|/players/511032/ben-osborn         |           3|         37.0240|           1.9730|        0.3503|         1.1298|      0.1245|        0.2234|      0.1657| 90.0000|
+|/players/97194/john-fleck          |           3|         32.2291|           1.6489|        0.1360|         0.7404|      0.0296|        0.0077|      0.0945| 83.1000|
+|/players/940442/thomas-doyle       |           3|         31.3003|           1.7988|        0.8163|         1.7549|      0.1169|        0.0722|      0.1312| 78.0000|
+|/players/540963/sander-berge       |           3|         39.1332|           1.3972|        0.1981|         1.2140|      0.1724|        0.1123|      0.0729| 90.0000|
+|/players/210971/oliver-norwood     |           3|         55.7777|           2.0449|        0.2663|         1.1124|      0.0913|        0.0795|      0.1960| 90.0000|
+|/players/509151/oliver-mcburnie    |           5|         22.0737|           0.3991|        1.4315|         3.0715|      0.4910|        0.4372|      0.1252| 81.7097|
+|/players/965764/iliman-ndiaye      |           5|         21.2110|           0.8152|        0.5594|         1.7791|      0.2495|        0.3162|      0.1350| 79.3529|
+|/players/1258092/william-osula     |           0|              NA|               NA|        0.2745|         0.5644|      0.1202|        0.1660|      0.0009| 12.0000|
+|/players/1107648/james-mcatee      |           0|              NA|               NA|        0.0369|         0.0844|      0.0027|        0.0154|      0.0501| 10.6471|
+|/players/1253827/daniel-jebbison   |           0|              NA|               NA|        0.1768|         0.4039|      0.0766|        0.0108|      0.0082|  8.2903|
+|/players/161414/ciaran-clark       |           0|              NA|               NA|        0.0000|         0.1591|      0.0233|        0.0000|      0.0022|  6.9000|
+
+
+|manager_name       | approx_games| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Paul Heckingbottom |     68.29394|      6.507971|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Watford:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/203964/daniel-bachmann    |           0|         26.9198|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/149219/christian-kabasele |           1|         32.3246|           0.9829|        0.0869|         0.1751|      0.0157|        0.0173|      0.0167| 90.0000|
+|/players/488415/hassane-kamara     |           1|         35.2995|           2.5196|        0.0869|         0.5236|      0.0381|        0.0173|      0.0867| 90.0000|
+|/players/770998/ryan-porteous      |           1|         46.3422|           1.3478|        0.1619|         0.6243|      0.0843|        0.0600|      0.0379| 90.0000|
+|/players/465628/wesley-hoedt       |           1|         51.9232|           1.0265|        0.0912|         0.3166|      0.0223|        0.0199|      0.0179| 83.8372|
+|/players/909803/edo-kayembe        |           2|         42.3030|           1.5212|        0.2142|         1.0096|      0.0683|        0.0392|      0.0385| 90.0000|
+|/players/728123/hamza-choudhury    |           2|         38.0923|           2.4892|        0.1831|         0.4405|      0.0179|        0.0335|      0.0700| 76.9091|
+|/players/1288119/ismael-kone       |           3|         31.8944|           1.0277|        0.3541|         0.8711|      0.0438|        0.0287|      0.0404| 72.3333|
+|/players/771294/ismaila-sarr       |           3|         21.6281|           0.8004|        0.9192|         2.6132|      0.2960|        0.2932|      0.0924| 90.0000|
+|/players/520670/ken-sema           |           3|         23.6867|           2.0432|        0.1817|         0.8938|      0.0648|        0.0740|      0.1517| 90.0000|
+|/players/724368/keinan-davis       |           5|         15.9544|           0.6390|        0.5806|         1.6015|      0.2352|        0.2249|      0.0538| 75.5882|
+|/players/1277380/yaser-asprilla    |           0|              NA|               NA|        0.0854|         0.2686|      0.0239|        0.0090|      0.0158| 17.6667|
+|/players/1192386/henrique-araujo   |           0|              NA|               NA|        0.2002|         0.4535|      0.0974|        0.0949|      0.0151| 14.4118|
+|/players/1021382/joao-pedro        |           0|              NA|               NA|        0.0402|         0.1139|      0.0072|        0.0070|      0.0036| 13.0909|
+|/players/183185/mario-gaspar       |           0|              NA|               NA|        0.0000|         0.0385|      0.0043|        0.0000|      0.0012|  6.1628|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Slaven Bilic |     35.75152|      4.133636|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3915635/Soccer_Models'...
+Receiving objects:   1% (45/4449),   63 kb
+Receiving objects:  11% (490/4449),  127 kb
+Receiving objects:  21% (935/4449),  183 kb
+Receiving objects:  31% (1380/4449),  351 kb
+Receiving objects:  41% (1825/4449),  856 kb
+Receiving objects:  51% (2269/4449),  968 kb
+Receiving objects:  61% (2714/4449), 1360 kb
+Receiving objects:  71% (3159/4449), 10229 kb
+Receiving objects:  81% (3604/4449), 10509 kb
+Receiving objects:  91% (4049/4449), 10789 kb
+Receiving objects: 100% (4449/4449), 11118 kb, done.
