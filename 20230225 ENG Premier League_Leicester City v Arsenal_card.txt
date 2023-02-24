@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-24 06:22:09.688"
+[1] "Updated at 2023-02-24 06:41:05.743"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -47,6 +47,18 @@
 [1] "_____________________________________________________________________________________________________________________________"
                            bet           date_time
 1 under Leicester City/Arsenal 2023-02-25 07:00:00
+
+
+|player             |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Granit Xhaka       |ARS  |     49| 1.89|          NA|  0.8156|   0.2865|passes    |ENG England |      0.5291|         NA|        NA|         NA|       NA|
+|Granit Xhaka       |ARS  |     53| 2.36|          NA|  0.6368|   0.2131|passes    |ENG England |      0.4237|         NA|        NA|         NA|       NA|
+|Granit Xhaka       |ARS  |     45| 1.54|          NA|  0.9282|   0.2788|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
+|Gabriel Martinelli |ARS  |     29| 1.82|          NA|  0.9181|   0.3686|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
+|Gabriel Martinelli |ARS  |     33| 2.26|          NA|  0.7587|   0.3162|passes    |ENG England |      0.4425|         NA|        NA|         NA|       NA|
+|Gabriel Martinelli |ARS  |     37| 2.71|          NA|  0.5154|   0.1464|passes    |ENG England |      0.3690|         NA|        NA|         NA|       NA|
+|Gabriel Martinelli |ARS  |     25| 1.50|          NA|  0.9827|   0.3160|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
+|Eddie Nketiah      |ARS  |     12| 1.40|          NA|  0.9054|   0.1911|passes    |ENG England |      0.7143|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -139,14 +151,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Mikel Arteta |     118.6667|      8.733618|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901177/Soccer_Models'...
-Receiving objects:   1% (46/4518),   63 kb
-Receiving objects:  11% (497/4518),  127 kb
-Receiving objects:  21% (949/4518),  183 kb
-Receiving objects:  31% (1401/4518),  351 kb
-Receiving objects:  41% (1853/4518),  848 kb
-Receiving objects:  51% (2305/4518), 1016 kb
-Receiving objects:  61% (2756/4518), 1408 kb
-Receiving objects:  71% (3208/4518), 10261 kb
-Receiving objects:  81% (3660/4518), 10598 kb
-Receiving objects:  91% (4112/4518), 10766 kb
-Receiving objects: 100% (4518/4518), 11184 kb, done.
+Receiving objects:   1% (46/4536),   63 kb
+Receiving objects:  11% (499/4536),  127 kb
+Receiving objects:  21% (953/4536),  183 kb
+Receiving objects:  31% (1407/4536),  351 kb
+Receiving objects:  41% (1860/4536),  856 kb
+Receiving objects:  51% (2314/4536), 1024 kb
+Receiving objects:  61% (2767/4536), 1416 kb
+Receiving objects:  71% (3221/4536), 10269 kb
+Receiving objects:  81% (3675/4536), 10550 kb
+Receiving objects:  91% (4128/4536), 10774 kb
+Receiving objects: 100% (4536/4536), 11198 kb, done.
