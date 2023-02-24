@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-23 08:14:12.994"
+[1] "Updated at 2023-02-23 21:07:26.775"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,14 +34,14 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 45.24%; max % is 47.84 and min % is 42.31%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 54.76%; max % is 57.69 and min % is 52.16%."
 [1] "--Sportsbook Odds--"
-[1] "Leicester City Barstool Odds are: 21.05"
+[1] "Leicester City Barstool Odds are: 20.83"
 [1] "The Barstool Odds of a Draw are: 25"
 [1] "Arsenal Barstool Odds are: 58.82"
-[1] "Leicester City Adjusted Barstool Odds are: 20.072"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.839"
-[1] "Arsenal Adjusted Barstool Odds are: 56.088"
-[1] "Leicester City's Barstool Odds to cover the 0.5 spread are: 46.08"
-[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 58.14"
+[1] "Leicester City Adjusted Barstool Odds are: 19.904"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.889"
+[1] "Arsenal Adjusted Barstool Odds are: 56.206"
+[1] "Leicester City's Barstool Odds to cover the 0.5 spread are: 45.87"
+[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 58.48"
 [1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -50,6 +50,16 @@
 2  draw Leicester City/Arsenal 2023-02-25 07:00:00
 3 under Leicester City/Arsenal 2023-02-25 07:00:00
 4           Leicester City ATS 2023-02-25 07:00:00
+
+
+|player       |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Bukayo Saka  |ARS  |     27| 1.50|          NA|  0.7773|   0.1106|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
+|Granit Xhaka |ARS  |     49| 1.89|          NA|  0.7949|   0.2658|passes    |ENG England |      0.5291|         NA|        NA|         NA|       NA|
+|Granit Xhaka |ARS  |     53| 2.36|          NA|  0.6078|   0.1841|passes    |ENG England |      0.4237|         NA|        NA|         NA|       NA|
+|Granit Xhaka |ARS  |     45| 1.54|          NA|  0.9175|   0.2681|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
+|Patson Daka  |LEI  |     13| 1.82|          NA|  0.8254|   0.2759|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
+|Patson Daka  |LEI  |      9| 1.49|          NA|  0.9790|   0.3079|passes    |ENG England |      0.6711|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -71,17 +81,17 @@
 |/players/776151/ben-white             |Arsenal        |      0.001550|   0.0500000|    |
 |/players/795179/gabriel               |Arsenal        |      0.077850|   0.1052632|    |
 |/players/955406/william-saliba        |Arsenal        |      0.045300|   0.0833333|    |
-|/players/434325/thomas-partey         |Arsenal        |      0.012150|   0.1428571|    |
+|/players/434325/thomas-partey         |Arsenal        |      0.012150|   0.1333333|    |
 |/players/207236/granit-xhaka          |Arsenal        |      0.140850|   0.1666667|    |
 |/players/1021586/gabriel-martinelli   |Arsenal        |      0.205850|   0.3333333|    |
 |/players/961995/bukayo-saka           |Arsenal        |      0.198000|   0.3125000|    |
-|/players/534670/martin-degaard        |Arsenal        |      0.137550|   0.2857143|    |
+|/players/534670/martin-degaard        |Arsenal        |      0.137550|   0.2777778|    |
 |/players/576165/gabriel-jesus         |Arsenal        |      0.354775|   0.0769231|*   |
 |/players/286119/jamie-vardy           |Leicester City |      0.037525|   0.3508772|    |
 |/players/643709/kelechi-iheanacho     |Leicester City |      0.011200|   0.3125000|    |
 |/players/282012/dennis-praet          |Leicester City |      0.000000|   0.0833333|    |
 |/players/760359/harvey-barnes         |Leicester City |      0.007250|   0.2083333|    |
-|/players/318615/leandro-trossard      |Arsenal        |      0.039925|   0.3389831|    |
+|/players/318615/leandro-trossard      |Arsenal        |      0.039925|   0.3333333|    |
 |/players/1025462/fabio-vieira         |Arsenal        |      0.026225|   0.2222222|    |
 |/players/860920/edward-nketiah        |Arsenal        |      0.012400|   0.3846154|    |
 |/players/623621/oleksandr-zinchenko   |Arsenal        |      0.000000|   0.0909091|    |
@@ -142,14 +152,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Mikel Arteta |     118.6667|      8.733618|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901177/Soccer_Models'...
-Receiving objects:   1% (44/4374),   63 kb
-Receiving objects:  11% (482/4374),  127 kb
-Receiving objects:  21% (919/4374),  183 kb
-Receiving objects:  31% (1356/4374),  351 kb
-Receiving objects:  41% (1794/4374),  800 kb
-Receiving objects:  51% (2231/4374),  912 kb
-Receiving objects:  61% (2669/4374), 1304 kb
-Receiving objects:  71% (3106/4374), 10213 kb
-Receiving objects:  81% (3543/4374), 10493 kb
-Receiving objects:  91% (3981/4374), 10774 kb
-Receiving objects: 100% (4374/4374), 11057 kb, done.
+Receiving objects:   1% (45/4476),   63 kb
+Receiving objects:  11% (493/4476),  127 kb
+Receiving objects:  21% (940/4476),  183 kb
+Receiving objects:  31% (1388/4476),  351 kb
+Receiving objects:  41% (1836/4476),  856 kb
+Receiving objects:  51% (2283/4476),  968 kb
+Receiving objects:  61% (2731/4476), 1360 kb
+Receiving objects:  71% (3178/4476), 10269 kb
+Receiving objects:  81% (3626/4476), 10550 kb
+Receiving objects:  91% (4074/4476), 10782 kb
+Receiving objects: 100% (4476/4476), 11158 kb, done.
