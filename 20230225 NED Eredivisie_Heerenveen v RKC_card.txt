@@ -1,0 +1,154 @@
+[1] "Updated at 2023-02-24 07:54:05.696"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Heerenveen 1.3119 to RKC 1.1298"
+[1] "Total: 2.4417"
+[1] "Heerenveen %: 41.19"
+[1] "Draw %: 27.04"
+[1] "RKC %: 31.77"
+[1] "--XG Model--"
+[1] "Score: Heerenveen 1.3907 to RKC 1.1727"
+[1] "Total: 2.5634"
+[1] "Heerenveen %: 42.27"
+[1] "Draw %: 26.29"
+[1] "RKC %: 31.44"
+[1] "--XGoT Model--"
+[1] "Score: Heerenveen 1.3907 to RKC 1.2307"
+[1] "Total: 2.6214"
+[1] "Heerenveen %: 40.81"
+[1] "Draw %: 26.23"
+[1] "RKC %: 32.96"
+[1] "--XA Model--"
+[1] "Score: Heerenveen 1.2305 to RKC 1.2162"
+[1] "Total: 2.4467"
+[1] "Heerenveen %: 36.42"
+[1] "Draw %: 27.85"
+[1] "RKC %: 35.73"
+[1] "--Mean 4 Models--"
+[1] "Heerenveen has a mean win % of 40.17%; a min win % of 36.42%; a max win % of 42.27%."
+[1] "Draw has a mean win % of 26.85%; a min win % of 26.23%; a max win % of 27.85%."
+[1] "RKC has a mean win % of 32.98%; a min win % of 31.44%; a max win of % 35.73%."
+[1] "Heerenveen has a mean win of the Double Chance of 67.03%; a min win % of 64.27%, a max win % of 68.56%."
+[1] "RKC has a mean win of the Double Chance of 59.83%; a min win % of 57.73%, a max win % of 63.58%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45%; max % is 47.55 and min % is 43.02%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55%; max % is 56.98 and min % is 52.45%."
+[1] "--Sportsbook Odds--"
+[1] "Heerenveen Barstool Odds are: 54.05"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "RKC Barstool Odds are: 25.64"
+[1] "Heerenveen Adjusted Barstool Odds are: 50.647"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.328"
+[1] "RKC Adjusted Barstool Odds are: 24.025"
+[1] "Heerenveen's Barstool Odds to cover the -0.5 spread are: 52.91"
+[1] "RKC's Barstool Odds to cover the 0.5 spread are: 51.55"
+[1] "Barstool's line for the total is 2.5 at 1.84, which is a 54.35% chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                   bet           date_time
+1                  RKC 2023-02-25 09:45:00
+2 under Heerenveen/RKC 2023-02-25 09:45:00
+3              RKC ATS 2023-02-25 09:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                    |team       | expected_attg| expected_gs|bet |
+|:-------------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/562850/xavier-mous                 |Heerenveen |      0.000000|   0.3773585|    |
+|/players/1074750/milan-van-ewijk            |Heerenveen |      0.020375|   0.1428571|    |
+|/players/184821/jeffrey-bruma               |Heerenveen |      0.021475|   0.0666667|    |
+|/players/492494/pawel-bochniewicz           |Heerenveen |      0.053725|   0.1176471|    |
+|/players/772083/rami-kaib                   |Heerenveen |      0.017675|   0.0666667|    |
+|/players/521272/anas-tahiri                 |Heerenveen |      0.017100|   0.1818182|    |
+|/players/384446/thom-haye                   |Heerenveen |      0.068975|   0.1538462|    |
+|/players/749490/che-nunnely                 |Heerenveen |      0.273625|   0.2380952|    |
+|/players/792690/simon-olsson                |Heerenveen |      0.141125|   0.2127660|    |
+|/players/788379/mats-khlert                 |Heerenveen |      0.109250|   0.1818182|    |
+|/players/949481/sydney-van-hooijdonk        |Heerenveen |      0.297575|   0.3921569|    |
+|/players/1098594/julen-lobete               |RKC        |      0.258425|   0.2631579|    |
+|/players/279116/mats-seuntjens              |RKC        |      0.271975|   0.2702703|    |
+|/players/213682/iiass-bel-hassani           |RKC        |      0.085225|   0.2325581|    |
+|/players/1073472/thierry-lutonda            |RKC        |      0.054075|   0.0714286|    |
+|/players/109652/vurnon-anita                |RKC        |      0.028825|   0.1052632|    |
+|/players/637741/pelle-clement               |RKC        |      0.062225|   0.1785714|    |
+|/players/660153/julian-lelieveld            |RKC        |      0.054675|   0.0714286|    |
+|/players/912071/shawn-adewoye               |RKC        |      0.031725|   0.0625000|    |
+|/players/467020/lars-nieuwpoort             |RKC        |      0.030150|   0.0714286|    |
+|/players/708738/jurien-gaari                |RKC        |      0.031325|   0.0416667|    |
+|/players/665170/etienne-vaessen             |RKC        |      0.000000|   0.2564103|    |
+|/players/836685/alexander-timossi-andersson |Heerenveen |      0.022225|   0.2777778|    |
+|/players/1027551/rami-al-hajj               |Heerenveen |      0.063700|   0.2272727|    |
+|/players/1127251/antoine-colassin           |Heerenveen |      0.008200|   0.2941176|    |
+|/players/988160/osame-sahraoui              |Heerenveen |      0.012100|   0.3030303|    |
+|/players/1079931/patrick-vroegh             |RKC        |      0.054375|   0.1851852|    |
+|/players/1183553/luuk-wouters               |RKC        |      0.000000|   0.0625000|    |
+|/players/1222734/roy-kuijpers               |RKC        |      0.044025|   0.2500000|    |
+|/players/1119702/yassin-oukili              |RKC        |      0.000000|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about Heerenveen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                    | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/562850/xavier-mous                 |           0|         32.6139|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1074750/milan-van-ewijk            |           1|         40.2999|           3.0136|        0.1187|         0.5067|      0.0413|        0.0283|      0.1092| 90.0000|
+|/players/184821/jeffrey-bruma               |           1|         53.8564|           0.6947|        0.1187|         0.2871|      0.0156|        0.0262|      0.0237| 90.0000|
+|/players/492494/pawel-bochniewicz           |           1|         58.8981|           1.6020|        0.1850|         0.5527|      0.0931|        0.0671|      0.0225| 90.0000|
+|/players/772083/rami-kaib                   |           1|         35.6690|           0.9450|        0.1307|         0.7811|      0.0471|        0.0227|      0.0906| 77.8750|
+|/players/521272/anas-tahiri                 |           2|         42.3258|           1.4459|        0.1499|         0.2427|      0.0241|        0.0195|      0.0516| 78.2500|
+|/players/384446/thom-haye                   |           2|         51.7914|           2.6650|        0.3885|         1.7473|      0.1253|        0.0938|      0.1040| 90.0000|
+|/players/749490/che-nunnely                 |           3|         21.4740|           0.9045|        0.8199|         2.1703|      0.3331|        0.3810|      0.1345| 90.0000|
+|/players/792690/simon-olsson                |           3|         35.7550|           1.1897|        0.5815|         1.5113|      0.2063|        0.1859|      0.1528| 80.5152|
+|/players/788379/mats-khlert                 |           3|         33.6980|           1.8146|        0.7477|         2.0780|      0.1079|        0.1385|      0.1592| 80.7857|
+|/players/949481/sydney-van-hooijdonk        |           5|         21.2634|           0.6749|        1.1054|         2.7987|      0.4578|        0.4280|      0.0975| 90.0000|
+|/players/836685/alexander-timossi-andersson |          NA|              NA|               NA|        0.1167|         0.2256|      0.0275|        0.0255|      0.0111| 12.1250|
+|/players/1027551/rami-al-hajj               |          NA|              NA|               NA|        0.1202|         0.2323|      0.0506|        0.0822|      0.0209| 11.7500|
+|/players/1127251/antoine-colassin           |          NA|              NA|               NA|        0.0488|         0.4242|      0.0390|        0.0111|      0.0038|  9.4848|
+|/players/988160/osame-sahraoui              |          NA|              NA|               NA|        0.0479|         0.1388|      0.0280|        0.0155|      0.0287|  9.2143|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Kees van Wonderen |     50.90909|     -8.176667|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about RKC:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1098594/julen-lobete     |           5|         14.1995|           0.3147|        0.6663|         2.0792|      0.3391|        0.3232|      0.0454| 75.2857|
+|/players/279116/mats-seuntjens    |           5|         27.4500|           1.1393|        1.0275|         1.9238|      0.2592|        0.3513|      0.1772| 90.0000|
+|/players/213682/iiass-bel-hassani |           4|         25.6751|           1.0457|        0.4128|         1.2946|      0.1205|        0.1011|      0.1231| 70.2500|
+|/players/1073472/thierry-lutonda  |           3|         30.0769|           2.5324|        0.2779|         0.9493|      0.0998|        0.0596|      0.0438| 80.0000|
+|/players/109652/vurnon-anita      |           3|         41.1203|           1.5799|        0.0816|         0.3583|      0.0332|        0.0321|      0.0470| 90.0000|
+|/players/637741/pelle-clement     |           3|         32.5070|           1.2712|        0.4367|         1.2786|      0.0801|        0.0735|      0.0982| 78.0952|
+|/players/660153/julian-lelieveld  |           3|         38.1933|           2.5603|        0.0816|         0.4936|      0.0392|        0.0605|      0.2138| 90.0000|
+|/players/912071/shawn-adewoye     |           1|         39.9118|           1.9926|        0.1207|         0.5316|      0.0581|        0.0357|      0.0070| 90.0000|
+|/players/467020/lars-nieuwpoort   |           1|         43.5914|           1.2904|        0.1207|         0.5921|      0.0477|        0.0357|      0.0223| 90.0000|
+|/players/708738/jurien-gaari      |           1|         48.1822|           1.8220|        0.1207|         0.2090|      0.0075|        0.0357|      0.0541| 90.0000|
+|/players/665170/etienne-vaessen   |           0|         35.2734|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1079931/patrick-vroegh   |          NA|              NA|               NA|        0.1361|         0.3877|      0.0500|        0.0595|      0.0160| 19.7500|
+|/players/1183553/luuk-wouters     |          NA|              NA|               NA|        0.0000|         0.1001|      0.0134|        0.0000|      0.0154| 14.7143|
+|/players/1222734/roy-kuijpers     |          NA|              NA|               NA|        0.1208|         0.2253|      0.0347|        0.0476|      0.0139| 11.9048|
+|/players/1119702/yassin-oukili    |          NA|              NA|               NA|        0.0000|         0.0689|      0.0102|        0.0000|      0.0114| 10.0000|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Joseph Oosting |      50.8798|     -12.41451|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3900545/Soccer_Models'...
+Receiving objects:   1% (46/4566),   63 kb
+Receiving objects:  11% (503/4566),  127 kb
+Receiving objects:  21% (959/4566),  183 kb
+Receiving objects:  31% (1416/4566),  407 kb
+Receiving objects:  41% (1873/4566),  856 kb
+Receiving objects:  51% (2329/4566), 1024 kb
+Receiving objects:  61% (2786/4566), 1416 kb
+Receiving objects:  71% (3242/4566), 10325 kb
+Receiving objects:  81% (3699/4566), 10606 kb
+Receiving objects:  91% (4156/4566), 10774 kb
+Receiving objects: 100% (4566/4566), 11226 kb, done.
