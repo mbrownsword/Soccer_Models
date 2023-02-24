@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-22 08:55:50.735"
+[1] "Updated at 2023-02-24 00:21:51.491"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Orlando City SC 1.2823 to New York Red Bulls 1.1214"
-[1] "Total: 2.4037"
-[1] "Orlando City SC %: 40.75"
-[1] "Draw %: 27.33"
-[1] "New York Red Bulls %: 31.92"
+[1] "Score: Orlando City SC 1.2816 to New York Red Bulls 1.113"
+[1] "Total: 2.3946"
+[1] "Orlando City SC %: 41.15"
+[1] "Draw %: 27.36"
+[1] "New York Red Bulls %: 31.49"
 [1] "--XG Model--"
-[1] "Score: Orlando City SC 1.355 to New York Red Bulls 1.0873"
-[1] "Total: 2.4423"
-[1] "Orlando City SC %: 43.38"
-[1] "Draw %: 26.3"
-[1] "New York Red Bulls %: 30.32"
+[1] "Score: Orlando City SC 1.3619 to New York Red Bulls 1.0891"
+[1] "Total: 2.451"
+[1] "Orlando City SC %: 43.49"
+[1] "Draw %: 26.23"
+[1] "New York Red Bulls %: 30.28"
 [1] "--XGoT Model--"
-[1] "Score: Orlando City SC 1.3988 to New York Red Bulls 1.1196"
-[1] "Total: 2.5184"
+[1] "Score: Orlando City SC 1.4063 to New York Red Bulls 1.118"
+[1] "Total: 2.5243"
 [1] "Orlando City SC %: 43.82"
-[1] "Draw %: 26.07"
-[1] "New York Red Bulls %: 30.11"
+[1] "Draw %: 26.09"
+[1] "New York Red Bulls %: 30.09"
 [1] "--XA Model--"
-[1] "Score: Orlando City SC 1.4469 to New York Red Bulls 1.1014"
-[1] "Total: 2.5483"
-[1] "Orlando City SC %: 45.01"
-[1] "Draw %: 25.76"
-[1] "New York Red Bulls %: 29.23"
+[1] "Score: Orlando City SC 1.4478 to New York Red Bulls 1.0946"
+[1] "Total: 2.5424"
+[1] "Orlando City SC %: 45.25"
+[1] "Draw %: 25.78"
+[1] "New York Red Bulls %: 28.97"
 [1] "--Mean 4 Models--"
-[1] "Orlando City SC has a mean win % of 43.24%; a min win % of 40.75%; a max win % of 45.01%."
-[1] "Draw has a mean win % of 26.36%; a min win % of 25.76%; a max win % of 27.33%."
-[1] "New York Red Bulls has a mean win % of 30.4%; a min win % of 29.23%; a max win of % 31.92%."
-[1] "Orlando City SC has a mean win of the Double Chance of 69.61%; a min win % of 68.08%, a max win % of 70.77%."
-[1] "New York Red Bulls has a mean win of the Double Chance of 56.76%; a min win % of 54.99%, a max win % of 59.25%."
-[1] "The mean likelihood that there are more than 2.5 goals is 43.89%; max % is 45.78 and min % is 41.91%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 56.11%; max % is 58.09 and min % is 54.22%."
+[1] "Orlando City SC has a mean win % of 43.43%; a min win % of 41.15%; a max win % of 45.25%."
+[1] "Draw has a mean win % of 26.36%; a min win % of 25.78%; a max win % of 27.36%."
+[1] "New York Red Bulls has a mean win % of 30.21%; a min win % of 28.97%; a max win of % 31.49%."
+[1] "Orlando City SC has a mean win of the Double Chance of 69.79%; a min win % of 68.51%, a max win % of 71.03%."
+[1] "New York Red Bulls has a mean win of the Double Chance of 56.57%; a min win % of 54.75%, a max win % of 58.85%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.79%; max % is 45.44 and min % is 41.71%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.21%; max % is 58.29 and min % is 54.56%."
 [1] "--Sportsbook Odds--"
 [1] "Orlando City SC Barstool Odds are: 42.55"
 [1] "The Barstool Odds of a Draw are: 30.77"
@@ -58,9 +58,9 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Oscar Pareja |        83252|    -0.0966667|4-2-3-1   |
+|Oscar Pareja |     84.09293|    -0.0966667|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about New York Red Bulls:"
@@ -71,6 +71,18 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name    | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name    | approx_games| m_avg_elo_dif|formation |
 |:---------------|------------:|-------------:|:---------|
-|Gerhard Struber |        73377|      1.204894|4-2-3-1   |
+|Gerhard Struber |     74.11818|      1.204894|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084681/Soccer_Models'...
+Receiving objects:   1% (46/4509),   63 kb
+Receiving objects:  11% (496/4509),  127 kb
+Receiving objects:  21% (947/4509),  183 kb
+Receiving objects:  31% (1398/4509),  351 kb
+Receiving objects:  41% (1849/4509),  856 kb
+Receiving objects:  51% (2300/4509), 1024 kb
+Receiving objects:  61% (2751/4509), 1360 kb
+Receiving objects:  71% (3202/4509), 10269 kb
+Receiving objects:  81% (3653/4509), 10549 kb
+Receiving objects:  91% (4104/4509), 10774 kb
+Receiving objects: 100% (4509/4509), 11178 kb, done.
