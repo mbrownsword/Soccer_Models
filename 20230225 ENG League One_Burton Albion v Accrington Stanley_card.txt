@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 14:16:01.591"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Burton Albion 1.449 to Accrington Stanley 1.1661"
+[1] "Total: 2.6151"
+[1] "Burton Albion %: 43.58"
+[1] "Draw %: 25.78"
+[1] "Accrington Stanley %: 30.64"
+[1] "--XG Model--"
+[1] "Score: Burton Albion 2.1719 to Accrington Stanley 1.5337"
+[1] "Total: 3.7056"
+[1] "Burton Albion %: 52.74"
+[1] "Draw %: 20.71"
+[1] "Accrington Stanley %: 26.55"
+[1] "--XGoT Model--"
+[1] "Score: Burton Albion 2.0831 to Accrington Stanley 1.3174"
+[1] "Total: 3.4005"
+[1] "Burton Albion %: 55.55"
+[1] "Draw %: 21.23"
+[1] "Accrington Stanley %: 23.22"
+[1] "--XA Model--"
+[1] "Score: Burton Albion 1.4588 to Accrington Stanley 1.1302"
+[1] "Total: 2.589"
+[1] "Burton Albion %: 44.84"
+[1] "Draw %: 25.54"
+[1] "Accrington Stanley %: 29.62"
+[1] "--Mean 4 Models--"
+[1] "Burton Albion has a mean win % of 49.18%; a min win % of 43.58%; a max win % of 55.55%."
+[1] "Draw has a mean win % of 23.32%; a min win % of 20.71%; a max win % of 25.78%."
+[1] "Accrington Stanley has a mean win % of 27.51%; a min win % of 23.22%; a max win of % 30.64%."
+[1] "Burton Albion has a mean win of the Double Chance of 72.49%; a min win % of 69.36%, a max win % of 76.78%."
+[1] "Accrington Stanley has a mean win of the Double Chance of 50.82%; a min win % of 44.45%, a max win % of 56.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 57.73%; max % is 71.2 and min % is 46.81%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 42.27%; max % is 53.19 and min % is 28.8%."
+[1] "--Sportsbook Odds--"
+[1] "Burton Albion Barstool Odds are: 54.95"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Accrington Stanley Barstool Odds are: 25"
+[1] "Burton Albion Adjusted Barstool Odds are: 51.007"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.787"
+[1] "Accrington Stanley Adjusted Barstool Odds are: 23.206"
+[1] "Burton Albion's Barstool Odds to cover the -0.5 spread are: 54.95"
+[1] "Accrington Stanley's Barstool Odds to cover the 0.5 spread are: 50.76"
+[1] "Barstool's line for the total is 2.5 at 1.93, which is a 51.81% chance of the over 2.5 hitting. The line for the under is 1.82, which is a 54.95% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team               | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/210799/ben-garratt               |Burton Albion      |      0.000000|   0.1538462|    |
+|/players/865152/sam-lavelle               |Burton Albion      |      0.004000|   0.1000000|    |
+|/players/877647/thomas-hamer              |Burton Albion      |      0.004400|   0.1333333|    |
+|/players/45548/john-brayford              |Burton Albion      |      0.083825|   0.1333333|    |
+|/players/678164/sam-hughes                |Burton Albion      |      0.061300|   0.1176471|    |
+|/players/500882/adedeji-oshilaja          |Burton Albion      |      0.059525|   0.1694915|    |
+|/players/1055829/terry-taylor             |Burton Albion      |      0.055225|   0.1333333|    |
+|/players/654102/joe-powell                |Burton Albion      |      0.032275|   0.2857143|    |
+|/players/693138/cameron-borthwick-jackson |Burton Albion      |      0.028925|   0.2702703|    |
+|/players/720454/jonny-smith               |Burton Albion      |      0.419400|   0.3225806|*   |
+|/players/724382/charlie-kirk              |Burton Albion      |      0.318850|   0.2631579|*   |
+|/players/937535/lukas-bornhft-jensen      |Accrington Stanley |      0.000000|   0.1250000|    |
+|/players/867082/mitchell-clark            |Accrington Stanley |      0.025550|   0.0769231|    |
+|/players/966016/ryan-astley               |Accrington Stanley |      0.034425|   0.0666667|    |
+|/players/787216/harvey-rodgers            |Accrington Stanley |      0.016425|   0.0833333|    |
+|/players/24143/shaun-whalley              |Accrington Stanley |      0.014300|   0.2325581|    |
+|/players/873019/joe-pritchard             |Accrington Stanley |      0.135875|   0.1923077|    |
+|/players/1273274/liam-coyle               |Accrington Stanley |      0.002725|   0.0952381|    |
+|/players/923281/ethan-hamilton            |Accrington Stanley |      0.065700|   0.1818182|    |
+|/players/164850/sean-mcconville           |Accrington Stanley |      0.096650|   0.1754386|    |
+|/players/1089684/aaron-pressley           |Accrington Stanley |      0.281875|   0.2564103|    |
+|/players/1113728/tommy-leigh              |Accrington Stanley |      0.147700|   0.2500000|    |
+|/players/239919/sam-winnall               |Burton Albion      |      0.246250|   0.3333333|    |
+|/players/94808/mustapha-carayol           |Burton Albion      |      0.000000|   0.2564103|    |
+|/players/1093046/gassan-ahadme            |Burton Albion      |      0.072700|   0.3225806|    |
+|/players/1206309/bobby-kamwa              |Burton Albion      |      0.057500|   0.3333333|    |
+|/players/770268/rosaire-longelo           |Accrington Stanley |      0.072175|   0.1250000|    |
+|/players/1075248/korede-adedoyin          |Accrington Stanley |      0.168600|   0.2222222|    |
+|/players/119521/seamus-conneely           |Accrington Stanley |      0.000000|   0.1052632|    |
+|/players/1283966/josh-woods               |Accrington Stanley |      0.036650|   0.2325581|    |
+____________________________________________________
+
+[1] "Facts about Burton Albion:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/210799/ben-garratt               |           0|         24.0081|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/865152/sam-lavelle               |           1|         43.0112|           1.2999|        0.0609|         0.4669|      0.0125|        0.0053|      0.0018| 90.0000|
+|/players/877647/thomas-hamer              |           1|         51.2857|           2.7674|        0.1461|         0.4549|      0.0233|        0.0053|      0.1427| 90.0000|
+|/players/45548/john-brayford              |           1|         46.6153|           1.1363|        0.2401|         0.9249|      0.1008|        0.1137|      0.0367| 90.0000|
+|/players/678164/sam-hughes                |           1|         47.0928|           0.7290|        0.2560|         0.6839|      0.0769|        0.0777|      0.0640| 90.0000|
+|/players/500882/adedeji-oshilaja          |           2|         42.1796|           1.3066|        0.2615|         1.1536|      0.1284|        0.0753|      0.0522| 82.5455|
+|/players/1055829/terry-taylor             |           2|         42.9445|           2.5665|        0.2606|         0.7251|      0.0205|        0.0751|      0.1297| 82.2857|
+|/players/654102/joe-powell                |           3|         30.4677|           0.7170|        0.6398|         2.5853|      0.4649|        0.0405|      0.1906| 82.8095|
+|/players/693138/cameron-borthwick-jackson |           3|         26.1152|           1.1293|        0.2879|         0.7914|      0.0069|        0.0372|      0.0449| 76.0000|
+|/players/720454/jonny-smith               |           3|         23.7735|           1.5966|        1.4679|         2.9192|      0.1904|        0.6824|      0.2105| 90.0000|
+|/players/724382/charlie-kirk              |           5|         17.7535|           0.5307|        1.1535|         2.8089|      0.4203|        0.4764|      0.0798| 90.0000|
+|/players/239919/sam-winnall               |           0|              NA|               NA|        0.2131|         0.5752|      0.5163|        0.3613|      0.0167| 14.0000|
+|/players/94808/mustapha-carayol           |           0|              NA|               NA|        0.0000|         0.1147|      0.0068|        0.0000|      0.0268|  7.7143|
+|/players/1093046/gassan-ahadme            |           0|              NA|               NA|        0.0661|         0.1552|      0.1012|        0.0935|      0.0019|  7.4545|
+|/players/1206309/bobby-kamwa              |           0|              NA|               NA|        0.0650|         0.0610|      0.0332|        0.0721|      0.0021|  7.1905|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Dino Maamria |     21.97778|     -5.624722|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Accrington Stanley:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/937535/lukas-bornhft-jensen |           0|         29.8483|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/867082/mitchell-clark       |           1|         35.7783|           0.9474|        0.0423|         0.2559|      0.0063|        0.0247|      0.0423| 90.0000|
+|/players/966016/ryan-astley          |           1|         43.7188|           2.1426|        0.1896|         0.5967|      0.0648|        0.0354|      0.0054| 90.0000|
+|/players/787216/harvey-rodgers       |           1|         37.3215|           1.2215|        0.1070|         0.4998|      0.0339|        0.0176|      0.0226| 90.0000|
+|/players/24143/shaun-whalley         |           3|         25.0980|           1.3876|        0.1879|         0.8606|      0.0320|        0.0138|      0.0829| 78.1538|
+|/players/873019/joe-pritchard        |           3|         26.1000|           1.4302|        0.2762|         1.2381|      0.1315|        0.1447|      0.0386| 86.0435|
+|/players/1273274/liam-coyle          |           3|         33.9443|           2.7939|        0.2164|         0.2434|      0.0089|        0.0026|      0.0831| 90.0000|
+|/players/923281/ethan-hamilton       |           3|         31.7519|           2.0362|        0.3357|         1.2167|      0.0459|        0.0620|      0.0283| 90.0000|
+|/players/164850/sean-mcconville      |           3|         39.7128|           1.3908|        0.2935|         0.9303|      0.0977|        0.0993|      0.1738| 90.0000|
+|/players/1089684/aaron-pressley      |           5|         15.8946|           0.5389|        0.9661|         1.1658|      0.3510|        0.3191|      0.0389| 78.3000|
+|/players/1113728/tommy-leigh         |           5|         19.6394|           0.8083|        0.5521|         2.9675|      0.1255|        0.1515|      0.1055| 84.4000|
+|/players/770268/rosaire-longelo      |           0|              NA|               NA|        0.0421|         0.1161|      0.0463|        0.0731|      0.0089| 11.8462|
+|/players/1075248/korede-adedoyin     |           0|              NA|               NA|        0.1427|         0.4326|      0.3328|        0.1771|      0.0014| 11.7000|
+|/players/119521/seamus-conneely      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0035|  5.6000|
+|/players/1283966/josh-woods          |           0|              NA|               NA|        0.0435|         0.1200|      0.0293|        0.0386|      0.0170|  3.9565|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|John Coleman |     29.89697|        -5.224|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916253/Soccer_Models'...
+Receiving objects:   1% (47/4614),   63 kb
+Receiving objects:  11% (508/4614),  127 kb
+Receiving objects:  21% (969/4614),  239 kb
+Receiving objects:  31% (1431/4614),  383 kb
+Receiving objects:  41% (1892/4614),  832 kb
+Receiving objects:  51% (2354/4614), 1056 kb
+Receiving objects:  61% (2815/4614), 1448 kb
+Receiving objects:  71% (3276/4614), 10301 kb
+Receiving objects:  81% (3738/4614), 10638 kb
+Receiving objects:  91% (4199/4614), 10806 kb
+Receiving objects: 100% (4614/4614), 11258 kb, done.
