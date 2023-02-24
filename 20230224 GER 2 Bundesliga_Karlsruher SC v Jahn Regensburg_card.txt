@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 08:40:54.367"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Karlsruher SC 1.5505 to Jahn Regensburg 1.3048"
+[1] "Total: 2.8553"
+[1] "Karlsruher SC %: 43.57"
+[1] "Draw %: 24.71"
+[1] "Jahn Regensburg %: 31.72"
+[1] "--XG Model--"
+[1] "Score: Karlsruher SC 1.4976 to Jahn Regensburg 1.1725"
+[1] "Total: 2.6701"
+[1] "Karlsruher SC %: 44.86"
+[1] "Draw %: 25.19"
+[1] "Jahn Regensburg %: 29.95"
+[1] "--XGoT Model--"
+[1] "Score: Karlsruher SC 1.8102 to Jahn Regensburg 1.103"
+[1] "Total: 2.9132"
+[1] "Karlsruher SC %: 54.49"
+[1] "Draw %: 22.86"
+[1] "Jahn Regensburg %: 22.65"
+[1] "--XA Model--"
+[1] "Score: Karlsruher SC 1.8317 to Jahn Regensburg 1.2584"
+[1] "Total: 3.0901"
+[1] "Karlsruher SC %: 51.08"
+[1] "Draw %: 23.57"
+[1] "Jahn Regensburg %: 25.35"
+[1] "--Mean 4 Models--"
+[1] "Karlsruher SC has a mean win % of 48.5%; a min win % of 43.57%; a max win % of 54.49%."
+[1] "Draw has a mean win % of 24.08%; a min win % of 22.86%; a max win % of 25.19%."
+[1] "Jahn Regensburg has a mean win % of 27.42%; a min win % of 22.65%; a max win of % 31.72%."
+[1] "Karlsruher SC has a mean win of the Double Chance of 72.58%; a min win % of 68.28%, a max win % of 77.35%."
+[1] "Jahn Regensburg has a mean win of the Double Chance of 51.5%; a min win % of 45.51%, a max win % of 56.43%."
+[1] "The mean likelihood that there are more than 2.5 goals is 54.12%; max % is 58.79 and min % is 49.01%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 45.88%; max % is 50.99 and min % is 41.21%."
+[1] "--Sportsbook Odds--"
+[1] "Karlsruher SC Barstool Odds are: 57.14"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Jahn Regensburg Barstool Odds are: 23.53"
+[1] "Karlsruher SC Adjusted Barstool Odds are: 53.407"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.6"
+[1] "Jahn Regensburg Adjusted Barstool Odds are: 21.993"
+[1] "Karlsruher SC's Barstool Odds to cover the -0.5 spread are: 56.5"
+[1] "Jahn Regensburg's Barstool Odds to cover the 0.5 spread are: 48.31"
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-24 09:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team            | expected_attg| expected_gs|bet |
+|:-------------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/434259/marius-gersbeck       |Karlsruher SC   |      0.000000|   0.0666667|    |
+|/players/167065/sebastian-jung        |Karlsruher SC   |      0.207500|   0.0714286|*   |
+|/players/900537/stephan-ambrosius     |Karlsruher SC   |      0.052775|   0.0588235|    |
+|/players/208243/marcel-franke         |Karlsruher SC   |      0.055175|   0.0769231|    |
+|/players/276700/philip-heise          |Karlsruher SC   |      0.278850|   0.1052632|*   |
+|/players/335436/jrome-gondorf         |Karlsruher SC   |      0.063100|   0.1538462|    |
+|/players/1201713/tim-breithaupt       |Karlsruher SC   |      0.055500|   0.1250000|    |
+|/players/1175939/paul-nebel           |Karlsruher SC   |      0.049500|   0.2040816|    |
+|/players/458998/marvin-wanitzek       |Karlsruher SC   |      0.426350|   0.3571429|*   |
+|/players/945935/mikkel-kaufmann       |Karlsruher SC   |      0.000150|   0.3703704|    |
+|/players/686112/fabian-schleusener    |Karlsruher SC   |      0.000225|   0.4000000|    |
+|/players/664554/aygun-yildirim        |Jahn Regensburg |      0.000175|   0.2222222|    |
+|/players/1030987/minos-gouras         |Jahn Regensburg |      0.200750|   0.2000000|    |
+|/players/179877/andreas-albers        |Jahn Regensburg |      0.215550|   0.3030303|    |
+|/players/724531/sarpreet-singh        |Jahn Regensburg |      0.192325|   0.1754386|    |
+|/players/667788/benedikt-gimber       |Jahn Regensburg |      0.114175|   0.0952381|    |
+|/players/773933/maximilian-thalhammer |Jahn Regensburg |      0.105925|   0.1111111|    |
+|/players/637199/leon-guwara           |Jahn Regensburg |      0.014200|   0.0384615|    |
+|/players/560410/jan-elvedi            |Jahn Regensburg |      0.041425|   0.0625000|    |
+|/players/215164/sebastian-nachreiner  |Jahn Regensburg |      0.015450|   0.0303030|    |
+|/players/1002652/konrad-faber         |Jahn Regensburg |      0.012400|   0.0555556|    |
+|/players/1285872/jonas-urbig          |Jahn Regensburg |      0.000000|   0.0400000|    |
+|/players/232110/simone-rapp           |Karlsruher SC   |      0.166150|   0.0000000|*   |
+|/players/958204/malik-batmaz          |Karlsruher SC   |      0.000000|   0.0000000|    |
+|/players/861662/christoph-kobald      |Karlsruher SC   |      0.000000|   0.0000000|    |
+|/players/94915/daniel-brosinski       |Karlsruher SC   |      0.000000|   0.0000000|    |
+|/players/1245692/lasse-gnther         |Jahn Regensburg |      0.000000|   0.0000000|    |
+|/players/659094/prince-osei-owusu     |Jahn Regensburg |      0.122075|   0.0000000|*   |
+|/players/956033/blendi-idrizi         |Jahn Regensburg |      0.000000|   0.0000000|    |
+|/players/848670/christian-viet        |Jahn Regensburg |      0.000000|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Karlsruher SC:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/434259/marius-gersbeck    |           0|         36.9399|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/167065/sebastian-jung     |           1|         41.3366|           0.7660|        0.2851|         0.5335|      0.2444|        0.2791|      0.0805| 90.0000|
+|/players/900537/stephan-ambrosius  |           1|         60.2050|           2.5523|        0.1663|         0.5777|      0.0223|        0.0652|      0.0124| 90.0000|
+|/players/208243/marcel-franke      |           1|         50.9922|           0.9940|        0.1177|         0.3776|      0.0371|        0.0652|      0.0080| 90.0000|
+|/players/276700/philip-heise       |           1|         44.8659|           1.6991|        0.4427|         1.0113|      0.0589|        0.3698|      0.1462| 90.0000|
+|/players/335436/jrome-gondorf      |           2|         42.7621|           1.9358|        0.3896|         1.1888|      0.0615|        0.0762|      0.2487| 90.0000|
+|/players/1201713/tim-breithaupt    |           2|         45.6199|           1.3827|        0.3445|         0.8152|      0.1757|        0.0674|      0.0558| 79.5714|
+|/players/1175939/paul-nebel        |           3|         24.3207|           1.1235|        0.5655|         2.0554|      0.1709|        0.0576|      0.0928| 78.5000|
+|/players/458998/marvin-wanitzek    |           3|         33.3831|           1.6380|        1.0678|         2.5047|      0.4260|        0.6422|      0.3702| 90.0000|
+|/players/945935/mikkel-kaufmann    |           5|         16.2620|           1.0080|        0.5401|         1.6126|      0.0580|        0.0001|      0.0461| 70.7500|
+|/players/686112/fabian-schleusener |           5|         18.9231|           0.6048|        0.7022|         2.2706|      0.1655|        0.0003|      0.0706| 78.5333|
+|/players/232110/simone-rapp        |           0|              NA|               NA|        0.4457|         0.7965|      0.0898|        0.2142|      0.0093| 19.2500|
+|/players/958204/malik-batmaz       |           0|              NA|               NA|        0.0717|         0.2445|      0.0000|        0.0000|      0.0254| 11.5000|
+|/players/861662/christoph-kobald   |           0|              NA|               NA|        0.0000|         0.1080|      0.0000|        0.0000|      0.0320| 11.4667|
+|/players/94915/daniel-brosinski    |           0|              NA|               NA|        0.0000|         0.0982|      0.0000|        0.0000|      0.1084| 10.4286|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Christian Eichner |     19.90505|     -2.251031|4-5-1     |
+____________________________________________________
+
+[1] "Facts about Jahn Regensburg:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/664554/aygun-yildirim        |           5|         19.3617|           0.0001|        0.2053|         1.7531|      0.0408|        0.0001|      0.0001| 80.2000|
+|/players/1030987/minos-gouras         |           3|         18.4469|           1.4716|        0.6062|         1.4505|      0.0437|        0.1753|      0.0443| 81.1111|
+|/players/179877/andreas-albers        |           3|         23.5996|           0.8394|        1.1856|         2.8959|      0.2199|        0.1945|      0.0609| 90.0000|
+|/players/724531/sarpreet-singh        |           3|         22.6279|           1.7427|        0.2051|         0.9018|      0.0481|        0.1672|      0.1952| 77.3684|
+|/players/667788/benedikt-gimber       |           2|         33.7567|           2.3134|        0.2468|         1.2534|      0.1213|        0.0955|      0.1275| 90.0000|
+|/players/773933/maximilian-thalhammer |           2|         39.0748|           1.4189|        0.1368|         0.5211|      0.1470|        0.0850|      0.1138| 78.5000|
+|/players/637199/leon-guwara           |           1|         33.4334|           1.9501|        0.2080|         0.6067|      0.0590|        0.0111|      0.0002| 90.0000|
+|/players/560410/jan-elvedi            |           1|         30.1146|           1.2538|        0.1152|         0.4481|      0.1159|        0.0330|      0.0000| 90.0000|
+|/players/215164/sebastian-nachreiner  |           1|         36.8477|           1.4420|        0.1152|         0.2010|      0.0541|        0.0111|      0.0000| 90.0000|
+|/players/1002652/konrad-faber         |           1|         32.7056|           1.9302|        0.1647|         0.4004|      0.0185|        0.0111|      0.0002| 90.0000|
+|/players/1285872/jonas-urbig          |           0|         41.5260|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1245692/lasse-gnther         |           0|              NA|               NA|        0.0000|         0.2303|      0.0117|        0.0000|      0.0188| 12.6316|
+|/players/659094/prince-osei-owusu     |           0|              NA|               NA|        0.3570|         0.5410|      0.0276|        0.1035|      0.0432| 11.5000|
+|/players/956033/blendi-idrizi         |           0|              NA|               NA|        0.0000|         0.1191|      0.0156|        0.0000|      0.0140|  9.8000|
+|/players/848670/christian-viet        |           0|              NA|               NA|        0.0000|         0.1145|      0.0000|        0.0000|      0.0078|  8.8889|
+
+
+|manager_name        | approx_games| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Mersad Selimbegovic |     18.90808|     -6.074286|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904182/Soccer_Models'...
+Receiving objects:   1% (46/4575),   63 kb
+Receiving objects:  11% (504/4575),  127 kb
+Receiving objects:  21% (961/4575),  183 kb
+Receiving objects:  31% (1419/4575),  407 kb
+Receiving objects:  41% (1876/4575),  856 kb
+Receiving objects:  51% (2334/4575), 1024 kb
+Receiving objects:  61% (2791/4575), 1416 kb
+Receiving objects:  71% (3249/4575), 10333 kb
+Receiving objects:  81% (3706/4575), 10613 kb
+Receiving objects:  91% (4164/4575), 10782 kb
+Receiving objects: 100% (4575/4575), 11216 kb, done.
