@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 14:11:35.295"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Barnsley 1.1939 to Derby County 1.0665"
+[1] "Total: 2.2604"
+[1] "Barnsley %: 39.47"
+[1] "Draw %: 28.46"
+[1] "Derby County %: 32.07"
+[1] "--XG Model--"
+[1] "Score: Barnsley 1.2806 to Derby County 1.1195"
+[1] "Total: 2.4001"
+[1] "Barnsley %: 40.75"
+[1] "Draw %: 27.37"
+[1] "Derby County %: 31.88"
+[1] "--XGoT Model--"
+[1] "Score: Barnsley 1.0657 to Derby County 0.8928"
+[1] "Total: 1.9585"
+[1] "Barnsley %: 39.69"
+[1] "Draw %: 30.8"
+[1] "Derby County %: 29.51"
+[1] "--XA Model--"
+[1] "Score: Barnsley 1.2166 to Derby County 1.181"
+[1] "Total: 2.3976"
+[1] "Barnsley %: 37.06"
+[1] "Draw %: 28.11"
+[1] "Derby County %: 34.83"
+[1] "--Mean 4 Models--"
+[1] "Barnsley has a mean win % of 39.24%; a min win % of 37.06%; a max win % of 40.75%."
+[1] "Draw has a mean win % of 28.68%; a min win % of 27.37%; a max win % of 30.8%."
+[1] "Derby County has a mean win % of 32.07%; a min win % of 29.51%; a max win of % 34.83%."
+[1] "Barnsley has a mean win of the Double Chance of 67.93%; a min win % of 65.17%, a max win % of 70.49%."
+[1] "Derby County has a mean win of the Double Chance of 60.76%; a min win % of 59.25%, a max win % of 62.94%."
+[1] "The mean likelihood that there are more than 2.5 goals is 38.44%; max % is 42.05 and min % is 31.23%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 61.57%; max % is 68.77 and min % is 57.95%."
+[1] "--Sportsbook Odds--"
+[1] "Barnsley Barstool Odds are: 35.71"
+[1] "The Barstool Odds of a Draw are: 29.85"
+[1] "Derby County Barstool Odds are: 40.82"
+[1] "Barnsley Adjusted Barstool Odds are: 33.568"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.06"
+[1] "Derby County Adjusted Barstool Odds are: 38.372"
+[1] "Barnsley's Barstool Odds to cover the  spread are: NA"
+[1] "Derby County's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+       bet           date_time
+1 Barnsley 2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team         | expected_attg| expected_gs|bet |
+|:--------------------------------------|:------------|-------------:|-----------:|:---|
+|/players/759811/bradley-collins        |Barnsley     |      0.000000|   0.3333333|    |
+|/players/662956/robbie-cundy           |Barnsley     |      0.068400|   0.1666667|    |
+|/players/914399/liam-kitching          |Barnsley     |      0.040150|   0.0666667|    |
+|/players/630953/mads-juel-andersen     |Barnsley     |      0.039300|   0.0588235|    |
+|/players/490161/nicky-cadden           |Barnsley     |      0.035400|   0.1538462|    |
+|/players/1010219/luca-connell          |Barnsley     |      0.051750|   0.1333333|    |
+|/players/1017899/josh-benson           |Barnsley     |      0.069275|   0.1176471|    |
+|/players/768697/jordan-williams        |Barnsley     |      0.084625|   0.1000000|    |
+|/players/1096390/jonathan-russell      |Barnsley     |      0.124300|   0.1538462|    |
+|/players/178539/james-norwood          |Barnsley     |      0.177100|   0.4347826|    |
+|/players/488205/devante-cole           |Barnsley     |      0.306575|   0.3125000|    |
+|/players/562799/joseph-wildsmith       |Derby County |      0.000000|   0.3225806|    |
+|/players/110911/craig-forsyth          |Derby County |      0.003600|   0.0454545|    |
+|/players/24658/curtis-davies           |Derby County |      0.020575|   0.0714286|    |
+|/players/1127305/eiran-cashin          |Derby County |      0.029400|   0.0555556|    |
+|/players/881558/max-bird               |Derby County |      0.000000|   0.1923077|    |
+|/players/1081285/louie-sibley          |Derby County |      0.072750|   0.1428571|    |
+|/players/206435/nathaniel-mendez-laing |Derby County |      0.073700|   0.2173913|    |
+|/players/1051415/jason-knight          |Derby County |      0.066250|   0.1250000|    |
+|/players/207758/conor-hourihane        |Derby County |      0.073475|   0.1666667|    |
+|/players/31922/david-mcgoldrick        |Derby County |      0.287275|   0.3389831|    |
+|/players/189075/james-collins          |Derby County |      0.237625|   0.3333333|    |
+|/players/1010429/clarke-oduor          |Barnsley     |      0.009750|   0.1176471|    |
+|/players/916726/matty-wolfe            |Barnsley     |      0.001650|   0.1052632|    |
+|/players/857469/slobodan-tedic         |Barnsley     |      0.021325|   0.2380952|    |
+|/players/562592/adam-phillips          |Barnsley     |      0.000000|   0.1960784|    |
+|/players/1098752/lewis-dobbin          |Derby County |      0.003700|   0.2702703|    |
+|/players/168313/korey-smith            |Derby County |      0.000000|   0.0555556|    |
+|/players/279456/tom-barkhuizen         |Derby County |      0.023500|   0.2272727|    |
+|/players/1123933/liam-thompson         |Derby County |      0.000000|   0.1333333|    |
+____________________________________________________
+
+[1] "Facts about Barnsley:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/759811/bradley-collins    |           0|         32.5129|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/662956/robbie-cundy       |           1|         35.7799|           0.9503|        0.1561|         0.4433|      0.0350|        0.0592|      0.0179| 90.0000|
+|/players/914399/liam-kitching      |           1|         52.2885|           1.8177|        0.1919|         0.7066|      0.1136|        0.0362|      0.0201| 90.0000|
+|/players/630953/mads-juel-andersen |           1|         48.7888|           1.6474|        0.1124|         0.3327|      0.0765|        0.0342|      0.0105| 90.0000|
+|/players/490161/nicky-cadden       |           3|         24.6085|           1.1321|        0.3886|         1.4007|      0.0457|        0.0287|      0.1898| 90.0000|
+|/players/1010219/luca-connell      |           3|         39.5611|           1.6978|        0.2560|         0.7741|      0.0398|        0.0425|      0.1184| 90.0000|
+|/players/1017899/josh-benson       |           3|         43.7743|           2.2086|        0.3700|         1.2169|      0.0642|        0.0605|      0.1324| 90.0000|
+|/players/768697/jordan-williams    |           3|         28.8227|           1.9070|        0.1369|         0.5823|      0.0480|        0.0722|      0.0907| 82.6316|
+|/players/1096390/jonathan-russell  |           3|         30.3276|           1.6535|        0.4336|         0.9425|      0.0706|        0.1032|      0.0181| 78.3889|
+|/players/178539/james-norwood      |           5|         19.1380|           0.1330|        0.7285|         1.8162|      0.1264|        0.1601|      0.0413| 71.3810|
+|/players/488205/devante-cole       |           5|         14.7196|           0.6230|        0.6178|         1.8605|      0.3750|        0.2984|      0.0458| 83.1538|
+|/players/1010429/clarke-oduor      |           0|              NA|               NA|        0.0509|         0.1404|      0.0281|        0.0074|      0.0097| 18.6190|
+|/players/916726/matty-wolfe        |           0|              NA|               NA|        0.0334|         0.0921|      0.0122|        0.0018|      0.0024| 11.6111|
+|/players/857469/slobodan-tedic     |           0|              NA|               NA|        0.0514|         0.1891|      0.0313|        0.0177|      0.0114|  7.3684|
+|/players/562592/adam-phillips      |           0|              NA|               NA|        0.0000|         0.1356|      0.0091|        0.0000|      0.0111|  6.8462|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Michael Duff |      28.8202|      2.012313|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Derby County:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/562799/joseph-wildsmith       |           0|         29.9102|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/110911/craig-forsyth          |           1|         34.4281|           0.8468|        0.0276|         0.2999|      0.0292|        0.0027|      0.0652| 90.0000|
+|/players/24658/curtis-davies           |           1|         43.5720|           1.1222|        0.0362|         0.3747|      0.0367|        0.0184|      0.0070| 90.0000|
+|/players/1127305/eiran-cashin          |           1|         48.8449|           2.0282|        0.1257|         0.5536|      0.0510|        0.0265|      0.0221| 90.0000|
+|/players/881558/max-bird               |           2|         41.7737|           1.8396|        0.2365|         0.6505|      0.0072|        0.0000|      0.1717| 90.0000|
+|/players/1081285/louie-sibley          |           3|         18.0123|           1.8528|        0.3799|         0.8795|      0.0573|        0.0617|      0.0471| 75.8824|
+|/players/206435/nathaniel-mendez-laing |           3|         26.6631|           1.3749|        0.1957|         0.9709|      0.0505|        0.0633|      0.1110| 82.3333|
+|/players/1051415/jason-knight          |           3|         30.1793|           2.2124|        0.2337|         0.7001|      0.0520|        0.0560|      0.0312| 90.0000|
+|/players/207758/conor-hourihane        |           3|         45.4926|           1.5597|        0.1509|         0.7858|      0.0560|        0.0660|      0.1049| 90.0000|
+|/players/31922/david-mcgoldrick        |           5|         20.8807|           0.9529|        1.1365|         2.7856|      0.2402|        0.2810|      0.0876| 80.4074|
+|/players/189075/james-collins          |           5|         13.4947|           0.6106|        0.7123|         2.1003|      0.3085|        0.2247|      0.0562| 81.8298|
+|/players/1098752/lewis-dobbin          |           0|              NA|               NA|        0.0475|         0.3650|      0.0275|        0.0032|      0.0162| 14.1176|
+|/players/168313/korey-smith            |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0023|  9.5926|
+|/players/279456/tom-barkhuizen         |           0|              NA|               NA|        0.0819|         0.1348|      0.0425|        0.0208|      0.0138|  8.1702|
+|/players/1123933/liam-thompson         |           0|              NA|               NA|        0.0000|         0.0588|      0.0020|        0.0000|      0.0032|  7.6667|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Paul Warne   |     76.79798|       2.92594|3-1-4-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916255/Soccer_Models'...
+Receiving objects:   1% (47/4608),   63 kb
+Receiving objects:  11% (507/4608),  127 kb
+Receiving objects:  21% (968/4608),  239 kb
+Receiving objects:  31% (1429/4608),  407 kb
+Receiving objects:  41% (1890/4608),  856 kb
+Receiving objects:  51% (2351/4608), 1024 kb
+Receiving objects:  61% (2811/4608), 1416 kb
+Receiving objects:  71% (3272/4608), 10317 kb
+Receiving objects:  81% (3733/4608), 10654 kb
+Receiving objects:  91% (4194/4608), 10822 kb
+Receiving objects: 100% (4608/4608), 11252 kb, done.
