@@ -1,0 +1,157 @@
+[1] "Updated at 2023-02-24 07:04:07.651"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Werder Bremen 1.6166 to VfL Bochum 1.1391"
+[1] "Total: 2.7557"
+[1] "Werder Bremen %: 49.05"
+[1] "Draw %: 24.02"
+[1] "VfL Bochum %: 26.93"
+[1] "--XG Model--"
+[1] "Score: Werder Bremen 1.7609 to VfL Bochum 1.1988"
+[1] "Total: 2.9597"
+[1] "Werder Bremen %: 50.61"
+[1] "Draw %: 23.7"
+[1] "VfL Bochum %: 25.69"
+[1] "--XGoT Model--"
+[1] "Score: Werder Bremen 1.6168 to VfL Bochum 1.1011"
+[1] "Total: 2.7179"
+[1] "Werder Bremen %: 49.9"
+[1] "Draw %: 24.37"
+[1] "VfL Bochum %: 25.73"
+[1] "--XA Model--"
+[1] "Score: Werder Bremen 1.686 to VfL Bochum 1.1476"
+[1] "Total: 2.8336"
+[1] "Werder Bremen %: 50.63"
+[1] "Draw %: 23.87"
+[1] "VfL Bochum %: 25.5"
+[1] "--Mean 4 Models--"
+[1] "Werder Bremen has a mean win % of 50.05%; a min win % of 49.05%; a max win % of 50.63%."
+[1] "Draw has a mean win % of 23.99%; a min win % of 23.7%; a max win % of 24.37%."
+[1] "VfL Bochum has a mean win % of 25.96%; a min win % of 25.5%; a max win of % 26.93%."
+[1] "Werder Bremen has a mean win of the Double Chance of 74.04%; a min win % of 73.07%, a max win % of 74.5%."
+[1] "VfL Bochum has a mean win of the Double Chance of 49.95%; a min win % of 49.37%, a max win % of 50.95%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.54%; max % is 56.56 and min % is 49.87%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.45%; max % is 50.13 and min % is 43.44%."
+[1] "--Sportsbook Odds--"
+[1] "Werder Bremen Barstool Odds are: 51.28"
+[1] "The Barstool Odds of a Draw are: 26.67"
+[1] "VfL Bochum Barstool Odds are: 27.78"
+[1] "Werder Bremen Adjusted Barstool Odds are: 48.501"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.225"
+[1] "VfL Bochum Adjusted Barstool Odds are: 26.274"
+[1] "Werder Bremen's Barstool Odds to cover the -0.5 spread are: 51.02"
+[1] "VfL Bochum's Barstool Odds to cover the 0.5 spread are: 53.19"
+[1] "Barstool's line for the total is 2.5 at 1.74, which is a 57.47% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 06:30:00
+
+
+|player       |team | number|  odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_shots| prob_sogs| prob_goals| prob_ast|
+|:------------|:----|------:|-----:|-----------:|-------:|--------:|:---------|:-----------|----------:|---------:|----------:|--------:|
+|Niklas Stark |SVW  |      2| 10.25|          NA|  0.2613|   0.1637|shots     |GER Germany |     0.0976|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team          | expected_attg| expected_gs|bet |
+|:---------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/429697/jiri-pavlenka           |Werder Bremen |      0.000000|   0.2702703|    |
+|/players/765998/amos-pieper             |Werder Bremen |      0.093225|   0.0666667|    |
+|/players/515333/milos-veljkovic         |Werder Bremen |      0.036150|   0.0833333|    |
+|/players/767789/marco-friedl            |Werder Bremen |      0.011450|   0.0833333|    |
+|/players/637754/niklas-schmidt          |Werder Bremen |      0.163375|   0.2000000|    |
+|/players/749488/romano-schmid           |Werder Bremen |      0.017525|   0.2127660|    |
+|/players/1080983/ilia-gruev             |Werder Bremen |      0.015475|   0.1176471|    |
+|/players/528811/jens-stage              |Werder Bremen |      0.066975|   0.2173913|    |
+|/players/343766/anthony-jung            |Werder Bremen |      0.132350|   0.1176471|    |
+|/players/276791/niclas-fllkrug          |Werder Bremen |      0.413950|   0.5454545|    |
+|/players/343757/marvin-ducksch          |Werder Bremen |      0.262825|   0.4444444|    |
+|/players/290201/philipp-hofmann         |VfL Bochum    |      0.282300|   0.3125000|    |
+|/players/782361/christopher-antwi-adjej |VfL Bochum    |      0.014875|   0.2222222|    |
+|/players/620563/philipp-frster          |VfL Bochum    |      0.185875|   0.1666667|    |
+|/players/430856/takuma-asano            |VfL Bochum    |      0.155550|   0.2564103|    |
+|/players/276739/kevin-stger             |VfL Bochum    |      0.044650|   0.1666667|    |
+|/players/639434/pierre-kunde            |VfL Bochum    |      0.049600|   0.1724138|    |
+|/players/207039/danilo-soares           |VfL Bochum    |      0.036725|   0.0714286|    |
+|/players/763313/erhan-masovic           |VfL Bochum    |      0.036525|   0.0714286|    |
+|/players/433859/ivan-ordets             |VfL Bochum    |      0.031750|   0.0714286|    |
+|/players/575778/saidy-janko             |VfL Bochum    |      0.030350|   0.0769231|    |
+|/players/94865/manuel-riemann           |VfL Bochum    |      0.000000|   0.0833333|    |
+|/players/532738/maximilian-philipp      |Werder Bremen |      0.140075|   0.2702703|    |
+|/players/1014976/lee-buchanan           |Werder Bremen |      0.000000|   0.0833333|    |
+|/players/260470/leonardo-bittencourt    |Werder Bremen |      0.016925|   0.2325581|    |
+|/players/425962/niklas-stark            |Werder Bremen |      0.000000|   0.0833333|    |
+|/players/600513/silvre-ganvoula         |VfL Bochum    |      0.075475|   0.2777778|    |
+|/players/282182/konstantinos-stafylidis |VfL Bochum    |      0.034575|   0.0714286|    |
+|/players/1075815/patrick-osterhage      |VfL Bochum    |      0.000000|   0.1538462|    |
+|/players/900523/keven-schlotterbeck     |VfL Bochum    |      0.000000|   0.0625000|    |
+____________________________________________________
+
+[1] "Facts about Werder Bremen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/429697/jiri-pavlenka        |           0|         28.4156|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/765998/amos-pieper          |           1|         47.9033|           1.4752|        0.1892|         0.6903|      0.1129|        0.1019|      0.0277| 90.0000|
+|/players/515333/milos-veljkovic      |           1|         49.0956|           1.3722|        0.2180|         0.5507|      0.0365|        0.0396|      0.0227| 90.0000|
+|/players/767789/marco-friedl         |           1|         53.8162|           1.4602|        0.1352|         0.4742|      0.0457|        0.0125|      0.0641| 90.0000|
+|/players/637754/niklas-schmidt       |           3|         33.0174|           1.0163|        0.4808|         1.7697|      0.1198|        0.1894|      0.1737| 72.7500|
+|/players/749488/romano-schmid        |           3|         30.1537|           1.3975|        0.2254|         1.0508|      0.0666|        0.0166|      0.1219| 78.0000|
+|/players/1080983/ilia-gruev          |           3|         36.2368|           2.0327|        0.2225|         0.2950|      0.0406|        0.0164|      0.0720| 77.0000|
+|/players/528811/jens-stage           |           3|         29.8117|           1.8017|        0.3934|         1.1664|      0.1602|        0.0743|      0.0848| 76.8636|
+|/players/343766/anthony-jung         |           3|         39.3813|           2.2020|        0.3606|         0.9586|      0.0514|        0.1514|      0.0993| 90.0000|
+|/players/276791/niclas-fllkrug       |           5|         24.8323|           0.6507|        1.0456|         2.7916|      0.4521|        0.5451|      0.1185| 90.0000|
+|/players/343757/marvin-ducksch       |           5|         21.2261|           0.7418|        1.2194|         2.4391|      0.3072|        0.3043|      0.1498| 90.0000|
+|/players/532738/maximilian-philipp   |          NA|              NA|               NA|        0.3916|         1.0216|      0.1381|        0.1588|      0.0432| 17.2500|
+|/players/1014976/lee-buchanan        |          NA|              NA|               NA|        0.0000|         0.2401|      0.0249|        0.0000|      0.0230| 13.1364|
+|/players/260470/leonardo-bittencourt |          NA|              NA|               NA|        0.1628|         0.7186|      0.0386|        0.0170|      0.0177| 13.0000|
+|/players/425962/niklas-stark         |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0025| 12.0000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ole Werner   |     20.92323|    -0.5116304|4-5-1     |
+____________________________________________________
+
+[1] "Facts about VfL Bochum:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/290201/philipp-hofmann         |           5|         17.4643|           0.7613|        0.7248|         2.0041|      0.3047|        0.3097|      0.0741| 90.0000|
+|/players/782361/christopher-antwi-adjej |           3|         25.1742|           1.5286|        0.2496|         1.4469|      0.0710|        0.0128|      0.1215| 90.0000|
+|/players/620563/philipp-frster          |           3|         28.3131|           1.5238|        0.1607|         1.2809|      0.1129|        0.1863|      0.0729| 72.7778|
+|/players/430856/takuma-asano            |           3|         12.6889|           0.5333|        0.7713|         1.1877|      0.1661|        0.1533|      0.0898| 61.8667|
+|/players/276739/kevin-stger             |           2|         37.8219|           2.1665|        0.2166|         0.7430|      0.0649|        0.0381|      0.1020| 76.2000|
+|/players/639434/pierre-kunde            |           2|         35.9398|           1.9413|        0.1747|         0.6991|      0.0206|        0.0449|      0.0165| 90.0000|
+|/players/207039/danilo-soares           |           1|         46.3543|           2.0767|        0.1102|         0.5290|      0.0266|        0.0326|      0.0882| 90.0000|
+|/players/763313/erhan-masovic           |           1|         37.9652|           1.5829|        0.1102|         0.1443|      0.0779|        0.0326|      0.0088| 90.0000|
+|/players/433859/ivan-ordets             |           1|         38.7552|           1.1929|        0.1102|         0.5437|      0.0416|        0.0326|      0.0174| 90.0000|
+|/players/575778/saidy-janko             |           1|         30.6919|           1.1225|        0.0974|         0.4489|      0.0221|        0.0288|      0.0630| 79.5556|
+|/players/94865/manuel-riemann           |           0|         44.7240|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/600513/silvre-ganvoula         |          NA|              NA|               NA|        0.2301|         1.0514|      0.1175|        0.0728|      0.0268| 28.1333|
+|/players/282182/konstantinos-stafylidis |          NA|              NA|               NA|        0.1064|         0.3537|      0.0114|        0.0328|      0.0306| 17.2222|
+|/players/1075815/patrick-osterhage      |          NA|              NA|               NA|        0.0000|         0.0620|      0.0026|        0.0000|      0.0000| 13.8000|
+|/players/900523/keven-schlotterbeck     |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0030| 10.4444|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Thomas Letsch |     87.74747|    -0.0276289|5-3-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3903741/Soccer_Models'...
+Receiving objects:   1% (46/4554),   63 kb
+Receiving objects:  11% (501/4554),  127 kb
+Receiving objects:  21% (957/4554),  183 kb
+Receiving objects:  31% (1412/4554),  407 kb
+Receiving objects:  41% (1868/4554),  856 kb
+Receiving objects:  51% (2323/4554), 1024 kb
+Receiving objects:  61% (2778/4554), 1416 kb
+Receiving objects:  71% (3234/4554), 10317 kb
+Receiving objects:  81% (3689/4554), 10598 kb
+Receiving objects:  91% (4145/4554), 10822 kb
+Receiving objects: 100% (4554/4554), 11213 kb, done.
