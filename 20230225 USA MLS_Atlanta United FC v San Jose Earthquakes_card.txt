@@ -1,0 +1,118 @@
+[1] "Updated at 2023-02-24 00:11:58.585"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Atlanta United FC 1.6579 to San Jose Earthquakes 0.9986"
+[1] "Total: 2.6565"
+[1] "Atlanta United FC %: 53.65"
+[1] "Draw %: 24.14"
+[1] "San Jose Earthquakes %: 22.21"
+[1] "--XG Model--"
+[1] "Score: Atlanta United FC 1.8593 to San Jose Earthquakes 1.0429"
+[1] "Total: 2.9022"
+[1] "Atlanta United FC %: 56.46"
+[1] "Draw %: 22.6"
+[1] "San Jose Earthquakes %: 20.94"
+[1] "--XGoT Model--"
+[1] "Score: Atlanta United FC 1.8075 to San Jose Earthquakes 0.9396"
+[1] "Total: 2.7471"
+[1] "Atlanta United FC %: 57.88"
+[1] "Draw %: 22.93"
+[1] "San Jose Earthquakes %: 19.19"
+[1] "--XA Model--"
+[1] "Score: Atlanta United FC 1.8763 to San Jose Earthquakes 0.9362"
+[1] "Total: 2.8125"
+[1] "Atlanta United FC %: 59.6"
+[1] "Draw %: 21.9"
+[1] "San Jose Earthquakes %: 18.5"
+[1] "--Mean 4 Models--"
+[1] "Atlanta United FC has a mean win % of 56.9%; a min win % of 53.65%; a max win % of 59.6%."
+[1] "Draw has a mean win % of 22.89%; a min win % of 21.9%; a max win % of 24.14%."
+[1] "San Jose Earthquakes has a mean win % of 20.21%; a min win % of 18.5%; a max win of % 22.21%."
+[1] "Atlanta United FC has a mean win of the Double Chance of 79.79%; a min win % of 77.79%, a max win % of 81.5%."
+[1] "San Jose Earthquakes has a mean win of the Double Chance of 43.1%; a min win % of 40.4%, a max win % of 46.35%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.95%; max % is 54.97 and min % is 48.83%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.05%; max % is 51.17 and min % is 45.03%."
+[1] "--Sportsbook Odds--"
+[1] "Atlanta United FC Barstool Odds are: 62.5"
+[1] "The Barstool Odds of a Draw are: 23.08"
+[1] "San Jose Earthquakes Barstool Odds are: 20.83"
+[1] "Atlanta United FC Adjusted Barstool Odds are: 58.735"
+[1] "The Adjusted Barstool Odds of a Draw are: 21.69"
+[1] "San Jose Earthquakes Adjusted Barstool Odds are: 19.575"
+[1] "Atlanta United FC's Barstool Odds to cover the -0.5 spread are: 63.29"
+[1] "San Jose Earthquakes's Barstool Odds to cover the 0.5 spread are: 41.67"
+[1] "Barstool's line for the total is 2.5 at 1.5, which is a 66.67% chance of the over 2.5 hitting. The line for the under is 2.43, which is a 41.15% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                           bet           date_time
+1 under Atlanta United FC/San Jose Earthquakes 2023-02-25 16:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Atlanta United FC:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/26410/quentin-westberg  |           0|         32.7909|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/760725/brooks-lennon    |           1|         48.4882|           1.5512|        0.2230|         0.7656|      0.0387|        0.0300|      0.1934| 90.0000|
+|/players/950069/juan-jose-purata |           1|         61.9295|           1.5138|        0.3754|         1.0740|      0.1362|        0.1240|      0.0053| 90.0000|
+|/players/547740/luis-abram       |           1|         56.9714|           0.9765|        0.0310|         0.1865|      0.0136|        0.0100|      0.0087| 90.0000|
+|/players/1018587/andrew-gutman   |           1|         44.2617|           2.1481|        0.0965|         0.6295|      0.0456|        0.0229|      0.0888| 90.0000|
+|/players/1075405/franco-ibarra   |           2|         46.2284|           3.2090|        0.3386|         1.7526|      0.0931|        0.0892|      0.0524| 90.0000|
+|/players/764133/matheus-rossetto |           2|         43.5922|           0.7006|        0.2344|         0.4592|      0.0551|        0.0618|      0.1074| 62.3000|
+|/players/1026112/amar-sejdic     |           3|         32.0709|           1.9780|        0.4495|         1.2471|      0.1361|        0.1872|      0.0482| 74.3636|
+|/players/643482/derrick-etienne  |           3|         18.6918|           0.7934|        0.7575|         1.7298|      0.3321|        0.2998|      0.1102| 76.9032|
+|/players/955271/thiago-almada    |           3|         43.6107|           0.7720|        1.2008|         3.6830|      0.2724|        0.2726|      0.3979| 90.0000|
+|/players/750913/luiz-araujo      |           5|         16.8630|           0.5110|        1.0648|         2.6490|      0.4358|        0.4314|      0.0841| 74.7143|
+|/players/1170744/caleb-wiley     |           0|              NA|               NA|        0.3529|         0.5220|      0.1302|        0.2111|      0.0096| 27.7000|
+|/players/830156/ronald-hernndez  |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0030| 15.6364|
+|/players/1250356/aiden-mcfadden  |           0|              NA|               NA|        0.0000|         0.1665|      0.0000|        0.0000|      0.0315| 15.2857|
+|/players/1041246/jackson-conway  |           0|              NA|               NA|        0.0000|         0.8320|      0.1397|        0.0000|      0.0040| 13.0968|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Gonzalo Pineda |     47.96465|        1.7675|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about San Jose Earthquakes:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/847987/james-marcinkowski  |           0|         29.6410|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1136294/tanner-beason      |           1|         37.4490|           1.3339|        0.0416|         0.2811|      0.0428|        0.0127|      0.0296| 90.0000|
+|/players/848219/paul-marie          |           1|         28.7854|           1.8076|        0.0390|         0.4212|      0.0254|        0.0190|      0.0864| 77.4706|
+|/players/577660/nathan              |           1|         37.4058|           2.6288|        0.1580|         0.4125|      0.0392|        0.0202|      0.0063| 90.0000|
+|/players/192319/jonathan-mensah     |           1|         48.0347|           0.4588|        0.1763|         0.4472|      0.0360|        0.0547|      0.0158| 90.0000|
+|/players/575317/judson              |           2|         35.6883|           2.9465|        0.0481|         0.5076|      0.0292|        0.0044|      0.0176| 79.8500|
+|/players/825712/jackson-yueill      |           2|         43.7149|           1.1310|        0.3256|         0.9200|      0.0660|        0.0659|      0.0923| 90.0000|
+|/players/317822/carlos-gruezo       |           3|         21.6458|           1.4123|        0.3679|         0.6018|      0.0335|        0.0496|      0.0110| 83.8621|
+|/players/589897/cristian-espinoza   |           3|         21.9659|           0.7951|        0.6891|         2.4275|      0.2311|        0.2306|      0.1496| 80.8947|
+|/players/680905/jamiro-monteiro     |           3|         36.4694|           1.4423|        0.3948|         1.1745|      0.1941|        0.1387|      0.1662| 90.0000|
+|/players/792024/jeremy-ebobisse     |           5|         19.1775|           0.6078|        0.7762|         1.9857|      0.2948|        0.2845|      0.0622| 90.0000|
+|/players/1025942/cade-cowell        |           0|              NA|               NA|        0.1100|         0.4874|      0.0762|        0.0541|      0.0126| 12.5294|
+|/players/1031219/michael-baldisimo  |           0|              NA|               NA|        0.0309|         0.0994|      0.0099|        0.0035|      0.0037| 10.1500|
+|/players/547251/tommy-thompson      |           0|              NA|               NA|        0.0600|         0.2902|      0.0613|        0.0497|      0.0097|  9.1053|
+|/players/1172905/benjamin-kikanovic |           0|              NA|               NA|        0.0222|         0.1073|      0.0243|        0.0143|      0.0020|  6.1379|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Luchi Gonzalez |     45.33232|     0.3344444|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084678/Soccer_Models'...
+Receiving objects:   1% (45/4494),   63 kb
+Receiving objects:  11% (495/4494),  127 kb
+Receiving objects:  21% (944/4494),  183 kb
+Receiving objects:  31% (1394/4494),  351 kb
+Receiving objects:  41% (1843/4494),  856 kb
+Receiving objects:  51% (2292/4494), 1024 kb
+Receiving objects:  61% (2742/4494), 1360 kb
+Receiving objects:  71% (3191/4494), 10269 kb
+Receiving objects:  81% (3641/4494), 10550 kb
+Receiving objects:  91% (4090/4494), 10774 kb
+Receiving objects: 100% (4494/4494), 11172 kb, done.
