@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-23 21:01:52.472"
+[1] "Updated at 2023-02-23 23:58:30.900"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,15 +34,15 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 42.01%; max % is 47.46 and min % is 38.78%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 57.99%; max % is 61.22 and min % is 52.54%."
 [1] "--Sportsbook Odds--"
-[1] "Everton Barstool Odds are: 40"
-[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Everton Barstool Odds are: 39.22"
+[1] "The Barstool Odds of a Draw are: 31.25"
 [1] "Aston Villa Barstool Odds are: 33.33"
-[1] "Everton Adjusted Barstool Odds are: 38.425"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.558"
-[1] "Aston Villa Adjusted Barstool Odds are: 32.017"
-[1] "Everton's Barstool Odds to cover the -0.5 spread are: 40.82"
-[1] "Aston Villa's Barstool Odds to cover the 0.5 spread are: 63.69"
-[1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
+[1] "Everton Adjusted Barstool Odds are: 37.784"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.106"
+[1] "Aston Villa Adjusted Barstool Odds are: 32.11"
+[1] "Everton's Barstool Odds to cover the -0.5 spread are: 40.32"
+[1] "Aston Villa's Barstool Odds to cover the 0.5 spread are: 64.1"
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
               bet           date_time
@@ -74,7 +74,7 @@
 |/players/247761/conor-coady        |Everton     |      0.026525|   0.0588235|    |
 |/players/243138/james-tarkowski    |Everton     |      0.049975|   0.0588235|    |
 |/players/939542/dwight-mcneil      |Everton     |      0.078075|   0.1538462|    |
-|/players/179410/idrissa-gana-gueye |Everton     |      0.058650|   0.1052632|    |
+|/players/179410/idrissa-gana-gueye |Everton     |      0.058650|   0.1111111|    |
 |/players/950474/james-garner       |Everton     |      0.150825|   0.0769231|*   |
 |/players/604785/alex-iwobi         |Everton     |      0.037325|   0.1250000|    |
 |/players/391064/neal-maupay        |Everton     |      0.186500|   0.2941176|    |
@@ -91,9 +91,9 @@
 |/players/1088066/jhon-duran        |Aston Villa |      0.257625|   0.2439024|    |
 |/players/540088/ollie-watkins      |Aston Villa |      0.280175|   0.2777778|    |
 |/players/492586/demarai-gray       |Everton     |      0.053400|   0.1754386|    |
-|/players/862467/ruben-vinagre      |Everton     |      0.000000|   0.0416667|    |
+|/players/862467/ruben-vinagre      |Everton     |      0.000000|   0.0434783|    |
 |/players/742405/tom-davies         |Everton     |      0.000000|   0.0714286|    |
-|/players/290410/michael-keane      |Everton     |      0.000000|   0.0714286|    |
+|/players/290410/michael-keane      |Everton     |      0.000000|   0.0769231|    |
 |/players/610184/emiliano-buendia   |Aston Villa |      0.043300|   0.1886792|    |
 |/players/23354/ashley-young        |Aston Villa |      0.000000|   0.1666667|    |
 |/players/303059/bertrand-traor     |Aston Villa |      0.006525|   0.1886792|    |
@@ -155,14 +155,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Unai Emery   |     123.2283|      7.875635|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901174/Soccer_Models'...
-Receiving objects:   1% (45/4470),   63 kb
-Receiving objects:  11% (492/4470),  127 kb
-Receiving objects:  21% (939/4470),  183 kb
-Receiving objects:  31% (1386/4470),  351 kb
-Receiving objects:  41% (1833/4470),  856 kb
-Receiving objects:  51% (2280/4470),  968 kb
-Receiving objects:  61% (2727/4470), 1360 kb
-Receiving objects:  71% (3174/4470), 10269 kb
-Receiving objects:  81% (3621/4470), 10550 kb
-Receiving objects:  91% (4068/4470), 10774 kb
-Receiving objects: 100% (4470/4470), 11151 kb, done.
+Receiving objects:   1% (45/4488),   63 kb
+Receiving objects:  11% (494/4488),  127 kb
+Receiving objects:  21% (943/4488),  183 kb
+Receiving objects:  31% (1392/4488),  351 kb
+Receiving objects:  41% (1841/4488),  856 kb
+Receiving objects:  51% (2289/4488),  968 kb
+Receiving objects:  61% (2738/4488), 1360 kb
+Receiving objects:  71% (3187/4488), 10269 kb
+Receiving objects:  81% (3636/4488), 10550 kb
+Receiving objects:  91% (4085/4488), 10774 kb
+Receiving objects: 100% (4488/4488), 11170 kb, done.
