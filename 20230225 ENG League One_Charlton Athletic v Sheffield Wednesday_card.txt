@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 14:18:26.587"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Charlton Athletic 0.8023 to Sheffield Wednesday 1.5826"
+[1] "Total: 2.3849"
+[1] "Charlton Athletic %: 19.38"
+[1] "Draw %: 25.19"
+[1] "Sheffield Wednesday %: 55.43"
+[1] "--XG Model--"
+[1] "Score: Charlton Athletic 0.7504 to Sheffield Wednesday 1.8506"
+[1] "Total: 2.601"
+[1] "Charlton Athletic %: 14.75"
+[1] "Draw %: 21.99"
+[1] "Sheffield Wednesday %: 63.26"
+[1] "--XGoT Model--"
+[1] "Score: Charlton Athletic 0.6922 to Sheffield Wednesday 1.6396"
+[1] "Total: 2.3318"
+[1] "Charlton Athletic %: 15.41"
+[1] "Draw %: 24.66"
+[1] "Sheffield Wednesday %: 59.93"
+[1] "--XA Model--"
+[1] "Score: Charlton Athletic 0.6525 to Sheffield Wednesday 1.6748"
+[1] "Total: 2.3273"
+[1] "Charlton Athletic %: 13.8"
+[1] "Draw %: 24.09"
+[1] "Sheffield Wednesday %: 62.11"
+[1] "--Mean 4 Models--"
+[1] "Charlton Athletic has a mean win % of 15.83%; a min win % of 13.8%; a max win % of 19.38%."
+[1] "Draw has a mean win % of 23.98%; a min win % of 21.99%; a max win % of 25.19%."
+[1] "Sheffield Wednesday has a mean win % of 60.18%; a min win % of 55.43%; a max win of % 63.26%."
+[1] "Charlton Athletic has a mean win of the Double Chance of 39.82%; a min win % of 36.74%, a max win % of 44.57%."
+[1] "Sheffield Wednesday has a mean win of the Double Chance of 84.17%; a min win % of 80.62%, a max win % of 86.2%."
+[1] "The mean likelihood that there are more than 2.5 goals is 42.91%; max % is 48.03 and min % is 40.49%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 57.09%; max % is 59.51 and min % is 51.97%."
+[1] "--Sportsbook Odds--"
+[1] "Charlton Athletic Barstool Odds are: 25.64"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Sheffield Wednesday Barstool Odds are: 52.63"
+[1] "Charlton Athletic Adjusted Barstool Odds are: 24.177"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.195"
+[1] "Sheffield Wednesday Adjusted Barstool Odds are: 49.628"
+[1] "Charlton Athletic's Barstool Odds to cover the 0.75 spread are: 60.24"
+[1] "Sheffield Wednesday's Barstool Odds to cover the -0.75 spread are: 45.87"
+[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76% chance of the over 2.5 hitting. The line for the under is 1.89, which is a 52.91% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                  bet           date_time
+1 Sheffield Wednesday 2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team                | expected_attg| expected_gs|bet |
+|:-------------------------------------|:-------------------|-------------:|-----------:|:---|
+|/players/720460/joseph-wollacott      |Charlton Athletic   |      0.000000|   0.2325581|    |
+|/players/822493/matthew-penney        |Charlton Athletic   |      0.013975|   0.0909091|    |
+|/players/729738/sean-clare            |Charlton Athletic   |      0.018875|   0.1052632|    |
+|/players/314389/ryan-inniss           |Charlton Athletic   |      0.036075|   0.0526316|    |
+|/players/469382/jack-payne            |Charlton Athletic   |      0.096025|   0.1666667|    |
+|/players/955356/albie-morgan          |Charlton Athletic   |      0.049725|   0.1333333|    |
+|/players/410015/todd-kane             |Charlton Athletic   |      0.035200|   0.2325581|    |
+|/players/540680/scott-fraser          |Charlton Athletic   |      0.016925|   0.1666667|    |
+|/players/660170/george-dobson         |Charlton Athletic   |      0.017050|   0.0714286|    |
+|/players/1389994/miles-leaburn        |Charlton Athletic   |      0.102200|   0.2857143|    |
+|/players/1226789/jesurun-rak-sakyi    |Charlton Athletic   |      0.214100|   0.2127660|    |
+|/players/35477/david-stockdale        |Sheffield Wednesday |      0.000000|   0.1111111|    |
+|/players/528214/dominic-iorfa         |Sheffield Wednesday |      0.026200|   0.1428571|    |
+|/players/463871/reece-james           |Sheffield Wednesday |      0.026450|   0.0909091|    |
+|/players/280865/michael-ihiekwe       |Sheffield Wednesday |      0.026900|   0.3773585|    |
+|/players/243856/aden-flint            |Sheffield Wednesday |      0.071175|   0.2380952|    |
+|/players/433956/will-vaulks           |Sheffield Wednesday |      0.062525|   0.1666667|    |
+|/players/161415/barry-bannan          |Sheffield Wednesday |      0.068850|   0.2173913|    |
+|/players/562796/george-byers          |Sheffield Wednesday |      0.344925|   0.2127660|*   |
+|/players/195673/liam-palmer           |Sheffield Wednesday |      0.180025|   0.1111111|*   |
+|/players/306651/marvin-johnson        |Sheffield Wednesday |      0.081850|   0.1538462|    |
+|/players/199276/michael-smith         |Sheffield Wednesday |      0.385850|   0.3773585|    |
+|/players/298665/chuks-aneke           |Charlton Athletic   |      0.030575|   0.2702703|    |
+|/players/672487/corey-blackett-taylor |Charlton Athletic   |      0.005925|   0.2272727|    |
+|/players/1123510/aaron-henry          |Charlton Athletic   |      0.009900|   0.1428571|    |
+|/players/1420196/zach-mitchell        |Charlton Athletic   |      0.000000|   0.1428571|    |
+|/players/355739/callum-paterson       |Sheffield Wednesday |      0.049975|   0.2272727|    |
+|/players/816322/mallik-wilks          |Sheffield Wednesday |      0.027125|   0.2439024|    |
+|/players/214941/lee-gregory           |Sheffield Wednesday |      0.005825|   0.3921569|    |
+|/players/1091907/fisayo-dele-bashiru  |Sheffield Wednesday |      0.021275|   0.2173913|    |
+____________________________________________________
+
+[1] "Facts about Charlton Athletic:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/720460/joseph-wollacott      |           0|         30.0414|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/822493/matthew-penney        |           1|         34.7811|           1.5585|        0.0583|         0.4169|      0.0379|        0.0162|      0.0442| 90.0000|
+|/players/729738/sean-clare            |           1|         45.8945|           1.5031|        0.0586|         0.3492|      0.0051|        0.0248|      0.0178| 90.0000|
+|/players/314389/ryan-inniss           |           1|         39.3179|           0.6000|        0.2794|         0.5435|      0.0743|        0.0461|      0.0036| 90.0000|
+|/players/469382/jack-payne            |           3|         28.8066|           1.4857|        0.5199|         1.4220|      0.1001|        0.1177|      0.0943| 90.0000|
+|/players/955356/albie-morgan          |           3|         30.5895|           1.2663|        0.1822|         0.9690|      0.0629|        0.0648|      0.1141| 80.2581|
+|/players/410015/todd-kane             |           3|         29.1893|           0.9391|        0.1027|         0.4836|      0.0449|        0.0442|      0.0838| 82.2727|
+|/players/540680/scott-fraser          |           3|         33.8080|           1.7472|        0.2316|         0.8660|      0.0649|        0.0204|      0.0666| 90.0000|
+|/players/660170/george-dobson         |           3|         38.7710|           3.6287|        0.0763|         0.3945|      0.0309|        0.0215|      0.0170| 90.0000|
+|/players/1389994/miles-leaburn        |           5|         16.9072|           0.4438|        0.5189|         1.5298|      0.1895|        0.1276|      0.0494| 74.2857|
+|/players/1226789/jesurun-rak-sakyi    |           5|         19.7251|           0.5649|        0.7706|         1.7224|      0.2073|        0.2888|      0.0768| 77.8182|
+|/players/298665/chuks-aneke           |           0|              NA|               NA|        0.1951|         0.3218|      0.0394|        0.0370|      0.0060| 15.7143|
+|/players/672487/corey-blackett-taylor |           0|              NA|               NA|        0.0632|         0.1207|      0.0054|        0.0075|      0.0243| 12.1818|
+|/players/1123510/aaron-henry          |           0|              NA|               NA|        0.0419|         0.1602|      0.0095|        0.0123|      0.0023|  9.7419|
+|/players/1420196/zach-mitchell        |           0|              NA|               NA|        0.0000|         0.0428|      0.0024|        0.0000|      0.0007|  7.7273|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Dean Holden  |     40.97778|     -3.627347|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Sheffield Wednesday:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/35477/david-stockdale       |           0|         32.9240|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/528214/dominic-iorfa        |           1|         51.3684|           2.2229|        0.0254|         0.1506|      0.0284|        0.0265|      0.0237| 90.0000|
+|/players/463871/reece-james          |           1|         54.9017|           2.0445|        0.0911|         0.2521|      0.0243|        0.0256|      0.0679| 77.0000|
+|/players/280865/michael-ihiekwe      |           1|         51.3261|           1.3540|        0.2170|         0.8945|      0.0525|        0.0265|      0.0731| 90.0000|
+|/players/243856/aden-flint           |           1|         48.2248|           0.5419|        0.2560|         1.0198|      0.0951|        0.0689|      0.0799| 90.0000|
+|/players/433956/will-vaulks          |           2|         36.0067|           1.4588|        0.2421|         0.5969|      0.0115|        0.0578|      0.0299| 82.8571|
+|/players/161415/barry-bannan         |           2|         68.4049|           2.4377|        0.2630|         1.4408|      0.1399|        0.0628|      0.1312| 90.0000|
+|/players/562796/george-byers         |           3|         38.6277|           1.4231|        0.8078|         2.1229|      0.3003|        0.3793|      0.0265| 75.9444|
+|/players/195673/liam-palmer          |           3|         26.5466|           1.1127|        0.5963|         1.8765|      0.2219|        0.1813|      0.1592| 90.0000|
+|/players/306651/marvin-johnson       |           3|         29.5017|           1.0083|        0.6428|         2.0746|      0.1219|        0.0744|      0.2995| 90.0000|
+|/players/199276/michael-smith        |           5|         20.1256|           0.5185|        1.2190|         2.9382|      0.4481|        0.4457|      0.0983| 86.0690|
+|/players/355739/callum-paterson      |           0|              NA|               NA|        0.1755|         0.4531|      0.0173|        0.0497|      0.0274| 14.0556|
+|/players/816322/mallik-wilks         |           0|              NA|               NA|        0.1314|         0.2120|      0.0087|        0.0235|      0.0143| 13.0000|
+|/players/214941/lee-gregory          |           0|              NA|               NA|        0.0718|         0.1930|      0.0690|        0.0050|      0.0090|  7.1429|
+|/players/1091907/fisayo-dele-bashiru |           0|              NA|               NA|        0.0891|         0.1341|      0.0053|        0.0211|      0.0074|  3.9310|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Darren Moore |     44.88081|      7.837121|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916252/Soccer_Models'...
+Receiving objects:   1% (47/4617),   63 kb
+Receiving objects:  11% (508/4617),  127 kb
+Receiving objects:  21% (970/4617),  239 kb
+Receiving objects:  31% (1432/4617),  407 kb
+Receiving objects:  41% (1893/4617),  856 kb
+Receiving objects:  51% (2355/4617), 1024 kb
+Receiving objects:  61% (2817/4617), 1416 kb
+Receiving objects:  71% (3279/4617), 10325 kb
+Receiving objects:  81% (3740/4617), 10606 kb
+Receiving objects:  91% (4202/4617), 10830 kb
+Receiving objects: 100% (4617/4617), 11262 kb, done.
