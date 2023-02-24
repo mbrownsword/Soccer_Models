@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-22 15:31:48.392"
+[1] "Updated at 2023-02-24 06:52:50.388"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: FC Cologne 1.3347 to VfL Wolfsburg 1.2077"
-[1] "Total: 2.5424"
-[1] "FC Cologne %: 39.64"
-[1] "Draw %: 26.79"
-[1] "VfL Wolfsburg %: 33.57"
+[1] "Score: FC Cologne 1.3955 to VfL Wolfsburg 1.2692"
+[1] "Total: 2.6647"
+[1] "FC Cologne %: 40.8"
+[1] "Draw %: 25.9"
+[1] "VfL Wolfsburg %: 33.3"
 [1] "--XG Model--"
-[1] "Score: FC Cologne 1.5977 to VfL Wolfsburg 1.3208"
-[1] "Total: 2.9185"
-[1] "FC Cologne %: 44.42"
-[1] "Draw %: 24.07"
-[1] "VfL Wolfsburg %: 31.51"
+[1] "Score: FC Cologne 1.5983 to VfL Wolfsburg 1.3287"
+[1] "Total: 2.927"
+[1] "FC Cologne %: 44.48"
+[1] "Draw %: 23.89"
+[1] "VfL Wolfsburg %: 31.63"
 [1] "--XGoT Model--"
-[1] "Score: FC Cologne 1.4022 to VfL Wolfsburg 1.2245"
-[1] "Total: 2.6267"
-[1] "FC Cologne %: 41.25"
-[1] "Draw %: 26.38"
-[1] "VfL Wolfsburg %: 32.37"
+[1] "Score: FC Cologne 1.4059 to VfL Wolfsburg 1.2605"
+[1] "Total: 2.6664"
+[1] "FC Cologne %: 41.05"
+[1] "Draw %: 25.81"
+[1] "VfL Wolfsburg %: 33.14"
 [1] "--XA Model--"
-[1] "Score: FC Cologne 1.497 to VfL Wolfsburg 1.1757"
-[1] "Total: 2.6727"
-[1] "FC Cologne %: 44.67"
-[1] "Draw %: 25.32"
-[1] "VfL Wolfsburg %: 30.01"
+[1] "Score: FC Cologne 1.51 to VfL Wolfsburg 1.2377"
+[1] "Total: 2.7477"
+[1] "FC Cologne %: 43.25"
+[1] "Draw %: 25.27"
+[1] "VfL Wolfsburg %: 31.48"
 [1] "--Mean 4 Models--"
-[1] "FC Cologne has a mean win % of 42.49%; a min win % of 39.64%; a max win % of 44.67%."
-[1] "Draw has a mean win % of 25.64%; a min win % of 24.07%; a max win % of 26.79%."
-[1] "VfL Wolfsburg has a mean win % of 31.86%; a min win % of 30.01%; a max win of % 33.57%."
-[1] "FC Cologne has a mean win of the Double Chance of 68.13%; a min win % of 66.43%, a max win % of 69.99%."
-[1] "VfL Wolfsburg has a mean win of the Double Chance of 57.5%; a min win % of 55.33%, a max win % of 60.36%."
-[1] "The mean likelihood that there are more than 2.5 goals is 49.43%; max % is 55.45 and min % is 45.94%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 50.57%; max % is 54.06 and min % is 44.55%."
+[1] "FC Cologne has a mean win % of 42.39%; a min win % of 40.8%; a max win % of 44.48%."
+[1] "Draw has a mean win % of 25.22%; a min win % of 23.89%; a max win % of 25.9%."
+[1] "VfL Wolfsburg has a mean win % of 32.39%; a min win % of 31.48%; a max win of % 33.3%."
+[1] "FC Cologne has a mean win of the Double Chance of 67.61%; a min win % of 66.7%, a max win % of 68.52%."
+[1] "VfL Wolfsburg has a mean win of the Double Chance of 57.6%; a min win % of 55.52%, a max win % of 59.2%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.12%; max % is 55.64 and min % is 48.84%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.88%; max % is 51.16 and min % is 44.36%."
 [1] "--Sportsbook Odds--"
-[1] "FC Cologne Barstool Odds are: 41.67"
-[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "FC Cologne Barstool Odds are: 42.11"
+[1] "The Barstool Odds of a Draw are: 28.57"
 [1] "VfL Wolfsburg Barstool Odds are: 34.48"
-[1] "FC Cologne Adjusted Barstool Odds are: 39.633"
-[1] "The Adjusted Barstool Odds of a Draw are: 27.573"
-[1] "VfL Wolfsburg Adjusted Barstool Odds are: 32.794"
-[1] "FC Cologne's Barstool Odds to cover the -0.5 spread are: 42.02"
+[1] "FC Cologne Adjusted Barstool Odds are: 40.044"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.168"
+[1] "VfL Wolfsburg Adjusted Barstool Odds are: 32.788"
+[1] "FC Cologne's Barstool Odds to cover the -0.5 spread are: 42.55"
 [1] "VfL Wolfsburg's Barstool Odds to cover the 0.5 spread are: 62.11"
-[1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18% chance of the over 2.5 hitting. The line for the under is 2.04, which is a 49.02% chance of the under 2.5 hitting."
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 1.98, which is a 50.51% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -50,91 +50,103 @@
 [1] "____________Anytime Goalscorers______________________"
 
 
-|pageUrl2                           |team          | expected_attg| expected_gs|bet |
-|:----------------------------------|:-------------|-------------:|-----------:|:---|
-|/players/573465/marvin-schwbe      |FC Cologne    |      0.000000|   0.4545455|    |
-|/players/1115003/nikola-soldo      |FC Cologne    |      0.032725|   0.0625000|    |
-|/players/461359/benno-schmitz      |FC Cologne    |      0.029200|   0.0454545|    |
-|/players/307210/jonas-hector       |FC Cologne    |      0.046325|   0.1428571|    |
-|/players/682385/timo-hbers         |FC Cologne    |      0.036475|   0.0833333|    |
-|/players/1199283/eric-martel       |FC Cologne    |      0.024775|   0.1250000|    |
-|/players/574642/ellyes-skhiri      |FC Cologne    |      0.125750|   0.2083333|    |
-|/players/930035/linton-maina       |FC Cologne    |      0.048675|   0.2702703|    |
-|/players/861668/dejan-ljubicic     |FC Cologne    |      0.275825|   0.2173913|*   |
-|/players/187358/florian-kainz      |FC Cologne    |      0.154100|   0.2631579|    |
-|/players/423802/sargis-adamyan     |FC Cologne    |      0.319800|   0.3125000|    |
-|/players/170322/koen-casteels      |VfL Wolfsburg |      0.000000|   0.1538462|    |
-|/players/883087/ridle-baku         |VfL Wolfsburg |      0.062875|   0.1694915|    |
-|/players/922892/sebastiaan-bornauw |VfL Wolfsburg |      0.020000|   0.1176471|    |
-|/players/950485/maxence-lacroix    |VfL Wolfsburg |      0.009300|   0.0666667|    |
-|/players/865010/nicolas-cozza      |VfL Wolfsburg |      0.032925|   0.0666667|    |
-|/players/450976/yannick-gerhardt   |VfL Wolfsburg |      0.110700|   0.1818182|    |
-|/players/1073498/patrick-wimmer    |VfL Wolfsburg |      0.126850|   0.1923077|    |
-|/players/647900/mattias-svanberg   |VfL Wolfsburg |      0.019475|   0.1176471|    |
-|/players/298915/maximilian-arnold  |VfL Wolfsburg |      0.088175|   0.1694915|    |
-|/players/839204/omar-marmoush      |VfL Wolfsburg |      0.083150|   0.2702703|    |
-|/players/861197/lukas-nmecha       |VfL Wolfsburg |      0.365725|   0.3333333|    |
-|/players/630651/kingsley-schindler |FC Cologne    |      0.025300|   0.1694915|    |
-|/players/706500/steffen-tigges     |FC Cologne    |      0.044750|   0.3389831|    |
-|/players/501568/davie-selke        |FC Cologne    |      0.018050|   0.3333333|    |
-|/players/1235068/denis-huseinbasic |FC Cologne    |      0.052575|   0.2083333|    |
-|/players/966019/felix-nmecha       |VfL Wolfsburg |      0.038850|   0.2040816|    |
-|/players/1067260/jakub-kaminski    |VfL Wolfsburg |      0.041425|   0.1818182|    |
-|/players/161421/josuha-guilavogui  |VfL Wolfsburg |      0.016850|   0.0909091|    |
-|/players/889785/jonas-wind         |VfL Wolfsburg |      0.021650|   0.3333333|    |
+|pageUrl2                              |team          | expected_attg| expected_gs|bet |
+|:-------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/573465/marvin-schwbe         |FC Cologne    |      0.000000|   0.4444444|    |
+|/players/461359/benno-schmitz         |FC Cologne    |      0.038400|   0.0454545|    |
+|/players/682385/timo-hbers            |FC Cologne    |      0.048775|   0.0833333|    |
+|/players/867080/julian-chabot         |FC Cologne    |      0.021525|   0.0714286|    |
+|/players/307210/jonas-hector          |FC Cologne    |      0.054925|   0.1428571|    |
+|/players/574642/ellyes-skhiri         |FC Cologne    |      0.122425|   0.2083333|    |
+|/players/1199283/eric-martel          |FC Cologne    |      0.025950|   0.1250000|    |
+|/players/930035/linton-maina          |FC Cologne    |      0.049425|   0.2702703|    |
+|/players/1235068/denis-huseinbasic    |FC Cologne    |      0.287625|   0.2083333|*   |
+|/players/187358/florian-kainz         |FC Cologne    |      0.156500|   0.2564103|    |
+|/players/706500/steffen-tigges        |FC Cologne    |      0.284700|   0.3389831|    |
+|/players/1067260/jakub-kaminski       |VfL Wolfsburg |      0.085700|   0.1818182|    |
+|/players/889785/jonas-wind            |VfL Wolfsburg |      0.304825|   0.3333333|    |
+|/players/1073498/patrick-wimmer       |VfL Wolfsburg |      0.195975|   0.1960784|    |
+|/players/450976/yannick-gerhardt      |VfL Wolfsburg |      0.102125|   0.1818182|    |
+|/players/298915/maximilian-arnold     |VfL Wolfsburg |      0.088225|   0.1694915|    |
+|/players/647900/mattias-svanberg      |VfL Wolfsburg |      0.017125|   0.1176471|    |
+|/players/325028/paulo-silva           |VfL Wolfsburg |      0.003200|   0.0625000|    |
+|/players/1097466/micky-van-de-ven     |VfL Wolfsburg |      0.003550|   0.0454545|    |
+|/players/161421/josuha-guilavogui     |VfL Wolfsburg |      0.004225|   0.0909091|    |
+|/players/883087/ridle-baku            |VfL Wolfsburg |      0.124925|   0.1694915|    |
+|/players/170322/koen-casteels         |VfL Wolfsburg |      0.000000|   0.1538462|    |
+|/players/423802/sargis-adamyan        |FC Cologne    |      0.084775|   0.3030303|    |
+|/players/1119643/jan-thielmann        |FC Cologne    |      0.029175|   0.2857143|    |
+|/players/501568/davie-selke           |FC Cologne    |      0.033550|   0.3333333|    |
+|/players/861668/dejan-ljubicic        |FC Cologne    |      0.032875|   0.2173913|    |
+|/players/966019/felix-nmecha          |VfL Wolfsburg |      0.094125|   0.2083333|    |
+|/players/1136099/kevin-paredes        |VfL Wolfsburg |      0.048825|   0.1176471|    |
+|/players/540073/gian-luca-waldschmidt |VfL Wolfsburg |      0.008475|   0.3030303|    |
+|/players/865010/nicolas-cozza         |VfL Wolfsburg |      0.000000|   0.0666667|    |
 ____________________________________________________
 
 [1] "Facts about FC Cologne:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: expected"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/573465/marvin-schwbe      |           0|         41.7313|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1115003/nikola-soldo      |           1|         49.2745|           0.9493|        0.0996|         0.5604|      0.0427|        0.0321|      0.0089| 90.0000|
-|/players/461359/benno-schmitz      |           1|         40.6298|           1.4184|        0.1615|         0.4542|      0.0305|        0.0321|      0.1017| 90.0000|
-|/players/307210/jonas-hector       |           1|         43.0575|           2.3209|        0.2223|         0.7086|      0.0683|        0.0458|      0.1101| 90.0000|
-|/players/682385/timo-hbers         |           1|         57.1120|           1.4434|        0.1124|         0.5268|      0.0633|        0.0384|      0.0170| 90.0000|
-|/players/1199283/eric-martel       |           2|         49.5330|           2.3271|        0.2201|         0.8806|      0.0566|        0.0260|      0.0515| 90.0000|
-|/players/574642/ellyes-skhiri      |           2|         51.7237|           2.0533|        0.3040|         1.0400|      0.1083|        0.1355|      0.1135| 90.0000|
-|/players/930035/linton-maina       |           3|         20.5143|           0.9663|        0.4922|         1.6240|      0.1617|        0.0526|      0.1597| 75.8947|
-|/players/861668/dejan-ljubicic     |           3|         31.4854|           1.4960|        0.6235|         1.6551|      0.2158|        0.3159|      0.0969| 79.0556|
-|/players/187358/florian-kainz      |           3|         29.6809|           0.9945|        0.5845|         1.6293|      0.1498|        0.1663|      0.1423| 74.5625|
-|/players/423802/sargis-adamyan     |           5|         17.6392|           0.5010|        0.9078|         2.2341|      0.4024|        0.3810|      0.0729| 79.2500|
-|/players/630651/kingsley-schindler |           0|              NA|               NA|        0.0287|         0.0472|      0.0062|        0.0258|      0.0143| 15.4375|
-|/players/706500/steffen-tigges     |           0|              NA|               NA|        0.0478|         0.2357|      0.0739|        0.0469|      0.0062| 14.1053|
-|/players/501568/davie-selke        |           0|              NA|               NA|        0.1205|         0.1981|      0.0199|        0.0179|      0.0226| 10.9444|
-|/players/1235068/denis-huseinbasic |           0|              NA|               NA|        0.0572|         0.1880|      0.0407|        0.0573|      0.0037| 10.7500|
+|/players/573465/marvin-schwbe      |           0|         41.6398|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/461359/benno-schmitz      |           1|         38.3239|           1.1568|        0.1373|         0.4436|      0.0284|        0.0406|      0.1022| 90.0000|
+|/players/682385/timo-hbers         |           1|         53.8707|           1.1772|        0.0956|         0.5145|      0.0589|        0.0487|      0.0170| 90.0000|
+|/players/867080/julian-chabot      |           1|         54.5790|           1.9231|        0.1641|         0.5300|      0.0571|        0.0220|      0.0091| 90.0000|
+|/players/307210/jonas-hector       |           1|         40.6138|           1.8929|        0.1891|         0.6921|      0.0636|        0.0580|      0.1106| 90.0000|
+|/players/574642/ellyes-skhiri      |           2|         50.6035|           2.1289|        0.3323|         1.1019|      0.1095|        0.1256|      0.1165| 90.0000|
+|/players/1199283/eric-martel       |           2|         48.4602|           2.4128|        0.2406|         0.9331|      0.0572|        0.0241|      0.0528| 90.0000|
+|/players/930035/linton-maina       |           3|         19.7402|           0.7054|        0.5874|         1.5607|      0.1782|        0.0529|      0.1784| 75.8947|
+|/players/1235068/denis-huseinbasic |           3|         28.0219|           1.7871|        0.4464|         1.6360|      0.2168|        0.3237|      0.0557| 71.0000|
+|/players/187358/florian-kainz      |           3|         28.5608|           0.7260|        0.6975|         1.5657|      0.1651|        0.1673|      0.1590| 74.5625|
+|/players/706500/steffen-tigges     |           5|         17.2861|           0.5469|        0.8431|         2.1719|      0.3494|        0.3291|      0.0760| 77.5385|
+|/players/423802/sargis-adamyan     |          NA|              NA|               NA|        0.1541|         0.3115|      0.0753|        0.0876|      0.0244| 19.0000|
+|/players/1119643/jan-thielmann     |          NA|              NA|               NA|        0.0305|         0.1696|      0.0214|        0.0297|      0.0232| 15.4375|
+|/players/501568/davie-selke        |          NA|              NA|               NA|        0.1548|         0.3477|      0.0434|        0.0348|      0.0035| 14.1053|
+|/players/861668/dejan-ljubicic     |          NA|              NA|               NA|        0.0876|         0.1550|      0.0163|        0.0332|      0.0057| 12.4615|
 
 
-|manager_name     | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name     | approx_games| m_avg_elo_dif|formation |
 |:----------------|------------:|-------------:|:---------|
-|Steffen Baumgart |        55307|     -2.534495|4-2-3-1   |
+|Steffen Baumgart |     55.86566|     -2.534495|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about VfL Wolfsburg:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: expected"
 
 
-|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/170322/koen-casteels      |           0|         34.9836|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/883087/ridle-baku         |           1|         39.9864|           1.5992|        0.1685|         0.6687|      0.0307|        0.0638|      0.1480| 90.0000|
-|/players/922892/sebastiaan-bornauw |           1|         42.8503|           1.1005|        0.1375|         0.4585|      0.0344|        0.0198|      0.0060| 90.0000|
-|/players/950485/maxence-lacroix    |           1|         50.7222|           1.6268|        0.0617|         0.3940|      0.0364|        0.0086|      0.0148| 90.0000|
-|/players/865010/nicolas-cozza      |           1|         36.5863|           2.2511|        0.0751|         0.1948|      0.0549|        0.0343|      0.0361| 90.0000|
-|/players/450976/yannick-gerhardt   |           3|         33.8262|           1.4185|        0.2610|         0.7505|      0.1294|        0.1198|      0.0762| 80.3600|
-|/players/1073498/patrick-wimmer    |           3|         29.5657|           2.4105|        0.3496|         1.1447|      0.1356|        0.1317|      0.1026| 78.1786|
-|/players/647900/mattias-svanberg   |           3|         30.1910|           1.4761|        0.2947|         1.1852|      0.0549|        0.0193|      0.0615| 78.3871|
-|/players/298915/maximilian-arnold  |           3|         50.1557|           1.5456|        0.3165|         0.9207|      0.0787|        0.0930|      0.1419| 90.0000|
-|/players/839204/omar-marmoush      |           5|         19.4869|           0.7640|        0.3209|         1.2357|      0.2010|        0.0891|      0.1156| 72.2759|
-|/players/861197/lukas-nmecha       |           5|         21.0971|           0.6785|        1.1832|         2.4722|      0.3668|        0.4617|      0.0694| 90.0000|
-|/players/966019/felix-nmecha       |           0|              NA|               NA|        0.0462|         0.2159|      0.0491|        0.0402|      0.0070| 17.7241|
-|/players/1067260/jakub-kaminski    |           0|              NA|               NA|        0.1038|         0.1517|      0.0364|        0.0434|      0.0202| 11.8214|
-|/players/161421/josuha-guilavogui  |           0|              NA|               NA|        0.0302|         0.1058|      0.0200|        0.0177|      0.0074| 11.6129|
-|/players/889785/jonas-wind         |           0|              NA|               NA|        0.0359|         0.0840|      0.0161|        0.0244|      0.0068|  9.6400|
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1067260/jakub-kaminski       |           5|         26.0672|           1.1098|        0.7489|         1.6169|      0.0477|        0.0917|      0.1112| 84.5000|
+|/players/889785/jonas-wind            |           5|         27.7475|           0.4870|        0.7669|         2.2174|      0.3668|        0.3678|      0.1453| 90.0000|
+|/players/1073498/patrick-wimmer       |           5|         14.6295|           1.2683|        0.4280|         1.2704|      0.2799|        0.2192|      0.0731| 67.7143|
+|/players/450976/yannick-gerhardt      |           3|         36.2357|           1.6894|        0.2312|         0.6949|      0.1218|        0.1122|      0.0704| 80.3600|
+|/players/298915/maximilian-arnold     |           3|         53.7284|           1.8407|        0.2803|         0.8525|      0.0741|        0.0871|      0.1311| 90.0000|
+|/players/647900/mattias-svanberg      |           3|         32.3416|           1.7580|        0.2610|         1.0974|      0.0517|        0.0181|      0.0568| 78.3871|
+|/players/325028/paulo-silva           |           1|         37.4296|           2.6799|        0.0845|         0.3660|      0.0206|        0.0033|      0.0674| 90.0000|
+|/players/1097466/micky-van-de-ven     |           1|         55.0386|           1.2452|        0.1020|         0.3481|      0.0361|        0.0033|      0.0210| 90.0000|
+|/players/161421/josuha-guilavogui     |           1|         51.1592|           1.0838|        0.0845|         0.4246|      0.0486|        0.0033|      0.0252| 90.0000|
+|/players/883087/ridle-baku            |           1|         42.1419|           1.5050|        0.2311|         0.6503|      0.0692|        0.1350|      0.1208| 90.0000|
+|/players/170322/koen-casteels         |           0|         34.1134|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/966019/felix-nmecha          |          NA|              NA|               NA|        0.1233|         0.4828|      0.0719|        0.1027|      0.0100| 22.2857|
+|/players/1136099/kevin-paredes        |          NA|              NA|               NA|        0.1838|         0.1798|      0.0244|        0.0501|      0.0160| 11.6129|
+|/players/540073/gian-luca-waldschmidt |          NA|              NA|               NA|        0.0610|         0.1791|      0.0397|        0.0090|      0.0245|  9.6400|
+|/players/865010/nicolas-cozza         |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0028|  5.5000|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Niko Kovac   |        87207|      8.833656|4-4-2     |
+|Niko Kovac   |     88.08788|      8.833656|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3903736/Soccer_Models'...
+Receiving objects:   1% (46/4542),   63 kb
+Receiving objects:  11% (500/4542),  127 kb
+Receiving objects:  21% (954/4542),  183 kb
+Receiving objects:  31% (1409/4542),  407 kb
+Receiving objects:  41% (1863/4542),  856 kb
+Receiving objects:  51% (2317/4542), 1024 kb
+Receiving objects:  61% (2771/4542), 1416 kb
+Receiving objects:  71% (3225/4542), 10301 kb
+Receiving objects:  81% (3680/4542), 10582 kb
+Receiving objects:  91% (4134/4542), 10806 kb
+Receiving objects: 100% (4542/4542), 11199 kb, done.
