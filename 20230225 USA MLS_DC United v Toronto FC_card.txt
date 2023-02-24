@@ -1,18 +1,18 @@
-[1] "Updated at 2023-02-22 08:50:04.990"
+[1] "Updated at 2023-02-24 00:16:12.421"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: DC United 1.025 to Toronto FC 1.2893"
-[1] "Total: 2.3143"
-[1] "DC United %: 29.19"
-[1] "Draw %: 28.56"
-[1] "Toronto FC %: 42.25"
+[1] "Score: DC United 1.0254 to Toronto FC 1.2898"
+[1] "Total: 2.3152"
+[1] "DC United %: 29.22"
+[1] "Draw %: 28.59"
+[1] "Toronto FC %: 42.19"
 [1] "--XG Model--"
-[1] "Score: DC United 1.0204 to Toronto FC 1.319"
-[1] "Total: 2.3394"
-[1] "DC United %: 28.79"
-[1] "Draw %: 28.17"
-[1] "Toronto FC %: 43.04"
+[1] "Score: DC United 1.0163 to Toronto FC 1.3139"
+[1] "Total: 2.3302"
+[1] "DC United %: 29.04"
+[1] "Draw %: 28.27"
+[1] "Toronto FC %: 42.69"
 [1] "--XGoT Model--"
 [1] "Score: DC United 0.9938 to Toronto FC 1.2921"
 [1] "Total: 2.2859"
@@ -20,19 +20,19 @@
 [1] "Draw %: 28.83"
 [1] "Toronto FC %: 42.75"
 [1] "--XA Model--"
-[1] "Score: DC United 1.0504 to Toronto FC 1.379"
-[1] "Total: 2.4294"
-[1] "DC United %: 28.88"
-[1] "Draw %: 27.24"
-[1] "Toronto FC %: 43.88"
+[1] "Score: DC United 1.0415 to Toronto FC 1.3667"
+[1] "Total: 2.4082"
+[1] "DC United %: 28.58"
+[1] "Draw %: 27.63"
+[1] "Toronto FC %: 43.79"
 [1] "--Mean 4 Models--"
-[1] "DC United has a mean win % of 28.82%; a min win % of 28.42%; a max win % of 29.19%."
-[1] "Draw has a mean win % of 28.2%; a min win % of 27.24%; a max win % of 28.83%."
-[1] "Toronto FC has a mean win % of 42.98%; a min win % of 42.25%; a max win of % 43.88%."
-[1] "DC United has a mean win of the Double Chance of 57.02%; a min win % of 56.12%, a max win % of 57.75%."
-[1] "Toronto FC has a mean win of the Double Chance of 71.18%; a min win % of 70.81%, a max win % of 71.58%."
-[1] "The mean likelihood that there are more than 2.5 goals is 40.88%; max % is 43.52 and min % is 39.17%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 59.11%; max % is 60.83 and min % is 56.48%."
+[1] "DC United has a mean win % of 28.82%; a min win % of 28.42%; a max win % of 29.22%."
+[1] "Draw has a mean win % of 28.33%; a min win % of 27.63%; a max win % of 28.83%."
+[1] "Toronto FC has a mean win % of 42.85%; a min win % of 42.19%; a max win of % 43.79%."
+[1] "DC United has a mean win of the Double Chance of 57.15%; a min win % of 56.21%, a max win % of 57.81%."
+[1] "Toronto FC has a mean win of the Double Chance of 71.18%; a min win % of 70.78%, a max win % of 71.58%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.7%; max % is 42.91 and min % is 39.17%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.3%; max % is 60.83 and min % is 57.09%."
 [1] "--Sportsbook Odds--"
 [1] "DC United Barstool Odds are: 43.48"
 [1] "The Barstool Odds of a Draw are: 27.78"
@@ -60,9 +60,9 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Wayne Rooney |        86880|     -5.354432|4-2-3-1   |
+|Wayne Rooney |     87.75758|     -5.354432|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about Toronto FC:"
@@ -73,6 +73,18 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Bob Bradley  |        81055|      6.740119|4-3-3     |
+|Bob Bradley  |     81.87374|      6.740119|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084804/Soccer_Models'...
+Receiving objects:   1% (45/4500),   63 kb
+Receiving objects:  11% (495/4500),  127 kb
+Receiving objects:  21% (945/4500),  183 kb
+Receiving objects:  31% (1395/4500),  351 kb
+Receiving objects:  41% (1845/4500),  856 kb
+Receiving objects:  51% (2295/4500), 1024 kb
+Receiving objects:  61% (2745/4500), 1360 kb
+Receiving objects:  71% (3195/4500), 10261 kb
+Receiving objects:  81% (3645/4500), 10542 kb
+Receiving objects:  91% (4095/4500), 10766 kb
+Receiving objects: 100% (4500/4500), 11176 kb, done.
