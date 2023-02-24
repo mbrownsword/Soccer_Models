@@ -1,0 +1,164 @@
+[1] "Updated at 2023-02-23 20:45:04.437"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Valencia 1.1982 to Real Sociedad 1.1166"
+[1] "Total: 2.3148"
+[1] "Valencia %: 38.1"
+[1] "Draw %: 28.39"
+[1] "Real Sociedad %: 33.51"
+[1] "--XG Model--"
+[1] "Score: Valencia 1.1811 to Real Sociedad 1.3806"
+[1] "Total: 2.5617"
+[1] "Valencia %: 32.12"
+[1] "Draw %: 26.89"
+[1] "Real Sociedad %: 40.99"
+[1] "--XGoT Model--"
+[1] "Score: Valencia 1.2026 to Real Sociedad 1.5669"
+[1] "Total: 2.7695"
+[1] "Valencia %: 29.32"
+[1] "Draw %: 25.4"
+[1] "Real Sociedad %: 45.28"
+[1] "--XA Model--"
+[1] "Score: Valencia 1.1903 to Real Sociedad 1.2676"
+[1] "Total: 2.4579"
+[1] "Valencia %: 34.5"
+[1] "Draw %: 27.85"
+[1] "Real Sociedad %: 37.65"
+[1] "--Mean 4 Models--"
+[1] "Valencia has a mean win % of 33.51%; a min win % of 29.32%; a max win % of 38.1%."
+[1] "Draw has a mean win % of 27.13%; a min win % of 25.4%; a max win % of 28.39%."
+[1] "Real Sociedad has a mean win % of 39.36%; a min win % of 33.51%; a max win of % 45.28%."
+[1] "Valencia has a mean win of the Double Chance of 60.64%; a min win % of 54.72%, a max win % of 66.49%."
+[1] "Real Sociedad has a mean win of the Double Chance of 66.49%; a min win % of 61.9%, a max win % of 70.68%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.11%; max % is 51.36 and min % is 39.6%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.89%; max % is 60.4 and min % is 48.64%."
+[1] "--Sportsbook Odds--"
+[1] "Valencia Barstool Odds are: 31.25"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Real Sociedad Barstool Odds are: 43.48"
+[1] "Valencia Adjusted Barstool Odds are: 29.487"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.487"
+[1] "Real Sociedad Adjusted Barstool Odds are: 41.027"
+[1] "Valencia's Barstool Odds to cover the 0.5 spread are: 61.35"
+[1] "Real Sociedad's Barstool Odds to cover the -0.5 spread are: 43.1"
+[1] "Barstool's line for the total is 2.5 at 2.35, which is a 42.55% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 12:00:00
+
+
+|player          |team | number|  odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:---------------|:----|------:|-----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Mikel Oyarzabal |RSO  |      2|  4.90|      0.2041|  0.4260|   0.2219|tackles   |ESP Spain |          NA|         NA|        NA|         NA|       NA|
+|Mikel Oyarzabal |RSO  |      3| 12.65|      0.0791|  0.2179|   0.1388|tackles   |ESP Spain |          NA|         NA|        NA|         NA|       NA|
+|Yunus Musah     |VAL  |     25|  1.50|          NA|  0.8609|   0.1942|passes    |ESP Spain |      0.6667|         NA|        NA|         NA|       NA|
+|Mikel Oyarzabal |RSO  |     32|  2.11|          NA|  0.8972|   0.4233|passes    |ESP Spain |      0.4739|         NA|        NA|         NA|       NA|
+|Mikel Oyarzabal |RSO  |     36|  2.52|          NA|  0.7268|   0.3300|passes    |ESP Spain |      0.3968|         NA|        NA|         NA|       NA|
+|Mikel Oyarzabal |RSO  |     40|  3.21|          NA|  0.4857|   0.1742|passes    |ESP Spain |      0.3115|         NA|        NA|         NA|       NA|
+|Mikel Oyarzabal |RSO  |     28|  1.68|          NA|  0.9747|   0.3795|passes    |ESP Spain |      0.5952|         NA|        NA|         NA|       NA|
+|Mikel Oyarzabal |RSO  |     24|  1.40|          NA|  0.9963|   0.2820|passes    |ESP Spain |      0.7143|         NA|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team          | expected_attg| expected_gs|bet |
+|:------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/948800/giorgi-mamardashvili |Valencia      |      0.000000|   0.2439024|    |
+|/players/177503/gabriel-paulista     |Valencia      |      0.026975|   0.0526316|    |
+|/players/705484/eray-cmert           |Valencia      |      0.080725|   0.0384615|    |
+|/players/992052/thierry-correia      |Valencia      |      0.001375|   0.0526316|    |
+|/players/561198/mouctar-diakhaby     |Valencia      |      0.021675|   0.0769231|    |
+|/players/794253/justin-kluivert      |Valencia      |      0.149525|   0.2083333|    |
+|/players/777028/andr-almeida         |Valencia      |      0.112325|   0.1250000|    |
+|/players/1120936/hugo-guillamon      |Valencia      |      0.026725|   0.0909091|    |
+|/players/1137272/yunus-musah         |Valencia      |      0.028900|   0.1111111|    |
+|/players/929838/hugo-duro            |Valencia      |      0.157300|   0.2702703|    |
+|/players/1082941/samuel-dias-lino    |Valencia      |      0.313025|   0.2941176|    |
+|/players/616539/alex-remiro          |Real Sociedad |      0.000000|   0.0500000|    |
+|/players/607148/aritz-elustondo      |Real Sociedad |      0.082150|   0.2127660|    |
+|/players/698653/igor-zubeldia        |Real Sociedad |      0.024100|   0.0714286|    |
+|/players/488718/diego-rico           |Real Sociedad |      0.008100|   0.0384615|    |
+|/players/609516/robin-le-normand     |Real Sociedad |      0.016050|   0.0285714|    |
+|/players/1031325/martin-zubimendi    |Real Sociedad |      0.053250|   0.0434783|    |
+|/players/37459/david-silva           |Real Sociedad |      0.142325|   0.1250000|    |
+|/players/574645/mikel-merino         |Real Sociedad |      0.021100|   0.1111111|    |
+|/players/640122/brais-mndez          |Real Sociedad |      0.169400|   0.2500000|    |
+|/players/848289/takefusa-kubo        |Real Sociedad |      0.127125|   0.2702703|    |
+|/players/440330/alexander-srloth     |Real Sociedad |      0.355025|   0.3571429|    |
+|/players/1109046/ilaix-moriba        |Valencia      |      0.098375|   0.1176471|    |
+|/players/261609/dimitri-foulquier    |Valencia      |      0.000000|   0.1724138|    |
+|/players/674518/toni-lato            |Valencia      |      0.000000|   0.0666667|    |
+|/players/1220187/jesus-vzquez        |Valencia      |      0.000000|   0.0384615|    |
+|/players/1180718/mohamed-ali-cho     |Real Sociedad |      0.048225|   0.4166667|    |
+|/players/1011117/robert-navarro      |Real Sociedad |      0.026750|   0.2222222|    |
+|/players/839893/andoni-gorosabel     |Real Sociedad |      0.000000|   0.0294118|    |
+|/players/678234/mikel-oyarzabal      |Real Sociedad |      0.040725|   0.3636364|    |
+____________________________________________________
+
+[1] "Facts about Valencia:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/948800/giorgi-mamardashvili |           0|         25.2620|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/177503/gabriel-paulista     |           1|         41.6493|           0.7764|        0.1265|         0.4815|      0.0300|        0.0281|      0.0280| 90.0000|
+|/players/705484/eray-cmert           |           1|         50.7376|           1.6400|        0.3033|         0.8246|      0.0849|        0.0932|      0.0161| 90.0000|
+|/players/992052/thierry-correia      |           1|         37.8325|           2.3706|        0.0346|         0.2926|      0.0107|        0.0016|      0.1243| 90.0000|
+|/players/561198/mouctar-diakhaby     |           1|         38.8344|           1.1664|        0.0518|         0.3562|      0.0598|        0.0240|      0.0227| 90.0000|
+|/players/794253/justin-kluivert      |           3|         22.9975|           1.3231|        0.7447|         1.9584|      0.2252|        0.1683|      0.1732| 79.3810|
+|/players/777028/andr-almeida         |           3|         31.0979|           1.3988|        0.3022|         1.0545|      0.0669|        0.1241|      0.0751| 73.8261|
+|/players/1120936/hugo-guillamon      |           3|         43.6319|           1.2043|        0.1122|         0.2481|      0.0160|        0.0312|      0.0443| 78.2941|
+|/players/1137272/yunus-musah         |           3|         31.5523|           2.3587|        0.1121|         0.8164|      0.0636|        0.0311|      0.0392| 78.2581|
+|/players/929838/hugo-duro            |           5|         15.0963|           0.5949|        0.4408|         1.1548|      0.1417|        0.1833|      0.0618| 90.0000|
+|/players/1082941/samuel-dias-lino    |           5|         29.7494|           0.8168|        1.1527|         3.0197|      0.4321|        0.4041|      0.0990| 90.0000|
+|/players/1109046/ilaix-moriba        |           0|              NA|               NA|        0.4046|         0.7826|      0.0696|        0.1138|      0.0160| 16.1739|
+|/players/261609/dimitri-foulquier    |           0|              NA|               NA|        0.0000|         0.1076|      0.0042|        0.0000|      0.0342| 11.7419|
+|/players/674518/toni-lato            |           0|              NA|               NA|        0.0000|         0.1761|      0.0315|        0.0000|      0.0148| 11.7059|
+|/players/1220187/jesus-vzquez        |           0|              NA|               NA|        0.0000|         0.2419|      0.0475|        0.0000|      0.0260| 10.6190|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ruben Baraja |            1|    -0.5453333|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Real Sociedad:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/616539/alex-remiro       |           0|         31.5308|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/607148/aritz-elustondo   |           1|         44.9595|           1.5298|        0.1525|         0.3455|      0.0445|        0.1114|      0.0578| 90.0000|
+|/players/698653/igor-zubeldia     |           1|         45.6267|           1.3805|        0.1119|         0.4509|      0.0492|        0.0322|      0.0402| 90.0000|
+|/players/488718/diego-rico        |           1|         34.7844|           1.9326|        0.1052|         0.4239|      0.0264|        0.0100|      0.1148| 82.7838|
+|/players/609516/robin-le-normand  |           1|         46.1815|           1.4046|        0.1054|         0.5097|      0.0626|        0.0228|      0.0206| 90.0000|
+|/players/1031325/martin-zubimendi |           3|         44.4014|           1.6887|        0.1899|         0.5130|      0.0497|        0.0680|      0.0590| 90.0000|
+|/players/37459/david-silva        |           3|         33.0679|           0.9205|        0.3670|         1.0675|      0.1340|        0.2012|      0.1455| 73.1714|
+|/players/574645/mikel-merino      |           3|         40.4387|           2.3837|        0.2480|         0.9988|      0.0927|        0.0283|      0.0883| 90.0000|
+|/players/640122/brais-mndez       |           3|         31.2919|           2.0860|        0.5596|         1.7039|      0.1722|        0.2325|      0.1304| 90.0000|
+|/players/848289/takefusa-kubo     |           5|         20.5610|           0.6448|        0.4846|         1.3860|      0.1386|        0.1807|      0.0995| 74.0000|
+|/players/440330/alexander-srloth  |           5|         17.7125|           0.7318|        0.9271|         2.1241|      0.5388|        0.5720|      0.0691| 82.9348|
+|/players/1180718/mohamed-ali-cho  |           0|              NA|               NA|        0.1986|         0.6143|      0.0656|        0.0617|      0.0198| 16.8286|
+|/players/1011117/robert-navarro   |           0|              NA|               NA|        0.1237|         0.4594|      0.0433|        0.0367|      0.0426| 16.0000|
+|/players/839893/andoni-gorosabel  |           0|              NA|               NA|        0.0000|         0.0229|      0.0015|        0.0000|      0.0220|  7.2162|
+|/players/678234/mikel-oyarzabal   |           0|              NA|               NA|        0.0668|         0.1241|      0.0665|        0.0541|      0.0255|  7.0652|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Imanol Alguacil |     117.8141|      7.331655|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918159/Soccer_Models'...
+Receiving objects:   1% (45/4467),   63 kb
+Receiving objects:  11% (492/4467),  127 kb
+Receiving objects:  21% (939/4467),  183 kb
+Receiving objects:  31% (1385/4467),  335 kb
+Receiving objects:  41% (1832/4467),  840 kb
+Receiving objects:  51% (2279/4467),  952 kb
+Receiving objects:  61% (2725/4467), 1344 kb
+Receiving objects:  71% (3172/4467), 10253 kb
+Receiving objects:  81% (3619/4467), 10525 kb
+Receiving objects:  91% (4065/4467), 10806 kb
+Receiving objects: 100% (4467/4467), 11148 kb, done.
