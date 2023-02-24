@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 07:51:53.332"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: FC Groningen 1.9487 to Excelsior 1.2767"
+[1] "Total: 3.2254"
+[1] "FC Groningen %: 52.91"
+[1] "Draw %: 22.38"
+[1] "Excelsior %: 24.71"
+[1] "--XG Model--"
+[1] "Score: FC Groningen 1.95 to Excelsior 1.2054"
+[1] "Total: 3.1554"
+[1] "FC Groningen %: 54.49"
+[1] "Draw %: 22.16"
+[1] "Excelsior %: 23.35"
+[1] "--XGoT Model--"
+[1] "Score: FC Groningen 1.8197 to Excelsior 1.1268"
+[1] "Total: 2.9465"
+[1] "FC Groningen %: 54.4"
+[1] "Draw %: 22.7"
+[1] "Excelsior %: 22.9"
+[1] "--XA Model--"
+[1] "Score: FC Groningen 1.8294 to Excelsior 1.0533"
+[1] "Total: 2.8827"
+[1] "FC Groningen %: 56.05"
+[1] "Draw %: 22.76"
+[1] "Excelsior %: 21.19"
+[1] "--Mean 4 Models--"
+[1] "FC Groningen has a mean win % of 54.46%; a min win % of 52.91%; a max win % of 56.05%."
+[1] "Draw has a mean win % of 22.5%; a min win % of 22.16%; a max win % of 22.76%."
+[1] "Excelsior has a mean win % of 23.04%; a min win % of 21.19%; a max win of % 24.71%."
+[1] "FC Groningen has a mean win of the Double Chance of 76.96%; a min win % of 75.29%, a max win % of 78.81%."
+[1] "Excelsior has a mean win of the Double Chance of 45.54%; a min win % of 43.95%, a max win % of 47.09%."
+[1] "The mean likelihood that there are more than 2.5 goals is 58.23%; max % is 62.25 and min % is 54.29%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 41.77%; max % is 45.71 and min % is 37.75%."
+[1] "--Sportsbook Odds--"
+[1] "FC Groningen Barstool Odds are: 54.95"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Excelsior Barstool Odds are: 26.32"
+[1] "FC Groningen Adjusted Barstool Odds are: 51.074"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.463"
+[1] "Excelsior Adjusted Barstool Odds are: 24.463"
+[1] "FC Groningen's Barstool Odds to cover the -0.5 spread are: 53.76"
+[1] "Excelsior's Barstool Odds to cover the 0.5 spread are: 50.76"
+[1] "Barstool's line for the total is 2.5 at 1.75, which is a 57.14% chance of the over 2.5 hitting. The line for the under is 2.07, which is a 48.31% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team         | expected_attg| expected_gs|bet |
+|:--------------------------------------|:------------|-------------:|-----------:|:---|
+|/players/564585/michael-verrips        |FC Groningen |      0.000000|   0.1960784|    |
+|/players/496565/damil-dankerlui        |FC Groningen |      0.030200|   0.1666667|    |
+|/players/957358/radinio-balker         |FC Groningen |      0.086275|   0.0833333|    |
+|/players/1256173/thijmen-blokzijl      |FC Groningen |      0.050700|   0.0833333|    |
+|/players/1037037/isak-dybvik           |FC Groningen |      0.030525|   0.1428571|    |
+|/players/1127054/tomas-suslov          |FC Groningen |      0.061000|   0.3571429|    |
+|/players/248151/joey-pelupessy         |FC Groningen |      0.056875|   0.1000000|    |
+|/players/794072/daleho-irandust        |FC Groningen |      0.215325|   0.2325581|    |
+|/players/741431/johan-hove             |FC Groningen |      0.215875|   0.2857143|    |
+|/players/240346/elvis-manu             |FC Groningen |      0.201000|   0.3448276|    |
+|/players/1036401/ricardo-pepi          |FC Groningen |      0.378350|   0.4255319|    |
+|/players/560847/lazaros-lamprou        |Excelsior    |      0.378100|   0.1818182|*   |
+|/players/1088043/marouan-azarkan       |Excelsior    |      0.054825|   0.1960784|    |
+|/players/1184693/couhaib-driouech      |Excelsior    |      0.083850|   0.1538462|    |
+|/players/1075242/nathan-tjoe-a-on      |Excelsior    |      0.054750|   0.0416667|    |
+|/players/915415/peer-koopmeiners       |Excelsior    |      0.055300|   0.1250000|    |
+|/players/929665/kenzo-goudmijn         |Excelsior    |      0.054225|   0.2631579|    |
+|/players/770402/siebe-horemans         |Excelsior    |      0.025450|   0.0952381|    |
+|/players/861652/maxime-awoudja         |Excelsior    |      0.036400|   0.0769231|    |
+|/players/860740/redouan-el-yaakoubi    |Excelsior    |      0.033750|   0.2777778|    |
+|/players/422117/sven-nieuwpoort        |Excelsior    |      0.032925|   0.0526316|    |
+|/players/510425/stijn-van-gassel       |Excelsior    |      0.000000|   0.1333333|    |
+|/players/1136003/paulos-abraham        |FC Groningen |      0.054625|   0.2325581|    |
+|/players/665165/ramon-pascal-lundqvist |FC Groningen |      0.015700|   0.2564103|    |
+|/players/1021082/oliver-antman         |FC Groningen |      0.185200|   0.3030303|    |
+|/players/1042511/aimar-sher            |FC Groningen |      0.000000|   0.1250000|    |
+|/players/1075956/reda-kharchouch       |Excelsior    |      0.147125|   0.2857143|    |
+|/players/767797/adrian-fein            |Excelsior    |      0.006475|   0.0952381|    |
+|/players/1183485/vicente-besuijen      |Excelsior    |      0.006900|   0.1818182|    |
+|/players/259375/mike-van-duinen        |Excelsior    |      0.000000|   0.2564103|    |
+____________________________________________________
+
+[1] "Facts about FC Groningen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/564585/michael-verrips        |           0|         33.6008|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/496565/damil-dankerlui        |           1|         46.1999|           2.5001|        0.1057|         0.7638|      0.0317|        0.0299|      0.1312| 90.0000|
+|/players/957358/radinio-balker         |           1|         52.5029|           1.4053|        0.0919|         0.4170|      0.0621|        0.0889|      0.0375| 78.2143|
+|/players/1256173/thijmen-blokzijl      |           1|         62.0811|           0.7186|        0.3289|         0.7464|      0.0671|        0.0497|      0.0516| 90.0000|
+|/players/1037037/isak-dybvik           |           1|         42.1090|           1.5134|        0.1979|         0.6737|      0.0768|        0.0299|      0.0900| 90.0000|
+|/players/1127054/tomas-suslov          |           2|         48.2550|           2.7843|        0.3536|         1.8890|      0.1030|        0.0593|      0.1502| 90.0000|
+|/players/248151/joey-pelupessy         |           2|         49.1486|           1.4584|        0.1441|         0.2565|      0.0407|        0.0562|      0.0450| 74.4444|
+|/players/794072/daleho-irandust        |           3|         31.8865|           0.6775|        0.6915|         2.2243|      0.2592|        0.2202|      0.2733| 75.7222|
+|/players/741431/johan-hove             |           3|         45.2998|           2.3903|        0.6737|         2.2494|      0.2351|        0.2327|      0.2080| 90.0000|
+|/players/240346/elvis-manu             |           3|         12.6018|           0.6098|        0.7779|         1.3967|      0.1474|        0.2187|      0.0250| 63.0000|
+|/players/1036401/ricardo-pepi          |           5|         19.8366|           0.5835|        1.1481|         2.9360|      0.4875|        0.4495|      0.1054| 90.0000|
+|/players/1136003/paulos-abraham        |          NA|              NA|               NA|        0.2936|         1.0571|      0.1134|        0.0539|      0.1449| 27.0000|
+|/players/665165/ramon-pascal-lundqvist |          NA|              NA|               NA|        0.0934|         0.6418|      0.0454|        0.0146|      0.0476| 15.5556|
+|/players/1021082/oliver-antman         |          NA|              NA|               NA|        1.0381|         1.8536|      0.2213|        0.2015|      0.0202| 14.2778|
+|/players/1042511/aimar-sher            |          NA|              NA|               NA|        0.0000|         0.4020|      0.0157|        0.0000|      0.0234| 11.7857|
+
+
+|manager_name       | approx_games| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Dennis van der Ree |            8|      -12.9975|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Excelsior:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/560847/lazaros-lamprou     |           5|         19.2010|           0.8279|        1.3228|         3.4810|      0.4134|        0.4577|      0.0454| 73.0000|
+|/players/1088043/marouan-azarkan    |           5|         14.9341|           0.7190|        0.2646|         0.5222|      0.1452|        0.0539|      0.1408| 63.4000|
+|/players/1184693/couhaib-driouech   |           5|         17.7787|           1.1983|        0.2205|         0.5802|      0.0207|        0.0868|      0.0505| 65.6667|
+|/players/1075242/nathan-tjoe-a-on   |           3|         26.7294|           3.0357|        0.2016|         0.6775|      0.0609|        0.0519|      0.0117| 90.0000|
+|/players/915415/peer-koopmeiners    |           3|         45.8961|           1.7629|        0.2856|         1.1555|      0.0609|        0.0519|      0.0117| 90.0000|
+|/players/929665/kenzo-goudmijn      |           3|         33.4950|           1.5884|        0.2016|         0.6775|      0.0609|        0.0519|      0.1058| 90.0000|
+|/players/770402/siebe-horemans      |           3|         18.9692|           0.7942|        0.1008|         0.3388|      0.0304|        0.0259|      0.1174| 45.0000|
+|/players/861652/maxime-awoudja      |           1|         46.1513|           2.5839|        0.1135|         0.4234|      0.0650|        0.0359|      0.0194| 90.0000|
+|/players/860740/redouan-el-yaakoubi |           1|         48.3833|           1.5996|        0.2249|         0.8179|      0.0424|        0.0359|      0.0364| 90.0000|
+|/players/422117/sven-nieuwpoort     |           1|         35.4523|           0.5625|        0.0265|         0.1975|      0.0239|        0.0359|      0.0160| 90.0000|
+|/players/510425/stijn-van-gassel    |           0|         27.4349|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1075956/reda-kharchouch    |          NA|              NA|               NA|        0.4557|         1.3994|      0.1628|        0.1548|      0.0722| 45.0000|
+|/players/767797/adrian-fein         |          NA|              NA|               NA|        0.1300|         0.1330|      0.0084|        0.0058|      0.0265| 26.6000|
+|/players/1183485/vicente-besuijen   |          NA|              NA|               NA|        0.2445|         0.6256|      0.0176|        0.0064|      0.0031| 24.3333|
+|/players/259375/mike-van-duinen     |          NA|              NA|               NA|        0.1052|         0.4306|      0.0532|        0.0000|      0.0155| 17.0000|
+
+
+|manager_name       | approx_games| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Marinus Dijkhuizen |     21.95657|     -11.11906|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3900541/Soccer_Models'...
+Receiving objects:   1% (46/4563),   63 kb
+Receiving objects:  11% (502/4563),  127 kb
+Receiving objects:  21% (959/4563),  183 kb
+Receiving objects:  31% (1415/4563),  407 kb
+Receiving objects:  41% (1871/4563),  856 kb
+Receiving objects:  51% (2328/4563), 1024 kb
+Receiving objects:  61% (2784/4563), 1416 kb
+Receiving objects:  71% (3240/4563), 10341 kb
+Receiving objects:  81% (3697/4563), 10606 kb
+Receiving objects:  91% (4153/4563), 10774 kb
+Receiving objects: 100% (4563/4563), 11223 kb, done.
