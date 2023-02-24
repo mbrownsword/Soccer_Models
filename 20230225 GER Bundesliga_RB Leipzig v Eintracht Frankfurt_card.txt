@@ -1,145 +1,152 @@
-[1] "Updated at 2023-02-22 15:36:40.031"
+[1] "Updated at 2023-02-24 06:58:29.028"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: RB Leipzig 1.934 to Eintracht Frankfurt 1.0153"
-[1] "Total: 2.9493"
-[1] "RB Leipzig %: 58.82"
-[1] "Draw %: 21.54"
-[1] "Eintracht Frankfurt %: 19.64"
+[1] "Score: RB Leipzig 1.9153 to Eintracht Frankfurt 0.9817"
+[1] "Total: 2.897"
+[1] "RB Leipzig %: 58.95"
+[1] "Draw %: 21.83"
+[1] "Eintracht Frankfurt %: 19.22"
 [1] "--XG Model--"
-[1] "Score: RB Leipzig 2.3441 to Eintracht Frankfurt 1.1517"
-[1] "Total: 3.4958"
-[1] "RB Leipzig %: 64"
-[1] "Draw %: 19.01"
-[1] "Eintracht Frankfurt %: 16.99"
+[1] "Score: RB Leipzig 2.1832 to Eintracht Frankfurt 1.007"
+[1] "Total: 3.1902"
+[1] "RB Leipzig %: 63.98"
+[1] "Draw %: 19.92"
+[1] "Eintracht Frankfurt %: 16.1"
 [1] "--XGoT Model--"
-[1] "Score: RB Leipzig 2.041 to Eintracht Frankfurt 0.9646"
-[1] "Total: 3.0056"
-[1] "RB Leipzig %: 62.63"
-[1] "Draw %: 20.7"
-[1] "Eintracht Frankfurt %: 16.67"
+[1] "Score: RB Leipzig 1.9401 to Eintracht Frankfurt 0.8658"
+[1] "Total: 2.8059"
+[1] "RB Leipzig %: 63.21"
+[1] "Draw %: 21.21"
+[1] "Eintracht Frankfurt %: 15.58"
 [1] "--XA Model--"
-[1] "Score: RB Leipzig 2.2069 to Eintracht Frankfurt 0.9853"
-[1] "Total: 3.1922"
-[1] "RB Leipzig %: 64.9"
-[1] "Draw %: 19.77"
-[1] "Eintracht Frankfurt %: 15.33"
+[1] "Score: RB Leipzig 2.071 to Eintracht Frankfurt 0.9228"
+[1] "Total: 2.9938"
+[1] "RB Leipzig %: 64.21"
+[1] "Draw %: 20.53"
+[1] "Eintracht Frankfurt %: 15.26"
 [1] "--Mean 4 Models--"
-[1] "RB Leipzig has a mean win % of 62.59%; a min win % of 58.82%; a max win % of 64.9%."
-[1] "Draw has a mean win % of 20.26%; a min win % of 19.01%; a max win % of 21.54%."
-[1] "Eintracht Frankfurt has a mean win % of 17.16%; a min win % of 15.33%; a max win of % 19.64%."
-[1] "RB Leipzig has a mean win of the Double Chance of 82.84%; a min win % of 80.36%, a max win % of 84.67%."
-[1] "Eintracht Frankfurt has a mean win of the Double Chance of 37.41%; a min win % of 35.1%, a max win % of 41.18%."
-[1] "The mean likelihood that there are more than 2.5 goals is 60.62%; max % is 67.53 and min % is 55.74%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 39.38%; max % is 44.26 and min % is 32.47%."
+[1] "RB Leipzig has a mean win % of 62.59%; a min win % of 58.95%; a max win % of 64.21%."
+[1] "Draw has a mean win % of 20.87%; a min win % of 19.92%; a max win % of 21.83%."
+[1] "Eintracht Frankfurt has a mean win % of 16.54%; a min win % of 15.26%; a max win of % 19.22%."
+[1] "RB Leipzig has a mean win of the Double Chance of 83.46%; a min win % of 80.78%, a max win % of 84.74%."
+[1] "Eintracht Frankfurt has a mean win of the Double Chance of 37.41%; a min win % of 35.79%, a max win % of 41.05%."
+[1] "The mean likelihood that there are more than 2.5 goals is 56.55%; max % is 61.69 and min % is 52.38%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 43.45%; max % is 47.62 and min % is 38.31%."
 [1] "--Sportsbook Odds--"
-[1] "RB Leipzig Barstool Odds are: 60.61"
-[1] "The Barstool Odds of a Draw are: 23.81"
-[1] "Eintracht Frankfurt Barstool Odds are: 20.83"
-[1] "RB Leipzig Adjusted Barstool Odds are: 57.587"
-[1] "The Adjusted Barstool Odds of a Draw are: 22.622"
-[1] "Eintracht Frankfurt Adjusted Barstool Odds are: 19.791"
-[1] "RB Leipzig's Barstool Odds to cover the -0.5 spread are: 59.88"
-[1] "Eintracht Frankfurt's Barstool Odds to cover the 0.5 spread are: 44.44"
-[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.18, which is a 45.87% chance of the under 2.5 hitting."
+[1] "RB Leipzig Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Eintracht Frankfurt Barstool Odds are: 21.74"
+[1] "RB Leipzig Adjusted Barstool Odds are: 55.722"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.683"
+[1] "Eintracht Frankfurt Adjusted Barstool Odds are: 20.595"
+[1] "RB Leipzig's Barstool Odds to cover the -0.5 spread are: 58.48"
+[1] "Eintracht Frankfurt's Barstool Odds to cover the 0.5 spread are: 46.08"
+[1] "Barstool's line for the total is 2.5 at 1.71, which is a 58.48% chance of the over 2.5 hitting. The line for the under is 2.15, which is a 46.51% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-02-25 06:30:00
-
-
-|player     |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_shots| prob_sogs| prob_goals| prob_ast|
-|:----------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|----------:|---------:|----------:|--------:|
-|David Raum |RBL  |      2| 7.25|          NA|  0.3492|   0.2113|shots     |GER Germany |     0.1379|        NA|         NA|       NA|
+         bet           date_time
+1 RB Leipzig 2023-02-25 06:30:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                            |team                | expected_attg| expected_gs|bet |
 |:-----------------------------------|:-------------------|-------------:|-----------:|:---|
 |/players/278814/janis-blaswich      |RB Leipzig          |      0.000000|   0.1428571|    |
-|/players/526657/lukas-klostermann   |RB Leipzig          |      0.038650|   0.0769231|    |
-|/players/1039600/mohamed-simakan    |RB Leipzig          |      0.039000|   0.0769231|    |
-|/players/278856/willi-orban         |RB Leipzig          |      0.045825|   0.1666667|    |
-|/players/1070712/josko-gvardiol     |RB Leipzig          |      0.069175|   0.1111111|    |
-|/players/688830/amadou-haidara      |RB Leipzig          |      0.136150|   0.1111111|    |
-|/players/620027/xaver-schlager      |RB Leipzig          |      0.033300|   0.1818182|    |
-|/players/806669/david-raum          |RB Leipzig          |      0.258775|   0.0769231|*   |
-|/players/526827/konrad-laimer       |RB Leipzig          |      0.188175|   0.1428571|    |
-|/players/185175/kevin-kampl         |RB Leipzig          |      0.187050|   0.1333333|*   |
-|/players/704523/christopher-nkunku  |RB Leipzig          |      0.454600|   0.4444444|    |
+|/players/526657/lukas-klostermann   |RB Leipzig          |      0.036550|   0.0769231|    |
+|/players/278856/willi-orban         |RB Leipzig          |      0.043775|   0.1666667|    |
+|/players/1070712/josko-gvardiol     |RB Leipzig          |      0.061550|   0.1111111|    |
+|/players/331535/marcel-halstenberg  |RB Leipzig          |      0.051325|   0.2222222|    |
+|/players/526827/konrad-laimer       |RB Leipzig          |      0.117725|   0.1428571|    |
+|/players/620027/xaver-schlager      |RB Leipzig          |      0.058775|   0.1818182|    |
+|/players/846005/dominik-szoboszlai  |RB Leipzig          |      0.237075|   0.3636364|    |
+|/players/171980/emil-forsberg       |RB Leipzig          |      0.363050|   0.3448276|    |
+|/players/450980/timo-werner         |RB Leipzig          |      0.055425|   0.4255319|    |
+|/players/388523/andr-silva          |RB Leipzig          |      0.447925|   0.3571429|*   |
+|/players/533775/rafael-santos-borre |Eintracht Frankfurt |      0.183525|   0.2857143|    |
+|/players/958335/jesper-lindstrm     |Eintracht Frankfurt |      0.235050|   0.2272727|    |
+|/players/177714/mario-gtze          |Eintracht Frankfurt |      0.017750|   0.1666667|    |
+|/players/488298/philipp-max         |Eintracht Frankfurt |      0.037575|   0.1428571|    |
+|/players/141370/sebastian-rode      |Eintracht Frankfurt |      0.032050|   0.1176471|    |
+|/players/621515/daichi-kamada       |Eintracht Frankfurt |      0.077325|   0.2083333|    |
+|/players/1175708/ansgar-knauff      |Eintracht Frankfurt |      0.052550|   0.1666667|    |
+|/players/787242/evan-ndicka         |Eintracht Frankfurt |      0.051225|   0.0952381|    |
+|/players/1077685/hrvoje-smolcic     |Eintracht Frankfurt |      0.031200|   0.0500000|    |
+|/players/982158/tuta                |Eintracht Frankfurt |      0.032500|   0.0909091|    |
 |/players/145550/kevin-trapp         |Eintracht Frankfurt |      0.000000|   0.1333333|    |
-|/players/488298/philipp-max         |Eintracht Frankfurt |      0.068950|   0.1428571|    |
-|/players/787242/evan-ndicka         |Eintracht Frankfurt |      0.028575|   0.0909091|    |
-|/players/982158/tuta                |Eintracht Frankfurt |      0.017275|   0.0909091|    |
-|/players/643448/kristijan-jakic     |Eintracht Frankfurt |      0.023425|   0.0952381|    |
-|/players/177714/mario-gtze          |Eintracht Frankfurt |      0.088450|   0.1666667|    |
-|/players/1175708/ansgar-knauff      |Eintracht Frankfurt |      0.068600|   0.1538462|    |
-|/players/707970/djibril-sow         |Eintracht Frankfurt |      0.024725|   0.1333333|    |
-|/players/621515/daichi-kamada       |Eintracht Frankfurt |      0.108750|   0.2040816|    |
-|/players/958335/jesper-lindstrm     |Eintracht Frankfurt |      0.160950|   0.2222222|    |
-|/players/823825/randal-kolo-muani   |Eintracht Frankfurt |      0.185750|   0.2941176|    |
-|/players/171980/emil-forsberg       |RB Leipzig          |      0.222200|   0.3448276|    |
-|/players/681383/benjamin-henrichs   |RB Leipzig          |      0.038575|   0.1886792|    |
-|/players/846005/dominik-szoboszlai  |RB Leipzig          |      0.007200|   0.3636364|    |
-|/players/266527/yussuf-poulsen      |RB Leipzig          |      0.018900|   0.4255319|    |
-|/players/1171008/paxten-aaronson    |Eintracht Frankfurt |      0.024700|   0.2439024|    |
-|/players/533775/rafael-santos-borre |Eintracht Frankfurt |      0.032400|   0.2777778|    |
-|/players/269222/lucas-alario        |Eintracht Frankfurt |      0.085325|   0.2777778|    |
-|/players/450974/christopher-lenz    |Eintracht Frankfurt |      0.000000|   0.0833333|    |
+|/players/681383/benjamin-henrichs   |RB Leipzig          |      0.059925|   0.1851852|    |
+|/players/688830/amadou-haidara      |RB Leipzig          |      0.013875|   0.1111111|    |
+|/players/266527/yussuf-poulsen      |RB Leipzig          |      0.047900|   0.4255319|    |
+|/players/1171305/caden-clark        |RB Leipzig          |      0.044250|   0.2941176|    |
+|/players/269222/lucas-alario        |Eintracht Frankfurt |      0.062525|   0.2857143|    |
+|/players/1171008/paxten-aaronson    |Eintracht Frankfurt |      0.011125|   0.2439024|    |
+|/players/158234/timothy-chandler    |Eintracht Frankfurt |      0.002000|   0.0909091|    |
+|/players/563216/almamy-tour         |Eintracht Frankfurt |      0.000000|   0.0909091|    |
 ____________________________________________________
 
 [1] "Facts about RB Leipzig:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: expected"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/278814/janis-blaswich     |           0|         32.1783|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/526657/lukas-klostermann  |           1|         60.2871|           1.5705|        0.1310|         0.4944|      0.0530|        0.0395|      0.0516| 90.0000|
-|/players/1039600/mohamed-simakan   |           1|         51.4041|           1.9876|        0.2066|         0.6355|      0.0435|        0.0388|      0.1000| 90.0000|
-|/players/278856/willi-orban        |           1|         61.6218|           1.5170|        0.1964|         0.7579|      0.0719|        0.0488|      0.0553| 90.0000|
-|/players/1070712/josko-gvardiol    |           1|         72.0116|           1.3651|        0.2467|         0.5968|      0.0611|        0.0699|      0.0876| 90.0000|
-|/players/688830/amadou-haidara     |           2|         55.9932|           1.6552|        0.4805|         1.0632|      0.0711|        0.1466|      0.0658| 82.0000|
-|/players/620027/xaver-schlager     |           2|         63.0355|           2.3427|        0.1093|         1.0278|      0.1041|        0.0347|      0.1194| 90.0000|
-|/players/806669/david-raum         |           3|         27.9676|           0.9510|        0.9170|         2.0955|      0.2589|        0.2939|      0.4531| 90.0000|
-|/players/526827/konrad-laimer      |           3|         29.3984|           1.4849|        0.9545|         2.3154|      0.3469|        0.2057|      0.0836| 75.3333|
-|/players/185175/kevin-kampl        |           3|         41.8571|           0.9503|        0.2618|         1.1045|      0.0999|        0.2042|      0.0601| 74.7714|
-|/players/704523/christopher-nkunku |           5|         21.0093|           0.5861|        1.3565|         2.8308|      0.5451|        0.5773|      0.0962| 82.1154|
-|/players/171980/emil-forsberg      |           0|              NA|               NA|        0.4823|         0.6990|      0.2895|        0.2348|      0.0399| 15.2286|
-|/players/681383/benjamin-henrichs  |           0|              NA|               NA|        0.1283|         0.4212|      0.0456|        0.0382|      0.0782| 14.6667|
-|/players/846005/dominik-szoboszlai |           0|              NA|               NA|        0.1327|         0.4356|      0.0472|        0.0069|      0.0480|  8.0000|
-|/players/266527/yussuf-poulsen     |           0|              NA|               NA|        0.0905|         0.2122|      0.0144|        0.0170|      0.0257|  7.8846|
+|/players/278814/janis-blaswich     |           0|         32.1924|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/526657/lukas-klostermann  |           1|         57.0619|           1.5872|        0.1268|         0.4562|      0.0499|        0.0361|      0.0445| 90.0000|
+|/players/278856/willi-orban        |           1|         58.3251|           1.5331|        0.1902|         0.6994|      0.0677|        0.0446|      0.0477| 90.0000|
+|/players/1070712/josko-gvardiol    |           1|         68.1591|           1.3796|        0.2389|         0.5507|      0.0575|        0.0639|      0.0756| 90.0000|
+|/players/331535/marcel-halstenberg |           1|         61.8856|           1.9403|        0.2250|         0.7792|      0.0545|        0.0526|      0.1269| 90.0000|
+|/players/526827/konrad-laimer      |           2|         57.8782|           2.1633|        0.4203|         0.9053|      0.1009|        0.1224|      0.0975| 79.2000|
+|/players/620027/xaver-schlager     |           2|         58.7750|           1.7010|        0.1593|         1.1668|      0.0675|        0.0565|      0.0809| 90.0000|
+|/players/846005/dominik-szoboszlai |           3|         38.0531|           1.3102|        0.8487|         2.1048|      0.2463|        0.2681|      0.2857| 79.8378|
+|/players/171980/emil-forsberg      |           3|         33.6408|           1.5424|        0.9135|         2.5907|      0.4216|        0.4229|      0.1781| 90.0000|
+|/players/450980/timo-werner        |           3|         32.9772|           0.7575|        0.4486|         1.0968|      0.0845|        0.0540|      0.1117| 80.2500|
+|/players/388523/andr-silva         |           5|         20.7236|           0.5779|        1.3380|         2.7921|      0.5376|        0.5695|      0.0949| 80.9636|
+|/players/681383/benjamin-henrichs  |          NA|              NA|               NA|        0.2172|         0.4158|      0.0543|        0.0600|      0.0203| 10.8000|
+|/players/688830/amadou-haidara     |          NA|              NA|               NA|        0.0405|         0.2068|      0.0498|        0.0130|      0.0301| 10.1622|
+|/players/266527/yussuf-poulsen     |          NA|              NA|               NA|        0.2128|         0.4128|      0.0650|        0.0492|      0.0058|  9.7500|
+|/players/1171305/caden-clark       |          NA|              NA|               NA|        0.2523|         0.3864|      0.0342|        0.0427|      0.0288|  9.0364|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Marco Rose   |       103734|      8.596562|4-2-3-1   |
+|Marco Rose   |     104.7818|      8.596562|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about Eintracht Frankfurt:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: expected"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/145550/kevin-trapp         |           0|         33.4470|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/488298/philipp-max         |           1|         40.0185|           1.8034|        0.1784|         0.6546|      0.0605|        0.0675|      0.0461| 90.0000|
-|/players/787242/evan-ndicka         |           1|         48.5366|           1.4193|        0.0659|         0.3311|      0.0351|        0.0299|      0.0094| 90.0000|
-|/players/982158/tuta                |           1|         47.7939|           1.8624|        0.0806|         0.2290|      0.0378|        0.0191|      0.0076| 90.0000|
-|/players/643448/kristijan-jakic     |           3|         30.0207|           1.4976|        0.1540|         0.7168|      0.0472|        0.0244|      0.0274| 81.0952|
-|/players/177714/mario-gtze          |           3|         53.3644|           1.4677|        0.2116|         0.5796|      0.1133|        0.0907|      0.1472| 90.0000|
-|/players/1175708/ansgar-knauff      |           3|         22.9977|           2.4666|        0.3566|         0.9224|      0.0515|        0.0710|      0.0624| 80.2941|
-|/players/707970/djibril-sow         |           3|         44.7555|           1.7279|        0.0494|         0.3961|      0.0249|        0.0239|      0.0377| 90.0000|
-|/players/621515/daichi-kamada       |           4|         32.6847|           1.0455|        0.2767|         0.8909|      0.1251|        0.1122|      0.1120| 81.5946|
-|/players/958335/jesper-lindstrm     |           4|         17.0389|           0.5220|        0.4451|         1.3634|      0.1335|        0.1714|      0.0735| 66.7826|
-|/players/823825/randal-kolo-muani   |           5|         20.4521|           0.5121|        0.6637|         1.8533|      0.2556|        0.1995|      0.0464| 90.0000|
-|/players/1171008/paxten-aaronson    |           0|              NA|               NA|        0.2075|         0.6063|      0.0781|        0.0239|      0.0576| 23.2174|
-|/players/533775/rafael-santos-borre |           0|              NA|               NA|        0.0817|         0.2066|      0.0473|        0.0343|      0.0178|  9.7059|
-|/players/269222/lucas-alario        |           0|              NA|               NA|        0.1367|         0.2731|      0.0865|        0.0867|      0.0101|  8.9048|
-|/players/450974/christopher-lenz    |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0077|  8.4054|
+|/players/533775/rafael-santos-borre |           5|         20.4436|           0.5121|        0.6634|         1.8526|      0.2555|        0.1994|      0.0464| 90.0000|
+|/players/958335/jesper-lindstrm     |           4|         14.1690|           0.5269|        0.6128|         1.6932|      0.2178|        0.2503|      0.0859| 66.7826|
+|/players/177714/mario-gtze          |           4|         39.8948|           1.1466|        0.0790|         0.5371|      0.0242|        0.0172|      0.1068| 90.0000|
+|/players/488298/philipp-max         |           3|         45.4222|           0.4439|        0.1762|         0.6705|      0.0210|        0.0365|      0.0847| 90.0000|
+|/players/141370/sebastian-rode      |           3|         38.7096|           1.8980|        0.0608|         0.2081|      0.0170|        0.0301|      0.0528| 72.9655|
+|/players/621515/daichi-kamada       |           3|         32.7093|           1.9658|        0.2014|         0.6705|      0.1305|        0.0772|      0.0579| 78.2143|
+|/players/1175708/ansgar-knauff      |           3|         23.5018|           2.2977|        0.3109|         0.9861|      0.0500|        0.0525|      0.0614| 80.2941|
+|/players/787242/evan-ndicka         |           1|         42.1674|           1.3579|        0.0693|         0.4397|      0.0579|        0.0511|      0.0321| 90.0000|
+|/players/1077685/hrvoje-smolcic     |           1|         52.6029|           1.9456|        0.1706|         0.4704|      0.0133|        0.0327|      0.0050| 90.0000|
+|/players/982158/tuta                |           1|         41.5222|           1.7817|        0.0848|         0.3041|      0.0623|        0.0327|      0.0260| 90.0000|
+|/players/145550/kevin-trapp         |           0|         33.4331|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/269222/lucas-alario        |          NA|              NA|               NA|        0.1989|         0.4221|      0.0748|        0.0611|      0.0217| 23.2174|
+|/players/1171008/paxten-aaronson    |          NA|              NA|               NA|        0.1129|         0.2960|      0.0246|        0.0133|      0.0056| 17.0345|
+|/players/158234/timothy-chandler    |          NA|              NA|               NA|        0.0458|         0.0686|      0.0008|        0.0016|      0.0062| 11.7857|
+|/players/563216/almamy-tour         |          NA|              NA|               NA|        0.0000|         0.0607|      0.0022|        0.0000|      0.0081|  9.7059|
 
 
-|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name   | approx_games| m_avg_elo_dif|formation |
 |:--------------|------------:|-------------:|:---------|
-|Oliver Glasner |       107452|      2.725149|3-4-2-1   |
+|Oliver Glasner |     108.5374|      2.725149|3-4-2-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3903734/Soccer_Models'...
+Receiving objects:   1% (46/4548),   63 kb
+Receiving objects:  11% (501/4548),  127 kb
+Receiving objects:  21% (956/4548),  183 kb
+Receiving objects:  31% (1410/4548),  407 kb
+Receiving objects:  41% (1865/4548),  856 kb
+Receiving objects:  51% (2320/4548), 1024 kb
+Receiving objects:  61% (2775/4548), 1416 kb
+Receiving objects:  71% (3230/4548), 10325 kb
+Receiving objects:  81% (3684/4548), 10550 kb
+Receiving objects:  91% (4139/4548), 10774 kb
+Receiving objects: 100% (4548/4548), 11206 kb, done.
