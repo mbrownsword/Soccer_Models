@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 07:44:33.409"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Angers 0.9073 to Lyon 1.6757"
+[1] "Total: 2.583"
+[1] "Angers %: 20.5"
+[1] "Draw %: 24.36"
+[1] "Lyon %: 55.14"
+[1] "--XG Model--"
+[1] "Score: Angers 0.7591 to Lyon 1.7434"
+[1] "Total: 2.5025"
+[1] "Angers %: 16.38"
+[1] "Draw %: 23.51"
+[1] "Lyon %: 60.11"
+[1] "--XGoT Model--"
+[1] "Score: Angers 0.7849 to Lyon 1.7723"
+[1] "Total: 2.5572"
+[1] "Angers %: 16.29"
+[1] "Draw %: 23.04"
+[1] "Lyon %: 60.67"
+[1] "--XA Model--"
+[1] "Score: Angers 0.7511 to Lyon 1.6613"
+[1] "Total: 2.4124"
+[1] "Angers %: 16.77"
+[1] "Draw %: 24.31"
+[1] "Lyon %: 58.92"
+[1] "--Mean 4 Models--"
+[1] "Angers has a mean win % of 17.48%; a min win % of 16.29%; a max win % of 20.5%."
+[1] "Draw has a mean win % of 23.8%; a min win % of 23.04%; a max win % of 24.36%."
+[1] "Lyon has a mean win % of 58.71%; a min win % of 55.14%; a max win of % 60.67%."
+[1] "Angers has a mean win of the Double Chance of 41.29%; a min win % of 39.33%, a max win % of 44.86%."
+[1] "Lyon has a mean win of the Double Chance of 82.52%; a min win % of 79.5%, a max win % of 83.71%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.51%; max % is 47.17 and min % is 43.09%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.49%; max % is 56.91 and min % is 52.83%."
+[1] "--Sportsbook Odds--"
+[1] "Angers Barstool Odds are: 20.83"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Lyon Barstool Odds are: 60"
+[1] "Angers Adjusted Barstool Odds are: 19.683"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.623"
+[1] "Lyon Adjusted Barstool Odds are: 56.695"
+[1] "Angers's Barstool Odds to cover the -0.5 spread are: 22.22"
+[1] "Lyon's Barstool Odds to cover the 0.5 spread are: 81.3"
+[1] "Barstool's line for the total is 2.5 at 1.8, which is a 55.56% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                bet           date_time
+1 under Angers/Lyon 2023-02-25 08:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                          |team   | expected_attg| expected_gs|bet |
+|:---------------------------------|:------|-------------:|-----------:|:---|
+|/players/602493/paul-bernardoni   |Angers |      0.000000|   0.0909091|    |
+|/players/789596/yan-valery        |Angers |      0.035400|   0.0500000|    |
+|/players/473858/cdric-hountondji  |Angers |      0.080825|   0.0344828|    |
+|/players/1178325/ousmane-camara   |Angers |      0.039325|   0.0666667|    |
+|/players/187017/faouzi-ghoulam    |Angers |      0.035350|   0.0344828|    |
+|/players/797603/souleyman-doumbia |Angers |      0.027075|   0.0344828|    |
+|/players/500520/nabil-bentaleb    |Angers |      0.091400|   0.1754386|    |
+|/players/310836/pierrick-capelle  |Angers |      0.094150|   0.1538462|    |
+|/players/956659/himad-abdelli     |Angers |      0.026475|   0.1176471|    |
+|/players/1189856/abdallah-sima    |Angers |      0.090450|   0.2439024|    |
+|/players/848563/ibrahima-niane    |Angers |      0.138025|   0.2272727|    |
+|/players/1297165/bradley-barcola  |Lyon   |      0.239425|   0.3030303|    |
+|/players/1156568/amin-sarr        |Lyon   |      0.339500|   0.3125000|    |
+|/players/1104053/rayan-cherki     |Lyon   |      0.256650|   0.3333333|    |
+|/players/195750/nicols-tagliafico |Lyon   |      0.072850|   0.0833333|    |
+|/players/339032/thiago-mendes     |Lyon   |      0.047600|   0.0952381|    |
+|/players/846000/maxence-caqueret  |Lyon   |      0.097625|   0.1666667|    |
+|/players/1327298/sal-kumbedi      |Lyon   |      0.050225|   0.0476190|    |
+|/players/1253852/castello-lukeba  |Lyon   |      0.069150|   0.1176471|    |
+|/players/114268/dejan-lovren      |Lyon   |      0.074500|   0.0909091|    |
+|/players/1133081/sinaly-diomand   |Lyon   |      0.052250|   0.0476190|    |
+|/players/167035/anthony-lopes     |Lyon   |      0.000000|   0.2040816|    |
+|/players/611534/sada-thioub       |Angers |      0.006700|   0.1666667|    |
+|/players/412068/lois-diony        |Angers |      0.021500|   0.4081633|    |
+|/players/447107/adrien-hunou      |Angers |      0.040675|   0.2439024|    |
+|/players/210400/abdoulaye-bamba   |Angers |      0.000000|   0.0196078|    |
+|/players/509148/moussa-demblé     |Lyon   |      0.136375|   0.4878049|    |
+|/players/473852/corentin-tolisso  |Lyon   |      0.004175|   0.2222222|    |
+|/players/1180481/johann-lepenant  |Lyon   |      0.000000|   0.1250000|    |
+|/players/36183/jrome-boateng      |Lyon   |      0.000000|   0.0666667|    |
+____________________________________________________
+
+[1] "Facts about Angers:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/602493/paul-bernardoni   |           0|         22.0905|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/789596/yan-valery        |           1|         23.5483|           2.3568|        0.0498|         0.4596|      0.0364|        0.0432|      0.0293| 90.0000|
+|/players/473858/cdric-hountondji  |           1|         29.5550|           1.2402|        0.1189|         0.3916|      0.1080|        0.0911|      0.0069| 90.0000|
+|/players/1178325/ousmane-camara   |           1|         38.4316|           1.0622|        0.0498|         0.3916|      0.0364|        0.0432|      0.0047| 90.0000|
+|/players/187017/faouzi-ghoulam    |           1|         35.0376|           1.3155|        0.0788|         0.5192|      0.0571|        0.0367|      0.0546| 76.5556|
+|/players/797603/souleyman-doumbia |           3|         25.5005|           1.4600|        0.1786|         0.5769|      0.0604|        0.0326|      0.1056| 90.0000|
+|/players/500520/nabil-bentaleb    |           3|         41.0123|           2.8378|        0.2399|         0.9407|      0.0713|        0.1022|      0.0584| 90.0000|
+|/players/310836/pierrick-capelle  |           3|         23.5486|           1.8095|        0.3093|         1.1416|      0.1448|        0.0966|      0.0568| 77.2222|
+|/players/956659/himad-abdelli     |           3|         31.5680|           2.2541|        0.4585|         1.0274|      0.0523|        0.0282|      0.0601| 77.8824|
+|/players/1189856/abdallah-sima    |           5|         13.8756|           0.9317|        0.5824|         1.4773|      0.1124|        0.0994|      0.0304| 70.6667|
+|/players/848563/ibrahima-niane    |           5|         25.6195|           0.4676|        0.5010|         1.8250|      0.1461|        0.1588|      0.0912| 90.0000|
+|/players/611534/sada-thioub       |          NA|              NA|               NA|        0.0550|         0.2301|      0.0112|        0.0072|      0.0101| 19.3333|
+|/players/412068/lois-diony        |          NA|              NA|               NA|        0.1142|         0.1821|      0.0414|        0.0227|      0.0053| 13.4444|
+|/players/447107/adrien-hunou      |          NA|              NA|               NA|        0.1487|         0.3556|      0.0718|        0.0454|      0.0077| 12.7778|
+|/players/210400/abdoulaye-bamba   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0092| 12.1176|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Abdel Bouhazama |     8.987879|        -6.784|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Lyon:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1297165/bradley-barcola  |           5|         21.7769|           0.9479|        0.9122|         2.0595|      0.2609|        0.2808|      0.1833| 70.6667|
+|/players/1156568/amin-sarr        |           5|         22.3232|           0.5403|        1.3135|         2.6691|      0.4288|        0.4303|      0.0538| 84.5600|
+|/players/1104053/rayan-cherki     |           4|         40.4669|           1.6322|        0.5467|         1.9171|      0.3495|        0.3029|      0.1510| 90.0000|
+|/players/195750/nicols-tagliafico |           3|         55.4148|           1.7768|        0.8159|         1.0480|      0.0921|        0.0767|      0.0199| 90.0000|
+|/players/339032/thiago-mendes     |           3|         53.7117|           1.6617|        0.1419|         0.8202|      0.0668|        0.0524|      0.1486| 84.1739|
+|/players/846000/maxence-caqueret  |           3|         43.4512|           2.7987|        0.1419|         0.7291|      0.0704|        0.1041|      0.2050| 84.8696|
+|/players/1327298/sal-kumbedi      |           3|         36.3063|           2.0116|        0.1505|         1.0480|      0.0737|        0.0560|      0.0798| 90.0000|
+|/players/1253852/castello-lukeba  |           1|         64.2309|           1.4798|        0.1112|         0.2024|      0.0551|        0.0711|      0.0638| 90.0000|
+|/players/114268/dejan-lovren      |           1|         61.7520|           1.4033|        0.1737|         0.7376|      0.0466|        0.0779|      0.0547| 90.0000|
+|/players/1133081/sinaly-diomand   |           1|         58.0857|           1.6842|        0.1209|         0.3518|      0.0390|        0.0595|      0.0521| 90.0000|
+|/players/167035/anthony-lopes     |           0|         30.5055|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/509148/moussa-demblé     |          NA|              NA|               NA|        0.5248|         0.8911|      0.2071|        0.1505|      0.0504| 19.3333|
+|/players/473852/corentin-tolisso  |          NA|              NA|               NA|        0.0236|         0.1253|      0.0165|        0.0049|      0.0132|  5.8261|
+|/players/1180481/johann-lepenant  |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0022|  5.4400|
+|/players/36183/jrome-boateng      |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  5.1304|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Laurent Blanc |     11.98384|      11.93385|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904523/Soccer_Models'...
+Receiving objects:   1% (46/4557),   63 kb
+Receiving objects:  11% (502/4557),  127 kb
+Receiving objects:  21% (957/4557),  183 kb
+Receiving objects:  31% (1413/4557),  407 kb
+Receiving objects:  41% (1869/4557),  856 kb
+Receiving objects:  51% (2325/4557), 1024 kb
+Receiving objects:  61% (2780/4557), 1416 kb
+Receiving objects:  71% (3236/4557), 10341 kb
+Receiving objects:  81% (3692/4557), 10597 kb
+Receiving objects:  91% (4147/4557), 10822 kb
+Receiving objects: 100% (4557/4557), 11216 kb, done.
