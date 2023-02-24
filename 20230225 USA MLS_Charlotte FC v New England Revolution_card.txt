@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 08:48:06.340"
+[1] "Updated at 2023-02-24 00:14:03.216"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -61,9 +61,9 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name        | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name        | approx_games| m_avg_elo_dif|formation |
 |:-------------------|------------:|-------------:|:---------|
-|Christian Lattanzio |        15806|       -9.2375|4-1-4-1   |
+|Christian Lattanzio |     15.96566|       -9.2375|4-1-4-1   |
 ____________________________________________________
 
 [1] "Facts about New England Revolution:"
@@ -74,6 +74,18 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Bruce Arena  |        87358|      5.344667|4-2-3-1   |
+|Bruce Arena  |      88.2404|      5.344667|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084679/Soccer_Models'...
+Receiving objects:   1% (45/4497),   63 kb
+Receiving objects:  11% (495/4497),  127 kb
+Receiving objects:  21% (945/4497),  183 kb
+Receiving objects:  31% (1395/4497),  351 kb
+Receiving objects:  41% (1844/4497),  856 kb
+Receiving objects:  51% (2294/4497), 1024 kb
+Receiving objects:  61% (2744/4497), 1360 kb
+Receiving objects:  71% (3193/4497), 10253 kb
+Receiving objects:  81% (3643/4497), 10589 kb
+Receiving objects:  91% (4093/4497), 10758 kb
+Receiving objects: 100% (4497/4497), 11175 kb, done.
