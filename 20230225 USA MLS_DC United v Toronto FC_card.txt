@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-24 00:16:12.421"
+[1] "Updated at 2023-02-24 15:00:43.956"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -77,14 +77,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Bob Bradley  |     81.87374|      6.740119|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084804/Soccer_Models'...
-Receiving objects:   1% (45/4500),   63 kb
-Receiving objects:  11% (495/4500),  127 kb
-Receiving objects:  21% (945/4500),  183 kb
-Receiving objects:  31% (1395/4500),  351 kb
-Receiving objects:  41% (1845/4500),  856 kb
-Receiving objects:  51% (2295/4500), 1024 kb
-Receiving objects:  61% (2745/4500), 1360 kb
-Receiving objects:  71% (3195/4500), 10261 kb
-Receiving objects:  81% (3645/4500), 10542 kb
-Receiving objects:  91% (4095/4500), 10766 kb
-Receiving objects: 100% (4500/4500), 11176 kb, done.
+Receiving objects:   1% (47/4644),   63 kb
+Receiving objects:  11% (511/4644),  127 kb
+Receiving objects:  21% (976/4644),  239 kb
+Receiving objects:  31% (1440/4644),  407 kb
+Receiving objects:  41% (1905/4644),  856 kb
+Receiving objects:  51% (2369/4644), 1080 kb
+Receiving objects:  61% (2833/4644), 1416 kb
+Receiving objects:  71% (3298/4644), 10349 kb
+Receiving objects:  81% (3762/4644), 10629 kb
+Receiving objects:  91% (4227/4644), 10798 kb
+Receiving objects: 100% (4644/4644), 11288 kb, done.
