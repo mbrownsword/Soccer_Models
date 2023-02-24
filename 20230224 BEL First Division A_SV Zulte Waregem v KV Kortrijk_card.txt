@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 10:59:21.928"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: SV Zulte Waregem 1.9022 to KV Kortrijk 1.5539"
+[1] "Total: 3.4561"
+[1] "SV Zulte Waregem %: 45.28"
+[1] "Draw %: 22.46"
+[1] "KV Kortrijk %: 32.26"
+[1] "--XG Model--"
+[1] "Score: SV Zulte Waregem 1.7402 to KV Kortrijk 1.5795"
+[1] "Total: 3.3197"
+[1] "SV Zulte Waregem %: 42.05"
+[1] "Draw %: 22.82"
+[1] "KV Kortrijk %: 35.13"
+[1] "--XGoT Model--"
+[1] "Score: SV Zulte Waregem 2.0996 to KV Kortrijk 1.7165"
+[1] "Total: 3.8161"
+[1] "SV Zulte Waregem %: 46.79"
+[1] "Draw %: 20.72"
+[1] "KV Kortrijk %: 32.49"
+[1] "--XA Model--"
+[1] "Score: SV Zulte Waregem 1.576 to KV Kortrijk 1.4443"
+[1] "Total: 3.0203"
+[1] "SV Zulte Waregem %: 41.08"
+[1] "Draw %: 23.95"
+[1] "KV Kortrijk %: 34.97"
+[1] "--Mean 4 Models--"
+[1] "SV Zulte Waregem has a mean win % of 43.8%; a min win % of 41.08%; a max win % of 46.79%."
+[1] "Draw has a mean win % of 22.49%; a min win % of 20.72%; a max win % of 23.95%."
+[1] "KV Kortrijk has a mean win % of 33.71%; a min win % of 32.26%; a max win of % 35.13%."
+[1] "SV Zulte Waregem has a mean win of the Double Chance of 66.29%; a min win % of 64.87%, a max win % of 67.74%."
+[1] "KV Kortrijk has a mean win of the Double Chance of 56.2%; a min win % of 53.21%, a max win % of 58.92%."
+[1] "The mean likelihood that there are more than 2.5 goals is 65.28%; max % is 73.08 and min % is 57.21%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 34.72%; max % is 42.79 and min % is 26.92%."
+[1] "--Sportsbook Odds--"
+[1] "SV Zulte Waregem Barstool Odds are: 46.51"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "KV Kortrijk Barstool Odds are: 32.26"
+[1] "SV Zulte Waregem Adjusted Barstool Odds are: 43.33"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.616"
+[1] "KV Kortrijk Adjusted Barstool Odds are: 30.054"
+[1] "SV Zulte Waregem's Barstool Odds to cover the -0.5 spread are: 45.45"
+[1] "KV Kortrijk's Barstool Odds to cover the 0.5 spread are: 58.82"
+[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+          bet           date_time
+1 KV Kortrijk 2023-02-24 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team             | expected_attg| expected_gs|bet |
+|:----------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/37900/sammy-bossuyt       |SV Zulte Waregem |      0.000000|   0.1333333|    |
+|/players/823122/karol-fila         |SV Zulte Waregem |      0.022850|   0.0526316|    |
+|/players/42704/timothy-derijck     |SV Zulte Waregem |      0.025625|   0.0909091|    |
+|/players/410424/borja-lopez        |SV Zulte Waregem |      0.052950|   0.0769231|    |
+|/players/689296/alessandro-ciranni |SV Zulte Waregem |      0.034425|   0.1333333|    |
+|/players/764779/abdoulaye-sissako  |SV Zulte Waregem |      0.032350|   0.1176471|    |
+|/players/1284559/novatus-disma     |SV Zulte Waregem |      0.034725|   0.1250000|    |
+|/players/1159233/alieu-fadera      |SV Zulte Waregem |      0.163725|   0.2083333|    |
+|/players/854130/alioune-ndour      |SV Zulte Waregem |      0.096000|   0.3125000|    |
+|/players/277772/zinho-gano         |SV Zulte Waregem |      0.275775|   0.4255319|    |
+|/players/38782/jelle-vossen        |SV Zulte Waregem |      0.203675|   0.4000000|    |
+|/players/657921/martin-regali      |KV Kortrijk      |      0.078400|   0.2777778|    |
+|/players/321426/felipe-avenatti    |KV Kortrijk      |      0.274175|   0.3333333|    |
+|/players/604870/faiz-selemani      |KV Kortrijk      |      0.162025|   0.2857143|    |
+|/players/209855/kristof-dhaene     |KV Kortrijk      |      0.067025|   0.1176471|    |
+|/players/1120987/abdelkahar-kadri  |KV Kortrijk      |      0.046850|   0.1666667|    |
+|/players/1275688/nayel-mehssatou   |KV Kortrijk      |      0.062425|   0.0714286|    |
+|/players/578321/david-henen        |KV Kortrijk      |      0.046150|   0.1538462|    |
+|/players/1280255/martin-wasinski   |KV Kortrijk      |      0.026250|   0.0714286|    |
+|/players/1023887/tsuyoshi-watanabe |KV Kortrijk      |      0.030775|   0.1111111|    |
+|/players/1188578/joao-silva        |KV Kortrijk      |      0.031100|   0.0714286|    |
+|/players/673647/tom-vandenberghe   |KV Kortrijk      |      0.000000|   0.0769231|    |
+|/players/1385192/stan-braem        |SV Zulte Waregem |      0.500225|   0.0000000|*   |
+|/players/519903/bent-srmo          |SV Zulte Waregem |      0.000000|   0.0000000|    |
+|/players/1187735/lennert-hallaert  |SV Zulte Waregem |      0.000000|   0.0000000|    |
+|/players/1178610/kevor-palumets    |SV Zulte Waregem |      0.000000|   0.0000000|    |
+|/players/1022702/dylan-mbayo       |KV Kortrijk      |      0.264700|   0.0000000|*   |
+|/players/239352/massimo-bruno      |KV Kortrijk      |      0.115375|   0.0000000|*   |
+|/players/848568/pape-habib-gueye   |KV Kortrijk      |      0.110175|   0.0000000|*   |
+|/players/1280022/dion-de-neve      |KV Kortrijk      |      0.044425|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about SV Zulte Waregem:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/37900/sammy-bossuyt       |           0|         31.7745|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/823122/karol-fila         |           1|         39.1003|           1.3304|        0.1075|         0.3037|      0.0221|        0.0237|      0.0748| 76.0000|
+|/players/42704/timothy-derijck     |           1|         31.6790|           1.9469|        0.1273|         0.3597|      0.0262|        0.0281|      0.0079| 90.0000|
+|/players/410424/borja-lopez        |           1|         50.3595|           1.2886|        0.2074|         0.8789|      0.0913|        0.0595|      0.0038| 90.0000|
+|/players/689296/alessandro-ciranni |           3|         27.8945|           2.1276|        0.3072|         0.8425|      0.0510|        0.0365|      0.1223| 90.0000|
+|/players/764779/abdoulaye-sissako  |           3|         35.4441|           1.3160|        0.1178|         0.6786|      0.0335|        0.0367|      0.0627| 84.5217|
+|/players/1284559/novatus-disma     |           3|         44.9987|           1.1819|        0.1255|         1.1232|      0.0905|        0.0365|      0.0273| 90.0000|
+|/players/1159233/alieu-fadera      |           3|         30.0164|           3.6174|        0.5095|         0.9783|      0.1391|        0.1914|      0.1658| 90.0000|
+|/players/854130/alioune-ndour      |           4|         21.5438|           1.0348|        0.4645|         1.2555|      0.1211|        0.1079|      0.0890| 59.0000|
+|/players/277772/zinho-gano         |           5|         19.9000|           0.4347|        0.9584|         2.2535|      0.3815|        0.3361|      0.0765| 90.0000|
+|/players/38782/jelle-vossen        |           5|         19.1729|           0.7329|        0.6591|         1.8923|      0.2346|        0.2443|      0.0779| 80.8438|
+|/players/1385192/stan-braem        |           0|              NA|               NA|        1.5760|         3.6040|      0.3288|        0.7293|      0.0089| 31.0000|
+|/players/519903/bent-srmo          |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0259| 14.0000|
+|/players/1187735/lennert-hallaert  |           0|              NA|               NA|        0.0000|         0.0000|      0.0292|        0.0000|      0.0360|  9.1562|
+|/players/1178610/kevor-palumets    |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  5.4783|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mbaye Leye   |     53.69394|     -5.714444|4-3-3     |
+____________________________________________________
+
+[1] "Facts about KV Kortrijk:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/657921/martin-regali      |           5|          3.9490|           0.2033|        0.2484|         0.4622|      0.0509|        0.0864|      0.0305| 22.7500|
+|/players/321426/felipe-avenatti    |           5|         26.5203|           0.8043|        0.9827|         2.8782|      0.5223|        0.3418|      0.0669| 90.0000|
+|/players/604870/faiz-selemani      |           4|         33.9054|           1.7162|        0.5815|         1.6364|      0.1636|        0.1867|      0.1199| 90.0000|
+|/players/209855/kristof-dhaene     |           3|         40.9417|           1.8541|        0.1901|         0.2986|      0.0263|        0.0693|      0.1631| 90.0000|
+|/players/1120987/abdelkahar-kadri  |           3|         33.1890|           2.5514|        0.3878|         1.8577|      0.1924|        0.0534|      0.1015| 69.3333|
+|/players/1275688/nayel-mehssatou   |           3|         40.6839|           1.8371|        0.1901|         0.2986|      0.0263|        0.0693|      0.0890| 90.0000|
+|/players/578321/david-henen        |           3|         20.4348|           1.1232|        0.1454|         0.5225|      0.0201|        0.0531|      0.0345| 68.8750|
+|/players/1280255/martin-wasinski   |           1|         38.4025|           1.9427|        0.1576|         0.3816|      0.0094|        0.0314|      0.0534| 75.8000|
+|/players/1023887/tsuyoshi-watanabe |           1|         43.4623|           1.0752|        0.1537|         0.7445|      0.1280|        0.0328|      0.0267| 90.0000|
+|/players/1188578/joao-silva        |           1|         53.6381|           1.1239|        0.0790|         0.3826|      0.0112|        0.0328|      0.0245| 90.0000|
+|/players/673647/tom-vandenberghe   |           0|         30.5426|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1022702/dylan-mbayo       |           0|              NA|               NA|        0.5964|         1.8146|      0.1801|        0.3254|      0.0245| 67.2500|
+|/players/239352/massimo-bruno      |           0|              NA|               NA|        0.4085|         0.5524|      0.0531|        0.1337|      0.0233| 21.1250|
+|/players/848568/pape-habib-gueye   |           0|              NA|               NA|        0.2824|         0.6364|      0.0870|        0.1239|      0.0150| 20.6667|
+|/players/1280022/dion-de-neve      |           0|              NA|               NA|        0.0829|         0.2242|      0.0258|        0.0510|      0.0083| 14.2000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Bernd Storck |     40.87576|     -3.921837|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917163/Soccer_Models'...
+Receiving objects:   1% (46/4593),   63 kb
+Receiving objects:  11% (506/4593),  127 kb
+Receiving objects:  21% (965/4593),  239 kb
+Receiving objects:  31% (1424/4593),  407 kb
+Receiving objects:  41% (1884/4593),  848 kb
+Receiving objects:  51% (2343/4593), 1016 kb
+Receiving objects:  61% (2802/4593), 1408 kb
+Receiving objects:  71% (3262/4593), 10317 kb
+Receiving objects:  81% (3721/4593), 10597 kb
+Receiving objects:  91% (4180/4593), 10822 kb
+Receiving objects: 100% (4593/4593), 11235 kb, done.
