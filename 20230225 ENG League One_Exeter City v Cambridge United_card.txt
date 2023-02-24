@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 14:20:43.553"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Exeter City 1.5332 to Cambridge United 1.0464"
+[1] "Total: 2.5796"
+[1] "Exeter City %: 48.56"
+[1] "Draw %: 25.33"
+[1] "Cambridge United %: 26.11"
+[1] "--XG Model--"
+[1] "Score: Exeter City 1.811 to Cambridge United 0.98"
+[1] "Total: 2.791"
+[1] "Exeter City %: 56.84"
+[1] "Draw %: 22.86"
+[1] "Cambridge United %: 20.3"
+[1] "--XGoT Model--"
+[1] "Score: Exeter City 1.7035 to Cambridge United 0.953"
+[1] "Total: 2.6565"
+[1] "Exeter City %: 55.77"
+[1] "Draw %: 23.91"
+[1] "Cambridge United %: 20.32"
+[1] "--XA Model--"
+[1] "Score: Exeter City 1.786 to Cambridge United 1.0051"
+[1] "Total: 2.7911"
+[1] "Exeter City %: 56.21"
+[1] "Draw %: 22.89"
+[1] "Cambridge United %: 20.9"
+[1] "--Mean 4 Models--"
+[1] "Exeter City has a mean win % of 54.34%; a min win % of 48.56%; a max win % of 56.84%."
+[1] "Draw has a mean win % of 23.75%; a min win % of 22.86%; a max win % of 25.33%."
+[1] "Cambridge United has a mean win % of 21.91%; a min win % of 20.3%; a max win of % 26.11%."
+[1] "Exeter City has a mean win of the Double Chance of 78.09%; a min win % of 73.89%, a max win % of 79.7%."
+[1] "Cambridge United has a mean win of the Double Chance of 45.66%; a min win % of 43.16%, a max win % of 51.44%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.05%; max % is 52.32 and min % is 47.04%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.95%; max % is 52.96 and min % is 47.68%."
+[1] "--Sportsbook Odds--"
+[1] "Exeter City Barstool Odds are: 54.05"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Cambridge United Barstool Odds are: 23.08"
+[1] "Exeter City Adjusted Barstool Odds are: 50.312"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.204"
+[1] "Cambridge United Adjusted Barstool Odds are: 21.484"
+[1] "Exeter City's Barstool Odds to cover the -0.5 spread are: 53.76"
+[1] "Cambridge United's Barstool Odds to cover the 0.5 spread are: 52.08"
+[1] "Barstool's line for the total is 2.5 at 2.28, which is a 43.86% chance of the over 2.5 hitting. The line for the under is 1.58, which is a 63.29% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                bet           date_time
+1 over Exeter City/Cambridge United 2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                         |team             | expected_attg| expected_gs|bet |
+|:--------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/294230/jamal-blackman   |Exeter City      |      0.000000|   0.0588235|    |
+|/players/1101057/cheick-diabate  |Exeter City      |      0.039325|   0.1538462|    |
+|/players/882882/alex-hartridge   |Exeter City      |      0.067800|   0.0476190|    |
+|/players/307178/pierce-sweeney   |Exeter City      |      0.049600|   0.0833333|    |
+|/players/877760/harry-kite       |Exeter City      |      0.102625|   0.2222222|    |
+|/players/338754/jake-caprice     |Exeter City      |      0.008750|   0.0909091|    |
+|/players/867884/jack-sparkes     |Exeter City      |      0.031975|   0.1538462|    |
+|/players/801470/archie-collins   |Exeter City      |      0.135500|   0.1754386|    |
+|/players/807203/jevani-brown     |Exeter City      |      0.248000|   0.1250000|*   |
+|/players/1113816/jay-stansfield  |Exeter City      |      0.257850|   0.3125000|    |
+|/players/780485/sam-nombe        |Exeter City      |      0.402050|   0.4166667|    |
+|/players/574451/dimitar-mitov    |Cambridge United |      0.000000|   0.0714286|    |
+|/players/1004999/jubril-okedina  |Cambridge United |      0.004800|   0.0333333|    |
+|/players/598228/george-williams  |Cambridge United |      0.004100|   0.0666667|    |
+|/players/447418/lloyd-jones      |Cambridge United |      0.037925|   0.0555556|    |
+|/players/24382/michael-morrison  |Cambridge United |      0.065925|   0.0555556|    |
+|/players/632282/adam-may         |Cambridge United |      0.072575|   0.1666667|    |
+|/players/291278/paul-digby       |Cambridge United |      0.018900|   0.1176471|    |
+|/players/1286967/liam-bennett    |Cambridge United |      0.023450|   0.0625000|    |
+|/players/664514/james-brophy     |Cambridge United |      0.085375|   0.1250000|    |
+|/players/1056689/harvey-knibbs   |Cambridge United |      0.276850|   0.2127660|*   |
+|/players/363344/joe-ironside     |Cambridge United |      0.218225|   0.2380952|    |
+|/players/1075395/josh-coley      |Exeter City      |      0.042300|   0.1250000|    |
+|/players/933016/james-scott      |Exeter City      |      0.000000|   0.3125000|    |
+|/players/1089762/kgaogelo-chauke |Exeter City      |      0.000000|   0.2380952|    |
+|/players/846686/demetri-mitchell |Exeter City      |      0.019450|   0.1538462|    |
+|/players/873015/shilow-tracey    |Cambridge United |      0.013850|   0.1694915|    |
+|/players/967350/jack-lankester   |Cambridge United |      0.006875|   0.1960784|    |
+|/players/519836/george-thomas    |Cambridge United |      0.012500|   0.1538462|    |
+|/players/280848/liam-oneil       |Cambridge United |      0.003850|   0.1111111|    |
+____________________________________________________
+
+[1] "Facts about Exeter City:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/294230/jamal-blackman   |           0|         25.6543|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1101057/cheick-diabate  |           1|         46.2622|           1.1352|        0.1825|         0.5804|      0.0348|        0.0375|      0.0096| 90.0000|
+|/players/882882/alex-hartridge   |           1|         49.4615|           1.5818|        0.1356|         0.5854|      0.0928|        0.0641|      0.0414| 90.0000|
+|/players/307178/pierce-sweeney   |           1|         54.6272|           1.6092|        0.1575|         0.5110|      0.0617|        0.0490|      0.0553| 90.0000|
+|/players/877760/harry-kite       |           3|         40.9500|           1.8279|        0.3741|         0.9942|      0.0951|        0.1016|      0.1007| 78.6250|
+|/players/338754/jake-caprice     |           3|         29.5417|           1.5806|        0.1132|         0.5617|      0.0303|        0.0071|      0.0642| 90.0000|
+|/players/867884/jack-sparkes     |           3|         28.4707|           1.9398|        0.4631|         1.5908|      0.0930|        0.0293|      0.1568| 83.3571|
+|/players/801470/archie-collins   |           3|         55.0150|           1.7508|        0.2749|         0.8401|      0.0643|        0.1350|      0.1338| 90.0000|
+|/players/807203/jevani-brown     |           4|         34.3308|           1.3498|        0.7093|         1.8768|      0.2314|        0.2598|      0.1754| 90.0000|
+|/players/1113816/jay-stansfield  |           5|         17.5043|           1.0345|        0.7495|         1.9251|      0.2146|        0.2682|      0.1019| 82.0909|
+|/players/780485/sam-nombe        |           5|         23.6462|           0.3997|        1.0619|         2.8876|      0.4726|        0.4645|      0.0922| 82.3636|
+|/players/1075395/josh-coley      |           0|              NA|               NA|        0.0923|         0.4967|      0.0247|        0.0409|      0.0040| 11.3750|
+|/players/933016/james-scott      |           0|              NA|               NA|        0.0000|         0.2758|      0.0143|        0.0000|      0.0595|  7.9091|
+|/players/1089762/kgaogelo-chauke |           0|              NA|               NA|        0.0000|         0.1504|      0.0325|        0.0000|      0.0151|  7.6364|
+|/players/846686/demetri-mitchell |           0|              NA|               NA|        0.1838|         0.1413|      0.0034|        0.0176|      0.0061|  6.6429|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Gary Caldwell |     14.96667|     -4.344667|3-4-1-2   |
+____________________________________________________
+
+[1] "Facts about Cambridge United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/574451/dimitar-mitov   |           0|         27.2078|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1004999/jubril-okedina |           1|         31.5620|           2.1624|        0.0819|         0.1996|      0.0287|        0.0043|      0.0451| 90.0000|
+|/players/598228/george-williams |           1|         34.4571|           1.3450|        0.1043|         0.5191|      0.0089|        0.0043|      0.0666| 90.0000|
+|/players/447418/lloyd-jones     |           1|         37.7531|           1.1905|        0.0819|         0.4192|      0.0236|        0.0352|      0.0081| 90.0000|
+|/players/24382/michael-morrison |           1|         44.6537|           1.8202|        0.1527|         0.5248|      0.0606|        0.0595|      0.0165| 90.0000|
+|/players/632282/adam-may        |           2|         35.3382|           1.4395|        0.2803|         0.8540|      0.0654|        0.0674|      0.0577| 81.8571|
+|/players/291278/paul-digby      |           2|         36.9406|           2.7305|        0.1488|         0.4922|      0.0081|        0.0178|      0.0280| 90.0000|
+|/players/1286967/liam-bennett   |           3|         22.8487|           0.8629|        0.1925|         1.1565|      0.0680|        0.0237|      0.0578| 82.5455|
+|/players/664514/james-brophy    |           3|         36.0624|           1.0726|        0.1689|         0.6342|      0.0457|        0.0820|      0.1464| 90.0000|
+|/players/1056689/harvey-knibbs  |           3|         15.0043|           1.5820|        1.0587|         2.4649|      0.2470|        0.2969|      0.0661| 80.4500|
+|/players/363344/joe-ironside    |           5|         17.6380|           0.4996|        0.6756|         1.6334|      0.2186|        0.2270|      0.0602| 85.4800|
+|/players/873015/shilow-tracey   |           0|              NA|               NA|        0.0686|         0.2921|      0.0136|        0.0129|      0.0153|  9.5500|
+|/players/967350/jack-lankester  |           0|              NA|               NA|        0.0427|         0.1239|      0.0058|        0.0069|      0.0135|  8.1429|
+|/players/519836/george-thomas   |           0|              NA|               NA|        0.0668|         0.2327|      0.0167|        0.0104|      0.0088|  7.4545|
+|/players/280848/liam-oneil      |           0|              NA|               NA|        0.0145|         0.1178|      0.0056|        0.0035|      0.0128|  4.5200|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mark Bonner  |     28.90909|     -5.276667|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916251/Soccer_Models'...
+Receiving objects:   1% (47/4620),   63 kb
+Receiving objects:  11% (509/4620),  127 kb
+Receiving objects:  21% (971/4620),  239 kb
+Receiving objects:  31% (1433/4620),  407 kb
+Receiving objects:  41% (1895/4620),  856 kb
+Receiving objects:  51% (2357/4620), 1024 kb
+Receiving objects:  61% (2819/4620), 1416 kb
+Receiving objects:  71% (3281/4620), 10333 kb
+Receiving objects:  81% (3743/4620), 10614 kb
+Receiving objects:  91% (4205/4620), 10782 kb
+Receiving objects: 100% (4620/4620), 11265 kb, done.
