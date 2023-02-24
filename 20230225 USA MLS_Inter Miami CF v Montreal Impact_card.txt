@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 08:53:38.851"
+[1] "Updated at 2023-02-24 00:19:43.988"
 [1] "_____________________________________________________________________"
   bet           date_time
 1     2023-02-25 16:30:00
@@ -13,9 +13,9 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Phil Neville |        59123|     -6.653333|4-2-3-1   |
+|Phil Neville |      59.7202|     -6.653333|4-2-3-1   |
 ____________________________________________________
 
 [1] "Facts about Montreal Impact:"
@@ -26,6 +26,18 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name  | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name  | approx_games| m_avg_elo_dif|formation |
 |:-------------|------------:|-------------:|:---------|
-|Hernan Losada |        57325|     -4.591035|3-4-3     |
+|Hernan Losada |     57.90404|     -4.591035|3-4-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084805/Soccer_Models'...
+Receiving objects:   1% (46/4506),   63 kb
+Receiving objects:  11% (496/4506),  127 kb
+Receiving objects:  21% (947/4506),  183 kb
+Receiving objects:  31% (1397/4506),  351 kb
+Receiving objects:  41% (1848/4506),  856 kb
+Receiving objects:  51% (2299/4506), 1024 kb
+Receiving objects:  61% (2749/4506), 1360 kb
+Receiving objects:  71% (3200/4506), 10269 kb
+Receiving objects:  81% (3650/4506), 10550 kb
+Receiving objects:  91% (4101/4506), 10774 kb
+Receiving objects: 100% (4506/4506), 11178 kb, done.
