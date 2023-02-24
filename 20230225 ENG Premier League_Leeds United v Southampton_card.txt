@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-24 06:19:13.988"
+[1] "Updated at 2023-02-24 06:38:35.207"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -47,6 +47,27 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-25 07:00:00
+
+
+|player              |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:-------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Mohamed Elyounoussi |SOU  |     19| 1.49|          NA|  0.7715|   0.1004|passes    |ENG England |      0.6711|         NA|        NA|         NA|       NA|
+|Romain Perraud      |SOU  |     24| 1.82|          NA|  0.9567|   0.4072|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
+|Romain Perraud      |SOU  |     28| 2.25|          NA|  0.8340|   0.3896|passes    |ENG England |      0.4444|         NA|        NA|         NA|       NA|
+|Romain Perraud      |SOU  |     32| 2.69|          NA|  0.6025|   0.2308|passes    |ENG England |      0.3717|         NA|        NA|         NA|       NA|
+|Romain Perraud      |SOU  |     20| 1.49|          NA|  0.9938|   0.3227|passes    |ENG England |      0.6711|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     19| 2.33|          NA|  0.9664|   0.5372|passes    |ENG England |      0.4292|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     15| 1.87|          NA|  0.9966|   0.4618|passes    |ENG England |      0.5348|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     27| 3.60|          NA|  0.5935|   0.3157|passes    |ENG England |      0.2778|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     23| 2.80|          NA|  0.8441|   0.4870|passes    |ENG England |      0.3571|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     11| 1.53|          NA|  0.9999|   0.3463|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     31| 5.00|          NA|  0.3079|   0.1079|passes    |ENG England |      0.2000|         NA|        NA|         NA|       NA|
+|Romeo Lavia         |SOU  |     29| 1.87|          NA|  0.8468|   0.3120|passes    |ENG England |      0.5348|         NA|        NA|         NA|       NA|
+|Romeo Lavia         |SOU  |     33| 2.33|          NA|  0.6274|   0.1982|passes    |ENG England |      0.4292|         NA|        NA|         NA|       NA|
+|Romeo Lavia         |SOU  |     25| 1.53|          NA|  0.9601|   0.3065|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
+|Weston McKennie     |LEE  |     37| 1.85|          NA|  0.7749|   0.2344|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Weston McKennie     |LEE  |     41| 2.30|          NA|  0.5505|   0.1157|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Weston McKennie     |LEE  |     33| 1.51|          NA|  0.9202|   0.2579|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -139,14 +160,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Ruben Selles |            2|         0.965|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901176/Soccer_Models'...
-Receiving objects:   1% (46/4515),   63 kb
-Receiving objects:  11% (497/4515),  127 kb
-Receiving objects:  21% (949/4515),  183 kb
-Receiving objects:  31% (1400/4515),  351 kb
-Receiving objects:  41% (1852/4515),  856 kb
-Receiving objects:  51% (2303/4515), 1024 kb
-Receiving objects:  61% (2755/4515), 1416 kb
-Receiving objects:  71% (3206/4515), 10269 kb
-Receiving objects:  81% (3658/4515), 10549 kb
-Receiving objects:  91% (4109/4515), 10774 kb
-Receiving objects: 100% (4515/4515), 11182 kb, done.
+Receiving objects:   1% (46/4533),   63 kb
+Receiving objects:  11% (499/4533),  127 kb
+Receiving objects:  21% (952/4533),  183 kb
+Receiving objects:  31% (1406/4533),  351 kb
+Receiving objects:  41% (1859/4533),  856 kb
+Receiving objects:  51% (2312/4533), 1024 kb
+Receiving objects:  61% (2766/4533), 1416 kb
+Receiving objects:  71% (3219/4533), 10261 kb
+Receiving objects:  81% (3672/4533), 10549 kb
+Receiving objects:  91% (4126/4533), 10774 kb
+Receiving objects: 100% (4533/4533), 11197 kb, done.
