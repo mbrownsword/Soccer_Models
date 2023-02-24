@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 07:57:04.347"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AZ 2.2816 to Cambuur Leeuwarden 0.7652"
+[1] "Total: 3.0468"
+[1] "AZ %: 71.72"
+[1] "Draw %: 18.15"
+[1] "Cambuur Leeuwarden %: 10.13"
+[1] "--XG Model--"
+[1] "Score: AZ 2.4576 to Cambuur Leeuwarden 0.6745"
+[1] "Total: 3.1321"
+[1] "AZ %: 77.29"
+[1] "Draw %: 14.71"
+[1] "Cambuur Leeuwarden %: 8"
+[1] "--XGoT Model--"
+[1] "Score: AZ 2.4983 to Cambuur Leeuwarden 0.6193"
+[1] "Total: 3.1176"
+[1] "AZ %: 78.43"
+[1] "Draw %: 14.65"
+[1] "Cambuur Leeuwarden %: 6.92"
+[1] "--XA Model--"
+[1] "Score: AZ 2.3558 to Cambuur Leeuwarden 0.7367"
+[1] "Total: 3.0925"
+[1] "AZ %: 73.38"
+[1] "Draw %: 17.06"
+[1] "Cambuur Leeuwarden %: 9.56"
+[1] "--Mean 4 Models--"
+[1] "AZ has a mean win % of 75.2%; a min win % of 71.72%; a max win % of 78.43%."
+[1] "Draw has a mean win % of 16.14%; a min win % of 14.65%; a max win % of 18.15%."
+[1] "Cambuur Leeuwarden has a mean win % of 8.65%; a min win % of 6.92%; a max win of % 10.13%."
+[1] "AZ has a mean win of the Double Chance of 91.35%; a min win % of 89.87%, a max win % of 93.08%."
+[1] "Cambuur Leeuwarden has a mean win of the Double Chance of 24.8%; a min win % of 21.57%, a max win % of 28.28%."
+[1] "The mean likelihood that there are more than 2.5 goals is 59.08%; max % is 60.58 and min % is 57.39%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 40.92%; max % is 42.61 and min % is 39.42%."
+[1] "--Sportsbook Odds--"
+[1] "AZ Barstool Odds are: 81.82"
+[1] "The Barstool Odds of a Draw are: 16.67"
+[1] "Cambuur Leeuwarden Barstool Odds are: 8.7"
+[1] "AZ Adjusted Barstool Odds are: 76.332"
+[1] "The Adjusted Barstool Odds of a Draw are: 15.552"
+[1] "Cambuur Leeuwarden Adjusted Barstool Odds are: 8.116"
+[1] "AZ's Barstool Odds to cover the  spread are: NA"
+[1] "Cambuur Leeuwarden's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.52, which is a 65.79% chance of the over 2.5 hitting. The line for the under is 2.55, which is a 39.22% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                          bet           date_time
+1 under AZ/Cambuur Leeuwarden 2023-02-25 11:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team               | expected_attg| expected_gs|bet |
+|:---------------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/185644/mathew-ryan             |AZ                 |      0.000000|   0.2564103|    |
+|/players/924610/yukinari-sugawara       |AZ                 |      0.184925|   0.2941176|    |
+|/players/1307387/wouter-goes            |AZ                 |      0.002600|   0.0833333|    |
+|/players/660132/pantelis-hatzidiakos    |AZ                 |      0.001900|   0.1111111|    |
+|/players/1195281/milos-kerkez           |AZ                 |      0.007900|   0.1000000|    |
+|/players/868344/tijani-reijnders        |AZ                 |      0.194750|   0.2325581|    |
+|/players/209384/jordy-clasie            |AZ                 |      0.005250|   0.1428571|    |
+|/players/1035643/sven-mijnans           |AZ                 |      0.189675|   0.2941176|    |
+|/players/689680/jens-odgaard            |AZ                 |      0.217200|   0.5918367|    |
+|/players/737061/jesper-karlsson         |AZ                 |      0.409525|   0.5000000|    |
+|/players/637749/evangelos-pavlidis      |AZ                 |      0.451525|   0.5833333|    |
+|/players/561432/bjrn-maars-johnsen      |Cambuur Leeuwarden |      0.182975|   0.2173913|    |
+|/players/230133/navarone-foor           |Cambuur Leeuwarden |      0.082550|   0.1333333|    |
+|/players/907821/michael-breij           |Cambuur Leeuwarden |      0.100525|   0.1960784|    |
+|/players/725424/silvester-van-der-water |Cambuur Leeuwarden |      0.081575|   0.1666667|    |
+|/players/295087/mitchell-paulissen      |Cambuur Leeuwarden |      0.000025|   0.0277778|    |
+|/players/967481/daniel-van-kaam         |Cambuur Leeuwarden |      0.000175|   0.1176471|    |
+|/players/1004976/alex-bangura           |Cambuur Leeuwarden |      0.038500|   0.0769231|    |
+|/players/1393472/floris-smand           |Cambuur Leeuwarden |      0.021400|   0.0400000|    |
+|/players/873580/marco-tol               |Cambuur Leeuwarden |      0.018625|   0.0666667|    |
+|/players/279861/doke-schmidt            |Cambuur Leeuwarden |      0.018225|   0.0277778|    |
+|/players/118848/robbin-ruiter           |Cambuur Leeuwarden |      0.000000|   0.1250000|    |
+|/players/1168520/mayckel-lahdo          |AZ                 |      0.037775|   0.3333333|    |
+|/players/873573/sam-beukema             |AZ                 |      0.000000|   0.0400000|    |
+|/players/830601/djordje-mihailovic      |AZ                 |      0.140800|   0.3773585|    |
+|/players/873560/mees-de-wit             |AZ                 |      0.063175|   0.1538462|    |
+|/players/942354/felix-mambimbi          |Cambuur Leeuwarden |      0.027825|   0.0714286|    |
+|/players/359461/mimoun-mahi             |Cambuur Leeuwarden |      0.031900|   0.1666667|    |
+|/players/577861/david-sambissa          |Cambuur Leeuwarden |      0.002225|   0.1538462|    |
+|/players/1013279/remco-balk             |Cambuur Leeuwarden |      0.008325|   0.1666667|    |
+____________________________________________________
+
+[1] "Facts about AZ:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/185644/mathew-ryan          |           0|         30.0669|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/924610/yukinari-sugawara    |           1|         55.4566|           2.1202|        0.2874|         1.0805|      0.0630|        0.2124|      0.1444| 90.0000|
+|/players/1307387/wouter-goes         |           1|         71.6507|           1.7219|        0.4001|         0.6017|      0.0557|        0.0032|      0.0214| 90.0000|
+|/players/660132/pantelis-hatzidiakos |           1|         67.1517|           1.0565|        0.0256|         0.3761|      0.0496|        0.0028|      0.0458| 80.1538|
+|/players/1195281/milos-kerkez        |           1|         42.5036|           1.5943|        0.1482|         0.6686|      0.0911|        0.0083|      0.1675| 83.6111|
+|/players/868344/tijani-reijnders     |           2|         62.3065|           1.6028|        0.7595|         2.0941|      0.1844|        0.2270|      0.1674| 90.0000|
+|/players/209384/jordy-clasie         |           2|         65.1397|           2.7694|        0.0390|         0.5145|      0.0273|        0.0048|      0.1163| 90.0000|
+|/players/1035643/sven-mijnans        |           3|         41.7983|           1.9004|        0.5169|         1.7575|      0.2285|        0.2266|      0.1581| 80.4815|
+|/players/689680/jens-odgaard         |           3|         32.2212|           1.4477|        1.2739|         2.9007|      0.3186|        0.2550|      0.2823| 90.0000|
+|/players/737061/jesper-karlsson      |           3|         40.5712|           0.8552|        1.2396|         2.9311|      0.4474|        0.5504|      0.3262| 90.0000|
+|/players/637749/evangelos-pavlidis   |           5|         19.3649|           0.6286|        1.4011|         3.2602|      0.6192|        0.6278|      0.1275| 82.0000|
+|/players/1168520/mayckel-lahdo       |          NA|              NA|               NA|        0.1875|         1.1091|      0.1553|        0.0413|      0.0307|  9.8462|
+|/players/873573/sam-beukema          |          NA|              NA|               NA|        0.0000|         0.1552|      0.0153|        0.0000|      0.0996|  9.5185|
+|/players/830601/djordje-mihailovic   |          NA|              NA|               NA|        0.4366|         0.4844|      0.1312|        0.1618|      0.0976|  8.0000|
+|/players/873560/mees-de-wit          |          NA|              NA|               NA|        0.2634|         0.5844|      0.0315|        0.0687|      0.0496|  6.3889|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Pascal Jansen |     88.70101|      15.91589|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Cambuur Leeuwarden:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/561432/bjrn-maars-johnsen      |           5|         16.3722|           0.5477|        0.4863|         1.2857|      0.1414|        0.1627|      0.0294| 77.7500|
+|/players/230133/navarone-foor           |           3|         22.5126|           0.4031|        0.2239|         0.5998|      0.0750|        0.0682|      0.0470| 60.0000|
+|/players/907821/michael-breij           |           3|         15.5233|           1.1725|        0.4084|         1.2931|      0.0949|        0.0862|      0.0595| 75.9091|
+|/players/725424/silvester-van-der-water |           3|         14.3571|           1.1285|        0.2246|         0.6018|      0.0752|        0.0684|      0.0472| 60.2000|
+|/players/295087/mitchell-paulissen      |           2|         30.0239|           2.3280|        0.1292|         0.7804|      0.0253|        0.0001|      0.0396| 90.0000|
+|/players/967481/daniel-van-kaam         |           2|         40.3523|           2.5528|        0.1292|         0.2853|      0.0040|        0.0001|      0.0161| 90.0000|
+|/players/1004976/alex-bangura           |           1|         27.6374|           1.6805|        0.0845|         0.2083|      0.0574|        0.0318|      0.0242| 90.0000|
+|/players/1393472/floris-smand           |           1|         24.2373|           1.3936|        0.0713|         0.2083|      0.0117|        0.0159|      0.0149| 90.0000|
+|/players/873580/marco-tol               |           1|         41.1716|           1.7408|        0.0713|         0.2637|      0.0130|        0.0159|      0.0169| 90.0000|
+|/players/279861/doke-schmidt            |           1|         35.3148|           2.0809|        0.0767|         0.5295|      0.0117|        0.0159|      0.0149| 90.0000|
+|/players/118848/robbin-ruiter           |           0|         30.0717|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/942354/felix-mambimbi          |          NA|              NA|               NA|        0.0835|         0.2413|      0.0203|        0.0231|      0.0261| 30.0000|
+|/players/359461/mimoun-mahi             |          NA|              NA|               NA|        0.1262|         0.4556|      0.0372|        0.0270|      0.0187| 29.8000|
+|/players/577861/david-sambissa          |          NA|              NA|               NA|        0.0105|         0.0377|      0.0028|        0.0016|      0.0042| 14.0909|
+|/players/1013279/remco-balk             |          NA|              NA|               NA|        0.0575|         0.1383|      0.0211|        0.0080|      0.0063| 12.2500|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Sjors Ultee  |     66.93131|     -12.56613|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3900539/Soccer_Models'...
+Receiving objects:   1% (46/4569),   63 kb
+Receiving objects:  11% (503/4569),  127 kb
+Receiving objects:  21% (960/4569),  183 kb
+Receiving objects:  31% (1417/4569),  407 kb
+Receiving objects:  41% (1874/4569),  856 kb
+Receiving objects:  51% (2331/4569), 1024 kb
+Receiving objects:  61% (2788/4569), 1416 kb
+Receiving objects:  71% (3244/4569), 10325 kb
+Receiving objects:  81% (3701/4569), 10605 kb
+Receiving objects:  91% (4158/4569), 10774 kb
+Receiving objects: 100% (4569/4569), 11198 kb, done.
