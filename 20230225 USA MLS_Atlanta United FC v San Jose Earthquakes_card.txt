@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-24 00:11:58.585"
+[1] "Updated at 2023-02-24 14:56:32.817"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -105,14 +105,14 @@ ____________________________________________________
 |:--------------|------------:|-------------:|:---------|
 |Luchi Gonzalez |     45.33232|     0.3344444|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084678/Soccer_Models'...
-Receiving objects:   1% (45/4494),   63 kb
-Receiving objects:  11% (495/4494),  127 kb
-Receiving objects:  21% (944/4494),  183 kb
-Receiving objects:  31% (1394/4494),  351 kb
-Receiving objects:  41% (1843/4494),  856 kb
-Receiving objects:  51% (2292/4494), 1024 kb
-Receiving objects:  61% (2742/4494), 1360 kb
-Receiving objects:  71% (3191/4494), 10269 kb
-Receiving objects:  81% (3641/4494), 10550 kb
-Receiving objects:  91% (4090/4494), 10774 kb
-Receiving objects: 100% (4494/4494), 11172 kb, done.
+Receiving objects:   1% (47/4638),   63 kb
+Receiving objects:  11% (511/4638),  127 kb
+Receiving objects:  21% (974/4638),  239 kb
+Receiving objects:  31% (1438/4638),  407 kb
+Receiving objects:  41% (1902/4638),  856 kb
+Receiving objects:  51% (2366/4638), 1080 kb
+Receiving objects:  61% (2830/4638), 1416 kb
+Receiving objects:  71% (3293/4638), 10325 kb
+Receiving objects:  81% (3757/4638), 10606 kb
+Receiving objects:  91% (4221/4638), 10830 kb
+Receiving objects: 100% (4638/4638), 11284 kb, done.
