@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-23 08:11:31.379"
+[1] "Updated at 2023-02-23 21:04:24.768"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -40,32 +40,53 @@
 [1] "Leeds United Adjusted Barstool Odds are: 48.978"
 [1] "The Adjusted Barstool Odds of a Draw are: 26.533"
 [1] "Southampton Adjusted Barstool Odds are: 24.489"
-[1] "Leeds United's Barstool Odds to cover the -0.5 spread are: 51.02"
-[1] "Southampton's Barstool Odds to cover the 0.5 spread are: 53.48"
-[1] "Barstool's line for the total is 2.5 at 1.96, which is a 51.02% chance of the over 2.5 hitting. The line for the under is 1.84, which is a 54.35% chance of the under 2.5 hitting."
+[1] "Leeds United's Barstool Odds to cover the -0.5 spread are: 51.55"
+[1] "Southampton's Barstool Odds to cover the 0.5 spread are: 52.91"
+[1] "Barstool's line for the total is 2.5 at 1.96, which is a 51.02% chance of the over 2.5 hitting. The line for the under is 1.85, which is a 54.05% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                             bet           date_time
 1 over Leeds United/Southampton 2023-02-25 07:00:00
+
+
+|player            |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:-----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Rasmus Kristensen |LEE  |     36| 1.85|          NA|  0.8480|   0.3075|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Rasmus Kristensen |LEE  |     32| 1.57|          NA|  0.9538|   0.3169|passes    |ENG England |      0.6369|         NA|        NA|         NA|       NA|
+|Rasmus Kristensen |LEE  |     40| 2.19|          NA|  0.6540|   0.1974|passes    |ENG England |      0.4566|         NA|        NA|         NA|       NA|
+|James Ward-Prowse |SOU  |     49| 1.84|          NA|  0.7725|   0.2290|passes    |ENG England |      0.5435|         NA|        NA|         NA|       NA|
+|James Ward-Prowse |SOU  |     53| 2.27|          NA|  0.5778|   0.1373|passes    |ENG England |      0.4405|         NA|        NA|         NA|       NA|
+|James Ward-Prowse |SOU  |     45| 1.52|          NA|  0.9054|   0.2475|passes    |ENG England |      0.6579|         NA|        NA|         NA|       NA|
+|Joe Aribo         |SOU  |     18| 1.82|          NA|  0.9702|   0.4207|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
+|Joe Aribo         |SOU  |     26| 2.71|          NA|  0.6014|   0.2324|passes    |ENG England |      0.3690|         NA|        NA|         NA|       NA|
+|Joe Aribo         |SOU  |     22| 2.26|          NA|  0.8524|   0.4099|passes    |ENG England |      0.4425|         NA|        NA|         NA|       NA|
+|Joe Aribo         |SOU  |     14| 1.50|          NA|  0.9973|   0.3306|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
+|Adam Armstrong    |SOU  |     19| 2.33|          NA|  0.9465|   0.5173|passes    |ENG England |      0.4292|         NA|        NA|         NA|       NA|
+|Adam Armstrong    |SOU  |     15| 1.87|          NA|  0.9937|   0.4589|passes    |ENG England |      0.5348|         NA|        NA|         NA|       NA|
+|Adam Armstrong    |SOU  |     27| 3.60|          NA|  0.5023|   0.2245|passes    |ENG England |      0.2778|         NA|        NA|         NA|       NA|
+|Adam Armstrong    |SOU  |     23| 2.80|          NA|  0.7842|   0.4271|passes    |ENG England |      0.3571|         NA|        NA|         NA|       NA|
+|Adam Armstrong    |SOU  |     11| 1.53|          NA|  0.9997|   0.3461|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
+|Tyler Adams       |LEE  |     61| 1.85|          NA|  0.6688|   0.1283|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Tyler Adams       |LEE  |     57| 1.60|          NA|  0.8282|   0.2032|passes    |ENG England |      0.6250|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team         | expected_attg| expected_gs|bet |
 |:--------------------------------------|:------------|-------------:|-----------:|:---|
 |/players/952029/illan-meslier          |Leeds United |      0.000000|   0.2564103|    |
-|/players/190666/luke-ayling            |Leeds United |      0.039550|   0.0625000|    |
+|/players/190666/luke-ayling            |Leeds United |      0.039550|   0.0666667|    |
 |/players/628201/robin-koch             |Leeds United |      0.007575|   0.0526316|    |
 |/players/796974/pascal-struijk         |Leeds United |      0.036925|   0.0952381|    |
 |/players/722207/rasmus-kristensen      |Leeds United |      0.100925|   0.1176471|    |
 |/players/729769/tyler-adams            |Leeds United |      0.010450|   0.1000000|    |
 |/players/848266/weston-mckennie        |Leeds United |      0.132625|   0.1428571|    |
 |/players/952322/brenden-aaronson       |Leeds United |      0.172950|   0.2173913|    |
-|/players/751649/jack-harrison          |Leeds United |      0.127350|   0.1886792|    |
+|/players/751649/jack-harrison          |Leeds United |      0.127350|   0.1923077|    |
 |/players/1107286/wilfried-gnonto       |Leeds United |      0.010025|   0.2777778|    |
 |/players/956925/georginio-rutter       |Leeds United |      0.522050|   0.3125000|*   |
 |/players/939390/gavin-bazunu           |Southampton  |      0.000000|   0.0384615|    |
 |/players/734042/kyle-walker-peters     |Southampton  |      0.036625|   0.0500000|    |
-|/players/490868/jan-bednarek           |Southampton  |      0.010600|   0.0357143|    |
+|/players/490868/jan-bednarek           |Southampton  |      0.010600|   0.0370370|    |
 |/players/951765/armel-bella-kotchap    |Southampton  |      0.047700|   0.0454545|    |
 |/players/938247/mohammed-salisu        |Southampton  |      0.034475|   0.0434783|    |
 |/players/539939/james-bree             |Southampton  |      0.044525|   0.0217391|    |
@@ -77,9 +98,9 @@
 |/players/1049805/sam-greenwood         |Leeds United |      0.030800|   0.2439024|    |
 |/players/302241/patrick-bamford        |Leeds United |      0.086300|   0.4255319|    |
 |/players/743192/junior-firpo           |Leeds United |      0.000000|   0.0476190|    |
-|/players/941213/crysencio-summerville  |Leeds United |      0.055975|   0.2000000|    |
+|/players/941213/crysencio-summerville  |Leeds United |      0.055975|   0.2040816|    |
 |/players/1177312/skou-mara             |Southampton  |      0.084325|   0.2272727|    |
-|/players/1130691/kamaldeen-sulemana    |Southampton  |      0.011625|   0.2000000|    |
+|/players/1130691/kamaldeen-sulemana    |Southampton  |      0.011625|   0.2040816|    |
 |/players/1130774/samuel-edozie         |Southampton  |      0.026600|   0.1111111|    |
 |/players/604089/ainsley-maitland-niles |Southampton  |      0.000000|   0.0588235|    |
 ____________________________________________________
@@ -139,14 +160,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Ruben Selles |            2|         0.965|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901176/Soccer_Models'...
-Receiving objects:   1% (44/4371),   63 kb
-Receiving objects:  11% (481/4371),  127 kb
-Receiving objects:  21% (918/4371),  183 kb
-Receiving objects:  31% (1356/4371),  351 kb
-Receiving objects:  41% (1793/4371),  799 kb
-Receiving objects:  51% (2230/4371),  912 kb
-Receiving objects:  61% (2667/4371), 1304 kb
-Receiving objects:  71% (3104/4371), 10213 kb
-Receiving objects:  81% (3541/4371), 10493 kb
-Receiving objects:  91% (3978/4371), 10773 kb
-Receiving objects: 100% (4371/4371), 11054 kb, done.
+Receiving objects:   1% (45/4473),   63 kb
+Receiving objects:  11% (493/4473),  127 kb
+Receiving objects:  21% (940/4473),  183 kb
+Receiving objects:  31% (1387/4473),  351 kb
+Receiving objects:  41% (1834/4473),  856 kb
+Receiving objects:  51% (2282/4473),  968 kb
+Receiving objects:  61% (2729/4473), 1360 kb
+Receiving objects:  71% (3176/4473), 10253 kb
+Receiving objects:  81% (3624/4473), 10533 kb
+Receiving objects:  91% (4071/4473), 10758 kb
+Receiving objects: 100% (4473/4473), 11155 kb, done.
