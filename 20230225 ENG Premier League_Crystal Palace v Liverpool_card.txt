@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-23 08:31:42.039"
+[1] "Updated at 2023-02-24 06:30:03.109"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Crystal Palace 0.8984 to Liverpool 1.5815"
-[1] "Total: 2.4799"
-[1] "Crystal Palace %: 21.41"
-[1] "Draw %: 25.39"
-[1] "Liverpool %: 53.2"
+[1] "Score: Crystal Palace 0.896 to Liverpool 1.5808"
+[1] "Total: 2.4768"
+[1] "Crystal Palace %: 21.4"
+[1] "Draw %: 25.42"
+[1] "Liverpool %: 53.18"
 [1] "--XG Model--"
-[1] "Score: Crystal Palace 0.8305 to Liverpool 1.5902"
-[1] "Total: 2.4207"
-[1] "Crystal Palace %: 20.07"
-[1] "Draw %: 25.12"
-[1] "Liverpool %: 54.81"
+[1] "Score: Crystal Palace 0.8286 to Liverpool 1.5907"
+[1] "Total: 2.4193"
+[1] "Crystal Palace %: 19.94"
+[1] "Draw %: 25.23"
+[1] "Liverpool %: 54.83"
 [1] "--XGoT Model--"
-[1] "Score: Crystal Palace 0.9252 to Liverpool 1.6932"
-[1] "Total: 2.6184"
-[1] "Crystal Palace %: 20.78"
-[1] "Draw %: 24.62"
-[1] "Liverpool %: 54.6"
+[1] "Score: Crystal Palace 0.9227 to Liverpool 1.698"
+[1] "Total: 2.6207"
+[1] "Crystal Palace %: 20.65"
+[1] "Draw %: 24.43"
+[1] "Liverpool %: 54.92"
 [1] "--XA Model--"
-[1] "Score: Crystal Palace 0.897 to Liverpool 1.7935"
-[1] "Total: 2.6905"
-[1] "Crystal Palace %: 18.77"
-[1] "Draw %: 23.47"
-[1] "Liverpool %: 57.76"
+[1] "Score: Crystal Palace 0.8962 to Liverpool 1.786"
+[1] "Total: 2.6822"
+[1] "Crystal Palace %: 18.83"
+[1] "Draw %: 23.44"
+[1] "Liverpool %: 57.73"
 [1] "--Mean 4 Models--"
-[1] "Crystal Palace has a mean win % of 20.26%; a min win % of 18.77%; a max win % of 21.41%."
-[1] "Draw has a mean win % of 24.65%; a min win % of 23.47%; a max win % of 25.39%."
-[1] "Liverpool has a mean win % of 55.09%; a min win % of 53.2%; a max win of % 57.76%."
-[1] "Crystal Palace has a mean win of the Double Chance of 44.91%; a min win % of 42.24%, a max win % of 46.8%."
-[1] "Liverpool has a mean win of the Double Chance of 79.74%; a min win % of 78.59%, a max win % of 81.23%."
-[1] "The mean likelihood that there are more than 2.5 goals is 46.54%; max % is 49.87 and min % is 43.22%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 53.46%; max % is 56.78 and min % is 50.13%."
+[1] "Crystal Palace has a mean win % of 20.21%; a min win % of 18.83%; a max win % of 21.4%."
+[1] "Draw has a mean win % of 24.63%; a min win % of 23.44%; a max win % of 25.42%."
+[1] "Liverpool has a mean win % of 55.16%; a min win % of 53.18%; a max win of % 57.73%."
+[1] "Crystal Palace has a mean win of the Double Chance of 44.83%; a min win % of 42.27%, a max win % of 46.82%."
+[1] "Liverpool has a mean win of the Double Chance of 79.8%; a min win % of 78.6%, a max win % of 81.17%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.48%; max % is 49.41 and min % is 43.16%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.52%; max % is 56.84 and min % is 50.59%."
 [1] "--Sportsbook Odds--"
 [1] "Crystal Palace Barstool Odds are: 20.83"
-[1] "The Barstool Odds of a Draw are: 25.64"
-[1] "Liverpool Barstool Odds are: 57.89"
-[1] "Crystal Palace Adjusted Barstool Odds are: 19.96"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.569"
-[1] "Liverpool Adjusted Barstool Odds are: 55.471"
-[1] "Crystal Palace's Barstool Odds to cover the 0.5 spread are: 46.51"
-[1] "Liverpool's Barstool Odds to cover the -0.5 spread are: 58.14"
-[1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18% chance of the over 2.5 hitting. The line for the under is 2.04, which is a 49.02% chance of the under 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Liverpool Barstool Odds are: 58.82"
+[1] "Crystal Palace Adjusted Barstool Odds are: 19.904"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.889"
+[1] "Liverpool Adjusted Barstool Odds are: 56.206"
+[1] "Crystal Palace's Barstool Odds to cover the 0.5 spread are: 45.45"
+[1] "Liverpool's Barstool Odds to cover the -0.5 spread are: 58.82"
+[1] "Barstool's line for the total is 2.5 at 1.77, which is a 56.5% chance of the over 2.5 hitting. The line for the under is 2.05, which is a 48.78% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                              bet           date_time
@@ -53,35 +53,35 @@
 |pageUrl2                               |team           | expected_attg| expected_gs|bet |
 |:--------------------------------------|:--------------|-------------:|-----------:|:---|
 |/players/109222/vicente-guaita         |Crystal Palace |      0.000000|   0.0500000|    |
-|/players/157838/nathaniel-clyne        |Crystal Palace |      0.002500|   0.0263158|    |
-|/players/1120224/tyrick-mitchell       |Crystal Palace |      0.036600|   0.0263158|    |
-|/players/503659/joachim-andersen       |Crystal Palace |      0.042425|   0.0357143|    |
-|/players/844425/marc-guehi             |Crystal Palace |      0.029825|   0.0500000|    |
-|/players/214570/jeffrey-schlupp        |Crystal Palace |      0.083275|   0.1250000|    |
-|/players/818975/eberechi-eze           |Crystal Palace |      0.060175|   0.1538462|    |
-|/players/951954/cheick-oumar-doucour   |Crystal Palace |      0.025225|   0.0454545|    |
-|/players/706297/jean-philippe-mateta   |Crystal Palace |      0.168400|   0.2777778|    |
-|/players/154280/jordan-ayew            |Crystal Palace |      0.097575|   0.1724138|    |
-|/players/637746/odsonne-edouard        |Crystal Palace |      0.203725|   0.2777778|    |
-|/players/319784/alisson-becker         |Liverpool      |      0.000000|   0.0952381|    |
-|/players/171698/joel-matip             |Liverpool      |      0.057600|   0.0714286|    |
-|/players/209405/virgil-van-dijk        |Liverpool      |      0.052000|   0.0952381|    |
-|/players/357880/andrew-robertson       |Liverpool      |      0.030875|   0.0714286|    |
-|/players/760712/trent-alexander-arnold |Liverpool      |      0.063825|   0.0833333|    |
-|/players/963965/fabio-carvalho         |Liverpool      |      0.175875|   0.3125000|    |
-|/players/156008/jordan-henderson       |Liverpool      |      0.043625|   0.0714286|    |
-|/players/359188/fabinho                |Liverpool      |      0.093925|   0.0909091|    |
-|/players/860914/luis-diaz              |Liverpool      |      0.180525|   0.0769231|*   |
-|/players/950561/darwin-nunez           |Liverpool      |      0.281850|   0.4000000|    |
-|/players/292462/mohamed-salah          |Liverpool      |      0.331400|   0.4081633|    |
+|/players/157838/nathaniel-clyne        |Crystal Palace |      0.002425|   0.0256410|    |
+|/players/1120224/tyrick-mitchell       |Crystal Palace |      0.036425|   0.0256410|    |
+|/players/503659/joachim-andersen       |Crystal Palace |      0.042600|   0.0344828|    |
+|/players/844425/marc-guehi             |Crystal Palace |      0.028950|   0.0500000|    |
+|/players/214570/jeffrey-schlupp        |Crystal Palace |      0.082550|   0.1250000|    |
+|/players/818975/eberechi-eze           |Crystal Palace |      0.060050|   0.1538462|    |
+|/players/951954/cheick-oumar-doucour   |Crystal Palace |      0.025325|   0.0434783|    |
+|/players/706297/jean-philippe-mateta   |Crystal Palace |      0.168475|   0.2777778|    |
+|/players/154280/jordan-ayew            |Crystal Palace |      0.097450|   0.1694915|    |
+|/players/637746/odsonne-edouard        |Crystal Palace |      0.203175|   0.2777778|    |
+|/players/319784/alisson-becker         |Liverpool      |      0.000000|   0.0909091|    |
+|/players/171698/joel-matip             |Liverpool      |      0.057875|   0.0714286|    |
+|/players/209405/virgil-van-dijk        |Liverpool      |      0.051550|   0.0952381|    |
+|/players/357880/andrew-robertson       |Liverpool      |      0.030475|   0.0714286|    |
+|/players/760712/trent-alexander-arnold |Liverpool      |      0.064725|   0.0833333|    |
+|/players/963965/fabio-carvalho         |Liverpool      |      0.175350|   0.3125000|    |
+|/players/156008/jordan-henderson       |Liverpool      |      0.043125|   0.0714286|    |
+|/players/359188/fabinho                |Liverpool      |      0.093025|   0.0909091|    |
+|/players/806552/cody-gakpo             |Liverpool      |      0.140075|   0.3333333|    |
+|/players/950561/darwin-nunez           |Liverpool      |      0.297150|   0.4000000|    |
+|/players/292462/mohamed-salah          |Liverpool      |      0.351350|   0.4081633|    |
 |/players/163616/luka-milivojevic       |Crystal Palace |      0.000000|   0.0769231|    |
-|/players/1029063/michael-olise         |Crystal Palace |      0.029975|   0.1666667|    |
-|/players/950829/chris-richards         |Crystal Palace |      0.000000|   0.0370370|    |
-|/players/28901/james-mcarthur          |Crystal Palace |      0.012300|   0.0526316|    |
-|/players/38807/james-milner            |Liverpool      |      0.002100|   0.1052632|    |
-|/players/242709/roberto-firmino        |Liverpool      |      0.042225|   0.3703704|    |
-|/players/570461/diogo-jota             |Liverpool      |      0.027800|   0.3636364|    |
-|/players/963964/harvey-elliott         |Liverpool      |      0.011200|   0.2222222|    |
+|/players/1029063/michael-olise         |Crystal Palace |      0.030325|   0.1666667|    |
+|/players/950829/chris-richards         |Crystal Palace |      0.000000|   0.0357143|    |
+|/players/28901/james-mcarthur          |Crystal Palace |      0.011700|   0.0526316|    |
+|/players/38807/james-milner            |Liverpool      |      0.002175|   0.1052632|    |
+|/players/242709/roberto-firmino        |Liverpool      |      0.040650|   0.3703704|    |
+|/players/570461/diogo-jota             |Liverpool      |      0.028125|   0.3636364|    |
+|/players/963964/harvey-elliott         |Liverpool      |      0.011300|   0.2222222|    |
 ____________________________________________________
 
 [1] "Facts about Crystal Palace:"
@@ -90,21 +90,21 @@ ____________________________________________________
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/109222/vicente-guaita       |           0|         25.1891|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/157838/nathaniel-clyne      |           1|         29.6669|           1.0060|        0.0629|         0.3124|      0.0125|        0.0034|      0.0372| 90.0000|
-|/players/1120224/tyrick-mitchell     |           1|         33.9824|           2.8239|        0.0386|         0.1531|      0.0440|        0.0412|      0.0637| 90.0000|
-|/players/503659/joachim-andersen     |           1|         57.8852|           1.0416|        0.2028|         0.5463|      0.0502|        0.0564|      0.0305| 90.0000|
-|/players/844425/marc-guehi           |           1|         48.8323|           1.4608|        0.1907|         0.7100|      0.0596|        0.0404|      0.0415| 90.0000|
-|/players/214570/jeffrey-schlupp      |           3|         23.6650|           1.9776|        0.3564|         0.7918|      0.1204|        0.1083|      0.0383| 84.0000|
-|/players/818975/eberechi-eze         |           3|         35.3044|           1.1188|        0.2880|         1.1842|      0.0827|        0.0817|      0.0842| 82.4286|
-|/players/951954/cheick-oumar-doucour |           3|         52.0648|           2.5754|        0.1853|         0.6882|      0.0478|        0.0307|      0.0744| 90.0000|
-|/players/706297/jean-philippe-mateta |           5|         15.1979|           0.5048|        0.5463|         1.5689|      0.2559|        0.2222|      0.0560| 77.3333|
-|/players/154280/jordan-ayew          |           5|         26.3050|           1.8043|        0.4438|         1.0509|      0.1002|        0.1177|      0.0894| 90.0000|
-|/players/637746/odsonne-edouard      |           5|         21.3993|           0.9169|        0.8537|         2.0353|      0.2716|        0.2843|      0.1035| 80.0270|
-|/players/163616/luka-milivojevic     |           0|              NA|               NA|        0.0000|         0.0807|      0.0078|        0.0000|      0.0058| 12.6667|
-|/players/1029063/michael-olise       |           0|              NA|               NA|        0.0938|         0.0927|      0.0082|        0.0398|      0.0292|  9.9730|
-|/players/950829/chris-richards       |           0|              NA|               NA|        0.0000|         0.1073|      0.0120|        0.0000|      0.0005|  7.5714|
-|/players/28901/james-mcarthur        |           0|              NA|               NA|        0.0906|         0.1790|      0.0144|        0.0173|      0.0046|  6.0000|
+|/players/109222/vicente-guaita       |           0|         25.1571|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/157838/nathaniel-clyne      |           1|         29.6292|           1.0060|        0.0629|         0.3120|      0.0125|        0.0034|      0.0372| 90.0000|
+|/players/1120224/tyrick-mitchell     |           1|         33.9392|           2.8239|        0.0385|         0.1529|      0.0440|        0.0412|      0.0636| 90.0000|
+|/players/503659/joachim-andersen     |           1|         57.8116|           1.0416|        0.2025|         0.5456|      0.0501|        0.0564|      0.0305| 90.0000|
+|/players/844425/marc-guehi           |           1|         48.7702|           1.4608|        0.1905|         0.7092|      0.0595|        0.0404|      0.0415| 90.0000|
+|/players/214570/jeffrey-schlupp      |           3|         23.6349|           1.9776|        0.3559|         0.7909|      0.1203|        0.1082|      0.0383| 84.0000|
+|/players/818975/eberechi-eze         |           3|         35.2595|           1.1188|        0.2877|         1.1829|      0.0826|        0.0816|      0.0841| 82.4286|
+|/players/951954/cheick-oumar-doucour |           3|         51.9986|           2.5754|        0.1851|         0.6874|      0.0478|        0.0307|      0.0743| 90.0000|
+|/players/706297/jean-philippe-mateta |           5|         15.1786|           0.5048|        0.5457|         1.5671|      0.2556|        0.2220|      0.0559| 77.3333|
+|/players/154280/jordan-ayew          |           5|         26.2716|           1.8043|        0.4433|         1.0497|      0.1001|        0.1175|      0.0893| 90.0000|
+|/players/637746/odsonne-edouard      |           5|         21.3721|           0.9169|        0.8527|         2.0331|      0.2713|        0.2840|      0.1033| 80.0270|
+|/players/163616/luka-milivojevic     |           0|              NA|               NA|        0.0000|         0.0792|      0.0077|        0.0000|      0.0057| 12.6667|
+|/players/1029063/michael-olise       |           0|              NA|               NA|        0.0915|         0.0910|      0.0081|        0.0389|      0.0291|  9.9730|
+|/players/950829/chris-richards       |           0|              NA|               NA|        0.0000|         0.1054|      0.0119|        0.0000|      0.0005|  7.5714|
+|/players/28901/james-mcarthur        |           0|              NA|               NA|        0.0883|         0.1758|      0.0141|        0.0169|      0.0045|  6.0000|
 
 
 |manager_name   | approx_games| m_avg_elo_dif|formation |
@@ -118,35 +118,35 @@ ____________________________________________________
 
 |pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/319784/alisson-becker         |           0|         32.2414|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/171698/joel-matip             |           1|         56.5051|           1.7462|        0.1105|         0.4653|      0.0767|        0.0583|      0.0143| 82.8571|
-|/players/209405/virgil-van-dijk        |           1|         66.0068|           0.9015|        0.2349|         0.5329|      0.0482|        0.0550|      0.0179| 90.0000|
-|/players/357880/andrew-robertson       |           1|         55.6752|           1.6836|        0.1143|         0.4270|      0.0455|        0.0320|      0.0982| 90.0000|
-|/players/760712/trent-alexander-arnold |           1|         55.7089|           2.4209|        0.1992|         0.9208|      0.0707|        0.0641|      0.1585| 90.0000|
-|/players/963965/fabio-carvalho         |           3|         29.1200|           1.4667|        0.7874|         2.1832|      0.2174|        0.1942|      0.1879| 90.0000|
-|/players/156008/jordan-henderson       |           3|         65.0010|           1.6872|        0.2294|         0.9002|      0.0664|        0.0461|      0.0999| 79.8333|
-|/players/359188/fabinho                |           3|         60.1623|           2.4875|        0.1885|         0.7005|      0.0769|        0.0967|      0.0563| 90.0000|
-|/players/860914/luis-diaz              |           5|         31.1662|           1.3969|        0.5694|         1.6364|      0.1616|        0.1985|      0.0866| 80.4211|
-|/players/950561/darwin-nunez           |           5|         19.3062|           1.1059|        1.0787|         2.5550|      0.3810|        0.3243|      0.1280| 82.2292|
-|/players/292462/mohamed-salah          |           5|         34.9954|           0.7165|        1.1146|         2.6612|      0.3997|        0.3962|      0.2126| 90.0000|
-|/players/38807/james-milner            |           0|              NA|               NA|        0.0162|         0.0323|      0.0008|        0.0023|      0.0162| 10.1667|
-|/players/242709/roberto-firmino        |           0|              NA|               NA|        0.1639|         0.2730|      0.0192|        0.0434|      0.0197|  9.5789|
-|/players/570461/diogo-jota             |           0|              NA|               NA|        0.0500|         0.2373|      0.0327|        0.0288|      0.0226|  7.7708|
-|/players/963964/harvey-elliott         |           0|              NA|               NA|        0.0391|         0.1173|      0.0100|        0.0105|      0.0101|  7.1429|
+|/players/319784/alisson-becker         |           0|         32.2853|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/171698/joel-matip             |           1|         56.5820|           1.7462|        0.1106|         0.4659|      0.0768|        0.0584|      0.0143| 82.8571|
+|/players/209405/virgil-van-dijk        |           1|         66.0967|           0.9015|        0.2352|         0.5336|      0.0483|        0.0551|      0.0179| 90.0000|
+|/players/357880/andrew-robertson       |           1|         55.7509|           1.6836|        0.1144|         0.4276|      0.0455|        0.0320|      0.0984| 90.0000|
+|/players/760712/trent-alexander-arnold |           1|         55.7848|           2.4209|        0.1994|         0.9219|      0.0708|        0.0641|      0.1587| 90.0000|
+|/players/963965/fabio-carvalho         |           3|         29.1597|           1.4667|        0.7884|         2.1859|      0.2176|        0.1944|      0.1881| 90.0000|
+|/players/156008/jordan-henderson       |           3|         65.0895|           1.6872|        0.2297|         0.9014|      0.0665|        0.0462|      0.1001| 79.8333|
+|/players/359188/fabinho                |           3|         60.2442|           2.4875|        0.1887|         0.7014|      0.0770|        0.0968|      0.0563| 90.0000|
+|/players/806552/cody-gakpo             |           5|         30.8020|           1.4103|        0.6515|         1.8050|      0.1866|        0.1501|      0.2024| 80.8750|
+|/players/950561/darwin-nunez           |           5|         19.5556|           1.1023|        1.0393|         2.4764|      0.3691|        0.3486|      0.0817| 82.2292|
+|/players/292462/mohamed-salah          |           5|         35.4475|           0.7142|        1.0739|         2.5793|      0.3872|        0.4259|      0.1356| 90.0000|
+|/players/38807/james-milner            |           0|              NA|               NA|        0.0163|         0.0324|      0.0008|        0.0023|      0.0162| 10.1667|
+|/players/242709/roberto-firmino        |           0|              NA|               NA|        0.1571|         0.2612|      0.0183|        0.0416|      0.0188|  9.1250|
+|/players/570461/diogo-jota             |           0|              NA|               NA|        0.0503|         0.2383|      0.0327|        0.0290|      0.0227|  7.7708|
+|/players/963964/harvey-elliott         |           0|              NA|               NA|        0.0394|         0.1178|      0.0100|        0.0106|      0.0101|  7.1429|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Jürgen Klopp |     130.9535|      16.56683|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901173/Soccer_Models'...
-Receiving objects:   1% (44/4380),   63 kb
-Receiving objects:  11% (482/4380),  127 kb
-Receiving objects:  21% (920/4380),  183 kb
-Receiving objects:  31% (1358/4380),  351 kb
-Receiving objects:  41% (1796/4380),  856 kb
-Receiving objects:  51% (2234/4380),  912 kb
-Receiving objects:  61% (2672/4380), 1304 kb
-Receiving objects:  71% (3110/4380), 10189 kb
-Receiving objects:  81% (3548/4380), 10525 kb
-Receiving objects:  91% (3986/4380), 10750 kb
-Receiving objects: 100% (4380/4380), 11064 kb, done.
+Receiving objects:   1% (46/4527),   63 kb
+Receiving objects:  11% (498/4527),  127 kb
+Receiving objects:  21% (951/4527),  183 kb
+Receiving objects:  31% (1404/4527),  351 kb
+Receiving objects:  41% (1857/4527),  856 kb
+Receiving objects:  51% (2309/4527), 1024 kb
+Receiving objects:  61% (2762/4527), 1416 kb
+Receiving objects:  71% (3215/4527), 10293 kb
+Receiving objects:  81% (3667/4527), 10573 kb
+Receiving objects:  91% (4120/4527), 10798 kb
+Receiving objects: 100% (4527/4527), 11193 kb, done.
