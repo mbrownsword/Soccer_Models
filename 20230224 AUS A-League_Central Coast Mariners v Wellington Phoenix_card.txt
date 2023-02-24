@@ -1,0 +1,154 @@
+[1] "Updated at 2023-02-23 21:18:07.933"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Central Coast Mariners 1.708 to Wellington Phoenix 1.3812"
+[1] "Total: 3.0892"
+[1] "Central Coast Mariners %: 45.47"
+[1] "Draw %: 23.74"
+[1] "Wellington Phoenix %: 30.79"
+[1] "--XG Model--"
+[1] "Score: Central Coast Mariners 1.6158 to Wellington Phoenix 1.2115"
+[1] "Total: 2.8273"
+[1] "Central Coast Mariners %: 47.5"
+[1] "Draw %: 24.21"
+[1] "Wellington Phoenix %: 28.29"
+[1] "--XGoT Model--"
+[1] "Score: Central Coast Mariners 1.6045 to Wellington Phoenix 1.2613"
+[1] "Total: 2.8658"
+[1] "Central Coast Mariners %: 45.84"
+[1] "Draw %: 24.06"
+[1] "Wellington Phoenix %: 30.1"
+[1] "--XA Model--"
+[1] "Score: Central Coast Mariners 1.5966 to Wellington Phoenix 1.2476"
+[1] "Total: 2.8442"
+[1] "Central Coast Mariners %: 45.85"
+[1] "Draw %: 24.15"
+[1] "Wellington Phoenix %: 30"
+[1] "--Mean 4 Models--"
+[1] "Central Coast Mariners has a mean win % of 46.16%; a min win % of 45.47%; a max win % of 47.5%."
+[1] "Draw has a mean win % of 24.04%; a min win % of 23.74%; a max win % of 24.21%."
+[1] "Wellington Phoenix has a mean win % of 29.79%; a min win % of 28.29%; a max win of % 30.79%."
+[1] "Central Coast Mariners has a mean win of the Double Chance of 70.2%; a min win % of 69.21%, a max win % of 71.71%."
+[1] "Wellington Phoenix has a mean win of the Double Chance of 53.84%; a min win % of 52.5%, a max win % of 54.53%."
+[1] "The mean likelihood that there are more than 2.5 goals is 54.63%; max % is 58.7 and min % is 52.36%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 45.37%; max % is 47.64 and min % is 41.3%."
+[1] "--Sportsbook Odds--"
+[1] "Central Coast Mariners Barstool Odds are: 54.05"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Wellington Phoenix Barstool Odds are: 27.03"
+[1] "Central Coast Mariners Adjusted Barstool Odds are: 50.647"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.025"
+[1] "Wellington Phoenix Adjusted Barstool Odds are: 25.328"
+[1] "Central Coast Mariners's Barstool Odds to cover the -0.5 spread are: 53.48"
+[1] "Wellington Phoenix's Barstool Odds to cover the 0.5 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.52, which is a 65.79% chance of the over 2.5 hitting. The line for the under is 2.55, which is a 39.22% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                              bet           date_time
+1                              Wellington Phoenix 2023-02-24 00:45:00
+2 under Central Coast Mariners/Wellington Phoenix 2023-02-24 00:45:00
+3                          Wellington Phoenix ATS 2023-02-24 00:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team                   | expected_attg| expected_gs|bet |
+|:--------------------------------------|:----------------------|-------------:|-----------:|:---|
+|/players/69188/danny-vukovic           |Central Coast Mariners |      0.000000|   0.2564103|    |
+|/players/505932/brian-kaltak           |Central Coast Mariners |      0.011525|   0.0434783|    |
+|/players/424603/storm-roux             |Central Coast Mariners |      0.048750|   0.0434783|    |
+|/players/1217244/daniel-hall           |Central Coast Mariners |      0.048225|   0.0434783|    |
+|/players/1315434/jacob-farrell         |Central Coast Mariners |      0.054675|   0.0833333|    |
+|/players/1315433/harrison-steele       |Central Coast Mariners |      0.004300|   0.1000000|    |
+|/players/1220269/maximilien-balard     |Central Coast Mariners |      0.003075|   0.0833333|    |
+|/players/737141/beni-nkololo           |Central Coast Mariners |      0.341350|   0.3125000|    |
+|/players/1016158/joshua-nisbet         |Central Coast Mariners |      0.053425|   0.1176471|    |
+|/players/941733/moresche               |Central Coast Mariners |      0.162725|   0.3389831|    |
+|/players/481541/jason-cummings         |Central Coast Mariners |      0.437200|   0.4444444|    |
+|/players/512614/oliver-sail            |Wellington Phoenix     |      0.000000|   0.2941176|    |
+|/players/1217277/joshua-laws           |Wellington Phoenix     |      0.020925|   0.0333333|    |
+|/players/1101260/sam-sutton            |Wellington Phoenix     |      0.008350|   0.0952381|    |
+|/players/324305/tim-payne              |Wellington Phoenix     |      0.030325|   0.0333333|    |
+|/players/229675/scott-wootton          |Wellington Phoenix     |      0.078250|   0.0476190|    |
+|/players/558215/bozhidar-kraev         |Wellington Phoenix     |      0.213450|   0.2857143|    |
+|/players/464349/steven-peter-ugarkovic |Wellington Phoenix     |      0.068650|   0.1176471|    |
+|/players/813713/nicholas-pennington    |Wellington Phoenix     |      0.022700|   0.1176471|    |
+|/players/628066/clayton-lewis          |Wellington Phoenix     |      0.022100|   0.2272727|    |
+|/players/560109/oskar-zawada           |Wellington Phoenix     |      0.385175|   0.3448276|    |
+|/players/185165/david-ball             |Wellington Phoenix     |      0.089225|   0.2380952|    |
+|/players/1086842/samuel-silvera        |Central Coast Mariners |      0.047775|   0.3030303|    |
+|/players/769337/christian-theoharous   |Central Coast Mariners |      0.010950|   0.2380952|    |
+|/players/686053/james-mcgarry          |Central Coast Mariners |      0.076550|   0.0625000|    |
+|/players/1331013/james-bayliss         |Central Coast Mariners |      0.000000|   0.0625000|    |
+|/players/1257745/benjamin-old          |Wellington Phoenix     |      0.016100|   0.1923077|    |
+|/players/96488/kosta-barbarouses       |Wellington Phoenix     |      0.076825|   0.2083333|    |
+|/players/1170521/lucas-mauragis        |Wellington Phoenix     |      0.011875|   0.0476190|    |
+|/players/1257745/benjamin-old          |Wellington Phoenix     |      0.016100|   0.1923077|    |
+____________________________________________________
+
+[1] "Facts about Central Coast Mariners:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/69188/danny-vukovic         |           0|         31.1463|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/505932/brian-kaltak         |           1|         64.6557|           0.9504|        0.2417|         0.7142|      0.0370|        0.0144|      0.0986| 90.0000|
+|/players/424603/storm-roux           |           1|         38.2990|           1.5775|        0.1970|         0.5819|      0.0675|        0.0581|      0.0630| 78.8148|
+|/players/1217244/daniel-hall         |           1|         49.5055|           1.5113|        0.1018|         0.4208|      0.0569|        0.0551|      0.0160| 90.0000|
+|/players/1315434/jacob-farrell       |           1|         36.4765|           2.1683|        0.1520|         0.7182|      0.0700|        0.0662|      0.1058| 90.0000|
+|/players/1315433/harrison-steele     |           3|         40.9653|           1.2215|        0.1093|         0.4630|      0.0296|        0.0044|      0.0753| 79.7143|
+|/players/1220269/maximilien-balard   |           3|         41.1148|           2.3557|        0.1057|         1.3891|      0.0690|        0.0043|      0.0828| 77.0714|
+|/players/737141/beni-nkololo         |           3|         25.4164|           0.7852|        1.2683|         2.3152|      0.2811|        0.4571|      0.2119| 74.0000|
+|/players/1016158/joshua-nisbet       |           3|         46.4504|           2.5081|        0.2805|         1.2799|      0.1519|        0.0594|      0.1370| 90.0000|
+|/players/941733/moresche             |           5|         22.6136|           1.1317|        0.4391|         2.1780|      0.2336|        0.2001|      0.0372| 90.0000|
+|/players/481541/jason-cummings       |           5|         25.4228|           0.4700|        1.7718|         3.2862|      0.5881|        0.6413|      0.2083| 90.0000|
+|/players/1086842/samuel-silvera      |           0|              NA|               NA|        0.2486|         0.7064|      0.0529|        0.0537|      0.0428| 16.0000|
+|/players/769337/christian-theoharous |           0|              NA|               NA|        0.3475|         1.0239|      0.0629|        0.0114|      0.0684| 12.9286|
+|/players/686053/james-mcgarry        |           0|              NA|               NA|        0.3513|         1.0350|      0.0780|        0.0919|      0.0115| 11.1852|
+|/players/1331013/james-bayliss       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 10.2857|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Nick Montgomery |     40.81818|     -1.380244|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Wellington Phoenix:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/512614/oliver-sail            |           0|         25.7479|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1217277/joshua-laws           |           1|         57.9605|           2.2556|        0.1832|         0.3509|      0.0144|        0.0227|      0.0745| 90.0000|
+|/players/1101260/sam-sutton            |           1|         35.6059|           2.4207|        0.1154|         0.6189|      0.0224|        0.0083|      0.0857| 81.8462|
+|/players/324305/tim-payne              |           1|         40.5352|           0.6740|        0.0435|         0.2997|      0.0421|        0.0352|      0.0351| 90.0000|
+|/players/229675/scott-wootton          |           1|         38.7099|           1.1419|        0.1615|         0.5570|      0.0836|        0.0832|      0.0187| 90.0000|
+|/players/558215/bozhidar-kraev         |           3|         16.0360|           0.6466|        0.5576|         1.3186|      0.1996|        0.2517|      0.0858| 71.9500|
+|/players/464349/steven-peter-ugarkovic |           3|         49.6438|           2.9995|        0.4127|         1.2921|      0.0885|        0.0704|      0.1239| 90.0000|
+|/players/813713/nicholas-pennington    |           3|         46.5268|           2.2851|        0.2073|         0.4602|      0.0121|        0.0227|      0.0289| 90.0000|
+|/players/628066/clayton-lewis          |           3|         43.8148|           1.4734|        0.2073|         1.4163|      0.0566|        0.0227|      0.1450| 90.0000|
+|/players/560109/oskar-zawada           |           5|         20.6625|           0.7714|        1.1904|         2.6325|      0.4386|        0.5086|      0.0905| 82.1429|
+|/players/185165/david-ball             |           5|         23.2059|           0.7579|        0.3289|         1.2608|      0.1527|        0.0959|      0.0728| 83.3684|
+|/players/1257745/benjamin-old          |           0|              NA|               NA|        0.3003|         1.2363|      0.0643|        0.0172|      0.0512| 18.0500|
+|/players/96488/kosta-barbarouses       |           0|              NA|               NA|        0.2745|         0.3516|      0.0377|        0.0835|      0.0150|  8.1538|
+|/players/1170521/lucas-mauragis        |           0|              NA|               NA|        0.1170|         0.1926|      0.0123|        0.0121|      0.0154|  7.8571|
+|/players/1257745/benjamin-old          |           0|              NA|               NA|        0.0000|         0.3343|      0.0215|        0.0000|      0.0086|  6.6316|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Ufuk Talay   |     66.78485|     -1.674026|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3978889/Soccer_Models'...
+Receiving objects:   1% (45/4482),   63 kb
+Receiving objects:  11% (494/4482),  127 kb
+Receiving objects:  21% (942/4482),  183 kb
+Receiving objects:  31% (1390/4482),  351 kb
+Receiving objects:  41% (1838/4482),  856 kb
+Receiving objects:  51% (2286/4482),  968 kb
+Receiving objects:  61% (2735/4482), 1360 kb
+Receiving objects:  71% (3183/4482), 10269 kb
+Receiving objects:  81% (3631/4482), 10550 kb
+Receiving objects:  91% (4079/4482), 10774 kb
+Receiving objects: 100% (4482/4482), 11164 kb, done.
