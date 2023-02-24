@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 14:27:20.602"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Milton Keynes Dons 0.6643 to Ipswich Town 1.6208"
+[1] "Total: 2.2851"
+[1] "Milton Keynes Dons %: 15.14"
+[1] "Draw %: 24.85"
+[1] "Ipswich Town %: 60.01"
+[1] "--XG Model--"
+[1] "Score: Milton Keynes Dons 0.6178 to Ipswich Town 1.891"
+[1] "Total: 2.5088"
+[1] "Milton Keynes Dons %: 11.28"
+[1] "Draw %: 20.76"
+[1] "Ipswich Town %: 67.96"
+[1] "--XGoT Model--"
+[1] "Score: Milton Keynes Dons 0.5706 to Ipswich Town 1.8221"
+[1] "Total: 2.3927"
+[1] "Milton Keynes Dons %: 10.95"
+[1] "Draw %: 21"
+[1] "Ipswich Town %: 68.05"
+[1] "--XA Model--"
+[1] "Score: Milton Keynes Dons 0.4999 to Ipswich Town 1.5922"
+[1] "Total: 2.0921"
+[1] "Milton Keynes Dons %: 11.24"
+[1] "Draw %: 24.76"
+[1] "Ipswich Town %: 64"
+[1] "--Mean 4 Models--"
+[1] "Milton Keynes Dons has a mean win % of 12.15%; a min win % of 10.95%; a max win % of 15.14%."
+[1] "Draw has a mean win % of 22.84%; a min win % of 20.76%; a max win % of 24.85%."
+[1] "Ipswich Town has a mean win % of 65%; a min win % of 60.01%; a max win of % 68.05%."
+[1] "Milton Keynes Dons has a mean win of the Double Chance of 34.99%; a min win % of 31.95%, a max win % of 39.99%."
+[1] "Ipswich Town has a mean win of the Double Chance of 87.85%; a min win % of 84.86%, a max win % of 89.05%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.4%; max % is 45.5 and min % is 34.31%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.6%; max % is 65.69 and min % is 54.5%."
+[1] "--Sportsbook Odds--"
+[1] "Milton Keynes Dons Barstool Odds are: 15.38"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Ipswich Town Barstool Odds are: 64.52"
+[1] "Milton Keynes Dons Adjusted Barstool Odds are: 14.479"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.779"
+[1] "Ipswich Town Adjusted Barstool Odds are: 60.742"
+[1] "Milton Keynes Dons's Barstool Odds to cover the  spread are: NA"
+[1] "Ipswich Town's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 2.06, which is a 48.54% chance of the over 2.5 hitting. The line for the under is 1.72, which is a 58.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team               | expected_attg| expected_gs|bet |
+|:------------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/801477/jamie-cumming        |Milton Keynes Dons |      0.000000|   0.3333333|    |
+|/players/708872/zak-jules            |Milton Keynes Dons |      0.008775|   0.0500000|    |
+|/players/280652/anthony-stewart      |Milton Keynes Dons |      0.037400|   0.0454545|    |
+|/players/886088/jack-tucker          |Milton Keynes Dons |      0.003325|   0.0454545|    |
+|/players/769358/warren-ohora         |Milton Keynes Dons |      0.035000|   0.1333333|    |
+|/players/787426/ethan-robson         |Milton Keynes Dons |      0.018125|   0.1176471|    |
+|/players/886150/edmond-paris-maghoma |Milton Keynes Dons |      0.016725|   0.0952381|    |
+|/players/215226/joshua-mceachran     |Milton Keynes Dons |      0.056050|   0.0588235|    |
+|/players/640626/daniel-harvie        |Milton Keynes Dons |      0.139025|   0.0476190|*   |
+|/players/24583/bradley-johnson       |Milton Keynes Dons |      0.039775|   0.1666667|    |
+|/players/161632/will-grigg           |Milton Keynes Dons |      0.102650|   0.1960784|    |
+|/players/512013/christian-walton     |Ipswich Town       |      0.000000|   0.2127660|    |
+|/players/662604/george-edmundson     |Ipswich Town       |      0.092450|   0.0909091|    |
+|/players/866688/luke-woolfenden      |Ipswich Town       |      0.010475|   0.1250000|    |
+|/players/479744/janoi-donacien       |Ipswich Town       |      0.011325|   0.0909091|    |
+|/players/310825/lee-evans            |Ipswich Town       |      0.145450|   0.2000000|    |
+|/players/980381/leif-davis           |Ipswich Town       |      0.054225|   0.1000000|    |
+|/players/421768/wes-burns            |Ipswich Town       |      0.076775|   0.3030303|    |
+|/players/185326/sam-morsy            |Ipswich Town       |      0.054150|   0.2000000|    |
+|/players/522440/marcus-harness       |Ipswich Town       |      0.255150|   0.2941176|    |
+|/players/605647/conor-chaplin        |Ipswich Town       |      0.154200|   0.4081633|    |
+|/players/418605/freddie-ladapo       |Ipswich Town       |      0.384125|   0.4651163|    |
+|/players/872962/matt-smith           |Milton Keynes Dons |      0.078725|   0.0714286|    |
+|/players/872956/joshua-kayode        |Milton Keynes Dons |      0.000000|   0.2325581|    |
+|/players/1077976/henry-lawrence      |Milton Keynes Dons |      0.000000|   0.0769231|    |
+|/players/1055841/dawson-devoy        |Milton Keynes Dons |      0.000000|   0.1666667|    |
+|/players/607142/kane-vincent-young   |Ipswich Town       |      0.010875|   0.1052632|    |
+|/players/682551/kyle-edwards         |Ipswich Town       |      0.068225|   0.2500000|    |
+|/players/612180/kayden-jackson       |Ipswich Town       |      0.077675|   0.3225806|    |
+|/players/961993/tyreece-john-jules   |Ipswich Town       |      0.059425|   0.1538462|    |
+____________________________________________________
+
+[1] "Facts about Milton Keynes Dons:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/801477/jamie-cumming        |           0|         30.4833|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/708872/zak-jules            |           1|         41.6556|           1.3943|        0.1105|         0.6648|      0.0305|        0.0115|      0.0229| 90.0000|
+|/players/280652/anthony-stewart      |           1|         24.7327|           1.2311|        0.1243|         0.4652|      0.0565|        0.0474|      0.0562| 90.0000|
+|/players/886088/jack-tucker          |           1|         34.6373|           1.4940|        0.0960|         0.3032|      0.0257|        0.0044|      0.0225| 90.0000|
+|/players/769358/warren-ohora         |           1|         50.8624|           1.2693|        0.0495|         0.2381|      0.0365|        0.0438|      0.0134| 90.0000|
+|/players/787426/ethan-robson         |           2|         37.3770|           1.8575|        0.1189|         0.3621|      0.0217|        0.0207|      0.0261| 76.0000|
+|/players/886150/edmond-paris-maghoma |           2|         30.4658|           1.6982|        0.1214|         0.7243|      0.0269|        0.0212|      0.0334| 77.6000|
+|/players/215226/joshua-mceachran     |           3|         25.6674|           1.6332|        0.1125|         0.2940|      0.0274|        0.0719|      0.0891| 70.4444|
+|/players/640626/daniel-harvie        |           3|         18.8300|           0.8857|        0.4898|         1.6288|      0.1538|        0.1805|      0.0538| 90.0000|
+|/players/24583/bradley-johnson       |           3|         23.3454|           1.2899|        0.5852|         1.7736|      0.1365|        0.0518|      0.0443| 90.0000|
+|/players/161632/will-grigg           |           5|         14.0230|           0.3977|        0.4637|         1.3293|      0.1276|        0.1238|      0.0431| 73.3600|
+|/players/872962/matt-smith           |           0|              NA|               NA|        0.0660|         0.2425|      0.0552|        0.0936|      0.0101| 19.5556|
+|/players/872956/joshua-kayode        |           0|              NA|               NA|        0.1565|         0.2874|      0.0000|        0.0000|      0.0093| 16.6400|
+|/players/1077976/henry-lawrence      |           0|              NA|               NA|        0.0000|         0.1549|      0.0149|        0.0000|      0.0064| 14.0000|
+|/players/1055841/dawson-devoy        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0082| 12.4000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Mark Jackson |           11|     -4.247273|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Ipswich Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/512013/christian-walton   |           0|         28.5691|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/662604/george-edmundson   |           1|         60.5347|           1.0764|        0.4014|         0.8196|      0.0395|        0.0985|      0.0155| 90.0000|
+|/players/866688/luke-woolfenden    |           1|         62.2506|           1.1097|        0.1176|         0.5203|      0.0590|        0.0121|      0.0216| 90.0000|
+|/players/479744/janoi-donacien     |           1|         52.6763|           1.9216|        0.0553|         0.2257|      0.0719|        0.0121|      0.0602| 90.0000|
+|/players/310825/lee-evans          |           3|         65.4866|           1.9397|        0.3411|         1.3507|      0.1630|        0.1608|      0.1115| 90.0000|
+|/players/980381/leif-davis         |           3|         34.6245|           1.6222|        0.1149|         0.4056|      0.0329|        0.0577|      0.1912| 76.6667|
+|/players/421768/wes-burns          |           3|         28.4670|           1.0798|        0.4014|         1.1924|      0.1141|        0.0810|      0.0739| 90.0000|
+|/players/185326/sam-morsy          |           3|         53.5155|           2.8010|        0.3631|         1.0811|      0.0786|        0.0615|      0.0597| 90.0000|
+|/players/522440/marcus-harness     |           4|         28.5414|           1.4408|        1.0370|         2.0542|      0.2248|        0.2963|      0.0848| 80.0909|
+|/players/605647/conor-chaplin      |           4|         30.4034|           0.7769|        0.7041|         1.9401|      0.2364|        0.1684|      0.1763| 74.8889|
+|/players/418605/freddie-ladapo     |           5|         19.5723|           0.5944|        1.0576|         2.5472|      0.4511|        0.4985|      0.1329| 77.9667|
+|/players/607142/kane-vincent-young |           0|              NA|               NA|        0.0571|         0.1162|      0.0124|        0.0100|      0.0115| 15.1111|
+|/players/682551/kyle-edwards       |           0|              NA|               NA|        0.2410|         0.4904|      0.0661|        0.0736|      0.0256| 13.3333|
+|/players/612180/kayden-jackson     |           0|              NA|               NA|        0.0633|         0.1611|      0.0518|        0.0862|      0.0209| 12.0333|
+|/players/961993/tyreece-john-jules |           0|              NA|               NA|        0.0884|         0.2999|      0.0300|        0.0650|      0.0201|  9.9091|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Kieran McKenna |           31|      10.35865|3-4-2-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916248/Soccer_Models'...
+Receiving objects:   1% (47/4629),   63 kb
+Receiving objects:  11% (510/4629),  127 kb
+Receiving objects:  21% (973/4629),  239 kb
+Receiving objects:  31% (1435/4629),  407 kb
+Receiving objects:  41% (1898/4629),  856 kb
+Receiving objects:  51% (2361/4629), 1024 kb
+Receiving objects:  61% (2824/4629), 1416 kb
+Receiving objects:  71% (3287/4629), 10309 kb
+Receiving objects:  81% (3750/4629), 10646 kb
+Receiving objects:  91% (4213/4629), 10814 kb
+Receiving objects: 100% (4629/4629), 11275 kb, done.
