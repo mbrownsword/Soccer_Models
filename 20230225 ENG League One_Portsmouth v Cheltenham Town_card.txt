@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 14:31:35.554"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Portsmouth 1.6458 to Cheltenham Town 0.9756"
+[1] "Total: 2.6214"
+[1] "Portsmouth %: 53.29"
+[1] "Draw %: 24.26"
+[1] "Cheltenham Town %: 22.45"
+[1] "--XG Model--"
+[1] "Score: Portsmouth 1.6744 to Cheltenham Town 1.0768"
+[1] "Total: 2.7512"
+[1] "Portsmouth %: 52.42"
+[1] "Draw %: 23.89"
+[1] "Cheltenham Town %: 23.69"
+[1] "--XGoT Model--"
+[1] "Score: Portsmouth 1.6037 to Cheltenham Town 0.9463"
+[1] "Total: 2.55"
+[1] "Portsmouth %: 53.67"
+[1] "Draw %: 24.39"
+[1] "Cheltenham Town %: 21.94"
+[1] "--XA Model--"
+[1] "Score: Portsmouth 1.8372 to Cheltenham Town 0.9199"
+[1] "Total: 2.7571"
+[1] "Portsmouth %: 59.28"
+[1] "Draw %: 22.58"
+[1] "Cheltenham Town %: 18.14"
+[1] "--Mean 4 Models--"
+[1] "Portsmouth has a mean win % of 54.66%; a min win % of 52.42%; a max win % of 59.28%."
+[1] "Draw has a mean win % of 23.78%; a min win % of 22.58%; a max win % of 24.39%."
+[1] "Cheltenham Town has a mean win % of 21.56%; a min win % of 18.14%; a max win of % 23.69%."
+[1] "Portsmouth has a mean win of the Double Chance of 78.44%; a min win % of 76.31%, a max win % of 81.86%."
+[1] "Cheltenham Town has a mean win of the Double Chance of 45.34%; a min win % of 40.72%, a max win % of 47.58%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.35%; max % is 51.68 and min % is 46.2%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.65%; max % is 53.8 and min % is 48.32%."
+[1] "--Sportsbook Odds--"
+[1] "Portsmouth Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Cheltenham Town Barstool Odds are: 21.74"
+[1] "Portsmouth Adjusted Barstool Odds are: 55.034"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.626"
+[1] "Cheltenham Town Adjusted Barstool Odds are: 20.341"
+[1] "Portsmouth's Barstool Odds to cover the -0.5 spread are: 59.52"
+[1] "Cheltenham Town's Barstool Odds to cover the 0.5 spread are: 46.3"
+[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36% chance of the over 2.5 hitting. The line for the under is 1.84, which is a 54.35% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team            | expected_attg| expected_gs|bet |
+|:---------------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/309517/matt-macey              |Portsmouth      |      0.000000|   0.0909091|    |
+|/players/1185779/ryley-towler           |Portsmouth      |      0.006250|   0.0833333|    |
+|/players/199325/clark-robertson         |Portsmouth      |      0.006500|   0.0500000|    |
+|/players/528436/connor-ogilvie          |Portsmouth      |      0.146225|   0.1666667|    |
+|/players/564724/sean-raggett            |Portsmouth      |      0.013800|   0.0909091|    |
+|/players/621849/ronan-curtis            |Portsmouth      |      0.199650|   0.3030303|    |
+|/players/822135/owen-dale               |Portsmouth      |      0.063725|   0.3030303|    |
+|/players/183420/marlon-pack             |Portsmouth      |      0.053475|   0.1111111|    |
+|/players/470376/joe-pigott              |Portsmouth      |      0.331675|   0.3508772|    |
+|/players/1113753/dane-scarlett          |Portsmouth      |      0.156150|   0.3508772|    |
+|/players/517663/colby-bishop            |Portsmouth      |      0.331000|   0.4347826|    |
+|/players/817731/luke-southwood          |Cheltenham Town |      0.000000|   0.2083333|    |
+|/players/789589/lewis-freestone         |Cheltenham Town |      0.011250|   0.1538462|    |
+|/players/1194286/caleb-taylor           |Cheltenham Town |      0.011450|   0.0476190|    |
+|/players/1193997/elkan-baggott          |Cheltenham Town |      0.069175|   0.0666667|    |
+|/players/914127/ben-williams            |Cheltenham Town |      0.008450|   0.0714286|    |
+|/players/923241/elliot-bonds            |Cheltenham Town |      0.109875|   0.0625000|    |
+|/players/199260/ryan-jackson            |Cheltenham Town |      0.022325|   0.0625000|    |
+|/players/112273/liam-sercombe           |Cheltenham Town |      0.009800|   0.1176471|    |
+|/players/663027/ryan-broom              |Cheltenham Town |      0.121875|   0.1818182|    |
+|/players/968951/christian-norton        |Cheltenham Town |      0.031750|   0.2127660|    |
+|/players/816434/alfie-may               |Cheltenham Town |      0.356750|   0.2564103|*   |
+|/players/866650/recco-hackett-fairchild |Portsmouth      |      0.073550|   0.3030303|    |
+|/players/522760/joe-morrell             |Portsmouth      |      0.000000|   0.1538462|    |
+|/players/798596/tom-lowery              |Portsmouth      |      0.000000|   0.2857143|    |
+|/players/180233/michael-jacobs          |Portsmouth      |      0.027475|   0.2500000|    |
+|/players/843138/will-ferry              |Cheltenham Town |      0.000000|   0.0666667|    |
+|/players/891387/charlie-brown           |Cheltenham Town |      0.039350|   0.2127660|    |
+|/players/961991/james-olayinka          |Cheltenham Town |      0.017900|   0.1666667|    |
+|/players/843138/will-ferry              |Cheltenham Town |      0.000000|   0.0666667|    |
+____________________________________________________
+
+[1] "Facts about Portsmouth:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/309517/matt-macey              |           0|         23.6025|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1185779/ryley-towler           |           1|         54.7605|           0.4370|        0.0814|         0.3717|      0.0114|        0.0059|      0.0087| 90.0000|
+|/players/199325/clark-robertson         |           1|         52.8244|           1.6520|        0.0684|         0.6245|      0.0450|        0.0055|      0.1059| 83.4000|
+|/players/528436/connor-ogilvie          |           1|         40.1188|           2.3481|        0.2430|         0.6953|      0.0686|        0.1526|      0.0679| 90.0000|
+|/players/564724/sean-raggett            |           1|         54.3567|           1.3946|        0.2728|         0.8303|      0.0434|        0.0120|      0.0692| 90.0000|
+|/players/621849/ronan-curtis            |           3|         40.4528|           2.1473|        0.6839|         2.1534|      0.1193|        0.2067|      0.0745| 82.4706|
+|/players/822135/owen-dale               |           3|         27.2452|           1.4351|        0.3020|         1.1609|      0.1273|        0.0629|      0.1581| 79.1818|
+|/players/183420/marlon-pack             |           3|         62.9049|           1.7791|        0.1906|         0.7536|      0.0830|        0.0522|      0.0727| 90.0000|
+|/players/470376/joe-pigott              |           5|         27.1152|           1.1628|        1.1267|         3.1686|      0.1848|        0.3605|      0.0815| 90.0000|
+|/players/1113753/dane-scarlett          |           5|         11.9324|           0.8433|        0.4908|         1.7890|      0.2241|        0.1555|      0.0476| 69.2222|
+|/players/517663/colby-bishop            |           5|         35.3770|           0.4323|        0.8723|         1.9952|      0.3971|        0.3644|      0.2840| 90.0000|
+|/players/866650/recco-hackett-fairchild |           0|              NA|               NA|        0.5438|         1.5846|      0.0658|        0.0696|      0.0647| 20.7778|
+|/players/522760/joe-morrell             |           0|              NA|               NA|        0.0551|         0.1721|      0.0071|        0.0000|      0.0506| 10.8182|
+|/players/798596/tom-lowery              |           0|              NA|               NA|        0.0000|         0.1487|      0.0068|        0.0000|      0.0309|  7.5294|
+|/players/180233/michael-jacobs          |           0|              NA|               NA|        0.3824|         0.5174|      0.0393|        0.0246|      0.0373|  6.6000|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|John Mousinho |     6.977778|         -0.24|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Cheltenham Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/817731/luke-southwood   |           0|         30.1219|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/789589/lewis-freestone  |           1|         39.7830|           1.8940|        0.0791|         0.3190|      0.0050|        0.0120|      0.0110| 90.0000|
+|/players/1194286/caleb-taylor    |           1|         37.5522|           1.3012|        0.1630|         0.5844|      0.0768|        0.0120|      0.0454| 90.0000|
+|/players/1193997/elkan-baggott   |           1|         31.1960|           0.7962|        0.0702|         0.3775|      0.0485|        0.0746|      0.0117| 90.0000|
+|/players/914127/ben-williams     |           3|         20.8458|           1.5089|        0.1137|         0.2046|      0.0109|        0.0090|      0.0122| 70.5000|
+|/players/923241/elliot-bonds     |           3|         33.9683|           2.9970|        0.1922|         0.6339|      0.0214|        0.1186|      0.0464| 80.1579|
+|/players/199260/ryan-jackson     |           3|         22.6208|           0.7302|        0.1452|         0.2612|      0.0140|        0.0266|      0.1407| 90.0000|
+|/players/112273/liam-sercombe    |           3|         37.9258|           1.4318|        0.2693|         1.7532|      0.1522|        0.0115|      0.0658| 90.0000|
+|/players/663027/ryan-broom       |           4|         23.6742|           1.3539|        0.4642|         1.4100|      0.1394|        0.1389|      0.0916| 78.1667|
+|/players/968951/christian-norton |           5|          8.2523|           0.4395|        0.2543|         0.3583|      0.0142|        0.0343|      0.0503| 55.0000|
+|/players/816434/alfie-may        |           5|         23.0772|           1.0284|        1.0013|         3.3131|      0.4691|        0.4692|      0.0675| 90.0000|
+|/players/843138/will-ferry       |           0|              NA|               NA|        0.0000|         0.4408|      0.0000|        0.0000|      0.0967| 35.0000|
+|/players/891387/charlie-brown    |           0|              NA|               NA|        0.3085|         0.5976|      0.0647|        0.0426|      0.0014| 19.5000|
+|/players/961991/james-olayinka   |           0|              NA|               NA|        0.3150|         0.6101|      0.0220|        0.0194|      0.0019| 11.8333|
+|/players/843138/will-ferry       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0027|  9.8421|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Wade Elliott |     28.97778|     -6.821724|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916234/Soccer_Models'...
+Receiving objects:   1% (47/4635),   63 kb
+Receiving objects:  11% (510/4635),  127 kb
+Receiving objects:  21% (974/4635),  239 kb
+Receiving objects:  31% (1437/4635),  407 kb
+Receiving objects:  41% (1901/4635),  856 kb
+Receiving objects:  51% (2364/4635), 1080 kb
+Receiving objects:  61% (2828/4635), 1416 kb
+Receiving objects:  71% (3291/4635), 10301 kb
+Receiving objects:  81% (3755/4635), 10638 kb
+Receiving objects:  91% (4218/4635), 10806 kb
+Receiving objects: 100% (4635/4635), 11281 kb, done.
