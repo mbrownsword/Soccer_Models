@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-24 06:25:00.867"
+[1] "Updated at 2023-02-24 06:43:41.466"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -47,6 +47,26 @@
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-25 07:00:00
+
+
+|player             |team | number|  odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:------------------|:----|------:|-----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Jonjo Shelvey      |NOF  |      2|  2.33|      0.4292|  0.7465|   0.3173|tackles   |ENG England |          NA|         NA|        NA|         NA|       NA|
+|Jonjo Shelvey      |NOF  |      4| 10.25|      0.0976|  0.3512|   0.2536|tackles   |ENG England |          NA|         NA|        NA|         NA|       NA|
+|Jonjo Shelvey      |NOF  |      5| 18.35|      0.0545|  0.1991|   0.1446|tackles   |ENG England |          NA|         NA|        NA|         NA|       NA|
+|Jonjo Shelvey      |NOF  |      3|  4.35|      0.2299|  0.5463|   0.3164|tackles   |ENG England |          NA|         NA|        NA|         NA|       NA|
+|Brennan Johnson    |NOF  |     13|  1.88|          NA|  0.8630|   0.3311|passes    |ENG England |      0.5319|         NA|        NA|         NA|       NA|
+|Brennan Johnson    |NOF  |     17|  2.34|          NA|  0.5417|   0.1143|passes    |ENG England |      0.4274|         NA|        NA|         NA|       NA|
+|Brennan Johnson    |NOF  |      9|  1.53|          NA|  0.9855|   0.3319|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
+|Neco Williams      |NOF  |     29|  1.86|          NA|  0.8488|   0.3112|passes    |ENG England |      0.5376|         NA|        NA|         NA|       NA|
+|Neco Williams      |NOF  |     33|  2.18|          NA|  0.6307|   0.1720|passes    |ENG England |      0.4587|         NA|        NA|         NA|       NA|
+|Neco Williams      |NOF  |     25|  1.58|          NA|  0.9609|   0.3280|passes    |ENG England |      0.6329|         NA|        NA|         NA|       NA|
+|Remo Freuler       |NOF  |     34|  1.51|          NA|  0.8371|   0.1748|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Thilo Kehrer       |WHU  |     51|  1.85|          NA|  0.7328|   0.1923|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Thilo Kehrer       |WHU  |     47|  1.60|          NA|  0.8805|   0.2555|passes    |ENG England |      0.6250|         NA|        NA|         NA|       NA|
+|Chris Wood         |NOF  |     12|  1.50|          NA|  0.9024|   0.2357|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
+|Morgan Gibbs-White |NOF  |     29|  1.88|          NA|  0.7504|   0.2185|passes    |ENG England |      0.5319|         NA|        NA|         NA|       NA|
+|Morgan Gibbs-White |NOF  |     25|  1.53|          NA|  0.9212|   0.2676|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -62,26 +82,26 @@
 |/players/267371/emerson            |West Ham United   |      0.093275|   0.1250000|    |
 |/players/523825/jarrod-bowen       |West Ham United   |      0.346750|   0.3030303|    |
 |/players/491883/said-benrahma      |West Ham United   |      0.046725|   0.2500000|    |
-|/players/158545/michail-antonio    |West Ham United   |      0.285200|   0.3636364|    |
+|/players/158545/michail-antonio    |West Ham United   |      0.285200|   0.3571429|    |
 |/players/169719/chris-wood         |Nottingham Forest |      0.121250|   0.1923077|    |
 |/players/1076756/brennan-johnson   |Nottingham Forest |      0.210575|   0.1886792|    |
-|/players/789502/morgan-gibbs-white |Nottingham Forest |      0.125225|   0.1428571|    |
-|/players/765693/orel-mangala       |Nottingham Forest |      0.019250|   0.0370370|    |
-|/players/127130/jonjo-shelvey      |Nottingham Forest |      0.095975|   0.1176471|    |
-|/players/201704/remo-freuler       |Nottingham Forest |      0.022375|   0.0909091|    |
+|/players/789502/morgan-gibbs-white |Nottingham Forest |      0.125225|   0.1333333|    |
+|/players/765693/orel-mangala       |Nottingham Forest |      0.019250|   0.0357143|    |
+|/players/127130/jonjo-shelvey      |Nottingham Forest |      0.095975|   0.1111111|    |
+|/players/201704/remo-freuler       |Nottingham Forest |      0.022375|   0.0833333|    |
 |/players/793876/renan-lodi         |Nottingham Forest |      0.002900|   0.0625000|    |
-|/players/268212/felipe             |Nottingham Forest |      0.004975|   0.0277778|    |
+|/players/268212/felipe             |Nottingham Forest |      0.004975|   0.0270270|    |
 |/players/716687/joe-worrall        |Nottingham Forest |      0.003375|   0.0285714|    |
 |/players/1078788/neco-williams     |Nottingham Forest |      0.063150|   0.0588235|    |
 |/players/51949/keylor-navas        |Nottingham Forest |      0.000000|   0.1000000|    |
 |/players/721089/gianluca-scamacca  |West Ham United   |      0.112100|   0.3333333|    |
-|/players/210276/manuel-lanzini     |West Ham United   |      0.005150|   0.2000000|    |
+|/players/210276/manuel-lanzini     |West Ham United   |      0.005150|   0.1960784|    |
 |/players/766435/lucas-paquet       |West Ham United   |      0.060600|   0.0555556|    |
 |/players/214426/danny-ings         |West Ham United   |      0.058875|   0.3636364|    |
 |/players/796747/sam-surridge       |Nottingham Forest |      0.073125|   0.2173913|    |
 |/players/1081174/alex-mighten      |Nottingham Forest |      0.000000|   0.0384615|    |
 |/players/156937/lyle-taylor        |Nottingham Forest |      0.042850|   0.0476190|    |
-|/players/769673/emmanuel-dennis    |Nottingham Forest |      0.020425|   0.2127660|    |
+|/players/769673/emmanuel-dennis    |Nottingham Forest |      0.020425|   0.2083333|    |
 ____________________________________________________
 
 [1] "Facts about West Ham United:"
@@ -139,14 +159,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Steve Cooper |     118.2071|     -1.963836|3-4-1-2   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901181/Soccer_Models'...
-Receiving objects:   1% (46/4521),   63 kb
-Receiving objects:  11% (498/4521),  127 kb
-Receiving objects:  21% (950/4521),  183 kb
-Receiving objects:  31% (1402/4521),  351 kb
-Receiving objects:  41% (1854/4521),  856 kb
-Receiving objects:  51% (2306/4521), 1024 kb
-Receiving objects:  61% (2758/4521), 1416 kb
-Receiving objects:  71% (3210/4521), 10253 kb
-Receiving objects:  81% (3663/4521), 10573 kb
-Receiving objects:  91% (4115/4521), 10798 kb
-Receiving objects: 100% (4521/4521), 11186 kb, done.
+Receiving objects:   1% (46/4539),   63 kb
+Receiving objects:  11% (500/4539),  127 kb
+Receiving objects:  21% (954/4539),  183 kb
+Receiving objects:  31% (1408/4539),  351 kb
+Receiving objects:  41% (1861/4539),  856 kb
+Receiving objects:  51% (2315/4539), 1024 kb
+Receiving objects:  61% (2769/4539), 1416 kb
+Receiving objects:  71% (3223/4539), 10269 kb
+Receiving objects:  81% (3677/4539), 10549 kb
+Receiving objects:  91% (4131/4539), 10774 kb
+Receiving objects: 100% (4539/4539), 11198 kb, done.
