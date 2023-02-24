@@ -1,0 +1,153 @@
+[1] "Updated at 2023-02-24 14:09:21.985"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Oxford United 1.741 to Bristol Rovers 1.3298"
+[1] "Total: 3.0708"
+[1] "Oxford United %: 47.58"
+[1] "Draw %: 23.91"
+[1] "Bristol Rovers %: 28.51"
+[1] "--XG Model--"
+[1] "Score: Oxford United 1.9589 to Bristol Rovers 1.342"
+[1] "Total: 3.3009"
+[1] "Oxford United %: 51.64"
+[1] "Draw %: 21.98"
+[1] "Bristol Rovers %: 26.38"
+[1] "--XGoT Model--"
+[1] "Score: Oxford United 2.0798 to Bristol Rovers 1.466"
+[1] "Total: 3.5458"
+[1] "Oxford United %: 51.52"
+[1] "Draw %: 21.96"
+[1] "Bristol Rovers %: 26.52"
+[1] "--XA Model--"
+[1] "Score: Oxford United 1.7863 to Bristol Rovers 1.2723"
+[1] "Total: 3.0586"
+[1] "Oxford United %: 50.11"
+[1] "Draw %: 23.64"
+[1] "Bristol Rovers %: 26.25"
+[1] "--Mean 4 Models--"
+[1] "Oxford United has a mean win % of 50.21%; a min win % of 47.58%; a max win % of 51.64%."
+[1] "Draw has a mean win % of 22.87%; a min win % of 21.96%; a max win % of 23.91%."
+[1] "Bristol Rovers has a mean win % of 26.91%; a min win % of 26.25%; a max win of % 28.51%."
+[1] "Oxford United has a mean win of the Double Chance of 73.08%; a min win % of 71.49%, a max win % of 73.75%."
+[1] "Bristol Rovers has a mean win of the Double Chance of 49.79%; a min win % of 48.36%, a max win % of 52.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 62.2%; max % is 68.61 and min % is 57.96%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 37.8%; max % is 42.04 and min % is 31.39%."
+[1] "--Sportsbook Odds--"
+[1] "Oxford United Barstool Odds are: 54.05"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "Bristol Rovers Barstool Odds are: 25.64"
+[1] "Oxford United Adjusted Barstool Odds are: 50.647"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.328"
+[1] "Bristol Rovers Adjusted Barstool Odds are: 24.025"
+[1] "Oxford United's Barstool Odds to cover the -0.5 spread are: 54.35"
+[1] "Bristol Rovers's Barstool Odds to cover the 0.5 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.81, which is a 55.25% chance of the over 2.5 hitting. The line for the under is 1.94, which is a 51.55% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                bet           date_time
+1                    Bristol Rovers 2023-02-25 04:30:00
+2 over Oxford United/Bristol Rovers 2023-02-25 04:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                          |team           | expected_attg| expected_gs|bet |
+|:---------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/25626/simon-eastwood     |Oxford United  |      0.000000|   0.0909091|    |
+|/players/760400/elliott-moore     |Oxford United  |      0.037150|   0.0555556|    |
+|/players/439691/sam-long          |Oxford United  |      0.053925|   0.1000000|    |
+|/players/816368/ciaron-brown      |Oxford United  |      0.015600|   0.1176471|    |
+|/players/519951/stuart-findlay    |Oxford United  |      0.044250|   0.0666667|    |
+|/players/874606/brandon-fleming   |Oxford United  |      0.020450|   0.0555556|    |
+|/players/759581/marcus-mcguane    |Oxford United  |      0.016375|   0.1333333|    |
+|/players/562593/cameron-brannagan |Oxford United  |      0.244375|   0.2702703|    |
+|/players/654089/marcus-browne     |Oxford United  |      0.153825|   0.2564103|    |
+|/players/197729/billy-bodin       |Oxford United  |      0.146025|   0.3571429|    |
+|/players/1184465/kyle-joseph      |Oxford United  |      0.433950|   0.3571429|*   |
+|/players/164848/james-belshaw     |Bristol Rovers |      0.000000|   0.0909091|    |
+|/players/1202082/james-connolly   |Bristol Rovers |      0.062450|   0.0833333|    |
+|/players/872974/lewis-gibson      |Bristol Rovers |      0.025375|   0.0833333|    |
+|/players/1081233/luca-hoole       |Bristol Rovers |      0.011750|   0.0714286|    |
+|/players/1222186/lewis-gordon     |Bristol Rovers |      0.011250|   0.0833333|    |
+|/players/142618/paul-coutts       |Bristol Rovers |      0.043975|   0.1333333|    |
+|/players/516002/jordan-rossiter   |Bristol Rovers |      0.040000|   0.1666667|    |
+|/players/23991/scott-sinclair     |Bristol Rovers |      0.189475|   0.2325581|    |
+|/players/315295/sam-finley        |Bristol Rovers |      0.004250|   0.1250000|    |
+|/players/760342/antony-evans      |Bristol Rovers |      0.223300|   0.2173913|    |
+|/players/583434/aaron-collins     |Bristol Rovers |      0.259625|   0.3333333|    |
+|/players/1086653/tyler-goodrham   |Oxford United  |      0.120500|   0.2173913|    |
+|/players/949460/tyler-smith       |Oxford United  |      0.176525|   0.3333333|    |
+|/players/492045/josh-murphy       |Oxford United  |      0.097775|   0.3508772|    |
+|/players/68721/james-henry        |Oxford United  |      0.000000|   0.3333333|    |
+|/players/1098807/sylvester-jasper |Bristol Rovers |      0.041550|   0.3571429|    |
+|/players/1113907/josh-coburn      |Bristol Rovers |      0.152000|   0.3125000|    |
+|/players/571708/harry-anderson    |Bristol Rovers |      0.000000|   0.1754386|    |
+|/players/184069/john-marquis      |Bristol Rovers |      0.085625|   0.3508772|    |
+____________________________________________________
+
+[1] "Facts about Oxford United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/25626/simon-eastwood     |           0|         26.6049|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/760400/elliott-moore     |           1|         59.3538|           1.2207|        0.2048|         0.6232|      0.0523|        0.0373|      0.0400| 90.0000|
+|/players/439691/sam-long          |           1|         46.5917|           2.1524|        0.1740|         0.5441|      0.0603|        0.0585|      0.0887| 90.0000|
+|/players/816368/ciaron-brown      |           1|         39.6303|           1.7347|        0.0679|         0.5282|      0.0413|        0.0156|      0.0855| 90.0000|
+|/players/519951/stuart-findlay    |           1|         41.2370|           0.8743|        0.1369|         0.5555|      0.0320|        0.0449|      0.0296| 82.0000|
+|/players/874606/brandon-fleming   |           3|         37.0281|           2.7335|        0.2368|         0.7226|      0.0426|        0.0196|      0.1069| 90.0000|
+|/players/759581/marcus-mcguane    |           3|         35.4194|           0.8095|        0.2114|         0.8559|      0.0242|        0.0175|      0.0421| 80.3478|
+|/players/562593/cameron-brannagan |           3|         52.6975|           1.9149|        0.7461|         2.2272|      0.2523|        0.2895|      0.1378| 90.0000|
+|/players/654089/marcus-browne     |           5|         23.2530|           1.1385|        1.0651|         2.6302|      0.2037|        0.1719|      0.0985| 77.2727|
+|/players/197729/billy-bodin       |           5|         25.0417|           0.9315|        0.3550|         1.5941|      0.2459|        0.1666|      0.1908| 74.9091|
+|/players/1184465/kyle-joseph      |           5|         17.2208|           0.8426|        1.1116|         2.3457|      0.3953|        0.5696|      0.0708| 90.0000|
+|/players/1086653/tyler-goodrham   |           0|              NA|               NA|        0.2422|         0.5012|      0.0248|        0.1308|      0.0314| 15.0909|
+|/players/949460/tyler-smith       |           0|              NA|               NA|        0.3875|         0.8017|      0.1334|        0.1949|      0.0038| 12.7273|
+|/players/492045/josh-murphy       |           0|              NA|               NA|        0.2002|         0.5524|      0.0586|        0.1031|      0.0585|  9.6522|
+|/players/68721/james-henry        |           0|              NA|               NA|        0.0000|         0.3335|      0.0272|        0.0000|      0.0409|  8.0000|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Karl Robinson |     33.93131|      4.978865|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Bristol Rovers:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/164848/james-belshaw     |           0|         30.8927|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1202082/james-connolly   |           1|         48.7382|           1.1025|        0.1505|         0.4520|      0.0429|        0.0640|      0.0311| 90.0000|
+|/players/872974/lewis-gibson      |           1|         38.4672|           1.2740|        0.0763|         0.5154|      0.0248|        0.0246|      0.0713| 90.0000|
+|/players/1081233/luca-hoole       |           1|         39.8499|           1.5081|        0.1609|         0.3623|      0.0477|        0.0135|      0.0474| 90.0000|
+|/players/1222186/lewis-gordon     |           1|         25.2579|           2.3835|        0.0649|         0.3080|      0.0211|        0.0114|      0.0286| 76.5000|
+|/players/142618/paul-coutts       |           2|         54.9856|           1.9831|        0.1857|         0.4369|      0.0744|        0.0473|      0.0828| 82.7727|
+|/players/516002/jordan-rossiter   |           2|         21.2635|           1.8415|        0.1823|         0.9154|      0.0230|        0.0465|      0.0252| 81.2857|
+|/players/23991/scott-sinclair     |           3|         13.3440|           0.4743|        0.5271|         1.0597|      0.2261|        0.2172|      0.0520| 76.8636|
+|/players/315295/sam-finley        |           3|         33.9588|           1.9063|        0.4143|         1.3433|      0.0205|        0.0039|      0.0991| 90.0000|
+|/players/760342/antony-evans      |           3|         31.1598|           1.5603|        0.7301|         2.2551|      0.1721|        0.2595|      0.1940| 90.0000|
+|/players/583434/aaron-collins     |           5|         17.3617|           0.6864|        0.8070|         1.9880|      0.2872|        0.3073|      0.0566| 90.0000|
+|/players/1098807/sylvester-jasper |           0|              NA|               NA|        0.1547|         0.5967|      0.0280|        0.0425|      0.0681| 13.5000|
+|/players/1113907/josh-coburn      |           0|              NA|               NA|        0.2548|         0.6141|      0.1005|        0.1708|      0.0291| 13.1364|
+|/players/571708/harry-anderson    |           0|              NA|               NA|        0.0000|         0.1983|      0.0080|        0.0000|      0.0042|  8.7143|
+|/players/184069/john-marquis      |           0|              NA|               NA|        0.2258|         0.2612|      0.0333|        0.0936|      0.0025|  7.2273|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Joey Barton  |     28.94545|     -0.471371|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916236/Soccer_Models'...
+Receiving objects:   1% (47/4605),   63 kb
+Receiving objects:  11% (507/4605),  127 kb
+Receiving objects:  21% (968/4605),  239 kb
+Receiving objects:  31% (1428/4605),  407 kb
+Receiving objects:  41% (1889/4605),  856 kb
+Receiving objects:  51% (2349/4605), 1024 kb
+Receiving objects:  61% (2810/4605), 1416 kb
+Receiving objects:  71% (3270/4605), 10317 kb
+Receiving objects:  81% (3731/4605), 10654 kb
+Receiving objects:  91% (4191/4605), 10822 kb
+Receiving objects: 100% (4605/4605), 11249 kb, done.
