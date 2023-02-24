@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 06:25:00.867"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: West Ham United 1.5008 to Nottingham Forest 0.9118"
+[1] "Total: 2.4126"
+[1] "West Ham United %: 51.13"
+[1] "Draw %: 25.45"
+[1] "Nottingham Forest %: 23.42"
+[1] "--XG Model--"
+[1] "Score: West Ham United 1.6629 to Nottingham Forest 0.9015"
+[1] "Total: 2.5644"
+[1] "West Ham United %: 55.8"
+[1] "Draw %: 24.34"
+[1] "Nottingham Forest %: 19.86"
+[1] "--XGoT Model--"
+[1] "Score: West Ham United 1.6327 to Nottingham Forest 0.9403"
+[1] "Total: 2.573"
+[1] "West Ham United %: 54.11"
+[1] "Draw %: 24.21"
+[1] "Nottingham Forest %: 21.68"
+[1] "--XA Model--"
+[1] "Score: West Ham United 1.6848 to Nottingham Forest 0.892"
+[1] "Total: 2.5768"
+[1] "West Ham United %: 56.54"
+[1] "Draw %: 24.1"
+[1] "Nottingham Forest %: 19.36"
+[1] "--Mean 4 Models--"
+[1] "West Ham United has a mean win % of 54.4%; a min win % of 51.13%; a max win % of 56.54%."
+[1] "Draw has a mean win % of 24.52%; a min win % of 24.1%; a max win % of 25.45%."
+[1] "Nottingham Forest has a mean win % of 21.08%; a min win % of 19.36%; a max win of % 23.42%."
+[1] "West Ham United has a mean win of the Double Chance of 78.92%; a min win % of 76.58%, a max win % of 80.64%."
+[1] "Nottingham Forest has a mean win of the Double Chance of 45.61%; a min win % of 43.46%, a max win % of 48.87%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.82%; max % is 46.88 and min % is 43.02%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.18%; max % is 56.98 and min % is 53.12%."
+[1] "--Sportsbook Odds--"
+[1] "West Ham United Barstool Odds are: 55.56"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Nottingham Forest Barstool Odds are: 20.83"
+[1] "West Ham United Adjusted Barstool Odds are: 53.336"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.668"
+[1] "Nottingham Forest Adjusted Barstool Odds are: 19.996"
+[1] "West Ham United's Barstool Odds to cover the -0.5 spread are: 55.56"
+[1] "Nottingham Forest's Barstool Odds to cover the 0.5 spread are: 48.78"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team              | expected_attg| expected_gs|bet |
+|:----------------------------------|:-----------------|-------------:|-----------:|:---|
+|/players/30973/lukasz-fabianski    |West Ham United   |      0.000000|   0.0555556|    |
+|/players/604088/thilo-kehrer       |West Ham United   |      0.040350|   0.0500000|    |
+|/players/49543/angelo-ogbonna      |West Ham United   |      0.002625|   0.0588235|    |
+|/players/617310/naif-aguerd        |West Ham United   |      0.039000|   0.0714286|    |
+|/players/307317/vladimir-coufal    |West Ham United   |      0.050500|   0.0400000|    |
+|/players/524437/tomas-soucek       |West Ham United   |      0.137075|   0.1666667|    |
+|/players/654096/declan-rice        |West Ham United   |      0.092900|   0.1000000|    |
+|/players/267371/emerson            |West Ham United   |      0.093275|   0.1250000|    |
+|/players/523825/jarrod-bowen       |West Ham United   |      0.346750|   0.3030303|    |
+|/players/491883/said-benrahma      |West Ham United   |      0.046725|   0.2500000|    |
+|/players/158545/michail-antonio    |West Ham United   |      0.285200|   0.3636364|    |
+|/players/169719/chris-wood         |Nottingham Forest |      0.121250|   0.1923077|    |
+|/players/1076756/brennan-johnson   |Nottingham Forest |      0.210575|   0.1886792|    |
+|/players/789502/morgan-gibbs-white |Nottingham Forest |      0.125225|   0.1428571|    |
+|/players/765693/orel-mangala       |Nottingham Forest |      0.019250|   0.0370370|    |
+|/players/127130/jonjo-shelvey      |Nottingham Forest |      0.095975|   0.1176471|    |
+|/players/201704/remo-freuler       |Nottingham Forest |      0.022375|   0.0909091|    |
+|/players/793876/renan-lodi         |Nottingham Forest |      0.002900|   0.0625000|    |
+|/players/268212/felipe             |Nottingham Forest |      0.004975|   0.0277778|    |
+|/players/716687/joe-worrall        |Nottingham Forest |      0.003375|   0.0285714|    |
+|/players/1078788/neco-williams     |Nottingham Forest |      0.063150|   0.0588235|    |
+|/players/51949/keylor-navas        |Nottingham Forest |      0.000000|   0.1000000|    |
+|/players/721089/gianluca-scamacca  |West Ham United   |      0.112100|   0.3333333|    |
+|/players/210276/manuel-lanzini     |West Ham United   |      0.005150|   0.2000000|    |
+|/players/766435/lucas-paquet       |West Ham United   |      0.060600|   0.0555556|    |
+|/players/214426/danny-ings         |West Ham United   |      0.058875|   0.3636364|    |
+|/players/796747/sam-surridge       |Nottingham Forest |      0.073125|   0.2173913|    |
+|/players/1081174/alex-mighten      |Nottingham Forest |      0.000000|   0.0384615|    |
+|/players/156937/lyle-taylor        |Nottingham Forest |      0.042850|   0.0476190|    |
+|/players/769673/emmanuel-dennis    |Nottingham Forest |      0.020425|   0.2127660|    |
+____________________________________________________
+
+[1] "Facts about West Ham United:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/30973/lukasz-fabianski   |           0|         22.6218|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/604088/thilo-kehrer      |           1|         56.2606|           2.2189|        0.1716|         0.5204|      0.0664|        0.0440|      0.0489| 85.2703|
+|/players/49543/angelo-ogbonna     |           1|         34.7906|           1.2659|        0.0363|         0.4530|      0.0500|        0.0026|      0.0070| 85.3143|
+|/players/617310/naif-aguerd       |           1|         69.0572|           1.6105|        0.2025|         0.9482|      0.0908|        0.0449|      0.0256| 90.0000|
+|/players/307317/vladimir-coufal   |           3|         38.1537|           2.2274|        0.1369|         0.5192|      0.0513|        0.0600|      0.1681| 90.0000|
+|/players/524437/tomas-soucek      |           3|         38.7640|           2.1209|        0.6147|         1.7657|      0.1788|        0.1623|      0.1021| 90.0000|
+|/players/654096/declan-rice       |           3|         60.1063|           2.3888|        0.3050|         0.9851|      0.0934|        0.1100|      0.0686| 90.0000|
+|/players/267371/emerson           |           3|         49.5850|           1.7888|        0.3535|         1.6381|      0.1651|        0.1120|      0.1705| 90.0000|
+|/players/523825/jarrod-bowen      |           4|         24.8329|           1.1467|        1.4551|         3.4700|      0.4674|        0.4670|      0.2421| 90.0000|
+|/players/491883/said-benrahma     |           4|         35.5503|           1.1012|        0.4076|         0.9719|      0.0321|        0.0545|      0.1162| 79.6667|
+|/players/158545/michail-antonio   |           5|         21.4605|           0.4112|        1.1293|         2.9476|      0.4485|        0.3597|      0.0875| 82.2653|
+|/players/721089/gianluca-scamacca |          NA|              NA|               NA|        0.2808|         0.6822|      0.1064|        0.1308|      0.0292| 10.3333|
+|/players/210276/manuel-lanzini    |          NA|              NA|               NA|        0.0618|         0.2213|      0.0094|        0.0059|      0.0289|  7.7347|
+|/players/766435/lucas-paquet      |          NA|              NA|               NA|        0.0820|         0.2181|      0.0446|        0.0711|      0.0310|  4.7297|
+|/players/214426/danny-ings        |          NA|              NA|               NA|        0.1497|         0.4898|      0.1135|        0.0659|      0.0144|  4.6857|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|David Moyes  |     116.1232|      1.963404|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Nottingham Forest:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/169719/chris-wood         |           5|         17.8430|           0.4289|        0.4760|         1.2885|      0.1642|        0.1442|      0.0241| 81.4490|
+|/players/1076756/brennan-johnson   |           5|         18.1111|           1.3479|        0.6584|         1.7284|      0.2141|        0.2645|      0.1445| 90.0000|
+|/players/789502/morgan-gibbs-white |           3|         33.4984|           1.6485|        0.4299|         1.4613|      0.1117|        0.1523|      0.1254| 90.0000|
+|/players/765693/orel-mangala       |           2|         23.1326|           0.7593|        0.1117|         0.3874|      0.0136|        0.0224|      0.0325| 73.8571|
+|/players/127130/jonjo-shelvey      |           2|         36.7797|           3.8978|        0.4868|         1.2655|      0.0916|        0.1146|      0.0310| 90.0000|
+|/players/201704/remo-freuler       |           2|         40.7731|           3.0385|        0.1361|         0.5392|      0.0432|        0.0273|      0.0650| 90.0000|
+|/players/793876/renan-lodi         |           1|         28.3416|           1.9738|        0.0604|         0.1824|      0.0126|        0.0035|      0.0286| 80.3871|
+|/players/268212/felipe             |           1|         37.9742|           1.1286|        0.0720|         0.3931|      0.0810|        0.0060|      0.0102| 90.0000|
+|/players/716687/joe-worrall        |           1|         36.5685|           1.3694|        0.0334|         0.2019|      0.0272|        0.0036|      0.0137| 90.0000|
+|/players/1078788/neco-williams     |           1|         35.6392|           1.3179|        0.2882|         0.8077|      0.0873|        0.0699|      0.0368| 80.1923|
+|/players/51949/keylor-navas        |           0|         24.7247|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/796747/sam-surridge       |          NA|              NA|               NA|        0.1788|         0.4204|      0.0833|        0.0851|      0.0213| 16.1429|
+|/players/1081174/alex-mighten      |          NA|              NA|               NA|        0.0000|         0.0413|      0.0011|        0.0000|      0.0154|  9.8077|
+|/players/156937/lyle-taylor        |          NA|              NA|               NA|        0.0965|         0.2626|      0.0394|        0.0480|      0.0080|  9.6129|
+|/players/769673/emmanuel-dennis    |          NA|              NA|               NA|        0.0533|         0.2112|      0.0172|        0.0231|      0.0064|  8.5510|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Steve Cooper |     118.2071|     -1.963836|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901181/Soccer_Models'...
+Receiving objects:   1% (46/4521),   63 kb
+Receiving objects:  11% (498/4521),  127 kb
+Receiving objects:  21% (950/4521),  183 kb
+Receiving objects:  31% (1402/4521),  351 kb
+Receiving objects:  41% (1854/4521),  856 kb
+Receiving objects:  51% (2306/4521), 1024 kb
+Receiving objects:  61% (2758/4521), 1416 kb
+Receiving objects:  71% (3210/4521), 10253 kb
+Receiving objects:  81% (3663/4521), 10573 kb
+Receiving objects:  91% (4115/4521), 10798 kb
+Receiving objects: 100% (4521/4521), 11186 kb, done.
