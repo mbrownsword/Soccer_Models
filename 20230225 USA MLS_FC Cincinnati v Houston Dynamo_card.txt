@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-22 08:51:44.806"
+[1] "Updated at 2023-02-24 00:17:52.360"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -59,9 +59,9 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Pat Noonan   |        30675|     -7.599677|5-2-1-2   |
+|Pat Noonan   |     30.98485|     -7.599677|5-2-1-2   |
 ____________________________________________________
 
 [1] "Facts about Houston Dynamo:"
@@ -72,6 +72,18 @@ ____________________________________________________
 |:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
 
 
-|manager_name | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
-|Ben Olsen    |        14755|     -7.022667|4-2-3-1   |
+|Ben Olsen    |     14.90404|     -7.022667|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084680/Soccer_Models'...
+Receiving objects:   1% (46/4503),   63 kb
+Receiving objects:  11% (496/4503),  127 kb
+Receiving objects:  21% (946/4503),  183 kb
+Receiving objects:  31% (1396/4503),  351 kb
+Receiving objects:  41% (1847/4503),  848 kb
+Receiving objects:  51% (2297/4503), 1016 kb
+Receiving objects:  61% (2747/4503), 1408 kb
+Receiving objects:  71% (3198/4503), 10245 kb
+Receiving objects:  81% (3648/4503), 10582 kb
+Receiving objects:  91% (4098/4503), 10766 kb
+Receiving objects: 100% (4503/4503), 11177 kb, done.
