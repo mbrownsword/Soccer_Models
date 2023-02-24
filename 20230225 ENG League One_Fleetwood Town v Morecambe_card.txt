@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 14:22:53.856"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Fleetwood Town 1.3973 to Morecambe 0.8556"
+[1] "Total: 2.2529"
+[1] "Fleetwood Town %: 49.78"
+[1] "Draw %: 26.9"
+[1] "Morecambe %: 23.32"
+[1] "--XG Model--"
+[1] "Score: Fleetwood Town 1.7232 to Morecambe 0.8886"
+[1] "Total: 2.6118"
+[1] "Fleetwood Town %: 57.51"
+[1] "Draw %: 23.54"
+[1] "Morecambe %: 18.95"
+[1] "--XGoT Model--"
+[1] "Score: Fleetwood Town 1.6251 to Morecambe 0.8066"
+[1] "Total: 2.4317"
+[1] "Fleetwood Town %: 57.09"
+[1] "Draw %: 24.76"
+[1] "Morecambe %: 18.15"
+[1] "--XA Model--"
+[1] "Score: Fleetwood Town 1.7202 to Morecambe 0.8724"
+[1] "Total: 2.5926"
+[1] "Fleetwood Town %: 57.84"
+[1] "Draw %: 23.43"
+[1] "Morecambe %: 18.73"
+[1] "--Mean 4 Models--"
+[1] "Fleetwood Town has a mean win % of 55.56%; a min win % of 49.78%; a max win % of 57.84%."
+[1] "Draw has a mean win % of 24.66%; a min win % of 23.43%; a max win % of 26.9%."
+[1] "Morecambe has a mean win % of 19.79%; a min win % of 18.15%; a max win of % 23.32%."
+[1] "Fleetwood Town has a mean win of the Double Chance of 80.21%; a min win % of 76.68%, a max win % of 81.85%."
+[1] "Morecambe has a mean win of the Double Chance of 44.44%; a min win % of 42.16%, a max win % of 50.22%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.18%; max % is 47.47 and min % is 38.52%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.81%; max % is 61.48 and min % is 52.53%."
+[1] "--Sportsbook Odds--"
+[1] "Fleetwood Town Barstool Odds are: 55.56"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Morecambe Barstool Odds are: 22.73"
+[1] "Fleetwood Town Adjusted Barstool Odds are: 51.993"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.736"
+[1] "Morecambe Adjusted Barstool Odds are: 21.271"
+[1] "Fleetwood Town's Barstool Odds to cover the -0.5 spread are: 55.87"
+[1] "Morecambe's Barstool Odds to cover the 0.5 spread are: 50"
+[1] "Barstool's line for the total is 2.5 at 2.07, which is a 48.31% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team           | expected_attg| expected_gs|bet |
+|:--------------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/302545/jay-lynch              |Fleetwood Town |      0.000000|   0.1000000|    |
+|/players/968915/harrison-holgate       |Fleetwood Town |      0.020450|   0.0909091|    |
+|/players/191178/aristote-nsiala        |Fleetwood Town |      0.031850|   0.1052632|    |
+|/players/165555/danny-andrew           |Fleetwood Town |      0.018675|   0.2000000|    |
+|/players/864894/josh-earl              |Fleetwood Town |      0.095700|   0.1052632|    |
+|/players/470624/shaun-rooney           |Fleetwood Town |      0.115450|   0.1694915|    |
+|/players/265917/josh-vela              |Fleetwood Town |      0.100925|   0.2000000|    |
+|/players/848668/daniel-batty           |Fleetwood Town |      0.095650|   0.0476190|    |
+|/players/952150/carlos-mendes          |Fleetwood Town |      0.257325|   0.2857143|    |
+|/players/445481/jack-marriott          |Fleetwood Town |      0.219250|   0.4000000|    |
+|/players/186498/jayden-stockley        |Fleetwood Town |      0.336875|   0.3571429|    |
+|/players/237562/connor-ripley          |Morecambe      |      0.000000|   0.1724138|    |
+|/players/1096387/dynel-simeu           |Morecambe      |      0.044150|   0.0526316|    |
+|/players/780817/jacob-bedeau           |Morecambe      |      0.004800|   0.0312500|    |
+|/players/575792/farrend-rawson         |Morecambe      |      0.031150|   0.0588235|    |
+|/players/562616/ryan-delaney           |Morecambe      |      0.003100|   0.0714286|    |
+|/players/660878/daniel-crowley         |Morecambe      |      0.037300|   0.1428571|    |
+|/players/1117827/josh-austerfield      |Morecambe      |      0.039425|   0.0952381|    |
+|/players/966683/liam-shaw              |Morecambe      |      0.022950|   0.1052632|    |
+|/players/724365/liam-gibson            |Morecambe      |      0.175225|   0.0454545|*   |
+|/players/896053/jensen-weir            |Morecambe      |      0.132925|   0.1694915|    |
+|/players/303659/cole-stockton          |Morecambe      |      0.213750|   0.2083333|    |
+|/players/1111678/cian-hayes            |Fleetwood Town |      0.043200|   0.2564103|    |
+|/players/939035/promise-omochere       |Fleetwood Town |      0.026225|   0.3225806|    |
+|/players/1219968/harvey-macadam        |Fleetwood Town |      0.000000|   0.2857143|    |
+|/players/956166/brendan-sarpong-wiredu |Fleetwood Town |      0.000000|   0.1851852|    |
+|/players/420937/arthur-gnahoua         |Morecambe      |      0.000000|   0.1666667|    |
+|/players/1314353/adam-mayor            |Morecambe      |      0.040250|   0.1666667|    |
+|/players/1108610/caleb-watts           |Morecambe      |      0.000000|   0.2000000|    |
+|/players/815759/ryan-cooney            |Morecambe      |      0.000000|   0.0666667|    |
+____________________________________________________
+
+[1] "Facts about Fleetwood Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/302545/jay-lynch              |           0|         27.9352|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/968915/harrison-holgate       |           1|         51.5545|           1.2059|        0.0382|         0.1252|      0.0167|        0.0197|      0.0270| 90.0000|
+|/players/191178/aristote-nsiala        |           1|         49.8418|           1.4599|        0.0382|         0.4745|      0.0820|        0.0321|      0.0572| 90.0000|
+|/players/165555/danny-andrew           |           1|         47.7001|           1.5936|        0.3906|         1.3219|      0.0714|        0.0197|      0.1725| 90.0000|
+|/players/864894/josh-earl              |           1|         54.2507|           1.8002|        0.1536|         0.4991|      0.0405|        0.1035|      0.0270| 90.0000|
+|/players/470624/shaun-rooney           |           3|         41.4082|           1.4477|        0.4077|         1.7105|      0.1548|        0.1260|      0.0874| 90.0000|
+|/players/265917/josh-vela              |           3|         43.4154|           2.3234|        0.3316|         1.1471|      0.0847|        0.1149|      0.1444| 90.0000|
+|/players/848668/daniel-batty           |           3|         48.6224|           1.6413|        0.4815|         1.1340|      0.1105|        0.1061|      0.0975| 83.0857|
+|/players/952150/carlos-mendes          |           5|         30.1569|           1.9035|        0.6387|         1.6234|      0.0651|        0.2974|      0.2364| 84.8000|
+|/players/445481/jack-marriott          |           5|         12.8327|           0.7050|        0.8617|         2.5929|      0.3118|        0.2489|      0.0812| 71.3333|
+|/players/186498/jayden-stockley        |           5|         28.5947|           0.3311|        1.0512|         2.5365|      0.5480|        0.4215|      0.1202| 84.3478|
+|/players/1111678/cian-hayes            |           0|              NA|               NA|        0.1249|         0.5011|      0.0384|        0.0481|      0.0297| 18.6667|
+|/players/939035/promise-omochere       |           0|              NA|               NA|        0.1172|         0.2088|      0.0230|        0.0282|      0.0364|  6.9143|
+|/players/1219968/harvey-macadam        |           0|              NA|               NA|        0.0000|         0.0456|      0.0029|        0.0000|      0.0058|  5.6522|
+|/players/956166/brendan-sarpong-wiredu |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0055|  5.2000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Scott Brown  |     22.01111|     -5.470454|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Morecambe:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/237562/connor-ripley     |           0|         29.6034|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1096387/dynel-simeu      |           1|         33.0959|           1.8647|        0.1143|         0.3575|      0.0474|        0.0498|      0.0097| 90.0000|
+|/players/780817/jacob-bedeau      |           1|         38.6274|           1.6638|        0.0481|         0.2633|      0.0256|        0.0045|      0.0206| 90.0000|
+|/players/575792/farrend-rawson    |           1|         33.0223|           0.9304|        0.1458|         0.5210|      0.0256|        0.0380|      0.1056| 90.0000|
+|/players/562616/ryan-delaney      |           1|         37.6870|           2.0848|        0.1045|         0.4903|      0.0264|        0.0042|      0.0220| 83.7381|
+|/players/660878/daniel-crowley    |           2|         34.6263|           1.0222|        0.1649|         0.6592|      0.0427|        0.0392|      0.0246| 81.0000|
+|/players/1117827/josh-austerfield |           2|         38.6526|           3.0666|        0.1832|         0.7324|      0.0474|        0.0435|      0.0738| 90.0000|
+|/players/966683/liam-shaw         |           3|         27.6876|           1.4111|        0.1570|         1.2474|      0.1220|        0.0257|      0.1258| 90.0000|
+|/players/724365/liam-gibson       |           3|         20.7987|           1.4697|        0.4243|         0.9831|      0.1065|        0.2157|      0.0331| 81.8000|
+|/players/896053/jensen-weir       |           3|         22.2573|           0.8762|        0.8737|         2.2306|      0.1575|        0.1576|      0.1339| 80.8235|
+|/players/303659/cole-stockton     |           5|         16.4551|           0.7002|        0.7303|         1.9772|      0.2603|        0.2593|      0.0493| 90.0000|
+|/players/420937/arthur-gnahoua    |           0|              NA|               NA|        0.0000|         0.0612|      0.0029|        0.0000|      0.0022|  9.1765|
+|/players/1314353/adam-mayor       |           0|              NA|               NA|        0.1624|         0.3129|      0.0239|        0.0429|      0.0340|  9.0000|
+|/players/1108610/caleb-watts      |           0|              NA|               NA|        0.0000|         0.1690|      0.0105|        0.0000|      0.0044|  8.2000|
+|/players/815759/ryan-cooney       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0035|  6.2619|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Derek Adams  |     29.86263|     -5.842857|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916250/Soccer_Models'...
+Receiving objects:   1% (47/4623),   63 kb
+Receiving objects:  11% (509/4623),  167 kb
+Receiving objects:  21% (971/4623),  223 kb
+Receiving objects:  31% (1434/4623),  391 kb
+Receiving objects:  41% (1896/4623),  840 kb
+Receiving objects:  51% (2358/4623), 1064 kb
+Receiving objects:  61% (2821/4623), 1456 kb
+Receiving objects:  71% (3283/4623), 10349 kb
+Receiving objects:  81% (3745/4623), 10629 kb
+Receiving objects:  91% (4207/4623), 10797 kb
+Receiving objects: 100% (4623/4623), 11268 kb, done.
