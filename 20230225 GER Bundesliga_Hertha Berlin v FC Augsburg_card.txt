@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-22 15:34:11.864"
+[1] "Updated at 2023-02-24 06:55:33.972"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Hertha Berlin 1.6645 to FC Augsburg 1.3084"
-[1] "Total: 2.9729"
-[1] "Hertha Berlin %: 46.47"
-[1] "Draw %: 24.25"
-[1] "FC Augsburg %: 29.28"
+[1] "Score: Hertha Berlin 1.67 to FC Augsburg 1.332"
+[1] "Total: 3.002"
+[1] "Hertha Berlin %: 46.16"
+[1] "Draw %: 24.28"
+[1] "FC Augsburg %: 29.56"
 [1] "--XG Model--"
-[1] "Score: Hertha Berlin 1.6093 to FC Augsburg 1.2768"
-[1] "Total: 2.8861"
-[1] "Hertha Berlin %: 46.17"
-[1] "Draw %: 23.97"
-[1] "FC Augsburg %: 29.86"
+[1] "Score: Hertha Berlin 1.5932 to FC Augsburg 1.332"
+[1] "Total: 2.9252"
+[1] "Hertha Berlin %: 44.26"
+[1] "Draw %: 24.1"
+[1] "FC Augsburg %: 31.64"
 [1] "--XGoT Model--"
-[1] "Score: Hertha Berlin 1.4604 to FC Augsburg 1.2176"
-[1] "Total: 2.678"
-[1] "Hertha Berlin %: 42.36"
-[1] "Draw %: 26.37"
-[1] "FC Augsburg %: 31.27"
+[1] "Score: Hertha Berlin 1.4006 to FC Augsburg 1.2522"
+[1] "Total: 2.6528"
+[1] "Hertha Berlin %: 41.04"
+[1] "Draw %: 26.08"
+[1] "FC Augsburg %: 32.88"
 [1] "--XA Model--"
-[1] "Score: Hertha Berlin 1.6726 to FC Augsburg 1.1694"
-[1] "Total: 2.842"
-[1] "Hertha Berlin %: 50.31"
-[1] "Draw %: 23.68"
-[1] "FC Augsburg %: 26.01"
+[1] "Score: Hertha Berlin 1.6379 to FC Augsburg 1.1771"
+[1] "Total: 2.815"
+[1] "Hertha Berlin %: 49.04"
+[1] "Draw %: 24"
+[1] "FC Augsburg %: 26.96"
 [1] "--Mean 4 Models--"
-[1] "Hertha Berlin has a mean win % of 46.33%; a min win % of 42.36%; a max win % of 50.31%."
-[1] "Draw has a mean win % of 24.57%; a min win % of 23.68%; a max win % of 26.37%."
-[1] "FC Augsburg has a mean win % of 29.1%; a min win % of 26.01%; a max win of % 31.27%."
-[1] "Hertha Berlin has a mean win of the Double Chance of 70.89%; a min win % of 68.73%, a max win % of 73.99%."
-[1] "FC Augsburg has a mean win of the Double Chance of 53.67%; a min win % of 49.69%, a max win % of 57.64%."
-[1] "The mean likelihood that there are more than 2.5 goals is 53.28%; max % is 56.37 and min % is 48.96%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 46.72%; max % is 51.04 and min % is 43.63%."
+[1] "Hertha Berlin has a mean win % of 45.12%; a min win % of 41.04%; a max win % of 49.04%."
+[1] "Draw has a mean win % of 24.61%; a min win % of 24%; a max win % of 26.08%."
+[1] "FC Augsburg has a mean win % of 30.26%; a min win % of 26.96%; a max win of % 32.88%."
+[1] "Hertha Berlin has a mean win of the Double Chance of 69.74%; a min win % of 67.12%, a max win % of 73.04%."
+[1] "FC Augsburg has a mean win of the Double Chance of 54.87%; a min win % of 50.96%, a max win % of 58.96%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.33%; max % is 56.95 and min % is 48.55%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 46.67%; max % is 51.45 and min % is 43.05%."
 [1] "--Sportsbook Odds--"
-[1] "Hertha Berlin Barstool Odds are: 45.45"
+[1] "Hertha Berlin Barstool Odds are: 45.87"
 [1] "The Barstool Odds of a Draw are: 27.78"
-[1] "FC Augsburg Barstool Odds are: 32.79"
-[1] "Hertha Berlin Adjusted Barstool Odds are: 42.869"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.203"
-[1] "FC Augsburg Adjusted Barstool Odds are: 30.928"
-[1] "Hertha Berlin's Barstool Odds to cover the -0.5 spread are: 45.45"
-[1] "FC Augsburg's Barstool Odds to cover the 0.5 spread are: 59.52"
-[1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87% chance of the over 2.5 hitting. The line for the under is 2.02, which is a 49.5% chance of the under 2.5 hitting."
+[1] "FC Augsburg Barstool Odds are: 31.75"
+[1] "Hertha Berlin Adjusted Barstool Odds are: 43.52"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.357"
+[1] "FC Augsburg Adjusted Barstool Odds are: 30.123"
+[1] "Hertha Berlin's Barstool Odds to cover the -0.5 spread are: 46.08"
+[1] "FC Augsburg's Barstool Odds to cover the 0.5 spread are: 58.48"
+[1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18% chance of the over 2.5 hitting. The line for the under is 2.04, which is a 49.02% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -53,88 +53,100 @@
 |pageUrl2                                |team          | expected_attg| expected_gs|bet |
 |:---------------------------------------|:-------------|-------------:|-----------:|:---|
 |/players/806972/oliver-christensen      |Hertha Berlin |      0.000000|   0.4347826|    |
-|/players/229759/marvin-plattenhardt     |Hertha Berlin |      0.022275|   0.1052632|    |
-|/players/12330/peter-pekarik            |Hertha Berlin |      0.064550|   0.0769231|    |
-|/players/605252/jonjoe-kenny            |Hertha Berlin |      0.022975|   0.0833333|    |
-|/players/355356/marc-oliver-kempf       |Hertha Berlin |      0.053075|   0.1538462|    |
-|/players/541551/ivan-sunjic             |Hertha Berlin |      0.057075|   0.1818182|    |
-|/players/667790/suat-serdar             |Hertha Berlin |      0.160600|   0.2439024|    |
-|/players/612277/lucas-tousart           |Hertha Berlin |      0.051400|   0.1538462|    |
-|/players/92666/stevan-jovetic           |Hertha Berlin |      0.302725|   0.4545455|    |
-|/players/276760/florian-niederlechner   |Hertha Berlin |      0.220550|   0.3333333|    |
-|/players/688876/dodi-lukebakio          |Hertha Berlin |      0.248675|   0.3225806|    |
+|/players/830161/agustin-rogel           |Hertha Berlin |      0.033750|   0.0526316|    |
+|/players/355356/marc-oliver-kempf       |Hertha Berlin |      0.030475|   0.1538462|    |
+|/players/1153342/marton-dardai          |Hertha Berlin |      0.032775|   0.0526316|    |
+|/players/642418/marco-richter           |Hertha Berlin |      0.132350|   0.2702703|    |
+|/players/612277/lucas-tousart           |Hertha Berlin |      0.032600|   0.1538462|    |
+|/players/212881/tolga-cigerci           |Hertha Berlin |      0.175425|   0.1176471|*   |
+|/players/667790/suat-serdar             |Hertha Berlin |      0.098075|   0.2439024|    |
+|/players/229759/marvin-plattenhardt     |Hertha Berlin |      0.026475|   0.1052632|    |
+|/players/276760/florian-niederlechner   |Hertha Berlin |      0.278375|   0.3333333|    |
+|/players/688876/dodi-lukebakio          |Hertha Berlin |      0.347025|   0.3225806|    |
+|/players/951927/kelvin-yeboah           |FC Augsburg   |      0.196575|   0.2777778|    |
+|/players/597737/mergim-berisha          |FC Augsburg   |      0.265850|   0.3333333|    |
+|/players/840241/ermedin-demirovic       |FC Augsburg   |      0.282425|   0.2857143|    |
+|/players/1343750/renato-veiga           |FC Augsburg   |      0.008250|   0.0833333|    |
+|/players/1178443/arne-engels            |FC Augsburg   |      0.010000|   0.1250000|    |
+|/players/822788/arne-maier              |FC Augsburg   |      0.057300|   0.1538462|    |
+|/players/845984/iago                    |FC Augsburg   |      0.070650|   0.1333333|    |
+|/players/767800/felix-uduokhai          |FC Augsburg   |      0.014825|   0.0625000|    |
+|/players/245315/jeffrey-gouweleeuw      |FC Augsburg   |      0.030150|   0.0625000|    |
+|/players/731338/robert-gumny            |FC Augsburg   |      0.008775|   0.0625000|    |
 |/players/136539/rafal-gikiewicz         |FC Augsburg   |      0.000000|   0.0588235|    |
-|/players/575789/reece-oxford            |FC Augsburg   |      0.029500|   0.1000000|    |
-|/players/845984/iago                    |FC Augsburg   |      0.062275|   0.1333333|    |
-|/players/731338/robert-gumny            |FC Augsburg   |      0.009200|   0.0666667|    |
-|/players/245315/jeffrey-gouweleeuw      |FC Augsburg   |      0.024375|   0.0666667|    |
-|/players/674499/niklas-dorsch           |FC Augsburg   |      0.143650|   0.1666667|    |
-|/players/822788/arne-maier              |FC Augsburg   |      0.084650|   0.1666667|    |
-|/players/860752/ruben-vargas            |FC Augsburg   |      0.063975|   0.1886792|    |
-|/players/839038/elvis-rexhbecaj         |FC Augsburg   |      0.052000|   0.1666667|    |
-|/players/597737/mergim-berisha          |FC Augsburg   |      0.278200|   0.3389831|    |
-|/players/840241/ermedin-demirovic       |FC Augsburg   |      0.183000|   0.2941176|    |
-|/players/642418/marco-richter           |Hertha Berlin |      0.121300|   0.2702703|    |
-|/players/402975/jean-paul-botius        |Hertha Berlin |      0.034050|   0.2222222|    |
+|/players/92666/stevan-jovetic           |Hertha Berlin |      0.105150|   0.4545455|    |
+|/players/797800/wilfried-kanga          |Hertha Berlin |      0.034100|   0.2941176|    |
 |/players/614384/maximilian-mittelstaedt |Hertha Berlin |      0.000000|   0.2127660|    |
-|/players/1083717/jessic-ngankam         |Hertha Berlin |      0.010675|   0.2702703|    |
-|/players/769931/irvin-cardona           |FC Augsburg   |      0.061575|   0.2380952|    |
-|/players/657217/mads-valentin-pedersen  |FC Augsburg   |      0.002000|   0.1538462|    |
-|/players/1049799/nathanal-mbuku         |FC Augsburg   |      0.062975|   0.2040816|    |
-|/players/951927/kelvin-yeboah           |FC Augsburg   |      0.002825|   0.2857143|    |
+|/players/541551/ivan-sunjic             |Hertha Berlin |      0.000000|   0.1818182|    |
+|/players/774625/fredrik-jensen          |FC Augsburg   |      0.046850|   0.1923077|    |
+|/players/769931/irvin-cardona           |FC Augsburg   |      0.030025|   0.2325581|    |
+|/players/860752/ruben-vargas            |FC Augsburg   |      0.005825|   0.1851852|    |
+|/players/1049799/nathanal-mbuku         |FC Augsburg   |      0.030000|   0.2000000|    |
 ____________________________________________________
 
 [1] "Facts about Hertha Berlin:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: expected"
 
 
 |pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/806972/oliver-christensen      |           0|         24.9676|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/229759/marvin-plattenhardt     |           1|         38.7573|           1.4225|        0.1290|         0.2954|      0.0125|        0.0203|      0.1254| 90.0000|
-|/players/12330/peter-pekarik            |           1|         40.5658|           1.4110|        0.1445|         0.5079|      0.0662|        0.0645|      0.0333| 90.0000|
-|/players/605252/jonjoe-kenny            |           1|         43.8766|           1.9356|        0.1290|         0.5815|      0.0328|        0.0203|      0.0676| 90.0000|
-|/players/355356/marc-oliver-kempf       |           1|         55.6493|           1.6503|        0.2597|         1.0534|      0.0760|        0.0540|      0.0352| 90.0000|
-|/players/541551/ivan-sunjic             |           3|         38.6088|           1.7745|        0.1823|         0.9230|      0.0835|        0.0550|      0.0800| 90.0000|
-|/players/667790/suat-serdar             |           3|         34.6763|           1.9361|        0.4879|         1.3093|      0.1419|        0.1646|      0.0963| 78.9615|
-|/players/612277/lucas-tousart           |           3|         47.0067|           1.6681|        0.4595|         1.5511|      0.0740|        0.0506|      0.1337| 90.0000|
-|/players/92666/stevan-jovetic           |           5|         25.9013|           0.3826|        1.0381|         2.5972|      0.2772|        0.3383|      0.1370| 70.8000|
-|/players/276760/florian-niederlechner   |           5|         13.0126|           0.7174|        0.7025|         1.8551|      0.2791|        0.2268|      0.0892| 79.5000|
-|/players/688876/dodi-lukebakio          |           5|         19.2455|           1.6880|        0.7714|         1.9097|      0.2327|        0.2683|      0.1532| 81.1176|
-|/players/642418/marco-richter           |           0|              NA|               NA|        0.4448|         1.1823|      0.0949|        0.1241|      0.0442| 19.2000|
-|/players/402975/jean-paul-botius        |           0|              NA|               NA|        0.1457|         0.2854|      0.0193|        0.0339|      0.0141| 11.0385|
-|/players/614384/maximilian-mittelstaedt |           0|              NA|               NA|        0.0000|         0.1508|      0.0063|        0.0000|      0.0280| 10.5000|
-|/players/1083717/jessic-ngankam         |           0|              NA|               NA|        0.2056|         0.3355|      0.0340|        0.0110|      0.0021|  8.8824|
+|/players/806972/oliver-christensen      |           0|         25.4516|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/830161/agustin-rogel           |           1|         35.5653|           1.2842|        0.1897|         0.7798|      0.0862|        0.0299|      0.0034| 90.0000|
+|/players/355356/marc-oliver-kempf       |           1|         55.4300|           1.4359|        0.1438|         0.6367|      0.0491|        0.0299|      0.0543| 90.0000|
+|/players/1153342/marton-dardai          |           1|         50.7745|           1.3291|        0.0981|         0.2897|      0.0098|        0.0309|      0.0577| 90.0000|
+|/players/642418/marco-richter           |           3|         20.0335|           0.9969|        0.4895|         2.0317|      0.1296|        0.1319|      0.1663| 78.2083|
+|/players/612277/lucas-tousart           |           3|         36.1226|           2.3441|        0.3688|         1.4057|      0.0479|        0.0307|      0.0623| 90.0000|
+|/players/212881/tolga-cigerci           |           3|         58.8959|           2.1191|        0.2901|         1.1057|      0.1719|        0.1751|      0.1103| 90.0000|
+|/players/667790/suat-serdar             |           3|         26.6473|           2.7207|        0.3916|         1.1865|      0.0918|        0.0997|      0.0449| 78.9615|
+|/players/229759/marvin-plattenhardt     |           3|         28.1986|           0.3468|        0.2417|         0.3317|      0.0091|        0.0255|      0.1923| 75.0000|
+|/players/276760/florian-niederlechner   |           5|         14.6168|           0.4046|        0.9593|         2.3921|      0.3290|        0.2948|      0.0686| 79.5000|
+|/players/688876/dodi-lukebakio          |           5|         23.9854|           1.0563|        1.1687|         2.7321|      0.3042|        0.3870|      0.1308| 90.0000|
+|/players/92666/stevan-jovetic           |          NA|              NA|               NA|        0.5253|         1.3595|      0.1015|        0.1028|      0.0289| 15.0000|
+|/players/797800/wilfried-kanga          |          NA|              NA|               NA|        0.3167|         0.8128|      0.0733|        0.0338|      0.0228| 11.7917|
+|/players/614384/maximilian-mittelstaedt |          NA|              NA|               NA|        0.0000|         0.1697|      0.0085|        0.0000|      0.0587| 11.0385|
+|/players/541551/ivan-sunjic             |          NA|              NA|               NA|        0.0000|         0.0981|      0.0025|        0.0000|      0.0033| 10.5000|
 
 
-|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name   | approx_games| m_avg_elo_dif|formation |
 |:--------------|------------:|-------------:|:---------|
-|Sandro Schwarz |        20769|         0.628|4-3-3     |
+|Sandro Schwarz |     20.97879|         0.628|4-3-3     |
 ____________________________________________________
 
 [1] "Facts about FC Augsburg:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: expected"
 
 
-|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/136539/rafal-gikiewicz        |           0|         32.6400|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/575789/reece-oxford           |           1|         42.5702|           0.8456|        0.1217|         0.5938|      0.0720|        0.0281|      0.0118| 90.0000|
-|/players/845984/iago                   |           1|         37.1712|           1.9953|        0.1964|         0.6532|      0.0653|        0.0628|      0.1028| 90.0000|
-|/players/731338/robert-gumny           |           1|         29.7248|           2.3286|        0.0805|         0.2287|      0.0086|        0.0082|      0.0380| 90.0000|
-|/players/245315/jeffrey-gouweleeuw     |           1|         46.3657|           1.3212|        0.0805|         0.2677|      0.0266|        0.0250|      0.0388| 90.0000|
-|/players/674499/niklas-dorsch          |           3|         51.8268|           3.2582|        0.3230|         0.8170|      0.0882|        0.1512|      0.0600| 90.0000|
-|/players/822788/arne-maier             |           3|         38.1469|           1.1874|        0.3379|         0.7595|      0.0885|        0.0869|      0.1610| 90.0000|
-|/players/860752/ruben-vargas           |           3|         19.8226|           0.8844|        0.3479|         1.2057|      0.0954|        0.0593|      0.1076| 70.2353|
-|/players/839038/elvis-rexhbecaj        |           3|         25.1898|           1.8429|        0.2300|         1.0710|      0.0663|        0.0554|      0.0365| 80.0000|
-|/players/597737/mergim-berisha         |           5|         20.7621|           0.4505|        0.7711|         1.9707|      0.3416|        0.3180|      0.1061| 76.6429|
-|/players/840241/ermedin-demirovic      |           5|         15.0103|           0.9247|        0.5572|         1.4914|      0.1820|        0.1987|      0.0434| 73.2581|
-|/players/769931/irvin-cardona          |           0|              NA|               NA|        0.2117|         0.3804|      0.0319|        0.0638|      0.0125| 19.7647|
-|/players/657217/mads-valentin-pedersen |           0|              NA|               NA|        0.0625|         0.1925|      0.0065|        0.0016|      0.0312| 16.7419|
-|/players/1049799/nathanal-mbuku        |           0|              NA|               NA|        0.1591|         0.5446|      0.0632|        0.0651|      0.0077| 13.3571|
-|/players/951927/kelvin-yeboah          |           0|              NA|               NA|        0.1300|         0.2891|      0.0237|        0.0024|      0.0142| 10.0000|
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/951927/kelvin-yeboah      |           5|         15.8349|           0.9487|        0.5621|         1.5009|      0.2498|        0.2190|      0.0693| 79.0625|
+|/players/597737/mergim-berisha     |           5|         20.4194|           0.6626|        0.7708|         2.0149|      0.2898|        0.3049|      0.0914| 76.6429|
+|/players/840241/ermedin-demirovic  |           3|         24.0105|           1.8927|        0.6680|         1.6855|      0.2205|        0.3267|      0.1291| 90.0000|
+|/players/1343750/renato-veiga      |           3|         24.0341|           0.9731|        0.1784|         0.8666|      0.0427|        0.0076|      0.0494| 62.0000|
+|/players/1178443/arne-engels       |           3|         37.2529|           2.5949|        0.2519|         0.8666|      0.0342|        0.0099|      0.1017| 80.6667|
+|/players/822788/arne-maier         |           3|         43.1908|           1.1912|        0.2590|         0.5941|      0.0706|        0.0517|      0.0717| 90.0000|
+|/players/845984/iago               |           1|         38.4678|           1.8499|        0.1659|         0.7300|      0.0679|        0.0728|      0.0960| 90.0000|
+|/players/767800/felix-uduokhai     |           1|         49.4359|           0.9595|        0.1234|         0.4343|      0.0432|        0.0141|      0.0108| 90.0000|
+|/players/245315/jeffrey-gouweleeuw |           1|         47.9830|           1.2249|        0.0680|         0.2992|      0.0277|        0.0290|      0.0363| 90.0000|
+|/players/731338/robert-gumny       |           1|         30.7617|           2.1589|        0.0680|         0.2556|      0.0090|        0.0095|      0.0355| 90.0000|
+|/players/136539/rafal-gikiewicz    |           0|         31.7824|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/774625/fredrik-jensen     |          NA|              NA|               NA|        0.3118|         0.6788|      0.0533|        0.0475|      0.0542| 28.0000|
+|/players/769931/irvin-cardona      |          NA|              NA|               NA|        0.0901|         0.3401|      0.0388|        0.0321|      0.0093| 13.3571|
+|/players/860752/ruben-vargas       |          NA|              NA|               NA|        0.0871|         0.5310|      0.0418|        0.0046|      0.0203| 10.9375|
+|/players/1049799/nathanal-mbuku    |          NA|              NA|               NA|        0.1152|         0.2006|      0.0257|        0.0315|      0.0045|  9.3333|
 
 
-|manager_name   | m_minutes_xg| m_avg_elo_dif|formation |
+|manager_name   | approx_games| m_avg_elo_dif|formation |
 |:--------------|------------:|-------------:|:---------|
-|Enrico Maassen |        20745|     -12.16136|4-4-2     |
+|Enrico Maassen |     20.95455|     -12.16136|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3903739/Soccer_Models'...
+Receiving objects:   1% (46/4545),   63 kb
+Receiving objects:  11% (500/4545),  127 kb
+Receiving objects:  21% (955/4545),  183 kb
+Receiving objects:  31% (1409/4545),  407 kb
+Receiving objects:  41% (1864/4545),  856 kb
+Receiving objects:  51% (2318/4545), 1024 kb
+Receiving objects:  61% (2773/4545), 1416 kb
+Receiving objects:  71% (3227/4545), 10317 kb
+Receiving objects:  81% (3682/4545), 10598 kb
+Receiving objects:  91% (4136/4545), 10822 kb
+Receiving objects: 100% (4545/4545), 11203 kb, done.
