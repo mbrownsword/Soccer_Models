@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-24 06:16:30.510"
+[1] "Updated at 2023-02-24 06:36:12.922"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -48,6 +48,21 @@
               bet           date_time
 1     Aston Villa 2023-02-25 07:00:00
 2 Aston Villa ATS 2023-02-25 07:00:00
+
+
+|player            |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:-----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Vitaliy Mykolenko |EVE  |     37| 1.85|          NA|  0.7935|   0.2530|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Vitaliy Mykolenko |EVE  |     41| 2.30|          NA|  0.5759|   0.1411|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Vitaliy Mykolenko |EVE  |     33| 1.51|          NA|  0.9290|   0.2667|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Seamus Coleman    |EVE  |     33| 1.85|          NA|  0.6457|   0.1052|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Seamus Coleman    |EVE  |     29| 1.51|          NA|  0.8578|   0.1955|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Matty Cash        |AVL  |     36| 1.51|          NA|  0.8040|   0.1417|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Alex Moreno       |AVL  |     38| 1.85|          NA|  0.9653|   0.4248|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Alex Moreno       |AVL  |     42| 2.23|          NA|  0.8873|   0.4389|passes    |ENG England |      0.4484|         NA|        NA|         NA|       NA|
+|Alex Moreno       |AVL  |     46| 2.58|          NA|  0.7346|   0.3470|passes    |ENG England |      0.3876|         NA|        NA|         NA|       NA|
+|Alex Moreno       |AVL  |     34| 1.55|          NA|  0.9927|   0.3475|passes    |ENG England |      0.6452|         NA|        NA|         NA|       NA|
+|Alex Moreno       |AVL  |     50| 3.17|          NA|  0.5230|   0.2075|passes    |ENG England |      0.3155|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -140,14 +155,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Unai Emery   |     123.2283|      7.875635|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901174/Soccer_Models'...
-Receiving objects:   1% (46/4512),   63 kb
-Receiving objects:  11% (497/4512),  127 kb
-Receiving objects:  21% (948/4512),  183 kb
-Receiving objects:  31% (1399/4512),  351 kb
-Receiving objects:  41% (1850/4512),  856 kb
-Receiving objects:  51% (2302/4512), 1024 kb
-Receiving objects:  61% (2753/4512), 1360 kb
-Receiving objects:  71% (3204/4512), 10269 kb
-Receiving objects:  81% (3655/4512), 10550 kb
-Receiving objects:  91% (4106/4512), 10774 kb
-Receiving objects: 100% (4512/4512), 11179 kb, done.
+Receiving objects:   1% (46/4530),   63 kb
+Receiving objects:  11% (499/4530),  127 kb
+Receiving objects:  21% (952/4530),  183 kb
+Receiving objects:  31% (1405/4530),  351 kb
+Receiving objects:  41% (1858/4530),  856 kb
+Receiving objects:  51% (2311/4530), 1024 kb
+Receiving objects:  61% (2764/4530), 1416 kb
+Receiving objects:  71% (3217/4530), 10309 kb
+Receiving objects:  81% (3670/4530), 10590 kb
+Receiving objects:  91% (4123/4530), 10814 kb
+Receiving objects: 100% (4530/4530), 11196 kb, done.
