@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 17:41:14.823"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Barrow 1.0087 to Stockport County 1.3398"
+[1] "Total: 2.3485"
+[1] "Barrow %: 28.29"
+[1] "Draw %: 28.24"
+[1] "Stockport County %: 43.47"
+[1] "--XG Model--"
+[1] "Score: Barrow 1.0811 to Stockport County 1.499"
+[1] "Total: 2.5801"
+[1] "Barrow %: 28.37"
+[1] "Draw %: 25.64"
+[1] "Stockport County %: 45.99"
+[1] "--XGoT Model--"
+[1] "Score: Barrow 0.9986 to Stockport County 1.4082"
+[1] "Total: 2.4068"
+[1] "Barrow %: 26.96"
+[1] "Draw %: 26.87"
+[1] "Stockport County %: 46.17"
+[1] "--XA Model--"
+[1] "Score: Barrow 0.9171 to Stockport County 1.1428"
+[1] "Total: 2.0599"
+[1] "Barrow %: 30"
+[1] "Draw %: 30.33"
+[1] "Stockport County %: 39.67"
+[1] "--Mean 4 Models--"
+[1] "Barrow has a mean win % of 28.41%; a min win % of 26.96%; a max win % of 30%."
+[1] "Draw has a mean win % of 27.77%; a min win % of 25.64%; a max win % of 30.33%."
+[1] "Stockport County has a mean win % of 43.82%; a min win % of 39.67%; a max win of % 46.17%."
+[1] "Barrow has a mean win of the Double Chance of 56.17%; a min win % of 53.83%, a max win % of 60.33%."
+[1] "Stockport County has a mean win of the Double Chance of 71.6%; a min win % of 70%, a max win % of 73.04%."
+[1] "The mean likelihood that there are more than 2.5 goals is 41.06%; max % is 47.11 and min % is 33.26%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 58.94%; max % is 66.74 and min % is 52.89%."
+[1] "--Sportsbook Odds--"
+[1] "Barrow Barstool Odds are: 25.64"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Stockport County Barstool Odds are: 51.28"
+[1] "Barrow Adjusted Barstool Odds are: 23.809"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.573"
+[1] "Stockport County Adjusted Barstool Odds are: 47.618"
+[1] "Barrow's Barstool Odds to cover the 0.5 spread are: 54.95"
+[1] "Stockport County's Barstool Odds to cover the -0.5 spread are: 51.55"
+[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45% chance of the over 2.5 hitting. The line for the under is 1.6, which is a 62.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+     bet           date_time
+1 Barrow 2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team             | expected_attg| expected_gs|bet |
+|:--------------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/162458/paul-farman            |Barrow           |      0.000000|   0.1960784|    |
+|/players/279848/george-ray             |Barrow           |      0.011800|   0.0333333|    |
+|/players/471699/patrick-brough         |Barrow           |      0.032625|   0.0555556|    |
+|/players/181243/niall-canavan          |Barrow           |      0.011625|   0.0625000|    |
+|/players/1077230/tyrell-warren         |Barrow           |      0.025475|   0.1111111|    |
+|/players/23943/tom-white               |Barrow           |      0.050725|   0.0909091|    |
+|/players/1326195/harrison-neal         |Barrow           |      0.042550|   0.0625000|    |
+|/players/520336/ben-whitfield          |Barrow           |      0.254200|   0.1851852|*   |
+|/players/1006080/robbie-gotts          |Barrow           |      0.027150|   0.1851852|    |
+|/players/39103/sam-foley               |Barrow           |      0.058175|   0.0833333|    |
+|/players/711340/josh-gordon            |Barrow           |      0.212575|   0.1052632|*   |
+|/players/95325/ben-hinchliffe          |Stockport County |      0.000000|   0.0952381|    |
+|/players/507303/ryan-johnson           |Stockport County |      0.007300|   0.0588235|    |
+|/players/654084/kyle-knoyle            |Stockport County |      0.019350|   0.1052632|    |
+|/players/821660/fraser-horsfall        |Stockport County |      0.047875|   0.1666667|    |
+|/players/911761/macauley-southam-hales |Stockport County |      0.010975|   0.0769231|    |
+|/players/203866/antoni-sarcevic        |Stockport County |      0.066375|   0.1250000|    |
+|/players/505469/ryan-croasdale         |Stockport County |      0.012450|   0.1250000|    |
+|/players/564531/myles-hippolyte        |Stockport County |      0.124125|   0.2173913|    |
+|/players/789575/william-collar         |Stockport County |      0.129700|   0.1960784|    |
+|/players/159397/paddy-madden           |Stockport County |      0.289350|   0.1666667|*   |
+|/players/568547/kyle-wootton           |Stockport County |      0.234275|   0.3389831|    |
+|/players/395821/billy-waters           |Barrow           |      0.079500|   0.2439024|    |
+|/players/877652/jordan-stevens         |Barrow           |      0.024150|   0.1428571|    |
+|/players/693691/richie-bennett         |Barrow           |      0.000000|   0.2083333|    |
+|/players/1184217/jake-young            |Barrow           |      0.048350|   0.2083333|    |
+|/players/1113802/jack-stretton         |Stockport County |      0.010700|   0.2941176|    |
+|/players/961988/ryan-rydel             |Stockport County |      0.114100|   0.0909091|    |
+|/players/961988/ryan-rydel             |Stockport County |      0.114100|   0.0909091|    |
+|/players/440530/callum-camps           |Stockport County |      0.068750|   0.2083333|    |
+____________________________________________________
+
+[1] "Facts about Barrow:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                       | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/162458/paul-farman    |           0|         25.3437|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/279848/george-ray     |           1|         32.1049|           0.8457|        0.0491|         0.3114|      0.0418|        0.0121|      0.0247| 81.1562|
+|/players/471699/patrick-brough |           1|         42.9563|           1.3273|        0.1446|         0.5498|      0.0312|        0.0358|      0.0646| 90.0000|
+|/players/181243/niall-canavan  |           1|         41.3347|           0.6596|        0.0737|         0.3737|      0.0204|        0.0134|      0.0182| 90.0000|
+|/players/1077230/tyrell-warren |           1|         33.2718|           2.9042|        0.1726|         0.5104|      0.0282|        0.0262|      0.0322| 90.0000|
+|/players/23943/tom-white       |           2|         36.6850|           2.3998|        0.1989|         0.3043|      0.0123|        0.0555|      0.0507| 90.0000|
+|/players/1326195/harrison-neal |           2|         33.1568|           1.6778|        0.1672|         1.0445|      0.0728|        0.0467|      0.0606| 75.6667|
+|/players/520336/ben-whitfield  |           3|         16.7985|           0.7755|        0.9375|         2.1420|      0.2544|        0.3179|      0.1871| 80.2000|
+|/players/1006080/robbie-gotts  |           3|         26.3944|           1.5225|        0.3772|         1.6090|      0.1153|        0.0337|      0.0634| 90.0000|
+|/players/39103/sam-foley       |           3|         28.3316|           1.1896|        0.2511|         0.8925|      0.0409|        0.0650|      0.0404| 84.0625|
+|/players/711340/josh-gordon    |           5|         16.4439|           0.4739|        0.7717|         2.1444|      0.2431|        0.2469|      0.0598| 90.0000|
+|/players/395821/billy-waters   |           0|              NA|               NA|        0.1780|         0.4234|      0.0907|        0.0865|      0.0039| 14.3333|
+|/players/877652/jordan-stevens |           0|              NA|               NA|        0.0350|         0.0999|      0.0137|        0.0263|      0.0005|  9.8000|
+|/players/693691/richie-bennett |           0|              NA|               NA|        0.0919|         0.2331|      0.0336|        0.0000|      0.0203|  8.8438|
+|/players/1184217/jake-young    |           0|              NA|               NA|        0.0665|         0.1899|      0.0434|        0.0543|      0.0025|  5.9375|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Peter Wild   |     29.99091|        -2.637|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Stockport County:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/95325/ben-hinchliffe          |           0|         31.7538|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/507303/ryan-johnson           |           1|         53.3673|           1.4838|        0.0720|         0.4166|      0.0402|        0.0079|      0.0310| 79.4167|
+|/players/654084/kyle-knoyle            |           1|         40.3070|           1.6400|        0.1507|         0.3485|      0.0252|        0.0235|      0.0543| 90.0000|
+|/players/821660/fraser-horsfall        |           1|         47.2480|           1.1333|        0.1284|         0.4950|      0.0405|        0.0547|      0.0123| 90.0000|
+|/players/911761/macauley-southam-hales |           3|         21.0631|           0.7251|        0.0972|         0.4988|      0.0237|        0.0126|      0.1082| 70.7500|
+|/players/203866/antoni-sarcevic        |           3|         46.7189|           2.0963|        0.4319|         1.3883|      0.0429|        0.0764|      0.1136| 90.0000|
+|/players/505469/ryan-croasdale         |           3|         41.8253|           2.4975|        0.1071|         0.5499|      0.0261|        0.0139|      0.0277| 78.0000|
+|/players/564531/myles-hippolyte        |           3|         29.6890|           1.8619|        0.4286|         1.3850|      0.1714|        0.1514|      0.0536| 80.8889|
+|/players/789575/william-collar         |           3|         39.4958|           1.5769|        0.5551|         1.1256|      0.1228|        0.1547|      0.1927| 90.0000|
+|/players/159397/paddy-madden           |           5|         20.3249|           0.7125|        1.0397|         2.7074|      0.4099|        0.3717|      0.1008| 90.0000|
+|/players/568547/kyle-wootton           |           5|         23.9948|           0.7434|        1.0124|         2.0632|      0.2546|        0.2922|      0.1092| 90.0000|
+|/players/1113802/jack-stretton         |           0|              NA|               NA|        0.1031|         0.3871|      0.0672|        0.0126|      0.0037| 19.2500|
+|/players/961988/ryan-rydel             |           0|              NA|               NA|        0.0889|         0.1907|      0.0381|        0.0576|      0.0032| 12.0000|
+|/players/961988/ryan-rydel             |           0|              NA|               NA|        0.1776|         0.1905|      0.0762|        0.0803|      0.0158| 10.5833|
+|/players/440530/callum-camps           |           0|              NA|               NA|        0.1055|         0.2830|      0.0624|        0.0765|      0.0138|  9.1111|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Dave Challinor |     30.89899|     -1.355111|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916791/Soccer_Models'...
+Receiving objects:   1% (47/4668),   63 kb
+Receiving objects:  11% (514/4668),  127 kb
+Receiving objects:  21% (981/4668),  239 kb
+Receiving objects:  31% (1448/4668),  407 kb
+Receiving objects:  41% (1914/4668),  856 kb
+Receiving objects:  51% (2381/4668), 1080 kb
+Receiving objects:  61% (2848/4668), 1472 kb
+Receiving objects:  71% (3315/4668), 10325 kb
+Receiving objects:  81% (3782/4668), 10662 kb
+Receiving objects:  91% (4248/4668), 10782 kb
+Receiving objects: 100% (4668/4668), 11302 kb, done.
