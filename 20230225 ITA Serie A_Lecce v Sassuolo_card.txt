@@ -1,0 +1,154 @@
+[1] "Updated at 2023-02-25 11:00:45.163"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Lecce 1.3954 to Sassuolo 1.3626"
+[1] "Total: 2.758"
+[1] "Lecce %: 38.2"
+[1] "Draw %: 25.5"
+[1] "Sassuolo %: 36.3"
+[1] "--XG Model--"
+[1] "Score: Lecce 1.2935 to Sassuolo 1.2726"
+[1] "Total: 2.5661"
+[1] "Lecce %: 37.76"
+[1] "Draw %: 26.47"
+[1] "Sassuolo %: 35.77"
+[1] "--XGoT Model--"
+[1] "Score: Lecce 1.3049 to Sassuolo 1.3048"
+[1] "Total: 2.6097"
+[1] "Lecce %: 37.67"
+[1] "Draw %: 26.14"
+[1] "Sassuolo %: 36.19"
+[1] "--XA Model--"
+[1] "Score: Lecce 1.4446 to Sassuolo 1.5096"
+[1] "Total: 2.9542"
+[1] "Lecce %: 36.78"
+[1] "Draw %: 24.13"
+[1] "Sassuolo %: 39.09"
+[1] "--Mean 4 Models--"
+[1] "Lecce has a mean win % of 37.6%; a min win % of 36.78%; a max win % of 38.2%."
+[1] "Draw has a mean win % of 25.56%; a min win % of 24.13%; a max win % of 26.47%."
+[1] "Sassuolo has a mean win % of 36.84%; a min win % of 35.77%; a max win of % 39.09%."
+[1] "Lecce has a mean win of the Double Chance of 63.16%; a min win % of 60.91%, a max win % of 64.23%."
+[1] "Sassuolo has a mean win of the Double Chance of 62.4%; a min win % of 61.8%, a max win % of 63.22%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.34%; max % is 55.81 and min % is 46.56%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.66%; max % is 53.44 and min % is 44.19%."
+[1] "--Sportsbook Odds--"
+[1] "Lecce Barstool Odds are: 42.11"
+[1] "The Barstool Odds of a Draw are: 32.26"
+[1] "Sassuolo Barstool Odds are: 30.77"
+[1] "Lecce Adjusted Barstool Odds are: 40.051"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.683"
+[1] "Sassuolo Adjusted Barstool Odds are: 29.266"
+[1] "Lecce's Barstool Odds to cover the -0.5 spread are: 42.55"
+[1] "Sassuolo's Barstool Odds to cover the 0.5 spread are: 61.73"
+[1] "Barstool's line for the total is 2.5 at 2.17, which is a 46.08% chance of the over 2.5 hitting. The line for the under is 1.7, which is a 58.82% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                  bet           date_time
+1            Sassuolo 2023-02-25 11:45:00
+2 over Lecce/Sassuolo 2023-02-25 11:45:00
+3        Sassuolo ATS 2023-02-25 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team     | expected_attg| expected_gs|bet |
+|:------------------------------------|:--------|-------------:|-----------:|:---|
+|/players/362200/wladimiro-falcone    |Lecce    |      0.000000|   0.1538462|    |
+|/players/1077653/valentin-gendrey    |Lecce    |      0.007050|   0.0333333|    |
+|/players/150400/alessandro-tuia      |Lecce    |      0.005925|   0.0833333|    |
+|/players/799230/federico-baschirotto |Lecce    |      0.125200|   0.1333333|    |
+|/players/879065/antonino-gallo       |Lecce    |      0.006775|   0.0333333|    |
+|/players/605848/alexis-blin          |Lecce    |      0.092800|   0.0952381|    |
+|/players/950199/morten-hjulmand      |Lecce    |      0.095850|   0.0625000|    |
+|/players/789243/youssef-maleh        |Lecce    |      0.076250|   0.1724138|    |
+|/players/836436/gabriel-strefezza    |Lecce    |      0.226225|   0.2857143|    |
+|/players/507007/assan-ceesay         |Lecce    |      0.341250|   0.2857143|*   |
+|/players/896377/lameck-banda         |Lecce    |      0.085150|   0.2083333|    |
+|/players/822794/nedim-bajrami        |Sassuolo |      0.038825|   0.2000000|    |
+|/players/265924/gregoire-defrel      |Sassuolo |      0.228675|   0.2127660|    |
+|/players/364520/domenico-berardi     |Sassuolo |      0.355250|   0.2702703|*   |
+|/players/900043/matheus-henrique     |Sassuolo |      0.083050|   0.1333333|    |
+|/players/163919/pedro-obiang         |Sassuolo |      0.074625|   0.0526316|    |
+|/players/815431/davide-frattesi      |Sassuolo |      0.093125|   0.2325581|    |
+|/players/882578/rogrio               |Sassuolo |      0.062675|   0.0416667|    |
+|/players/905494/ruan-tressoldi       |Sassuolo |      0.037875|   0.1111111|    |
+|/players/616170/martin-erlic         |Sassuolo |      0.039375|   0.0666667|    |
+|/players/1080669/nadir-zortea        |Sassuolo |      0.037400|   0.0909091|    |
+|/players/39170/andrea-consigli       |Sassuolo |      0.000000|   0.2439024|    |
+|/players/780491/rmi-oudin            |Lecce    |      0.081550|   0.0000000|*   |
+|/players/964535/kristoffer-askildsen |Lecce    |      0.000000|   0.0000000|    |
+|/players/670928/giuseppe-pezzella    |Lecce    |      0.000000|   0.0000000|    |
+|/players/210117/samuel-umtiti        |Lecce    |      0.000000|   0.0000000|    |
+|/players/921921/kristian-thorstvedt  |Sassuolo |      0.073700|   0.0000000|*   |
+|/players/848951/emil-konradsen-ceide |Sassuolo |      0.000000|   0.0000000|    |
+|/players/909030/abdou-harroui        |Sassuolo |      0.014475|   0.0000000|    |
+|/players/614207/maxime-lopez         |Sassuolo |      0.002575|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Lecce:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/362200/wladimiro-falcone    |           0|         23.5922|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1077653/valentin-gendrey    |           1|         41.5731|           1.5406|        0.0650|         0.3483|      0.0493|        0.0068|      0.1142| 90.0000|
+|/players/150400/alessandro-tuia      |           1|         44.6179|           1.6131|        0.1751|         0.5769|      0.0267|        0.0058|      0.0028| 76.7727|
+|/players/799230/federico-baschirotto |           1|         42.0580|           0.9707|        0.2388|         0.9538|      0.1028|        0.1257|      0.0384| 90.0000|
+|/players/879065/antonino-gallo       |           1|         45.4051|           1.6736|        0.0650|         0.1947|      0.0031|        0.0068|      0.0713| 90.0000|
+|/players/605848/alexis-blin          |           3|         45.2446|           1.9842|        0.4922|         0.6425|      0.0054|        0.0960|      0.0615| 90.0000|
+|/players/950199/morten-hjulmand      |           3|         42.4192|           1.9665|        0.2867|         0.8531|      0.0298|        0.0960|      0.0579| 90.0000|
+|/players/789243/youssef-maleh        |           3|         29.1684|           1.3268|        0.2363|         1.6825|      0.2298|        0.0791|      0.1232| 74.1875|
+|/players/836436/gabriel-strefezza    |           5|         32.9370|           1.5582|        0.8005|         2.6896|      0.2749|        0.2356|      0.1229| 90.0000|
+|/players/507007/assan-ceesay         |           5|         17.2595|           0.6217|        0.9126|         1.9963|      0.4016|        0.3958|      0.0964| 76.9643|
+|/players/896377/lameck-banda         |           5|         14.0201|           0.7736|        0.4510|         1.2421|      0.0679|        0.0856|      0.0954| 74.4000|
+|/players/780491/rmi-oudin            |           0|              NA|               NA|        0.3406|         0.9735|      0.0900|        0.0877|      0.0175| 15.8125|
+|/players/964535/kristoffer-askildsen |           0|              NA|               NA|        0.0847|         0.3822|      0.0256|        0.0000|      0.0381| 15.6000|
+|/players/670928/giuseppe-pezzella    |           0|              NA|               NA|        0.0000|         0.1305|      0.0128|        0.0000|      0.0198| 13.2273|
+|/players/210117/samuel-umtiti        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0031| 13.0357|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Marco Baroni |      21.9303|      0.065625|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Sassuolo:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/822794/nedim-bajrami        |           5|         22.4888|           0.9611|        0.8433|         1.4668|      0.1327|        0.0417|      0.2103| 90.0000|
+|/players/265924/gregoire-defrel      |           5|         12.9832|           0.9611|        0.5903|         1.1409|      0.2166|        0.2526|      0.0237| 71.5455|
+|/players/364520/domenico-berardi     |           5|         32.9269|           1.0180|        0.8040|         3.1673|      0.3724|        0.4346|      0.1124| 81.7333|
+|/players/900043/matheus-henrique     |           3|         51.9540|           0.9142|        0.2791|         0.9702|      0.0835|        0.0879|      0.1120| 79.5455|
+|/players/163919/pedro-obiang         |           3|         28.0598|           2.2625|        0.2447|         0.6670|      0.0500|        0.0771|      0.0175| 69.7500|
+|/players/815431/davide-frattesi      |           3|         36.9282|           1.7455|        0.4223|         1.4855|      0.1524|        0.1019|      0.1405| 90.0000|
+|/players/882578/rogrio               |           1|         52.7073|           1.9398|        0.1969|         0.6425|      0.0405|        0.0614|      0.0844| 90.0000|
+|/players/905494/ruan-tressoldi       |           1|         46.8056|           1.8790|        0.0714|         0.3017|      0.0405|        0.0398|      0.0048| 90.0000|
+|/players/616170/martin-erlic         |           1|         55.3191|           1.5389|        0.0714|         0.3017|      0.0561|        0.0398|      0.0048| 90.0000|
+|/players/1080669/nadir-zortea        |           1|         37.4987|           1.0157|        0.2216|         0.7658|      0.0621|        0.0398|      0.1381| 90.0000|
+|/players/39170/andrea-consigli       |           0|         33.2435|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/921921/kristian-thorstvedt  |           0|              NA|               NA|        0.2829|         0.7010|      0.0904|        0.0758|      0.0364| 20.2500|
+|/players/848951/emil-konradsen-ceide |           0|              NA|               NA|        0.0000|         0.0800|      0.0215|        0.0000|      0.0391| 18.4545|
+|/players/909030/abdou-harroui        |           0|              NA|               NA|        0.1059|         0.5832|      0.0159|        0.0126|      0.0059| 10.4545|
+|/players/614207/maxime-lopez         |           0|              NA|               NA|        0.0390|         0.0860|      0.0021|        0.0027|      0.0035|  8.2667|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Alessio Dionisi |     60.89899|      1.710443|4-3-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3919275/Soccer_Models'...
+Receiving objects:   1% (48/4749),   63 kb
+Receiving objects:  11% (523/4749),  127 kb
+Receiving objects:  21% (998/4749),  239 kb
+Receiving objects:  31% (1473/4749),  463 kb
+Receiving objects:  41% (1948/4749),  856 kb
+Receiving objects:  51% (2422/4749), 1080 kb
+Receiving objects:  61% (2897/4749), 5787 kb
+Receiving objects:  71% (3372/4749), 10389 kb
+Receiving objects:  81% (3847/4749), 10726 kb
+Receiving objects:  91% (4322/4749), 10838 kb
+Receiving objects: 100% (4749/4749), 11379 kb, done.
