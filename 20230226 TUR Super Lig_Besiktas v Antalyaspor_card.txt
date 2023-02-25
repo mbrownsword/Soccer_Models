@@ -1,0 +1,118 @@
+[1] "Updated at 2023-02-25 14:49:01.625"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Besiktas 1.668 to Antalyaspor 0.8637"
+[1] "Total: 2.5317"
+[1] "Besiktas %: 56.81"
+[1] "Draw %: 24.25"
+[1] "Antalyaspor %: 18.94"
+[1] "--XG Model--"
+[1] "Score: Besiktas 1.9038 to Antalyaspor 0.7454"
+[1] "Total: 2.6492"
+[1] "Besiktas %: 65.18"
+[1] "Draw %: 21.39"
+[1] "Antalyaspor %: 13.43"
+[1] "--XGoT Model--"
+[1] "Score: Besiktas 1.8563 to Antalyaspor 0.6481"
+[1] "Total: 2.5044"
+[1] "Besiktas %: 66.99"
+[1] "Draw %: 21.41"
+[1] "Antalyaspor %: 11.6"
+[1] "--XA Model--"
+[1] "Score: Besiktas 2.0178 to Antalyaspor 0.8492"
+[1] "Total: 2.867"
+[1] "Besiktas %: 65.49"
+[1] "Draw %: 20.55"
+[1] "Antalyaspor %: 13.96"
+[1] "--Mean 4 Models--"
+[1] "Besiktas has a mean win % of 63.62%; a min win % of 56.81%; a max win % of 66.99%."
+[1] "Draw has a mean win % of 21.9%; a min win % of 20.55%; a max win % of 24.25%."
+[1] "Antalyaspor has a mean win % of 14.48%; a min win % of 11.6%; a max win of % 18.94%."
+[1] "Besiktas has a mean win of the Double Chance of 85.52%; a min win % of 81.06%, a max win % of 88.4%."
+[1] "Antalyaspor has a mean win of the Double Chance of 36.38%; a min win % of 33.01%, a max win % of 43.19%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.65%; max % is 54.29 and min % is 45.64%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.35%; max % is 54.36 and min % is 45.71%."
+[1] "--Sportsbook Odds--"
+[1] "Besiktas Barstool Odds are: 62.5"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Antalyaspor Barstool Odds are: 20.83"
+[1] "Besiktas Adjusted Barstool Odds are: 57.355"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.529"
+[1] "Antalyaspor Adjusted Barstool Odds are: 19.115"
+[1] "Besiktas's Barstool Odds to cover the -0.5 spread are: 61.73"
+[1] "Antalyaspor's Barstool Odds to cover the 0.5 spread are: 43.1"
+[1] "Barstool's line for the total is 2.5 at 1.78, which is a 56.18% chance of the over 2.5 hitting. The line for the under is 2.04, which is a 49.02% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-26 08:00:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Besiktas:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/903133/ersin-destanoglu      |           0|         23.0124|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/763970/valentin-rosier       |           1|         53.3533|           1.9854|        0.2672|         0.7564|      0.0673|        0.0366|      0.2082| 90.0000|
+|/players/317713/onur-bulut            |           1|         46.5703|           1.7915|        0.1981|         0.5800|      0.0426|        0.0546|      0.0523| 90.0000|
+|/players/440369/omar-colley           |           1|         54.1646|           1.0133|        0.1145|         0.5812|      0.0543|        0.0211|      0.0087| 90.0000|
+|/players/292678/romain-saiss          |           1|         67.9037|           1.3580|        0.1627|         0.6152|      0.0758|        0.0881|      0.0266| 90.0000|
+|/players/239061/salih-ucan            |           2|         43.9373|           2.2288|        0.3364|         1.1435|      0.0297|        0.0266|      0.1090| 77.2083|
+|/players/639558/amir-hadziahmetovic   |           2|         63.1666|           1.5437|        0.2961|         0.9807|      0.1448|        0.1639|      0.0812| 90.0000|
+|/players/473855/georges-kevin-nkoudou |           3|         32.6458|           1.1144|        1.0258|         2.4227|      0.2924|        0.2962|      0.1647| 78.5714|
+|/players/747785/gedson-fernandes      |           3|         39.1007|           1.8270|        0.3474|         1.4946|      0.2403|        0.0428|      0.0811| 90.0000|
+|/players/298923/alexandru-maxim       |           3|         29.2191|           0.8668|        1.0419|         2.3958|      0.2584|        0.4853|      0.2851| 81.6000|
+|/players/938682/jackson-muleka        |           5|         17.9445|           0.5341|        1.1359|         2.6778|      0.4805|        0.4952|      0.0885| 78.0667|
+|/players/201664/nathan-redmond        |           0|              NA|               NA|        0.1167|         0.3043|      0.0146|        0.0265|      0.0737| 12.7917|
+|/players/363333/dele-alli             |           0|              NA|               NA|        0.0000|         0.0983|      0.0081|        0.0000|      0.0165| 11.9333|
+|/players/364204/tayfur-bingl          |           0|              NA|               NA|        0.1317|         0.3346|      0.0170|        0.0683|      0.0230| 11.4286|
+|/players/178776/cenk-tosun            |           0|              NA|               NA|        0.1361|         0.6145|      0.0542|        0.0928|      0.0126|  8.4000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Senol Günes  |      9.99899|         9.917|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Antalyaspor:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/104033/ruud-boffin      |           0|         37.2240|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/109615/mer-toprak       |           1|         44.0470|           0.8880|        0.1164|         0.3954|      0.0666|        0.0536|      0.0115| 90.0000|
+|/players/178893/veysel-sari      |           1|         40.0616|           1.5475|        0.1028|         0.4476|      0.0197|        0.0082|      0.0079| 90.0000|
+|/players/95870/gray-vural        |           1|         35.7649|           1.7235|        0.1176|         0.4427|      0.0314|        0.0382|      0.0673| 90.0000|
+|/players/1005366/bnyamin-balci   |           1|         28.6429|           2.1733|        0.0742|         0.3024|      0.0150|        0.0082|      0.0395| 90.0000|
+|/players/45376/fredy             |           2|         27.5856|           3.2601|        0.2601|         0.9576|      0.0719|        0.0283|      0.0575| 90.0000|
+|/players/175646/fernando         |           2|         52.5011|           1.1008|        0.1065|         0.4850|      0.0086|        0.0283|      0.0365| 90.0000|
+|/players/903121/houssam-ghacha   |           3|         14.2359|           0.4507|        0.4325|         0.8680|      0.0518|        0.1287|      0.1153| 61.0000|
+|/players/47041/luiz-adriano      |           3|         14.2858|           0.7011|        0.5767|         1.3021|      0.1904|        0.0727|      0.0194| 79.1111|
+|/players/451909/erdal-rakip      |           3|         37.4859|           1.8721|        0.1996|         1.4022|      0.1304|        0.1420|      0.0915| 77.1154|
+|/players/1282765/bertug-yildirim |           5|         15.3901|           0.4771|        0.6150|         1.5723|      0.2102|        0.2243|      0.0429| 73.0000|
+|/players/750187/dogukan-sinik    |           0|              NA|               NA|        0.0000|         0.3814|      0.0191|        0.0000|      0.0186| 29.0000|
+|/players/12179/hakan-zmert       |           0|              NA|               NA|        0.0673|         0.1271|      0.0047|        0.0301|      0.0230| 17.0000|
+|/players/416122/sinan-gmüs       |           0|              NA|               NA|        0.1357|         0.2563|      0.0205|        0.0503|      0.0092| 12.8846|
+|/players/930178/cemali-sertel    |           0|              NA|               NA|        0.0000|         0.0448|      0.0000|        0.0000|      0.0049| 10.8889|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Nuri Sahin   |     10.85859|     -1.658182|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3932513/Soccer_Models'...
+Receiving objects:   1% (49/4863),   63 kb
+Receiving objects:  11% (535/4863),  127 kb
+Receiving objects:  21% (1022/4863),  239 kb
+Receiving objects:  31% (1508/4863),  520 kb
+Receiving objects:  41% (1994/4863),  856 kb
+Receiving objects:  51% (2481/4863), 1136 kb
+Receiving objects:  61% (2967/4863), 10141 kb
+Receiving objects:  71% (3453/4863), 10478 kb
+Receiving objects:  81% (3940/4863), 10758 kb
+Receiving objects:  91% (4426/4863), 10814 kb
+Receiving objects: 100% (4863/4863), 11487 kb, done.
