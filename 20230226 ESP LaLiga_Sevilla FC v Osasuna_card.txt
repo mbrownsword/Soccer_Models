@@ -1,0 +1,154 @@
+[1] "Updated at 2023-02-25 10:41:13.210"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Sevilla FC 1.4976 to Osasuna 1.0759"
+[1] "Total: 2.5735"
+[1] "Sevilla FC %: 47.22"
+[1] "Draw %: 25.23"
+[1] "Osasuna %: 27.55"
+[1] "--XG Model--"
+[1] "Score: Sevilla FC 1.5119 to Osasuna 1.0175"
+[1] "Total: 2.5294"
+[1] "Sevilla FC %: 48.53"
+[1] "Draw %: 25.75"
+[1] "Osasuna %: 25.72"
+[1] "--XGoT Model--"
+[1] "Score: Sevilla FC 1.568 to Osasuna 1.0763"
+[1] "Total: 2.6443"
+[1] "Sevilla FC %: 48.79"
+[1] "Draw %: 25.06"
+[1] "Osasuna %: 26.15"
+[1] "--XA Model--"
+[1] "Score: Sevilla FC 1.4034 to Osasuna 1.0643"
+[1] "Total: 2.4677"
+[1] "Sevilla FC %: 45.29"
+[1] "Draw %: 26.28"
+[1] "Osasuna %: 28.43"
+[1] "--Mean 4 Models--"
+[1] "Sevilla FC has a mean win % of 47.46%; a min win % of 45.29%; a max win % of 48.79%."
+[1] "Draw has a mean win % of 25.58%; a min win % of 25.06%; a max win % of 26.28%."
+[1] "Osasuna has a mean win % of 26.96%; a min win % of 25.72%; a max win of % 28.43%."
+[1] "Sevilla FC has a mean win of the Double Chance of 73.04%; a min win % of 71.57%, a max win % of 74.28%."
+[1] "Osasuna has a mean win of the Double Chance of 52.54%; a min win % of 51.21%, a max win % of 54.71%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.1%; max % is 48.49 and min % is 43.46%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.9%; max % is 56.54 and min % is 51.51%."
+[1] "--Sportsbook Odds--"
+[1] "Sevilla FC Barstool Odds are: 56.52"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Osasuna Barstool Odds are: 20.83"
+[1] "Sevilla FC Adjusted Barstool Odds are: 53.361"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.973"
+[1] "Osasuna Adjusted Barstool Odds are: 19.666"
+[1] "Sevilla FC's Barstool Odds to cover the -0.5 spread are: 55.25"
+[1] "Osasuna's Barstool Odds to cover the 0.5 spread are: 49.5"
+[1] "Barstool's line for the total is 2.5 at 2.33, which is a 42.92% chance of the over 2.5 hitting. The line for the under is 1.61, which is a 62.11% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                      bet           date_time
+1                 Osasuna 2023-02-26 12:00:00
+2 over Sevilla FC/Osasuna 2023-02-26 12:00:00
+3             Osasuna ATS 2023-02-26 12:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team       | expected_attg| expected_gs|bet |
+|:--------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/340020/yassine-bounou         |Sevilla FC |      0.000000|   0.1666667|    |
+|/players/687008/gonzalo-montiel        |Sevilla FC |      0.080125|   0.0714286|    |
+|/players/178753/nemanja-gudelj         |Sevilla FC |      0.024350|   0.1111111|    |
+|/players/1070617/tanguy-nianzou        |Sevilla FC |      0.009825|   0.1538462|    |
+|/players/561187/marcos-acuna           |Sevilla FC |      0.013375|   0.0909091|    |
+|/players/844544/pape-gueye             |Sevilla FC |      0.088675|   0.0952381|    |
+|/players/101103/fernando               |Sevilla FC |      0.085875|   0.1176471|    |
+|/players/316771/oliver-torres          |Sevilla FC |      0.071300|   0.2380952|    |
+|/players/280276/suso                   |Sevilla FC |      0.144450|   0.2500000|    |
+|/players/640492/rafa-mir               |Sevilla FC |      0.316025|   0.3921569|    |
+|/players/970692/bryan-gil              |Sevilla FC |      0.151450|   0.2173913|    |
+|/players/251269/ante-budimir           |Osasuna    |      0.207975|   0.2272727|    |
+|/players/262592/moi-gomez              |Osasuna    |      0.004850|   0.1666667|    |
+|/players/1054786/aimar-oroz            |Osasuna    |      0.005050|   0.1666667|    |
+|/players/361724/ezequiel-vila          |Osasuna    |      0.291175|   0.2500000|    |
+|/players/198235/darko-brasanac         |Osasuna    |      0.042775|   0.0714286|    |
+|/players/1238154/pablo-ibnez           |Osasuna    |      0.040525|   0.1250000|    |
+|/players/1052330/manuel-snchez         |Osasuna    |      0.012475|   0.0357143|    |
+|/players/577625/david-garcia           |Osasuna    |      0.020975|   0.1250000|    |
+|/players/451941/unai-garcia            |Osasuna    |      0.005175|   0.0555556|    |
+|/players/1231098/diego-moreno          |Osasuna    |      0.054250|   0.0434783|    |
+|/players/683762/sergio-herrera         |Osasuna    |      0.000000|   0.2380952|    |
+|/players/174850/erik-lamela            |Sevilla FC |      0.097125|   0.2857143|    |
+|/players/788555/youssef-en-nesyri      |Sevilla FC |      0.077425|   0.3921569|    |
+|/players/574662/joan-jordn             |Sevilla FC |      0.000000|   0.1111111|    |
+|/players/45220/alejandro-gomez         |Sevilla FC |      0.127875|   0.0588235|*   |
+|/players/183353/kike                   |Osasuna    |      0.089325|   0.0500000|    |
+|/players/384413/rubn-garcia            |Osasuna    |      0.006125|   0.1754386|    |
+|/players/574624/enrique-barja          |Osasuna    |      0.085875|   0.1666667|    |
+|/players/1209399/abdessamad-ezzalzouli |Osasuna    |      0.034900|   0.1538462|    |
+____________________________________________________
+
+[1] "Facts about Sevilla FC:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/340020/yassine-bounou    |           0|         29.3172|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/687008/gonzalo-montiel   |           1|         42.8269|           1.3882|        0.1585|         0.3303|      0.0839|        0.0973|      0.0786| 90.0000|
+|/players/178753/nemanja-gudelj    |           1|         59.2645|           1.5753|        0.2177|         0.8250|      0.0320|        0.0271|      0.0192| 90.0000|
+|/players/1070617/tanguy-nianzou   |           1|         46.0424|           0.8567|        0.0500|         0.3410|      0.0389|        0.0117|      0.0111| 75.5333|
+|/players/561187/marcos-acuna      |           1|         51.9231|           2.2082|        0.1268|         0.5944|      0.0308|        0.0155|      0.1355| 90.0000|
+|/players/844544/pape-gueye        |           3|         46.7945|           1.8785|        0.5122|         2.1029|      0.1792|        0.1083|      0.0658| 90.0000|
+|/players/101103/fernando          |           3|         47.6479|           1.7964|        0.1482|         0.4614|      0.0148|        0.1053|      0.0668| 90.0000|
+|/players/316771/oliver-torres     |           3|         39.9229|           1.6570|        0.4182|         0.9349|      0.1119|        0.0875|      0.1289| 74.8387|
+|/players/280276/suso              |           5|         32.9070|           1.4502|        0.6140|         1.3088|      0.1013|        0.1701|      0.2196| 72.0000|
+|/players/640492/rafa-mir          |           5|         12.3904|           0.6740|        1.4041|         3.7921|      0.5153|        0.4354|      0.0244| 90.0000|
+|/players/970692/bryan-gil         |           5|         22.2890|           0.6961|        0.3467|         1.0770|      0.2163|        0.1849|      0.0817| 69.0000|
+|/players/174850/erik-lamela       |          NA|              NA|               NA|        0.2677|         0.6237|      0.0981|        0.1188|      0.0583| 21.0000|
+|/players/788555/youssef-en-nesyri |          NA|              NA|               NA|        0.2558|         0.7225|      0.1144|        0.0913|      0.0095| 18.0000|
+|/players/574662/joan-jordn        |          NA|              NA|               NA|        0.0000|         0.1686|      0.0294|        0.0000|      0.0294| 15.1613|
+|/players/45220/alejandro-gomez    |          NA|              NA|               NA|        0.3639|         0.6461|      0.0557|        0.1590|      0.0445| 14.4667|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Jorge Sampaoli |     70.49798|      5.233009|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Osasuna:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/251269/ante-budimir           |           5|         15.0388|           0.5738|        0.6812|         1.6816|      0.2719|        0.2615|      0.0510| 77.3421|
+|/players/262592/moi-gomez              |           3|         37.7096|           1.3671|        0.0935|         0.6142|      0.0437|        0.0065|      0.1331| 90.0000|
+|/players/1054786/aimar-oroz            |           3|         21.0295|           1.0937|        0.0748|         0.4914|      0.0350|        0.0052|      0.0198| 72.0000|
+|/players/361724/ezequiel-vila          |           3|         15.7721|           1.0937|        1.2305|         2.8279|      0.3332|        0.3974|      0.1654| 72.0000|
+|/players/198235/darko-brasanac         |           2|         36.4767|           1.2838|        0.1973|         0.0973|      0.0602|        0.0507|      0.0632| 90.0000|
+|/players/1238154/pablo-ibnez           |           2|         51.1940|           2.9442|        0.1973|         1.3950|      0.0602|        0.0507|      0.0632| 90.0000|
+|/players/1052330/manuel-snchez         |           1|         37.2356|           3.2390|        0.0480|         0.3571|      0.0068|        0.0144|      0.1226| 90.0000|
+|/players/577625/david-garcia           |           1|         36.7526|           1.4124|        0.2022|         0.5419|      0.0304|        0.0243|      0.0244| 90.0000|
+|/players/451941/unai-garcia            |           1|         32.5546|           1.4233|        0.0407|         0.3640|      0.0240|        0.0054|      0.0080| 90.0000|
+|/players/1231098/diego-moreno          |           1|         49.5015|           0.5687|        0.1396|         0.3637|      0.0794|        0.0608|      0.0321| 76.6875|
+|/players/683762/sergio-herrera         |           0|         29.5629|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/183353/kike                   |          NA|              NA|               NA|        0.1739|         0.5165|      0.0728|        0.1063|      0.0112| 18.0000|
+|/players/384413/rubn-garcia            |          NA|              NA|               NA|        0.0688|         0.2453|      0.0135|        0.0067|      0.0405| 18.0000|
+|/players/574624/enrique-barja          |          NA|              NA|               NA|        0.2098|         0.2701|      0.0738|        0.1031|      0.0095| 13.3125|
+|/players/1209399/abdessamad-ezzalzouli |          NA|              NA|               NA|        0.1926|         0.5721|      0.0520|        0.0443|      0.0551| 12.6579|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Jagoba Arrasate |     96.69596|     -1.925546|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918158/Soccer_Models'...
+Receiving objects:   1% (48/4737),   63 kb
+Receiving objects:  11% (522/4737),  127 kb
+Receiving objects:  21% (995/4737),  239 kb
+Receiving objects:  31% (1469/4737),  463 kb
+Receiving objects:  41% (1943/4737),  856 kb
+Receiving objects:  51% (2416/4737), 1080 kb
+Receiving objects:  61% (2890/4737), 5787 kb
+Receiving objects:  71% (3364/4737), 10389 kb
+Receiving objects:  81% (3837/4737), 10726 kb
+Receiving objects:  91% (4311/4737), 10838 kb
+Receiving objects: 100% (4737/4737), 11366 kb, done.
