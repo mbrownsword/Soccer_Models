@@ -1,0 +1,107 @@
+[1] "Updated at 2023-02-25 14:14:20.998"
+[1] "_____________________________________________________________________"
+  bet           date_time
+1     2023-02-26 08:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team        | expected_attg| expected_gs|bet |
+|:------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/872934/philipp-khn          |FC Salzburg |            NA|   0.1428571|NA  |
+|/players/43205/andreas-ulmer         |FC Salzburg |            NA|   0.1250000|NA  |
+|/players/866708/oumar-solet          |FC Salzburg |            NA|   0.0952381|NA  |
+|/players/1048023/strahinja-pavlovic  |FC Salzburg |            NA|   0.1428571|NA  |
+|/players/958010/amar-dedic           |FC Salzburg |            NA|   0.2173913|NA  |
+|/players/1070404/maurits-kjrgaard    |FC Salzburg |            NA|   0.2127660|NA  |
+|/players/1018564/nicolas-capaldo     |FC Salzburg |            NA|   0.3333333|NA  |
+|/players/1024672/nicolas-seiwald     |FC Salzburg |            NA|   0.1333333|NA  |
+|/players/959597/luka-sucic           |FC Salzburg |            NA|   0.3508772|NA  |
+|/players/915797/noah-okafor          |FC Salzburg |            NA|   0.5652174|NA  |
+|/players/1073977/benjamin-sesko      |FC Salzburg |            NA|   0.4444444|NA  |
+|/players/1074619/jonas-wendlinger    |SV Ried     |            NA|   0.0714286|NA  |
+|/players/264702/julian-wiessmeier    |SV Ried     |            NA|   0.1000000|NA  |
+|/players/197440/markus-lackner       |SV Ried     |            NA|   0.0294118|NA  |
+|/players/822495/tin-plavotic         |SV Ried     |            NA|   0.0666667|NA  |
+|/players/862846/josef-weberbauer     |SV Ried     |            NA|   0.0625000|NA  |
+|/players/690409/kingsley-michael     |SV Ried     |            NA|   0.0714286|NA  |
+|/players/1242516/michael-martin      |SV Ried     |            NA|   0.1052632|NA  |
+|/players/803558/philipp-pomer        |SV Ried     |            NA|   0.1428571|NA  |
+|/players/1073788/leo-mikic           |SV Ried     |            NA|   0.1666667|NA  |
+|/players/338801/stefan-nutz          |SV Ried     |            NA|   0.1250000|NA  |
+|/players/689320/christoph-monschein  |SV Ried     |            NA|   0.2173913|NA  |
+|/players/882163/chukwubuike-adamu    |FC Salzburg |            NA|   0.6875000|NA  |
+|/players/1137106/lucas-gourna-douath |FC Salzburg |            NA|   0.1111111|NA  |
+|/players/637716/bernardo             |FC Salzburg |            NA|   0.0909091|NA  |
+|/players/1229526/forson-amankwah     |FC Salzburg |            NA|   0.2702703|NA  |
+|/players/1203837/luca-kronberger     |SV Ried     |            NA|   0.1250000|NA  |
+|/players/484643/seifeddin-chabbi     |SV Ried     |            NA|   0.2127660|NA  |
+|/players/1232205/christoph-lang      |SV Ried     |            NA|   0.2040816|NA  |
+|/players/1257632/julian-turi         |SV Ried     |            NA|   0.0714286|NA  |
+____________________________________________________
+
+[1] "Facts about FC Salzburg:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/872934/philipp-khn          |           0|         24.5348|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/43205/andreas-ulmer         |           1|         55.5092|           0.6682|        0.0934|         0.6087|      0.0403|        0.0053|      0.1634| 90.0000|
+|/players/866708/oumar-solet          |           1|         73.5837|           0.4967|        0.1461|         0.5358|      0.0408|        0.0524|      0.0829| 90.0000|
+|/players/1048023/strahinja-pavlovic  |           1|         66.5582|           0.9114|        0.2547|         0.9340|      0.0731|        0.0439|      0.0563| 90.0000|
+|/players/958010/amar-dedic           |           1|         48.3099|           0.6684|        0.2344|         0.7522|      0.0622|        0.0402|      0.1057| 90.0000|
+|/players/1070404/maurits-kjrgaard    |           2|         52.1213|           2.3705|        0.9828|         2.4752|      0.2355|        0.1806|      0.1850| 90.0000|
+|/players/1018564/nicolas-capaldo     |           2|         51.3668|           1.9785|        0.4594|         1.5494|      0.3332|        0.1565|      0.0920| 90.0000|
+|/players/1024672/nicolas-seiwald     |           2|         67.3661|           2.2892|        0.4556|         0.9732|      0.1040|        0.0610|      0.1443| 83.7778|
+|/players/959597/luka-sucic           |           3|         38.3250|           1.8336|        1.2855|         2.5959|      0.3857|        0.3120|      0.1365| 75.2308|
+|/players/915797/noah-okafor          |           5|         17.4368|           0.5919|        1.1977|         3.0779|      0.3595|        0.4097|      0.1819| 66.3500|
+|/players/1073977/benjamin-sesko      |           5|         18.4641|           0.3946|        2.0486|         3.6871|      0.4843|        0.6137|      0.1374| 74.5000|
+|/players/882163/chukwubuike-adamu    |           0|              NA|               NA|        0.8198|         1.6912|      0.4000|        0.3749|      0.0658| 23.6500|
+|/players/1137106/lucas-gourna-douath |           0|              NA|               NA|        0.0000|         0.3635|      0.1164|        0.0000|      0.0041| 15.5000|
+|/players/637716/bernardo             |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0012| 14.7692|
+|/players/1229526/forson-amankwah     |           0|              NA|               NA|        0.2661|         0.3660|      0.0185|        0.0172|      0.0108|  6.2222|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Matthias Jaissle |     62.93333|      28.45159|4-3-1-2   |
+____________________________________________________
+
+[1] "Facts about SV Ried:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1074619/jonas-wendlinger   |           0|         15.5544|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/264702/julian-wiessmeier   |           1|         16.1684|           0.3296|        0.0001|         0.0001|      0.0002|        0.0534|      0.0187| 90.0000|
+|/players/197440/markus-lackner      |           1|         30.6211|           0.2764|        0.0001|         0.0001|      0.0001|        0.0143|      0.0072| 90.0000|
+|/players/822495/tin-plavotic        |           1|         24.1613|           0.2742|        0.0001|         0.0001|      0.0002|        0.0441|      0.0110| 90.0000|
+|/players/862846/josef-weberbauer    |           3|         26.5582|           1.4431|        0.0904|         0.4801|      0.1667|        0.0261|      0.0446| 75.0000|
+|/players/690409/kingsley-michael    |           3|         16.4712|           1.8039|        0.0798|         0.8402|      0.0748|        0.0231|      0.0214| 66.1667|
+|/players/1242516/michael-martin     |           3|         34.0737|           2.6429|        0.1670|         0.2512|      0.0374|        0.0314|      0.0264| 90.0000|
+|/players/803558/philipp-pomer       |           3|         28.0615|           3.0033|        0.1328|         0.6662|      0.2445|        0.0870|      0.0284| 90.0000|
+|/players/1073788/leo-mikic          |           5|         21.1704|           1.4530|        0.2717|         0.7635|      0.0114|        0.0167|      0.0332| 73.6667|
+|/players/338801/stefan-nutz         |           5|         29.5591|           0.3146|        0.3529|         0.7439|      0.0177|        0.1318|      0.0565| 90.0000|
+|/players/689320/christoph-monschein |           5|         13.6976|           0.5868|        0.7837|         1.3214|      0.0287|        0.1563|      0.0132| 77.6538|
+|/players/1203837/luca-kronberger    |           0|              NA|               NA|        0.0000|         0.0665|      0.0032|        0.0000|      0.0070| 23.8333|
+|/players/484643/seifeddin-chabbi    |           0|              NA|               NA|        0.2060|         0.3627|      0.0824|        0.0892|      0.0096| 16.3333|
+|/players/1232205/christoph-lang     |           0|              NA|               NA|        0.0790|         0.2085|      0.0565|        0.0330|      0.0000| 15.0000|
+|/players/1257632/julian-turi        |           0|              NA|               NA|        0.0000|         0.0759|      0.0048|        0.0000|      0.0000| 12.3462|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Christian Heinle |      27.8404|     -11.08036|3-4-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917354/Soccer_Models'...
+Receiving objects:   1% (49/4848),   63 kb
+Receiving objects:  11% (534/4848),  127 kb
+Receiving objects:  21% (1019/4848),  239 kb
+Receiving objects:  31% (1503/4848),  519 kb
+Receiving objects:  41% (1988/4848),  856 kb
+Receiving objects:  51% (2473/4848), 1136 kb
+Receiving objects:  61% (2958/4848), 8869 kb
+Receiving objects:  71% (3443/4848), 10437 kb
+Receiving objects:  81% (3927/4848), 10718 kb
+Receiving objects:  91% (4412/4848), 10830 kb
+Receiving objects: 100% (4848/4848), 11476 kb, done.
