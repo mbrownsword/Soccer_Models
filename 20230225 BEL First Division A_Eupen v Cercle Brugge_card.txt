@@ -1,0 +1,153 @@
+[1] "Updated at 2023-02-25 09:00:22.829"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Eupen 0.9201 to Cercle Brugge 1.7492"
+[1] "Total: 2.6693"
+[1] "Eupen %: 20.03"
+[1] "Draw %: 23.64"
+[1] "Cercle Brugge %: 56.33"
+[1] "--XG Model--"
+[1] "Score: Eupen 1.0458 to Cercle Brugge 1.9195"
+[1] "Total: 2.9653"
+[1] "Eupen %: 19.74"
+[1] "Draw %: 22.28"
+[1] "Cercle Brugge %: 57.98"
+[1] "--XGoT Model--"
+[1] "Score: Eupen 0.6853 to Cercle Brugge 1.6838"
+[1] "Total: 2.3691"
+[1] "Eupen %: 14.88"
+[1] "Draw %: 24.15"
+[1] "Cercle Brugge %: 60.97"
+[1] "--XA Model--"
+[1] "Score: Eupen 0.9373 to Cercle Brugge 1.6726"
+[1] "Total: 2.6099"
+[1] "Eupen %: 21.57"
+[1] "Draw %: 24.62"
+[1] "Cercle Brugge %: 53.81"
+[1] "--Mean 4 Models--"
+[1] "Eupen has a mean win % of 19.06%; a min win % of 14.88%; a max win % of 21.57%."
+[1] "Draw has a mean win % of 23.67%; a min win % of 22.28%; a max win % of 24.62%."
+[1] "Cercle Brugge has a mean win % of 57.27%; a min win % of 53.81%; a max win of % 60.97%."
+[1] "Eupen has a mean win of the Double Chance of 42.73%; a min win % of 39.03%, a max win % of 46.19%."
+[1] "Cercle Brugge has a mean win of the Double Chance of 80.94%; a min win % of 78.43%, a max win % of 85.12%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.99%; max % is 56.9 and min % is 41.79%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.01%; max % is 58.21 and min % is 43.1%."
+[1] "--Sportsbook Odds--"
+[1] "Eupen Barstool Odds are: 26.32"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Cercle Brugge Barstool Odds are: 52.38"
+[1] "Eupen Adjusted Barstool Odds are: 24.718"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.089"
+[1] "Cercle Brugge Adjusted Barstool Odds are: 49.192"
+[1] "Eupen's Barstool Odds to cover the -0.5 spread are: 25.64"
+[1] "Cercle Brugge's Barstool Odds to cover the 0.5 spread are: 78.12"
+[1] "Barstool's line for the total is 2.5 at 1.85, which is a 54.05% chance of the over 2.5 hitting. The line for the under is 1.96, which is a 51.02% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                bet           date_time
+1     Cercle Brugge 2023-02-25 09:15:00
+2 Cercle Brugge ATS 2023-02-25 09:15:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team          | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/934832/lennart-moser          |Eupen         |      0.000000|   0.1176471|    |
+|/players/924117/yentil-van-genechten   |Eupen         |      0.055975|   0.0476190|    |
+|/players/1319970/rune-paeshuyse        |Eupen         |      0.005450|   0.0588235|    |
+|/players/687151/oleksandr-filin        |Eupen         |      0.004300|   0.0476190|    |
+|/players/192303/jason-davidson         |Eupen         |      0.055375|   0.0588235|    |
+|/players/1075033/gary-magnee           |Eupen         |      0.074825|   0.1428571|    |
+|/players/295102/stef-peeters           |Eupen         |      0.106800|   0.2127660|    |
+|/players/951054/brandon-baiye          |Eupen         |      0.040700|   0.1333333|    |
+|/players/662834/regan-charles-cook     |Eupen         |      0.124350|   0.2380952|    |
+|/players/1027594/konan-ndri            |Eupen         |      0.144850|   0.2439024|    |
+|/players/1358598/djeidi-gassama        |Eupen         |      0.091075|   0.2040816|    |
+|/players/942393/ayase-ueda             |Cercle Brugge |      0.228750|   0.4081633|    |
+|/players/820477/kevin-denkey           |Cercle Brugge |      0.217675|   0.3703704|    |
+|/players/1106599/thibo-somers          |Cercle Brugge |      0.334175|   0.2000000|*   |
+|/players/969856/olivier-deman          |Cercle Brugge |      0.039450|   0.1666667|    |
+|/players/1066264/abu-francis           |Cercle Brugge |      0.229250|   0.1851852|    |
+|/players/952057/charles-vanhoutte      |Cercle Brugge |      0.034900|   0.0833333|    |
+|/players/1202888/hugo-siquet           |Cercle Brugge |      0.051525|   0.0714286|    |
+|/players/633094/jesper-daland          |Cercle Brugge |      0.031600|   0.0909091|    |
+|/players/1336773/christiaan-ravych     |Cercle Brugge |      0.033500|   0.1785714|    |
+|/players/1280127/boris-popovic         |Cercle Brugge |      0.066825|   0.1428571|    |
+|/players/724909/radoslaw-majecki       |Cercle Brugge |      0.000000|   0.1111111|    |
+|/players/554930/smail-prevljak         |Eupen         |      0.101450|   0.0000000|*   |
+|/players/1324373/ibrahim-diakit        |Eupen         |      0.000000|   0.0000000|    |
+|/players/1273743/teddy-alloh           |Eupen         |      0.000000|   0.0000000|    |
+|/players/940654/boris-lambert          |Eupen         |      0.004350|   0.0000000|    |
+|/players/955411/yann-gboho             |Cercle Brugge |      0.096450|   0.0000000|*   |
+|/players/318525/dino-hotic             |Cercle Brugge |      0.108975|   0.0000000|*   |
+|/players/232299/hannes-van-der-bruggen |Cercle Brugge |      0.001900|   0.0000000|    |
+|/players/1226142/emilio-kehrer         |Cercle Brugge |      0.000000|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about Eupen:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/934832/lennart-moser        |           0|         26.5826|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/924117/yentil-van-genechten |           1|         25.6593|           1.9836|        0.0948|         0.2511|      0.0593|        0.0517|      0.0679| 90.0000|
+|/players/1319970/rune-paeshuyse      |           1|         43.6683|           1.1858|        0.0717|         0.0951|      0.0045|        0.0048|      0.0039| 90.0000|
+|/players/687151/oleksandr-filin      |           1|         38.9873|           1.1524|        0.0660|         0.2704|      0.0041|        0.0044|      0.0109| 82.7308|
+|/players/192303/jason-davidson       |           1|         55.5887|           0.9420|        0.3053|         1.3352|      0.1072|        0.0498|      0.0998| 90.0000|
+|/players/1075033/gary-magnee         |           3|         30.6119|           2.6126|        0.3455|         0.9672|      0.0746|        0.0746|      0.0373| 90.0000|
+|/players/295102/stef-peeters         |           3|         50.6257|           2.0120|        0.2763|         1.1603|      0.1035|        0.0969|      0.1362| 90.0000|
+|/players/951054/brandon-baiye        |           3|         16.7015|           1.3504|        0.1382|         0.4836|      0.0373|        0.0373|      0.0193| 45.0000|
+|/players/662834/regan-charles-cook   |           5|         19.1774|           0.7223|        0.5649|         0.6403|      0.0558|        0.1237|      0.0845| 77.3333|
+|/players/1027594/konan-ndri          |           5|         16.7756|           1.3884|        0.6575|         2.2723|      0.4623|        0.1439|      0.0672| 90.0000|
+|/players/1358598/djeidi-gassama      |           5|          5.0764|           0.2708|        0.1516|         0.3842|      0.0293|        0.0897|      0.0146| 18.7500|
+|/players/554930/smail-prevljak       |           0|              NA|               NA|        0.4140|         1.1118|      0.2627|        0.0983|      0.0080| 71.2500|
+|/players/1324373/ibrahim-diakit      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 45.0000|
+|/players/1273743/teddy-alloh         |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0042| 12.6667|
+|/players/940654/boris-lambert        |           0|              NA|               NA|        0.0000|         0.0000|      0.0043|        0.0054|      0.0000|  7.2692|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Edward Still |      56.6404|      -2.54579|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Cercle Brugge:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/942393/ayase-ueda             |           5|         20.1013|           0.3587|        1.3620|         3.1751|      0.2094|        0.2365|      0.0873| 90.0000|
+|/players/820477/kevin-denkey           |           5|         22.6183|           0.6372|        0.7005|         1.9596|      0.3539|        0.2346|      0.1801| 75.2308|
+|/players/1106599/thibo-somers          |           5|         26.0807|           1.5502|        0.6745|         1.4430|      0.2634|        0.3763|      0.0891| 73.7778|
+|/players/969856/olivier-deman          |           3|         36.3805|           3.1396|        0.0964|         0.8617|      0.0937|        0.0386|      0.0926| 90.0000|
+|/players/1066264/abu-francis           |           3|         52.2834|           1.9658|        0.7181|         1.7325|      0.2476|        0.2430|      0.0776| 90.0000|
+|/players/952057/charles-vanhoutte      |           3|         42.2579|           1.4691|        0.1614|         0.6413|      0.0458|        0.0346|      0.0911| 74.8000|
+|/players/1202888/hugo-siquet           |           3|         29.2745|           1.2887|        0.1681|         0.6681|      0.0475|        0.0517|      0.1988| 77.1667|
+|/players/633094/jesper-daland          |           1|         71.9968|           1.4703|        0.0782|         0.5038|      0.0401|        0.0310|      0.0763| 90.0000|
+|/players/1336773/christiaan-ravych     |           1|         40.2927|           2.4469|        0.0782|         0.1753|      0.0244|        0.0310|      0.0094| 90.0000|
+|/players/1280127/boris-popovic         |           1|         49.9818|           0.8528|        0.3609|         0.8789|      0.1188|        0.0644|      0.0319| 90.0000|
+|/players/724909/radoslaw-majecki       |           0|         25.6759|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/955411/yann-gboho             |           0|              NA|               NA|        0.1870|         0.3582|      0.2109|        0.0960|      0.0099| 16.2222|
+|/players/318525/dino-hotic             |           0|              NA|               NA|        0.2380|         0.5860|      0.1684|        0.1074|      0.0071| 15.2000|
+|/players/232299/hannes-van-der-bruggen |           0|              NA|               NA|        0.1535|         0.2520|      0.0258|        0.0022|      0.0040| 14.7692|
+|/players/1226142/emilio-kehrer         |           0|              NA|               NA|        0.1030|         0.5069|      0.0061|        0.0000|      0.0000| 12.8333|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Miron Muslic |     25.93232|     -5.779615|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917166/Soccer_Models'...
+Receiving objects:   1% (48/4716),   63 kb
+Receiving objects:  11% (519/4716),  127 kb
+Receiving objects:  21% (991/4716),  239 kb
+Receiving objects:  31% (1462/4716),  407 kb
+Receiving objects:  41% (1934/4716),  856 kb
+Receiving objects:  51% (2406/4716), 1080 kb
+Receiving objects:  61% (2877/4716), 5506 kb
+Receiving objects:  71% (3349/4716), 10381 kb
+Receiving objects:  81% (3820/4716), 10718 kb
+Receiving objects:  91% (4292/4716), 10830 kb
+Receiving objects: 100% (4716/4716), 11355 kb, done.
