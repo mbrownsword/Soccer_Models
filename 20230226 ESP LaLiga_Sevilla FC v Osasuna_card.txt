@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-25 10:41:13.210"
+[1] "Updated at 2023-02-25 11:54:25.648"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -49,6 +49,14 @@
 1                 Osasuna 2023-02-26 12:00:00
 2 over Sevilla FC/Osasuna 2023-02-26 12:00:00
 3             Osasuna ATS 2023-02-26 12:00:00
+
+
+|player         |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:--------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Darko Brasanac |OSA  |     33| 2.33|          NA|  0.6814|   0.2522|passes    |ESP Spain |      0.4292|         NA|        NA|         NA|       NA|
+|Darko Brasanac |OSA  |     29| 1.87|          NA|  0.8783|   0.3435|passes    |ESP Spain |      0.5348|         NA|        NA|         NA|       NA|
+|Darko Brasanac |OSA  |     25| 1.53|          NA|  0.9708|   0.3172|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
+|Pape Gueye     |SEV  |     41| 1.53|          NA|  0.7777|   0.1241|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -141,14 +149,14 @@ ____________________________________________________
 |:---------------|------------:|-------------:|:---------|
 |Jagoba Arrasate |     96.69596|     -1.925546|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918158/Soccer_Models'...
-Receiving objects:   1% (48/4737),   63 kb
-Receiving objects:  11% (522/4737),  127 kb
-Receiving objects:  21% (995/4737),  239 kb
-Receiving objects:  31% (1469/4737),  463 kb
-Receiving objects:  41% (1943/4737),  856 kb
-Receiving objects:  51% (2416/4737), 1080 kb
-Receiving objects:  61% (2890/4737), 5787 kb
-Receiving objects:  71% (3364/4737), 10389 kb
-Receiving objects:  81% (3837/4737), 10726 kb
-Receiving objects:  91% (4311/4737), 10838 kb
-Receiving objects: 100% (4737/4737), 11366 kb, done.
+Receiving objects:   1% (48/4773),   63 kb
+Receiving objects:  11% (526/4773),  127 kb
+Receiving objects:  21% (1003/4773),  239 kb
+Receiving objects:  31% (1480/4773),  463 kb
+Receiving objects:  41% (1957/4773),  856 kb
+Receiving objects:  51% (2435/4773), 1080 kb
+Receiving objects:  61% (2912/4773), 5787 kb
+Receiving objects:  71% (3389/4773), 10438 kb
+Receiving objects:  81% (3867/4773), 10718 kb
+Receiving objects:  91% (4344/4773), 10830 kb
+Receiving objects: 100% (4773/4773), 11398 kb, done.
