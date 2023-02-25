@@ -1,110 +1,110 @@
-[1] "Updated at 2023-02-23 15:25:13.662"
+[1] "Updated at 2023-02-25 06:52:50.281"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Bristol City 1.2435 to Hull City 1.0315"
-[1] "Total: 2.275"
-[1] "Bristol City %: 41.76"
-[1] "Draw %: 28.18"
-[1] "Hull City %: 30.06"
+[1] "Score: Bristol City 1.2973 to Hull City 0.9421"
+[1] "Total: 2.2394"
+[1] "Bristol City %: 44.99"
+[1] "Draw %: 27.63"
+[1] "Hull City %: 27.38"
 [1] "--XG Model--"
-[1] "Score: Bristol City 1.3211 to Hull City 1.002"
-[1] "Total: 2.3231"
-[1] "Bristol City %: 44.24"
-[1] "Draw %: 27.61"
-[1] "Hull City %: 28.15"
+[1] "Score: Bristol City 1.4369 to Hull City 1.0076"
+[1] "Total: 2.4445"
+[1] "Bristol City %: 46.59"
+[1] "Draw %: 26.69"
+[1] "Hull City %: 26.72"
 [1] "--XGoT Model--"
-[1] "Score: Bristol City 1.3975 to Hull City 0.9926"
-[1] "Total: 2.3901"
-[1] "Bristol City %: 46.48"
-[1] "Draw %: 26.66"
-[1] "Hull City %: 26.86"
+[1] "Score: Bristol City 1.4809 to Hull City 0.9693"
+[1] "Total: 2.4502"
+[1] "Bristol City %: 49.67"
+[1] "Draw %: 25.61"
+[1] "Hull City %: 24.72"
 [1] "--XA Model--"
-[1] "Score: Bristol City 1.3579 to Hull City 1.0159"
-[1] "Total: 2.3738"
-[1] "Bristol City %: 45.07"
-[1] "Draw %: 26.97"
-[1] "Hull City %: 27.96"
+[1] "Score: Bristol City 1.4277 to Hull City 0.9336"
+[1] "Total: 2.3613"
+[1] "Bristol City %: 48.29"
+[1] "Draw %: 26.52"
+[1] "Hull City %: 25.19"
 [1] "--Mean 4 Models--"
-[1] "Bristol City has a mean win % of 44.39%; a min win % of 41.76%; a max win % of 46.48%."
-[1] "Draw has a mean win % of 27.36%; a min win % of 26.66%; a max win % of 28.18%."
-[1] "Hull City has a mean win % of 28.26%; a min win % of 26.86%; a max win of % 30.06%."
-[1] "Bristol City has a mean win of the Double Chance of 71.74%; a min win % of 69.94%, a max win % of 73.14%."
-[1] "Hull City has a mean win of the Double Chance of 55.61%; a min win % of 53.52%, a max win % of 58.24%."
-[1] "The mean likelihood that there are more than 2.5 goals is 40.27%; max % is 41.55 and min % is 38.63%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 59.73%; max % is 61.37 and min % is 58.45%."
+[1] "Bristol City has a mean win % of 47.38%; a min win % of 44.99%; a max win % of 49.67%."
+[1] "Draw has a mean win % of 26.61%; a min win % of 25.61%; a max win % of 27.63%."
+[1] "Hull City has a mean win % of 26%; a min win % of 24.72%; a max win of % 27.38%."
+[1] "Bristol City has a mean win of the Double Chance of 74%; a min win % of 72.62%, a max win % of 75.28%."
+[1] "Hull City has a mean win of the Double Chance of 52.62%; a min win % of 50.33%, a max win % of 55.01%."
+[1] "The mean likelihood that there are more than 2.5 goals is 41.55%; max % is 43.38 and min % is 38.4%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 58.45%; max % is 61.6 and min % is 56.62%."
 [1] "--Sportsbook Odds--"
-[1] "Bristol City Barstool Odds are: 44.44"
+[1] "Bristol City Barstool Odds are: 42.11"
 [1] "The Barstool Odds of a Draw are: 30.3"
-[1] "Hull City Barstool Odds are: 31.75"
-[1] "Bristol City Adjusted Barstool Odds are: 41.732"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.453"
-[1] "Hull City Adjusted Barstool Odds are: 29.815"
+[1] "Hull City Barstool Odds are: 34.48"
+[1] "Bristol City Adjusted Barstool Odds are: 39.396"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.347"
+[1] "Hull City Adjusted Barstool Odds are: 32.257"
 [1] "Bristol City's Barstool Odds to cover the  spread are: NA"
 [1] "Hull City's Barstool Odds to cover the  spread are: NA"
 [1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-  bet           date_time
-1     2023-02-25 07:00:00
+           bet           date_time
+1 Bristol City 2023-02-25 07:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                          |team         | expected_attg| expected_gs|bet |
 |:---------------------------------|:------------|-------------:|-----------:|:---|
-|/players/625360/nikita-haikin     |Bristol City |      0.000000|   0.3225806|    |
-|/players/103419/andy-king         |Bristol City |      0.015725|   0.1176471|    |
-|/players/201934/tomas-kalas       |Bristol City |      0.056175|   0.0833333|    |
-|/players/890346/cameron-pring     |Bristol City |      0.019350|   0.1111111|    |
-|/players/719581/zak-vyner         |Bristol City |      0.030325|   0.0666667|    |
-|/players/173408/matthew-james     |Bristol City |      0.010100|   0.0909091|    |
-|/players/1233655/alex-scott       |Bristol City |      0.106725|   0.1923077|    |
-|/players/1198007/anis-mehmeti     |Bristol City |      0.415150|   0.2857143|*   |
-|/players/605260/joe-williams      |Bristol City |      0.005275|   0.0909091|    |
-|/players/759814/jay-dasilva       |Bristol City |      0.058100|   0.0769231|    |
-|/players/243132/nahki-wells       |Bristol City |      0.274150|   0.3703704|    |
-|/players/215785/matt-ingram       |Hull City    |      0.000000|   0.1694915|    |
-|/players/361326/tobias-figueiredo |Hull City    |      0.043700|   0.0384615|    |
-|/players/864266/sean-mcloughlin   |Hull City    |      0.006425|   0.0312500|    |
-|/players/789598/alfie-jones       |Hull City    |      0.017325|   0.0400000|    |
-|/players/1079103/jacob-greaves    |Hull City    |      0.044550|   0.0714286|    |
-|/players/416104/ryan-woods        |Hull City    |      0.035400|   0.0909091|    |
-|/players/470539/jean-michael-seri |Hull City    |      0.038875|   0.1333333|    |
-|/players/212418/cyrus-christie    |Hull City    |      0.125675|   0.1052632|    |
-|/players/886155/ryan-longman      |Hull City    |      0.056350|   0.2564103|    |
-|/players/807930/regan-slater      |Hull City    |      0.210175|   0.1754386|    |
-|/players/683880/oscar-estupinan   |Hull City    |      0.227250|   0.3333333|    |
-|/players/488622/harry-cornick     |Bristol City |      0.080150|   0.3389831|    |
-|/players/1077922/george-tanner    |Bristol City |      0.000000|   0.1000000|    |
-|/players/1122563/samuel-bell      |Bristol City |      0.000000|   0.2702703|    |
-|/players/488622/harry-cornick     |Bristol City |      0.080150|   0.3389831|    |
-|/players/430429/greg-docherty     |Hull City    |      0.001800|   0.1052632|    |
-|/players/709148/lewie-coyle       |Hull City    |      0.000000|   0.0833333|    |
-|/players/358936/ozan-tufan        |Hull City    |      0.050425|   0.2325581|    |
-|/players/874617/aaron-connolly    |Hull City    |      0.007675|   0.2702703|    |
+|/players/496732/max-oleary        |Bristol City |      0.000000|   0.0833333|    |
+|/players/1077922/george-tanner    |Bristol City |      0.021075|   0.0909091|    |
+|/players/719581/zak-vyner         |Bristol City |      0.034000|   0.0625000|    |
+|/players/201934/tomas-kalas       |Bristol City |      0.059050|   0.0769231|    |
+|/players/890346/cameron-pring     |Bristol City |      0.021350|   0.1000000|    |
+|/players/173408/matthew-james     |Bristol City |      0.066525|   0.0833333|    |
+|/players/605260/joe-williams      |Bristol City |      0.065900|   0.0833333|    |
+|/players/552569/mark-sykes        |Bristol City |      0.046500|   0.1886792|    |
+|/players/1233655/alex-scott       |Bristol City |      0.117925|   0.1818182|    |
+|/players/1198007/anis-mehmeti     |Bristol City |      0.335700|   0.2631579|*   |
+|/players/1122563/samuel-bell      |Bristol City |      0.298500|   0.2564103|    |
+|/players/683880/oscar-estupinan   |Hull City    |      0.218450|   0.3333333|    |
+|/players/1308370/malcolm-ebiowei  |Hull City    |      0.175775|   0.2631579|    |
+|/players/358936/ozan-tufan        |Hull City    |      0.064675|   0.2325581|    |
+|/players/1096398/xavier-simons    |Hull City    |      0.059050|   0.1052632|    |
+|/players/430429/greg-docherty     |Hull City    |      0.076900|   0.1052632|    |
+|/players/807930/regan-slater      |Hull City    |      0.071325|   0.1785714|    |
+|/players/1079103/jacob-greaves    |Hull City    |      0.045850|   0.0769231|    |
+|/players/864266/sean-mcloughlin   |Hull City    |      0.006125|   0.0312500|    |
+|/players/789598/alfie-jones       |Hull City    |      0.017725|   0.0416667|    |
+|/players/212418/cyrus-christie    |Hull City    |      0.039775|   0.1052632|    |
+|/players/163604/karl-darlow       |Hull City    |      0.000000|   0.1333333|    |
+|/players/243132/nahki-wells       |Bristol City |      0.099100|   0.0000000|*   |
+|/players/488622/harry-cornick     |Bristol City |      0.006100|   0.0000000|    |
+|/players/759814/jay-dasilva       |Bristol City |      0.000000|   0.0000000|    |
+|/players/103419/andy-king         |Bristol City |      0.000000|   0.0000000|    |
+|/players/610270/callum-elder      |Hull City    |      0.015775|   0.0000000|    |
+|/players/361326/tobias-figueiredo |Hull City    |      0.000000|   0.0000000|    |
+|/players/886155/ryan-longman      |Hull City    |      0.058825|   0.0000000|*   |
+|/players/709148/lewie-coyle       |Hull City    |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Bristol City:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                       | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/625360/nikita-haikin  |           0|         28.7261|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/103419/andy-king      |           1|         41.2814|           0.7054|        0.1104|         0.5159|      0.0430|        0.0197|      0.0226| 74.6667|
-|/players/201934/tomas-kalas    |           1|         44.9018|           0.7341|        0.1427|         0.6136|      0.0566|        0.0711|      0.0273| 90.0000|
-|/players/890346/cameron-pring  |           1|         39.2977|           2.8061|        0.1564|         0.4037|      0.0710|        0.0225|      0.1624| 85.5217|
-|/players/719581/zak-vyner      |           1|         51.8183|           1.4867|        0.1330|         0.4960|      0.0183|        0.0383|      0.0301| 90.0000|
-|/players/173408/matthew-james  |           2|         50.6352|           1.1032|        0.1829|         0.9333|      0.0278|        0.0113|      0.0400| 90.0000|
-|/players/1233655/alex-scott    |           2|         46.5066|           3.0854|        0.3580|         1.0151|      0.1172|        0.1337|      0.1374| 90.0000|
-|/players/1198007/anis-mehmeti  |           3|         14.7385|           0.9598|        1.8444|         3.9197|      0.5208|        0.6248|      0.2455| 90.0000|
-|/players/605260/joe-williams   |           3|         38.8332|           1.7564|        0.1097|         1.0257|      0.0597|        0.0054|      0.0980| 73.7143|
-|/players/759814/jay-dasilva    |           3|         31.4017|           0.8925|        0.1267|         0.6462|      0.0964|        0.0744|      0.1395| 90.0000|
-|/players/243132/nahki-wells    |           5|         17.0454|           0.5333|        0.9147|         2.2759|      0.3858|        0.3758|      0.0775| 81.0227|
-|/players/488622/harry-cornick  |           0|              NA|               NA|        0.1750|         0.7127|      0.0819|        0.0723|      0.0459| 16.2857|
-|/players/1077922/george-tanner |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0021| 15.3333|
-|/players/1122563/samuel-bell   |           0|              NA|               NA|        0.0000|         0.1041|      0.0060|        0.0000|      0.0179|  8.9773|
-|/players/488622/harry-cornick  |           0|              NA|               NA|        0.0680|         0.0639|      0.0296|        0.0255|      0.0031|  4.4783|
+|/players/496732/max-oleary     |           0|         29.2628|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1077922/george-tanner |           1|         39.8807|           2.0743|        0.2091|         0.7219|      0.0216|        0.0234|      0.0303| 90.0000|
+|/players/719581/zak-vyner      |           1|         55.3965|           1.1373|        0.1131|         0.4836|      0.0229|        0.0378|      0.0290| 90.0000|
+|/players/201934/tomas-kalas    |           1|         48.0024|           0.5616|        0.1213|         0.5983|      0.0708|        0.0702|      0.0262| 90.0000|
+|/players/890346/cameron-pring  |           1|         44.2112|           2.2592|        0.1400|         0.4143|      0.0934|        0.0234|      0.1644| 90.0000|
+|/players/173408/matthew-james  |           2|         46.3472|           1.8172|        0.2766|         0.9394|      0.0777|        0.0807|      0.0449| 90.0000|
+|/players/605260/joe-williams   |           2|         50.8898|           2.1782|        0.2321|         0.8758|      0.0734|        0.0763|      0.1238| 85.0000|
+|/players/552569/mark-sykes     |           3|         32.8080|           1.2905|        0.3962|         1.2422|      0.0443|        0.0559|      0.1588| 82.0909|
+|/players/1233655/alex-scott    |           3|         36.4559|           1.5911|        0.3449|         1.0812|      0.1916|        0.1387|      0.1159| 83.5714|
+|/players/1198007/anis-mehmeti  |           3|         18.3089|           0.7991|        1.2080|         3.1560|      0.3626|        0.4451|      0.1976| 90.0000|
+|/players/1122563/samuel-bell   |           5|         14.8205|           0.4248|        0.8413|         2.0262|      0.3918|        0.3816|      0.0721| 71.6667|
+|/players/243132/nahki-wells    |           0|              NA|               NA|        0.1571|         0.4093|      0.1432|        0.1159|      0.0244| 18.3333|
+|/players/488622/harry-cornick  |           0|              NA|               NA|        0.0569|         0.1811|      0.0225|        0.0064|      0.0209|  7.9091|
+|/players/759814/jay-dasilva    |           0|              NA|               NA|        0.0259|         0.0674|      0.0041|        0.0000|      0.0046|  6.4286|
+|/players/103419/andy-king      |           0|              NA|               NA|        0.0330|         0.1722|      0.0071|        0.0000|      0.0031|  5.0000|
 
 
 |manager_name  | approx_games| m_avg_elo_dif|formation |
@@ -113,40 +113,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Hull City:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/215785/matt-ingram       |           0|         27.3874|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/361326/tobias-figueiredo |           1|         42.6993|           1.0017|        0.0728|         0.3503|      0.0302|        0.0439|      0.0103| 90.0000|
-|/players/864266/sean-mcloughlin   |           1|         45.0056|           1.3759|        0.1392|         0.5020|      0.0373|        0.0061|      0.0585| 90.0000|
-|/players/789598/alfie-jones       |           1|         45.8623|           1.1140|        0.1178|         0.3187|      0.0319|        0.0178|      0.0107| 90.0000|
-|/players/1079103/jacob-greaves    |           1|         43.1555|           2.9346|        0.1110|         0.5840|      0.0557|        0.0456|      0.0906| 90.0000|
-|/players/416104/ryan-woods        |           2|         34.3934|           2.1373|        0.1745|         0.4063|      0.0280|        0.0394|      0.0217| 77.8571|
-|/players/470539/jean-michael-seri |           2|         49.3087|           1.6775|        0.1823|         1.0428|      0.0764|        0.0412|      0.0896| 81.3333|
-|/players/212418/cyrus-christie    |           3|         37.2280|           1.7482|        0.4531|         1.2279|      0.0931|        0.1388|      0.1251| 90.0000|
-|/players/886155/ryan-longman      |           3|         26.8033|           1.2116|        0.5374|         2.1061|      0.1731|        0.0591|      0.1292| 90.0000|
-|/players/807930/regan-slater      |           3|         26.1723|           0.8564|        0.5594|         1.3780|      0.2104|        0.2425|      0.0988| 80.3889|
-|/players/683880/oscar-estupinan   |           5|         18.0460|           0.5318|        0.7169|         1.8835|      0.2819|        0.2649|      0.0597| 79.5143|
-|/players/430429/greg-docherty     |           0|              NA|               NA|        0.0299|         0.1603|      0.0102|        0.0018|      0.0178| 12.1429|
-|/players/709148/lewie-coyle       |           0|              NA|               NA|        0.0000|         0.0418|      0.0004|        0.0000|      0.0184| 10.4857|
-|/players/358936/ozan-tufan        |           0|              NA|               NA|        0.0507|         0.2716|      0.0385|        0.0536|      0.0032|  9.6111|
-|/players/874617/aaron-connolly    |           0|              NA|               NA|        0.1020|         0.2550|      0.0366|        0.0084|      0.0094|  8.6667|
+|/players/683880/oscar-estupinan   |           5|         16.9929|           0.1954|        0.8181|         1.6258|      0.2461|        0.2656|      0.0161| 79.5143|
+|/players/1308370/malcolm-ebiowei  |           5|         28.1470|           1.3450|        0.5387|         2.1495|      0.2760|        0.2057|      0.1629| 90.0000|
+|/players/358936/ozan-tufan        |           3|         32.4662|           1.1400|        0.1488|         1.0257|      0.0784|        0.0701|      0.0694| 72.4375|
+|/players/1096398/xavier-simons    |           3|         25.8499|           2.1459|        0.4762|         0.7815|      0.0704|        0.0629|      0.0623| 65.0000|
+|/players/430429/greg-docherty     |           3|         46.5452|           2.0537|        0.1860|         1.2515|      0.0974|        0.0872|      0.0863| 90.0000|
+|/players/807930/regan-slater      |           3|         30.7053|           0.8941|        0.2381|         0.7815|      0.0870|        0.0779|      0.0771| 80.3889|
+|/players/1079103/jacob-greaves    |           1|         41.7063|           2.3141|        0.0736|         0.5272|      0.0568|        0.0482|      0.0581| 90.0000|
+|/players/864266/sean-mcloughlin   |           1|         43.4942|           1.0850|        0.0922|         0.4532|      0.0380|        0.0065|      0.0375| 90.0000|
+|/players/789598/alfie-jones       |           1|         44.3221|           0.8784|        0.0781|         0.2877|      0.0325|        0.0188|      0.0069| 90.0000|
+|/players/212418/cyrus-christie    |           1|         39.6595|           2.2908|        0.1939|         0.5002|      0.0242|        0.0451|      0.0778| 90.0000|
+|/players/163604/karl-darlow       |           0|         27.5865|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/610270/callum-elder      |           0|              NA|               NA|        0.1188|         0.1423|      0.0143|        0.0181|      0.0068| 25.0000|
+|/players/361326/tobias-figueiredo |           0|              NA|               NA|        0.0000|         0.2087|      0.0304|        0.0000|      0.0019| 17.5625|
+|/players/886155/ryan-longman      |           0|              NA|               NA|        0.0811|         0.3238|      0.0873|        0.0634|      0.0075| 10.4857|
+|/players/709148/lewie-coyle       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0198|  9.6111|
 
 
 |manager_name  | approx_games| m_avg_elo_dif|formation |
 |:-------------|------------:|-------------:|:---------|
 |Liam Rosenior |     24.93838|         -0.06|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3915648/Soccer_Models'...
-Receiving objects:   1% (45/4431),   63 kb
-Receiving objects:  11% (488/4431),  127 kb
-Receiving objects:  21% (931/4431),  183 kb
-Receiving objects:  31% (1374/4431),  351 kb
-Receiving objects:  41% (1817/4431),  856 kb
-Receiving objects:  51% (2260/4431),  968 kb
-Receiving objects:  61% (2703/4431), 1360 kb
-Receiving objects:  71% (3147/4431), 10261 kb
-Receiving objects:  81% (3590/4431), 10525 kb
-Receiving objects:  91% (4033/4431), 10750 kb
-Receiving objects: 100% (4431/4431), 11098 kb, done.
+Receiving objects:   1% (47/4698),   63 kb
+Receiving objects:  11% (517/4698),  127 kb
+Receiving objects:  21% (987/4698),  239 kb
+Receiving objects:  31% (1457/4698),  407 kb
+Receiving objects:  41% (1927/4698),  856 kb
+Receiving objects:  51% (2396/4698), 1080 kb
+Receiving objects:  61% (2866/4698), 5506 kb
+Receiving objects:  71% (3336/4698), 10381 kb
+Receiving objects:  81% (3806/4698), 10662 kb
+Receiving objects:  91% (4276/4698), 10830 kb
+Receiving objects: 100% (4698/4698), 11336 kb, done.
