@@ -1,110 +1,110 @@
-[1] "Updated at 2023-02-24 07:59:08.187"
+[1] "Updated at 2023-02-25 11:31:00.558"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: NEC 1.9756 to FC Volendam 0.8899"
-[1] "Total: 2.8655"
-[1] "NEC %: 63.43"
-[1] "Draw %: 21.25"
-[1] "FC Volendam %: 15.32"
+[1] "Score: NEC 2.0788 to FC Volendam 1.0059"
+[1] "Total: 3.0847"
+[1] "NEC %: 61.99"
+[1] "Draw %: 20.51"
+[1] "FC Volendam %: 17.5"
 [1] "--XG Model--"
-[1] "Score: NEC 1.9448 to FC Volendam 0.8709"
-[1] "Total: 2.8157"
-[1] "NEC %: 63.24"
-[1] "Draw %: 21.1"
-[1] "FC Volendam %: 15.66"
+[1] "Score: NEC 1.9111 to FC Volendam 0.8686"
+[1] "Total: 2.7797"
+[1] "NEC %: 62.41"
+[1] "Draw %: 21.54"
+[1] "FC Volendam %: 16.05"
 [1] "--XGoT Model--"
-[1] "Score: NEC 1.9408 to FC Volendam 0.8494"
-[1] "Total: 2.7902"
-[1] "NEC %: 63.61"
-[1] "Draw %: 21.3"
-[1] "FC Volendam %: 15.09"
+[1] "Score: NEC 1.9474 to FC Volendam 0.8698"
+[1] "Total: 2.8172"
+[1] "NEC %: 63.28"
+[1] "Draw %: 21.07"
+[1] "FC Volendam %: 15.65"
 [1] "--XA Model--"
-[1] "Score: NEC 1.705 to FC Volendam 0.8525"
-[1] "Total: 2.5575"
-[1] "NEC %: 58.09"
-[1] "Draw %: 23.63"
-[1] "FC Volendam %: 18.28"
+[1] "Score: NEC 1.7561 to FC Volendam 0.8547"
+[1] "Total: 2.6108"
+[1] "NEC %: 58.78"
+[1] "Draw %: 23.46"
+[1] "FC Volendam %: 17.76"
 [1] "--Mean 4 Models--"
-[1] "NEC has a mean win % of 62.09%; a min win % of 58.09%; a max win % of 63.61%."
-[1] "Draw has a mean win % of 21.82%; a min win % of 21.1%; a max win % of 23.63%."
-[1] "FC Volendam has a mean win % of 16.09%; a min win % of 15.09%; a max win of % 18.28%."
-[1] "NEC has a mean win of the Double Chance of 83.91%; a min win % of 81.72%, a max win % of 84.91%."
-[1] "FC Volendam has a mean win of the Double Chance of 37.91%; a min win % of 36.39%, a max win % of 41.91%."
-[1] "The mean likelihood that there are more than 2.5 goals is 51.33%; max % is 54.02 and min % is 46.43%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 48.67%; max % is 53.57 and min % is 45.98%."
+[1] "NEC has a mean win % of 61.61%; a min win % of 58.78%; a max win % of 63.28%."
+[1] "Draw has a mean win % of 21.64%; a min win % of 20.51%; a max win % of 23.46%."
+[1] "FC Volendam has a mean win % of 16.74%; a min win % of 15.65%; a max win of % 17.76%."
+[1] "NEC has a mean win of the Double Chance of 83.26%; a min win % of 82.24%, a max win % of 84.35%."
+[1] "FC Volendam has a mean win of the Double Chance of 38.39%; a min win % of 36.72%, a max win % of 41.22%."
+[1] "The mean likelihood that there are more than 2.5 goals is 53.11%; max % is 59.84 and min % is 47.72%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 46.9%; max % is 52.28 and min % is 40.16%."
 [1] "--Sportsbook Odds--"
-[1] "NEC Barstool Odds are: 66.67"
-[1] "The Barstool Odds of a Draw are: 23.26"
-[1] "FC Volendam Barstool Odds are: 16.67"
-[1] "NEC Adjusted Barstool Odds are: 62.542"
-[1] "The Adjusted Barstool Odds of a Draw are: 21.82"
-[1] "FC Volendam Adjusted Barstool Odds are: 15.638"
-[1] "NEC's Barstool Odds to cover the -0.5 spread are: 64.94"
-[1] "FC Volendam's Barstool Odds to cover the 0.5 spread are: 39.22"
-[1] "Barstool's line for the total is 2.5 at 1.64, which is a 60.98% chance of the over 2.5 hitting. The line for the under is 2.25, which is a 44.44% chance of the under 2.5 hitting."
+[1] "NEC Barstool Odds are: 70.42"
+[1] "The Barstool Odds of a Draw are: 22.22"
+[1] "FC Volendam Barstool Odds are: 14.29"
+[1] "NEC Adjusted Barstool Odds are: 65.856"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.78"
+[1] "FC Volendam Adjusted Barstool Odds are: 13.364"
+[1] "NEC's Barstool Odds to cover the -1.25 spread are: 51.81"
+[1] "FC Volendam's Barstool Odds to cover the 1.25 spread are: 53.48"
+[1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5% chance of the over 2.5 hitting. The line for the under is 2.35, which is a 42.55% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                    bet           date_time
-1 under NEC/FC Volendam 2023-02-25 12:00:00
+          bet           date_time
+1 FC Volendam 2023-02-25 12:00:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                             |team        | expected_attg| expected_gs|bet |
 |:------------------------------------|:-----------|-------------:|-----------:|:---|
-|/players/212512/jasper-cillessen     |NEC         |      0.000000|   0.5000000|    |
-|/players/956726/bart-van-rooij       |NEC         |      0.042025|   0.1176471|    |
-|/players/639782/ivan-marquez         |NEC         |      0.106925|   0.0666667|    |
-|/players/773831/philippe-sandler     |NEC         |      0.040450|   0.0769231|    |
-|/players/1079500/souffian-elkarouani |NEC         |      0.066100|   0.1538462|    |
-|/players/39213/lasse-schne           |NEC         |      0.006500|   0.1724138|    |
-|/players/1097467/dirk-proper         |NEC         |      0.084475|   0.1333333|    |
-|/players/983047/elayis-tavsan        |NEC         |      0.226550|   0.3508772|    |
-|/players/360560/oussama-tannane      |NEC         |      0.242700|   0.3636364|    |
-|/players/1282156/ibrahim-cissoko     |NEC         |      0.184225|   0.2564103|    |
-|/players/703044/landry-dimata        |NEC         |      0.340750|   0.4166667|    |
-|/players/1110045/gaetano-oristanio   |FC Volendam |      0.244350|   0.1000000|*   |
-|/players/865037/francesco-antonucci  |FC Volendam |      0.187650|   0.1666667|    |
-|/players/1196739/calvin-twigt        |FC Volendam |      0.016100|   0.1333333|    |
-|/players/775537/carel-eiting         |FC Volendam |      0.017025|   0.1538462|    |
-|/players/277609/daryl-van-mieghem    |FC Volendam |      0.016425|   0.2439024|    |
-|/players/956736/derry-murkin         |FC Volendam |      0.014350|   0.0833333|    |
-|/players/997573/josh-flint           |FC Volendam |      0.010175|   0.0454545|    |
-|/players/1080657/benaissa-benamar    |FC Volendam |      0.046925|   0.0526316|    |
-|/players/979963/xavier-mbuyamba      |FC Volendam |      0.039875|   0.0952381|    |
-|/players/1035648/brian-plat          |FC Volendam |      0.014825|   0.0500000|    |
-|/players/1130600/filip-stankovic     |FC Volendam |      0.000000|   0.2564103|    |
-|/players/622137/calvin-verdonk       |NEC         |      0.061450|   0.0666667|    |
-|/players/1033114/anthony-musaba      |NEC         |      0.156300|   0.3030303|    |
-|/players/875306/magnus-mattsson      |NEC         |      0.000000|   0.3030303|    |
-|/players/727228/pedro-marques        |NEC         |      0.056225|   0.4081633|    |
-|/players/408780/henk-veerman         |FC Volendam |      0.079675|   0.2941176|    |
-|/players/528050/bilal-ould-chikh     |FC Volendam |      0.008350|   0.1666667|    |
-|/players/1294785/walid-ould-chikh    |FC Volendam |      0.042675|   0.0952381|    |
-|/players/1282626/achraf-douiri       |FC Volendam |      0.000000|   0.1111111|    |
+|/players/212512/jasper-cillessen     |NEC         |      0.000000|   0.3773585|    |
+|/players/956726/bart-van-rooij       |NEC         |      0.028525|   0.1176471|    |
+|/players/639782/ivan-marquez         |NEC         |      0.075600|   0.0666667|    |
+|/players/773831/philippe-sandler     |NEC         |      0.026750|   0.0833333|    |
+|/players/1079500/souffian-elkarouani |NEC         |      0.043100|   0.1538462|    |
+|/players/39213/lasse-schne           |NEC         |      0.042750|   0.1818182|    |
+|/players/360560/oussama-tannane      |NEC         |      0.258725|   0.3773585|    |
+|/players/1097467/dirk-proper         |NEC         |      0.048900|   0.1428571|    |
+|/players/983047/elayis-tavsan        |NEC         |      0.218725|   0.3636364|    |
+|/players/703044/landry-dimata        |NEC         |      0.375550|   0.4444444|    |
+|/players/875306/magnus-mattsson      |NEC         |      0.252125|   0.3225806|    |
+|/players/865037/francesco-antonucci  |FC Volendam |      0.113700|   0.1538462|    |
+|/players/1110045/gaetano-oristanio   |FC Volendam |      0.130950|   0.1000000|    |
+|/players/277609/daryl-van-mieghem    |FC Volendam |      0.159175|   0.2272727|    |
+|/players/1196739/calvin-twigt        |FC Volendam |      0.046400|   0.1250000|    |
+|/players/775537/carel-eiting         |FC Volendam |      0.045525|   0.1428571|    |
+|/players/1080657/benaissa-benamar    |FC Volendam |      0.096350|   0.0476190|    |
+|/players/1180694/dean-james          |FC Volendam |      0.011550|   0.1785714|    |
+|/players/997573/josh-flint           |FC Volendam |      0.015625|   0.0400000|    |
+|/players/979963/xavier-mbuyamba      |FC Volendam |      0.048925|   0.0909091|    |
+|/players/1035648/brian-plat          |FC Volendam |      0.019525|   0.0454545|    |
+|/players/1130600/filip-stankovic     |FC Volendam |      0.000000|   0.2631579|    |
+|/players/622137/calvin-verdonk       |NEC         |      0.044475|   0.0000000|    |
+|/players/1033114/anthony-musaba      |NEC         |      0.097975|   0.0000000|*   |
+|/players/727228/pedro-marques        |NEC         |      0.054875|   0.0000000|*   |
+|/players/1282156/ibrahim-cissoko     |NEC         |      0.047225|   0.0000000|    |
+|/players/408780/henk-veerman         |FC Volendam |      0.081450|   0.0000000|*   |
+|/players/1294785/walid-ould-chikh    |FC Volendam |      0.032725|   0.0000000|    |
+|/players/1282626/achraf-douiri       |FC Volendam |      0.000000|   0.0000000|    |
+|/players/1112136/ibrahim-el-kadiri   |FC Volendam |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about NEC:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/212512/jasper-cillessen     |           0|         25.6230|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/956726/bart-van-rooij       |           1|         49.5795|           2.5630|        0.1158|         0.5581|      0.0682|        0.0440|      0.1021| 90.0000|
-|/players/639782/ivan-marquez         |           1|         61.5418|           0.8377|        0.3189|         0.9653|      0.1216|        0.1266|      0.0123| 90.0000|
-|/players/773831/philippe-sandler     |           1|         72.0278|           1.1711|        0.1158|         0.5710|      0.0216|        0.0440|      0.1056| 90.0000|
-|/players/1079500/souffian-elkarouani |           1|         46.4487|           2.0506|        0.3353|         0.7836|      0.0586|        0.0726|      0.1005| 90.0000|
-|/players/39213/lasse-schne           |           2|         79.5039|           1.7729|        0.1878|         1.3484|      0.0664|        0.0068|      0.2185| 90.0000|
-|/players/1097467/dirk-proper         |           2|         44.3666|           2.5863|        0.3326|         0.7962|      0.0661|        0.0922|      0.0205| 82.7143|
-|/players/983047/elayis-tavsan        |           3|         27.1548|           1.0651|        0.8919|         2.4469|      0.3513|        0.2822|      0.0459| 90.0000|
-|/players/360560/oussama-tannane      |           3|         49.6259|           1.4088|        0.9143|         3.2704|      0.3671|        0.2803|      0.4831| 84.8077|
-|/players/1282156/ibrahim-cissoko     |           3|         24.2408|           0.8403|        0.7036|         0.8857|      0.1101|        0.2226|      0.0487| 71.0000|
-|/players/703044/landry-dimata        |           5|         17.5362|           0.4711|        1.2727|         2.7484|      0.4233|        0.4430|      0.0956| 75.2105|
-|/players/622137/calvin-verdonk       |          NA|              NA|               NA|        0.2543|         0.2514|      0.0451|        0.0713|      0.0442| 19.0000|
-|/players/1033114/anthony-musaba      |          NA|              NA|               NA|        0.5204|         1.0290|      0.1480|        0.1808|      0.0201| 14.7895|
-|/players/875306/magnus-mattsson      |          NA|              NA|               NA|        0.0000|         0.4965|      0.0249|        0.0000|      0.0206|  7.2857|
-|/players/727228/pedro-marques        |          NA|              NA|               NA|        0.3506|         0.6355|      0.1334|        0.0648|      0.0013|  5.1923|
+|/players/212512/jasper-cillessen     |           0|         27.0279|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/956726/bart-van-rooij       |           1|         49.1321|           2.5884|        0.1036|         0.5377|      0.0614|        0.0288|      0.1154| 90.0000|
+|/players/639782/ivan-marquez         |           1|         60.9865|           0.8460|        0.2854|         0.9301|      0.1095|        0.0830|      0.0139| 90.0000|
+|/players/773831/philippe-sandler     |           1|         71.3778|           1.1827|        0.1036|         0.5502|      0.0194|        0.0288|      0.1194| 90.0000|
+|/players/1079500/souffian-elkarouani |           1|         46.0296|           2.0709|        0.3000|         0.7550|      0.0527|        0.0476|      0.1137| 90.0000|
+|/players/39213/lasse-schne           |           3|         59.3151|           1.9799|        0.2165|         0.8601|      0.0601|        0.0497|      0.1149| 90.0000|
+|/players/360560/oussama-tannane      |           3|         43.7423|           1.1920|        1.1896|         3.0287|      0.2402|        0.3158|      0.2515| 84.8077|
+|/players/1097467/dirk-proper         |           3|         42.6315|           2.3925|        0.0525|         0.3454|      0.1019|        0.0529|      0.0371| 79.7895|
+|/players/983047/elayis-tavsan        |           5|         30.0143|           1.0200|        1.0384|         2.8698|      0.2575|        0.2639|      0.3311| 85.0909|
+|/players/703044/landry-dimata        |           5|         12.2420|           0.4973|        0.7815|         1.9611|      0.4128|        0.4968|      0.0743| 75.2105|
+|/players/875306/magnus-mattsson      |           5|         38.0950|           1.7745|        1.3730|         2.9547|      0.3652|        0.2970|      0.1142| 90.0000|
+|/players/622137/calvin-verdonk       |           0|              NA|               NA|        0.2158|         0.2361|      0.0300|        0.0500|      0.0393| 14.7895|
+|/players/1033114/anthony-musaba      |           0|              NA|               NA|        0.3918|         0.8573|      0.0873|        0.1124|      0.0159| 10.2105|
+|/players/727228/pedro-marques        |           0|              NA|               NA|        0.3823|         0.7668|      0.1140|        0.0583|      0.0015|  5.1923|
+|/players/1282156/ibrahim-cissoko     |           0|              NA|               NA|        0.2002|         0.5842|      0.0601|        0.0528|      0.0280|  4.9091|
 
 
 |manager_name  | approx_games| m_avg_elo_dif|formation |
@@ -113,40 +113,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about FC Volendam:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/1110045/gaetano-oristanio  |           5|         15.6868|           0.5607|        0.6699|         1.5418|      0.2953|        0.3237|      0.0667| 72.1667|
-|/players/865037/francesco-antonucci |           3|         32.1481|           0.8990|        0.8095|         2.1904|      0.1020|        0.2500|      0.0561| 77.3077|
-|/players/1196739/calvin-twigt       |           3|         25.5528|           2.6295|        0.1132|         0.0659|      0.0634|        0.0167|      0.0056| 73.5000|
-|/players/775537/carel-eiting        |           3|         32.5457|           2.3709|        0.1386|         0.5106|      0.0776|        0.0205|      0.2103| 90.0000|
-|/players/277609/daryl-van-mieghem   |           3|         23.0962|           0.6801|        0.2916|         1.2274|      0.0776|        0.0205|      0.0110| 90.0000|
-|/players/956736/derry-murkin        |           1|         34.6565|           2.3462|        0.1777|         1.0939|      0.0388|        0.0178|      0.0983| 90.0000|
-|/players/997573/josh-flint          |           1|         24.5693|           1.3897|        0.0826|         0.1271|      0.0237|        0.0144|      0.0220| 72.6250|
-|/players/1080657/benaissa-benamar   |           1|         37.0991|           0.8010|        0.1031|         0.3174|      0.0635|        0.0567|      0.0206| 90.0000|
-|/players/979963/xavier-mbuyamba     |           1|         29.9105|           1.9241|        0.0826|         0.2542|      0.0293|        0.0467|      0.0986| 90.0000|
-|/players/1035648/brian-plat         |           1|         36.6162|           2.3660|        0.1344|         0.6205|      0.0425|        0.0178|      0.0113| 90.0000|
-|/players/1130600/filip-stankovic    |           0|         30.5352|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/408780/henk-veerman        |          NA|              NA|               NA|        0.1445|         0.2720|      0.1109|        0.0944|      0.0198| 17.8333|
-|/players/528050/bilal-ould-chikh    |          NA|              NA|               NA|        0.1577|         0.3711|      0.0160|        0.0109|      0.0108| 17.3750|
-|/players/1294785/walid-ould-chikh   |          NA|              NA|               NA|        0.1357|         0.4260|      0.0390|        0.0488|      0.0054| 16.5000|
-|/players/1282626/achraf-douiri      |          NA|              NA|               NA|        0.1267|         0.2650|      0.0070|        0.0000|      0.0061| 12.6923|
+|/players/865037/francesco-antonucci |           5|         19.8994|           0.6572|        0.3490|         1.0691|      0.1343|        0.1374|      0.0636| 63.0000|
+|/players/1110045/gaetano-oristanio  |           5|         10.6130|           0.7528|        0.3997|         1.0691|      0.1538|        0.1574|      0.0728| 72.1667|
+|/players/277609/daryl-van-mieghem   |           5|         23.2459|           1.6047|        0.9203|         2.2790|      0.1919|        0.1963|      0.0908| 90.0000|
+|/players/1196739/calvin-twigt       |           3|         34.3359|           2.8317|        0.2419|         0.2816|      0.0542|        0.0528|      0.0058| 90.0000|
+|/players/775537/carel-eiting        |           3|         35.7148|           2.0851|        0.2419|         1.7814|      0.0542|        0.0528|      0.1778| 90.0000|
+|/players/1080657/benaissa-benamar   |           3|         40.6379|           1.3973|        0.3566|         0.7504|      0.1284|        0.1153|      0.0353| 90.0000|
+|/players/1180694/dean-james         |           1|         30.0604|           1.3320|        0.0768|         0.3818|      0.0236|        0.0167|      0.0136| 70.1111|
+|/players/997573/josh-flint          |           1|         30.5485|           1.1132|        0.0864|         0.1227|      0.0245|        0.0173|      0.0242| 72.6250|
+|/players/979963/xavier-mbuyamba     |           1|         37.1895|           1.5414|        0.0864|         0.2454|      0.0303|        0.0564|      0.1086| 90.0000|
+|/players/1035648/brian-plat         |           1|         45.5271|           1.8954|        0.1405|         0.5992|      0.0439|        0.0215|      0.0125| 90.0000|
+|/players/1130600/filip-stankovic    |           0|         28.7135|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/408780/henk-veerman        |           0|              NA|               NA|        0.1799|         0.3198|      0.0869|        0.0959|      0.0204| 27.0000|
+|/players/1294785/walid-ould-chikh   |           0|              NA|               NA|        0.1345|         0.3986|      0.0243|        0.0395|      0.0044| 19.8889|
+|/players/1282626/achraf-douiri      |           0|              NA|               NA|        0.1464|         0.2891|      0.0051|        0.0000|      0.0058| 17.8333|
+|/players/1112136/ibrahim-el-kadiri  |           0|              NA|               NA|        0.1730|         0.4102|      0.0292|        0.0000|      0.0092| 17.3750|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Wim Jonk     |     21.93434|     -13.39227|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3900543/Soccer_Models'...
-Receiving objects:   1% (46/4572),   63 kb
-Receiving objects:  11% (503/4572),  127 kb
-Receiving objects:  21% (961/4572),  183 kb
-Receiving objects:  31% (1418/4572),  407 kb
-Receiving objects:  41% (1875/4572),  856 kb
-Receiving objects:  51% (2332/4572), 1024 kb
-Receiving objects:  61% (2789/4572), 1416 kb
-Receiving objects:  71% (3247/4572), 10317 kb
-Receiving objects:  81% (3704/4572), 10597 kb
-Receiving objects:  91% (4161/4572), 10766 kb
-Receiving objects: 100% (4572/4572), 11213 kb, done.
+Receiving objects:   1% (48/4758),   63 kb
+Receiving objects:  11% (524/4758),  127 kb
+Receiving objects:  21% (1000/4758),  239 kb
+Receiving objects:  31% (1475/4758),  463 kb
+Receiving objects:  41% (1951/4758),  856 kb
+Receiving objects:  51% (2427/4758), 1080 kb
+Receiving objects:  61% (2903/4758), 5787 kb
+Receiving objects:  71% (3379/4758), 10381 kb
+Receiving objects:  81% (3854/4758), 10718 kb
+Receiving objects:  91% (4330/4758), 10830 kb
+Receiving objects: 100% (4758/4758), 11389 kb, done.
