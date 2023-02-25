@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-25 10:35:46.806"
+[1] "Updated at 2023-02-25 11:47:34.445"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -40,13 +40,27 @@
 [1] "Athletic Bilbao Adjusted Barstool Odds are: 55.955"
 [1] "The Adjusted Barstool Odds of a Draw are: 26.427"
 [1] "Girona FC Adjusted Barstool Odds are: 17.618"
-[1] "Athletic Bilbao's Barstool Odds to cover the -0.75 spread are: 53.19"
-[1] "Girona FC's Barstool Odds to cover the 0.75 spread are: 52.08"
+[1] "Athletic Bilbao's Barstool Odds to cover the -0.5 spread are: 58.14"
+[1] "Girona FC's Barstool Odds to cover the 0.5 spread are: 46.08"
 [1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
         bet           date_time
 1 Girona FC 2023-02-26 05:00:00
+
+
+|player               |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:--------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Raul Garcia          |ATH  |     26| 1.85|          NA|  0.9997|   0.4592|passes    |ESP Spain |      0.5405|         NA|        NA|         NA|       NA|
+|Raul Garcia          |ATH  |     34| 2.76|          NA|  0.9805|   0.6182|passes    |ESP Spain |      0.3623|         NA|        NA|         NA|       NA|
+|Raul Garcia          |ATH  |     30| 2.30|          NA|  0.9967|   0.5619|passes    |ESP Spain |      0.4348|         NA|        NA|         NA|       NA|
+|Raul Garcia          |ATH  |     38| 3.55|          NA|  0.9241|   0.6424|passes    |ESP Spain |      0.2817|         NA|        NA|         NA|       NA|
+|Raul Garcia          |ATH  |     42| 4.90|          NA|  0.7948|   0.5907|passes    |ESP Spain |      0.2041|         NA|        NA|         NA|       NA|
+|Raul Garcia          |ATH  |     22| 1.51|          NA|  1.0000|   0.3377|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
+|Ivan Martin          |GIR  |     33| 1.88|          NA|  0.6977|   0.1658|passes    |ESP Spain |      0.5319|         NA|        NA|         NA|       NA|
+|Ivan Martin          |GIR  |     29| 1.53|          NA|  0.8872|   0.2336|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
+|Valentin Castellanos |GIR  |     13| 1.87|          NA|  0.8328|   0.2980|passes    |ESP Spain |      0.5348|         NA|        NA|         NA|       NA|
+|Valentin Castellanos |GIR  |      9| 1.53|          NA|  0.9804|   0.3268|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -77,7 +91,7 @@
 |/players/33871/raul-garcia           |Athletic Bilbao |      0.149850|   0.3636364|    |
 |/players/1106916/oier-zarraga        |Athletic Bilbao |      0.031300|   0.1851852|    |
 |/players/1007717/unai-vencedor       |Athletic Bilbao |      0.019325|   0.1666667|    |
-|/players/164676/ander-herrera        |Athletic Bilbao |      0.000000|   0.0833333|    |
+|/players/164676/ander-herrera        |Athletic Bilbao |      0.000000|   0.0909091|    |
 |/players/639384/toni-villa           |Girona FC       |      0.024850|   0.1538462|    |
 |/players/1075046/reinier             |Girona FC       |      0.000000|   0.1724138|    |
 |/players/58294/cristhian-stuani      |Girona FC       |      0.057900|   0.3030303|    |
@@ -139,14 +153,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Michel       |     36.91717|      1.227241|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918160/Soccer_Models'...
-Receiving objects:   1% (48/4731),   63 kb
-Receiving objects:  11% (521/4731),  127 kb
-Receiving objects:  21% (994/4731),  239 kb
-Receiving objects:  31% (1467/4731),  407 kb
-Receiving objects:  41% (1940/4731),  856 kb
-Receiving objects:  51% (2413/4731), 1080 kb
-Receiving objects:  61% (2886/4731), 5787 kb
-Receiving objects:  71% (3360/4731), 10381 kb
-Receiving objects:  81% (3833/4731), 10718 kb
-Receiving objects:  91% (4306/4731), 10830 kb
-Receiving objects: 100% (4731/4731), 11359 kb, done.
+Receiving objects:   1% (48/4764),   63 kb
+Receiving objects:  11% (525/4764),  127 kb
+Receiving objects:  21% (1001/4764),  239 kb
+Receiving objects:  31% (1477/4764),  463 kb
+Receiving objects:  41% (1954/4764),  856 kb
+Receiving objects:  51% (2430/4764), 1080 kb
+Receiving objects:  61% (2907/4764), 5787 kb
+Receiving objects:  71% (3383/4764), 10389 kb
+Receiving objects:  81% (3859/4764), 10726 kb
+Receiving objects:  91% (4336/4764), 10838 kb
+Receiving objects: 100% (4764/4764), 11395 kb, done.
