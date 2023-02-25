@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-25 10:22:49.803"
+[1] "Updated at 2023-02-25 11:52:13.435"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -35,31 +35,36 @@
 [1] "The mean likelihood that there are fewer than 2.5 goals is 58.56%; max % is 61.86 and min % is 54.72%."
 [1] "--Sportsbook Odds--"
 [1] "Almeria Barstool Odds are: 14.81"
-[1] "The Barstool Odds of a Draw are: 21.05"
-[1] "Barcelona Barstool Odds are: 69.44"
-[1] "Almeria Adjusted Barstool Odds are: 14.065"
-[1] "The Adjusted Barstool Odds of a Draw are: 19.991"
-[1] "Barcelona Adjusted Barstool Odds are: 65.945"
-[1] "Almeria's Barstool Odds to cover the 1.25 spread are: 54.64"
-[1] "Barcelona's Barstool Odds to cover the -1.25 spread are: 50.51"
-[1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5% chance of the over 2.5 hitting. The line for the under is 2.35, which is a 42.55% chance of the under 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Barcelona Barstool Odds are: 69.23"
+[1] "Almeria Adjusted Barstool Odds are: 14.001"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.552"
+[1] "Barcelona Adjusted Barstool Odds are: 65.447"
+[1] "Almeria's Barstool Odds to cover the 0.5 spread are: 36.36"
+[1] "Barcelona's Barstool Odds to cover the -0.5 spread are: 68.03"
+[1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11% chance of the over 2.5 hitting. The line for the under is 2.32, which is a 43.1% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                       bet           date_time
 1 under Almeria/Barcelona 2023-02-26 09:30:00
+
+
+|player            |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:-----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Houboulang Mendes |ALM  |     17| 1.53|          NA|  0.7554|   0.1018|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                              |team      | expected_attg| expected_gs|bet |
 |:-------------------------------------|:---------|-------------:|-----------:|:---|
 |/players/477589/fernando-martinez     |Almeria   |      0.000000|   0.1052632|    |
-|/players/764841/houboulang-mendes     |Almeria   |      0.028975|   0.0270270|    |
-|/players/244963/rodrigo-ely           |Almeria   |      0.004225|   0.0833333|    |
-|/players/540967/srdjan-babic          |Almeria   |      0.051575|   0.0666667|    |
-|/players/713924/sergio-akieme         |Almeria   |      0.012975|   0.0526316|    |
-|/players/318650/csar-de-la-hoz        |Almeria   |      0.005525|   0.0909091|    |
+|/players/764841/houboulang-mendes     |Almeria   |      0.028975|   0.0263158|    |
+|/players/244963/rodrigo-ely           |Almeria   |      0.004225|   0.0769231|    |
+|/players/540967/srdjan-babic          |Almeria   |      0.051575|   0.0625000|    |
+|/players/713924/sergio-akieme         |Almeria   |      0.012975|   0.0500000|    |
+|/players/318650/csar-de-la-hoz        |Almeria   |      0.005525|   0.0833333|    |
 |/players/1130583/samu                 |Almeria   |      0.030125|   0.2500000|    |
-|/players/358127/leo-baptistao         |Almeria   |      0.106025|   0.2941176|    |
+|/players/358127/leo-baptistao         |Almeria   |      0.106025|   0.2857143|    |
 |/players/787440/lucas-robertone       |Almeria   |      0.017050|   0.1428571|    |
 |/players/482331/adrin-embarba         |Almeria   |      0.034725|   0.1666667|    |
 |/players/792303/luis-surez            |Almeria   |      0.180875|   0.3125000|    |
@@ -74,7 +79,7 @@
 |/players/449232/andreas-christensen   |Barcelona |      0.013650|   0.0952381|    |
 |/players/705450/jules-kound           |Barcelona |      0.026450|   0.1111111|    |
 |/players/184554/marc-andre-ter-stegen |Barcelona |      0.000000|   0.0370370|    |
-|/players/1054114/el-bilal-tour        |Almeria   |      0.011950|   0.2777778|    |
+|/players/1054114/el-bilal-tour        |Almeria   |      0.011950|   0.2702703|    |
 |/players/617220/gonzalo-melero        |Almeria   |      0.016975|   0.1538462|    |
 |/players/193226/francisco-portillo    |Almeria   |      0.000000|   0.2000000|    |
 |/players/785855/alejandro-pozo        |Almeria   |      0.000000|   0.0588235|    |
@@ -139,14 +144,14 @@ ____________________________________________________
 |:--------------|------------:|-------------:|:---------|
 |Xavi Hernandez |     62.88889|       15.0475|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918164/Soccer_Models'...
-Receiving objects:   1% (48/4728),   63 kb
-Receiving objects:  11% (521/4728),  127 kb
-Receiving objects:  21% (993/4728),  239 kb
-Receiving objects:  31% (1466/4728),  407 kb
-Receiving objects:  41% (1939/4728),  856 kb
-Receiving objects:  51% (2412/4728), 1080 kb
-Receiving objects:  61% (2885/4728), 5787 kb
-Receiving objects:  71% (3357/4728), 10381 kb
-Receiving objects:  81% (3830/4728), 10686 kb
-Receiving objects:  91% (4303/4728), 10854 kb
-Receiving objects: 100% (4728/4728), 11356 kb, done.
+Receiving objects:   1% (48/4770),   63 kb
+Receiving objects:  11% (525/4770),  127 kb
+Receiving objects:  21% (1002/4770),  239 kb
+Receiving objects:  31% (1479/4770),  463 kb
+Receiving objects:  41% (1956/4770),  856 kb
+Receiving objects:  51% (2433/4770), 1080 kb
+Receiving objects:  61% (2910/4770), 5787 kb
+Receiving objects:  71% (3387/4770), 10437 kb
+Receiving objects:  81% (3864/4770), 10718 kb
+Receiving objects:  91% (4341/4770), 10830 kb
+Receiving objects: 100% (4770/4770), 11397 kb, done.
