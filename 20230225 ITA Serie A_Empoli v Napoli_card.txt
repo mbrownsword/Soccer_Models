@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-23 14:47:06.835"
+[1] "Updated at 2023-02-25 08:20:00.780"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Empoli 0.6906 to Napoli 1.5903"
-[1] "Total: 2.2809"
-[1] "Empoli %: 16.13"
-[1] "Draw %: 25.19"
-[1] "Napoli %: 58.68"
+[1] "Score: Empoli 0.6292 to Napoli 1.6511"
+[1] "Total: 2.2803"
+[1] "Empoli %: 13.78"
+[1] "Draw %: 24.09"
+[1] "Napoli %: 62.13"
 [1] "--XG Model--"
-[1] "Score: Empoli 0.3893 to Napoli 1.7814"
-[1] "Total: 2.1707"
-[1] "Empoli %: 7.25"
-[1] "Draw %: 20.93"
-[1] "Napoli %: 71.82"
+[1] "Score: Empoli 0.3323 to Napoli 1.8152"
+[1] "Total: 2.1475"
+[1] "Empoli %: 5.73"
+[1] "Draw %: 19.86"
+[1] "Napoli %: 74.41"
 [1] "--XGoT Model--"
-[1] "Score: Empoli 0.4545 to Napoli 1.6251"
-[1] "Total: 2.0796"
-[1] "Empoli %: 9.77"
-[1] "Draw %: 23.78"
-[1] "Napoli %: 66.45"
+[1] "Score: Empoli 0.4001 to Napoli 1.6616"
+[1] "Total: 2.0617"
+[1] "Empoli %: 7.97"
+[1] "Draw %: 23.04"
+[1] "Napoli %: 68.99"
 [1] "--XA Model--"
-[1] "Score: Empoli 0.535 to Napoli 2.0341"
-[1] "Total: 2.5691"
-[1] "Empoli %: 8.99"
-[1] "Draw %: 18.28"
-[1] "Napoli %: 72.73"
+[1] "Score: Empoli 0.5171 to Napoli 2.0971"
+[1] "Total: 2.6142"
+[1] "Empoli %: 8.22"
+[1] "Draw %: 17.97"
+[1] "Napoli %: 73.81"
 [1] "--Mean 4 Models--"
-[1] "Empoli has a mean win % of 10.54%; a min win % of 7.25%; a max win % of 16.13%."
-[1] "Draw has a mean win % of 22.05%; a min win % of 18.28%; a max win % of 25.19%."
-[1] "Napoli has a mean win % of 67.42%; a min win % of 58.68%; a max win of % 72.73%."
-[1] "Empoli has a mean win of the Double Chance of 32.58%; a min win % of 27.27%, a max win % of 41.32%."
-[1] "Napoli has a mean win of the Double Chance of 89.46%; a min win % of 83.87%, a max win % of 92.75%."
-[1] "The mean likelihood that there are more than 2.5 goals is 39.38%; max % is 47.31 and min % is 34.13%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 60.62%; max % is 65.87 and min % is 52.69%."
+[1] "Empoli has a mean win % of 8.92%; a min win % of 5.73%; a max win % of 13.78%."
+[1] "Draw has a mean win % of 21.24%; a min win % of 17.97%; a max win % of 24.09%."
+[1] "Napoli has a mean win % of 69.84%; a min win % of 62.13%; a max win of % 74.41%."
+[1] "Empoli has a mean win of the Double Chance of 30.17%; a min win % of 25.59%, a max win % of 37.87%."
+[1] "Napoli has a mean win of the Double Chance of 91.07%; a min win % of 86.22%, a max win % of 94.27%."
+[1] "The mean likelihood that there are more than 2.5 goals is 39.16%; max % is 47.8 and min % is 33.82%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 60.84%; max % is 66.18 and min % is 52.2%."
 [1] "--Sportsbook Odds--"
-[1] "Empoli Barstool Odds are: 14.81"
+[1] "Empoli Barstool Odds are: 14.29"
 [1] "The Barstool Odds of a Draw are: 21.74"
-[1] "Napoli Barstool Odds are: 69.23"
-[1] "Empoli Adjusted Barstool Odds are: 14.001"
-[1] "The Adjusted Barstool Odds of a Draw are: 20.552"
-[1] "Napoli Adjusted Barstool Odds are: 65.447"
-[1] "Empoli's Barstool Odds to cover the 0.5 spread are: 37.04"
-[1] "Napoli's Barstool Odds to cover the -0.5 spread are: 67.57"
-[1] "Barstool's line for the total is 2.5 at 1.68, which is a 59.52% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "Napoli Barstool Odds are: 69.44"
+[1] "Empoli Adjusted Barstool Odds are: 13.549"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.612"
+[1] "Napoli Adjusted Barstool Odds are: 65.839"
+[1] "Empoli's Barstool Odds to cover the 0.5 spread are: 35.71"
+[1] "Napoli's Barstool Odds to cover the -0.5 spread are: 68.49"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82% chance of the over 2.5 hitting. The line for the under is 2.16, which is a 46.3% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                   bet           date_time
@@ -53,58 +53,58 @@
 |pageUrl2                                   |team   | expected_attg| expected_gs|bet |
 |:------------------------------------------|:------|-------------:|-----------:|:---|
 |/players/538501/guglielmo-vicario          |Empoli |      0.000000|   0.3030303|    |
-|/players/750880/ardian-ismajili            |Empoli |      0.000025|   0.0416667|    |
-|/players/604330/sebastiano-luperto         |Empoli |      0.000000|   0.0416667|    |
-|/players/1093285/fabiano-parisi            |Empoli |      0.000175|   0.0909091|    |
-|/players/311016/petar-stojanovic           |Empoli |      0.000125|   0.0416667|    |
-|/players/570830/nicolas-haas               |Empoli |      0.071375|   0.1000000|    |
-|/players/469939/liam-henderson             |Empoli |      0.036200|   0.1111111|    |
-|/players/574844/razvan-marin               |Empoli |      0.047625|   0.1176471|    |
-|/players/575364/alberto-grassi             |Empoli |      0.163550|   0.0769231|*   |
-|/players/1197039/martin-satriano           |Empoli |      0.045925|   0.2040816|    |
-|/players/155254/francesco-caputo           |Empoli |      0.075100|   0.2631579|    |
+|/players/561844/tyronne-ebuehi             |Empoli |      0.000050|   0.0400000|    |
+|/players/750880/ardian-ismajili            |Empoli |      0.000075|   0.0400000|    |
+|/players/604330/sebastiano-luperto         |Empoli |      0.000000|   0.0400000|    |
+|/players/1093285/fabiano-parisi            |Empoli |      0.000125|   0.0833333|    |
+|/players/574844/razvan-marin               |Empoli |      0.046300|   0.1176471|    |
+|/players/469939/liam-henderson             |Empoli |      0.037650|   0.1052632|    |
+|/players/570830/nicolas-haas               |Empoli |      0.080950|   0.0952381|    |
+|/players/1200591/tommaso-baldanzi          |Empoli |      0.120775|   0.2272727|    |
+|/players/1197039/martin-satriano           |Empoli |      0.075750|   0.1960784|    |
+|/players/1017401/roberto-piccoli           |Empoli |      0.033825|   0.1960784|    |
+|/players/900433/khvicha-kvaratskhelia      |Napoli |      0.265625|   0.4761905|    |
+|/players/687681/victor-osimhen             |Napoli |      0.394800|   0.5652174|    |
+|/players/521210/hirving-lozano             |Napoli |      0.128200|   0.4166667|    |
+|/players/362212/piotr-zielinski            |Napoli |      0.289525|   0.3921569|    |
+|/players/308517/stanislav-lobotka          |Napoli |      0.030675|   0.1428571|    |
+|/players/612863/andre-frank-zambo-anguissa |Napoli |      0.078575|   0.2040816|    |
+|/players/282731/mario-rui                  |Napoli |      0.026750|   0.0526316|    |
+|/players/828159/min-jae-kim                |Napoli |      0.010325|   0.4651163|    |
+|/players/544693/amir-rrahmani              |Napoli |      0.076450|   0.1428571|    |
+|/players/414906/giovanni-di-lorenzo        |Napoli |      0.070650|   0.1176471|    |
 |/players/577912/alex-meret                 |Napoli |      0.000000|   0.0217391|    |
-|/players/198099/bartosz-bereszynski        |Napoli |      0.011225|   0.0833333|    |
-|/players/544693/amir-rrahmani              |Napoli |      0.075975|   0.1428571|    |
-|/players/282731/mario-rui                  |Napoli |      0.024300|   0.0526316|    |
-|/players/414906/giovanni-di-lorenzo        |Napoli |      0.062625|   0.1176471|    |
-|/players/612863/andre-frank-zambo-anguissa |Napoli |      0.079350|   0.2040816|    |
-|/players/308517/stanislav-lobotka          |Napoli |      0.030850|   0.1428571|    |
-|/players/362212/piotr-zielinski            |Napoli |      0.290650|   0.3921569|    |
-|/players/900433/khvicha-kvaratskhelia      |Napoli |      0.238600|   0.4761905|    |
-|/players/469615/giovanni-simeone           |Napoli |      0.203150|   0.5000000|    |
-|/players/687681/victor-osimhen             |Napoli |      0.357475|   0.5652174|    |
-|/players/814138/emanuel-vignato            |Empoli |      0.000400|   0.1333333|    |
-|/players/307235/marko-pjaca                |Empoli |      0.023800|   0.1694915|    |
-|/players/1017401/roberto-piccoli           |Empoli |      0.002200|   0.2040816|    |
-|/players/561844/tyronne-ebuehi             |Empoli |      0.000000|   0.0416667|    |
-|/players/741049/eljif-elmas                |Napoli |      0.016150|   0.3333333|    |
-|/players/415539/matteo-politano            |Napoli |      0.025000|   0.3508772|    |
-|/players/773189/tanguy-ndomblé             |Napoli |      0.005525|   0.2439024|    |
-|/players/521210/hirving-lozano             |Napoli |      0.038000|   0.4166667|    |
+|/players/814138/emanuel-vignato            |Empoli |      0.003075|   0.0000000|    |
+|/players/307235/marko-pjaca                |Empoli |      0.020800|   0.0000000|    |
+|/players/155254/francesco-caputo           |Empoli |      0.004575|   0.0000000|    |
+|/players/919671/liberato-cacace            |Empoli |      0.002000|   0.0000000|    |
+|/players/741049/eljif-elmas                |Napoli |      0.026375|   0.0000000|    |
+|/players/415539/matteo-politano            |Napoli |      0.030800|   0.0000000|    |
+|/players/773189/tanguy-ndomblé             |Napoli |      0.016625|   0.0000000|    |
+|/players/469615/giovanni-simeone           |Napoli |      0.042850|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Empoli:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/538501/guglielmo-vicario  |           0|         32.3593|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/750880/ardian-ismajili    |           1|         30.1929|           1.0612|        0.0359|         0.2358|      0.0036|        0.0000|      0.0047| 90.0000|
-|/players/604330/sebastiano-luperto |           1|         29.9553|           0.9432|        0.0376|         0.1765|      0.0031|        0.0000|      0.0041| 90.0000|
-|/players/1093285/fabiano-parisi    |           1|         30.2534|           1.3549|        0.0658|         0.4768|      0.0091|        0.0002|      0.0170| 90.0000|
-|/players/311016/petar-stojanovic   |           1|         30.9592|           2.0472|        0.0463|         0.2259|      0.0036|        0.0001|      0.0386| 90.0000|
-|/players/570830/nicolas-haas       |           2|         27.9748|           4.0679|        0.0462|         0.6267|      0.0657|        0.0754|      0.0138| 81.7083|
-|/players/469939/liam-henderson     |           2|         26.0281|           0.7613|        0.0822|         0.7118|      0.0760|        0.0402|      0.0239| 75.2778|
-|/players/574844/razvan-marin       |           2|         37.7139|           2.8983|        0.0587|         0.5597|      0.0298|        0.0519|      0.0620| 90.0000|
-|/players/575364/alberto-grassi     |           3|         22.9396|           1.6970|        0.6489|         1.3271|      0.1969|        0.1838|      0.0695| 75.8889|
-|/players/1197039/martin-satriano   |           5|         15.5148|           0.6281|        0.3822|         1.3806|      0.0826|        0.0528|      0.0539| 79.7333|
-|/players/155254/francesco-caputo   |           5|         17.6185|           0.1052|        0.5763|         1.2866|      0.0868|        0.0789|      0.0838| 90.0000|
-|/players/814138/emanuel-vignato    |           0|              NA|               NA|        0.0212|         0.0589|      0.0029|        0.0007|      0.0142| 14.7222|
-|/players/307235/marko-pjaca        |           0|              NA|               NA|        0.0725|         0.1512|      0.0096|        0.0244|      0.0058| 14.1111|
-|/players/1017401/roberto-piccoli   |           0|              NA|               NA|        0.0236|         0.1640|      0.0124|        0.0023|      0.0003| 10.2667|
-|/players/561844/tyronne-ebuehi     |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0008|  8.2917|
+|/players/538501/guglielmo-vicario  |           0|         32.1536|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/561844/tyronne-ebuehi     |           1|         26.2892|           1.2371|        0.0485|         0.2653|      0.0068|        0.0001|      0.0216| 90.0000|
+|/players/750880/ardian-ismajili    |           1|         31.4950|           1.3171|        0.0350|         0.2235|      0.0028|        0.0001|      0.0077| 90.0000|
+|/players/604330/sebastiano-luperto |           1|         31.2472|           1.1707|        0.0367|         0.1673|      0.0025|        0.0000|      0.0068| 90.0000|
+|/players/1093285/fabiano-parisi    |           1|         31.5581|           1.6816|        0.0642|         0.4520|      0.0072|        0.0002|      0.0279| 90.0000|
+|/players/574844/razvan-marin       |           2|         37.4742|           2.8983|        0.0583|         0.5562|      0.0296|        0.0516|      0.0616| 90.0000|
+|/players/469939/liam-henderson     |           2|         25.8626|           0.7613|        0.0817|         0.7074|      0.0755|        0.0400|      0.0237| 75.2778|
+|/players/570830/nicolas-haas       |           2|         30.6178|           4.4808|        0.0506|         0.6860|      0.0719|        0.0826|      0.0151| 90.0000|
+|/players/1200591/tommaso-baldanzi  |           3|         16.5698|           1.2336|        0.4688|         0.9587|      0.1423|        0.1328|      0.0502| 55.1667|
+|/players/1197039/martin-satriano   |           5|         17.0002|           0.3090|        0.6543|         1.7334|      0.1231|        0.0792|      0.0862| 79.7333|
+|/players/1017401/roberto-piccoli   |           5|         11.7365|           0.3476|        0.1963|         0.6500|      0.0298|        0.0360|      0.0347| 67.2000|
+|/players/814138/emanuel-vignato    |           0|              NA|               NA|        0.0490|         0.2275|      0.0069|        0.0029|      0.0242| 34.8333|
+|/players/307235/marko-pjaca        |           0|              NA|               NA|        0.1098|         0.3185|      0.0150|        0.0233|      0.0111| 22.8000|
+|/players/155254/francesco-caputo   |           0|              NA|               NA|        0.0399|         0.1079|      0.0099|        0.0051|      0.0029| 14.7222|
+|/players/919671/liberato-cacace    |           0|              NA|               NA|        0.0000|         0.0634|      0.0016|        0.0024|      0.0006| 10.2667|
 
 
 |manager_name  | approx_games| m_avg_elo_dif|formation |
@@ -113,40 +113,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Napoli:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                                   | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/577912/alex-meret                 |           0|         27.1751|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/198099/bartosz-bereszynski        |           1|         46.1089|           2.5672|        0.0392|         0.2639|      0.0066|        0.0101|      0.0484| 90.0000|
-|/players/544693/amir-rrahmani              |           1|         66.1571|           1.3559|        0.3195|         0.8973|      0.1408|        0.0727|      0.0115| 90.0000|
-|/players/282731/mario-rui                  |           1|         78.1715|           2.3370|        0.2082|         1.2463|      0.0732|        0.0243|      0.1565| 90.0000|
-|/players/414906/giovanni-di-lorenzo        |           1|         67.9590|           1.9534|        0.1530|         0.6557|      0.0841|        0.0639|      0.1187| 90.0000|
-|/players/612863/andre-frank-zambo-anguissa |           3|         54.4704|           2.0126|        0.2774|         1.4080|      0.1760|        0.0777|      0.0794| 90.0000|
-|/players/308517/stanislav-lobotka          |           3|         59.4372|           2.1607|        0.0746|         0.5112|      0.0255|        0.0301|      0.0286| 83.7200|
-|/players/362212/piotr-zielinski            |           3|         41.9439|           0.5456|        0.6810|         2.4118|      0.3308|        0.3151|      0.1944| 77.6349|
-|/players/900433/khvicha-kvaratskhelia      |           5|         41.8821|           1.4913|        0.8187|         2.3840|      0.2004|        0.2538|      0.3084| 75.8750|
-|/players/469615/giovanni-simeone           |           5|         26.2846|           0.8181|        0.7218|         1.7159|      0.2786|        0.2175|      0.0938| 81.8857|
-|/players/687681/victor-osimhen             |           5|         21.4286|           0.4629|        1.3879|         2.8244|      0.4563|        0.4133|      0.0935| 90.0000|
-|/players/741049/eljif-elmas                |           0|              NA|               NA|        0.0712|         0.1920|      0.0175|        0.0168|      0.0129| 14.1250|
-|/players/415539/matteo-politano            |           0|              NA|               NA|        0.0685|         0.2650|      0.0168|        0.0223|      0.0270| 12.3651|
-|/players/773189/tanguy-ndomblé             |           0|              NA|               NA|        0.0283|         0.1173|      0.0104|        0.0052|      0.0106|  8.1143|
-|/players/521210/hirving-lozano             |           0|              NA|               NA|        0.1092|         0.1902|      0.0344|        0.0395|      0.0139|  6.2800|
+|/players/900433/khvicha-kvaratskhelia      |           5|         38.2542|           1.4804|        0.7963|         2.2804|      0.2085|        0.2862|      0.2637| 75.8750|
+|/players/687681/victor-osimhen             |           5|         19.5723|           0.4595|        1.3499|         2.7017|      0.4747|        0.4661|      0.0800| 90.0000|
+|/players/521210/hirving-lozano             |           5|         29.8186|           0.7653|        0.7350|         1.8213|      0.2387|        0.1300|      0.1448| 75.2308|
+|/players/362212/piotr-zielinski            |           3|         42.2056|           0.5456|        0.6856|         2.4270|      0.3333|        0.3176|      0.1956| 77.6349|
+|/players/308517/stanislav-lobotka          |           3|         59.8081|           2.1607|        0.0751|         0.5144|      0.0257|        0.0303|      0.0288| 83.7200|
+|/players/612863/andre-frank-zambo-anguissa |           3|         54.8103|           2.0126|        0.2793|         1.4169|      0.1773|        0.0783|      0.0799| 90.0000|
+|/players/282731/mario-rui                  |           1|         70.5525|           2.6803|        0.2087|         1.2446|      0.0701|        0.0247|      0.1752| 90.0000|
+|/players/828159/min-jae-kim                |           1|         68.4115|           1.7377|        0.0427|         0.2868|      0.0213|        0.0092|      0.0163| 90.0000|
+|/players/544693/amir-rrahmani              |           1|         59.7091|           1.5551|        0.3201|         0.8961|      0.1349|        0.0738|      0.0129| 90.0000|
+|/players/414906/giovanni-di-lorenzo        |           1|         61.3355|           2.2404|        0.1533|         0.6548|      0.0805|        0.0648|      0.1328| 90.0000|
+|/players/577912/alex-meret                 |           0|         27.3447|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/741049/eljif-elmas                |           0|              NA|               NA|        0.1188|         0.3582|      0.0278|        0.0247|      0.0276| 14.7692|
+|/players/415539/matteo-politano            |           0|              NA|               NA|        0.1154|         0.6524|      0.0390|        0.0320|      0.0580| 14.1250|
+|/players/773189/tanguy-ndomblé             |           0|              NA|               NA|        0.1160|         0.3006|      0.0225|        0.0175|      0.0269| 12.3651|
+|/players/469615/giovanni-simeone           |           0|              NA|               NA|        0.1946|         0.2852|      0.0307|        0.0438|      0.0180|  6.2800|
 
 
 |manager_name      | approx_games| m_avg_elo_dif|formation |
 |:-----------------|------------:|-------------:|:---------|
 |Luciano Spalletti |     68.85758|      15.55296|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3919271/Soccer_Models'...
-Receiving objects:   1% (45/4422),   63 kb
-Receiving objects:  11% (487/4422),  127 kb
-Receiving objects:  21% (929/4422),  183 kb
-Receiving objects:  31% (1371/4422),  351 kb
-Receiving objects:  41% (1814/4422),  856 kb
-Receiving objects:  51% (2256/4422),  912 kb
-Receiving objects:  61% (2698/4422), 1360 kb
-Receiving objects:  71% (3140/4422), 10213 kb
-Receiving objects:  81% (3582/4422), 10493 kb
-Receiving objects:  91% (4025/4422), 10774 kb
-Receiving objects: 100% (4422/4422), 11089 kb, done.
+Receiving objects:   1% (48/4713),   63 kb
+Receiving objects:  11% (519/4713),  127 kb
+Receiving objects:  21% (990/4713),  239 kb
+Receiving objects:  31% (1462/4713),  407 kb
+Receiving objects:  41% (1933/4713),  856 kb
+Receiving objects:  51% (2404/4713), 1080 kb
+Receiving objects:  61% (2875/4713), 5498 kb
+Receiving objects:  71% (3347/4713), 10373 kb
+Receiving objects:  81% (3818/4713), 10710 kb
+Receiving objects:  91% (4289/4713), 10822 kb
+Receiving objects: 100% (4713/4713), 11352 kb, done.
