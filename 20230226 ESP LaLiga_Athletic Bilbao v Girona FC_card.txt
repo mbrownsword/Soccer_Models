@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 10:35:46.806"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Athletic Bilbao 1.5155 to Girona FC 1.0978"
+[1] "Total: 2.6133"
+[1] "Athletic Bilbao %: 47.03"
+[1] "Draw %: 24.93"
+[1] "Girona FC %: 28.04"
+[1] "--XG Model--"
+[1] "Score: Athletic Bilbao 1.6944 to Girona FC 0.9949"
+[1] "Total: 2.6893"
+[1] "Athletic Bilbao %: 54.66"
+[1] "Draw %: 23.88"
+[1] "Girona FC %: 21.46"
+[1] "--XGoT Model--"
+[1] "Score: Athletic Bilbao 1.7577 to Girona FC 1.1006"
+[1] "Total: 2.8583"
+[1] "Athletic Bilbao %: 53.78"
+[1] "Draw %: 23.28"
+[1] "Girona FC %: 22.94"
+[1] "--XA Model--"
+[1] "Score: Athletic Bilbao 1.5403 to Girona FC 0.966"
+[1] "Total: 2.5063"
+[1] "Athletic Bilbao %: 50.85"
+[1] "Draw %: 25.32"
+[1] "Girona FC %: 23.83"
+[1] "--Mean 4 Models--"
+[1] "Athletic Bilbao has a mean win % of 51.58%; a min win % of 47.03%; a max win % of 54.66%."
+[1] "Draw has a mean win % of 24.35%; a min win % of 23.28%; a max win % of 25.32%."
+[1] "Girona FC has a mean win % of 24.07%; a min win % of 21.46%; a max win of % 28.04%."
+[1] "Athletic Bilbao has a mean win of the Double Chance of 75.93%; a min win % of 71.96%, a max win % of 78.54%."
+[1] "Girona FC has a mean win of the Double Chance of 48.42%; a min win % of 45.34%, a max win % of 52.97%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.05%; max % is 53.96 and min % is 44.91%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.95%; max % is 55.09 and min % is 46.04%."
+[1] "--Sportsbook Odds--"
+[1] "Athletic Bilbao Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Girona FC Barstool Odds are: 18.52"
+[1] "Athletic Bilbao Adjusted Barstool Odds are: 55.955"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.427"
+[1] "Girona FC Adjusted Barstool Odds are: 17.618"
+[1] "Athletic Bilbao's Barstool Odds to cover the -0.75 spread are: 53.19"
+[1] "Girona FC's Barstool Odds to cover the 0.75 spread are: 52.08"
+[1] "Barstool's line for the total is 2.5 at 2.08, which is a 48.08% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+        bet           date_time
+1 Girona FC 2023-02-26 05:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team            | expected_attg| expected_gs|bet |
+|:------------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/660625/unai-simon           |Athletic Bilbao |      0.000000|   0.0666667|    |
+|/players/181297/oscar-de-marcos      |Athletic Bilbao |      0.012600|   0.1666667|    |
+|/players/1191407/aitor-paredes       |Athletic Bilbao |      0.113375|   0.0714286|    |
+|/players/639450/yeray-lvarez         |Athletic Bilbao |      0.002625|   0.0555556|    |
+|/players/80295/yuri-berchiche        |Athletic Bilbao |      0.024500|   0.0625000|    |
+|/players/616545/mikel-vesga          |Athletic Bilbao |      0.080600|   0.1694915|    |
+|/players/433311/dani-garcia          |Athletic Bilbao |      0.070075|   0.0833333|    |
+|/players/1202110/nico-williams       |Athletic Bilbao |      0.192800|   0.2439024|    |
+|/players/950545/oihan-sancet         |Athletic Bilbao |      0.143325|   0.4000000|    |
+|/players/179772/iker-muniain         |Athletic Bilbao |      0.230375|   0.2941176|    |
+|/players/604105/inaki-williams       |Athletic Bilbao |      0.317975|   0.3389831|    |
+|/players/1072200/rodrigo-riquelme    |Girona FC       |      0.053375|   0.1666667|    |
+|/players/823658/valentin-castellanos |Girona FC       |      0.194800|   0.3030303|    |
+|/players/564847/viktor-tsigankov     |Girona FC       |      0.256050|   0.2439024|    |
+|/players/175305/borja-garcia         |Girona FC       |      0.106225|   0.1754386|    |
+|/players/212470/oriol-romeu          |Girona FC       |      0.002200|   0.0952381|    |
+|/players/642551/aleix-garcia         |Girona FC       |      0.037225|   0.1052632|    |
+|/players/942379/miguel-gutirrez      |Girona FC       |      0.026275|   0.0454545|    |
+|/players/174862/juanpe               |Girona FC       |      0.026550|   0.0714286|    |
+|/players/848034/santiago-bueno       |Girona FC       |      0.025600|   0.0555556|    |
+|/players/1194892/arnau-martinez      |Girona FC       |      0.029375|   0.1052632|    |
+|/players/278285/paulo-gazzaniga      |Girona FC       |      0.000000|   0.3636364|    |
+|/players/33871/raul-garcia           |Athletic Bilbao |      0.149850|   0.3636364|    |
+|/players/1106916/oier-zarraga        |Athletic Bilbao |      0.031300|   0.1851852|    |
+|/players/1007717/unai-vencedor       |Athletic Bilbao |      0.019325|   0.1666667|    |
+|/players/164676/ander-herrera        |Athletic Bilbao |      0.000000|   0.0833333|    |
+|/players/639384/toni-villa           |Girona FC       |      0.024850|   0.1538462|    |
+|/players/1075046/reinier             |Girona FC       |      0.000000|   0.1724138|    |
+|/players/58294/cristhian-stuani      |Girona FC       |      0.057900|   0.3030303|    |
+|/players/967871/ivn-martin           |Girona FC       |      0.055075|   0.2000000|    |
+____________________________________________________
+
+[1] "Facts about Athletic Bilbao:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/660625/unai-simon      |           0|         23.6758|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/181297/oscar-de-marcos |           1|         49.5914|           2.1542|        0.0237|         0.0923|      0.0261|        0.0131|      0.1433| 90.0000|
+|/players/1191407/aitor-paredes  |           1|         38.0560|           1.3200|        0.5056|         1.6854|      0.1375|        0.1417|      0.0283| 90.0000|
+|/players/639450/yeray-lvarez    |           1|         63.2453|           1.3200|        0.0239|         0.2095|      0.0165|        0.0038|      0.0283| 90.0000|
+|/players/80295/yuri-berchiche   |           1|         52.3790|           1.4336|        0.0829|         0.4029|      0.0378|        0.0276|      0.0692| 90.0000|
+|/players/616545/mikel-vesga     |           2|         54.8445|           2.4712|        0.3372|         1.4829|      0.1372|        0.0964|      0.1250| 90.0000|
+|/players/433311/dani-garcia     |           2|         48.2682|           1.7160|        0.3072|         0.7341|      0.0547|        0.0879|      0.0562| 82.0000|
+|/players/1202110/nico-williams  |           3|         22.0040|           1.3244|        0.6608|         2.3592|      0.2623|        0.2303|      0.0750| 79.1500|
+|/players/950545/oihan-sancet    |           3|         20.0554|           0.9460|        0.7867|         1.6049|      0.0921|        0.1800|      0.1317| 61.8571|
+|/players/179772/iker-muniain    |           3|         40.4705|           0.9954|        0.5183|         1.4098|      0.3036|        0.2959|      0.2133| 81.8627|
+|/players/604105/inaki-williams  |           5|         19.9420|           0.6077|        1.0768|         2.7474|      0.4440|        0.4338|      0.0980| 90.0000|
+|/players/33871/raul-garcia      |          NA|              NA|               NA|        0.4248|         1.2798|      0.1676|        0.1939|      0.0230| 28.1429|
+|/players/1106916/oier-zarraga   |          NA|              NA|               NA|        0.0507|         0.2198|      0.0348|        0.0368|      0.0113| 10.8500|
+|/players/1007717/unai-vencedor  |          NA|              NA|               NA|        0.0505|         0.0974|      0.0145|        0.0225|      0.0022|  8.1373|
+|/players/164676/ander-herrera   |          NA|              NA|               NA|        0.0000|         0.0443|      0.0020|        0.0000|      0.0093|  8.0000|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Ernesto Valverde |     21.93535|         7.914|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Girona FC:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1072200/rodrigo-riquelme    |           5|         20.3014|           1.1491|        0.4959|         1.5463|      0.0782|        0.0597|      0.0203| 83.0000|
+|/players/823658/valentin-castellanos |           5|         17.5455|           0.7841|        0.7018|         1.9362|      0.2106|        0.2354|      0.0787| 90.0000|
+|/players/564847/viktor-tsigankov     |           5|         29.9733|           1.3380|        0.6175|         1.3129|      0.3014|        0.3203|      0.1622| 90.0000|
+|/players/175305/borja-garcia         |           3|         28.6358|           1.0654|        0.4489|         1.1950|      0.1046|        0.1211|      0.0469| 80.0769|
+|/players/212470/oriol-romeu          |           3|         42.4068|           2.9644|        0.0526|         0.5903|      0.0617|        0.0023|      0.0349| 90.0000|
+|/players/642551/aleix-garcia         |           3|         41.2657|           1.4726|        0.1677|         0.5791|      0.0269|        0.0428|      0.1072| 83.1034|
+|/players/942379/miguel-gutirrez      |           1|         37.9252|           1.4648|        0.0896|         0.2841|      0.0071|        0.0282|      0.0519| 84.0000|
+|/players/174862/juanpe               |           1|         49.3679|           0.8831|        0.1265|         0.3930|      0.0077|        0.0302|      0.0336| 90.0000|
+|/players/848034/santiago-bueno       |           1|         40.7212|           1.6837|        0.1217|         0.3676|      0.0413|        0.0302|      0.0094| 90.0000|
+|/players/1194892/arnau-martinez      |           1|         36.7585|           2.2429|        0.0960|         0.4931|      0.0707|        0.0302|      0.0670| 90.0000|
+|/players/278285/paulo-gazzaniga      |           0|         30.0212|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/639384/toni-villa           |          NA|              NA|               NA|        0.0788|         0.4354|      0.0174|        0.0278|      0.0114|  9.9231|
+|/players/1075046/reinier             |          NA|              NA|               NA|        0.0402|         0.1332|      0.0064|        0.0000|      0.0073|  7.0000|
+|/players/58294/cristhian-stuani      |          NA|              NA|               NA|        0.1410|         0.3428|      0.1003|        0.0648|      0.0046|  6.8966|
+|/players/967871/ivn-martin           |          NA|              NA|               NA|        0.0951|         0.2101|      0.0076|        0.0583|      0.0057|  6.0000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Michel       |     36.91717|      1.227241|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918160/Soccer_Models'...
+Receiving objects:   1% (48/4731),   63 kb
+Receiving objects:  11% (521/4731),  127 kb
+Receiving objects:  21% (994/4731),  239 kb
+Receiving objects:  31% (1467/4731),  407 kb
+Receiving objects:  41% (1940/4731),  856 kb
+Receiving objects:  51% (2413/4731), 1080 kb
+Receiving objects:  61% (2886/4731), 5787 kb
+Receiving objects:  71% (3360/4731), 10381 kb
+Receiving objects:  81% (3833/4731), 10718 kb
+Receiving objects:  91% (4306/4731), 10830 kb
+Receiving objects: 100% (4731/4731), 11359 kb, done.
