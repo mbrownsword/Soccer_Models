@@ -1,0 +1,153 @@
+[1] "Updated at 2023-02-25 13:20:50.873"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Sporting de Charleroi 1.2748 to St. Truidense 1.0282"
+[1] "Total: 2.303"
+[1] "Sporting de Charleroi %: 43.21"
+[1] "Draw %: 27.72"
+[1] "St. Truidense %: 29.07"
+[1] "--XG Model--"
+[1] "Score: Sporting de Charleroi 1.4101 to St. Truidense 1.0901"
+[1] "Total: 2.5002"
+[1] "Sporting de Charleroi %: 44.56"
+[1] "Draw %: 25.93"
+[1] "St. Truidense %: 29.51"
+[1] "--XGoT Model--"
+[1] "Score: Sporting de Charleroi 1.3222 to St. Truidense 1.0246"
+[1] "Total: 2.3468"
+[1] "Sporting de Charleroi %: 44.16"
+[1] "Draw %: 27.21"
+[1] "St. Truidense %: 28.63"
+[1] "--XA Model--"
+[1] "Score: Sporting de Charleroi 1.4622 to St. Truidense 1.1347"
+[1] "Total: 2.5969"
+[1] "Sporting de Charleroi %: 44.81"
+[1] "Draw %: 25.45"
+[1] "St. Truidense %: 29.74"
+[1] "--Mean 4 Models--"
+[1] "Sporting de Charleroi has a mean win % of 44.18%; a min win % of 43.21%; a max win % of 44.81%."
+[1] "Draw has a mean win % of 26.58%; a min win % of 25.45%; a max win % of 27.72%."
+[1] "St. Truidense has a mean win % of 29.24%; a min win % of 28.63%; a max win of % 29.74%."
+[1] "Sporting de Charleroi has a mean win of the Double Chance of 70.76%; a min win % of 70.26%, a max win % of 71.37%."
+[1] "St. Truidense has a mean win of the Double Chance of 55.82%; a min win % of 55.19%, a max win % of 56.79%."
+[1] "The mean likelihood that there are more than 2.5 goals is 42.74%; max % is 47 and min % is 39.57%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 57.26%; max % is 60.43 and min % is 53%."
+[1] "--Sportsbook Odds--"
+[1] "Sporting de Charleroi Barstool Odds are: 50.51"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "St. Truidense Barstool Odds are: 27.78"
+[1] "Sporting de Charleroi Adjusted Barstool Odds are: 47.267"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.736"
+[1] "St. Truidense Adjusted Barstool Odds are: 25.997"
+[1] "Sporting de Charleroi's Barstool Odds to cover the -0.5 spread are: 50"
+[1] "St. Truidense's Barstool Odds to cover the 0.5 spread are: 54.35"
+[1] "Barstool's line for the total is 2.5 at 2.2, which is a 45.45% chance of the over 2.5 hitting. The line for the under is 1.67, which is a 59.88% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                bet           date_time
+1     St. Truidense 2023-02-26 10:15:00
+2 St. Truidense ATS 2023-02-26 10:15:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team                  | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:---------------------|-------------:|-----------:|:---|
+|/players/695405/herv-koffi                |Sporting de Charleroi |      0.000000|   0.0833333|    |
+|/players/1054003/valentine-ozornwafor     |Sporting de Charleroi |      0.032500|   0.1666667|    |
+|/players/1110862/stelios-andreou          |Sporting de Charleroi |      0.051875|   0.0500000|    |
+|/players/595013/stefan-knezevic           |Sporting de Charleroi |      0.034400|   0.0714286|    |
+|/players/1210943/jackson-tchatchoua       |Sporting de Charleroi |      0.030450|   0.1785714|    |
+|/players/974314/ken-nkuba                 |Sporting de Charleroi |      0.172225|   0.1666667|    |
+|/players/500932/joris-kayembe-ditu        |Sporting de Charleroi |      0.043800|   0.1428571|    |
+|/players/496285/marco-ilaimaharitra       |Sporting de Charleroi |      0.050025|   0.1785714|    |
+|/players/972406/adem-zorgane              |Sporting de Charleroi |      0.072425|   0.1666667|    |
+|/players/1053689/youssouph-badji          |Sporting de Charleroi |      0.108400|   0.3225806|    |
+|/players/644738/vakoun-issouf-bayo        |Sporting de Charleroi |      0.400025|   0.3846154|    |
+|/players/266895/daniel-schmidt            |St. Truidense         |      0.000000|   0.0833333|    |
+|/players/561251/wolke-janssens            |St. Truidense         |      0.020775|   0.0526316|    |
+|/players/555385/robert-bauer              |St. Truidense         |      0.038750|   0.0666667|    |
+|/players/265588/toni-leistner             |St. Truidense         |      0.019850|   0.0434783|    |
+|/players/725695/aboubakary-koita          |St. Truidense         |      0.088825|   0.1111111|    |
+|/players/1123949/eric-bocat               |St. Truidense         |      0.007900|   0.0526316|    |
+|/players/791820/frank-boya                |St. Truidense         |      0.153100|   0.0909091|*   |
+|/players/869780/mory-konat                |St. Truidense         |      0.033600|   0.1176471|    |
+|/players/878296/daiki-hashioka            |St. Truidense         |      0.009225|   0.0833333|    |
+|/players/922731/taichi-hara               |St. Truidense         |      0.254550|   0.2222222|    |
+|/players/1080028/daichi-hayashi           |St. Truidense         |      0.169950|   0.2564103|    |
+|/players/614720/isaac-mbenza              |Sporting de Charleroi |      0.004425|   0.2380952|    |
+|/players/93347/damien-marcq               |Sporting de Charleroi |      0.000000|   0.0500000|    |
+|/players/768505/daan-heymans              |Sporting de Charleroi |      0.093175|   0.2941176|    |
+|/players/1031319/amirhossein-hosseinzadeh |Sporting de Charleroi |      0.050275|   0.2380952|    |
+|/players/1073753/stan-van-dessel          |St. Truidense         |      0.000000|   0.0666667|    |
+|/players/196805/gianni-bruno              |St. Truidense         |      0.090275|   0.3125000|    |
+|/players/938537/fatih-kaya                |St. Truidense         |      0.002325|   0.2127660|    |
+|/players/1174726/rocco-reitz              |St. Truidense         |      0.021825|   0.1333333|    |
+____________________________________________________
+
+[1] "Facts about Sporting de Charleroi:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/695405/herv-koffi                |           0|         30.5877|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1054003/valentine-ozornwafor     |           1|         58.9699|           1.5373|        0.1292|         0.3718|      0.0021|        0.0353|      0.0096| 90.0000|
+|/players/1110862/stelios-andreou          |           1|         50.4390|           1.4575|        0.1292|         0.3525|      0.0554|        0.0549|      0.0364| 90.0000|
+|/players/595013/stefan-knezevic           |           1|         55.3307|           1.6757|        0.2229|         0.8358|      0.1200|        0.0353|      0.0585| 90.0000|
+|/players/1210943/jackson-tchatchoua       |           3|         29.9441|           0.7284|        0.2000|         0.4034|      0.0252|        0.0317|      0.0801| 78.5385|
+|/players/974314/ken-nkuba                 |           3|         22.7021|           2.4964|        0.5909|         1.5493|      0.1688|        0.1897|      0.1301| 80.5455|
+|/players/500932/joris-kayembe-ditu        |           3|         38.8369|           2.2100|        0.3792|         1.2430|      0.0619|        0.0484|      0.1362| 90.0000|
+|/players/496285/marco-ilaimaharitra       |           3|         45.7230|           1.8958|        0.2847|         1.2303|      0.0898|        0.0545|      0.0504| 90.0000|
+|/players/972406/adem-zorgane              |           3|         61.9816|           2.0516|        0.2253|         1.1929|      0.1083|        0.0785|      0.1565| 90.0000|
+|/players/1053689/youssouph-badji          |           5|         18.5688|           0.6622|        0.4195|         1.4990|      0.1834|        0.1225|      0.0494| 73.8667|
+|/players/644738/vakoun-issouf-bayo        |           5|         19.3055|           0.7142|        1.1928|         2.5944|      0.4597|        0.5260|      0.1211| 75.9412|
+|/players/614720/isaac-mbenza              |           0|              NA|               NA|        0.0589|         0.4186|      0.0250|        0.0046|      0.0228| 16.1333|
+|/players/93347/damien-marcq               |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0157| 14.0588|
+|/players/768505/daan-heymans              |           0|              NA|               NA|        0.1453|         0.4521|      0.1615|        0.1010|      0.0076| 11.4615|
+|/players/1031319/amirhossein-hosseinzadeh |           0|              NA|               NA|        0.0786|         0.2096|      0.0476|        0.0523|      0.0440|  9.4545|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Felice Mazzu |     58.99697|        6.4805|3-5-2     |
+____________________________________________________
+
+[1] "Facts about St. Truidense:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/266895/daniel-schmidt   |           0|         30.3951|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/561251/wolke-janssens   |           1|         47.6927|           2.5026|        0.0951|         0.3860|      0.0415|        0.0226|      0.0186| 90.0000|
+|/players/555385/robert-bauer     |           1|         39.8930|           1.4825|        0.0951|         0.2883|      0.0152|        0.0418|      0.0205| 90.0000|
+|/players/265588/toni-leistner    |           1|         53.6516|           0.9141|        0.1652|         0.6437|      0.0659|        0.0226|      0.0403| 90.0000|
+|/players/725695/aboubakary-koita |           3|         25.8209|           1.6859|        0.4304|         1.2947|      0.0874|        0.0997|      0.0529| 78.6000|
+|/players/1123949/eric-bocat      |           3|         27.5016|           1.2139|        0.1435|         0.4482|      0.0239|        0.0073|      0.1535| 74.4000|
+|/players/791820/frank-boya       |           3|         40.8704|           2.4566|        0.3757|         1.2093|      0.0990|        0.1799|      0.0634| 83.4286|
+|/players/869780/mory-konat       |           3|         43.7826|           2.0255|        0.1941|         0.7681|      0.0715|        0.0376|      0.0220| 90.0000|
+|/players/878296/daiki-hashioka   |           3|         34.0964|           1.5394|        0.1129|         0.5096|      0.0405|        0.0109|      0.0683| 90.0000|
+|/players/922731/taichi-hara      |           5|         24.8543|           0.7067|        0.6885|         2.1362|      0.3374|        0.3150|      0.1066| 90.0000|
+|/players/1080028/daichi-hayashi  |           5|         14.5329|           0.5654|        0.7573|         1.5666|      0.1897|        0.1970|      0.0466| 76.6286|
+|/players/1073753/stan-van-dessel |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0487| 15.6000|
+|/players/196805/gianni-bruno     |           0|              NA|               NA|        0.1911|         0.6503|      0.1617|        0.0988|      0.0028| 13.3714|
+|/players/938537/fatih-kaya       |           0|              NA|               NA|        0.0000|         0.1499|      0.0125|        0.0024|      0.0116| 11.4000|
+|/players/1174726/rocco-reitz     |           0|              NA|               NA|        0.0381|         0.0864|      0.0043|        0.0241|      0.0013|  6.5714|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Bernd Hollerbach |     55.67778|     -3.638983|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917165/Soccer_Models'...
+Receiving objects:   1% (49/4839),   63 kb
+Receiving objects:  11% (533/4839),  127 kb
+Receiving objects:  21% (1017/4839),  239 kb
+Receiving objects:  31% (1501/4839),  520 kb
+Receiving objects:  41% (1984/4839),  856 kb
+Receiving objects:  51% (2468/4839), 1136 kb
+Receiving objects:  61% (2952/4839), 8909 kb
+Receiving objects:  71% (3436/4839), 10422 kb
+Receiving objects:  81% (3920/4839), 10758 kb
+Receiving objects:  91% (4404/4839), 10814 kb
+Receiving objects: 100% (4839/4839), 11466 kb, done.
