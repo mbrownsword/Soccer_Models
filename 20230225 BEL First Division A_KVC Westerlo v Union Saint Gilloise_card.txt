@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 11:24:03.555"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: KVC Westerlo 1.0939 to Union Saint Gilloise 1.5681"
+[1] "Total: 2.662"
+[1] "KVC Westerlo %: 27.55"
+[1] "Draw %: 25.3"
+[1] "Union Saint Gilloise %: 47.15"
+[1] "--XG Model--"
+[1] "Score: KVC Westerlo 0.9235 to Union Saint Gilloise 1.5714"
+[1] "Total: 2.4949"
+[1] "KVC Westerlo %: 22.7"
+[1] "Draw %: 25.13"
+[1] "Union Saint Gilloise %: 52.17"
+[1] "--XGoT Model--"
+[1] "Score: KVC Westerlo 0.9255 to Union Saint Gilloise 1.5134"
+[1] "Total: 2.4389"
+[1] "KVC Westerlo %: 23.74"
+[1] "Draw %: 25.79"
+[1] "Union Saint Gilloise %: 50.47"
+[1] "--XA Model--"
+[1] "Score: KVC Westerlo 1.1673 to Union Saint Gilloise 1.7092"
+[1] "Total: 2.8765"
+[1] "KVC Westerlo %: 26.05"
+[1] "Draw %: 24.45"
+[1] "Union Saint Gilloise %: 49.5"
+[1] "--Mean 4 Models--"
+[1] "KVC Westerlo has a mean win % of 25.01%; a min win % of 22.7%; a max win % of 27.55%."
+[1] "Draw has a mean win % of 25.17%; a min win % of 24.45%; a max win % of 25.79%."
+[1] "Union Saint Gilloise has a mean win % of 49.82%; a min win % of 47.15%; a max win of % 52.17%."
+[1] "KVC Westerlo has a mean win of the Double Chance of 50.18%; a min win % of 47.83%, a max win % of 52.85%."
+[1] "Union Saint Gilloise has a mean win of the Double Chance of 74.99%; a min win % of 72.45%, a max win % of 77.3%."
+[1] "The mean likelihood that there are more than 2.5 goals is 48.16%; max % is 53.59 and min % is 43.9%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 51.84%; max % is 56.1 and min % is 46.41%."
+[1] "--Sportsbook Odds--"
+[1] "KVC Westerlo Barstool Odds are: 28.99"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Union Saint Gilloise Barstool Odds are: 50"
+[1] "KVC Westerlo Adjusted Barstool Odds are: 27.152"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.019"
+[1] "Union Saint Gilloise Adjusted Barstool Odds are: 46.83"
+[1] "KVC Westerlo's Barstool Odds to cover the 0.5 spread are: 54.95"
+[1] "Union Saint Gilloise's Barstool Odds to cover the -0.5 spread are: 49.5"
+[1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87% chance of the over 2.5 hitting. The line for the under is 2.02, which is a 49.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team                 | expected_attg| expected_gs|bet |
+|:--------------------------------------|:--------------------|-------------:|-----------:|:---|
+|/players/38797/sinan-bolat             |KVC Westerlo         |      0.000000|   0.2040816|    |
+|/players/924446/bryan-reynolds         |KVC Westerlo         |      0.010600|   0.0625000|    |
+|/players/145551/roman-neustdter        |KVC Westerlo         |      0.011525|   0.0625000|    |
+|/players/194416/pietro-perdichizzi     |KVC Westerlo         |      0.010150|   0.0625000|    |
+|/players/1134871/maxim-de-cuyper       |KVC Westerlo         |      0.061550|   0.1428571|    |
+|/players/776549/mathias-fixelles       |KVC Westerlo         |      0.049625|   0.1250000|    |
+|/players/166670/lucas-van-eenoo        |KVC Westerlo         |      0.069900|   0.1960784|    |
+|/players/917830/nicolas-madsen         |KVC Westerlo         |      0.032075|   0.1111111|    |
+|/players/110189/nacer-chadli           |KVC Westerlo         |      0.320525|   0.2127660|*   |
+|/players/1126079/thomas-van-den-keybus |KVC Westerlo         |      0.034975|   0.1538462|    |
+|/players/1110376/kyan-vaesen           |KVC Westerlo         |      0.218125|   0.2631579|    |
+|/players/118241/gustaf-nilsson         |Union Saint Gilloise |      0.332650|   0.3333333|    |
+|/players/1035208/victor-okoh-boniface  |Union Saint Gilloise |      0.302225|   0.3030303|    |
+|/players/1227012/simon-adingra         |Union Saint Gilloise |      0.220925|   0.2777778|    |
+|/players/720733/teddy-teuma            |Union Saint Gilloise |      0.101400|   0.3448276|    |
+|/players/919742/senne-lynen            |Union Saint Gilloise |      0.020975|   0.1176471|    |
+|/players/768459/jean-thierry-lazare    |Union Saint Gilloise |      0.059625|   0.2380952|    |
+|/players/680011/bart-nieuwkoop         |Union Saint Gilloise |      0.081700|   0.1538462|    |
+|/players/727817/koki-machida           |Union Saint Gilloise |      0.019075|   0.1250000|    |
+|/players/332300/christian-burgess      |Union Saint Gilloise |      0.068725|   0.1428571|    |
+|/players/1015306/ismael-kandouss       |Union Saint Gilloise |      0.018300|   0.0666667|    |
+|/players/148331/anthony-moris          |Union Saint Gilloise |      0.000000|   0.2222222|    |
+|/players/193222/igor-vetokele          |KVC Westerlo         |      0.060475|   0.0000000|*   |
+|/players/1230287/nene-dorgeles         |KVC Westerlo         |      0.001825|   0.0000000|    |
+|/players/465728/tuur-dierckx           |KVC Westerlo         |      0.000000|   0.0000000|    |
+|/players/1001392/muhammed-gmüskaya     |KVC Westerlo         |      0.000000|   0.0000000|    |
+|/players/940453/yorbe-vertessen        |Union Saint Gilloise |      0.054175|   0.0000000|*   |
+|/players/909907/cameron-puertas        |Union Saint Gilloise |      0.039425|   0.0000000|    |
+|/players/874630/loic-lapoussin         |Union Saint Gilloise |      0.000000|   0.0000000|    |
+|/players/768266/ross-sykes             |Union Saint Gilloise |      0.000000|   0.0000000|    |
+____________________________________________________
+
+[1] "Facts about KVC Westerlo:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/38797/sinan-bolat             |           0|         30.9895|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/924446/bryan-reynolds         |           1|         35.1261|           1.6673|        0.0639|         0.2655|      0.0151|        0.0109|      0.0485| 90.0000|
+|/players/145551/roman-neustdter        |           1|         48.2845|           1.6621|        0.0639|         0.4234|      0.0362|        0.0109|      0.0048| 90.0000|
+|/players/194416/pietro-perdichizzi     |           1|         52.6186|           0.8049|        0.0639|         0.2392|      0.0030|        0.0109|      0.0048| 90.0000|
+|/players/1134871/maxim-de-cuyper       |           1|         46.2418|           2.2233|        0.2864|         0.7930|      0.0962|        0.0646|      0.0865| 90.0000|
+|/players/776549/mathias-fixelles       |           2|         31.0229|           1.1067|        0.1534|         0.5334|      0.0416|        0.0489|      0.0143| 63.0000|
+|/players/166670/lucas-van-eenoo        |           2|         46.3817|           3.2658|        0.2191|         0.7620|      0.0595|        0.0699|      0.1068| 90.0000|
+|/players/917830/nicolas-madsen         |           3|         37.0236|           1.3503|        0.2546|         0.7752|      0.0539|        0.0367|      0.0981| 90.0000|
+|/players/110189/nacer-chadli           |           3|         24.7881|           0.9704|        0.8829|         1.6497|      0.2887|        0.3816|      0.0639| 71.1304|
+|/players/1126079/thomas-van-den-keybus |           3|         19.7753|           1.2400|        0.4230|         1.7566|      0.1058|        0.0352|      0.1371| 78.3333|
+|/players/1110376/kyan-vaesen           |           5|         16.1879|           0.4069|        0.6761|         1.7034|      0.2314|        0.2310|      0.0526| 72.3333|
+|/players/193222/igor-vetokele          |           0|              NA|               NA|        0.2557|         0.4171|      0.0569|        0.0626|      0.0067| 27.0000|
+|/players/1230287/nene-dorgeles         |           0|              NA|               NA|        0.1396|         0.4097|      0.0328|        0.0021|      0.0147| 18.8696|
+|/players/465728/tuur-dierckx           |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0165| 17.6667|
+|/players/1001392/muhammed-gmüskaya     |           0|              NA|               NA|        0.0000|         0.2178|      0.0119|        0.0000|      0.0542| 11.6667|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Jonas De Roeck |     25.95152|        -3.245|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Union Saint Gilloise:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/118241/gustaf-nilsson        |           5|         19.8717|           1.0473|        1.0528|         2.3346|      0.3714|        0.3696|      0.0292| 82.3846|
+|/players/1035208/victor-okoh-boniface |           5|         22.6090|           0.3583|        0.8566|         2.1708|      0.3573|        0.3260|      0.1753| 80.1053|
+|/players/1227012/simon-adingra        |           3|         32.5070|           1.5498|        0.8262|         2.1883|      0.2103|        0.2340|      0.1911| 90.0000|
+|/players/720733/teddy-teuma           |           3|         64.0172|           2.7123|        0.2878|         1.0317|      0.0856|        0.1014|      0.1489| 90.0000|
+|/players/919742/senne-lynen           |           3|         45.1933|           1.1796|        0.0988|         0.5816|      0.0297|        0.0195|      0.0694| 82.4706|
+|/players/768459/jean-thierry-lazare   |           3|         25.0061|           2.0462|        0.2933|         0.9417|      0.0874|        0.0570|      0.0584| 76.2381|
+|/players/680011/bart-nieuwkoop        |           3|         33.4554|           2.2606|        0.2057|         0.6630|      0.0767|        0.0793|      0.0945| 90.0000|
+|/players/727817/koki-machida          |           1|         53.4145|           1.7209|        0.0670|         0.3693|      0.0323|        0.0176|      0.0292| 90.0000|
+|/players/332300/christian-burgess     |           1|         55.7386|           1.5404|        0.2287|         0.5582|      0.0607|        0.0640|      0.0234| 90.0000|
+|/players/1015306/ismael-kandouss      |           1|         51.3398|           1.5161|        0.0681|         0.4290|      0.0390|        0.0176|      0.0594| 90.0000|
+|/players/148331/anthony-moris         |           0|         34.2757|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/940453/yorbe-vertessen       |           0|              NA|               NA|        0.3782|         0.6023|      0.0590|        0.0547|      0.0484| 13.7619|
+|/players/909907/cameron-puertas       |           0|              NA|               NA|        0.1321|         0.5143|      0.0810|        0.0377|      0.0326|  9.8947|
+|/players/874630/loic-lapoussin        |           0|              NA|               NA|        0.0000|         0.2056|      0.0072|        0.0000|      0.0467|  7.6154|
+|/players/768266/ross-sykes            |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0035|  7.5294|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Karel Geraerts |     30.86566|       9.94871|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917164/Soccer_Models'...
+Receiving objects:   1% (48/4752),   63 kb
+Receiving objects:  11% (523/4752),  127 kb
+Receiving objects:  21% (998/4752),  239 kb
+Receiving objects:  31% (1474/4752),  463 kb
+Receiving objects:  41% (1949/4752),  856 kb
+Receiving objects:  51% (2424/4752), 1080 kb
+Receiving objects:  61% (2899/4752), 5787 kb
+Receiving objects:  71% (3374/4752), 10381 kb
+Receiving objects:  81% (3850/4752), 10718 kb
+Receiving objects:  91% (4325/4752), 10830 kb
+Receiving objects: 100% (4752/4752), 11382 kb, done.
