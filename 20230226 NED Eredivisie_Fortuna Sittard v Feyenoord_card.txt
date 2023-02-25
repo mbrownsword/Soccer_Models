@@ -1,0 +1,154 @@
+[1] "Updated at 2023-02-25 12:37:16.154"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Fortuna Sittard 0.8756 to Feyenoord 1.4098"
+[1] "Total: 2.2854"
+[1] "Fortuna Sittard %: 23.48"
+[1] "Draw %: 27.14"
+[1] "Feyenoord %: 49.38"
+[1] "--XG Model--"
+[1] "Score: Fortuna Sittard 0.7752 to Feyenoord 1.5686"
+[1] "Total: 2.3438"
+[1] "Fortuna Sittard %: 18.6"
+[1] "Draw %: 25.27"
+[1] "Feyenoord %: 56.13"
+[1] "--XGoT Model--"
+[1] "Score: Fortuna Sittard 0.8055 to Feyenoord 1.5226"
+[1] "Total: 2.3281"
+[1] "Fortuna Sittard %: 20.31"
+[1] "Draw %: 25.88"
+[1] "Feyenoord %: 53.81"
+[1] "--XA Model--"
+[1] "Score: Fortuna Sittard 0.8155 to Feyenoord 1.556"
+[1] "Total: 2.3715"
+[1] "Fortuna Sittard %: 20.05"
+[1] "Draw %: 25.44"
+[1] "Feyenoord %: 54.51"
+[1] "--Mean 4 Models--"
+[1] "Fortuna Sittard has a mean win % of 20.61%; a min win % of 18.6%; a max win % of 23.48%."
+[1] "Draw has a mean win % of 25.93%; a min win % of 25.27%; a max win % of 27.14%."
+[1] "Feyenoord has a mean win % of 53.46%; a min win % of 49.38%; a max win of % 56.13%."
+[1] "Fortuna Sittard has a mean win of the Double Chance of 46.54%; a min win % of 43.87%, a max win % of 50.62%."
+[1] "Feyenoord has a mean win of the Double Chance of 79.39%; a min win % of 76.52%, a max win % of 81.4%."
+[1] "The mean likelihood that there are more than 2.5 goals is 40.9%; max % is 41.96 and min % is 39.53%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 59.1%; max % is 60.47 and min % is 58.04%."
+[1] "--Sportsbook Odds--"
+[1] "Fortuna Sittard Barstool Odds are: 15.62"
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Feyenoord Barstool Odds are: 69.23"
+[1] "Fortuna Sittard Adjusted Barstool Odds are: 14.654"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.396"
+[1] "Feyenoord Adjusted Barstool Odds are: 64.95"
+[1] "Fortuna Sittard's Barstool Odds to cover the 1.25 spread are: 55.25"
+[1] "Feyenoord's Barstool Odds to cover the -1.25 spread are: 50"
+[1] "Barstool's line for the total is 2.5 at 1.62, which is a 61.73% chance of the over 2.5 hitting. The line for the under is 2.3, which is a 43.48% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                              bet           date_time
+1                 Fortuna Sittard 2023-02-26 03:15:00
+2  draw Fortuna Sittard/Feyenoord 2023-02-26 03:15:00
+3 under Fortuna Sittard/Feyenoord 2023-02-26 03:15:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                 |team            | expected_attg| expected_gs|bet |
+|:----------------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/1077684/ivor-pandur             |Fortuna Sittard |      0.000000|   0.2941176|    |
+|/players/163815/ivo-pinto                |Fortuna Sittard |      0.007675|   0.0434783|    |
+|/players/1166329/rodrigo-guth            |Fortuna Sittard |      0.061475|   0.0588235|    |
+|/players/183198/dimitris-siovas          |Fortuna Sittard |      0.031550|   0.0666667|    |
+|/players/807739/george-cox               |Fortuna Sittard |      0.042525|   0.0833333|    |
+|/players/660897/arianit-ferati           |Fortuna Sittard |      0.025675|   0.1052632|    |
+|/players/645576/kristijan-bistrovic      |Fortuna Sittard |      0.024200|   0.1052632|    |
+|/players/670030/inigo-cordoba            |Fortuna Sittard |      0.050750|   0.1666667|    |
+|/players/287340/oguzhan-zyakup           |Fortuna Sittard |      0.039650|   0.1960784|    |
+|/players/957120/umaro-embalo             |Fortuna Sittard |      0.132150|   0.1851852|    |
+|/players/42211/burak-yilmaz              |Fortuna Sittard |      0.264650|   0.3448276|    |
+|/players/690188/oussama-idrissi          |Feyenoord       |      0.240350|   0.4878049|    |
+|/players/954092/santiago-gimenez         |Feyenoord       |      0.312575|   0.4878049|    |
+|/players/760743/javairo-dilrosun         |Feyenoord       |      0.171350|   0.3773585|    |
+|/players/935409/orkun-kkcü               |Feyenoord       |      0.093700|   0.3448276|    |
+|/players/970243/mats-wieffer             |Feyenoord       |      0.106975|   0.1666667|    |
+|/players/970563/quinten-timber           |Feyenoord       |      0.108350|   0.2083333|    |
+|/players/1393669/quilindschy-hartman     |Feyenoord       |      0.023175|   0.0909091|    |
+|/players/727897/david-hancko             |Feyenoord       |      0.031675|   0.1538462|    |
+|/players/881640/lutsharel-geertruida     |Feyenoord       |      0.108275|   0.1333333|    |
+|/players/935622/marcus-holmgren-pedersen |Feyenoord       |      0.019500|   0.0952381|    |
+|/players/408986/timon-wellenreuther      |Feyenoord       |      0.000000|   0.0952381|    |
+|/players/1282285/tijjani-noslin          |Fortuna Sittard |      0.012650|   0.1754386|    |
+|/players/920872/thomas-buitink           |Fortuna Sittard |      0.023175|   0.2272727|    |
+|/players/798069/deroy-duarte             |Fortuna Sittard |      0.000900|   0.0833333|    |
+|/players/253121/paul-gladon              |Fortuna Sittard |      0.001725|   0.2127660|    |
+|/players/823209/marcos-lopez             |Feyenoord       |      0.000000|   0.1111111|    |
+|/players/931862/danilo                   |Feyenoord       |      0.063225|   0.5000000|    |
+|/players/1265963/igor-paixao             |Feyenoord       |      0.000000|   0.2941176|    |
+|/players/957357/mohamed-taabouni         |Feyenoord       |      0.000000|   0.2777778|    |
+____________________________________________________
+
+[1] "Facts about Fortuna Sittard:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1077684/ivor-pandur        |           0|         32.0111|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/163815/ivo-pinto           |           1|         27.8094|           1.5770|        0.0365|         0.1470|      0.0061|        0.0070|      0.0188| 90.0000|
+|/players/1166329/rodrigo-guth       |           1|         40.1807|           1.4642|        0.1376|         0.4747|      0.0532|        0.0533|      0.0091| 90.0000|
+|/players/183198/dimitris-siovas     |           1|         39.4668|           1.2796|        0.1106|         0.4638|      0.0509|        0.0269|      0.0091| 90.0000|
+|/players/807739/george-cox          |           1|         26.6426|           1.6079|        0.1336|         0.3883|      0.0252|        0.0422|      0.0450| 85.3750|
+|/players/660897/arianit-ferati      |           2|         36.4371|           2.9426|        0.1443|         0.4147|      0.0112|        0.0232|      0.0139| 90.0000|
+|/players/645576/kristijan-bistrovic |           2|         34.3208|           2.1261|        0.1443|         0.8490|      0.0426|        0.0232|      0.0559| 90.0000|
+|/players/670030/inigo-cordoba       |           3|         20.2325|           1.2155|        0.2171|         1.1637|      0.1096|        0.0443|      0.0474| 73.5238|
+|/players/287340/oguzhan-zyakup      |           3|         25.6040|           0.8328|        0.1621|         0.5295|      0.0265|        0.0381|      0.0526| 69.6000|
+|/players/957120/umaro-embalo        |           3|         12.0800|           1.0862|        0.4559|         1.0692|      0.1218|        0.1160|      0.0729| 67.0000|
+|/players/42211/burak-yilmaz         |           5|         19.0500|           0.7108|        0.6757|         1.7659|      0.2191|        0.2632|      0.0345| 90.0000|
+|/players/1282285/tijjani-noslin     |          NA|              NA|               NA|        0.1074|         0.2231|      0.0166|        0.0114|      0.0115| 23.0000|
+|/players/920872/thomas-buitink      |          NA|              NA|               NA|        0.0392|         0.1501|      0.0252|        0.0190|      0.0051| 20.4000|
+|/players/798069/deroy-duarte        |          NA|              NA|               NA|        0.0345|         0.0991|      0.0050|        0.0009|      0.0114| 16.4762|
+|/players/253121/paul-gladon         |          NA|              NA|               NA|        0.0148|         0.0533|      0.0021|        0.0015|      0.0017|  4.6250|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Julio Velazquez |     44.60202|     -11.17383|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Feyenoord:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/690188/oussama-idrissi          |           5|         29.9765|           1.3451|        1.0493|         1.6286|      0.1525|        0.3224|      0.1546| 66.4444|
+|/players/954092/santiago-gimenez         |           5|         14.5415|           0.8277|        1.0493|         3.0944|      0.5478|        0.4418|      0.0734| 74.0000|
+|/players/760743/javairo-dilrosun         |           5|         27.8562|           0.4656|        0.5397|         2.0521|      0.2939|        0.2183|      0.2338| 77.8000|
+|/players/935409/orkun-kkcü               |           3|         54.7988|           1.2653|        0.4582|         1.6603|      0.1196|        0.1182|      0.1263| 80.2703|
+|/players/970243/mats-wieffer             |           3|         63.3365|           2.4980|        0.3892|         1.3002|      0.1341|        0.1325|      0.1416| 90.0000|
+|/players/970563/quinten-timber           |           3|         40.0619|           1.8993|        0.3813|         1.0443|      0.1341|        0.1325|      0.1416| 90.0000|
+|/players/1393669/quilindschy-hartman     |           1|         56.9807|           1.8587|        0.2647|         0.7477|      0.0233|        0.0274|      0.1068| 90.0000|
+|/players/727897/david-hancko             |           1|         76.9816|           2.0874|        0.2153|         0.9729|      0.0794|        0.0397|      0.0699| 90.0000|
+|/players/881640/lutsharel-geertruida     |           1|         59.4076|           1.7436|        0.2257|         0.5866|      0.1500|        0.1399|      0.0805| 90.0000|
+|/players/935622/marcus-holmgren-pedersen |           1|         42.1279|           1.2539|        0.0680|         0.3651|      0.0281|        0.0222|      0.1271| 90.0000|
+|/players/408986/timon-wellenreuther      |           0|         32.5325|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/823209/marcos-lopez             |          NA|              NA|               NA|        0.0000|         0.1925|      0.0266|        0.0000|      0.0031| 23.5556|
+|/players/931862/danilo                   |          NA|              NA|               NA|        0.3342|         0.5158|      0.0764|        0.0821|      0.0148| 16.0000|
+|/players/1265963/igor-paixao             |          NA|              NA|               NA|        0.0758|         0.1702|      0.0097|        0.0000|      0.0253| 12.2000|
+|/players/957357/mohamed-taabouni         |          NA|              NA|               NA|        0.0000|         0.0949|      0.0092|        0.0000|      0.0606|  9.7297|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Arne Slot    |     70.87172|      15.86054|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3900542/Soccer_Models'...
+Receiving objects:   1% (49/4809),   63 kb
+Receiving objects:  11% (529/4809),  127 kb
+Receiving objects:  21% (1010/4809),  239 kb
+Receiving objects:  31% (1491/4809),  463 kb
+Receiving objects:  41% (1972/4809),  856 kb
+Receiving objects:  51% (2453/4809), 1136 kb
+Receiving objects:  61% (2934/4809), 7852 kb
+Receiving objects:  71% (3415/4809), 10430 kb
+Receiving objects:  81% (3896/4809), 10710 kb
+Receiving objects:  91% (4377/4809), 10822 kb
+Receiving objects: 100% (4809/4809), 11434 kb, done.
