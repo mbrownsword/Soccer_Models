@@ -1,126 +1,126 @@
-[1] "Updated at 2023-02-24 06:36:12.922"
+[1] "Updated at 2023-02-25 06:33:34.357"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Everton 1.1112 to Aston Villa 1.2531"
-[1] "Total: 2.3643"
-[1] "Everton %: 32.31"
-[1] "Draw %: 28.53"
-[1] "Aston Villa %: 39.16"
+[1] "Score: Everton 1.0881 to Aston Villa 1.2472"
+[1] "Total: 2.3353"
+[1] "Everton %: 31.89"
+[1] "Draw %: 28.54"
+[1] "Aston Villa %: 39.57"
 [1] "--XG Model--"
-[1] "Score: Everton 0.9191 to Aston Villa 1.3058"
-[1] "Total: 2.2249"
-[1] "Everton %: 25.67"
-[1] "Draw %: 28.66"
-[1] "Aston Villa %: 45.67"
+[1] "Score: Everton 0.9219 to Aston Villa 1.3317"
+[1] "Total: 2.2536"
+[1] "Everton %: 25.39"
+[1] "Draw %: 28.35"
+[1] "Aston Villa %: 46.26"
 [1] "--XGoT Model--"
-[1] "Score: Everton 0.9177 to Aston Villa 1.4731"
-[1] "Total: 2.3908"
-[1] "Everton %: 23.81"
-[1] "Draw %: 26.2"
-[1] "Aston Villa %: 49.99"
+[1] "Score: Everton 0.8833 to Aston Villa 1.4184"
+[1] "Total: 2.3017"
+[1] "Everton %: 23.67"
+[1] "Draw %: 27.09"
+[1] "Aston Villa %: 49.24"
 [1] "--XA Model--"
-[1] "Score: Everton 1.0964 to Aston Villa 1.4694"
-[1] "Total: 2.5658"
-[1] "Everton %: 28.98"
-[1] "Draw %: 26.1"
-[1] "Aston Villa %: 44.92"
+[1] "Score: Everton 1.0995 to Aston Villa 1.4742"
+[1] "Total: 2.5737"
+[1] "Everton %: 28.89"
+[1] "Draw %: 25.95"
+[1] "Aston Villa %: 45.16"
 [1] "--Mean 4 Models--"
-[1] "Everton has a mean win % of 27.69%; a min win % of 23.81%; a max win % of 32.31%."
-[1] "Draw has a mean win % of 27.37%; a min win % of 26.1%; a max win % of 28.66%."
-[1] "Aston Villa has a mean win % of 44.94%; a min win % of 39.16%; a max win of % 49.99%."
-[1] "Everton has a mean win of the Double Chance of 55.06%; a min win % of 50.01%, a max win % of 60.84%."
-[1] "Aston Villa has a mean win of the Double Chance of 72.31%; a min win % of 67.69%, a max win % of 76.19%."
-[1] "The mean likelihood that there are more than 2.5 goals is 42.15%; max % is 46.92 and min % is 37.85%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 57.85%; max % is 62.15 and min % is 53.08%."
+[1] "Everton has a mean win % of 27.46%; a min win % of 23.67%; a max win % of 31.89%."
+[1] "Draw has a mean win % of 27.48%; a min win % of 25.95%; a max win % of 28.54%."
+[1] "Aston Villa has a mean win % of 45.06%; a min win % of 39.57%; a max win of % 49.24%."
+[1] "Everton has a mean win of the Double Chance of 54.94%; a min win % of 50.76%, a max win % of 60.43%."
+[1] "Aston Villa has a mean win of the Double Chance of 72.54%; a min win % of 68.11%, a max win % of 76.33%."
+[1] "The mean likelihood that there are more than 2.5 goals is 41.65%; max % is 47.08 and min % is 38.87%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 58.35%; max % is 61.13 and min % is 52.92%."
 [1] "--Sportsbook Odds--"
-[1] "Everton Barstool Odds are: 40"
-[1] "The Barstool Odds of a Draw are: 30.77"
-[1] "Aston Villa Barstool Odds are: 33.9"
-[1] "Everton Adjusted Barstool Odds are: 38.215"
-[1] "The Adjusted Barstool Odds of a Draw are: 29.397"
-[1] "Aston Villa Adjusted Barstool Odds are: 32.388"
-[1] "Everton's Barstool Odds to cover the -0.5 spread are: 40.82"
-[1] "Aston Villa's Barstool Odds to cover the 0.5 spread are: 63.69"
-[1] "Barstool's line for the total is 2.5 at 2.23, which is a 44.84% chance of the over 2.5 hitting. The line for the under is 1.66, which is a 60.24% chance of the under 2.5 hitting."
+[1] "Everton Barstool Odds are: 38.1"
+[1] "The Barstool Odds of a Draw are: 31.75"
+[1] "Aston Villa Barstool Odds are: 34.48"
+[1] "Everton Adjusted Barstool Odds are: 36.519"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.432"
+[1] "Aston Villa Adjusted Barstool Odds are: 33.049"
+[1] "Everton's Barstool Odds to cover the 0.5 spread are: 68.97"
+[1] "Aston Villa's Barstool Odds to cover the -0.5 spread are: 35.71"
+[1] "Barstool's line for the total is 2.5 at 2.3, which is a 43.48% chance of the over 2.5 hitting. The line for the under is 1.62, which is a 61.73% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-              bet           date_time
-1     Aston Villa 2023-02-25 07:00:00
-2 Aston Villa ATS 2023-02-25 07:00:00
+          bet           date_time
+1 Aston Villa 2023-02-25 07:00:00
 
 
 |player            |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
 |:-----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
-|Vitaliy Mykolenko |EVE  |     37| 1.85|          NA|  0.7935|   0.2530|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
-|Vitaliy Mykolenko |EVE  |     41| 2.30|          NA|  0.5759|   0.1411|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
-|Vitaliy Mykolenko |EVE  |     33| 1.51|          NA|  0.9290|   0.2667|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
-|Seamus Coleman    |EVE  |     33| 1.85|          NA|  0.6457|   0.1052|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
-|Seamus Coleman    |EVE  |     29| 1.51|          NA|  0.8578|   0.1955|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
-|Matty Cash        |AVL  |     36| 1.51|          NA|  0.8040|   0.1417|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
-|Alex Moreno       |AVL  |     38| 1.85|          NA|  0.9653|   0.4248|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
-|Alex Moreno       |AVL  |     42| 2.23|          NA|  0.8873|   0.4389|passes    |ENG England |      0.4484|         NA|        NA|         NA|       NA|
-|Alex Moreno       |AVL  |     46| 2.58|          NA|  0.7346|   0.3470|passes    |ENG England |      0.3876|         NA|        NA|         NA|       NA|
-|Alex Moreno       |AVL  |     34| 1.55|          NA|  0.9927|   0.3475|passes    |ENG England |      0.6452|         NA|        NA|         NA|       NA|
-|Alex Moreno       |AVL  |     50| 3.17|          NA|  0.5230|   0.2075|passes    |ENG England |      0.3155|         NA|        NA|         NA|       NA|
+|Ollie Watkins     |AVL  |     16| 1.51|          NA|  0.8610|   0.1987|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Leon Bailey       |AVL  |     18| 1.85|          NA|  0.8606|   0.3201|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Leon Bailey       |AVL  |     22| 2.30|          NA|  0.5877|   0.1529|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Leon Bailey       |AVL  |     14| 1.51|          NA|  0.9776|   0.3153|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Tyrone Mings      |AVL  |     53| 1.58|          NA|  0.7464|   0.1135|passes    |ENG England |      0.6329|         NA|        NA|         NA|       NA|
+|Vitaliy Mykolenko |EVE  |     37| 1.85|          NA|  0.7943|   0.2538|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Vitaliy Mykolenko |EVE  |     41| 2.30|          NA|  0.5770|   0.1422|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Vitaliy Mykolenko |EVE  |     33| 1.51|          NA|  0.9294|   0.2671|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Seamus Coleman    |EVE  |     33| 1.85|          NA|  0.6467|   0.1062|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Seamus Coleman    |EVE  |     29| 1.51|          NA|  0.8584|   0.1961|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Matty Cash        |AVL  |     36| 1.51|          NA|  0.8176|   0.1553|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Boubacar Kamara   |AVL  |     49| 1.58|          NA|  0.7439|   0.1110|passes    |ENG England |      0.6329|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                           |team        | expected_attg| expected_gs|bet |
 |:----------------------------------|:-----------|-------------:|-----------:|:---|
-|/players/303919/jordan-pickford    |Everton     |      0.000000|   0.0285714|    |
-|/players/77690/seamus-coleman      |Everton     |      0.016075|   0.0526316|    |
-|/players/247761/conor-coady        |Everton     |      0.011550|   0.0588235|    |
-|/players/243138/james-tarkowski    |Everton     |      0.021925|   0.0588235|    |
-|/players/874025/vitalii-mykolenko  |Everton     |      0.004125|   0.0588235|    |
-|/players/604785/alex-iwobi         |Everton     |      0.054450|   0.1333333|    |
-|/players/352887/abdoulaye-doucour  |Everton     |      0.132275|   0.1111111|    |
-|/players/179410/idrissa-gana-gueye |Everton     |      0.084100|   0.1111111|    |
-|/players/1185748/amadou-onana      |Everton     |      0.147125|   0.1333333|    |
-|/players/939542/dwight-mcneil      |Everton     |      0.110725|   0.1538462|    |
-|/players/391064/neal-maupay        |Everton     |      0.206100|   0.2941176|    |
-|/players/540088/ollie-watkins      |Aston Villa |      0.425825|   0.2777778|*   |
-|/players/610184/emiliano-buendia   |Aston Villa |      0.058000|   0.1886792|    |
-|/players/184536/philippe-coutinho  |Aston Villa |      0.152775|   0.2173913|    |
-|/players/787350/douglas-luiz       |Aston Villa |      0.071400|   0.0833333|    |
-|/players/816325/boubacar-kamara    |Aston Villa |      0.028825|   0.0625000|    |
-|/players/356406/john-mcginn        |Aston Villa |      0.055700|   0.1428571|    |
-|/players/477588/lex-moreno         |Aston Villa |      0.051975|   0.0384615|    |
-|/players/419664/tyrone-mings       |Aston Villa |      0.037675|   0.0526316|    |
-|/players/710159/ezri-konsa         |Aston Villa |      0.023775|   0.0476190|    |
-|/players/729731/matty-cash         |Aston Villa |      0.079925|   0.0909091|    |
-|/players/268375/emiliano-martinez  |Aston Villa |      0.000000|   0.1886792|    |
-|/players/950474/james-garner       |Everton     |      0.008325|   0.0769231|    |
-|/players/492586/demarai-gray       |Everton     |      0.038025|   0.1785714|    |
-|/players/1112684/nathan-patterson  |Everton     |      0.061975|   0.1176471|    |
-|/players/862467/ruben-vinagre      |Everton     |      0.000000|   0.0434783|    |
-|/players/23354/ashley-young        |Aston Villa |      0.026400|   0.1666667|    |
-|/players/671331/leon-bailey        |Aston Villa |      0.087500|   0.1886792|    |
-|/players/1021929/jacob-ramsey      |Aston Villa |      0.028425|   0.1428571|    |
-|/players/1088066/jhon-duran        |Aston Villa |      0.002350|   0.2439024|    |
+|/players/303919/jordan-pickford    |Everton     |      0.000000|   0.0294118|    |
+|/players/77690/seamus-coleman      |Everton     |      0.018100|   0.0500000|    |
+|/players/247761/conor-coady        |Everton     |      0.010425|   0.0555556|    |
+|/players/243138/james-tarkowski    |Everton     |      0.022750|   0.0769231|    |
+|/players/874025/vitalii-mykolenko  |Everton     |      0.004475|   0.0588235|    |
+|/players/604785/alex-iwobi         |Everton     |      0.053200|   0.1250000|    |
+|/players/352887/abdoulaye-doucour  |Everton     |      0.134300|   0.1052632|    |
+|/players/179410/idrissa-gana-gueye |Everton     |      0.085425|   0.1052632|    |
+|/players/1185748/amadou-onana      |Everton     |      0.152400|   0.1333333|    |
+|/players/939542/dwight-mcneil      |Everton     |      0.112150|   0.1428571|    |
+|/players/391064/neal-maupay        |Everton     |      0.209950|   0.2857143|    |
+|/players/540088/ollie-watkins      |Aston Villa |      0.323975|   0.2702703|*   |
+|/players/671331/leon-bailey        |Aston Villa |      0.198225|   0.1851852|    |
+|/players/1021929/jacob-ramsey      |Aston Villa |      0.084875|   0.1428571|    |
+|/players/787350/douglas-luiz       |Aston Villa |      0.114550|   0.0833333|    |
+|/players/816325/boubacar-kamara    |Aston Villa |      0.046725|   0.0588235|    |
+|/players/356406/john-mcginn        |Aston Villa |      0.089650|   0.1333333|    |
+|/players/210111/lucas-digne        |Aston Villa |      0.018550|   0.0555556|    |
+|/players/419664/tyrone-mings       |Aston Villa |      0.050550|   0.0526316|    |
+|/players/710159/ezri-konsa         |Aston Villa |      0.030250|   0.0454545|    |
+|/players/729731/matty-cash         |Aston Villa |      0.098225|   0.0909091|    |
+|/players/268375/emiliano-martinez  |Aston Villa |      0.000000|   0.4545455|    |
+|/players/492586/demarai-gray       |Everton     |      0.025675|   0.0000000|    |
+|/players/862467/ruben-vinagre      |Everton     |      0.000000|   0.0000000|    |
+|/players/603329/mason-holgate      |Everton     |      0.000000|   0.0000000|    |
+|/players/982284/ellis-simms        |Everton     |      0.055300|   0.0000000|*   |
+|/players/23354/ashley-young        |Aston Villa |      0.032600|   0.0000000|    |
+|/players/610184/emiliano-buendia   |Aston Villa |      0.067775|   0.0000000|*   |
+|/players/477588/lex-moreno         |Aston Villa |      0.000000|   0.0000000|    |
+|/players/1088066/jhon-duran        |Aston Villa |      0.005900|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Everton:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/303919/jordan-pickford    |           0|         29.1233|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/77690/seamus-coleman      |           1|         35.8815|           2.9133|        0.1303|         0.4528|      0.0235|        0.0163|      0.0584| 90.0000|
-|/players/247761/conor-coady        |           1|         52.8147|           1.0528|        0.0629|         0.2624|      0.0323|        0.0112|      0.0129| 90.0000|
-|/players/243138/james-tarkowski    |           1|         40.0148|           2.1777|        0.2112|         0.8072|      0.0431|        0.0219|      0.0615| 90.0000|
-|/players/874025/vitalii-mykolenko  |           1|         42.9139|           2.1429|        0.1108|         0.4333|      0.0185|        0.0046|      0.0351| 90.0000|
-|/players/604785/alex-iwobi         |           3|         23.9886|           0.6668|        0.3004|         1.3924|      0.1388|        0.0549|      0.0644| 81.9143|
-|/players/352887/abdoulaye-doucour  |           3|         32.8895|           1.1614|        0.5561|         1.5884|      0.1392|        0.1339|      0.0502| 90.0000|
-|/players/179410/idrissa-gana-gueye |           3|         44.2952|           1.3658|        0.4819|         1.1196|      0.0946|        0.0903|      0.0417| 80.9000|
-|/players/1185748/amadou-onana      |           3|         27.7809|           1.3791|        0.3504|         1.3830|      0.1500|        0.1629|      0.0741| 81.3000|
-|/players/939542/dwight-mcneil      |           3|         24.1706|           0.9062|        0.6908|         1.7021|      0.0920|        0.1173|      0.1538| 90.0000|
-|/players/391064/neal-maupay        |           5|         17.8785|           0.3532|        0.6901|         1.9880|      0.3283|        0.2275|      0.1268| 83.1951|
-|/players/950474/james-garner       |          NA|              NA|               NA|        0.1031|         0.2094|      0.0079|        0.0086|      0.0049|  9.1000|
-|/players/492586/demarai-gray       |          NA|              NA|               NA|        0.1501|         0.3809|      0.0241|        0.0429|      0.0206|  8.7000|
-|/players/1112684/nathan-patterson  |          NA|              NA|               NA|        0.0552|         0.0560|      0.0187|        0.0645|      0.0128|  8.0857|
-|/players/862467/ruben-vinagre      |          NA|              NA|               NA|        0.0000|         0.0634|      0.0000|        0.0000|      0.0016|  6.8049|
+|/players/303919/jordan-pickford    |           0|         29.1360|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/77690/seamus-coleman      |           1|         35.8971|           2.9133|        0.1303|         0.4530|      0.0235|        0.0164|      0.0584| 90.0000|
+|/players/247761/conor-coady        |           1|         52.8376|           1.0528|        0.0630|         0.2625|      0.0323|        0.0112|      0.0129| 90.0000|
+|/players/243138/james-tarkowski    |           1|         40.0322|           2.1777|        0.2113|         0.8076|      0.0431|        0.0219|      0.0615| 90.0000|
+|/players/874025/vitalii-mykolenko  |           1|         42.9326|           2.1429|        0.1109|         0.4335|      0.0185|        0.0046|      0.0351| 90.0000|
+|/players/604785/alex-iwobi         |           3|         23.9990|           0.6668|        0.3005|         1.3930|      0.1390|        0.0549|      0.0645| 81.9143|
+|/players/352887/abdoulaye-doucour  |           3|         32.9037|           1.1614|        0.5563|         1.5891|      0.1393|        0.1340|      0.0503| 90.0000|
+|/players/179410/idrissa-gana-gueye |           3|         44.3144|           1.3658|        0.4821|         1.1201|      0.0947|        0.0904|      0.0417| 80.9000|
+|/players/1185748/amadou-onana      |           3|         27.7930|           1.3791|        0.3506|         1.3836|      0.1501|        0.1630|      0.0742| 81.3000|
+|/players/939542/dwight-mcneil      |           3|         24.1811|           0.9062|        0.6911|         1.7029|      0.0921|        0.1174|      0.1539| 90.0000|
+|/players/391064/neal-maupay        |           5|         17.8863|           0.3532|        0.6904|         1.9888|      0.3286|        0.2277|      0.1269| 83.1951|
+|/players/492586/demarai-gray       |           0|              NA|               NA|        0.1064|         0.2680|      0.0129|        0.0273|      0.0196|  9.1000|
+|/players/862467/ruben-vinagre      |           0|              NA|               NA|        0.0000|         0.0546|      0.0000|        0.0000|      0.0018|  8.7000|
+|/players/603329/mason-holgate      |           0|              NA|               NA|        0.0374|         0.0377|      0.0073|        0.0000|      0.0000|  8.0857|
+|/players/982284/ellis-simms        |           0|              NA|               NA|        0.0833|         0.2097|      0.0323|        0.0536|      0.0210|  6.8049|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
@@ -129,40 +129,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Aston Villa:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/540088/ollie-watkins     |           5|         18.4068|           0.3584|        1.1069|         2.4191|      0.5366|        0.6052|      0.1101| 90.0000|
-|/players/610184/emiliano-buendia  |           5|         26.5353|           1.2059|        0.4480|         1.4112|      0.2239|        0.0675|      0.0834| 77.2222|
-|/players/184536/philippe-coutinho |           3|         33.6263|           0.8797|        0.8358|         2.2713|      0.2090|        0.1756|      0.0799| 73.0000|
-|/players/787350/douglas-luiz      |           3|         42.2165|           1.7637|        0.3478|         0.7628|      0.0547|        0.0797|      0.0929| 90.0000|
-|/players/816325/boubacar-kamara   |           3|         50.6064|           2.3201|        0.1470|         0.5000|      0.0337|        0.0335|      0.0406| 84.5641|
-|/players/356406/john-mcginn       |           3|         31.2331|           1.9433|        0.3173|         1.3652|      0.1028|        0.0608|      0.1540| 90.0000|
-|/players/477588/lex-moreno        |           1|         51.0781|           2.6655|        0.0790|         0.5077|      0.0519|        0.0570|      0.1505| 85.8980|
-|/players/419664/tyrone-mings      |           1|         58.2099|           0.7137|        0.0951|         0.3394|      0.0324|        0.0449|      0.0385| 90.0000|
-|/players/710159/ezri-konsa        |           1|         48.2107|           0.9755|        0.1201|         0.4644|      0.0431|        0.0266|      0.0224| 90.0000|
-|/players/729731/matty-cash        |           1|         42.0943|           2.3505|        0.1924|         0.5916|      0.0322|        0.0925|      0.1064| 90.0000|
-|/players/268375/emiliano-martinez |           0|         29.7145|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/23354/ashley-young       |          NA|              NA|               NA|        0.0605|         0.1185|      0.0049|        0.0298|      0.0185| 17.0000|
-|/players/671331/leon-bailey       |          NA|              NA|               NA|        0.1922|         0.3348|      0.0380|        0.1070|      0.0264| 12.7778|
-|/players/1021929/jacob-ramsey     |          NA|              NA|               NA|        0.0413|         0.1214|      0.0148|        0.0317|      0.0013|  5.4359|
-|/players/1088066/jhon-duran       |          NA|              NA|               NA|        0.0234|         0.1033|      0.0053|        0.0029|      0.0054|  4.1020|
+|/players/540088/ollie-watkins     |           5|         21.4891|           0.7592|        0.9272|         2.2494|      0.5115|        0.4148|      0.0659| 90.0000|
+|/players/671331/leon-bailey       |           5|         23.7373|           0.8571|        0.5982|         1.5465|      0.2433|        0.2290|      0.1204| 76.7917|
+|/players/1021929/jacob-ramsey     |           3|         27.6109|           1.8885|        0.6292|         1.5285|      0.1348|        0.0925|      0.0495| 78.2400|
+|/players/787350/douglas-luiz      |           3|         45.4050|           1.4531|        0.4773|         1.0608|      0.0835|        0.1293|      0.1061| 90.0000|
+|/players/816325/boubacar-kamara   |           3|         54.4285|           1.9114|        0.2017|         0.6953|      0.0515|        0.0543|      0.0463| 84.5641|
+|/players/356406/john-mcginn       |           3|         33.5921|           1.6010|        0.4355|         1.8986|      0.1570|        0.0987|      0.1759| 90.0000|
+|/players/210111/lucas-digne       |           1|         49.2115|           2.2313|        0.0388|         0.4044|      0.0150|        0.0206|      0.1423| 84.7727|
+|/players/419664/tyrone-mings      |           1|         58.6703|           0.7886|        0.1047|         0.3642|      0.0440|        0.0552|      0.0399| 90.0000|
+|/players/710159/ezri-konsa        |           1|         48.5920|           1.0779|        0.1323|         0.4983|      0.0584|        0.0327|      0.0233| 90.0000|
+|/players/729731/matty-cash        |           1|         42.4273|           2.5972|        0.2120|         0.6347|      0.0436|        0.1137|      0.1104| 90.0000|
+|/players/268375/emiliano-martinez |           0|         29.7003|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/23354/ashley-young       |           0|              NA|               NA|        0.0719|         0.1457|      0.0089|        0.0360|      0.0153| 13.2083|
+|/players/610184/emiliano-buendia  |           0|              NA|               NA|        0.1202|         0.2029|      0.0416|        0.0775|      0.0278| 11.7600|
+|/players/477588/lex-moreno        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0045|  5.4359|
+|/players/1088066/jhon-duran       |           0|              NA|               NA|        0.0457|         0.2084|      0.0158|        0.0057|      0.0073|  5.2273|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Unai Emery   |     123.2283|      7.875635|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901174/Soccer_Models'...
-Receiving objects:   1% (46/4530),   63 kb
-Receiving objects:  11% (499/4530),  127 kb
-Receiving objects:  21% (952/4530),  183 kb
-Receiving objects:  31% (1405/4530),  351 kb
-Receiving objects:  41% (1858/4530),  856 kb
-Receiving objects:  51% (2311/4530), 1024 kb
-Receiving objects:  61% (2764/4530), 1416 kb
-Receiving objects:  71% (3217/4530), 10309 kb
-Receiving objects:  81% (3670/4530), 10590 kb
-Receiving objects:  91% (4123/4530), 10814 kb
-Receiving objects: 100% (4530/4530), 11196 kb, done.
+Receiving objects:   1% (47/4683),   63 kb
+Receiving objects:  11% (516/4683),  127 kb
+Receiving objects:  21% (984/4683),  239 kb
+Receiving objects:  31% (1452/4683),  407 kb
+Receiving objects:  41% (1921/4683),  856 kb
+Receiving objects:  51% (2389/4683), 1080 kb
+Receiving objects:  61% (2857/4683), 5442 kb
+Receiving objects:  71% (3325/4683), 10373 kb
+Receiving objects:  81% (3794/4683), 10653 kb
+Receiving objects:  91% (4262/4683), 10821 kb
+Receiving objects: 100% (4683/4683), 11318 kb, done.
