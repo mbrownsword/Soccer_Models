@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 12:57:45.310"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: FC Copenhagen 1.9766 to AaB 0.6912"
+[1] "Total: 2.6678"
+[1] "FC Copenhagen %: 68.6"
+[1] "Draw %: 20.14"
+[1] "AaB %: 11.26"
+[1] "--XG Model--"
+[1] "Score: FC Copenhagen 2.2511 to AaB 0.5713"
+[1] "Total: 2.8224"
+[1] "FC Copenhagen %: 76.32"
+[1] "Draw %: 16.36"
+[1] "AaB %: 7.32"
+[1] "--XGoT Model--"
+[1] "Score: FC Copenhagen 2.1958 to AaB 0.6058"
+[1] "Total: 2.8016"
+[1] "FC Copenhagen %: 74.54"
+[1] "Draw %: 17.46"
+[1] "AaB %: 8"
+[1] "--XA Model--"
+[1] "Score: FC Copenhagen 2.1921 to AaB 0.5341"
+[1] "Total: 2.7262"
+[1] "FC Copenhagen %: 76.06"
+[1] "Draw %: 16.62"
+[1] "AaB %: 7.32"
+[1] "--Mean 4 Models--"
+[1] "FC Copenhagen has a mean win % of 73.88%; a min win % of 68.6%; a max win % of 76.32%."
+[1] "Draw has a mean win % of 17.64%; a min win % of 16.36%; a max win % of 20.14%."
+[1] "AaB has a mean win % of 8.48%; a min win % of 7.32%; a max win of % 11.26%."
+[1] "FC Copenhagen has a mean win of the Double Chance of 91.53%; a min win % of 88.74%, a max win % of 92.68%."
+[1] "AaB has a mean win of the Double Chance of 26.12%; a min win % of 23.68%, a max win % of 31.4%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.77%; max % is 53.75 and min % is 49.15%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.23%; max % is 50.85 and min % is 46.25%."
+[1] "--Sportsbook Odds--"
+[1] "FC Copenhagen Barstool Odds are: 75.76"
+[1] "The Barstool Odds of a Draw are: 20"
+[1] "AaB Barstool Odds are: 10.53"
+[1] "FC Copenhagen Adjusted Barstool Odds are: 71.277"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.816"
+[1] "AaB Adjusted Barstool Odds are: 9.907"
+[1] "FC Copenhagen's Barstool Odds to cover the -0.5 spread are: 75.76"
+[1] "AaB's Barstool Odds to cover the 0.5 spread are: 28.17"
+[1] "Barstool's line for the total is 2.5 at 1.79, which is a 55.87% chance of the over 2.5 hitting. The line for the under is 2.02, which is a 49.5% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-26 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                   |team          | expected_attg| expected_gs|bet |
+|:------------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/760722/kamil-grabara              |FC Copenhagen |      0.000000|   0.0243902|    |
+|/players/1305787/elias-jelert              |FC Copenhagen |      0.027175|   0.1000000|    |
+|/players/442602/denis-vavro                |FC Copenhagen |      0.046200|   0.1538462|    |
+|/players/306563/davit-khocholava           |FC Copenhagen |      0.035075|   0.1538462|    |
+|/players/205005/christian-srensen          |FC Copenhagen |      0.053125|   0.1538462|    |
+|/players/262739/lukas-lerager              |FC Copenhagen |      0.149600|   0.2439024|    |
+|/players/199818/rasmus-falk                |FC Copenhagen |      0.113250|   0.2941176|    |
+|/players/258226/viktor-claesson            |FC Copenhagen |      0.131750|   0.4081633|    |
+|/players/576118/diogo-goncalves            |FC Copenhagen |      0.276450|   0.3448276|    |
+|/players/560584/jordan-larsson             |FC Copenhagen |      0.426000|   0.4444444|    |
+|/players/965349/mohamed-daramy             |FC Copenhagen |      0.250950|   0.4545455|    |
+|/players/952307/younes-bakiz               |AaB           |      0.055750|   0.1960784|    |
+|/players/186751/nicklas-helenius           |AaB           |      0.140025|   0.1960784|    |
+|/players/732110/louka-prip                 |AaB           |      0.091050|   0.1333333|    |
+|/players/1014136/malthe-hjholt             |AaB           |      0.012350|   0.0476190|    |
+|/players/824642/pedro-ferreira             |AaB           |      0.050300|   0.0666667|    |
+|/players/252969/lucas-andersen             |AaB           |      0.046375|   0.1333333|    |
+|/players/177735/jakob-ahlmann              |AaB           |      0.012000|   0.0357143|    |
+|/players/890260/lars-kramer                |AaB           |      0.013700|   0.0357143|    |
+|/players/186556/rasmus-thelander           |AaB           |      0.002750|   0.0243902|    |
+|/players/1029360/kasper-jrgensen           |AaB           |      0.027300|   0.0666667|    |
+|/players/1247691/theo-sander               |AaB           |      0.000000|   0.2222222|    |
+|/players/1000428/isak-bergmann-johannesson |FC Copenhagen |      0.112875|   0.3571429|    |
+|/players/1078936/paul-mukairu              |FC Copenhagen |      0.044175|   0.2941176|    |
+|/players/1014166/mamoudou-karamoko         |FC Copenhagen |      0.072500|   0.4545455|    |
+|/players/313981/andreas-cornelius          |FC Copenhagen |      0.066975|   0.4878049|    |
+|/players/1311196/oliver-ross               |AaB           |      0.068100|   0.1666667|    |
+|/players/1267276/anosike-ementa            |AaB           |      0.000000|   0.1666667|    |
+|/players/828510/allan-sousa                |AaB           |      0.010775|   0.1666667|    |
+|/players/950991/kilian-ludewig             |AaB           |      0.000000|   0.1333333|    |
+____________________________________________________
+
+[1] "Facts about FC Copenhagen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                   | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/760722/kamil-grabara              |           0|         24.8187|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1305787/elias-jelert              |           1|         47.0550|           1.6229|        0.1169|         0.4412|      0.0299|        0.0255|      0.0221| 90.0000|
+|/players/442602/denis-vavro                |           1|         63.1743|           1.7372|        0.2050|         0.9282|      0.0641|        0.0487|      0.0368| 90.0000|
+|/players/306563/davit-khocholava           |           1|         67.3885|           1.1670|        0.1102|         0.3695|      0.0568|        0.0376|      0.0215| 81.6286|
+|/players/205005/christian-srensen          |           1|         65.0552|           2.0301|        0.3270|         1.0279|      0.0747|        0.0566|      0.2748| 90.0000|
+|/players/262739/lukas-lerager              |           3|         49.0868|           2.6638|        0.4529|         1.3266|      0.1247|        0.1641|      0.0557| 90.0000|
+|/players/199818/rasmus-falk                |           3|         65.6840|           1.6010|        0.4050|         0.9125|      0.0758|        0.1206|      0.1834| 80.6087|
+|/players/258226/viktor-claesson            |           3|         39.9436|           1.1547|        0.5545|         1.8589|      0.1863|        0.1419|      0.1345| 78.4000|
+|/players/576118/diogo-goncalves            |           5|         29.0654|           2.0819|        0.6102|         2.4567|      0.2407|        0.3178|      0.3212| 90.0000|
+|/players/560584/jordan-larsson             |           5|         28.7585|           0.5253|        1.8127|         4.3627|      0.6322|        0.5387|      0.1231| 90.0000|
+|/players/965349/mohamed-daramy             |           5|         27.0418|           0.6320|        0.7924|         1.3649|      0.2030|        0.2680|      0.0824| 75.8889|
+|/players/1000428/isak-bergmann-johannesson |          NA|              NA|               NA|        0.1974|         0.2918|      0.0797|        0.1149|      0.0458| 14.1111|
+|/players/1078936/paul-mukairu              |          NA|              NA|               NA|        0.0785|         0.2437|      0.0312|        0.0450|      0.0043| 11.6000|
+|/players/1014166/mamoudou-karamoko         |          NA|              NA|               NA|        0.0650|         0.2692|      0.0964|        0.0724|      0.0165|  9.3913|
+|/players/313981/andreas-cornelius          |          NA|              NA|               NA|        0.1514|         0.3275|      0.1217|        0.0693|      0.0062|  8.3714|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Jacob Neestrup |     11.99798|     -1.069167|4-3-3     |
+____________________________________________________
+
+[1] "Facts about AaB:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/952307/younes-bakiz     |           5|         23.1036|           1.3252|        0.3293|         1.4086|      0.1041|        0.0748|      0.0431| 81.5833|
+|/players/186751/nicklas-helenius |           5|         21.0888|           0.7706|        0.5444|         1.4454|      0.1713|        0.1981|      0.0540| 90.0000|
+|/players/732110/louka-prip       |           5|         20.3587|           0.9188|        0.5269|         1.2594|      0.1246|        0.1214|      0.0679| 81.2000|
+|/players/1014136/malthe-hjholt   |           3|         30.2610|           1.6148|        0.0844|         0.2028|      0.0230|        0.0177|      0.0272| 78.1053|
+|/players/824642/pedro-ferreira   |           3|         46.2939|           2.8525|        0.1593|         0.6894|      0.0532|        0.0718|      0.0417| 90.0000|
+|/players/252969/lucas-andersen   |           3|         27.1009|           1.2032|        0.3562|         1.2844|      0.1015|        0.0648|      0.0604| 75.1667|
+|/players/177735/jakob-ahlmann    |           1|         36.4826|           1.7889|        0.1060|         0.2561|      0.0052|        0.0206|      0.0482| 90.0000|
+|/players/890260/lars-kramer      |           1|         45.9004|           1.5925|        0.0792|         0.2632|      0.0242|        0.0162|      0.0187| 90.0000|
+|/players/186556/rasmus-thelander |           1|         41.4602|           0.8911|        0.0345|         0.2224|      0.0154|        0.0030|      0.0055| 90.0000|
+|/players/1029360/kasper-jrgensen |           1|         36.6018|           1.6204|        0.1126|         0.3627|      0.0455|        0.0363|      0.0281| 90.0000|
+|/players/1247691/theo-sander     |           0|         33.0239|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1311196/oliver-ross     |          NA|              NA|               NA|        0.1243|         0.2832|      0.0901|        0.0944|      0.0025| 14.8333|
+|/players/1267276/anosike-ementa  |          NA|              NA|               NA|        0.0000|         0.1549|      0.0356|        0.0000|      0.0123| 11.8947|
+|/players/828510/allan-sousa      |          NA|              NA|               NA|        0.0643|         0.0942|      0.0045|        0.0152|      0.0076|  8.8000|
+|/players/950991/kilian-ludewig   |          NA|              NA|               NA|        0.0245|         0.0240|      0.0000|        0.0000|      0.0005|  8.4167|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Erik Hamrén  |            9|     -2.163333|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3887457/Soccer_Models'...
+Receiving objects:   1% (49/4818),   63 kb
+Receiving objects:  11% (530/4818),  127 kb
+Receiving objects:  21% (1012/4818),  239 kb
+Receiving objects:  31% (1494/4818),  519 kb
+Receiving objects:  41% (1976/4818),  856 kb
+Receiving objects:  51% (2458/4818), 1136 kb
+Receiving objects:  61% (2939/4818), 8869 kb
+Receiving objects:  71% (3421/4818), 10438 kb
+Receiving objects:  81% (3903/4818), 10718 kb
+Receiving objects:  91% (4385/4818), 10830 kb
+Receiving objects: 100% (4818/4818), 11444 kb, done.
