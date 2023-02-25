@@ -1,111 +1,119 @@
-[1] "Updated at 2023-02-23 20:39:19.248"
+[1] "Updated at 2023-02-25 07:03:39.082"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Cadiz 1.1369 to Rayo Vallecano 1.3307"
-[1] "Total: 2.4676"
-[1] "Cadiz %: 32.4"
-[1] "Draw %: 27.38"
-[1] "Rayo Vallecano %: 40.22"
+[1] "Score: Cadiz 1.0652 to Rayo Vallecano 1.2803"
+[1] "Total: 2.3455"
+[1] "Cadiz %: 30.56"
+[1] "Draw %: 28.36"
+[1] "Rayo Vallecano %: 41.08"
 [1] "--XG Model--"
-[1] "Score: Cadiz 1.0483 to Rayo Vallecano 1.4122"
-[1] "Total: 2.4605"
-[1] "Cadiz %: 28.51"
-[1] "Draw %: 26.72"
-[1] "Rayo Vallecano %: 44.77"
+[1] "Score: Cadiz 0.961 to Rayo Vallecano 1.2794"
+[1] "Total: 2.2404"
+[1] "Cadiz %: 27.48"
+[1] "Draw %: 29.03"
+[1] "Rayo Vallecano %: 43.49"
 [1] "--XGoT Model--"
-[1] "Score: Cadiz 1.1068 to Rayo Vallecano 1.3455"
-[1] "Total: 2.4523"
-[1] "Cadiz %: 30.84"
-[1] "Draw %: 27.59"
-[1] "Rayo Vallecano %: 41.57"
+[1] "Score: Cadiz 1.0061 to Rayo Vallecano 1.2473"
+[1] "Total: 2.2534"
+[1] "Cadiz %: 29.56"
+[1] "Draw %: 29.15"
+[1] "Rayo Vallecano %: 41.29"
 [1] "--XA Model--"
-[1] "Score: Cadiz 1.0414 to Rayo Vallecano 1.3405"
-[1] "Total: 2.3819"
-[1] "Cadiz %: 28.9"
-[1] "Draw %: 28.24"
-[1] "Rayo Vallecano %: 42.86"
+[1] "Score: Cadiz 1.0166 to Rayo Vallecano 1.2441"
+[1] "Total: 2.2607"
+[1] "Cadiz %: 29.97"
+[1] "Draw %: 28.84"
+[1] "Rayo Vallecano %: 41.19"
 [1] "--Mean 4 Models--"
-[1] "Cadiz has a mean win % of 30.16%; a min win % of 28.51%; a max win % of 32.4%."
-[1] "Draw has a mean win % of 27.48%; a min win % of 26.72%; a max win % of 28.24%."
-[1] "Rayo Vallecano has a mean win % of 42.35%; a min win % of 40.22%; a max win of % 44.77%."
-[1] "Cadiz has a mean win of the Double Chance of 57.65%; a min win % of 55.23%, a max win % of 59.78%."
-[1] "Rayo Vallecano has a mean win of the Double Chance of 69.84%; a min win % of 67.6%, a max win % of 71.49%."
-[1] "The mean likelihood that there are more than 2.5 goals is 43.6%; max % is 44.26 and min % is 42.25%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 56.39%; max % is 57.75 and min % is 55.74%."
+[1] "Cadiz has a mean win % of 29.39%; a min win % of 27.48%; a max win % of 30.56%."
+[1] "Draw has a mean win % of 28.84%; a min win % of 28.36%; a max win % of 29.15%."
+[1] "Rayo Vallecano has a mean win % of 41.76%; a min win % of 41.08%; a max win of % 43.49%."
+[1] "Cadiz has a mean win of the Double Chance of 58.24%; a min win % of 56.51%, a max win % of 58.92%."
+[1] "Rayo Vallecano has a mean win of the Double Chance of 70.61%; a min win % of 69.44%, a max win % of 72.52%."
+[1] "The mean likelihood that there are more than 2.5 goals is 39.03%; max % is 41.26 and min % is 38.13%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 60.97%; max % is 61.87 and min % is 58.74%."
 [1] "--Sportsbook Odds--"
 [1] "Cadiz Barstool Odds are: 33.9"
-[1] "The Barstool Odds of a Draw are: 34.48"
-[1] "Rayo Vallecano Barstool Odds are: 37.04"
-[1] "Cadiz Adjusted Barstool Odds are: 32.157"
-[1] "The Adjusted Barstool Odds of a Draw are: 32.707"
-[1] "Rayo Vallecano Adjusted Barstool Odds are: 35.136"
-[1] "Cadiz's Barstool Odds to cover the 0.5 spread are: 66.67"
-[1] "Rayo Vallecano's Barstool Odds to cover the -0.5 spread are: 37.74"
-[1] "Barstool's line for the total is 2.5 at 2.55, which is a 39.22% chance of the over 2.5 hitting. The line for the under is 1.52, which is a 65.79% chance of the under 2.5 hitting."
+[1] "The Barstool Odds of a Draw are: 35.09"
+[1] "Rayo Vallecano Barstool Odds are: 36.36"
+[1] "Cadiz Adjusted Barstool Odds are: 32.178"
+[1] "The Adjusted Barstool Odds of a Draw are: 33.308"
+[1] "Rayo Vallecano Adjusted Barstool Odds are: 34.514"
+[1] "Cadiz's Barstool Odds to cover the 0.5 spread are: 67.57"
+[1] "Rayo Vallecano's Barstool Odds to cover the -0.5 spread are: 37.04"
+[1] "Barstool's line for the total is 2.5 at 2.65, which is a 37.74% chance of the over 2.5 hitting. The line for the under is 1.48, which is a 67.57% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                         bet           date_time
 1            Rayo Vallecano 2023-02-25 07:15:00
 2 over Cadiz/Rayo Vallecano 2023-02-25 07:15:00
+
+
+|player         |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:--------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Luis Hernandez |CAD  |     43| 1.51|          NA|  0.7985|   0.1362|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
+|Oscar Trejo    |RAY  |     41| 1.85|          NA|  0.8079|   0.2674|passes    |ESP Spain |      0.5405|         NA|        NA|         NA|       NA|
+|Oscar Trejo    |RAY  |     45| 2.30|          NA|  0.6075|   0.1727|passes    |ESP Spain |      0.4348|         NA|        NA|         NA|       NA|
+|Oscar Trejo    |RAY  |     37| 1.51|          NA|  0.9314|   0.2691|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
-|pageUrl2                              |team           | expected_attg| expected_gs|bet |
-|:-------------------------------------|:--------------|-------------:|-----------:|:---|
-|/players/486981/jeremias-ledesma      |Cadiz          |      0.000000|   0.0625000|    |
-|/players/639461/fali                  |Cadiz          |      0.004325|   0.0454545|    |
-|/players/1192393/victor-chust         |Cadiz          |      0.069900|   0.0416667|    |
-|/players/384374/luis-hernndez         |Cadiz          |      0.004800|   0.0196078|    |
-|/players/526968/alfonso-espino        |Cadiz          |      0.037275|   0.0588235|    |
-|/players/434404/gonzalo-escalante     |Cadiz          |      0.054675|   0.1785714|    |
-|/players/640089/ivn-alejo             |Cadiz          |      0.124425|   0.1666667|    |
-|/players/518015/federico-san-emeterio |Cadiz          |      0.044325|   0.0833333|    |
-|/players/639144/rubn-alcaraz          |Cadiz          |      0.062650|   0.1428571|    |
-|/players/638120/sergi-guardiola       |Cadiz          |      0.172750|   0.2631579|    |
-|/players/303088/roger                 |Cadiz          |      0.241300|   0.3389831|    |
-|/players/254241/stole-dimitrievski    |Rayo Vallecano |      0.000000|   0.0434783|    |
-|/players/184521/florian-lejeune       |Rayo Vallecano |      0.027825|   0.1754386|    |
-|/players/264885/ivn-balliu            |Rayo Vallecano |      0.002600|   0.0303030|    |
-|/players/814663/alejandro-catena      |Rayo Vallecano |      0.071475|   0.0909091|    |
-|/players/750028/francisco-garcia      |Rayo Vallecano |      0.031225|   0.0952381|    |
-|/players/671865/santi-comesana        |Rayo Vallecano |      0.058275|   0.1176471|    |
-|/players/956622/oscar-valentin        |Rayo Vallecano |      0.052800|   0.0769231|    |
-|/players/21414/oscar-trejo            |Rayo Vallecano |      0.068900|   0.2564103|    |
-|/players/638010/isi-palazon           |Rayo Vallecano |      0.169600|   0.2500000|    |
-|/players/474658/lvaro-garcia          |Rayo Vallecano |      0.190300|   0.2173913|    |
-|/players/359196/raul-de-tomas         |Rayo Vallecano |      0.313025|   0.3508772|    |
-|/players/359195/ruben-sobrino         |Cadiz          |      0.054350|   0.1754386|    |
-|/players/210282/anthony-lozano        |Cadiz          |      0.086100|   0.3030303|    |
-|/players/580589/jorge-mer             |Cadiz          |      0.000000|   0.0285714|    |
-|/players/640276/isaac-carceln         |Cadiz          |      0.001250|   0.0370370|    |
-|/players/872396/path-ciss             |Rayo Vallecano |      0.004450|   0.1538462|    |
-|/players/22543/radamel-falcao         |Rayo Vallecano |      0.100450|   0.4166667|    |
-|/players/571615/unai-lopez            |Rayo Vallecano |      0.047850|   0.1428571|    |
-|/players/595138/salvi-snchez          |Rayo Vallecano |      0.014875|   0.1666667|    |
+|pageUrl2                           |team           | expected_attg| expected_gs|bet |
+|:----------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/486981/jeremias-ledesma   |Cadiz          |      0.000000|   0.2857143|    |
+|/players/640276/isaac-carceln      |Cadiz          |      0.044250|   0.0357143|    |
+|/players/384374/luis-hernndez      |Cadiz          |      0.007125|   0.0196078|    |
+|/players/639461/fali               |Cadiz          |      0.006500|   0.0434783|    |
+|/players/526968/alfonso-espino     |Cadiz          |      0.062450|   0.0555556|    |
+|/players/466132/tho-bongonda       |Cadiz          |      0.138575|   0.2777778|    |
+|/players/639144/rubn-alcaraz       |Cadiz          |      0.032200|   0.1333333|    |
+|/players/434404/gonzalo-escalante  |Cadiz          |      0.026100|   0.1724138|    |
+|/players/359195/ruben-sobrino      |Cadiz          |      0.100725|   0.1694915|    |
+|/players/638120/sergi-guardiola    |Cadiz          |      0.170850|   0.2564103|    |
+|/players/303088/roger              |Cadiz          |      0.222950|   0.3333333|    |
+|/players/359196/raul-de-tomas      |Rayo Vallecano |      0.311425|   0.3508772|    |
+|/players/980422/sergio-camello     |Rayo Vallecano |      0.192650|   0.2857143|    |
+|/players/474658/lvaro-garcia       |Rayo Vallecano |      0.098725|   0.2173913|    |
+|/players/956622/oscar-valentin     |Rayo Vallecano |      0.089725|   0.0769231|    |
+|/players/671865/santi-comesana     |Rayo Vallecano |      0.082750|   0.1176471|    |
+|/players/638010/isi-palazon        |Rayo Vallecano |      0.086300|   0.2500000|    |
+|/players/750028/francisco-garcia   |Rayo Vallecano |      0.025975|   0.0952381|    |
+|/players/814663/alejandro-catena   |Rayo Vallecano |      0.066875|   0.0909091|    |
+|/players/184521/florian-lejeune    |Rayo Vallecano |      0.025750|   0.1724138|    |
+|/players/264885/ivn-balliu         |Rayo Vallecano |      0.001575|   0.0303030|    |
+|/players/254241/stole-dimitrievski |Rayo Vallecano |      0.000000|   0.0434783|    |
+|/players/640089/ivn-alejo          |Cadiz          |      0.043325|   0.0000000|    |
+|/players/210282/anthony-lozano     |Cadiz          |      0.032125|   0.0000000|    |
+|/players/213500/lex-fernández      |Cadiz          |      0.000950|   0.0000000|    |
+|/players/580589/jorge-mer          |Cadiz          |      0.000000|   0.0000000|    |
+|/players/571615/unai-lopez         |Rayo Vallecano |      0.070125|   0.0000000|*   |
+|/players/872396/path-ciss          |Rayo Vallecano |      0.003125|   0.0000000|    |
+|/players/22543/radamel-falcao      |Rayo Vallecano |      0.028575|   0.0000000|    |
+|/players/21414/oscar-trejo         |Rayo Vallecano |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Cadiz:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/486981/jeremias-ledesma      |           0|         25.0908|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/639461/fali                  |           1|         27.8699|           1.1617|        0.0654|         0.5364|      0.0139|        0.0044|      0.0402| 79.9677|
-|/players/1192393/victor-chust         |           1|         38.8730|           1.2285|        0.1876|         0.4812|      0.1029|        0.0858|      0.0044| 90.0000|
-|/players/384374/luis-hernndez         |           1|         44.4945|           0.8170|        0.0699|         0.3225|      0.0346|        0.0050|      0.0302| 90.0000|
-|/players/526968/alfonso-espino        |           1|         30.1885|           3.0028|        0.1828|         0.4585|      0.0305|        0.0451|      0.1087| 90.0000|
-|/players/434404/gonzalo-escalante     |           3|         35.6254|           2.2647|        0.3450|         0.8982|      0.0820|        0.0645|      0.0540| 90.0000|
-|/players/640089/ivn-alejo             |           3|         13.3689|           1.2965|        0.3241|         1.1866|      0.1303|        0.1455|      0.1544| 69.8235|
-|/players/518015/federico-san-emeterio |           3|         29.3598|           1.1868|        0.2708|         0.1345|      0.0018|        0.0538|      0.0380| 75.0000|
-|/players/639144/rubn-alcaraz          |           3|         43.6511|           1.9716|        0.3250|         2.0398|      0.1493|        0.0799|      0.0842| 90.0000|
-|/players/638120/sergi-guardiola       |           5|         17.9335|           0.3776|        0.5415|         1.6739|      0.2466|        0.2193|      0.0605| 74.9143|
-|/players/303088/roger                 |           5|         19.5346|           0.8767|        0.9372|         2.0754|      0.2843|        0.3216|      0.0836| 90.0000|
-|/players/359195/ruben-sobrino         |           0|              NA|               NA|        0.2912|         1.0685|      0.1148|        0.0655|      0.0356| 20.1765|
-|/players/210282/anthony-lozano        |           0|              NA|               NA|        0.2780|         0.6121|      0.0582|        0.1015|      0.0393| 15.0857|
-|/players/580589/jorge-mer             |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0007| 15.0000|
-|/players/640276/isaac-carceln         |           0|              NA|               NA|        0.0480|         0.1763|      0.0042|        0.0020|      0.0043| 10.0323|
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/486981/jeremias-ledesma  |           0|         24.7290|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/640276/isaac-carceln     |           1|         32.8513|           1.8981|        0.1261|         0.5230|      0.0342|        0.0515|      0.0339| 90.0000|
+|/players/384374/luis-hernndez     |           1|         49.4247|           0.6416|        0.0819|         0.3274|      0.0677|        0.0086|      0.0251| 90.0000|
+|/players/639461/fali              |           1|         30.9580|           0.9124|        0.0766|         0.5444|      0.0271|        0.0077|      0.0333| 79.9677|
+|/players/526968/alfonso-espino    |           1|         33.5335|           2.3583|        0.2143|         0.4654|      0.0597|        0.0781|      0.0902| 90.0000|
+|/players/466132/tho-bongonda      |           3|         15.4753|           1.1584|        0.3958|         1.3288|      0.1129|        0.1628|      0.1059| 70.0000|
+|/players/639144/rubn-alcaraz      |           3|         50.9745|           2.3574|        0.2179|         1.1757|      0.0542|        0.0363|      0.0548| 90.0000|
+|/players/434404/gonzalo-escalante |           3|         41.6023|           2.7079|        0.2313|         0.5177|      0.0298|        0.0293|      0.0352| 90.0000|
+|/players/359195/ruben-sobrino     |           3|         21.9504|           0.8002|        0.4861|         1.2239|      0.2008|        0.1238|      0.1517| 90.0000|
+|/players/638120/sergi-guardiola   |           5|         17.8772|           0.3923|        0.5366|         1.6771|      0.2437|        0.2169|      0.0609| 74.9143|
+|/players/303088/roger             |           5|         17.3095|           0.8097|        0.8255|         1.8484|      0.2498|        0.2827|      0.0747| 80.0000|
+|/players/640089/ivn-alejo         |           0|              NA|               NA|        0.2327|         0.5136|      0.0243|        0.0514|      0.0326| 20.0000|
+|/players/210282/anthony-lozano    |           0|              NA|               NA|        0.1273|         0.5417|      0.0566|        0.0426|      0.0047| 15.0857|
+|/players/213500/lex-fernández     |           0|              NA|               NA|        0.0733|         0.2081|      0.0054|        0.0015|      0.0102| 10.0323|
+|/players/580589/jorge-mer         |           0|              NA|               NA|        0.0000|         0.0441|      0.0000|        0.0000|      0.0000| 10.0000|
 
 
 |manager_name    | approx_games| m_avg_elo_dif|formation |
@@ -114,40 +122,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Rayo Vallecano:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/254241/stole-dimitrievski |           0|         24.4755|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/184521/florian-lejeune    |           1|         48.8504|           1.7563|        0.1080|         0.5859|      0.0632|        0.0326|      0.0189| 90.0000|
-|/players/264885/ivn-balliu         |           1|         40.8069|           1.6345|        0.0226|         0.2079|      0.0265|        0.0026|      0.1114| 90.0000|
-|/players/814663/alejandro-catena   |           1|         58.2025|           1.0886|        0.2216|         0.6319|      0.0588|        0.0814|      0.0163| 90.0000|
-|/players/750028/francisco-garcia   |           1|         40.6226|           1.9438|        0.2099|         0.5839|      0.0280|        0.0330|      0.0889| 90.0000|
-|/players/671865/santi-comesana     |           2|         47.2922|           1.8475|        0.1259|         0.9786|      0.0947|        0.0614|      0.1094| 83.0714|
-|/players/956622/oscar-valentin     |           2|         43.7684|           1.9856|        0.3110|         0.6044|      0.0428|        0.0608|      0.0440| 82.2941|
-|/players/21414/oscar-trejo         |           3|         35.6965|           1.1597|        0.3809|         0.8431|      0.0728|        0.0762|      0.1218| 76.5429|
-|/players/638010/isi-palazon        |           3|         24.6108|           1.3635|        0.6666|         2.0843|      0.2118|        0.2026|      0.1046| 78.3333|
-|/players/474658/lvaro-garcia       |           3|         21.4721|           1.1875|        0.6451|         1.8970|      0.2515|        0.2299|      0.1769| 90.0000|
-|/players/359196/raul-de-tomas      |           5|         18.5005|           0.5551|        0.9307|         2.3453|      0.4327|        0.3997|      0.0737| 90.0000|
-|/players/872396/path-ciss          |           0|              NA|               NA|        0.1411|         0.5597|      0.0253|        0.0044|      0.0130| 13.4571|
-|/players/22543/radamel-falcao      |           0|              NA|               NA|        0.2720|         0.7850|      0.1553|        0.1174|      0.0196| 11.6667|
-|/players/571615/unai-lopez         |           0|              NA|               NA|        0.2038|         0.5392|      0.0219|        0.0547|      0.0358|  7.7059|
-|/players/595138/salvi-snchez       |           0|              NA|               NA|        0.0711|         0.1539|      0.0089|        0.0181|      0.0367|  6.9286|
+|/players/359196/raul-de-tomas      |           5|         23.5642|           0.9813|        1.0630|         2.2584|      0.4423|        0.4000|      0.0880| 90.0000|
+|/players/980422/sergio-camello     |           5|         18.5251|           0.5488|        0.6103|         1.8469|      0.2365|        0.2275|      0.0901| 83.0741|
+|/players/474658/lvaro-garcia       |           3|         25.0608|           1.0705|        0.5736|         1.8176|      0.1924|        0.1118|      0.2234| 90.0000|
+|/players/956622/oscar-valentin     |           3|         47.5348|           2.0291|        0.1418|         0.2330|      0.0263|        0.1035|      0.0372| 83.3077|
+|/players/671865/santi-comesana     |           3|         38.5525|           2.1273|        0.1235|         0.3787|      0.0312|        0.0902|      0.0155| 72.5625|
+|/players/638010/isi-palazon        |           3|         28.7241|           1.2291|        0.5927|         1.9971|      0.1620|        0.0985|      0.1320| 78.3333|
+|/players/750028/francisco-garcia   |           1|         37.8407|           1.9410|        0.1942|         0.5473|      0.0269|        0.0295|      0.0868| 90.0000|
+|/players/814663/alejandro-catena   |           1|         54.2167|           1.0871|        0.2050|         0.5923|      0.0566|        0.0727|      0.0160| 90.0000|
+|/players/184521/florian-lejeune    |           1|         45.5051|           1.7538|        0.0999|         0.5491|      0.0608|        0.0291|      0.0184| 90.0000|
+|/players/264885/ivn-balliu         |           1|         38.0124|           1.6322|        0.0210|         0.1949|      0.0255|        0.0024|      0.1088| 90.0000|
+|/players/254241/stole-dimitrievski |           0|         25.4413|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/571615/unai-lopez         |           0|              NA|               NA|        0.2874|         0.4658|      0.0142|        0.0778|      0.0239| 17.4375|
+|/players/872396/path-ciss          |           0|              NA|               NA|        0.0864|         0.3733|      0.0178|        0.0026|      0.0118| 11.6667|
+|/players/22543/radamel-falcao      |           0|              NA|               NA|        0.1184|         0.5300|      0.0687|        0.0310|      0.0153|  6.9259|
+|/players/21414/oscar-trejo         |           0|              NA|               NA|        0.0000|         0.0447|      0.0000|        0.0000|      0.0072|  6.6923|
 
 
 |manager_name  | approx_games| m_avg_elo_dif|formation |
 |:-------------|------------:|-------------:|:---------|
 |Andoni Iraola |     57.80606|     0.2761983|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918162/Soccer_Models'...
-Receiving objects:   1% (45/4461),   63 kb
-Receiving objects:  11% (491/4461),  127 kb
-Receiving objects:  21% (937/4461),  183 kb
-Receiving objects:  31% (1383/4461),  351 kb
-Receiving objects:  41% (1830/4461),  856 kb
-Receiving objects:  51% (2276/4461),  968 kb
-Receiving objects:  61% (2722/4461), 1360 kb
-Receiving objects:  71% (3168/4461), 10269 kb
-Receiving objects:  81% (3614/4461), 10550 kb
-Receiving objects:  91% (4060/4461), 10774 kb
-Receiving objects: 100% (4461/4461), 11141 kb, done.
+Receiving objects:   1% (48/4707),   63 kb
+Receiving objects:  11% (518/4707),  127 kb
+Receiving objects:  21% (989/4707),  239 kb
+Receiving objects:  31% (1460/4707),  407 kb
+Receiving objects:  41% (1930/4707),  856 kb
+Receiving objects:  51% (2401/4707), 1080 kb
+Receiving objects:  61% (2872/4707), 5506 kb
+Receiving objects:  71% (3342/4707), 10413 kb
+Receiving objects:  81% (3813/4707), 10677 kb
+Receiving objects:  91% (4284/4707), 10789 kb
+Receiving objects: 100% (4707/4707), 11345 kb, done.
