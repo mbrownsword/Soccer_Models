@@ -1,0 +1,157 @@
+[1] "Updated at 2023-02-25 12:09:00.107"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Udinese 1.4824 to Spezia 1.5879"
+[1] "Total: 3.0703"
+[1] "Udinese %: 35.03"
+[1] "Draw %: 23.77"
+[1] "Spezia %: 41.2"
+[1] "--XG Model--"
+[1] "Score: Udinese 1.4818 to Spezia 1.0226"
+[1] "Total: 2.5044"
+[1] "Udinese %: 47.98"
+[1] "Draw %: 25.65"
+[1] "Spezia %: 26.37"
+[1] "--XGoT Model--"
+[1] "Score: Udinese 1.5261 to Spezia 1.1028"
+[1] "Total: 2.6289"
+[1] "Udinese %: 46.99"
+[1] "Draw %: 24.84"
+[1] "Spezia %: 28.17"
+[1] "--XA Model--"
+[1] "Score: Udinese 1.8044 to Spezia 1.3098"
+[1] "Total: 3.1142"
+[1] "Udinese %: 49.46"
+[1] "Draw %: 23.38"
+[1] "Spezia %: 27.16"
+[1] "--Mean 4 Models--"
+[1] "Udinese has a mean win % of 44.87%; a min win % of 35.03%; a max win % of 49.46%."
+[1] "Draw has a mean win % of 24.41%; a min win % of 23.38%; a max win % of 25.65%."
+[1] "Spezia has a mean win % of 30.73%; a min win % of 26.37%; a max win of % 41.2%."
+[1] "Udinese has a mean win of the Double Chance of 69.27%; a min win % of 58.8%, a max win % of 73.63%."
+[1] "Spezia has a mean win of the Double Chance of 55.13%; a min win % of 50.54%, a max win % of 64.97%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.78%; max % is 59.51 and min % is 44.9%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.22%; max % is 55.1 and min % is 40.49%."
+[1] "--Sportsbook Odds--"
+[1] "Udinese Barstool Odds are: 60.61"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Spezia Barstool Odds are: 19.05"
+[1] "Udinese Adjusted Barstool Odds are: 57.19"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.835"
+[1] "Spezia Adjusted Barstool Odds are: 17.975"
+[1] "Udinese's Barstool Odds to cover the -0.75 spread are: 54.35"
+[1] "Spezia's Barstool Odds to cover the 0.75 spread are: 50.76"
+[1] "Barstool's line for the total is 2.5 at 1.89, which is a 52.91% chance of the over 2.5 hitting. The line for the under is 1.91, which is a 52.36% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+     bet           date_time
+1 Spezia 2023-02-26 09:00:00
+
+
+|player       |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_shots| prob_sogs| prob_goals| prob_ast|
+|:------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|----------:|---------:|----------:|--------:|
+|Ethan Ampadu |SPE  |      2|  6.8|          NA|  0.2568|   0.1097|shots     |ITA Italy |     0.1471|        NA|         NA|       NA|
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team    | expected_attg| expected_gs|bet |
+|:---------------------------------------|:-------|-------------:|-----------:|:---|
+|/players/165952/marco-silvestri         |Udinese |      0.000000|   0.1666667|    |
+|/players/500502/adam-masina             |Udinese |      0.018800|   0.1176471|    |
+|/players/844504/rodrigo-becao           |Udinese |      0.040975|   0.0714286|    |
+|/players/902383/nehun-pérez             |Udinese |      0.075625|   0.1428571|    |
+|/players/586474/kingsley-ehizibue       |Udinese |      0.066350|   0.1538462|    |
+|/players/1050178/lazar-samardzic        |Udinese |      0.192075|   0.3030303|    |
+|/players/538540/walace                  |Udinese |      0.077025|   0.1111111|    |
+|/players/557346/sandi-lovric            |Udinese |      0.172000|   0.2127660|    |
+|/players/1052898/iyenoma-udogie         |Udinese |      0.152725|   0.1666667|    |
+|/players/210278/roberto-pereyra         |Udinese |      0.176750|   0.3125000|    |
+|/players/1079485/beto                   |Udinese |      0.251525|   0.5000000|    |
+|/players/619513/eldor-shomurodov        |Spezia  |      0.011350|   0.2272727|    |
+|/players/613334/mbala-nzola             |Spezia  |      0.004900|   0.2857143|    |
+|/players/585237/daniele-verde           |Spezia  |      0.533225|   0.2127660|*   |
+|/players/526450/emmanuel-quartsin-gyasi |Spezia  |      0.199625|   0.2040816|    |
+|/players/780432/ethan-ampadu            |Spezia  |      0.000225|   0.0625000|    |
+|/players/187288/mehdi-bourabia          |Spezia  |      0.000075|   0.0909091|    |
+|/players/566118/arkadiusz-reca          |Spezia  |      0.001700|   0.1176471|    |
+|/players/723574/dimitrios-nikolaou      |Spezia  |      0.002050|   0.0270270|    |
+|/players/501570/mattia-caldara          |Spezia  |      0.025950|   0.1052632|    |
+|/players/683473/kelvin-amian            |Spezia  |      0.031475|   0.0344828|    |
+|/players/450742/bartlomiej-dragowski    |Spezia  |      0.000000|   0.1666667|    |
+|/players/254308/florian-thauvin         |Udinese |      0.039975|   0.5238095|    |
+|/players/196236/ilija-nestorovski       |Udinese |      0.072050|   0.3333333|    |
+|/players/1060654/festy-ebosele          |Udinese |      0.015025|   0.1785714|    |
+|/players/534484/isaac-success           |Udinese |      0.007525|   0.3125000|    |
+|/players/1039220/kevin-agudelo          |Spezia  |      0.084775|   0.1176471|    |
+|/players/71768/albin-ekdal              |Spezia  |      0.000000|   0.0416667|    |
+|/players/968019/salvador-ferrer         |Spezia  |      0.000000|   0.0232558|    |
+|/players/1072054/daniel-maldini         |Spezia  |      0.021675|   0.2222222|    |
+____________________________________________________
+
+[1] "Facts about Udinese:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/165952/marco-silvestri   |           0|         20.0998|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/500502/adam-masina       |           1|         41.1618|           1.1488|        0.1906|         1.0583|      0.0857|        0.0175|      0.0701| 90.0000|
+|/players/844504/rodrigo-becao     |           1|         42.5575|           1.5585|        0.0735|         0.5510|      0.0645|        0.0411|      0.0175| 90.0000|
+|/players/902383/nehun-pérez       |           1|         50.8234|           1.4252|        0.3410|         1.2965|      0.1719|        0.0773|      0.0237| 90.0000|
+|/players/586474/kingsley-ehizibue |           3|         22.4328|           1.8427|        0.2223|         0.1573|      0.0659|        0.0680|      0.1043| 79.0000|
+|/players/1050178/lazar-samardzic  |           3|         32.5837|           1.4332|        0.6328|         2.6147|      0.1391|        0.2026|      0.1337| 79.1250|
+|/players/538540/walace            |           3|         51.8722|           1.7818|        0.2812|         1.2699|      0.0751|        0.0775|      0.0453| 90.0000|
+|/players/557346/sandi-lovric      |           3|         38.9244|           1.4169|        0.5369|         2.1017|      0.2161|        0.1813|      0.1017| 78.2727|
+|/players/1052898/iyenoma-udogie   |           3|         30.7028|           1.4749|        0.2532|         1.0857|      0.1968|        0.1625|      0.0986| 90.0000|
+|/players/210278/roberto-pereyra   |           4|         28.9854|           1.2184|        0.5571|         2.0650|      0.0919|        0.1855|      0.0624| 81.6667|
+|/players/1079485/beto             |           5|         14.9813|           0.6548|        1.0683|         2.7489|      0.2239|        0.2762|      0.1728| 90.0000|
+|/players/254308/florian-thauvin   |          NA|              NA|               NA|        0.1209|         0.6158|      0.0412|        0.0379|      0.0491| 11.7273|
+|/players/196236/ilija-nestorovski |          NA|              NA|               NA|        0.1709|         0.6962|      0.0790|        0.0717|      0.0153| 11.0000|
+|/players/1060654/festy-ebosele    |          NA|              NA|               NA|        0.1046|         0.1066|      0.0041|        0.0144|      0.0231| 10.8750|
+|/players/534484/isaac-success     |          NA|              NA|               NA|        0.0344|         0.1751|      0.0117|        0.0071|      0.0574|  8.3333|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Andrea Sottil |     22.95455|     -1.960964|4-3-1-2   |
+____________________________________________________
+
+[1] "Facts about Spezia:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/619513/eldor-shomurodov        |           5|         22.2148|           1.1253|        0.7144|         2.2764|      0.2084|        0.0114|      0.0762| 77.7600|
+|/players/613334/mbala-nzola             |           3|         30.7858|           0.8892|        0.2859|         0.7418|      0.0130|        0.0044|      0.0190| 61.8000|
+|/players/585237/daniele-verde           |           3|         25.9701|           0.7651|        1.7154|         2.7200|      0.3611|        0.6895|      0.3946| 73.4000|
+|/players/526450/emmanuel-quartsin-gyasi |           3|         23.7153|           0.9381|        0.4721|         1.0208|      0.0893|        0.1975|      0.0529| 90.0000|
+|/players/780432/ethan-ampadu            |           2|         36.9671|           2.4898|        0.5732|         1.7529|      0.0001|        0.0001|      0.0050| 90.0000|
+|/players/187288/mehdi-bourabia          |           2|         56.8216|           1.4980|        0.5732|         1.0547|      0.0001|        0.0001|      0.0029| 90.0000|
+|/players/566118/arkadiusz-reca          |           1|         27.5215|           1.4624|        0.0048|         0.1382|      0.0200|        0.0013|      0.1068| 72.5333|
+|/players/723574/dimitrios-nikolaou      |           1|         56.1653|           1.3225|        0.0017|         0.1696|      0.0078|        0.0016|      0.0320| 90.0000|
+|/players/501570/mattia-caldara          |           1|         39.1821|           1.6592|        0.0191|         0.6583|      0.0982|        0.0234|      0.0122| 90.0000|
+|/players/683473/kelvin-amian            |           1|         34.4801|           1.9024|        0.0285|         0.8246|      0.1568|        0.0288|      0.0650| 90.0000|
+|/players/450742/bartlomiej-dragowski    |           0|         38.6332|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1039220/kevin-agudelo          |          NA|              NA|               NA|        0.2312|         0.7476|      0.0693|        0.0779|      0.0348| 28.2000|
+|/players/71768/albin-ekdal              |          NA|              NA|               NA|        0.0000|         0.1020|      0.0066|        0.0000|      0.0390| 17.4667|
+|/players/968019/salvador-ferrer         |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0410| 16.6000|
+|/players/1072054/daniel-maldini         |          NA|              NA|               NA|        0.2235|         0.3612|      0.0217|        0.0195|      0.0190| 12.2400|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Fabrizio Lorieri |            1|         -25.3|4-5-1     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3919278/Soccer_Models'...
+Receiving objects:   1% (48/4782),   63 kb
+Receiving objects:  11% (527/4782),  127 kb
+Receiving objects:  21% (1005/4782),  223 kb
+Receiving objects:  31% (1483/4782),  447 kb
+Receiving objects:  41% (1961/4782),  840 kb
+Receiving objects:  51% (2439/4782), 1120 kb
+Receiving objects:  61% (2918/4782), 5771 kb
+Receiving objects:  71% (3396/4782), 10405 kb
+Receiving objects:  81% (3874/4782), 10742 kb
+Receiving objects:  91% (4352/4782), 10854 kb
+Receiving objects: 100% (4782/4782), 11405 kb, done.
