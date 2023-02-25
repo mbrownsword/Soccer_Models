@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 13:15:07.718"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Club Brugge 1.3685 to KAA Gent 1.1437"
+[1] "Total: 2.5122"
+[1] "Club Brugge %: 42.07"
+[1] "Draw %: 26.67"
+[1] "KAA Gent %: 31.26"
+[1] "--XG Model--"
+[1] "Score: Club Brugge 1.309 to KAA Gent 1.0959"
+[1] "Total: 2.4049"
+[1] "Club Brugge %: 42.17"
+[1] "Draw %: 26.93"
+[1] "KAA Gent %: 30.9"
+[1] "--XGoT Model--"
+[1] "Score: Club Brugge 1.3162 to KAA Gent 1.131"
+[1] "Total: 2.4472"
+[1] "Club Brugge %: 41.33"
+[1] "Draw %: 26.95"
+[1] "KAA Gent %: 31.72"
+[1] "--XA Model--"
+[1] "Score: Club Brugge 1.4376 to KAA Gent 1.2405"
+[1] "Total: 2.6781"
+[1] "Club Brugge %: 41.57"
+[1] "Draw %: 26.33"
+[1] "KAA Gent %: 32.1"
+[1] "--Mean 4 Models--"
+[1] "Club Brugge has a mean win % of 41.78%; a min win % of 41.33%; a max win % of 42.17%."
+[1] "Draw has a mean win % of 26.72%; a min win % of 26.33%; a max win % of 26.95%."
+[1] "KAA Gent has a mean win % of 31.5%; a min win % of 30.9%; a max win of % 32.1%."
+[1] "Club Brugge has a mean win of the Double Chance of 68.51%; a min win % of 67.9%, a max win % of 69.1%."
+[1] "KAA Gent has a mean win of the Double Chance of 58.21%; a min win % of 57.83%, a max win % of 58.67%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.61%; max % is 48.85 and min % is 42.01%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.39%; max % is 57.99 and min % is 51.15%."
+[1] "--Sportsbook Odds--"
+[1] "Club Brugge Barstool Odds are: 47.62"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "KAA Gent Barstool Odds are: 31.75"
+[1] "Club Brugge Adjusted Barstool Odds are: 44.442"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.926"
+[1] "KAA Gent Adjusted Barstool Odds are: 29.631"
+[1] "Club Brugge's Barstool Odds to cover the -0.25 spread are: 53.76"
+[1] "KAA Gent's Barstool Odds to cover the 0.25 spread are: 50.51"
+[1] "Barstool's line for the total is 2.5 at 1.86, which is a 53.76% chance of the over 2.5 hitting. The line for the under is 1.95, which is a 51.28% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+           bet           date_time
+1 KAA Gent ATS 2023-02-26 04:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team        | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/37868/simon-mignolet          |Club Brugge |      0.000000|   0.0666667|    |
+|/players/191616/dedryck-boyata         |Club Brugge |      0.009900|   0.0526316|    |
+|/players/1256178/bjorn-meijer          |Club Brugge |      0.071325|   0.1538462|    |
+|/players/266105/clinton-mata           |Club Brugge |      0.021575|   0.0526316|    |
+|/players/445873/brandon-mechele        |Club Brugge |      0.015650|   0.0625000|    |
+|/players/149150/denis-odoi             |Club Brugge |      0.043925|   0.0833333|    |
+|/players/1126768/raphael-onyedika      |Club Brugge |      0.052200|   0.1111111|    |
+|/players/1026135/tajon-buchanan        |Club Brugge |      0.171050|   0.2222222|    |
+|/players/352898/casper-nielsen         |Club Brugge |      0.141850|   0.2380952|    |
+|/players/203666/hans-vanaken           |Club Brugge |      0.266825|   0.2500000|    |
+|/players/1102732/ferrn-jutglà          |Club Brugge |      0.273550|   0.3636364|    |
+|/players/245599/davy-roef              |KAA Gent    |      0.000000|   0.1666667|    |
+|/players/700074/jordan-torunarigha     |KAA Gent    |      0.055200|   0.0769231|    |
+|/players/726442/joseph-okumu           |KAA Gent    |      0.014600|   0.0322581|    |
+|/players/560772/michael-ngadeu-ngadjui |KAA Gent    |      0.025150|   0.1000000|    |
+|/players/470806/nurio                  |KAA Gent    |      0.055125|   0.0833333|    |
+|/players/482397/julien-de-sart         |KAA Gent    |      0.045400|   0.1428571|    |
+|/players/748620/alessio-castro-montes  |KAA Gent    |      0.074225|   0.1333333|    |
+|/players/40521/sven-kums               |KAA Gent    |      0.024800|   0.1250000|    |
+|/players/925345/hyun-seok-hong         |KAA Gent    |      0.095600|   0.3333333|    |
+|/players/282671/laurent-depoitre       |KAA Gent    |      0.239425|   0.2777778|    |
+|/players/737974/hugo-cuypers           |KAA Gent    |      0.273525|   0.3508772|    |
+|/players/643690/roman-yaremchuk        |Club Brugge |      0.051025|   0.4081633|    |
+|/players/837341/noa-lang               |Club Brugge |      0.034325|   0.3333333|    |
+|/players/923400/kamal-sowah            |Club Brugge |      0.000000|   0.2222222|    |
+|/players/640642/jack-hendry            |Club Brugge |      0.000725|   0.0833333|    |
+|/players/741397/jens-petter-hauge      |KAA Gent    |      0.008025|   0.2380952|    |
+|/players/346111/bruno-godeau           |KAA Gent    |      0.000000|   0.0416667|    |
+|/players/926409/anderson-niangbo       |KAA Gent    |      0.065950|   0.3125000|    |
+|/players/741397/jens-petter-hauge      |KAA Gent    |      0.008025|   0.2380952|    |
+____________________________________________________
+
+[1] "Facts about Club Brugge:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/37868/simon-mignolet     |           0|         37.1741|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/191616/dedryck-boyata    |           1|         55.4853|           0.6816|        0.1152|         0.6313|      0.0482|        0.0107|      0.0273| 90.0000|
+|/players/1256178/bjorn-meijer     |           1|         36.7530|           1.2041|        0.2578|         0.7063|      0.0609|        0.0830|      0.0944| 85.2000|
+|/players/266105/clinton-mata      |           1|         48.8151|           2.4324|        0.0913|         0.4001|      0.0322|        0.0235|      0.0942| 90.0000|
+|/players/445873/brandon-mechele   |           1|         56.7864|           2.2167|        0.0624|         0.3232|      0.0513|        0.0175|      0.0101| 90.0000|
+|/players/149150/denis-odoi        |           2|         52.9255|           1.8864|        0.2466|         0.8575|      0.0670|        0.0516|      0.0870| 81.6667|
+|/players/1126768/raphael-onyedika |           2|         44.6926|           2.3580|        0.2718|         0.9450|      0.0738|        0.0568|      0.0489| 90.0000|
+|/players/1026135/tajon-buchanan   |           3|         20.7320|           1.2957|        0.8305|         2.1760|      0.2219|        0.2018|      0.1267| 85.4483|
+|/players/352898/casper-nielsen    |           3|         28.6046|           1.8184|        0.5892|         1.8888|      0.1354|        0.1648|      0.1242| 90.0000|
+|/players/203666/hans-vanaken      |           3|         51.0236|           1.1514|        0.7504|         1.6088|      0.2866|        0.3269|      0.1727| 90.0000|
+|/players/1102732/ferrn-jutglà     |           5|         18.1446|           0.5721|        0.8919|         2.2098|      0.3717|        0.3431|      0.0740| 75.8462|
+|/players/643690/roman-yaremchuk   |           0|              NA|               NA|        0.2424|         0.4020|      0.0458|        0.0570|      0.0206| 14.1538|
+|/players/837341/noa-lang          |           0|              NA|               NA|        0.1071|         0.3331|      0.0445|        0.0361|      0.0543|  8.3333|
+|/players/923400/kamal-sowah       |           0|              NA|               NA|        0.0000|         0.1098|      0.0085|        0.0000|      0.0060|  4.8000|
+|/players/640642/jack-hendry       |           0|              NA|               NA|        0.0210|         0.0436|      0.0046|        0.0012|      0.0007|  4.5517|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Scott Parker |     93.82323|      2.362705|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about KAA Gent:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/245599/davy-roef              |           0|         26.3559|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/700074/jordan-torunarigha     |           1|         43.0049|           1.6529|        0.0979|         0.2935|      0.0312|        0.0624|      0.0265| 90.0000|
+|/players/726442/joseph-okumu           |           1|         48.5110|           1.9940|        0.0928|         0.4379|      0.0515|        0.0170|      0.0198| 90.0000|
+|/players/560772/michael-ngadeu-ngadjui |           1|         45.8286|           1.5056|        0.1618|         0.5238|      0.0276|        0.0277|      0.0239| 90.0000|
+|/players/470806/nurio                  |           3|         24.4286|           2.0481|        0.2914|         0.7010|      0.0509|        0.0593|      0.0787| 90.0000|
+|/players/482397/julien-de-sart         |           3|         48.1475|           2.4766|        0.2517|         1.1035|      0.0691|        0.0544|      0.0474| 90.0000|
+|/players/748620/alessio-castro-montes  |           3|         30.1281|           2.4567|        0.2796|         0.7762|      0.0864|        0.0864|      0.1207| 81.7576|
+|/players/40521/sven-kums               |           3|         51.8608|           1.2898|        0.1129|         0.5642|      0.0530|        0.0276|      0.0977| 90.0000|
+|/players/925345/hyun-seok-hong         |           4|         31.0477|           1.2035|        0.4727|         1.4305|      0.1349|        0.1136|      0.1181| 81.1429|
+|/players/282671/laurent-depoitre       |           5|         20.0489|           0.4450|        0.7429|         1.8305|      0.2888|        0.2962|      0.0913| 81.0333|
+|/players/737974/hugo-cuypers           |           5|         21.8616|           0.9201|        0.8627|         1.8998|      0.2932|        0.3534|      0.0832| 80.2258|
+|/players/741397/jens-petter-hauge      |           0|              NA|               NA|        0.0687|         0.1820|      0.0218|        0.0074|      0.0197|  9.7742|
+|/players/346111/bruno-godeau           |           0|              NA|               NA|        0.0000|         0.0258|      0.0010|        0.0000|      0.0021|  8.9667|
+|/players/926409/anderson-niangbo       |           0|              NA|               NA|        0.2350|         0.2263|      0.0274|        0.0735|      0.0299|  8.8571|
+|/players/741397/jens-petter-hauge      |           0|              NA|               NA|        0.0000|         0.2891|      0.0331|        0.0000|      0.0153|  8.2424|
+
+
+|manager_name        | approx_games| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Hein Vanhaezebrouck |      91.5596|      11.19478|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917158/Soccer_Models'...
+Receiving objects:   1% (49/4830),   63 kb
+Receiving objects:  11% (532/4830),  127 kb
+Receiving objects:  21% (1015/4830),  239 kb
+Receiving objects:  31% (1498/4830),  520 kb
+Receiving objects:  41% (1981/4830),  856 kb
+Receiving objects:  51% (2464/4830), 1136 kb
+Receiving objects:  61% (2947/4830), 8901 kb
+Receiving objects:  71% (3430/4830), 10421 kb
+Receiving objects:  81% (3913/4830), 10758 kb
+Receiving objects:  91% (4396/4830), 10814 kb
+Receiving objects: 100% (4830/4830), 11457 kb, done.
