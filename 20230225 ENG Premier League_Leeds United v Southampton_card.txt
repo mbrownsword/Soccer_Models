@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-24 06:38:35.207"
+[1] "Updated at 2023-02-25 06:36:31.420"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Leeds United 1.9169 to Southampton 1.3788"
-[1] "Total: 3.2957"
-[1] "Leeds United %: 49.59"
-[1] "Draw %: 22.32"
-[1] "Southampton %: 28.09"
+[1] "Score: Leeds United 1.7868 to Southampton 1.2713"
+[1] "Total: 3.0581"
+[1] "Leeds United %: 50.05"
+[1] "Draw %: 23.71"
+[1] "Southampton %: 26.24"
 [1] "--XG Model--"
-[1] "Score: Leeds United 1.6296 to Southampton 1.1452"
-[1] "Total: 2.7748"
-[1] "Leeds United %: 49.18"
-[1] "Draw %: 24.17"
-[1] "Southampton %: 26.65"
+[1] "Score: Leeds United 1.6042 to Southampton 1.1226"
+[1] "Total: 2.7268"
+[1] "Leeds United %: 48.69"
+[1] "Draw %: 24.36"
+[1] "Southampton %: 26.95"
 [1] "--XGoT Model--"
-[1] "Score: Leeds United 1.7957 to Southampton 1.2333"
-[1] "Total: 3.029"
-[1] "Leeds United %: 51.17"
-[1] "Draw %: 23.33"
-[1] "Southampton %: 25.5"
+[1] "Score: Leeds United 1.7828 to Southampton 1.2145"
+[1] "Total: 2.9973"
+[1] "Leeds United %: 50.74"
+[1] "Draw %: 24.32"
+[1] "Southampton %: 24.94"
 [1] "--XA Model--"
-[1] "Score: Leeds United 1.8722 to Southampton 1.2513"
-[1] "Total: 3.1235"
-[1] "Leeds United %: 52.26"
-[1] "Draw %: 23.09"
-[1] "Southampton %: 24.65"
+[1] "Score: Leeds United 1.8276 to Southampton 1.2215"
+[1] "Total: 3.0491"
+[1] "Leeds United %: 51.59"
+[1] "Draw %: 23.5"
+[1] "Southampton %: 24.91"
 [1] "--Mean 4 Models--"
-[1] "Leeds United has a mean win % of 50.55%; a min win % of 49.18%; a max win % of 52.26%."
-[1] "Draw has a mean win % of 23.23%; a min win % of 22.32%; a max win % of 24.17%."
-[1] "Southampton has a mean win % of 26.22%; a min win % of 24.65%; a max win of % 28.09%."
-[1] "Leeds United has a mean win of the Double Chance of 73.78%; a min win % of 71.91%, a max win % of 75.35%."
-[1] "Southampton has a mean win of the Double Chance of 49.45%; a min win % of 47.74%, a max win % of 50.82%."
-[1] "The mean likelihood that there are more than 2.5 goals is 57.83%; max % is 63.22 and min % is 51.1%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 42.17%; max % is 48.9 and min % is 36.78%."
+[1] "Leeds United has a mean win % of 50.27%; a min win % of 48.69%; a max win % of 51.59%."
+[1] "Draw has a mean win % of 23.97%; a min win % of 23.5%; a max win % of 24.36%."
+[1] "Southampton has a mean win % of 25.76%; a min win % of 24.91%; a max win of % 26.95%."
+[1] "Leeds United has a mean win of the Double Chance of 74.24%; a min win % of 73.05%, a max win % of 75.09%."
+[1] "Southampton has a mean win of the Double Chance of 49.73%; a min win % of 48.41%, a max win % of 51.31%."
+[1] "The mean likelihood that there are more than 2.5 goals is 55.7%; max % is 57.97 and min % is 50.22%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 44.3%; max % is 49.78 and min % is 42.03%."
 [1] "--Sportsbook Odds--"
-[1] "Leeds United Barstool Odds are: 52.38"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Southampton Barstool Odds are: 25"
-[1] "Leeds United Adjusted Barstool Odds are: 49.81"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.417"
-[1] "Southampton Adjusted Barstool Odds are: 23.773"
-[1] "Leeds United's Barstool Odds to cover the -0.5 spread are: 52.63"
-[1] "Southampton's Barstool Odds to cover the 0.5 spread are: 51.81"
-[1] "Barstool's line for the total is 2.5 at 1.95, which is a 51.28% chance of the over 2.5 hitting. The line for the under is 1.85, which is a 54.05% chance of the under 2.5 hitting."
+[1] "Leeds United Barstool Odds are: 51.28"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Southampton Barstool Odds are: 25.64"
+[1] "Leeds United Adjusted Barstool Odds are: 48.611"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.083"
+[1] "Southampton Adjusted Barstool Odds are: 24.306"
+[1] "Leeds United's Barstool Odds to cover the 0.5 spread are: 77.52"
+[1] "Southampton's Barstool Odds to cover the -0.5 spread are: 26.32"
+[1] "Barstool's line for the total is 2.5 at 1.94, which is a 51.55% chance of the over 2.5 hitting. The line for the under is 1.86, which is a 53.76% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
@@ -51,81 +51,83 @@
 
 |player              |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
 |:-------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
-|Mohamed Elyounoussi |SOU  |     19| 1.49|          NA|  0.7715|   0.1004|passes    |ENG England |      0.6711|         NA|        NA|         NA|       NA|
-|Romain Perraud      |SOU  |     24| 1.82|          NA|  0.9567|   0.4072|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
-|Romain Perraud      |SOU  |     28| 2.25|          NA|  0.8340|   0.3896|passes    |ENG England |      0.4444|         NA|        NA|         NA|       NA|
-|Romain Perraud      |SOU  |     32| 2.69|          NA|  0.6025|   0.2308|passes    |ENG England |      0.3717|         NA|        NA|         NA|       NA|
+|Mohamed Elyounoussi |SOU  |     19| 1.49|          NA|  0.7719|   0.1008|passes    |ENG England |      0.6711|         NA|        NA|         NA|       NA|
+|Romain Perraud      |SOU  |     24| 1.82|          NA|  0.9568|   0.4073|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
+|Romain Perraud      |SOU  |     28| 2.25|          NA|  0.8344|   0.3900|passes    |ENG England |      0.4444|         NA|        NA|         NA|       NA|
+|Romain Perraud      |SOU  |     32| 2.69|          NA|  0.6031|   0.2314|passes    |ENG England |      0.3717|         NA|        NA|         NA|       NA|
 |Romain Perraud      |SOU  |     20| 1.49|          NA|  0.9938|   0.3227|passes    |ENG England |      0.6711|         NA|        NA|         NA|       NA|
-|Adam Armstrong      |SOU  |     19| 2.33|          NA|  0.9664|   0.5372|passes    |ENG England |      0.4292|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     19| 2.33|          NA|  0.9666|   0.5374|passes    |ENG England |      0.4292|         NA|        NA|         NA|       NA|
 |Adam Armstrong      |SOU  |     15| 1.87|          NA|  0.9966|   0.4618|passes    |ENG England |      0.5348|         NA|        NA|         NA|       NA|
-|Adam Armstrong      |SOU  |     27| 3.60|          NA|  0.5935|   0.3157|passes    |ENG England |      0.2778|         NA|        NA|         NA|       NA|
-|Adam Armstrong      |SOU  |     23| 2.80|          NA|  0.8441|   0.4870|passes    |ENG England |      0.3571|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     27| 3.60|          NA|  0.5941|   0.3163|passes    |ENG England |      0.2778|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     23| 2.80|          NA|  0.8445|   0.4874|passes    |ENG England |      0.3571|         NA|        NA|         NA|       NA|
 |Adam Armstrong      |SOU  |     11| 1.53|          NA|  0.9999|   0.3463|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
-|Adam Armstrong      |SOU  |     31| 5.00|          NA|  0.3079|   0.1079|passes    |ENG England |      0.2000|         NA|        NA|         NA|       NA|
-|Romeo Lavia         |SOU  |     29| 1.87|          NA|  0.8468|   0.3120|passes    |ENG England |      0.5348|         NA|        NA|         NA|       NA|
-|Romeo Lavia         |SOU  |     33| 2.33|          NA|  0.6274|   0.1982|passes    |ENG England |      0.4292|         NA|        NA|         NA|       NA|
-|Romeo Lavia         |SOU  |     25| 1.53|          NA|  0.9601|   0.3065|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
-|Weston McKennie     |LEE  |     37| 1.85|          NA|  0.7749|   0.2344|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
-|Weston McKennie     |LEE  |     41| 2.30|          NA|  0.5505|   0.1157|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
-|Weston McKennie     |LEE  |     33| 1.51|          NA|  0.9202|   0.2579|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Adam Armstrong      |SOU  |     31| 5.00|          NA|  0.3084|   0.1084|passes    |ENG England |      0.2000|         NA|        NA|         NA|       NA|
+|Romeo Lavia         |SOU  |     29| 1.87|          NA|  0.8472|   0.3124|passes    |ENG England |      0.5348|         NA|        NA|         NA|       NA|
+|Romeo Lavia         |SOU  |     33| 2.33|          NA|  0.6280|   0.1988|passes    |ENG England |      0.4292|         NA|        NA|         NA|       NA|
+|Romeo Lavia         |SOU  |     25| 1.53|          NA|  0.9603|   0.3067|passes    |ENG England |      0.6536|         NA|        NA|         NA|       NA|
+|Weston McKennie     |LEE  |     37| 1.85|          NA|  0.7744|   0.2339|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Weston McKennie     |LEE  |     41| 2.30|          NA|  0.5497|   0.1149|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Weston McKennie     |LEE  |     33| 1.51|          NA|  0.9199|   0.2576|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Maximilian Wober    |LEE  |     43| 1.61|          NA|  0.8640|   0.2429|passes    |ENG England |      0.6211|         NA|        NA|         NA|       NA|
+|Maximilian Wober    |LEE  |     47| 1.85|          NA|  0.6977|   0.1572|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                               |team         | expected_attg| expected_gs|bet |
 |:--------------------------------------|:------------|-------------:|-----------:|:---|
-|/players/952029/illan-meslier          |Leeds United |      0.000000|   0.2631579|    |
-|/players/190666/luke-ayling            |Leeds United |      0.046350|   0.0666667|    |
-|/players/628201/robin-koch             |Leeds United |      0.009900|   0.0526316|    |
-|/players/150591/liam-cooper            |Leeds United |      0.026300|   0.0526316|    |
-|/players/743192/junior-firpo           |Leeds United |      0.081075|   0.0476190|    |
-|/players/848266/weston-mckennie        |Leeds United |      0.085475|   0.1428571|    |
-|/players/729769/tyler-adams            |Leeds United |      0.084475|   0.1000000|    |
-|/players/941213/crysencio-summerville  |Leeds United |      0.240675|   0.2040816|    |
-|/players/751649/jack-harrison          |Leeds United |      0.077350|   0.1923077|    |
-|/players/1107286/wilfried-gnonto       |Leeds United |      0.287425|   0.2777778|    |
-|/players/302241/patrick-bamford        |Leeds United |      0.384600|   0.4255319|    |
-|/players/412357/paul-onuachu           |Southampton  |      0.294275|   0.4081633|    |
-|/players/1130691/kamaldeen-sulemana    |Southampton  |      0.164700|   0.2040816|    |
-|/players/261936/mohamed-elyounoussi    |Southampton  |      0.127375|   0.1666667|    |
-|/players/1190867/romeo-lavia           |Southampton  |      0.028175|   0.0400000|    |
-|/players/279490/james-ward-prowse      |Southampton  |      0.165350|   0.2083333|    |
-|/players/237563/stuart-armstrong       |Southampton  |      0.028250|   0.1428571|    |
-|/players/815465/romain-perraud         |Southampton  |      0.062300|   0.0588235|    |
-|/players/951765/armel-bella-kotchap    |Southampton  |      0.035500|   0.0454545|    |
-|/players/490868/jan-bednarek           |Southampton  |      0.008825|   0.0370370|    |
-|/players/604089/ainsley-maitland-niles |Southampton  |      0.029750|   0.0588235|    |
-|/players/939390/gavin-bazunu           |Southampton  |      0.000000|   0.0384615|    |
-|/players/956925/georginio-rutter       |Leeds United |      0.063950|   0.3125000|    |
-|/players/193869/rodrigo                |Leeds United |      0.039525|   0.1052632|    |
-|/players/952322/brenden-aaronson       |Leeds United |      0.033800|   0.2173913|    |
-|/players/846369/luis-sinisterra        |Leeds United |      0.036225|   0.2500000|    |
-|/players/1177312/skou-mara             |Southampton  |      0.094825|   0.2272727|    |
-|/players/862645/moussa-djenepo         |Southampton  |      0.002400|   0.1000000|    |
-|/players/798659/joe-aribo              |Southampton  |      0.009650|   0.1754386|    |
-|/players/938539/ibrahima-diallo        |Southampton  |      0.006175|   0.0303030|    |
+|/players/952029/illan-meslier          |Leeds United |      0.000000|   0.2500000|    |
+|/players/190666/luke-ayling            |Leeds United |      0.034275|   0.0666667|    |
+|/players/628201/robin-koch             |Leeds United |      0.006275|   0.0526316|    |
+|/players/701149/maximilian-wber        |Leeds United |      0.068950|   0.1785714|    |
+|/players/743192/junior-firpo           |Leeds United |      0.052275|   0.0500000|    |
+|/players/848266/weston-mckennie        |Leeds United |      0.084225|   0.1538462|    |
+|/players/729769/tyler-adams            |Leeds United |      0.083925|   0.1000000|    |
+|/players/952322/brenden-aaronson       |Leeds United |      0.128375|   0.2222222|    |
+|/players/751649/jack-harrison          |Leeds United |      0.099700|   0.1960784|    |
+|/players/1107286/wilfried-gnonto       |Leeds United |      0.362650|   0.2857143|*   |
+|/players/302241/patrick-bamford        |Leeds United |      0.380750|   0.4347826|    |
+|/players/412357/paul-onuachu           |Southampton  |      0.286925|   0.2857143|    |
+|/players/1130691/kamaldeen-sulemana    |Southampton  |      0.163225|   0.2000000|    |
+|/players/261936/mohamed-elyounoussi    |Southampton  |      0.123000|   0.1538462|    |
+|/players/1190867/romeo-lavia           |Southampton  |      0.029150|   0.0384615|    |
+|/players/279490/james-ward-prowse      |Southampton  |      0.163725|   0.2040816|    |
+|/players/237563/stuart-armstrong       |Southampton  |      0.027450|   0.1428571|    |
+|/players/815465/romain-perraud         |Southampton  |      0.061400|   0.0588235|    |
+|/players/951765/armel-bella-kotchap    |Southampton  |      0.035975|   0.0454545|    |
+|/players/490868/jan-bednarek           |Southampton  |      0.007850|   0.0357143|    |
+|/players/604089/ainsley-maitland-niles |Southampton  |      0.029250|   0.0588235|    |
+|/players/939390/gavin-bazunu           |Southampton  |      0.000000|   0.1851852|    |
+|/players/956925/georginio-rutter       |Leeds United |      0.073900|   0.0000000|*   |
+|/players/640220/marc-roca              |Leeds United |      0.000000|   0.0000000|    |
+|/players/941213/crysencio-summerville  |Leeds United |      0.039450|   0.0000000|    |
+|/players/1049805/sam-greenwood         |Leeds United |      0.026175|   0.0000000|    |
+|/players/1177312/skou-mara             |Southampton  |      0.080850|   0.0000000|*   |
+|/players/862645/moussa-djenepo         |Southampton  |      0.002175|   0.0000000|    |
+|/players/938539/ibrahima-diallo        |Southampton  |      0.007150|   0.0000000|    |
+|/players/31013/theo-walcott            |Southampton  |      0.005550|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Leeds United:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/952029/illan-meslier         |           0|         26.3035|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/190666/luke-ayling           |           1|         50.0897|           1.8433|        0.2949|         0.7538|      0.0437|        0.0442|      0.1248| 90.0000|
-|/players/628201/robin-koch            |           1|         45.1489|           1.1327|        0.1559|         0.8631|      0.0500|        0.0081|      0.0213| 90.0000|
-|/players/150591/liam-cooper           |           1|         52.9930|           1.5793|        0.1630|         0.5626|      0.0435|        0.0239|      0.0431| 90.0000|
-|/players/743192/junior-firpo          |           1|         40.1819|           1.7980|        0.0635|         0.3196|      0.0681|        0.0730|      0.0515| 83.0625|
-|/players/848266/weston-mckennie       |           2|         42.4906|           2.4140|        0.4192|         1.5075|      0.1372|        0.0807|      0.0288| 90.0000|
-|/players/729769/tyler-adams           |           2|         60.0577|           2.0133|        0.1926|         0.6158|      0.0190|        0.0807|      0.1438| 90.0000|
-|/players/941213/crysencio-summerville |           3|         28.6799|           1.2097|        0.8160|         1.6412|      0.1916|        0.2442|      0.0660| 81.0000|
-|/players/751649/jack-harrison         |           3|         27.2906|           1.2275|        0.2640|         1.2744|      0.0965|        0.0743|      0.1837| 77.4510|
-|/players/1107286/wilfried-gnonto      |           3|         31.9938|           1.4582|        1.1475|         3.1652|      0.2983|        0.3004|      0.2000| 90.0000|
-|/players/302241/patrick-bamford       |           5|         16.7729|           0.5072|        1.0986|         2.5702|      0.4425|        0.4276|      0.0789| 79.7143|
-|/players/956925/georginio-rutter      |          NA|              NA|               NA|        0.3386|         0.6271|      0.0491|        0.0564|      0.0406| 12.5490|
-|/players/193869/rodrigo               |          NA|              NA|               NA|        0.2727|         0.7214|      0.0325|        0.0357|      0.0402| 10.2857|
-|/players/952322/brenden-aaronson      |          NA|              NA|               NA|        0.2221|         0.4148|      0.0314|        0.0304|      0.0126|  9.0000|
-|/players/846369/luis-sinisterra       |          NA|              NA|               NA|        0.1384|         0.1507|      0.0207|        0.0317|      0.0239|  6.9375|
+|/players/952029/illan-meslier         |           0|         26.2956|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/190666/luke-ayling           |           1|         50.6695|           2.0045|        0.2563|         0.6938|      0.0385|        0.0304|      0.1041| 90.0000|
+|/players/628201/robin-koch            |           1|         45.6715|           1.2317|        0.1354|         0.7943|      0.0440|        0.0056|      0.0178| 90.0000|
+|/players/701149/maximilian-wber       |           1|         51.3291|           1.1487|        0.2309|         0.7182|      0.0635|        0.0648|      0.0766| 90.0000|
+|/players/743192/junior-firpo          |           1|         40.6470|           1.9552|        0.0552|         0.2941|      0.0600|        0.0502|      0.0429| 83.0625|
+|/players/848266/weston-mckennie       |           2|         42.4779|           2.4140|        0.4191|         1.5070|      0.1371|        0.0807|      0.0288| 90.0000|
+|/players/729769/tyler-adams           |           2|         60.0396|           2.0133|        0.1926|         0.6156|      0.0190|        0.0807|      0.1438| 90.0000|
+|/players/952322/brenden-aaronson      |           3|         26.3534|           1.1281|        0.3812|         1.4122|      0.1411|        0.1313|      0.1832| 81.8889|
+|/players/751649/jack-harrison         |           3|         28.5218|           1.2719|        0.3524|         1.3482|      0.1101|        0.0986|      0.1268| 77.4510|
+|/players/1107286/wilfried-gnonto      |           3|         33.4372|           1.5109|        1.5317|         3.3487|      0.3401|        0.3990|      0.1380| 90.0000|
+|/players/302241/patrick-bamford       |           5|         16.7678|           0.5072|        1.0982|         2.5693|      0.4424|        0.4274|      0.0788| 79.7143|
+|/players/956925/georginio-rutter      |           0|              NA|               NA|        0.3474|         0.5399|      0.0630|        0.0687|      0.0344| 12.5490|
+|/players/640220/marc-roca             |           0|              NA|               NA|        0.0000|         0.1114|      0.0039|        0.0000|      0.0100| 10.2857|
+|/players/941213/crysencio-summerville |           0|              NA|               NA|        0.0625|         0.2285|      0.0186|        0.0366|      0.0036|  8.1111|
+|/players/1049805/sam-greenwood        |           0|              NA|               NA|        0.0857|         0.4701|      0.0175|        0.0243|      0.0259|  6.9375|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
@@ -134,40 +136,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Southampton:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/412357/paul-onuachu           |           5|         19.9207|           0.4156|        0.9214|         2.0209|      0.3591|        0.3306|      0.0590| 82.0213|
-|/players/1130691/kamaldeen-sulemana    |           5|         18.2879|           1.0851|        0.6209|         1.6153|      0.1466|        0.1769|      0.1008| 81.6111|
-|/players/261936/mohamed-elyounoussi    |           3|         23.1482|           1.1517|        0.4901|         1.5506|      0.1689|        0.1307|      0.1189| 80.2000|
-|/players/1190867/romeo-lavia           |           3|         35.5860|           2.8732|        0.3033|         0.2328|      0.0080|        0.0296|      0.0423| 90.0000|
-|/players/279490/james-ward-prowse      |           3|         46.2068|           1.6724|        0.3506|         1.0724|      0.1320|        0.1778|      0.1024| 90.0000|
-|/players/237563/stuart-armstrong       |           3|         28.9286|           1.8948|        0.2833|         1.3586|      0.0561|        0.0276|      0.0525| 84.0556|
-|/players/815465/romain-perraud         |           1|         34.1733|           1.4186|        0.1557|         0.9818|      0.0762|        0.0589|      0.1024| 90.0000|
-|/players/951765/armel-bella-kotchap    |           1|         37.1671|           1.2449|        0.0738|         0.3062|      0.0397|        0.0367|      0.0193| 90.0000|
-|/players/490868/jan-bednarek           |           1|         46.0163|           1.0585|        0.0352|         0.2127|      0.0216|        0.0088|      0.0180| 90.0000|
-|/players/604089/ainsley-maitland-niles |           1|         31.9904|           3.2332|        0.2456|         0.2780|      0.0155|        0.0271|      0.0359| 90.0000|
-|/players/939390/gavin-bazunu           |           0|         35.7083|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1177312/skou-mara             |          NA|              NA|               NA|        0.5290|         0.8802|      0.0697|        0.0964|      0.0097|  9.8000|
-|/players/862645/moussa-djenepo         |          NA|              NA|               NA|        0.0708|         0.1766|      0.0066|        0.0022|      0.0314|  8.3889|
-|/players/798659/joe-aribo              |          NA|              NA|               NA|        0.0753|         0.1880|      0.0078|        0.0096|      0.0368|  7.9787|
-|/players/938539/ibrahima-diallo        |          NA|              NA|               NA|        0.0576|         0.1438|      0.0144|        0.0060|      0.0032|  5.9444|
+|/players/412357/paul-onuachu           |           5|         19.9265|           0.4156|        0.9218|         2.0215|      0.3592|        0.3307|      0.0590| 82.0213|
+|/players/1130691/kamaldeen-sulemana    |           5|         18.2932|           1.0851|        0.6211|         1.6158|      0.1467|        0.1770|      0.1008| 81.6111|
+|/players/261936/mohamed-elyounoussi    |           3|         23.1548|           1.1517|        0.4902|         1.5510|      0.1689|        0.1307|      0.1190| 80.2000|
+|/players/1190867/romeo-lavia           |           3|         35.5963|           2.8732|        0.3034|         0.2329|      0.0080|        0.0296|      0.0423| 90.0000|
+|/players/279490/james-ward-prowse      |           3|         46.2201|           1.6724|        0.3507|         1.0727|      0.1321|        0.1778|      0.1024| 90.0000|
+|/players/237563/stuart-armstrong       |           3|         28.9369|           1.8948|        0.2834|         1.3590|      0.0561|        0.0276|      0.0525| 84.0556|
+|/players/815465/romain-perraud         |           1|         34.1831|           1.4186|        0.1557|         0.9821|      0.0762|        0.0589|      0.1024| 90.0000|
+|/players/951765/armel-bella-kotchap    |           1|         37.1778|           1.2449|        0.0738|         0.3063|      0.0397|        0.0367|      0.0193| 90.0000|
+|/players/490868/jan-bednarek           |           1|         46.0295|           1.0585|        0.0352|         0.2128|      0.0216|        0.0088|      0.0180| 90.0000|
+|/players/604089/ainsley-maitland-niles |           1|         31.9996|           3.2332|        0.2457|         0.2781|      0.0155|        0.0271|      0.0360| 90.0000|
+|/players/939390/gavin-bazunu           |           0|         35.7186|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1177312/skou-mara             |           0|              NA|               NA|        0.2477|         0.5600|      0.0453|        0.0818|      0.0053|  9.8000|
+|/players/862645/moussa-djenepo         |           0|              NA|               NA|        0.0331|         0.1124|      0.0043|        0.0019|      0.0172|  8.3889|
+|/players/938539/ibrahima-diallo        |           0|              NA|               NA|        0.0362|         0.1228|      0.0126|        0.0068|      0.0024|  7.9787|
+|/players/31013/theo-walcott            |           0|              NA|               NA|        0.0538|         0.1823|      0.0134|        0.0047|      0.0262|  5.9444|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Ruben Selles |            2|         0.965|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901176/Soccer_Models'...
-Receiving objects:   1% (46/4533),   63 kb
-Receiving objects:  11% (499/4533),  127 kb
-Receiving objects:  21% (952/4533),  183 kb
-Receiving objects:  31% (1406/4533),  351 kb
-Receiving objects:  41% (1859/4533),  856 kb
-Receiving objects:  51% (2312/4533), 1024 kb
-Receiving objects:  61% (2766/4533), 1416 kb
-Receiving objects:  71% (3219/4533), 10261 kb
-Receiving objects:  81% (3672/4533), 10549 kb
-Receiving objects:  91% (4126/4533), 10774 kb
-Receiving objects: 100% (4533/4533), 11197 kb, done.
+Receiving objects:   1% (47/4686),   63 kb
+Receiving objects:  11% (516/4686),  127 kb
+Receiving objects:  21% (985/4686),  239 kb
+Receiving objects:  31% (1453/4686),  407 kb
+Receiving objects:  41% (1922/4686),  856 kb
+Receiving objects:  51% (2390/4686), 1080 kb
+Receiving objects:  61% (2859/4686), 5506 kb
+Receiving objects:  71% (3328/4686), 10381 kb
+Receiving objects:  81% (3796/4686), 10662 kb
+Receiving objects:  91% (4265/4686), 10830 kb
+Receiving objects: 100% (4686/4686), 11322 kb, done.
