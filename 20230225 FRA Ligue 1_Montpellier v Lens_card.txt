@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-24 07:46:57.923"
+[1] "Updated at 2023-02-25 11:28:00.796"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Montpellier 0.899 to Lens 1.5346"
-[1] "Total: 2.4336"
-[1] "Montpellier %: 22.52"
-[1] "Draw %: 25.82"
-[1] "Lens %: 51.66"
+[1] "Score: Montpellier 0.7938 to Lens 1.6463"
+[1] "Total: 2.4401"
+[1] "Montpellier %: 18.02"
+[1] "Draw %: 24.69"
+[1] "Lens %: 57.29"
 [1] "--XG Model--"
-[1] "Score: Montpellier 0.6913 to Lens 1.5443"
-[1] "Total: 2.2356"
-[1] "Montpellier %: 16.53"
-[1] "Draw %: 25.55"
-[1] "Lens %: 57.92"
+[1] "Score: Montpellier 0.5687 to Lens 1.6919"
+[1] "Total: 2.2606"
+[1] "Montpellier %: 12.04"
+[1] "Draw %: 23.1"
+[1] "Lens %: 64.86"
 [1] "--XGoT Model--"
-[1] "Score: Montpellier 0.7866 to Lens 1.5492"
-[1] "Total: 2.3358"
-[1] "Montpellier %: 19.21"
-[1] "Draw %: 25.6"
-[1] "Lens %: 55.19"
+[1] "Score: Montpellier 0.6211 to Lens 1.6847"
+[1] "Total: 2.3058"
+[1] "Montpellier %: 13.47"
+[1] "Draw %: 23.73"
+[1] "Lens %: 62.8"
 [1] "--XA Model--"
-[1] "Score: Montpellier 0.769 to Lens 1.6423"
-[1] "Total: 2.4113"
-[1] "Montpellier %: 17.53"
-[1] "Draw %: 25"
-[1] "Lens %: 57.47"
+[1] "Score: Montpellier 0.7659 to Lens 1.7268"
+[1] "Total: 2.4927"
+[1] "Montpellier %: 16.73"
+[1] "Draw %: 23.69"
+[1] "Lens %: 59.58"
 [1] "--Mean 4 Models--"
-[1] "Montpellier has a mean win % of 18.95%; a min win % of 16.53%; a max win % of 22.52%."
-[1] "Draw has a mean win % of 25.49%; a min win % of 25%; a max win % of 25.82%."
-[1] "Lens has a mean win % of 55.56%; a min win % of 51.66%; a max win of % 57.92%."
-[1] "Montpellier has a mean win of the Double Chance of 44.44%; a min win % of 42.08%, a max win % of 48.34%."
-[1] "Lens has a mean win of the Double Chance of 81.05%; a min win % of 77.48%, a max win % of 83.47%."
-[1] "The mean likelihood that there are more than 2.5 goals is 41.36%; max % is 43.5 and min % is 38.04%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 58.64%; max % is 61.96 and min % is 56.5%."
+[1] "Montpellier has a mean win % of 15.07%; a min win % of 12.04%; a max win % of 18.02%."
+[1] "Draw has a mean win % of 23.8%; a min win % of 23.1%; a max win % of 24.69%."
+[1] "Lens has a mean win % of 61.13%; a min win % of 57.29%; a max win of % 64.86%."
+[1] "Montpellier has a mean win of the Double Chance of 38.87%; a min win % of 35.14%, a max win % of 42.71%."
+[1] "Lens has a mean win of the Double Chance of 84.93%; a min win % of 81.98%, a max win % of 87.96%."
+[1] "The mean likelihood that there are more than 2.5 goals is 41.98%; max % is 45 and min % is 39.11%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 58.02%; max % is 60.89 and min % is 55%."
 [1] "--Sportsbook Odds--"
-[1] "Montpellier Barstool Odds are: 23.26"
-[1] "The Barstool Odds of a Draw are: 27.03"
-[1] "Lens Barstool Odds are: 55.56"
-[1] "Montpellier Adjusted Barstool Odds are: 21.974"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.536"
-[1] "Lens Adjusted Barstool Odds are: 52.489"
-[1] "Montpellier's Barstool Odds to cover the -0.5 spread are: 24.39"
-[1] "Lens's Barstool Odds to cover the 0.5 spread are: 79.37"
-[1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.88, which is a 53.19% chance of the under 2.5 hitting."
+[1] "Montpellier Barstool Odds are: 21.74"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Lens Barstool Odds are: 57.89"
+[1] "Montpellier Adjusted Barstool Odds are: 20.519"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.842"
+[1] "Lens Adjusted Barstool Odds are: 54.639"
+[1] "Montpellier's Barstool Odds to cover the 0.5 spread are: 47.62"
+[1] "Lens's Barstool Odds to cover the -0.5 spread are: 57.14"
+[1] "Barstool's line for the total is 2.5 at 1.97, which is a 50.76% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                      bet           date_time
@@ -52,59 +52,59 @@
 
 |pageUrl2                              |team        | expected_attg| expected_gs|bet |
 |:-------------------------------------|:-----------|-------------:|-----------:|:---|
-|/players/564571/bingourou-kamara      |Montpellier |      0.000000|   0.1333333|    |
-|/players/643652/falaye-sacko          |Montpellier |      0.037475|   0.0270270|    |
-|/players/789318/kiki-kouyat           |Montpellier |      0.070300|   0.1000000|    |
-|/players/94043/mamadou-sakho          |Montpellier |      0.025150|   0.0909091|    |
-|/players/1250443/maxime-estve         |Montpellier |      0.049625|   0.0357143|    |
-|/players/1079548/joris-chotard        |Montpellier |      0.045150|   0.0909091|    |
-|/players/660506/faitout-maouassa      |Montpellier |      0.040050|   0.1052632|    |
-|/players/770340/arnaud-nordin         |Montpellier |      0.091600|   0.2083333|    |
-|/players/210119/jordan-ferri          |Montpellier |      0.046450|   0.1052632|    |
-|/players/166019/wahbi-khazri          |Montpellier |      0.149475|   0.2941176|    |
-|/players/1213430/elye-wahi            |Montpellier |      0.121800|   0.2857143|    |
-|/players/279714/brice-samba           |Lens        |      0.000000|   0.1818182|    |
-|/players/513072/jonathan-gradit       |Lens        |      0.027625|   0.0416667|    |
-|/players/812652/facundo-medina        |Lens        |      0.125700|   0.1250000|    |
-|/players/754126/kevin-danso           |Lens        |      0.035400|   0.1176471|    |
-|/players/317062/adrien-thomasson      |Lens        |      0.066600|   0.3333333|    |
-|/players/1074642/salis-abdul-samed    |Lens        |      0.033425|   0.1428571|    |
-|/players/402419/przemyslaw-frankowski |Lens        |      0.046750|   0.2777778|    |
-|/players/602211/seko-fofana           |Lens        |      0.123500|   0.2500000|    |
-|/players/1138769/david-costa          |Lens        |      0.196675|   0.2222222|    |
-|/players/612699/florian-sotoca        |Lens        |      0.261625|   0.3846154|    |
-|/players/747767/ikoma-lois-openda     |Lens        |      0.323850|   0.4081633|    |
-|/players/239259/valre-germain         |Montpellier |      0.032900|   0.2564103|    |
-|/players/969506/bni-makouana          |Montpellier |      0.006000|   0.1176471|    |
-|/players/1022688/lo-leroy             |Montpellier |      0.001400|   0.0500000|    |
-|/players/1332850/enzo-tchato          |Montpellier |      0.000000|   0.2222222|    |
-|/players/611528/angelo-fulgini        |Lens        |      0.074350|   0.2777778|    |
-|/players/578756/deiver-machado        |Lens        |      0.000000|   0.1333333|    |
-|/players/240236/massadio-haidara      |Lens        |      0.000000|   0.3333333|    |
-|/players/578756/deiver-machado        |Lens        |      0.000000|   0.1333333|    |
+|/players/210114/benjamin-lecomte      |Montpellier |      0.000000|   0.2631579|    |
+|/players/1250443/maxime-estve         |Montpellier |      0.010175|   0.0322581|    |
+|/players/314437/christopher-jullien   |Montpellier |      0.025175|   0.0714286|    |
+|/players/789318/kiki-kouyat           |Montpellier |      0.014300|   0.0909091|    |
+|/players/643652/falaye-sacko          |Montpellier |      0.030950|   0.0243902|    |
+|/players/210119/jordan-ferri          |Montpellier |      0.029975|   0.0952381|    |
+|/players/1079548/joris-chotard        |Montpellier |      0.063100|   0.0833333|    |
+|/players/409193/issiaga-sylla         |Montpellier |      0.029775|   0.0476190|    |
+|/players/770340/arnaud-nordin         |Montpellier |      0.139975|   0.1923077|    |
+|/players/660506/faitout-maouassa      |Montpellier |      0.046050|   0.0952381|    |
+|/players/166019/wahbi-khazri          |Montpellier |      0.185125|   0.2702703|    |
+|/players/612699/florian-sotoca        |Lens        |      0.386075|   0.3846154|    |
+|/players/611528/angelo-fulgini        |Lens        |      0.214925|   0.2702703|    |
+|/players/317062/adrien-thomasson      |Lens        |      0.286375|   0.3225806|    |
+|/players/578756/deiver-machado        |Lens        |      0.107350|   0.1333333|    |
+|/players/602211/seko-fofana           |Lens        |      0.111300|   0.2500000|    |
+|/players/1074642/salis-abdul-samed    |Lens        |      0.030075|   0.1428571|    |
+|/players/402419/przemyslaw-frankowski |Lens        |      0.041900|   0.2702703|    |
+|/players/812652/facundo-medina        |Lens        |      0.076325|   0.1250000|    |
+|/players/754126/kevin-danso           |Lens        |      0.020450|   0.1176471|    |
+|/players/513072/jonathan-gradit       |Lens        |      0.015200|   0.0416667|    |
+|/players/279714/brice-samba           |Lens        |      0.000000|   0.0454545|    |
+|/players/239259/valre-germain         |Montpellier |      0.036975|   0.0000000|    |
+|/players/759580/stephy-mavididi       |Montpellier |      0.003750|   0.0000000|    |
+|/players/1332850/enzo-tchato          |Montpellier |      0.000000|   0.0000000|    |
+|/players/94043/mamadou-sakho          |Montpellier |      0.000000|   0.0000000|    |
+|/players/1138769/david-costa          |Lens        |      0.037075|   0.0000000|    |
+|/players/747767/ikoma-lois-openda     |Lens        |      0.056650|   0.0000000|*   |
+|/players/240236/massadio-haidara      |Lens        |      0.000000|   0.0000000|    |
+|/players/1177359/ismal-boura          |Lens        |      0.007500|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Montpellier:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/564571/bingourou-kamara |           0|         23.8853|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/643652/falaye-sacko     |           1|         34.2173|           1.3737|        0.0720|         0.4207|      0.0597|        0.0458|      0.1143| 90.0000|
-|/players/789318/kiki-kouyat      |           1|         34.8432|           2.4961|        0.1663|         0.8324|      0.0784|        0.0833|      0.0067| 90.0000|
-|/players/94043/mamadou-sakho     |           1|         44.4865|           1.2741|        0.0840|         0.2263|      0.0363|        0.0296|      0.0083| 90.0000|
-|/players/1250443/maxime-estve    |           1|         28.9949|           1.1193|        0.0479|         0.3876|      0.0619|        0.0630|      0.0043| 90.0000|
-|/players/1079548/joris-chotard   |           3|         24.7242|           0.9751|        0.2829|         0.5800|      0.0729|        0.0606|      0.0561| 77.1429|
-|/players/660506/faitout-maouassa |           3|         17.8055|           3.6403|        0.2201|         1.0151|      0.0334|        0.0519|      0.1073| 76.0000|
-|/players/770340/arnaud-nordin    |           3|         17.7680|           0.8622|        0.4864|         1.8699|      0.2181|        0.1128|      0.0449| 72.4737|
-|/players/210119/jordan-ferri     |           3|         64.7414|           2.2197|        0.2606|         0.1338|      0.0070|        0.0614|      0.0824| 90.0000|
-|/players/166019/wahbi-khazri     |           5|         23.1348|           0.9075|        0.5850|         1.8408|      0.1694|        0.1963|      0.0821| 75.6923|
-|/players/1213430/elye-wahi       |           5|         16.1868|           0.5609|        0.7120|         1.6804|      0.1746|        0.1583|      0.0424| 90.0000|
-|/players/239259/valre-germain    |           0|              NA|               NA|        0.1682|         0.3644|      0.0357|        0.0395|      0.0110| 17.5263|
-|/players/969506/bni-makouana     |           0|              NA|               NA|        0.0621|         0.2692|      0.0217|        0.0075|      0.0004| 14.3077|
-|/players/1022688/lo-leroy        |           0|              NA|               NA|        0.0377|         0.1632|      0.0080|        0.0022|      0.0060| 14.0000|
-|/players/1332850/enzo-tchato     |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0316| 12.8571|
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/210114/benjamin-lecomte    |           0|         27.5993|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1250443/maxime-estve       |           1|         35.2397|           0.9752|        0.0309|         0.2173|      0.0277|        0.0116|      0.0076| 90.0000|
+|/players/314437/christopher-jullien |           1|         50.9537|           1.2015|        0.2217|         0.8550|      0.0739|        0.0300|      0.0579| 90.0000|
+|/players/789318/kiki-kouyat         |           1|         42.3475|           2.1748|        0.1070|         0.4665|      0.0351|        0.0153|      0.0120| 90.0000|
+|/players/643652/falaye-sacko        |           3|         26.0818|           1.5243|        0.1367|         0.2202|      0.0054|        0.0370|      0.0222| 90.0000|
+|/players/210119/jordan-ferri        |           3|         55.8788|           2.4096|        0.1367|         0.2202|      0.0054|        0.0370|      0.0647| 90.0000|
+|/players/1079548/joris-chotard      |           3|         21.3396|           1.0585|        0.5089|         0.9544|      0.0561|        0.0731|      0.0440| 77.1429|
+|/players/409193/issiaga-sylla       |           3|         34.7019|           3.0700|        0.1367|         1.3456|      0.1238|        0.0370|      0.0857| 90.0000|
+|/players/770340/arnaud-nordin       |           4|         13.4424|           0.5940|        0.4723|         1.5657|      0.2275|        0.1652|      0.0760| 72.4737|
+|/players/660506/faitout-maouassa    |           4|         30.9660|           1.4696|        0.2404|         0.7437|      0.0383|        0.0560|      0.1006| 75.8750|
+|/players/166019/wahbi-khazri        |           5|         17.0790|           0.7474|        0.5755|         1.6965|      0.2146|        0.2343|      0.0626| 75.6923|
+|/players/239259/valre-germain       |           0|              NA|               NA|        0.1571|         0.2717|      0.0357|        0.0453|      0.0058| 17.5263|
+|/players/759580/stephy-mavididi     |           0|              NA|               NA|        0.0941|         0.2278|      0.0110|        0.0049|      0.0026| 14.3077|
+|/players/1332850/enzo-tchato        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0517| 14.1250|
+|/players/94043/mamadou-sakho        |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0010| 12.8571|
 
 
 |manager_name        | approx_games| m_avg_elo_dif|formation |
@@ -113,40 +113,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Lens:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/279714/brice-samba           |           0|         35.5308|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/513072/jonathan-gradit       |           1|         56.2434|           1.9917|        0.0342|         0.1837|      0.0332|        0.0282|      0.0499| 90.0000|
-|/players/812652/facundo-medina        |           1|         67.1062|           1.4739|        0.2275|         0.4078|      0.0563|        0.1265|      0.0439| 90.0000|
-|/players/754126/kevin-danso           |           1|         54.3869|           1.1934|        0.1310|         0.7337|      0.0542|        0.0339|      0.0604| 90.0000|
-|/players/317062/adrien-thomasson      |           3|         40.2874|           2.6829|        0.3785|         1.0066|      0.0810|        0.0650|      0.1229| 90.0000|
-|/players/1074642/salis-abdul-samed    |           3|         61.5159|           1.5647|        0.1084|         0.5665|      0.0363|        0.0355|      0.0593| 90.0000|
-|/players/402419/przemyslaw-frankowski |           3|         38.0663|           2.7974|        0.2802|         0.7321|      0.0591|        0.0503|      0.1684| 83.8684|
-|/players/602211/seko-fofana           |           3|         48.0154|           1.0768|        0.4075|         1.3692|      0.1294|        0.1293|      0.1079| 90.0000|
-|/players/1138769/david-costa          |           4|         30.1946|           1.1986|        0.4235|         1.4794|      0.2510|        0.2108|      0.1135| 67.8333|
-|/players/612699/florian-sotoca        |           5|         29.8874|           0.9901|        0.8131|         2.1725|      0.3216|        0.2865|      0.1402| 81.8788|
-|/players/747767/ikoma-lois-openda     |           5|         15.5957|           0.5633|        1.2777|         2.6145|      0.3656|        0.3762|      0.0983| 79.5714|
-|/players/611528/angelo-fulgini        |           0|              NA|               NA|        0.3750|         0.5124|      0.0848|        0.0764|      0.0349| 22.1667|
-|/players/578756/deiver-machado        |           0|              NA|               NA|        0.0000|         0.1458|      0.0036|        0.0000|      0.0501| 10.4286|
-|/players/240236/massadio-haidara      |           0|              NA|               NA|        0.0000|         0.2448|      0.0112|        0.0000|      0.0000|  8.1212|
-|/players/578756/deiver-machado        |           0|              NA|               NA|        0.0000|         0.0958|      0.0000|        0.0000|      0.0010|  6.1316|
+|/players/612699/florian-sotoca        |           5|         23.0473|           0.6177|        1.0729|         2.4505|      0.4956|        0.4750|      0.0616| 81.8788|
+|/players/611528/angelo-fulgini        |           4|         25.4453|           0.4580|        0.5639|         1.5187|      0.2206|        0.2333|      0.0480| 75.4444|
+|/players/317062/adrien-thomasson      |           4|         38.9066|           1.7312|        0.9135|         2.3431|      0.3123|        0.3173|      0.2665| 90.0000|
+|/players/578756/deiver-machado        |           3|         26.7270|           2.3152|        0.1716|         0.4867|      0.0483|        0.1124|      0.0197| 78.6957|
+|/players/602211/seko-fofana           |           3|         53.9139|           0.9949|        0.5666|         1.8365|      0.1834|        0.1129|      0.1602| 90.0000|
+|/players/1074642/salis-abdul-samed    |           3|         69.0729|           1.4457|        0.1507|         0.7598|      0.0515|        0.0310|      0.0881| 90.0000|
+|/players/402419/przemyslaw-frankowski |           3|         42.7426|           2.5846|        0.3895|         0.9820|      0.0838|        0.0439|      0.2502| 83.8684|
+|/players/812652/facundo-medina        |           1|         68.3705|           1.6802|        0.3011|         0.5012|      0.0536|        0.0742|      0.0317| 90.0000|
+|/players/754126/kevin-danso           |           1|         55.4116|           1.3604|        0.1734|         0.9018|      0.0515|        0.0199|      0.0435| 90.0000|
+|/players/513072/jonathan-gradit       |           1|         57.3030|           2.2704|        0.0452|         0.2258|      0.0315|        0.0165|      0.0359| 90.0000|
+|/players/279714/brice-samba           |           0|         34.6316|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1138769/david-costa          |           0|              NA|               NA|        0.1778|         0.2531|      0.0323|        0.0398|      0.0705| 14.5556|
+|/players/747767/ikoma-lois-openda     |           0|              NA|               NA|        0.1975|         0.3092|      0.0501|        0.0569|      0.0175| 11.3043|
+|/players/240236/massadio-haidara      |           0|              NA|               NA|        0.0000|         0.0760|      0.0042|        0.0000|      0.0052|  8.1212|
+|/players/1177359/ismal-boura          |           0|              NA|               NA|        0.0501|         0.0856|      0.0020|        0.0070|      0.0220|  6.1316|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Franck Haise |     99.52828|      2.675289|3-4-1-2   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904528/Soccer_Models'...
-Receiving objects:   1% (46/4560),   63 kb
-Receiving objects:  11% (502/4560),  127 kb
-Receiving objects:  21% (958/4560),  183 kb
-Receiving objects:  31% (1414/4560),  407 kb
-Receiving objects:  41% (1870/4560),  856 kb
-Receiving objects:  51% (2326/4560), 1024 kb
-Receiving objects:  61% (2782/4560), 1416 kb
-Receiving objects:  71% (3238/4560), 10325 kb
-Receiving objects:  81% (3694/4560), 10606 kb
-Receiving objects:  91% (4150/4560), 10774 kb
-Receiving objects: 100% (4560/4560), 11220 kb, done.
+Receiving objects:   1% (48/4755),   63 kb
+Receiving objects:  11% (524/4755),  127 kb
+Receiving objects:  21% (999/4755),  239 kb
+Receiving objects:  31% (1475/4755),  463 kb
+Receiving objects:  41% (1950/4755),  856 kb
+Receiving objects:  51% (2426/4755), 1080 kb
+Receiving objects:  61% (2901/4755), 5787 kb
+Receiving objects:  71% (3377/4755), 10389 kb
+Receiving objects:  81% (3852/4755), 10726 kb
+Receiving objects:  91% (4328/4755), 10822 kb
+Receiving objects: 100% (4755/4755), 11385 kb, done.
