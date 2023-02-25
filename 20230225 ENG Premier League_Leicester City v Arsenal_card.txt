@@ -1,122 +1,125 @@
-[1] "Updated at 2023-02-24 06:41:05.743"
+[1] "Updated at 2023-02-25 06:39:36.188"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Leicester City 0.9571 to Arsenal 1.4402"
-[1] "Total: 2.3973"
-[1] "Leicester City %: 25.3"
-[1] "Draw %: 26.79"
-[1] "Arsenal %: 47.91"
+[1] "Score: Leicester City 0.9402 to Arsenal 1.4283"
+[1] "Total: 2.3685"
+[1] "Leicester City %: 24.98"
+[1] "Draw %: 26.73"
+[1] "Arsenal %: 48.29"
 [1] "--XG Model--"
-[1] "Score: Leicester City 0.897 to Arsenal 1.6421"
-[1] "Total: 2.5391"
-[1] "Leicester City %: 20.32"
-[1] "Draw %: 24.97"
-[1] "Arsenal %: 54.71"
+[1] "Score: Leicester City 0.8623 to Arsenal 1.625"
+[1] "Total: 2.4873"
+[1] "Leicester City %: 19.82"
+[1] "Draw %: 25.11"
+[1] "Arsenal %: 55.07"
 [1] "--XGoT Model--"
-[1] "Score: Leicester City 0.9686 to Arsenal 1.6725"
-[1] "Total: 2.6411"
-[1] "Leicester City %: 22.16"
-[1] "Draw %: 24.76"
+[1] "Score: Leicester City 0.938 to Arsenal 1.635"
+[1] "Total: 2.573"
+[1] "Leicester City %: 21.82"
+[1] "Draw %: 25.1"
 [1] "Arsenal %: 53.08"
 [1] "--XA Model--"
-[1] "Score: Leicester City 0.954 to Arsenal 1.7276"
-[1] "Total: 2.6816"
-[1] "Leicester City %: 21.43"
-[1] "Draw %: 24.06"
-[1] "Arsenal %: 54.51"
+[1] "Score: Leicester City 0.9127 to Arsenal 1.6907"
+[1] "Total: 2.6034"
+[1] "Leicester City %: 20.51"
+[1] "Draw %: 24.28"
+[1] "Arsenal %: 55.21"
 [1] "--Mean 4 Models--"
-[1] "Leicester City has a mean win % of 22.3%; a min win % of 20.32%; a max win % of 25.3%."
-[1] "Draw has a mean win % of 25.14%; a min win % of 24.06%; a max win % of 26.79%."
-[1] "Arsenal has a mean win % of 52.55%; a min win % of 47.91%; a max win of % 54.71%."
-[1] "Leicester City has a mean win of the Double Chance of 47.45%; a min win % of 45.29%, a max win % of 52.09%."
-[1] "Arsenal has a mean win of the Double Chance of 77.7%; a min win % of 74.7%, a max win % of 79.68%."
-[1] "The mean likelihood that there are more than 2.5 goals is 46.81%; max % is 49.48 and min % is 42.65%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 53.18%; max % is 57.35 and min % is 50.52%."
+[1] "Leicester City has a mean win % of 21.78%; a min win % of 19.82%; a max win % of 24.98%."
+[1] "Draw has a mean win % of 25.3%; a min win % of 24.28%; a max win % of 26.73%."
+[1] "Arsenal has a mean win % of 52.91%; a min win % of 48.29%; a max win of % 55.21%."
+[1] "Leicester City has a mean win of the Double Chance of 47.09%; a min win % of 44.79%, a max win % of 51.71%."
+[1] "Arsenal has a mean win of the Double Chance of 78.22%; a min win % of 75.02%, a max win % of 80.18%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.6%; max % is 47.73 and min % is 42.13%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.4%; max % is 57.87 and min % is 52.27%."
 [1] "--Sportsbook Odds--"
-[1] "Leicester City Barstool Odds are: 22.22"
-[1] "The Barstool Odds of a Draw are: 25"
-[1] "Arsenal Barstool Odds are: 57.89"
-[1] "Leicester City Adjusted Barstool Odds are: 21.14"
-[1] "The Adjusted Barstool Odds of a Draw are: 23.785"
-[1] "Arsenal Adjusted Barstool Odds are: 55.076"
-[1] "Leicester City's Barstool Odds to cover the 0.5 spread are: 46.73"
-[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 57.8"
-[1] "Barstool's line for the total is 2.5 at 1.63, which is a 61.35% chance of the over 2.5 hitting. The line for the under is 2.28, which is a 43.86% chance of the under 2.5 hitting."
+[1] "Leicester City Barstool Odds are: 17.86"
+[1] "The Barstool Odds of a Draw are: 23.26"
+[1] "Arsenal Barstool Odds are: 63.64"
+[1] "Leicester City Adjusted Barstool Odds are: 17.048"
+[1] "The Adjusted Barstool Odds of a Draw are: 22.203"
+[1] "Arsenal Adjusted Barstool Odds are: 60.748"
+[1] "Leicester City's Barstool Odds to cover the 0.5 spread are: 41.67"
+[1] "Arsenal's Barstool Odds to cover the -0.5 spread are: 63.29"
+[1] "Barstool's line for the total is 2.5 at 1.65, which is a 60.61% chance of the over 2.5 hitting. The line for the under is 2.25, which is a 44.44% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                            bet           date_time
-1 under Leicester City/Arsenal 2023-02-25 07:00:00
+1               Leicester City 2023-02-25 07:00:00
+2  draw Leicester City/Arsenal 2023-02-25 07:00:00
+3 under Leicester City/Arsenal 2023-02-25 07:00:00
+4           Leicester City ATS 2023-02-25 07:00:00
 
 
-|player             |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
-|:------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
-|Granit Xhaka       |ARS  |     49| 1.89|          NA|  0.8156|   0.2865|passes    |ENG England |      0.5291|         NA|        NA|         NA|       NA|
-|Granit Xhaka       |ARS  |     53| 2.36|          NA|  0.6368|   0.2131|passes    |ENG England |      0.4237|         NA|        NA|         NA|       NA|
-|Granit Xhaka       |ARS  |     45| 1.54|          NA|  0.9282|   0.2788|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
-|Gabriel Martinelli |ARS  |     29| 1.82|          NA|  0.9181|   0.3686|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
-|Gabriel Martinelli |ARS  |     33| 2.26|          NA|  0.7587|   0.3162|passes    |ENG England |      0.4425|         NA|        NA|         NA|       NA|
-|Gabriel Martinelli |ARS  |     37| 2.71|          NA|  0.5154|   0.1464|passes    |ENG England |      0.3690|         NA|        NA|         NA|       NA|
-|Gabriel Martinelli |ARS  |     25| 1.50|          NA|  0.9827|   0.3160|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
-|Eddie Nketiah      |ARS  |     12| 1.40|          NA|  0.9054|   0.1911|passes    |ENG England |      0.7143|         NA|        NA|         NA|       NA|
+|player                |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:---------------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Granit Xhaka          |ARS  |     49| 1.89|          NA|  0.8136|   0.2845|passes    |ENG England |      0.5291|         NA|        NA|         NA|       NA|
+|Granit Xhaka          |ARS  |     53| 2.36|          NA|  0.6339|   0.2102|passes    |ENG England |      0.4237|         NA|        NA|         NA|       NA|
+|Granit Xhaka          |ARS  |     45| 1.54|          NA|  0.9272|   0.2778|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
+|Gabriel Martinelli    |ARS  |     29| 1.82|          NA|  0.7070|   0.1575|passes    |ENG England |      0.5495|         NA|        NA|         NA|       NA|
+|Gabriel Martinelli    |ARS  |     25| 1.50|          NA|  0.9006|   0.2339|passes    |ENG England |      0.6667|         NA|        NA|         NA|       NA|
+|Kiernan Dewsbury-Hall |LEI  |     35| 1.54|          NA|  0.8210|   0.1716|passes    |ENG England |      0.6494|         NA|        NA|         NA|       NA|
+|Gabriel Magalhaes     |ARS  |      2| 3.55|          NA|  0.5024|   0.2207|shots     |ENG England |          NA|     0.2817|        NA|         NA|       NA|
+|Gabriel Magalhaes     |ARS  |      3| 8.95|          NA|  0.2823|   0.1706|shots     |ENG England |          NA|     0.1117|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                              |team           | expected_attg| expected_gs|bet |
 |:-------------------------------------|:--------------|-------------:|-----------:|:---|
-|/players/254472/danny-ward            |Leicester City |      0.000000|   0.3636364|    |
-|/players/465750/timothy-castagne      |Leicester City |      0.041675|   0.0714286|    |
-|/players/671518/harry-souttar         |Leicester City |      0.029525|   0.1176471|    |
-|/players/693678/wout-faes             |Leicester City |      0.048175|   0.0285714|    |
-|/players/1211437/victor-kristiansen   |Leicester City |      0.008000|   0.0476190|    |
-|/players/210128/nampalys-mendy        |Leicester City |      0.044625|   0.0312500|    |
-|/players/465960/youri-tielemans       |Leicester City |      0.027425|   0.1176471|    |
-|/players/1039534/tete                 |Leicester City |      0.063475|   0.1851852|    |
-|/players/886016/kiernan-dewsbury-hall |Leicester City |      0.045975|   0.0666667|    |
-|/players/760359/harvey-barnes         |Leicester City |      0.229075|   0.2127660|    |
-|/players/643709/kelechi-iheanacho     |Leicester City |      0.215100|   0.3125000|    |
-|/players/1021586/gabriel-martinelli   |Arsenal        |      0.118875|   0.3333333|    |
-|/players/860920/edward-nketiah        |Arsenal        |      0.387625|   0.3846154|    |
-|/players/961995/bukayo-saka           |Arsenal        |      0.266600|   0.3125000|    |
-|/players/207236/granit-xhaka          |Arsenal        |      0.012375|   0.1666667|    |
-|/players/282775/jorginho              |Arsenal        |      0.136350|   0.1724138|    |
-|/players/534670/martin-degaard        |Arsenal        |      0.112325|   0.2857143|    |
-|/players/623621/oleksandr-zinchenko   |Arsenal        |      0.072150|   0.0909091|    |
-|/players/795179/gabriel               |Arsenal        |      0.064900|   0.1052632|    |
-|/players/955406/william-saliba        |Arsenal        |      0.039325|   0.0833333|    |
-|/players/776151/ben-white             |Arsenal        |      0.001050|   0.0500000|    |
-|/players/746395/aaron-ramsdale        |Arsenal        |      0.000000|   0.0500000|    |
-|/players/882401/boubakary-soumar      |Leicester City |      0.000000|   0.0344828|    |
-|/players/644459/patson-daka           |Leicester City |      0.049275|   0.3225806|    |
-|/players/282012/dennis-praet          |Leicester City |      0.023075|   0.0909091|    |
-|/players/306128/ricardo-pereira       |Leicester City |      0.003325|   0.0769231|    |
-|/players/1025462/fabio-vieira         |Arsenal        |      0.008600|   0.2222222|    |
-|/players/889534/emile-smith-rowe      |Arsenal        |      0.090600|   0.2702703|    |
-|/players/318615/leandro-trossard      |Arsenal        |      0.027075|   0.3389831|    |
-|/players/664444/takehiro-tomiyasu     |Arsenal        |      0.000000|   0.0344828|    |
+|/players/254472/danny-ward            |Leicester City |      0.000000|   0.3773585|    |
+|/players/465750/timothy-castagne      |Leicester City |      0.035675|   0.0588235|    |
+|/players/671518/harry-souttar         |Leicester City |      0.031600|   0.0833333|    |
+|/players/693678/wout-faes             |Leicester City |      0.049575|   0.0243902|    |
+|/players/1211437/victor-kristiansen   |Leicester City |      0.006775|   0.0400000|    |
+|/players/886016/kiernan-dewsbury-hall |Leicester City |      0.006625|   0.0588235|    |
+|/players/533228/wilfred-ndidi         |Leicester City |      0.077175|   0.0625000|    |
+|/players/1039534/tete                 |Leicester City |      0.060375|   0.1666667|    |
+|/players/282012/dennis-praet          |Leicester City |      0.050200|   0.0714286|    |
+|/players/760359/harvey-barnes         |Leicester City |      0.217675|   0.1818182|    |
+|/players/643709/kelechi-iheanacho     |Leicester City |      0.216200|   0.2777778|    |
+|/players/318615/leandro-trossard      |Arsenal        |      0.283700|   0.3448276|    |
+|/players/1021586/gabriel-martinelli   |Arsenal        |      0.164025|   0.3389831|    |
+|/players/961995/bukayo-saka           |Arsenal        |      0.351750|   0.3389831|    |
+|/players/207236/granit-xhaka          |Arsenal        |      0.012075|   0.1666667|    |
+|/players/282775/jorginho              |Arsenal        |      0.142950|   0.1785714|    |
+|/players/534670/martin-degaard        |Arsenal        |      0.108050|   0.2941176|    |
+|/players/623621/oleksandr-zinchenko   |Arsenal        |      0.071600|   0.0952381|    |
+|/players/795179/gabriel               |Arsenal        |      0.064600|   0.1000000|    |
+|/players/955406/william-saliba        |Arsenal        |      0.041000|   0.0833333|    |
+|/players/776151/ben-white             |Arsenal        |      0.001125|   0.0500000|    |
+|/players/746395/aaron-ramsdale        |Arsenal        |      0.000000|   0.1428571|    |
+|/players/210128/nampalys-mendy        |Leicester City |      0.002800|   0.0000000|    |
+|/players/882401/boubakary-soumar      |Leicester City |      0.000000|   0.0000000|    |
+|/players/644459/patson-daka           |Leicester City |      0.046575|   0.0000000|    |
+|/players/465960/youri-tielemans       |Leicester City |      0.000000|   0.0000000|    |
+|/players/1025462/fabio-vieira         |Arsenal        |      0.007800|   0.0000000|    |
+|/players/860920/edward-nketiah        |Arsenal        |      0.012525|   0.0000000|    |
+|/players/889534/emile-smith-rowe      |Arsenal        |      0.070425|   0.0000000|*   |
+|/players/664444/takehiro-tomiyasu     |Arsenal        |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Leicester City:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/254472/danny-ward            |           0|         28.5521|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/465750/timothy-castagne      |           1|         42.4271|           1.9073|        0.1760|         0.4223|      0.0402|        0.0455|      0.0282| 90.0000|
-|/players/671518/harry-souttar         |           1|         45.8928|           1.1243|        0.1519|         0.5426|      0.0604|        0.0338|      0.0251| 90.0000|
-|/players/693678/wout-faes             |           1|         39.8992|           1.0816|        0.1253|         0.5637|      0.0509|        0.0543|      0.0095| 90.0000|
-|/players/1211437/victor-kristiansen   |           1|         33.7476|           2.1091|        0.0481|         0.2406|      0.0129|        0.0086|      0.0790| 90.0000|
-|/players/210128/nampalys-mendy        |           2|         35.4507|           1.1989|        0.1915|         0.1977|      0.0123|        0.0535|      0.0095| 78.2308|
-|/players/465960/youri-tielemans       |           2|         44.4293|           3.5050|        0.2113|         1.3635|      0.0925|        0.0343|      0.0936| 90.0000|
-|/players/1039534/tete                 |           3|         19.1099|           1.1339|        0.3100|         1.0735|      0.1147|        0.0728|      0.0502| 76.2000|
-|/players/886016/kiernan-dewsbury-hall |           3|         38.6508|           1.8452|        0.3972|         1.1893|      0.0656|        0.0536|      0.1318| 90.0000|
-|/players/760359/harvey-barnes         |           3|         20.8944|           0.8369|        0.7749|         1.9110|      0.2666|        0.2915|      0.1053| 83.5429|
-|/players/643709/kelechi-iheanacho     |           5|         16.4456|           0.5790|        0.6951|         1.7467|      0.2533|        0.2595|      0.0455| 76.2069|
-|/players/882401/boubakary-soumar      |          NA|              NA|               NA|        0.0000|         0.0212|      0.0008|        0.0000|      0.0092| 13.8000|
-|/players/644459/patson-daka           |          NA|              NA|               NA|        0.1386|         0.3346|      0.0665|        0.0569|      0.0108| 13.7931|
-|/players/282012/dennis-praet          |          NA|              NA|               NA|        0.0200|         0.0483|      0.0243|        0.0263|      0.0187| 11.7692|
-|/players/306128/ricardo-pereira       |          NA|              NA|               NA|        0.0156|         0.0189|      0.0006|        0.0041|      0.0060|  6.4571|
+|/players/254472/danny-ward            |           0|         28.5793|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/465750/timothy-castagne      |           1|         42.4675|           1.9073|        0.1761|         0.4227|      0.0402|        0.0455|      0.0282| 90.0000|
+|/players/671518/harry-souttar         |           1|         45.9365|           1.1243|        0.1520|         0.5430|      0.0604|        0.0338|      0.0251| 90.0000|
+|/players/693678/wout-faes             |           1|         39.9372|           1.0816|        0.1254|         0.5642|      0.0510|        0.0544|      0.0095| 90.0000|
+|/players/1211437/victor-kristiansen   |           1|         33.7797|           2.1091|        0.0482|         0.2408|      0.0129|        0.0086|      0.0791| 90.0000|
+|/players/886016/kiernan-dewsbury-hall |           2|         41.4383|           1.2917|        0.2488|         0.7101|      0.0308|        0.0077|      0.0949| 90.0000|
+|/players/533228/wilfred-ndidi         |           2|         43.8561|           3.5926|        0.1832|         0.8822|      0.0760|        0.0883|      0.0098| 90.0000|
+|/players/1039534/tete                 |           3|         19.7853|           1.1881|        0.3449|         1.2069|      0.1045|        0.0694|      0.0474| 76.2000|
+|/players/282012/dennis-praet          |           3|         30.4060|           1.4232|        0.2156|         0.6383|      0.0849|        0.0593|      0.1160| 73.6875|
+|/players/760359/harvey-barnes         |           3|         21.6329|           0.8769|        0.8622|         2.1486|      0.2429|        0.2781|      0.0995| 83.5429|
+|/players/643709/kelechi-iheanacho     |           5|         16.4612|           0.5790|        0.6957|         1.7482|      0.2535|        0.2597|      0.0455| 76.2069|
+|/players/210128/nampalys-mendy        |           0|              NA|               NA|        0.0189|         0.0470|      0.0009|        0.0037|      0.0012| 16.3125|
+|/players/882401/boubakary-soumar      |           0|              NA|               NA|        0.0000|         0.0193|      0.0008|        0.0000|      0.0105| 13.8000|
+|/players/644459/patson-daka           |           0|              NA|               NA|        0.1223|         0.3043|      0.0682|        0.0555|      0.0124| 13.7931|
+|/players/465960/youri-tielemans       |           0|              NA|               NA|        0.0000|         0.0264|      0.0000|        0.0000|      0.0020|  6.4571|
 
 
 |manager_name    | approx_games| m_avg_elo_dif|formation |
@@ -125,40 +128,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Arsenal:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/1021586/gabriel-martinelli |           5|         37.9041|           0.9121|        0.4264|         2.2053|      0.2561|        0.1354|      0.2824| 83.0000|
-|/players/860920/edward-nketiah      |           5|         17.9213|           0.7818|        1.1879|         2.4641|      0.5053|        0.5039|      0.0405| 80.0714|
-|/players/961995/bukayo-saka         |           5|         29.8242|           1.5452|        1.0535|         2.0015|      0.2293|        0.3153|      0.0997| 90.0000|
-|/players/207236/granit-xhaka        |           3|         56.2692|           1.8667|        0.0960|         0.9800|      0.0420|        0.0139|      0.1069| 90.0000|
-|/players/282775/jorginho            |           3|         58.2947|           2.3117|        0.2377|         0.5548|      0.1380|        0.1579|      0.0447| 81.9818|
-|/players/534670/martin-degaard      |           3|         36.9327|           1.2714|        0.6536|         1.7799|      0.1455|        0.1203|      0.1596| 78.0200|
-|/players/623621/oleksandr-zinchenko |           1|         68.7053|           2.0007|        0.3154|         1.0439|      0.0646|        0.0778|      0.1634| 90.0000|
-|/players/795179/gabriel             |           1|         54.3745|           1.6224|        0.2259|         0.6787|      0.1012|        0.0714|      0.0319| 90.0000|
-|/players/955406/william-saliba      |           1|         62.9148|           1.4908|        0.0809|         0.2835|      0.0613|        0.0436|      0.0274| 90.0000|
-|/players/776151/ben-white           |           1|         45.4999|           1.7002|        0.0450|         0.2801|      0.0166|        0.0015|      0.0770| 90.0000|
-|/players/746395/aaron-ramsdale      |           0|         29.8980|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/1025462/fabio-vieira       |          NA|              NA|               NA|        0.0852|         0.2806|      0.0306|        0.0079|      0.0379| 11.9800|
-|/players/889534/emile-smith-rowe    |          NA|              NA|               NA|        0.1094|         0.1575|      0.0942|        0.1012|      0.0134|  9.9286|
-|/players/318615/leandro-trossard    |          NA|              NA|               NA|        0.0498|         0.1230|      0.0236|        0.0294|      0.0268|  8.0182|
-|/players/664444/takehiro-tomiyasu   |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0018|  7.0000|
+|/players/318615/leandro-trossard    |           5|         25.8906|           0.9353|        0.8680|         1.5761|      0.2091|        0.3404|      0.0843| 78.3704|
+|/players/1021586/gabriel-martinelli |           5|         32.7303|           0.8418|        0.5208|         2.6837|      0.4211|        0.1865|      0.2464| 83.0000|
+|/players/961995/bukayo-saka         |           5|         25.7532|           1.4261|        1.2868|         2.4356|      0.3771|        0.4344|      0.0870| 90.0000|
+|/players/207236/granit-xhaka        |           3|         56.2123|           1.8667|        0.0959|         0.9790|      0.0420|        0.0139|      0.1068| 90.0000|
+|/players/282775/jorginho            |           3|         58.2358|           2.3117|        0.2374|         0.5543|      0.1379|        0.1578|      0.0447| 81.9818|
+|/players/534670/martin-degaard      |           3|         36.8954|           1.2714|        0.6530|         1.7782|      0.1454|        0.1202|      0.1595| 78.0200|
+|/players/623621/oleksandr-zinchenko |           1|         68.6359|           2.0007|        0.3151|         1.0429|      0.0645|        0.0777|      0.1632| 90.0000|
+|/players/795179/gabriel             |           1|         54.3195|           1.6224|        0.2257|         0.6780|      0.1011|        0.0714|      0.0319| 90.0000|
+|/players/955406/william-saliba      |           1|         62.8512|           1.4908|        0.0808|         0.2832|      0.0612|        0.0435|      0.0274| 90.0000|
+|/players/776151/ben-white           |           1|         45.4539|           1.7002|        0.0449|         0.2798|      0.0166|        0.0015|      0.0769| 90.0000|
+|/players/746395/aaron-ramsdale      |           0|         29.8678|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1025462/fabio-vieira       |           0|              NA|               NA|        0.0818|         0.2585|      0.0224|        0.0072|      0.0302| 11.9800|
+|/players/860920/edward-nketiah      |           0|              NA|               NA|        0.0337|         0.1601|      0.0371|        0.0136|      0.0082| 11.6296|
+|/players/889534/emile-smith-rowe    |           0|              NA|               NA|        0.0848|         0.1172|      0.0557|        0.0740|      0.0086|  8.0182|
+|/players/664444/takehiro-tomiyasu   |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0015|  7.0000|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Mikel Arteta |     118.6667|      8.733618|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901177/Soccer_Models'...
-Receiving objects:   1% (46/4536),   63 kb
-Receiving objects:  11% (499/4536),  127 kb
-Receiving objects:  21% (953/4536),  183 kb
-Receiving objects:  31% (1407/4536),  351 kb
-Receiving objects:  41% (1860/4536),  856 kb
-Receiving objects:  51% (2314/4536), 1024 kb
-Receiving objects:  61% (2767/4536), 1416 kb
-Receiving objects:  71% (3221/4536), 10269 kb
-Receiving objects:  81% (3675/4536), 10550 kb
-Receiving objects:  91% (4128/4536), 10774 kb
-Receiving objects: 100% (4536/4536), 11198 kb, done.
+Receiving objects:   1% (47/4689),   63 kb
+Receiving objects:  11% (516/4689),  127 kb
+Receiving objects:  21% (985/4689),  239 kb
+Receiving objects:  31% (1454/4689),  407 kb
+Receiving objects:  41% (1923/4689),  856 kb
+Receiving objects:  51% (2392/4689), 1080 kb
+Receiving objects:  61% (2861/4689), 5506 kb
+Receiving objects:  71% (3330/4689), 10397 kb
+Receiving objects:  81% (3799/4689), 10678 kb
+Receiving objects:  91% (4267/4689), 10790 kb
+Receiving objects: 100% (4689/4689), 11326 kb, done.
