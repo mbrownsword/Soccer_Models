@@ -1,0 +1,153 @@
+[1] "Updated at 2023-02-25 10:49:28.143"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: SC Freiburg 1.494 to Bayer Leverkusen 1.3251"
+[1] "Total: 2.8191"
+[1] "SC Freiburg %: 41.61"
+[1] "Draw %: 25.22"
+[1] "Bayer Leverkusen %: 33.17"
+[1] "--XG Model--"
+[1] "Score: SC Freiburg 1.5525 to Bayer Leverkusen 1.3057"
+[1] "Total: 2.8582"
+[1] "SC Freiburg %: 43.57"
+[1] "Draw %: 24.72"
+[1] "Bayer Leverkusen %: 31.71"
+[1] "--XGoT Model--"
+[1] "Score: SC Freiburg 1.3913 to Bayer Leverkusen 1.2107"
+[1] "Total: 2.602"
+[1] "SC Freiburg %: 41.38"
+[1] "Draw %: 26.19"
+[1] "Bayer Leverkusen %: 32.43"
+[1] "--XA Model--"
+[1] "Score: SC Freiburg 1.5273 to Bayer Leverkusen 1.2453"
+[1] "Total: 2.7726"
+[1] "SC Freiburg %: 43.68"
+[1] "Draw %: 25.3"
+[1] "Bayer Leverkusen %: 31.02"
+[1] "--Mean 4 Models--"
+[1] "SC Freiburg has a mean win % of 42.56%; a min win % of 41.38%; a max win % of 43.68%."
+[1] "Draw has a mean win % of 25.36%; a min win % of 24.72%; a max win % of 26.19%."
+[1] "Bayer Leverkusen has a mean win % of 32.08%; a min win % of 31.02%; a max win of % 33.17%."
+[1] "SC Freiburg has a mean win of the Double Chance of 67.92%; a min win % of 66.83%, a max win % of 68.98%."
+[1] "Bayer Leverkusen has a mean win of the Double Chance of 57.44%; a min win % of 56.32%, a max win % of 58.62%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.28%; max % is 53.7 and min % is 47.23%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.72%; max % is 52.77 and min % is 46.3%."
+[1] "--Sportsbook Odds--"
+[1] "SC Freiburg Barstool Odds are: 47.62"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "Bayer Leverkusen Barstool Odds are: 30.77"
+[1] "SC Freiburg Adjusted Barstool Odds are: 45.172"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.64"
+[1] "Bayer Leverkusen Adjusted Barstool Odds are: 29.188"
+[1] "SC Freiburg's Barstool Odds to cover the -0.25 spread are: 53.48"
+[1] "Bayer Leverkusen's Barstool Odds to cover the 0.25 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.97, which is a 50.76% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                   bet           date_time
+1     Bayer Leverkusen 2023-02-26 06:30:00
+2 Bayer Leverkusen ATS 2023-02-26 06:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team             | expected_attg| expected_gs|bet |
+|:------------------------------------|:----------------|-------------:|-----------:|:---|
+|/players/330643/mark-flekken         |SC Freiburg      |      0.000000|   0.0416667|    |
+|/players/1124533/kilian-sildillia    |SC Freiburg      |      0.022500|   0.0625000|    |
+|/players/303912/matthias-ginter      |SC Freiburg      |      0.039425|   0.0952381|    |
+|/players/643724/philipp-lienhart     |SC Freiburg      |      0.021125|   0.0833333|    |
+|/players/307209/lukas-kbler          |SC Freiburg      |      0.064150|   0.1111111|    |
+|/players/602523/maximilian-eggestein |SC Freiburg      |      0.026375|   0.1176471|    |
+|/players/212865/nicolas-hfler        |SC Freiburg      |      0.105500|   0.0952381|    |
+|/players/629805/ritsu-doan           |SC Freiburg      |      0.241050|   0.2702703|    |
+|/players/556524/lucas-hler           |SC Freiburg      |      0.016150|   0.2500000|    |
+|/players/400625/vincenzo-grifo       |SC Freiburg      |      0.321150|   0.3773585|    |
+|/players/198316/michael-gregoritsch  |SC Freiburg      |      0.291000|   0.3636364|    |
+|/players/540097/patrik-schick        |Bayer Leverkusen |      0.269050|   0.4255319|    |
+|/players/969870/adam-hlozek          |Bayer Leverkusen |      0.159725|   0.2777778|    |
+|/players/1152455/florian-wirtz       |Bayer Leverkusen |      0.182250|   0.2272727|    |
+|/players/614449/nadiem-amiri         |Bayer Leverkusen |      0.137150|   0.1666667|    |
+|/players/411851/robert-andrich       |Bayer Leverkusen |      0.045325|   0.1754386|    |
+|/players/331540/kerem-demirbay       |Bayer Leverkusen |      0.076575|   0.2040816|    |
+|/players/891870/mitchel-bakker       |Bayer Leverkusen |      0.032450|   0.2173913|    |
+|/players/789914/edmond-tapsoba       |Bayer Leverkusen |      0.010500|   0.1666667|    |
+|/players/1014496/odilon-kossounou    |Bayer Leverkusen |      0.029500|   0.0588235|    |
+|/players/966018/jeremie-frimpong     |Bayer Leverkusen |      0.059600|   0.1666667|    |
+|/players/66757/lukas-hradecky        |Bayer Leverkusen |      0.000000|   0.2500000|    |
+|/players/107920/nils-petersen        |SC Freiburg      |      0.065600|   0.4347826|    |
+|/players/949673/woo-yeong-jeong      |SC Freiburg      |      0.026850|   0.2631579|    |
+|/players/583601/roland-sallai        |SC Freiburg      |      0.003875|   0.3448276|    |
+|/players/844431/yannik-keitel        |SC Freiburg      |      0.000000|   0.1111111|    |
+|/players/846383/callum-hudson-odoi   |Bayer Leverkusen |      0.032400|   0.1886792|    |
+|/players/1069841/ayman-azhil         |Bayer Leverkusen |      0.000000|   0.0833333|    |
+|/players/208230/karim-bellarabi      |Bayer Leverkusen |      0.032550|   0.1785714|    |
+|/players/693599/exequiel-palacios    |Bayer Leverkusen |      0.017625|   0.0833333|    |
+____________________________________________________
+
+[1] "Facts about SC Freiburg:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/330643/mark-flekken         |           0|         38.2180|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1124533/kilian-sildillia    |           1|         40.6386|           1.9740|        0.1040|         0.4946|      0.0276|        0.0210|      0.0430| 90.0000|
+|/players/303912/matthias-ginter      |           1|         60.2248|           1.3845|        0.2395|         0.7454|      0.0679|        0.0423|      0.0959| 90.0000|
+|/players/643724/philipp-lienhart     |           1|         50.1969|           0.9049|        0.0817|         0.4211|      0.0612|        0.0210|      0.0254| 90.0000|
+|/players/307209/lukas-kbler          |           1|         34.0640|           1.7167|        0.1540|         0.4534|      0.0413|        0.0677|      0.0655| 82.8462|
+|/players/602523/maximilian-eggestein |           2|         47.1929|           2.3079|        0.2809|         0.8663|      0.0518|        0.0270|      0.1208| 90.0000|
+|/players/212865/nicolas-hfler        |           2|         50.3804|           2.0531|        0.2869|         1.0618|      0.0884|        0.1120|      0.0403| 90.0000|
+|/players/629805/ritsu-doan           |           3|         28.4507|           1.7599|        0.8518|         1.9596|      0.1585|        0.2753|      0.1510| 90.0000|
+|/players/556524/lucas-hler           |           3|         24.9141|           1.5448|        0.3766|         1.4178|      0.1518|        0.0156|      0.0694| 83.2000|
+|/players/400625/vincenzo-grifo       |           3|         36.9107|           0.6054|        0.8907|         2.1075|      0.3165|        0.3789|      0.2227| 83.8378|
+|/players/198316/michael-gregoritsch  |           5|         16.9572|           0.4988|        0.8851|         2.0493|      0.3334|        0.3300|      0.0651| 75.5484|
+|/players/107920/nils-petersen        |          NA|              NA|               NA|        0.2354|         0.5263|      0.0802|        0.0674|      0.0211| 14.4516|
+|/players/949673/woo-yeong-jeong      |          NA|              NA|               NA|        0.1025|         0.1594|      0.0165|        0.0270|      0.0379|  7.1538|
+|/players/583601/roland-sallai        |          NA|              NA|               NA|        0.0605|         0.3235|      0.0275|        0.0043|      0.0268|  6.8000|
+|/players/844431/yannik-keitel        |          NA|              NA|               NA|        0.0000|         0.1019|      0.0019|        0.0000|      0.0008|  6.1622|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Christian Streich |     90.92626|    -0.4685217|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Bayer Leverkusen:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/540097/patrik-schick      |           5|         17.9402|           0.5300|        0.7919|         1.9328|      0.3119|        0.3058|      0.0687| 77.2653|
+|/players/969870/adam-hlozek        |           3|         21.4015|           0.8895|        1.0375|         2.0014|      0.1518|        0.1646|      0.0724| 90.0000|
+|/players/1152455/florian-wirtz     |           3|         31.1749|           1.7913|        0.2938|         1.0075|      0.1767|        0.1965|      0.1993| 79.6538|
+|/players/614449/nadiem-amiri       |           3|         38.5665|           1.1061|        0.4074|         1.8136|      0.1730|        0.1493|      0.1109| 80.2000|
+|/players/411851/robert-andrich     |           2|         36.8922|           1.6124|        0.1979|         0.7870|      0.0652|        0.0440|      0.0341| 77.7500|
+|/players/331540/kerem-demirbay     |           2|         59.6351|           2.4734|        0.2366|         0.8269|      0.0675|        0.0753|      0.1100| 90.0000|
+|/players/891870/mitchel-bakker     |           1|         47.6926|           1.9788|        0.0596|         0.3601|      0.0348|        0.0333|      0.0784| 90.0000|
+|/players/789914/edmond-tapsoba     |           1|         64.1392|           1.8089|        0.1989|         0.6013|      0.0274|        0.0094|      0.0135| 90.0000|
+|/players/1014496/odilon-kossounou  |           1|         47.6895|           1.3516|        0.0618|         0.3112|      0.0277|        0.0306|      0.0087| 90.0000|
+|/players/966018/jeremie-frimpong   |           1|         33.4201|           1.4136|        0.1817|         0.5859|      0.0820|        0.0588|      0.1063| 90.0000|
+|/players/66757/lukas-hradecky      |           0|         38.4338|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/846383/callum-hudson-odoi |          NA|              NA|               NA|        0.0582|         0.2706|      0.0187|        0.0334|      0.0375| 12.7347|
+|/players/1069841/ayman-azhil       |          NA|              NA|               NA|        0.0000|         0.0794|      0.0059|        0.0000|      0.0030| 12.2500|
+|/players/208230/karim-bellarabi    |          NA|              NA|               NA|        0.2480|         0.5767|      0.0662|        0.0300|      0.0211| 10.3462|
+|/players/693599/exequiel-palacios  |          NA|              NA|               NA|        0.0266|         0.0549|      0.0178|        0.0183|      0.0157|  9.8000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Xabi Alonso  |     16.97071|      4.354118|3-4-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3903735/Soccer_Models'...
+Receiving objects:   1% (48/4740),   63 kb
+Receiving objects:  11% (522/4740),  127 kb
+Receiving objects:  21% (996/4740),  239 kb
+Receiving objects:  31% (1470/4740),  463 kb
+Receiving objects:  41% (1944/4740),  856 kb
+Receiving objects:  51% (2418/4740), 1080 kb
+Receiving objects:  61% (2892/4740), 5787 kb
+Receiving objects:  71% (3366/4740), 10381 kb
+Receiving objects:  81% (3840/4740), 10718 kb
+Receiving objects:  91% (4314/4740), 10830 kb
+Receiving objects: 100% (4740/4740), 11369 kb, done.
