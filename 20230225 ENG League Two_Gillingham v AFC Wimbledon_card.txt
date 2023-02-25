@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 21:39:21.972"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Gillingham 1.1278 to AFC Wimbledon 0.9362"
+[1] "Total: 2.064"
+[1] "Gillingham %: 40.38"
+[1] "Draw %: 29.75"
+[1] "AFC Wimbledon %: 29.87"
+[1] "--XG Model--"
+[1] "Score: Gillingham 1.2874 to AFC Wimbledon 0.9672"
+[1] "Total: 2.2546"
+[1] "Gillingham %: 44.68"
+[1] "Draw %: 27.54"
+[1] "AFC Wimbledon %: 27.78"
+[1] "--XGoT Model--"
+[1] "Score: Gillingham 1.2115 to AFC Wimbledon 0.839"
+[1] "Total: 2.0505"
+[1] "Gillingham %: 44.52"
+[1] "Draw %: 30.05"
+[1] "AFC Wimbledon %: 25.43"
+[1] "--XA Model--"
+[1] "Score: Gillingham 1.1868 to AFC Wimbledon 0.9032"
+[1] "Total: 2.09"
+[1] "Gillingham %: 43.13"
+[1] "Draw %: 29.5"
+[1] "AFC Wimbledon %: 27.37"
+[1] "--Mean 4 Models--"
+[1] "Gillingham has a mean win % of 43.18%; a min win % of 40.38%; a max win % of 44.68%."
+[1] "Draw has a mean win % of 29.21%; a min win % of 27.54%; a max win % of 30.05%."
+[1] "AFC Wimbledon has a mean win % of 27.61%; a min win % of 25.43%; a max win of % 29.87%."
+[1] "Gillingham has a mean win of the Double Chance of 72.39%; a min win % of 70.13%, a max win % of 74.57%."
+[1] "AFC Wimbledon has a mean win of the Double Chance of 56.82%; a min win % of 55.32%, a max win % of 59.62%."
+[1] "The mean likelihood that there are more than 2.5 goals is 34.92%; max % is 38.54 and min % is 33.22%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 65.08%; max % is 66.78 and min % is 61.46%."
+[1] "--Sportsbook Odds--"
+[1] "Gillingham Barstool Odds are: 43.48"
+[1] "The Barstool Odds of a Draw are: 32.79"
+[1] "AFC Wimbledon Barstool Odds are: 31.25"
+[1] "Gillingham Adjusted Barstool Odds are: 40.439"
+[1] "The Adjusted Barstool Odds of a Draw are: 30.497"
+[1] "AFC Wimbledon Adjusted Barstool Odds are: 29.064"
+[1] "Gillingham's Barstool Odds to cover the 0 spread are: 62.11"
+[1] "AFC Wimbledon's Barstool Odds to cover the 0 spread are: 44.44"
+[1] "Barstool's line for the total is 2.5 at 2.45, which is a 40.82% chance of the over 2.5 hitting. The line for the under is 1.49, which is a 67.11% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team          | expected_attg| expected_gs|bet |
+|:----------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/24264/glenn-morris        |Gillingham    |      0.000000|   0.1176471|    |
+|/players/600838/cheye-alexander    |Gillingham    |      0.006800|   0.0909091|    |
+|/players/598078/oliver-hawkins     |Gillingham    |      0.036375|   0.2702703|    |
+|/players/816509/will-wright        |Gillingham    |      0.005700|   0.1538462|    |
+|/players/214579/max-ehmer          |Gillingham    |      0.070400|   0.1000000|    |
+|/players/148909/stuart-okeefe      |Gillingham    |      0.060975|   0.2857143|    |
+|/players/116115/shaun-williams     |Gillingham    |      0.059925|   0.1333333|    |
+|/players/589123/scott-kashket      |Gillingham    |      0.215825|   0.2040816|    |
+|/players/184483/ben-reeves         |Gillingham    |      0.137800|   0.1694915|    |
+|/players/419133/hakeeb-adelakun    |Gillingham    |      0.086125|   0.2127660|    |
+|/players/262531/tom-nichols        |Gillingham    |      0.274025|   0.3571429|    |
+|/players/643659/nikola-tzanev      |AFC Wimbledon |      0.000000|   0.0909091|    |
+|/players/49709/alex-pearce         |AFC Wimbledon |      0.019575|   0.0344828|    |
+|/players/731264/paul-kalambayi     |AFC Wimbledon |      0.022450|   0.0666667|    |
+|/players/184335/lee-brown          |AFC Wimbledon |      0.021625|   0.0500000|    |
+|/players/886144/george-marsh       |AFC Wimbledon |      0.019000|   0.0666667|    |
+|/players/38067/chris-gunter        |AFC Wimbledon |      0.017825|   0.0526316|    |
+|/players/1220583/jack-currie       |AFC Wimbledon |      0.020625|   0.0500000|    |
+|/players/204079/harry-pell         |AFC Wimbledon |      0.076725|   0.1818182|    |
+|/players/981181/ethan-chislett     |AFC Wimbledon |      0.136650|   0.2500000|    |
+|/players/711363/diallang-jaiyesimi |AFC Wimbledon |      0.260950|   0.1923077|*   |
+|/players/1105523/josh-davison      |AFC Wimbledon |      0.122050|   0.2631579|    |
+|/players/155122/alex-macdonald     |Gillingham    |      0.026775|   0.0952381|    |
+|/players/1038365/lewis-walker      |Gillingham    |      0.027050|   0.1694915|    |
+|/players/716859/jordan-green       |Gillingham    |      0.006400|   0.1428571|    |
+|/players/807742/george-lapslie     |Gillingham    |      0.029150|   0.2941176|    |
+|/players/660320/armani-little      |AFC Wimbledon |      0.030150|   0.0769231|    |
+|/players/956624/saikou-janneh      |AFC Wimbledon |      0.034000|   0.2173913|    |
+|/players/202066/alex-woodyard      |AFC Wimbledon |      0.000000|   0.0666667|    |
+|/players/956624/saikou-janneh      |AFC Wimbledon |      0.034000|   0.2173913|    |
+____________________________________________________
+
+[1] "Facts about Gillingham:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/24264/glenn-morris     |           0|         28.9284|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/600838/cheye-alexander |           1|         38.2683|           1.1252|        0.0376|         0.3831|      0.0235|        0.0070|      0.0360| 81.8182|
+|/players/598078/oliver-hawkins  |           1|         47.7125|           2.2734|        0.2569|         0.6228|      0.0607|        0.0435|      0.0255| 90.0000|
+|/players/816509/will-wright     |           1|         50.3212|           0.9729|        0.0651|         0.5889|      0.0493|        0.0077|      0.0709| 90.0000|
+|/players/214579/max-ehmer       |           1|         33.5395|           1.4532|        0.1881|         0.4421|      0.0340|        0.0820|      0.0618| 90.0000|
+|/players/148909/stuart-okeefe   |           2|         28.6802|           2.3814|        0.2622|         1.2172|      0.0359|        0.0660|      0.0536| 90.0000|
+|/players/116115/shaun-williams  |           2|         57.3585|           1.9540|        0.2008|         0.5085|      0.0945|        0.0660|      0.1101| 90.0000|
+|/players/589123/scott-kashket   |           3|         13.4950|           0.8279|        0.4599|         1.2725|      0.3291|        0.2599|      0.0353| 76.2000|
+|/players/184483/ben-reeves      |           3|         34.0362|           1.7593|        0.8049|         2.0149|      0.0747|        0.1557|      0.1672| 79.4000|
+|/players/419133/hakeeb-adelakun |           3|         25.0793|           0.6653|        0.4928|         1.5907|      0.0878|        0.0957|      0.1487| 79.6429|
+|/players/262531/tom-nichols     |           5|         17.2547|           0.5110|        0.9225|         2.3743|      0.3317|        0.3488|      0.0704| 90.0000|
+|/players/155122/alex-macdonald  |           0|              NA|               NA|        0.0528|         0.2697|      0.0172|        0.0288|      0.0217| 13.8000|
+|/players/1038365/lewis-walker   |           0|              NA|               NA|        0.1205|         0.4576|      0.0420|        0.0282|      0.0022| 10.6000|
+|/players/716859/jordan-green    |           0|              NA|               NA|        0.0314|         0.1374|      0.0143|        0.0065|      0.0286| 10.3571|
+|/players/807742/george-lapslie  |           0|              NA|               NA|        0.0410|         0.1495|      0.0088|        0.0332|      0.0096|  8.1818|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Neil Harris  |     55.85455|     -2.883093|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about AFC Wimbledon:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/643659/nikola-tzanev      |           0|         31.8524|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/49709/alex-pearce         |           1|         44.3794|           0.9934|        0.0788|         0.2353|      0.0487|        0.0243|      0.0039| 81.3333|
+|/players/731264/paul-kalambayi     |           1|         30.2163|           1.4932|        0.0871|         0.3698|      0.0219|        0.0245|      0.0054| 90.0000|
+|/players/184335/lee-brown          |           1|         51.8670|           1.8018|        0.1603|         0.6704|      0.0252|        0.0245|      0.0701| 90.0000|
+|/players/886144/george-marsh       |           3|         38.6235|           2.5099|        0.1390|         0.5301|      0.0504|        0.0231|      0.0213| 90.0000|
+|/players/38067/chris-gunter        |           3|         33.4422|           0.9428|        0.1390|         0.1463|      0.0018|        0.0231|      0.0637| 90.0000|
+|/players/1220583/jack-currie       |           3|         33.1816|           2.9377|        0.1390|         0.3359|      0.0179|        0.0231|      0.0902| 90.0000|
+|/players/204079/harry-pell         |           3|         37.4678|           0.9183|        0.3661|         1.6457|      0.0815|        0.0901|      0.1138| 79.6818|
+|/players/981181/ethan-chislett     |           3|         27.0731|           1.8587|        0.5637|         1.7993|      0.1656|        0.1611|      0.1322| 82.2800|
+|/players/711363/diallang-jaiyesimi |           5|         19.0630|           1.0032|        0.5156|         2.2983|      0.3374|        0.3359|      0.1031| 77.0000|
+|/players/1105523/josh-davison      |           5|         19.5467|           0.3050|        1.1758|         1.8169|      0.1615|        0.1517|      0.0509| 90.0000|
+|/players/660320/armani-little      |           0|              NA|               NA|        0.0725|         0.2761|      0.0276|        0.0349|      0.0307| 13.0000|
+|/players/956624/saikou-janneh      |           0|              NA|               NA|        0.1514|         0.2058|      0.0215|        0.0404|      0.0147| 10.3182|
+|/players/202066/alex-woodyard      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  8.6667|
+|/players/956624/saikou-janneh      |           0|              NA|               NA|        0.0000|         0.4249|      0.0178|        0.0000|      0.0066|  7.7200|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Johnnie Jackson |     28.56667|     0.2308333|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916780/Soccer_Models'...
+Receiving objects:   1% (47/4677),   63 kb
+Receiving objects:  11% (515/4677),  127 kb
+Receiving objects:  21% (983/4677),  239 kb
+Receiving objects:  31% (1450/4677),  407 kb
+Receiving objects:  41% (1918/4677),  856 kb
+Receiving objects:  51% (2386/4677), 1080 kb
+Receiving objects:  61% (2853/4677), 5450 kb
+Receiving objects:  71% (3321/4677), 10381 kb
+Receiving objects:  81% (3789/4677), 10662 kb
+Receiving objects:  91% (4257/4677), 10830 kb
+Receiving objects: 100% (4677/4677), 11312 kb, done.
