@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 13:04:40.537"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Toluca 1.4785 to Atlético San Luis 0.8527"
+[1] "Total: 2.3312"
+[1] "Toluca %: 52"
+[1] "Draw %: 25.75"
+[1] "Atlético San Luis %: 22.25"
+[1] "--XG Model--"
+[1] "Score: Toluca 1.6298 to Atlético San Luis 0.8307"
+[1] "Total: 2.4605"
+[1] "Toluca %: 56.55"
+[1] "Draw %: 24.56"
+[1] "Atlético San Luis %: 18.89"
+[1] "--XGoT Model--"
+[1] "Score: Toluca 1.6535 to Atlético San Luis 0.8183"
+[1] "Total: 2.4718"
+[1] "Toluca %: 57.3"
+[1] "Draw %: 24.13"
+[1] "Atlético San Luis %: 18.57"
+[1] "--XA Model--"
+[1] "Score: Toluca 1.6776 to Atlético San Luis 0.8779"
+[1] "Total: 2.5555"
+[1] "Toluca %: 56.87"
+[1] "Draw %: 24.19"
+[1] "Atlético San Luis %: 18.94"
+[1] "--Mean 4 Models--"
+[1] "Toluca has a mean win % of 55.68%; a min win % of 52%; a max win % of 57.3%."
+[1] "Draw has a mean win % of 24.66%; a min win % of 24.13%; a max win % of 25.75%."
+[1] "Atlético San Luis has a mean win % of 19.66%; a min win % of 18.57%; a max win of % 22.25%."
+[1] "Toluca has a mean win of the Double Chance of 80.34%; a min win % of 77.75%, a max win % of 81.43%."
+[1] "Atlético San Luis has a mean win of the Double Chance of 44.32%; a min win % of 42.7%, a max win % of 48%."
+[1] "The mean likelihood that there are more than 2.5 goals is 43.84%; max % is 46.18 and min % is 40.41%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 56.16%; max % is 59.59 and min % is 53.82%."
+[1] "--Sportsbook Odds--"
+[1] "Toluca Barstool Odds are: 54.55"
+[1] "The Barstool Odds of a Draw are: 27.03"
+[1] "Atlético San Luis Barstool Odds are: 26.32"
+[1] "Toluca Adjusted Barstool Odds are: 50.556"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.051"
+[1] "Atlético San Luis Adjusted Barstool Odds are: 24.393"
+[1] "Toluca's Barstool Odds to cover the -0.5 spread are: 54.64"
+[1] "Atlético San Luis's Barstool Odds to cover the 0.5 spread are: 51.28"
+[1] "Barstool's line for the total is 2.5 at 1.7, which is a 58.82% chance of the over 2.5 hitting. The line for the under is 2.05, which is a 48.78% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                              bet           date_time
+1 under Toluca/Atlético San Luis 2023-02-26 10:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                           |team               | expected_attg| expected_gs|bet |
+|:----------------------------------|:------------------|-------------:|-----------:|:---|
+|/players/409017/tiago-volpi        |Toluca             |      0.000000|   0.2564103|    |
+|/players/205863/andrs-mosquera     |Toluca             |      0.007100|   0.0714286|    |
+|/players/317774/valber-huerta      |Toluca             |      0.106950|   0.1666667|    |
+|/players/1205874/brian-garcia      |Toluca             |      0.007650|   0.1666667|    |
+|/players/110331/brayan-angulo      |Toluca             |      0.033425|   0.0588235|    |
+|/players/950681/marcel-ruiz        |Toluca             |      0.067700|   0.2000000|    |
+|/players/360799/claudio-baeza      |Toluca             |      0.079975|   0.1052632|    |
+|/players/115731/fernando-navarro   |Toluca             |      0.092825|   0.1052632|    |
+|/players/834965/leonardo-fernandez |Toluca             |      0.306700|   0.3703704|    |
+|/players/664954/jean-meneses       |Toluca             |      0.166800|   0.3225806|    |
+|/players/614459/carlos-gonzalez    |Toluca             |      0.385100|   0.3571429|    |
+|/players/113577/marcelo-barovero   |Atlético San Luis |      0.000000|   0.2000000|    |
+|/players/1222287/jesus-pinuelas    |Atlético San Luis |      0.015575|   0.1333333|    |
+|/players/559969/rodrigo-gonzalez   |Atlético San Luis |      0.014125|   0.0625000|    |
+|/players/616540/unai-bilbao        |Atlético San Luis |      0.044700|   0.1333333|    |
+|/players/659597/ricardo-chavez     |Atlético San Luis |      0.033200|   0.1250000|    |
+|/players/391602/rodrigo-dourado    |Atlético San Luis |      0.008050|   0.1052632|    |
+|/players/518567/dieter-villalpando |Atlético San Luis |      0.074075|   0.1052632|    |
+|/players/1053963/juan-sanabria     |Atlético San Luis |      0.168350|   0.3125000|    |
+|/players/471119/javier-guemez      |Atlético San Luis |      0.008925|   0.0625000|    |
+|/players/444351/angel-zaldivar     |Atlético San Luis |      0.262275|   0.3125000|    |
+|/players/423024/jhon-murillo       |Atlético San Luis |      0.060525|   0.2127660|    |
+|/players/256605/camilo             |Toluca             |      0.067700|   0.1000000|    |
+|/players/1084096/alan-rodriguez    |Toluca             |      0.000000|   0.1666667|    |
+|/players/622027/sebastian-saucedo  |Toluca             |      0.007975|   0.2777778|    |
+|/players/1222434/jorge-rodriguez   |Toluca             |      0.000000|   0.0588235|    |
+|/players/1256627/vitinho           |Atlético San Luis |      0.040850|   0.1851852|    |
+|/players/672836/juan-castro        |Atlético San Luis |      0.000000|   0.1333333|    |
+|/players/417552/david-andrade      |Atlético San Luis |      0.000000|   0.0526316|    |
+|/players/1169756/uziel-garcia      |Atlético San Luis |      0.000000|   0.0526316|    |
+____________________________________________________
+
+[1] "Facts about Toluca:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/409017/tiago-volpi        |           0|         29.3586|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/205863/andrs-mosquera     |           1|         54.2944|           1.2596|        0.0736|         0.4723|      0.0531|        0.0077|      0.0310| 90.0000|
+|/players/317774/valber-huerta      |           1|         62.2488|           1.5192|        0.3336|         0.9639|      0.1142|        0.1274|      0.0154| 90.0000|
+|/players/1205874/brian-garcia      |           1|         39.5325|           1.2046|        0.0736|         0.3860|      0.0153|        0.0077|      0.0923| 90.0000|
+|/players/110331/brayan-angulo      |           1|         49.5538|           2.2585|        0.2162|         0.7868|      0.0526|        0.0375|      0.1319| 90.0000|
+|/players/950681/marcel-ruiz        |           2|         48.2022|           1.8746|        0.5017|         1.4392|      0.1344|        0.0822|      0.0779| 80.8571|
+|/players/360799/claudio-baeza      |           2|         56.5339|           2.0351|        0.0726|         0.5729|      0.0169|        0.0914|      0.1053| 90.0000|
+|/players/115731/fernando-navarro   |           3|         30.9637|           1.0977|        0.5071|         1.3597|      0.1143|        0.1092|      0.1239| 80.2941|
+|/players/834965/leonardo-fernandez |           3|         30.4364|           1.0063|        0.9578|         2.6300|      0.3043|        0.3808|      0.2412| 77.5000|
+|/players/664954/jean-meneses       |           3|         31.6799|           1.6210|        0.7692|         2.0959|      0.2058|        0.2026|      0.1190| 90.0000|
+|/players/614459/carlos-gonzalez    |           5|         17.8082|           0.4839|        1.1828|         2.7559|      0.5213|        0.5255|      0.0913| 81.9302|
+|/players/256605/camilo             |           0|              NA|               NA|        0.1744|         0.5306|      0.1155|        0.0775|      0.0312| 12.5000|
+|/players/1084096/alan-rodriguez    |           0|              NA|               NA|        0.0000|         0.1585|      0.0065|        0.0000|      0.0032|  9.7059|
+|/players/622027/sebastian-saucedo  |           0|              NA|               NA|        0.0518|         0.1482|      0.0116|        0.0086|      0.0155|  9.1429|
+|/players/1222434/jorge-rodriguez   |           0|              NA|               NA|        0.0000|         0.0407|      0.0024|        0.0000|      0.0009|  8.0698|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Ignacio Ambriz |     55.85253|    -0.0229412|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Atlético San Luis:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/113577/marcelo-barovero   |           0|         23.0076|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1222287/jesus-pinuelas    |           1|         34.0106|           2.2948|        0.0489|         0.1655|      0.0320|        0.0171|      0.0190| 90.0000|
+|/players/559969/rodrigo-gonzalez   |           1|         36.1634|           1.0814|        0.0489|         0.1884|      0.0074|        0.0171|      0.0057| 90.0000|
+|/players/616540/unai-bilbao        |           1|         35.6028|           1.1799|        0.1424|         0.6018|      0.0642|        0.0492|      0.0109| 90.0000|
+|/players/659597/ricardo-chavez     |           1|         31.9699|           2.5368|        0.1986|         0.6714|      0.0445|        0.0411|      0.1331| 90.0000|
+|/players/391602/rodrigo-dourado    |           3|         31.5873|           1.9153|        0.1559|         0.3544|      0.0172|        0.0090|      0.0578| 74.0667|
+|/players/518567/dieter-villalpando |           3|         27.7826|           1.5391|        0.3897|         1.4177|      0.1095|        0.0882|      0.0825| 72.6111|
+|/players/1053963/juan-sanabria     |           3|         22.4759|           1.8305|        0.3842|         0.8486|      0.1200|        0.2105|      0.1064| 90.0000|
+|/players/471119/javier-guemez      |           3|         33.4369|           1.8522|        0.2111|         1.0145|      0.0711|        0.0109|      0.0264| 90.0000|
+|/players/444351/angel-zaldivar     |           5|         14.3686|           0.8135|        0.7647|         2.2945|      0.3271|        0.3406|      0.0276| 72.8947|
+|/players/423024/jhon-murillo       |           5|         18.6138|           0.5288|        0.3632|         0.5994|      0.0844|        0.0693|      0.1075| 74.5500|
+|/players/1256627/vitinho           |           0|              NA|               NA|        0.1306|         0.4059|      0.0619|        0.0467|      0.0053| 17.3889|
+|/players/672836/juan-castro        |           0|              NA|               NA|        0.0000|         0.1260|      0.0160|        0.0000|      0.0036| 17.1053|
+|/players/417552/david-andrade      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0087| 15.9333|
+|/players/1169756/uziel-garcia      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0109| 15.4500|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Andre Jardine |      28.1697|     -8.914828|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065381/Soccer_Models'...
+Receiving objects:   1% (49/4824),   63 kb
+Receiving objects:  11% (531/4824),  127 kb
+Receiving objects:  21% (1014/4824),  239 kb
+Receiving objects:  31% (1496/4824),  519 kb
+Receiving objects:  41% (1978/4824),  856 kb
+Receiving objects:  51% (2461/4824), 1136 kb
+Receiving objects:  61% (2943/4824), 8917 kb
+Receiving objects:  71% (3426/4824), 10430 kb
+Receiving objects:  81% (3908/4824), 10710 kb
+Receiving objects:  91% (4390/4824), 10822 kb
+Receiving objects: 100% (4824/4824), 11450 kb, done.
