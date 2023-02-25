@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 12:24:10.564"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Nantes 1.1237 to Stade Rennes 1.3656"
+[1] "Total: 2.4893"
+[1] "Nantes %: 31.44"
+[1] "Draw %: 26.94"
+[1] "Stade Rennes %: 41.62"
+[1] "--XG Model--"
+[1] "Score: Nantes 1.0178 to Stade Rennes 1.4796"
+[1] "Total: 2.4974"
+[1] "Nantes %: 27.12"
+[1] "Draw %: 25.76"
+[1] "Stade Rennes %: 47.12"
+[1] "--XGoT Model--"
+[1] "Score: Nantes 1.0902 to Stade Rennes 1.5208"
+[1] "Total: 2.611"
+[1] "Nantes %: 28.42"
+[1] "Draw %: 25.63"
+[1] "Stade Rennes %: 45.95"
+[1] "--XA Model--"
+[1] "Score: Nantes 1.0267 to Stade Rennes 1.4669"
+[1] "Total: 2.4936"
+[1] "Nantes %: 27.23"
+[1] "Draw %: 26.24"
+[1] "Stade Rennes %: 46.53"
+[1] "--Mean 4 Models--"
+[1] "Nantes has a mean win % of 28.55%; a min win % of 27.12%; a max win % of 31.44%."
+[1] "Draw has a mean win % of 26.14%; a min win % of 25.63%; a max win % of 26.94%."
+[1] "Stade Rennes has a mean win % of 45.3%; a min win % of 41.62%; a max win of % 47.12%."
+[1] "Nantes has a mean win of the Double Chance of 54.69%; a min win % of 52.88%, a max win % of 58.38%."
+[1] "Stade Rennes has a mean win of the Double Chance of 71.45%; a min win % of 68.56%, a max win % of 72.88%."
+[1] "The mean likelihood that there are more than 2.5 goals is 45.66%; max % is 47.89 and min % is 44.78%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 54.34%; max % is 55.22 and min % is 52.11%."
+[1] "--Sportsbook Odds--"
+[1] "Nantes Barstool Odds are: 29.85"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Stade Rennes Barstool Odds are: 46.51"
+[1] "Nantes Adjusted Barstool Odds are: 28.334"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.518"
+[1] "Stade Rennes Adjusted Barstool Odds are: 44.148"
+[1] "Nantes's Barstool Odds to cover the 0.25 spread are: 52.08"
+[1] "Stade Rennes's Barstool Odds to cover the -0.25 spread are: 53.19"
+[1] "Barstool's line for the total is 2.5 at 2, which is a 50% chance of the over 2.5 hitting. The line for the under is 1.82, which is a 54.95% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+         bet           date_time
+1 Nantes ATS 2023-02-26 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team         | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:------------|-------------:|-----------:|:---|
+|/players/698273/alban-lafont              |Nantes       |      0.000000|   0.2040816|    |
+|/players/165583/sbastien-corchia          |Nantes       |      0.033275|   0.0555556|    |
+|/players/498655/andrei-girotto            |Nantes       |      0.034325|   0.1538462|    |
+|/players/198277/nicolas-pallois           |Nantes       |      0.030875|   0.0555556|    |
+|/players/660887/fabien-centonze           |Nantes       |      0.004450|   0.1176471|    |
+|/players/866108/samuel-moutoussamy        |Nantes       |      0.053600|   0.1052632|    |
+|/players/680031/pedro-chirivella          |Nantes       |      0.060900|   0.0909091|    |
+|/players/693171/ludovic-blas              |Nantes       |      0.218475|   0.2380952|    |
+|/players/319824/florent-mollet            |Nantes       |      0.064775|   0.2083333|    |
+|/players/467486/moses-simon               |Nantes       |      0.124800|   0.2500000|    |
+|/players/1087966/evann-guessand           |Nantes       |      0.219525|   0.1666667|*   |
+|/players/844437/amine-gouiri              |Stade Rennes |      0.362925|   0.3448276|    |
+|/players/1095445/arnaud-kalimuendo-muinga |Stade Rennes |      0.168625|   0.3125000|    |
+|/players/426906/karl-toko-ekambi          |Stade Rennes |      0.220025|   0.2702703|    |
+|/players/762721/lovro-majer               |Stade Rennes |      0.049850|   0.2272727|    |
+|/players/478105/baptiste-santamaria       |Stade Rennes |      0.056675|   0.1333333|    |
+|/players/441871/benjamin-bourigeaud       |Stade Rennes |      0.085550|   0.2631579|    |
+|/players/1177358/adrien-truffert          |Stade Rennes |      0.011025|   0.1000000|    |
+|/players/1173250/arthur-theate            |Stade Rennes |      0.098725|   0.0666667|    |
+|/players/1202595/warmed-omari             |Stade Rennes |      0.011975|   0.0555556|    |
+|/players/894803/djed-spence               |Stade Rennes |      0.009800|   0.1111111|    |
+|/players/31293/steve-mandanda             |Stade Rennes |      0.000000|   0.0769231|    |
+|/players/606491/marcus-regis-coco         |Nantes       |      0.008400|   0.1333333|    |
+|/players/863708/ignatius-ganago           |Nantes       |      0.045925|   0.2631579|    |
+|/players/94550/moussa-sissoko             |Nantes       |      0.008500|   0.0952381|    |
+|/players/817500/mostafa-mohamed           |Nantes       |      0.039375|   0.2857143|    |
+|/players/942368/jrémy-doku                |Stade Rennes |      0.049850|   0.2040816|    |
+|/players/428815/flavien-tait              |Stade Rennes |      0.077975|   0.2439024|    |
+|/players/566681/birger-meling             |Stade Rennes |      0.000000|   0.0909091|    |
+|/players/1339208/dsiré-doué               |Stade Rennes |      0.000000|   0.2222222|    |
+____________________________________________________
+
+[1] "Facts about Nantes:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/698273/alban-lafont       |           0|         25.8895|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/165583/sbastien-corchia   |           1|         25.9416|           1.3360|        0.1263|         0.5297|      0.0273|        0.0392|      0.0749| 90.0000|
+|/players/498655/andrei-girotto     |           1|         52.3256|           1.7906|        0.1529|         0.5496|      0.0570|        0.0386|      0.0342| 90.0000|
+|/players/198277/nicolas-pallois    |           1|         44.3821|           1.5702|        0.1188|         0.2656|      0.0484|        0.0317|      0.0094| 90.0000|
+|/players/660887/fabien-centonze    |           1|         39.4139|           1.5792|        0.1097|         0.5520|      0.0256|        0.0048|      0.0470| 90.0000|
+|/players/866108/samuel-moutoussamy |           2|         37.5230|           2.9022|        0.1970|         1.0908|      0.1135|        0.0615|      0.0490| 81.8571|
+|/players/680031/pedro-chirivella   |           2|         40.5425|           1.4284|        0.1971|         0.4176|      0.0202|        0.0615|      0.0521| 81.8750|
+|/players/693171/ludovic-blas       |           3|         27.0808|           1.8823|        0.6792|         2.2945|      0.2193|        0.2544|      0.0775| 90.0000|
+|/players/319824/florent-mollet     |           3|         30.3472|           1.0487|        0.3924|         1.3137|      0.1088|        0.0724|      0.0878| 78.2000|
+|/players/467486/moses-simon        |           3|         21.5374|           1.1392|        0.4901|         1.0823|      0.1528|        0.1332|      0.1485| 90.0000|
+|/players/1087966/evann-guessand    |           5|         16.6421|           0.5513|        0.7179|         1.8407|      0.2774|        0.2590|      0.0466| 79.8235|
+|/players/606491/marcus-regis-coco  |          NA|              NA|               NA|        0.0375|         0.1786|      0.0141|        0.0089|      0.0063| 11.8000|
+|/players/863708/ignatius-ganago    |          NA|              NA|               NA|        0.1324|         0.2651|      0.0375|        0.0491|      0.0105| 10.1765|
+|/players/94550/moussa-sissoko      |          NA|              NA|               NA|        0.0296|         0.0942|      0.0102|        0.0098|      0.0085|  8.1429|
+|/players/817500/mostafa-mohamed    |          NA|              NA|               NA|        0.0730|         0.2805|      0.0343|        0.0398|      0.0156|  8.1250|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Antoine Kombouare |     79.77172|     -2.858235|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Stade Rennes:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/844437/amine-gouiri              |           5|         30.8444|           1.2072|        1.1704|         2.6825|      0.4931|        0.4963|      0.1824| 90.0000|
+|/players/1095445/arnaud-kalimuendo-muinga |           5|         16.8984|           0.4430|        0.7277|         1.7612|      0.2245|        0.2077|      0.0636| 74.5517|
+|/players/426906/karl-toko-ekambi          |           3|         33.4394|           1.2027|        0.6463|         1.6827|      0.2773|        0.2748|      0.1091| 90.0000|
+|/players/762721/lovro-majer               |           3|         39.8630|           1.8845|        0.3380|         1.0961|      0.0868|        0.0590|      0.1237| 72.2500|
+|/players/478105/baptiste-santamaria       |           3|         45.7537|           2.3051|        0.2496|         0.8400|      0.0726|        0.0669|      0.0367| 81.4000|
+|/players/441871/benjamin-bourigeaud       |           3|         47.2861|           1.6298|        0.2972|         1.1237|      0.0847|        0.0984|      0.1905| 80.5000|
+|/players/1177358/adrien-truffert          |           1|         50.5593|           2.2155|        0.0763|         0.5441|      0.0295|        0.0126|      0.1331| 90.0000|
+|/players/1173250/arthur-theate            |           1|         58.5041|           1.6825|        0.3215|         0.7639|      0.1164|        0.1166|      0.0214| 90.0000|
+|/players/1202595/warmed-omari             |           1|         62.2620|           1.3341|        0.0668|         0.2115|      0.0077|        0.0126|      0.0101| 90.0000|
+|/players/894803/djed-spence               |           1|         33.0322|           1.4216|        0.0668|         0.4551|      0.0242|        0.0126|      0.0747| 90.0000|
+|/players/31293/steve-mandanda             |           0|         36.8292|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/942368/jrémy-doku                |          NA|              NA|               NA|        0.2010|         0.3184|      0.0408|        0.0580|      0.0267| 17.7500|
+|/players/428815/flavien-tait              |          NA|              NA|               NA|        0.1382|         0.3940|      0.0728|        0.0950|      0.0168| 15.4483|
+|/players/566681/birger-meling             |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0103|  9.5000|
+|/players/1339208/dsiré-doué               |          NA|              NA|               NA|        0.0000|         0.2068|      0.0161|        0.0000|      0.0076|  8.6000|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Bruno Genesio |     78.75455|        10.106|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904526/Soccer_Models'...
+Receiving objects:   1% (48/4797),   63 kb
+Receiving objects:  11% (528/4797),  127 kb
+Receiving objects:  21% (1008/4797),  239 kb
+Receiving objects:  31% (1488/4797),  463 kb
+Receiving objects:  41% (1967/4797),  856 kb
+Receiving objects:  51% (2447/4797), 1080 kb
+Receiving objects:  61% (2927/4797), 5787 kb
+Receiving objects:  71% (3406/4797), 10438 kb
+Receiving objects:  81% (3886/4797), 10718 kb
+Receiving objects:  91% (4366/4797), 10830 kb
+Receiving objects: 100% (4797/4797), 11421 kb, done.
