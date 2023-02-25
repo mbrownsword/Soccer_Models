@@ -1,0 +1,88 @@
+[1] "Updated at 2023-02-24 17:05:07.953"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Tigres UANL 1.4569 to Guadalajara 1.0182"
+[1] "Total: 2.4751"
+[1] "Tigres UANL %: 47.29"
+[1] "Draw %: 26.32"
+[1] "Guadalajara %: 26.39"
+[1] "--XG Model--"
+[1] "Score: Tigres UANL 1.8264 to Guadalajara 0.8137"
+[1] "Total: 2.6401"
+[1] "Tigres UANL %: 61.6"
+[1] "Draw %: 22.74"
+[1] "Guadalajara %: 15.66"
+[1] "--XGoT Model--"
+[1] "Score: Tigres UANL 1.7335 to Guadalajara 0.9128"
+[1] "Total: 2.6463"
+[1] "Tigres UANL %: 56.81"
+[1] "Draw %: 23.85"
+[1] "Guadalajara %: 19.34"
+[1] "--XA Model--"
+[1] "Score: Tigres UANL 1.718 to Guadalajara 0.8181"
+[1] "Total: 2.5361"
+[1] "Tigres UANL %: 58.74"
+[1] "Draw %: 23.67"
+[1] "Guadalajara %: 17.59"
+[1] "--Mean 4 Models--"
+[1] "Tigres UANL has a mean win % of 56.11%; a min win % of 47.29%; a max win % of 61.6%."
+[1] "Draw has a mean win % of 24.14%; a min win % of 22.74%; a max win % of 26.32%."
+[1] "Guadalajara has a mean win % of 19.75%; a min win % of 15.66%; a max win of % 26.39%."
+[1] "Tigres UANL has a mean win of the Double Chance of 80.25%; a min win % of 73.61%, a max win % of 84.34%."
+[1] "Guadalajara has a mean win of the Double Chance of 43.89%; a min win % of 38.4%, a max win % of 52.71%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.54%; max % is 48.3 and min % is 43.86%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.46%; max % is 56.14 and min % is 51.7%."
+[1] "--Sportsbook Odds--"
+[1] "Tigres UANL Barstool Odds are: 60.61"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Guadalajara Barstool Odds are: 19.23"
+[1] "Tigres UANL Adjusted Barstool Odds are: 56.319"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.813"
+[1] "Guadalajara Adjusted Barstool Odds are: 17.868"
+[1] "Tigres UANL's Barstool Odds to cover the -0.5 spread are: 61.35"
+[1] "Guadalajara's Barstool Odds to cover the 0.5 spread are: 44.84"
+[1] "Barstool's line for the total is 2.5 at 1.97, which is a 50.76% chance of the over 2.5 hitting. The line for the under is 1.76, which is a 56.82% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 17:05:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Tigres UANL:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Marco Ruiz   |      2.99899|      19.52333|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Guadalajara:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Veljko Paunovic |     83.96061|     -1.280118|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065374/Soccer_Models'...
+Receiving objects:   1% (47/4659),   63 kb
+Receiving objects:  11% (513/4659),  127 kb
+Receiving objects:  21% (979/4659),  239 kb
+Receiving objects:  31% (1445/4659),  407 kb
+Receiving objects:  41% (1911/4659),  856 kb
+Receiving objects:  51% (2377/4659), 1080 kb
+Receiving objects:  61% (2842/4659), 1416 kb
+Receiving objects:  71% (3308/4659), 10325 kb
+Receiving objects:  81% (3774/4659), 10662 kb
+Receiving objects:  91% (4240/4659), 10830 kb
+Receiving objects: 100% (4659/4659), 11295 kb, done.
