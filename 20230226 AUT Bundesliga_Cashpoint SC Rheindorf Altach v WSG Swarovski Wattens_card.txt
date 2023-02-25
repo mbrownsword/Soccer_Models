@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 14:10:45.315"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Cashpoint SC Rheindorf Altach 1.1688 to WSG Swarovski Wattens 1.6456"
+[1] "Total: 2.8144"
+[1] "Cashpoint SC Rheindorf Altach %: 27.12"
+[1] "Draw %: 25.15"
+[1] "WSG Swarovski Wattens %: 47.73"
+[1] "--XG Model--"
+[1] "Score: Cashpoint SC Rheindorf Altach 1.0011 to WSG Swarovski Wattens 1.5541"
+[1] "Total: 2.5552"
+[1] "Cashpoint SC Rheindorf Altach %: 25.35"
+[1] "Draw %: 25.05"
+[1] "WSG Swarovski Wattens %: 49.6"
+[1] "--XGoT Model--"
+[1] "Score: Cashpoint SC Rheindorf Altach 1.0049 to WSG Swarovski Wattens 1.6471"
+[1] "Total: 2.652"
+[1] "Cashpoint SC Rheindorf Altach %: 23.44"
+[1] "Draw %: 25.22"
+[1] "WSG Swarovski Wattens %: 51.34"
+[1] "--XA Model--"
+[1] "Score: Cashpoint SC Rheindorf Altach 1.1312 to WSG Swarovski Wattens 1.7599"
+[1] "Total: 2.8911"
+[1] "Cashpoint SC Rheindorf Altach %: 24"
+[1] "Draw %: 23.98"
+[1] "WSG Swarovski Wattens %: 52.02"
+[1] "--Mean 4 Models--"
+[1] "Cashpoint SC Rheindorf Altach has a mean win % of 24.98%; a min win % of 23.44%; a max win % of 27.12%."
+[1] "Draw has a mean win % of 24.85%; a min win % of 23.98%; a max win % of 25.22%."
+[1] "WSG Swarovski Wattens has a mean win % of 50.17%; a min win % of 47.73%; a max win of % 52.02%."
+[1] "Cashpoint SC Rheindorf Altach has a mean win of the Double Chance of 49.83%; a min win % of 47.98%, a max win % of 52.27%."
+[1] "WSG Swarovski Wattens has a mean win of the Double Chance of 75.02%; a min win % of 72.88%, a max win % of 76.56%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.6%; max % is 54.68 and min % is 46.54%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.4%; max % is 53.46 and min % is 45.32%."
+[1] "--Sportsbook Odds--"
+[1] "Cashpoint SC Rheindorf Altach Barstool Odds are: 33.33"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "WSG Swarovski Wattens Barstool Odds are: 45.45"
+[1] "Cashpoint SC Rheindorf Altach Adjusted Barstool Odds are: 31.048"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.614"
+[1] "WSG Swarovski Wattens Adjusted Barstool Odds are: 42.338"
+[1] "Cashpoint SC Rheindorf Altach's Barstool Odds to cover the 0.5 spread are: 60.61"
+[1] "WSG Swarovski Wattens's Barstool Odds to cover the -0.5 spread are: 45.45"
+[1] "Barstool's line for the total is 2.5 at 1.67, which is a 59.88% chance of the over 2.5 hitting. The line for the under is 2.12, which is a 47.17% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                    bet           date_time
+1 WSG Swarovski Wattens 2023-02-26 05:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                               |team                          | expected_attg| expected_gs|bet |
+|:--------------------------------------|:-----------------------------|-------------:|-----------:|:---|
+|/players/521311/tino-casali            |Cashpoint SC Rheindorf Altach |      0.000000|   0.0666667|    |
+|/players/133505/emanuel-schreiner      |Cashpoint SC Rheindorf Altach |      0.048225|   0.0833333|    |
+|/players/768318/nosa-iyobosa-edokpolor |Cashpoint SC Rheindorf Altach |      0.007750|   0.0588235|    |
+|/players/1184443/felix-strauss         |Cashpoint SC Rheindorf Altach |      0.047100|   0.0833333|    |
+|/players/176805/jan-zwischenbrugger    |Cashpoint SC Rheindorf Altach |      0.007975|   0.0833333|    |
+|/players/338756/stefan-haudum          |Cashpoint SC Rheindorf Altach |      0.020075|   0.1250000|    |
+|/players/276153/lukas-jger             |Cashpoint SC Rheindorf Altach |      0.114050|   0.1000000|    |
+|/players/850280/johannes-tartarotti    |Cashpoint SC Rheindorf Altach |      0.040450|   0.1960784|    |
+|/players/1175704/noah-bischof          |Cashpoint SC Rheindorf Altach |      0.261550|   0.5652174|    |
+|/players/1386904/jan-jurcec            |Cashpoint SC Rheindorf Altach |      0.035350|   0.1000000|    |
+|/players/133503/atdhe-nuhiu            |Cashpoint SC Rheindorf Altach |      0.261075|   0.3389831|    |
+|/players/177694/ferdinand-oswald       |WSG Swarovski Wattens         |      0.000000|   0.1250000|    |
+|/players/951498/felix-bacher           |WSG Swarovski Wattens         |      0.001275|   0.0526316|    |
+|/players/828234/dominik-stumberger     |WSG Swarovski Wattens         |      0.001125|   0.0833333|    |
+|/players/276486/kofi-schulz            |WSG Swarovski Wattens         |      0.134525|   0.1538462|    |
+|/players/658432/raffael-behounek       |WSG Swarovski Wattens         |      0.024425|   0.0909091|    |
+|/players/752559/sandi-ogrinec          |WSG Swarovski Wattens         |      0.172475|   0.2702703|    |
+|/players/1168319/zan-rogelj            |WSG Swarovski Wattens         |      0.145375|   0.1666667|    |
+|/players/655692/valentino-mller        |WSG Swarovski Wattens         |      0.077950|   0.1538462|    |
+|/players/274389/bror-blume             |WSG Swarovski Wattens         |      0.123200|   0.1538462|    |
+|/players/440917/lautaro-rinaldi        |WSG Swarovski Wattens         |      0.244175|   0.2777778|    |
+|/players/956156/tim-prica              |WSG Swarovski Wattens         |      0.336575|   0.3636364|    |
+|/players/1024673/sebastian-aigner      |Cashpoint SC Rheindorf Altach |      0.000000|   0.1250000|    |
+|/players/1024677/csaba-bukta           |Cashpoint SC Rheindorf Altach |      0.011350|   0.1250000|    |
+|/players/658589/husein-balic           |Cashpoint SC Rheindorf Altach |      0.061950|   0.2631579|    |
+|/players/806433/manuel-thurnwald       |Cashpoint SC Rheindorf Altach |      0.011225|   0.1176471|    |
+|/players/873836/alexander-ranacher     |WSG Swarovski Wattens         |      0.039425|   0.1333333|    |
+|/players/1275650/stefan-skrbo          |WSG Swarovski Wattens         |      0.051250|   0.2083333|    |
+|/players/1184073/johannes-naschberger  |WSG Swarovski Wattens         |      0.012275|   0.1176471|    |
+|/players/1275647/justin-forst          |WSG Swarovski Wattens         |      0.026725|   0.3030303|    |
+____________________________________________________
+
+[1] "Facts about Cashpoint SC Rheindorf Altach:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/521311/tino-casali            |           0|         32.5855|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/133505/emanuel-schreiner      |           1|         28.8298|           1.1706|        0.1703|         0.5774|      0.0272|        0.0483|      0.0614| 81.0000|
+|/players/768318/nosa-iyobosa-edokpolor |           1|         43.0034|           1.6347|        0.0933|         0.1951|      0.0153|        0.0089|      0.0580| 90.0000|
+|/players/1184443/felix-strauss         |           1|         38.2629|           1.8387|        0.1605|         0.4081|      0.0827|        0.0489|      0.0247| 90.0000|
+|/players/176805/jan-zwischenbrugger    |           1|         50.9718|           1.1973|        0.0933|         0.6328|      0.0343|        0.0089|      0.0191| 90.0000|
+|/players/338756/stefan-haudum          |           2|         43.4638|           2.2414|        0.2645|         1.0634|      0.0509|        0.0193|      0.0847| 90.0000|
+|/players/276153/lukas-jger             |           2|         43.4995|           2.3010|        0.1924|         0.5799|      0.1013|        0.1237|      0.0293| 90.0000|
+|/players/850280/johannes-tartarotti    |           3|         34.2268|           1.1496|        0.2269|         0.8507|      0.0652|        0.0435|      0.1527| 74.8571|
+|/players/1175704/noah-bischof          |           3|         10.3484|           1.0165|        0.8471|         1.8324|      0.2445|        0.2997|      0.0273| 69.0000|
+|/players/1386904/jan-jurcec            |           3|         24.1837|           1.0589|        0.2647|         1.1452|      0.0922|        0.0420|      0.0937| 72.2500|
+|/players/133503/atdhe-nuhiu            |           5|         19.1094|           0.5932|        0.8512|         2.0507|      0.3189|        0.3050|      0.0537| 90.0000|
+|/players/1024673/sebastian-aigner      |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0061| 21.0000|
+|/players/1024677/csaba-bukta           |           0|              NA|               NA|        0.0721|         0.2813|      0.0280|        0.0114|      0.0568| 17.7500|
+|/players/658589/husein-balic           |           0|              NA|               NA|        0.3573|         0.8365|      0.0536|        0.0657|      0.0182| 15.1429|
+|/players/806433/manuel-thurnwald       |           0|              NA|               NA|        0.0528|         0.2061|      0.0095|        0.0109|      0.0141|  9.0000|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Miroslav Klose |     16.97576|     -15.32647|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about WSG Swarovski Wattens:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/177694/ferdinand-oswald      |           0|         30.4199|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/951498/felix-bacher          |           1|         51.2182|           2.1595|        0.0669|         0.3909|      0.0123|        0.0013|      0.1177| 90.0000|
+|/players/828234/dominik-stumberger    |           1|         42.6976|           1.5777|        0.0669|         0.4402|      0.0299|        0.0013|      0.0240| 90.0000|
+|/players/276486/kofi-schulz           |           1|         29.7720|           1.1859|        0.3171|         0.7280|      0.1132|        0.1510|      0.0761| 90.0000|
+|/players/658432/raffael-behounek      |           1|         56.5331|           1.4894|        0.1422|         0.6927|      0.0474|        0.0263|      0.0261| 90.0000|
+|/players/752559/sandi-ogrinec         |           3|         27.6038|           1.6192|        0.3488|         1.4226|      0.1715|        0.1897|      0.1491| 75.3333|
+|/players/1168319/zan-rogelj           |           3|         30.3237|           1.3549|        0.5351|         1.3943|      0.1415|        0.1651|      0.1633| 90.0000|
+|/players/655692/valentino-mller       |           3|         49.3539|           2.1196|        0.3139|         0.8535|      0.0967|        0.0803|      0.0429| 76.6000|
+|/players/274389/bror-blume            |           3|         43.1636|           1.8648|        0.5524|         1.8773|      0.1820|        0.1353|      0.1362| 90.0000|
+|/players/440917/lautaro-rinaldi       |           5|         16.9738|           1.0539|        0.5876|         2.2911|      0.3477|        0.2812|      0.0836| 71.0000|
+|/players/956156/tim-prica             |           5|         19.1434|           0.2823|        1.2592|         2.1040|      0.3525|        0.4187|      0.1289| 73.1429|
+|/players/873836/alexander-ranacher    |           0|              NA|               NA|        0.1725|         0.3408|      0.0621|        0.0413|      0.0347| 19.0000|
+|/players/1275650/stefan-skrbo         |           0|              NA|               NA|        0.1611|         0.2545|      0.0302|        0.0539|      0.0729| 16.8571|
+|/players/1184073/johannes-naschberger |           0|              NA|               NA|        0.1051|         0.5813|      0.0209|        0.0115|      0.0096| 14.6667|
+|/players/1275647/justin-forst         |           0|              NA|               NA|        0.1999|         0.5528|      0.0187|        0.0279|      0.0320| 13.4000|
+
+
+|manager_name        | approx_games| m_avg_elo_dif|formation |
+|:-------------------|------------:|-------------:|:---------|
+|Thomas Silberberger |     32.96869|     -12.72404|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917337/Soccer_Models'...
+Receiving objects:   1% (49/4842),   63 kb
+Receiving objects:  11% (533/4842),  127 kb
+Receiving objects:  21% (1017/4842),  239 kb
+Receiving objects:  31% (1502/4842),  520 kb
+Receiving objects:  41% (1986/4842),  856 kb
+Receiving objects:  51% (2470/4842), 1136 kb
+Receiving objects:  61% (2954/4842), 8869 kb
+Receiving objects:  71% (3438/4842), 10438 kb
+Receiving objects:  81% (3923/4842), 10718 kb
+Receiving objects:  91% (4407/4842), 10830 kb
+Receiving objects: 100% (4842/4842), 11470 kb, done.
