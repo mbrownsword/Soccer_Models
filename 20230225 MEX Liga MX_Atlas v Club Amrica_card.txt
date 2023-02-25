@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 17:07:05.158"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Atlas 1.1171 to Club América 1.274"
+[1] "Total: 2.3911"
+[1] "Atlas %: 32.37"
+[1] "Draw %: 28.36"
+[1] "Club América %: 39.27"
+[1] "--XG Model--"
+[1] "Score: Atlas 1.0291 to Club América 1.567"
+[1] "Total: 2.5961"
+[1] "Atlas %: 25.95"
+[1] "Draw %: 25.31"
+[1] "Club América %: 48.74"
+[1] "--XGoT Model--"
+[1] "Score: Atlas 1.0659 to Club América 1.5601"
+[1] "Total: 2.626"
+[1] "Atlas %: 27.2"
+[1] "Draw %: 25.18"
+[1] "Club América %: 47.62"
+[1] "--XA Model--"
+[1] "Score: Atlas 1.0587 to Club América 1.5715"
+[1] "Total: 2.6302"
+[1] "Atlas %: 26.67"
+[1] "Draw %: 25.15"
+[1] "Club América %: 48.18"
+[1] "--Mean 4 Models--"
+[1] "Atlas has a mean win % of 28.05%; a min win % of 25.95%; a max win % of 32.37%."
+[1] "Draw has a mean win % of 26%; a min win % of 25.15%; a max win % of 28.36%."
+[1] "Club América has a mean win % of 45.95%; a min win % of 39.27%; a max win of % 48.74%."
+[1] "Atlas has a mean win of the Double Chance of 54.05%; a min win % of 51.26%, a max win % of 60.73%."
+[1] "Club América has a mean win of the Double Chance of 71.95%; a min win % of 67.63%, a max win % of 74.05%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.82%; max % is 48.77 and min % is 42.19%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.18%; max % is 57.81 and min % is 51.23%."
+[1] "--Sportsbook Odds--"
+[1] "Atlas Barstool Odds are: 28.99"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Club América Barstool Odds are: 50.51"
+[1] "Atlas Adjusted Barstool Odds are: 26.825"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.437"
+[1] "Club América Adjusted Barstool Odds are: 46.738"
+[1] "Atlas's Barstool Odds to cover the 0.5 spread are: 55.25"
+[1] "Club América's Barstool Odds to cover the -0.5 spread are: 50.51"
+[1] "Barstool's line for the total is 2.5 at 1.8, which is a 55.56% chance of the over 2.5 hitting. The line for the under is 1.92, which is a 52.08% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 19:05:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team          | expected_attg| expected_gs|bet |
+|:-----------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/50207/camilo-vargas        |Atlas         |      0.000000|   0.0769231|    |
+|/players/466755/jose-abella         |Atlas         |      0.002125|   0.0434783|    |
+|/players/766849/luis-reyes          |Atlas         |      0.060200|   0.0714286|    |
+|/players/253956/anderson-santamaria |Atlas         |      0.020250|   0.0833333|    |
+|/players/170432/martin-hugo-nervo   |Atlas         |      0.037900|   0.0769231|    |
+|/players/583848/brian-lozano        |Atlas         |      0.228100|   0.2173913|    |
+|/players/1125498/angel-marquez      |Atlas         |      0.033950|   0.1052632|    |
+|/players/418259/aldo-rocha          |Atlas         |      0.021475|   0.1428571|    |
+|/players/766852/edgar-zaldivar      |Atlas         |      0.019750|   0.0625000|    |
+|/players/211074/julio-cesar-furch   |Atlas         |      0.195075|   0.3125000|    |
+|/players/720560/julian-quinones     |Atlas         |      0.254150|   0.2702703|    |
+|/players/724529/luis-malagon        |Club América |      0.000000|   0.1000000|    |
+|/players/71724/miguel-layun         |Club América |      0.047100|   0.0952381|    |
+|/players/1096624/emilio-lara        |Club América |      0.063800|   0.0769231|    |
+|/players/1020026/sebastian-caceres  |Club América |      0.043825|   0.0666667|    |
+|/players/167052/luis-fuentes        |Club América |      0.005300|   0.0769231|    |
+|/players/745210/richard-sanchez     |Club América |      0.064075|   0.1886792|    |
+|/players/895954/lvaro-fidalgo       |Club América |      0.077425|   0.1666667|    |
+|/players/595762/leonardo-surez      |Club América |      0.150625|   0.2272727|    |
+|/players/1074586/israel-reyes       |Club América |      0.131875|   0.1111111|    |
+|/players/390758/diego-valds         |Club América |      0.239775|   0.2564103|    |
+|/players/558452/henry-martin        |Club América |      0.343450|   0.5238095|    |
+|/players/951735/christopher-trejo   |Atlas         |      0.021475|   0.2173913|    |
+|/players/766850/diego-barbosa       |Atlas         |      0.008950|   0.0714286|    |
+|/players/959832/jesus-ocejo         |Atlas         |      0.000000|   0.2439024|    |
+|/players/497034/anibal-chal         |Atlas         |      0.025600|   0.0769231|    |
+|/players/1032811/federico-vinas     |Club América |      0.041850|   0.3030303|    |
+|/players/547745/pedro-aquino        |Club América |      0.000325|   0.0769231|    |
+|/players/914119/salvador-reyes      |Club América |      0.015225|   0.1333333|    |
+|/players/941660/brian-rodriguez     |Club América |      0.019550|   0.2040816|    |
+____________________________________________________
+
+[1] "Facts about Atlas:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/50207/camilo-vargas        |           0|         30.3664|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/466755/jose-abella         |           1|         35.1067|           2.3815|        0.0412|         0.1914|      0.0168|        0.0029|      0.0630| 90.0000|
+|/players/766849/luis-reyes          |           1|         33.4249|           1.7982|        0.2346|         1.0601|      0.0966|        0.0691|      0.0813| 90.0000|
+|/players/253956/anderson-santamaria |           1|         38.4809|           1.8264|        0.1711|         0.3639|      0.0300|        0.0222|      0.0149| 90.0000|
+|/players/170432/martin-hugo-nervo   |           1|         40.9769|           0.4502|        0.0713|         0.2820|      0.0284|        0.0411|      0.0081| 90.0000|
+|/players/583848/brian-lozano        |           3|         24.8542|           1.4974|        0.8060|         2.2349|      0.2255|        0.2604|      0.1726| 78.5556|
+|/players/1125498/angel-marquez      |           3|         28.2523|           1.6887|        0.1372|         0.8875|      0.0404|        0.0324|      0.0595| 77.0270|
+|/players/418259/aldo-rocha          |           3|         43.4292|           2.1597|        0.1981|         0.7134|      0.0330|        0.0223|      0.0534| 90.0000|
+|/players/766852/edgar-zaldivar      |           3|         28.3659|           1.4089|        0.1451|         0.3694|      0.0196|        0.0245|      0.0326| 80.3500|
+|/players/211074/julio-cesar-furch   |           5|         18.8436|           0.4398|        0.5736|         1.6314|      0.2337|        0.2236|      0.0595| 83.0732|
+|/players/720560/julian-quinones     |           5|         23.9409|           0.8174|        0.9594|         2.3629|      0.2578|        0.2995|      0.0717| 90.0000|
+|/players/951735/christopher-trejo   |           0|              NA|               NA|        0.0480|         0.2037|      0.0281|        0.0227|      0.0099| 12.9730|
+|/players/766850/diego-barbosa       |           0|              NA|               NA|        0.0445|         0.1259|      0.0068|        0.0088|      0.0025| 11.4444|
+|/players/959832/jesus-ocejo         |           0|              NA|               NA|        0.0331|         0.3278|      0.0320|        0.0000|      0.0122|  9.6500|
+|/players/497034/anibal-chal         |           0|              NA|               NA|        0.0552|         0.0976|      0.0132|        0.0291|      0.0037|  6.9268|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Benjamin Mora |     6.963636|     0.8042857|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Club América:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/724529/luis-malagon       |           0|         26.3104|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/71724/miguel-layun        |           1|         44.3218|           1.1910|        0.2182|         1.0158|      0.0569|        0.0589|      0.1197| 90.0000|
+|/players/1096624/emilio-lara       |           1|         45.7217|           2.0820|        0.1816|         0.3523|      0.0635|        0.0764|      0.0450| 83.2000|
+|/players/1020026/sebastian-caceres |           1|         50.7118|           1.4568|        0.1668|         0.5663|      0.0591|        0.0531|      0.0125| 90.0000|
+|/players/167052/luis-fuentes       |           1|         53.3465|           1.8922|        0.0900|         0.3057|      0.0098|        0.0056|      0.0748| 90.0000|
+|/players/745210/richard-sanchez    |           2|         37.0541|           1.9092|        0.2280|         0.8916|      0.0538|        0.0755|      0.0793| 79.1000|
+|/players/895954/lvaro-fidalgo      |           2|         61.7575|           2.2074|        0.3013|         0.9163|      0.1039|        0.0948|      0.0915| 90.0000|
+|/players/595762/leonardo-surez     |           3|         21.9797|           1.3447|        0.8006|         2.1451|      0.1501|        0.1932|      0.1701| 70.6316|
+|/players/1074586/israel-reyes      |           3|         32.1653|           1.6059|        0.3622|         0.5416|      0.0938|        0.1659|      0.0463| 90.0000|
+|/players/390758/diego-valds        |           3|         34.8527|           1.0623|        0.8052|         2.6273|      0.3554|        0.3176|      0.2130| 90.0000|
+|/players/558452/henry-martin       |           5|         17.0896|           0.5369|        0.9929|         2.4502|      0.4443|        0.4934|      0.0698| 82.1795|
+|/players/1032811/federico-vinas    |           0|              NA|               NA|        0.1128|         0.5069|      0.0751|        0.0520|      0.0107| 19.3684|
+|/players/547745/pedro-aquino       |           0|              NA|               NA|        0.0185|         0.0222|      0.0011|        0.0006|      0.0178| 10.9000|
+|/players/914119/salvador-reyes     |           0|              NA|               NA|        0.0482|         0.1924|      0.0245|        0.0189|      0.0057|  7.8205|
+|/players/941660/brian-rodriguez    |           0|              NA|               NA|        0.0450|         0.1618|      0.0127|        0.0218|      0.0080|  6.8000|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Fernando Ortiz |           38|      16.28947|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065382/Soccer_Models'...
+Receiving objects:   1% (47/4662),   63 kb
+Receiving objects:  11% (513/4662),  127 kb
+Receiving objects:  21% (980/4662),  239 kb
+Receiving objects:  31% (1446/4662),  407 kb
+Receiving objects:  41% (1912/4662),  856 kb
+Receiving objects:  51% (2378/4662), 1080 kb
+Receiving objects:  61% (2844/4662), 1472 kb
+Receiving objects:  71% (3311/4662), 10325 kb
+Receiving objects:  81% (3777/4662), 10662 kb
+Receiving objects:  91% (4243/4662), 10830 kb
+Receiving objects: 100% (4662/4662), 11296 kb, done.
