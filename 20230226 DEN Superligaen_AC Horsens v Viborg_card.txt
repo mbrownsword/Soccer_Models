@@ -1,0 +1,153 @@
+[1] "Updated at 2023-02-25 12:53:43.712"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AC Horsens 1.3017 to Viborg 1.2368"
+[1] "Total: 2.5385"
+[1] "AC Horsens %: 38.42"
+[1] "Draw %: 26.7"
+[1] "Viborg %: 34.88"
+[1] "--XG Model--"
+[1] "Score: AC Horsens 1.2017 to Viborg 1.3397"
+[1] "Total: 2.5414"
+[1] "AC Horsens %: 33.87"
+[1] "Draw %: 27.08"
+[1] "Viborg %: 39.05"
+[1] "--XGoT Model--"
+[1] "Score: AC Horsens 1.1635 to Viborg 1.3197"
+[1] "Total: 2.4832"
+[1] "AC Horsens %: 32.66"
+[1] "Draw %: 27.44"
+[1] "Viborg %: 39.9"
+[1] "--XA Model--"
+[1] "Score: AC Horsens 1.2336 to Viborg 1.4316"
+[1] "Total: 2.6652"
+[1] "AC Horsens %: 32.71"
+[1] "Draw %: 26.23"
+[1] "Viborg %: 41.06"
+[1] "--Mean 4 Models--"
+[1] "AC Horsens has a mean win % of 34.42%; a min win % of 32.66%; a max win % of 38.42%."
+[1] "Draw has a mean win % of 26.86%; a min win % of 26.23%; a max win % of 27.44%."
+[1] "Viborg has a mean win % of 38.72%; a min win % of 34.88%; a max win of % 41.06%."
+[1] "AC Horsens has a mean win of the Double Chance of 61.28%; a min win % of 58.94%, a max win % of 65.12%."
+[1] "Viborg has a mean win of the Double Chance of 65.59%; a min win % of 61.58%, a max win % of 67.34%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.35%; max % is 49.12 and min % is 44.69%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.65%; max % is 55.31 and min % is 50.88%."
+[1] "--Sportsbook Odds--"
+[1] "AC Horsens Barstool Odds are: 27.78"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Viborg Barstool Odds are: 50.51"
+[1] "AC Horsens Adjusted Barstool Odds are: 25.997"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.736"
+[1] "Viborg Adjusted Barstool Odds are: 47.267"
+[1] "AC Horsens's Barstool Odds to cover the  spread are: NA"
+[1] "Viborg's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 2, which is a 50% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                      bet           date_time
+1              AC Horsens 2023-02-26 05:00:00
+2 under AC Horsens/Viborg 2023-02-26 05:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                     |team       | expected_attg| expected_gs|bet |
+|:--------------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/919851/samuel-brolin                |AC Horsens |      0.000000|   0.2777778|    |
+|/players/768860/magnus-jensen                |AC Horsens |      0.104400|   0.2439024|    |
+|/players/623174/malte-kiilerich-hansen       |AC Horsens |      0.016200|   0.0400000|    |
+|/players/1127584/james-gomez                 |AC Horsens |      0.010550|   0.0625000|    |
+|/players/863987/thomas-santos                |AC Horsens |      0.158975|   0.1538462|    |
+|/players/489142/jonas-gemmer                 |AC Horsens |      0.064700|   0.1052632|    |
+|/players/41036/janus-drachmann               |AC Horsens |      0.011425|   0.0909091|    |
+|/players/546190/lubambo-musonda              |AC Horsens |      0.018025|   0.1724138|    |
+|/players/765078/moses-opondo                 |AC Horsens |      0.058100|   0.2325581|    |
+|/players/80612/anders-k-jacobsen             |AC Horsens |      0.176900|   0.2777778|    |
+|/players/536984/aron-sigurdarson             |AC Horsens |      0.337200|   0.3030303|    |
+|/players/1015128/elias-achouri               |Viborg     |      0.192525|   0.2439024|    |
+|/players/1033167/alassana-jatta              |Viborg     |      0.191125|   0.3448276|    |
+|/players/1109045/ibrahim-said                |Viborg     |      0.209275|   0.2631579|    |
+|/players/561619/clint-leemans                |Viborg     |      0.092025|   0.2857143|    |
+|/players/165547/jeppe-grnning                |Viborg     |      0.039225|   0.1666667|    |
+|/players/288832/jakob-bonde                  |Viborg     |      0.123875|   0.2222222|    |
+|/players/1034139/oliver-bundgaard-kristensen |Viborg     |      0.063250|   0.1538462|    |
+|/players/558707/nicolas-brgy                 |Viborg     |      0.045675|   0.0666667|    |
+|/players/1050895/zan-zaletel                 |Viborg     |      0.046850|   0.0666667|    |
+|/players/1329665/anton-gaaei                 |Viborg     |      0.052625|   0.0769231|    |
+|/players/952304/lucas-lund-pedersen          |Viborg     |      0.000000|   0.1333333|    |
+|/players/1225985/marcus-hannesbo             |AC Horsens |      0.068700|   0.1724138|    |
+|/players/759125/jacob-buus                   |AC Horsens |      0.001250|   0.0588235|    |
+|/players/1053736/elijah-just                 |AC Horsens |      0.000000|   0.2040816|    |
+|/players/1183601/david-kruse                 |AC Horsens |      0.014700|   0.0909091|    |
+|/players/1179673/mads-sndergaard             |Viborg     |      0.009150|   0.1785714|    |
+|/players/942377/nils-mortimer-moreno         |Viborg     |      0.000000|   0.2325581|    |
+|/players/1169301/sofus-berger                |Viborg     |      0.000000|   0.1176471|    |
+|/players/1282441/renato-junior               |Viborg     |      0.082150|   0.2941176|    |
+____________________________________________________
+
+[1] "Facts about AC Horsens:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                               | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/919851/samuel-brolin          |           0|         28.9957|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/768860/magnus-jensen          |           1|         53.3727|           0.8456|        0.2671|         1.0400|      0.1358|        0.1133|      0.0121| 90.0000|
+|/players/623174/malte-kiilerich-hansen |           1|         47.4835|           1.6030|        0.0933|         0.2224|      0.0183|        0.0173|      0.0377| 90.0000|
+|/players/1127584/james-gomez           |           1|         45.5268|           2.4288|        0.0639|         0.2134|      0.0162|        0.0097|      0.0472| 90.0000|
+|/players/863987/thomas-santos          |           3|         38.6466|           1.7087|        0.6303|         1.3291|      0.1182|        0.1716|      0.0729| 90.0000|
+|/players/489142/jonas-gemmer           |           3|         27.0735|           1.9397|        0.1336|         0.9294|      0.0940|        0.0697|      0.0323| 78.8571|
+|/players/41036/janus-drachmann         |           3|         38.0160|           1.7380|        0.1048|         0.1183|      0.0034|        0.0131|      0.1242| 61.9000|
+|/players/546190/lubambo-musonda        |           3|         35.6791|           1.5002|        0.2152|         1.0891|      0.0480|        0.0191|      0.0840| 90.0000|
+|/players/765078/moses-opondo           |           5|         27.2236|           0.7849|        0.2841|         0.8734|      0.0335|        0.0597|      0.0794| 90.0000|
+|/players/80612/anders-k-jacobsen       |           5|         12.4160|           0.5105|        0.9336|         2.0730|      0.2403|        0.1879|      0.0760| 79.7941|
+|/players/536984/aron-sigurdarson       |           5|         29.8979|           1.2180|        1.1021|         2.9367|      0.4153|        0.4185|      0.1739| 80.5000|
+|/players/1225985/marcus-hannesbo       |          NA|              NA|               NA|        0.1870|         0.8107|      0.1308|        0.0730|      0.0557| 28.1000|
+|/players/759125/jacob-buus             |          NA|              NA|               NA|        0.0838|         0.2422|      0.0078|        0.0016|      0.0064| 11.1429|
+|/players/1053736/elijah-just           |          NA|              NA|               NA|        0.0000|         0.1607|      0.0104|        0.0000|      0.0238| 10.2059|
+|/players/1183601/david-kruse           |          NA|              NA|               NA|        0.1035|         0.1496|      0.0058|        0.0135|      0.0127|  9.5000|
+
+
+|manager_name       | approx_games| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Jens Berthel Askou |     34.98081|     -10.94229|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Viborg:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                     | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1015128/elias-achouri               |           5|         18.1153|           0.9778|        0.6474|         2.4752|      0.2640|        0.2239|      0.0269| 65.0000|
+|/players/1033167/alassana-jatta              |           5|         12.9395|           0.4889|        0.6175|         0.6188|      0.2112|        0.2136|      0.0269| 62.0000|
+|/players/1109045/ibrahim-said                |           5|         26.2672|           0.8800|        0.6992|         1.7326|      0.1769|        0.2418|      0.2339| 70.2000|
+|/players/561619/clint-leemans                |           3|         42.1440|           0.8494|        0.4245|         1.2200|      0.0641|        0.1034|      0.1929| 78.6316|
+|/players/165547/jeppe-grnning                |           3|         47.6506|           2.9157|        0.0840|         0.3672|      0.0675|        0.0422|      0.0352| 90.0000|
+|/players/288832/jakob-bonde                  |           3|         48.1332|           1.5243|        0.4676|         1.7079|      0.1727|        0.1425|      0.0667| 90.0000|
+|/players/1034139/oliver-bundgaard-kristensen |           1|         38.6556|           2.2905|        0.2545|         0.6769|      0.0606|        0.0704|      0.0890| 90.0000|
+|/players/558707/nicolas-brgy                 |           1|         62.7448|           0.8493|        0.1107|         0.4014|      0.0678|        0.0489|      0.0350| 90.0000|
+|/players/1050895/zan-zaletel                 |           1|         65.6022|           1.0114|        0.1074|         0.5193|      0.0497|        0.0515|      0.0072| 90.0000|
+|/players/1329665/anton-gaaei                 |           1|         42.4852|           1.9265|        0.1227|         0.5935|      0.0390|        0.0565|      0.1157| 90.0000|
+|/players/952304/lucas-lund-pedersen          |           0|         27.7027|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1179673/mads-sndergaard             |          NA|              NA|               NA|        0.2498|         0.7122|      0.0413|        0.0091|      0.0810| 28.0000|
+|/players/942377/nils-mortimer-moreno         |          NA|              NA|               NA|        0.0000|         0.3815|      0.0549|        0.0000|      0.0242| 25.0000|
+|/players/1169301/sofus-berger                |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0033| 19.8000|
+|/players/1282441/renato-junior               |          NA|              NA|               NA|        0.0959|         0.2050|      0.0656|        0.0882|      0.0021| 11.3684|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Jacob Friis  |     38.30303|     -1.085185|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3887455/Soccer_Models'...
+Receiving objects:   1% (49/4812),   63 kb
+Receiving objects:  11% (530/4812),  127 kb
+Receiving objects:  21% (1011/4812),  239 kb
+Receiving objects:  31% (1492/4812),  463 kb
+Receiving objects:  41% (1973/4812),  856 kb
+Receiving objects:  51% (2455/4812), 1136 kb
+Receiving objects:  61% (2936/4812), 8813 kb
+Receiving objects:  71% (3417/4812), 10438 kb
+Receiving objects:  81% (3898/4812), 10718 kb
+Receiving objects:  91% (4379/4812), 10830 kb
+Receiving objects: 100% (4812/4812), 11437 kb, done.
