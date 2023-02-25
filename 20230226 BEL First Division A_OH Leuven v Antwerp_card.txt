@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 13:17:06.461"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: OH Leuven 1.1347 to Antwerp 1.5909"
+[1] "Total: 2.7256"
+[1] "OH Leuven %: 27.65"
+[1] "Draw %: 24.79"
+[1] "Antwerp %: 47.56"
+[1] "--XG Model--"
+[1] "Score: OH Leuven 0.9747 to Antwerp 1.4747"
+[1] "Total: 2.4494"
+[1] "OH Leuven %: 25.43"
+[1] "Draw %: 26.32"
+[1] "Antwerp %: 48.25"
+[1] "--XGoT Model--"
+[1] "Score: OH Leuven 0.9961 to Antwerp 1.5475"
+[1] "Total: 2.5436"
+[1] "OH Leuven %: 25.31"
+[1] "Draw %: 25.16"
+[1] "Antwerp %: 49.53"
+[1] "--XA Model--"
+[1] "Score: OH Leuven 1.05 to Antwerp 1.613"
+[1] "Total: 2.663"
+[1] "OH Leuven %: 25.81"
+[1] "Draw %: 25.08"
+[1] "Antwerp %: 49.11"
+[1] "--Mean 4 Models--"
+[1] "OH Leuven has a mean win % of 26.05%; a min win % of 25.31%; a max win % of 27.65%."
+[1] "Draw has a mean win % of 25.34%; a min win % of 24.79%; a max win % of 26.32%."
+[1] "Antwerp has a mean win % of 48.61%; a min win % of 47.56%; a max win of % 49.53%."
+[1] "OH Leuven has a mean win of the Double Chance of 51.39%; a min win % of 50.47%, a max win % of 52.44%."
+[1] "Antwerp has a mean win of the Double Chance of 73.95%; a min win % of 72.35%, a max win % of 74.69%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.72%; max % is 51.05 and min % is 43.9%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 52.28%; max % is 56.1 and min % is 48.95%."
+[1] "--Sportsbook Odds--"
+[1] "OH Leuven Barstool Odds are: 30.3"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Antwerp Barstool Odds are: 48.78"
+[1] "OH Leuven Adjusted Barstool Odds are: 28.355"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.997"
+[1] "Antwerp Adjusted Barstool Odds are: 45.649"
+[1] "OH Leuven's Barstool Odds to cover the 0.25 spread are: 49.02"
+[1] "Antwerp's Barstool Odds to cover the -0.25 spread are: 54.95"
+[1] "Barstool's line for the total is 2.5 at 1.83, which is a 54.64% chance of the over 2.5 hitting. The line for the under is 1.97, which is a 50.76% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+            bet           date_time
+1 OH Leuven ATS 2023-02-26 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team      | expected_attg| expected_gs|bet |
+|:---------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/289211/valentin-cojocaru       |OH Leuven |      0.000000|   0.0909091|    |
+|/players/522203/federico-ricca          |OH Leuven |      0.024100|   0.0909091|    |
+|/players/1178319/louis-patris           |OH Leuven |      0.072875|   0.0769231|    |
+|/players/965823/ewoud-pletinckx         |OH Leuven |      0.020725|   0.0526316|    |
+|/players/354494/siebe-schrijvers        |OH Leuven |      0.058400|   0.2564103|    |
+|/players/552035/kristiyan-malinov       |OH Leuven |      0.003250|   0.0952381|    |
+|/players/813055/musa-al-taamari         |OH Leuven |      0.089425|   0.1886792|    |
+|/players/688991/casper-de-norre         |OH Leuven |      0.019925|   0.1333333|    |
+|/players/873236/jon-thorsteinsson       |OH Leuven |      0.181550|   0.2325581|    |
+|/players/1385771/nachon-nsingi          |OH Leuven |      0.129950|   0.2857143|    |
+|/players/675095/mario-gonzalez          |OH Leuven |      0.211125|   0.3846154|    |
+|/players/560939/jean-butez              |Antwerp   |      0.000000|   0.0588235|    |
+|/players/1130630/gaston-avilla          |Antwerp   |      0.029925|   0.1250000|    |
+|/players/554300/junior-pius             |Antwerp   |      0.029650|   0.1428571|    |
+|/players/862634/jelle-bataille          |Antwerp   |      0.030550|   0.0555556|    |
+|/players/1137670/william-pacho          |Antwerp   |      0.030500|   0.0555556|    |
+|/players/800624/calvin-stengs           |Antwerp   |      0.055650|   0.2272727|    |
+|/players/465746/pieter-gerkens          |Antwerp   |      0.065925|   0.1785714|    |
+|/players/1239749/mandela-keita          |Antwerp   |      0.058375|   0.0952381|    |
+|/players/934156/jurgen-ekkelenkamp      |Antwerp   |      0.407425|   0.3225806|*   |
+|/players/1173248/michel-ange-balikwisha |Antwerp   |      0.059850|   0.2857143|    |
+|/players/467022/vincent-janssen         |Antwerp   |      0.315200|   0.4761905|    |
+|/players/814139/sofian-kiyine           |OH Leuven |      0.009000|   0.2173913|    |
+|/players/939779/mai-traore              |OH Leuven |      0.083300|   0.3225806|    |
+|/players/166681/joren-dom               |OH Leuven |      0.023525|   0.1333333|    |
+|/players/659998/thibault-vlietinck      |OH Leuven |      0.000000|   0.0952381|    |
+|/players/1353364/anthony-valencia       |Antwerp   |      0.040475|   0.2222222|    |
+|/players/1161288/christopher-scott      |Antwerp   |      0.125900|   0.2631579|    |
+|/players/1161288/christopher-scott      |Antwerp   |      0.125900|   0.2631579|    |
+|/players/519134/gyrano-kerk             |Antwerp   |      0.000000|   0.3030303|    |
+____________________________________________________
+
+[1] "Facts about OH Leuven:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/289211/valentin-cojocaru  |           0|         30.1653|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/522203/federico-ricca     |           1|         51.3239|           0.8241|        0.1291|         0.7125|      0.0637|        0.0252|      0.0228| 90.0000|
+|/players/1178319/louis-patris      |           1|         31.9184|           1.6490|        0.3155|         0.4276|      0.0635|        0.0834|      0.0261| 90.0000|
+|/players/965823/ewoud-pletinckx    |           1|         40.0249|           1.0304|        0.0428|         0.4476|      0.0442|        0.0267|      0.0125| 90.0000|
+|/players/354494/siebe-schrijvers   |           3|         42.2412|           3.0480|        0.3702|         1.1248|      0.0577|        0.0647|      0.1074| 90.0000|
+|/players/552035/kristiyan-malinov  |           3|         27.4511|           1.9450|        0.0317|         0.1484|      0.0166|        0.0043|      0.0288| 77.9310|
+|/players/813055/musa-al-taamari    |           3|         27.1612|           1.5291|        0.3072|         1.0529|      0.0766|        0.1011|      0.0877| 90.0000|
+|/players/688991/casper-de-norre    |           3|         40.3287|           1.7783|        0.1769|         0.5340|      0.0482|        0.0225|      0.0861| 90.0000|
+|/players/873236/jon-thorsteinsson  |           5|         28.3493|           2.4297|        0.6776|         1.6087|      0.1940|        0.2219|      0.1882| 75.5806|
+|/players/1385771/nachon-nsingi     |           5|         13.7688|           0.5579|        0.5002|         1.6623|      0.1629|        0.1412|      0.0063| 81.3333|
+|/players/675095/mario-gonzalez     |           5|         17.6817|           0.3463|        0.5950|         1.7509|      0.2811|        0.2570|      0.0459| 76.8621|
+|/players/814139/sofian-kiyine      |           0|              NA|               NA|        0.1658|         0.2632|      0.0069|        0.0092|      0.0219| 14.4194|
+|/players/939779/mai-traore         |           0|              NA|               NA|        0.2998|         0.7139|      0.0777|        0.0932|      0.0057| 13.1379|
+|/players/166681/joren-dom          |           0|              NA|               NA|        0.1640|         0.1952|      0.0209|        0.0290|      0.0157| 12.0690|
+|/players/659998/thibault-vlietinck |           0|              NA|               NA|        0.0000|         0.2069|      0.0077|        0.0000|      0.0019|  8.6667|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Marc Brys    |     88.80707|     -6.353371|3-4-3     |
+____________________________________________________
+
+[1] "Facts about Antwerp:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/560939/jean-butez              |           0|         34.4303|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1130630/gaston-avilla          |           1|         56.0227|           1.8212|        0.2922|         1.3344|      0.0155|        0.0318|      0.0528| 90.0000|
+|/players/554300/junior-pius             |           1|         54.6958|           1.6356|        0.0977|         0.5326|      0.0521|        0.0318|      0.0078| 90.0000|
+|/players/862634/jelle-bataille          |           1|         43.6194|           2.1160|        0.0977|         0.4247|      0.0444|        0.0318|      0.1554| 90.0000|
+|/players/1137670/william-pacho          |           1|         64.6434|           1.2488|        0.0977|         0.1771|      0.1022|        0.0318|      0.0519| 90.0000|
+|/players/800624/calvin-stengs           |           2|         48.5786|           1.0706|        0.2470|         0.8051|      0.0575|        0.0605|      0.0953| 76.0000|
+|/players/465746/pieter-gerkens          |           2|         55.4608|           3.1984|        0.2925|         0.9534|      0.0681|        0.0716|      0.0602| 90.0000|
+|/players/1239749/mandela-keita          |           3|         40.0113|           2.1780|        0.2208|         0.5391|      0.0265|        0.0599|      0.0171| 90.0000|
+|/players/934156/jurgen-ekkelenkamp      |           3|         23.2447|           0.5567|        1.1543|         2.8188|      0.5092|        0.5315|      0.2010| 67.5000|
+|/players/1173248/michel-ange-balikwisha |           3|         29.8138|           1.3160|        0.5130|         1.5660|      0.0757|        0.0636|      0.1744| 78.2857|
+|/players/467022/vincent-janssen         |           5|         16.5167|           0.6051|        0.9503|         2.1118|      0.3750|        0.3796|      0.0741| 76.8571|
+|/players/1353364/anthony-valencia       |           0|              NA|               NA|        0.3658|         0.4195|      0.0433|        0.0449|      0.0250| 22.5000|
+|/players/1161288/christopher-scott      |           0|              NA|               NA|        0.1226|         0.4219|      0.0689|        0.0857|      0.0030| 14.0000|
+|/players/1161288/christopher-scott      |           0|              NA|               NA|        0.3046|         0.3493|      0.0197|        0.0489|      0.0093| 13.1429|
+|/players/519134/gyrano-kerk             |           0|              NA|               NA|        0.0000|         0.4497|      0.0169|        0.0000|      0.0286| 11.7143|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Mark van Bommel |     35.92323|      7.109444|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917161/Soccer_Models'...
+Receiving objects:   1% (49/4833),   63 kb
+Receiving objects:  11% (532/4833),  127 kb
+Receiving objects:  21% (1015/4833),  239 kb
+Receiving objects:  31% (1499/4833),  519 kb
+Receiving objects:  41% (1982/4833),  856 kb
+Receiving objects:  51% (2465/4833), 1136 kb
+Receiving objects:  61% (2949/4833), 8869 kb
+Receiving objects:  71% (3432/4833), 10438 kb
+Receiving objects:  81% (3915/4833), 10766 kb
+Receiving objects:  91% (4399/4833), 10822 kb
+Receiving objects: 100% (4833/4833), 11460 kb, done.
