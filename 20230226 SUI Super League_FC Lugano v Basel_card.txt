@@ -1,0 +1,88 @@
+[1] "Updated at 2023-02-25 14:41:58.933"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: FC Lugano 1.5053 to Basel 1.7716"
+[1] "Total: 3.2769"
+[1] "FC Lugano %: 32.12"
+[1] "Draw %: 23.51"
+[1] "Basel %: 44.37"
+[1] "--XG Model--"
+[1] "Score: FC Lugano 1.587 to Basel 1.6444"
+[1] "Total: 3.2314"
+[1] "FC Lugano %: 36.36"
+[1] "Draw %: 23.51"
+[1] "Basel %: 40.13"
+[1] "--XGoT Model--"
+[1] "Score: FC Lugano 1.5846 to Basel 1.6498"
+[1] "Total: 3.2344"
+[1] "FC Lugano %: 36.29"
+[1] "Draw %: 23.48"
+[1] "Basel %: 40.23"
+[1] "--XA Model--"
+[1] "Score: FC Lugano 1.4272 to Basel 1.4621"
+[1] "Total: 2.8893"
+[1] "FC Lugano %: 37.17"
+[1] "Draw %: 24.84"
+[1] "Basel %: 37.99"
+[1] "--Mean 4 Models--"
+[1] "FC Lugano has a mean win % of 35.48%; a min win % of 32.12%; a max win % of 37.17%."
+[1] "Draw has a mean win % of 23.84%; a min win % of 23.48%; a max win % of 24.84%."
+[1] "Basel has a mean win % of 40.68%; a min win % of 37.99%; a max win of % 44.37%."
+[1] "FC Lugano has a mean win of the Double Chance of 59.32%; a min win % of 55.63%, a max win % of 62.01%."
+[1] "Basel has a mean win of the Double Chance of 64.52%; a min win % of 62.83%, a max win % of 67.88%."
+[1] "The mean likelihood that there are more than 2.5 goals is 60.43%; max % is 62.45 and min % is 54.49%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 39.57%; max % is 45.51 and min % is 37.55%."
+[1] "--Sportsbook Odds--"
+[1] "FC Lugano Barstool Odds are: 36.36"
+[1] "The Barstool Odds of a Draw are: 29.85"
+[1] "Basel Barstool Odds are: 41.67"
+[1] "FC Lugano Adjusted Barstool Odds are: 33.704"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.67"
+[1] "Basel Adjusted Barstool Odds are: 38.626"
+[1] "FC Lugano's Barstool Odds to cover the -0.5 spread are: 35.71"
+[1] "Basel's Barstool Odds to cover the 0.5 spread are: 69.93"
+[1] "Barstool's line for the total is 2.5 at 1.72, which is a 58.14% chance of the over 2.5 hitting. The line for the under is 2.06, which is a 48.54% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-26 07:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about FC Lugano:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name       | approx_games| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Mattia Croci-Torti |      41.9798|     -6.771429|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Basel:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Heiko Vogel  |      2.99899|          4.07|4-1-4-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3905510/Soccer_Models'...
+Receiving objects:   1% (49/4857),   63 kb
+Receiving objects:  11% (535/4857),  127 kb
+Receiving objects:  21% (1020/4857),  239 kb
+Receiving objects:  31% (1506/4857),  520 kb
+Receiving objects:  41% (1992/4857),  856 kb
+Receiving objects:  51% (2478/4857), 1136 kb
+Receiving objects:  61% (2963/4857), 9765 kb
+Receiving objects:  71% (3449/4857), 10438 kb
+Receiving objects:  81% (3935/4857), 10718 kb
+Receiving objects:  91% (4420/4857), 10830 kb
+Receiving objects: 100% (4857/4857), 11485 kb, done.
