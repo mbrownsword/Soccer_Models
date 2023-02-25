@@ -1,0 +1,88 @@
+[1] "Updated at 2023-02-25 14:43:45.926"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Servette 1.6406 to Winterthur 1.0777"
+[1] "Total: 2.7183"
+[1] "Servette %: 50.93"
+[1] "Draw %: 24.37"
+[1] "Winterthur %: 24.7"
+[1] "--XG Model--"
+[1] "Score: Servette 1.7214 to Winterthur 0.9309"
+[1] "Total: 2.6523"
+[1] "Servette %: 56.24"
+[1] "Draw %: 23.81"
+[1] "Winterthur %: 19.95"
+[1] "--XGoT Model--"
+[1] "Score: Servette 1.6471 to Winterthur 0.8483"
+[1] "Total: 2.4954"
+[1] "Servette %: 56.75"
+[1] "Draw %: 24.25"
+[1] "Winterthur %: 19"
+[1] "--XA Model--"
+[1] "Score: Servette 2.0588 to Winterthur 1.1169"
+[1] "Total: 3.1757"
+[1] "Servette %: 59.43"
+[1] "Draw %: 20.38"
+[1] "Winterthur %: 20.19"
+[1] "--Mean 4 Models--"
+[1] "Servette has a mean win % of 55.84%; a min win % of 50.93%; a max win % of 59.43%."
+[1] "Draw has a mean win % of 23.2%; a min win % of 20.38%; a max win % of 24.37%."
+[1] "Winterthur has a mean win % of 20.96%; a min win % of 19%; a max win of % 24.7%."
+[1] "Servette has a mean win of the Double Chance of 79.04%; a min win % of 75.3%, a max win % of 81%."
+[1] "Winterthur has a mean win of the Double Chance of 44.16%; a min win % of 40.57%, a max win % of 49.07%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.21%; max % is 61.31 and min % is 45.01%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.79%; max % is 54.99 and min % is 38.69%."
+[1] "--Sportsbook Odds--"
+[1] "Servette Barstool Odds are: 58.82"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Winterthur Barstool Odds are: 20.83"
+[1] "Servette Adjusted Barstool Odds are: 54.752"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.859"
+[1] "Winterthur Adjusted Barstool Odds are: 19.389"
+[1] "Servette's Barstool Odds to cover the -0.5 spread are: 59.52"
+[1] "Winterthur's Barstool Odds to cover the 0.5 spread are: 46.51"
+[1] "Barstool's line for the total is 2.5 at 1.82, which is a 54.95% chance of the over 2.5 hitting. The line for the under is 1.93, which is a 51.81% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-26 07:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Servette:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Alain Geiger |      80.5596|     -3.922929|4-1-2-3   |
+____________________________________________________
+
+[1] "Facts about Winterthur:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Bruno Berner |     17.99899|     -18.57333|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3905512/Soccer_Models'...
+Receiving objects:   1% (49/4860),   63 kb
+Receiving objects:  11% (535/4860),  127 kb
+Receiving objects:  21% (1021/4860),  239 kb
+Receiving objects:  31% (1507/4860),  520 kb
+Receiving objects:  41% (1993/4860),  856 kb
+Receiving objects:  51% (2479/4860), 1136 kb
+Receiving objects:  61% (2965/4860), 10157 kb
+Receiving objects:  71% (3451/4860), 10438 kb
+Receiving objects:  81% (3937/4860), 10718 kb
+Receiving objects:  91% (4423/4860), 10830 kb
+Receiving objects: 100% (4860/4860), 11486 kb, done.
