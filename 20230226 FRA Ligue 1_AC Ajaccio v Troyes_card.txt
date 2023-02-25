@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 12:18:56.317"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AC Ajaccio 1.7176 to Troyes 1.265"
+[1] "Total: 2.9826"
+[1] "AC Ajaccio %: 48.19"
+[1] "Draw %: 24.36"
+[1] "Troyes %: 27.45"
+[1] "--XG Model--"
+[1] "Score: AC Ajaccio 1.7159 to Troyes 1.4108"
+[1] "Total: 3.1267"
+[1] "AC Ajaccio %: 45.04"
+[1] "Draw %: 23.88"
+[1] "Troyes %: 31.08"
+[1] "--XGoT Model--"
+[1] "Score: AC Ajaccio 2.099 to Troyes 1.7898"
+[1] "Total: 3.8888"
+[1] "AC Ajaccio %: 45.78"
+[1] "Draw %: 20.61"
+[1] "Troyes %: 33.61"
+[1] "--XA Model--"
+[1] "Score: AC Ajaccio 1.6636 to Troyes 1.3044"
+[1] "Total: 2.968"
+[1] "AC Ajaccio %: 46.74"
+[1] "Draw %: 24.21"
+[1] "Troyes %: 29.05"
+[1] "--Mean 4 Models--"
+[1] "AC Ajaccio has a mean win % of 46.44%; a min win % of 45.04%; a max win % of 48.19%."
+[1] "Draw has a mean win % of 23.26%; a min win % of 20.61%; a max win % of 24.36%."
+[1] "Troyes has a mean win % of 30.3%; a min win % of 27.45%; a max win of % 33.61%."
+[1] "AC Ajaccio has a mean win of the Double Chance of 69.7%; a min win % of 66.39%, a max win % of 72.55%."
+[1] "Troyes has a mean win of the Double Chance of 53.56%; a min win % of 51.81%, a max win % of 54.96%."
+[1] "The mean likelihood that there are more than 2.5 goals is 61.59%; max % is 74.23 and min % is 56.16%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 38.41%; max % is 43.84 and min % is 25.77%."
+[1] "--Sportsbook Odds--"
+[1] "AC Ajaccio Barstool Odds are: 45.45"
+[1] "The Barstool Odds of a Draw are: 30.77"
+[1] "Troyes Barstool Odds are: 28.99"
+[1] "AC Ajaccio Adjusted Barstool Odds are: 43.199"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.246"
+[1] "Troyes Adjusted Barstool Odds are: 27.554"
+[1] "AC Ajaccio's Barstool Odds to cover the -0.25 spread are: 52.63"
+[1] "Troyes's Barstool Odds to cover the 0.25 spread are: 52.91"
+[1] "Barstool's line for the total is 2.5 at 2.28, which is a 43.86% chance of the over 2.5 hitting. The line for the under is 1.62, which is a 61.73% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                     bet           date_time
+1 over AC Ajaccio/Troyes 2023-02-26 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team       | expected_attg| expected_gs|bet |
+|:-------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/181619/benjamin-leroy        |AC Ajaccio |      0.000000|   0.2040816|    |
+|/players/109590/mohamed-youssouf      |AC Ajaccio |      0.041700|   0.1111111|    |
+|/players/771292/oumar-gonzalez        |AC Ajaccio |      0.041000|   0.1052632|    |
+|/players/46431/cdric-avinel           |AC Ajaccio |      0.041300|   0.0666667|    |
+|/players/693174/ismal-diallo          |AC Ajaccio |      0.040675|   0.1428571|    |
+|/players/1078287/clment-vidal         |AC Ajaccio |      0.097475|   0.0344828|*   |
+|/players/517981/cyrille-bayala        |AC Ajaccio |      0.250975|   0.1666667|*   |
+|/players/640292/vincent-marchetti     |AC Ajaccio |      0.139625|   0.0909091|    |
+|/players/240725/mickal-barreto        |AC Ajaccio |      0.031050|   0.1538462|    |
+|/players/179845/romain-hamouma        |AC Ajaccio |      0.027875|   0.2439024|    |
+|/players/971794/mounaim-el-idrissy    |AC Ajaccio |      0.277550|   0.2564103|    |
+|/players/541933/mama-bald             |Troyes     |      0.354050|   0.2439024|*   |
+|/players/435669/rony-lopes            |Troyes     |      0.092875|   0.2040816|    |
+|/players/1344654/mathis-hamdi         |Troyes     |      0.002300|   0.0357143|    |
+|/players/632342/jeff-reine-adlaide    |Troyes     |      0.012150|   0.1851852|    |
+|/players/354479/xavier-chavalerin     |Troyes     |      0.179300|   0.1694915|    |
+|/players/971790/lucien-agoume         |Troyes     |      0.004450|   0.0588235|    |
+|/players/1274059/thierno-bald         |Troyes     |      0.004700|   0.0357143|    |
+|/players/593612/yoann-salmier         |Troyes     |      0.044500|   0.0666667|    |
+|/players/77741/adil-rami              |Troyes     |      0.048275|   0.0952381|    |
+|/players/525133/erik-palmer-brown     |Troyes     |      0.007900|   0.0357143|    |
+|/players/348409/gauthier-gallon       |Troyes     |      0.000000|   0.1960784|    |
+|/players/949712/moussa-kalilou-djitte |AC Ajaccio |      0.343675|   0.2631579|*   |
+|/players/277341/yoann-touzghar        |AC Ajaccio |      0.173625|   0.2631579|    |
+|/players/179823/ryad-nouri            |AC Ajaccio |      0.000000|   0.2325581|    |
+|/players/524794/youssouf-kon          |AC Ajaccio |      0.000000|   0.0256410|    |
+|/players/1315259/alexis-tibidi        |Troyes     |      0.158025|   0.2222222|    |
+|/players/348420/renaud-ripart         |Troyes     |      0.209650|   0.2083333|    |
+|/players/1068902/yasser-larouci       |Troyes     |      0.000000|   0.0952381|    |
+|/players/759823/ike-ugbo              |Troyes     |      0.079150|   0.2222222|    |
+____________________________________________________
+
+[1] "Facts about AC Ajaccio:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/181619/benjamin-leroy        |           0|         23.2338|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/109590/mohamed-youssouf      |           1|         55.4567|           1.8621|        0.1737|         0.1740|      0.0032|        0.0494|      0.1124| 90.0000|
+|/players/771292/oumar-gonzalez        |           1|         57.3045|           1.6277|        0.1737|         1.2257|      0.0109|        0.0494|      0.0183| 90.0000|
+|/players/46431/cdric-avinel           |           1|         46.0233|           0.6408|        0.3020|         0.8119|      0.1616|        0.0494|      0.0183| 90.0000|
+|/players/693174/ismal-diallo          |           1|         57.4935|           1.8796|        0.1737|         0.5103|      0.0360|        0.0494|      0.0612| 90.0000|
+|/players/1078287/clment-vidal         |           2|         53.4693|           1.9385|        0.2613|         0.8069|      0.0675|        0.1200|      0.0408| 90.0000|
+|/players/517981/cyrille-bayala        |           3|         33.7728|           1.1201|        0.7827|         1.2006|      0.1693|        0.3243|      0.0655| 79.5714|
+|/players/640292/vincent-marchetti     |           3|         51.4766|           1.2454|        0.3666|         1.5366|      0.1202|        0.1735|      0.1177| 90.0000|
+|/players/240725/mickal-barreto        |           3|         28.4987|           2.4948|        0.2852|         1.0505|      0.0502|        0.0336|      0.1979| 70.0000|
+|/players/179845/romain-hamouma        |           3|         18.7832|           0.9340|        0.6445|         2.1010|      0.2940|        0.0324|      0.0879| 67.5000|
+|/players/971794/mounaim-el-idrissy    |           5|         17.4256|           0.6210|        0.8091|         1.8910|      0.3574|        0.3740|      0.1076| 76.7600|
+|/players/949712/moussa-kalilou-djitte |          NA|              NA|               NA|        0.6330|         1.6299|      0.2857|        0.4840|      0.0415| 22.5000|
+|/players/277341/yoann-touzghar        |          NA|              NA|               NA|        0.2817|         0.8370|      0.1388|        0.2202|      0.0111| 20.0000|
+|/players/179823/ryad-nouri            |          NA|              NA|               NA|        0.1999|         0.5937|      0.0123|        0.0000|      0.0885| 13.2400|
+|/players/524794/youssouf-kon          |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0619| 10.4286|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Olivier Pantaloni |     22.91616|     -2.437524|4-4-2     |
+____________________________________________________
+
+[1] "Facts about Troyes:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/541933/mama-bald          |           5|         13.2602|           0.5401|        0.9205|         2.1188|      0.5580|        0.5417|      0.0211| 79.5000|
+|/players/435669/rony-lopes         |           5|         19.6627|           0.5666|        0.4957|         1.1460|      0.1124|        0.1211|      0.0968| 67.2308|
+|/players/1344654/mathis-hamdi      |           3|         10.5013|           0.6811|        0.0342|         0.2141|      0.0117|        0.0025|      0.0082| 37.6667|
+|/players/632342/jeff-reine-adlaide |           3|         37.5836|           1.5325|        0.2141|         0.8054|      0.0755|        0.0150|      0.2125| 72.3333|
+|/players/354479/xavier-chavalerin  |           3|         28.3887|           2.5697|        0.4282|         1.1349|      0.0611|        0.2482|      0.1186| 90.0000|
+|/players/971790/lucien-agoume      |           3|         38.7594|           2.6681|        0.0818|         0.6926|      0.0623|        0.0060|      0.0582| 90.0000|
+|/players/1274059/thierno-bald      |           3|         27.3879|           1.0818|        0.0818|         0.5117|      0.0279|        0.0060|      0.0252| 90.0000|
+|/players/593612/yoann-salmier      |           1|         55.5588|           1.8752|        0.2853|         0.7518|      0.0540|        0.0538|      0.0104| 90.0000|
+|/players/77741/adil-rami           |           1|         37.0066|           0.9189|        0.1681|         0.3323|      0.0120|        0.0631|      0.0049| 90.0000|
+|/players/525133/erik-palmer-brown  |           1|         38.8968|           1.3879|        0.0771|         0.4571|      0.0529|        0.0101|      0.0721| 90.0000|
+|/players/348409/gauthier-gallon    |           0|         28.5846|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1315259/alexis-tibidi     |          NA|              NA|               NA|        0.2477|         0.8716|      0.0991|        0.2142|      0.0586| 52.3333|
+|/players/348420/renaud-ripart      |          NA|              NA|               NA|        0.2430|         0.5344|      0.1311|        0.2884|      0.0082| 22.7692|
+|/players/1068902/yasser-larouci    |          NA|              NA|               NA|        0.0000|         0.2914|      0.0154|        0.0000|      0.0523| 17.6667|
+|/players/759823/ike-ugbo           |          NA|              NA|               NA|        0.2912|         0.5122|      0.1077|        0.0963|      0.0349| 10.5000|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Patrick Kisnorbo |     65.17172|      11.47652|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904521/Soccer_Models'...
+Receiving objects:   1% (48/4791),   63 kb
+Receiving objects:  11% (528/4791),  127 kb
+Receiving objects:  21% (1007/4791),  239 kb
+Receiving objects:  31% (1486/4791),  463 kb
+Receiving objects:  41% (1965/4791),  856 kb
+Receiving objects:  51% (2444/4791), 1080 kb
+Receiving objects:  61% (2923/4791), 5787 kb
+Receiving objects:  71% (3402/4791), 10405 kb
+Receiving objects:  81% (3881/4791), 10742 kb
+Receiving objects:  91% (4360/4791), 10854 kb
+Receiving objects: 100% (4791/4791), 11415 kb, done.
