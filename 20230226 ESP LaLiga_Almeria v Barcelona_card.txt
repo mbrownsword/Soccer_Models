@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 10:22:49.803"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Almeria 0.7188 to Barcelona 1.5194"
+[1] "Total: 2.2382"
+[1] "Almeria %: 17.55"
+[1] "Draw %: 26.09"
+[1] "Barcelona %: 56.36"
+[1] "--XG Model--"
+[1] "Score: Almeria 0.4512 to Barcelona 1.8572"
+[1] "Total: 2.3084"
+[1] "Almeria %: 8.14"
+[1] "Draw %: 20.42"
+[1] "Barcelona %: 71.44"
+[1] "--XGoT Model--"
+[1] "Score: Almeria 0.537 to Barcelona 1.9523"
+[1] "Total: 2.4893"
+[1] "Almeria %: 9.15"
+[1] "Draw %: 19.54"
+[1] "Barcelona %: 71.31"
+[1] "--XA Model--"
+[1] "Score: Almeria 0.5338 to Barcelona 1.8493"
+[1] "Total: 2.3831"
+[1] "Almeria %: 9.79"
+[1] "Draw %: 20.85"
+[1] "Barcelona %: 69.36"
+[1] "--Mean 4 Models--"
+[1] "Almeria has a mean win % of 11.16%; a min win % of 8.14%; a max win % of 17.55%."
+[1] "Draw has a mean win % of 21.73%; a min win % of 19.54%; a max win % of 26.09%."
+[1] "Barcelona has a mean win % of 67.12%; a min win % of 56.36%; a max win of % 71.44%."
+[1] "Almeria has a mean win of the Double Chance of 32.88%; a min win % of 28.56%, a max win % of 43.64%."
+[1] "Barcelona has a mean win of the Double Chance of 88.84%; a min win % of 82.45%, a max win % of 91.86%."
+[1] "The mean likelihood that there are more than 2.5 goals is 41.44%; max % is 45.28 and min % is 38.14%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 58.56%; max % is 61.86 and min % is 54.72%."
+[1] "--Sportsbook Odds--"
+[1] "Almeria Barstool Odds are: 14.81"
+[1] "The Barstool Odds of a Draw are: 21.05"
+[1] "Barcelona Barstool Odds are: 69.44"
+[1] "Almeria Adjusted Barstool Odds are: 14.065"
+[1] "The Adjusted Barstool Odds of a Draw are: 19.991"
+[1] "Barcelona Adjusted Barstool Odds are: 65.945"
+[1] "Almeria's Barstool Odds to cover the 1.25 spread are: 54.64"
+[1] "Barcelona's Barstool Odds to cover the -1.25 spread are: 50.51"
+[1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5% chance of the over 2.5 hitting. The line for the under is 2.35, which is a 42.55% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                      bet           date_time
+1 under Almeria/Barcelona 2023-02-26 09:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team      | expected_attg| expected_gs|bet |
+|:-------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/477589/fernando-martinez     |Almeria   |      0.000000|   0.1052632|    |
+|/players/764841/houboulang-mendes     |Almeria   |      0.028975|   0.0270270|    |
+|/players/244963/rodrigo-ely           |Almeria   |      0.004225|   0.0833333|    |
+|/players/540967/srdjan-babic          |Almeria   |      0.051575|   0.0666667|    |
+|/players/713924/sergio-akieme         |Almeria   |      0.012975|   0.0526316|    |
+|/players/318650/csar-de-la-hoz        |Almeria   |      0.005525|   0.0909091|    |
+|/players/1130583/samu                 |Almeria   |      0.030125|   0.2500000|    |
+|/players/358127/leo-baptistao         |Almeria   |      0.106025|   0.2941176|    |
+|/players/787440/lucas-robertone       |Almeria   |      0.017050|   0.1428571|    |
+|/players/482331/adrin-embarba         |Almeria   |      0.034725|   0.1666667|    |
+|/players/792303/luis-surez            |Almeria   |      0.180875|   0.3125000|    |
+|/players/1279040/gavi                 |Barcelona |      0.207750|   0.2631579|    |
+|/players/93447/robert-lewandowski     |Barcelona |      0.476900|   0.6296296|    |
+|/players/881771/ferran-torres         |Barcelona |      0.177850|   0.4166667|    |
+|/players/638622/frenkie-de-jong       |Barcelona |      0.182650|   0.1666667|    |
+|/players/154257/sergio-busquets       |Barcelona |      0.024950|   0.1000000|    |
+|/players/579747/franck-kessi          |Barcelona |      0.101425|   0.3030303|    |
+|/players/150739/jordi-alba            |Barcelona |      0.024000|   0.1052632|    |
+|/players/196169/marcos-alonso         |Barcelona |      0.118425|   0.2083333|    |
+|/players/449232/andreas-christensen   |Barcelona |      0.013650|   0.0952381|    |
+|/players/705450/jules-kound           |Barcelona |      0.026450|   0.1111111|    |
+|/players/184554/marc-andre-ter-stegen |Barcelona |      0.000000|   0.0370370|    |
+|/players/1054114/el-bilal-tour        |Almeria   |      0.011950|   0.2777778|    |
+|/players/617220/gonzalo-melero        |Almeria   |      0.016975|   0.1538462|    |
+|/players/193226/francisco-portillo    |Almeria   |      0.000000|   0.2000000|    |
+|/players/785855/alejandro-pozo        |Almeria   |      0.000000|   0.0588235|    |
+|/players/1086012/ansu-fati            |Barcelona |      0.064600|   0.4444444|    |
+|/players/212472/sergi-roberto         |Barcelona |      0.003600|   0.2083333|    |
+|/players/921253/ronald-araujo         |Barcelona |      0.000000|   0.1666667|    |
+|/players/696679/raphinha              |Barcelona |      0.015650|   0.3333333|    |
+____________________________________________________
+
+[1] "Facts about Almeria:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/477589/fernando-martinez  |           0|         27.2271|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/764841/houboulang-mendes  |           1|         20.7313|           2.3504|        0.0493|         0.2322|      0.0092|        0.0333|      0.0189| 90.0000|
+|/players/244963/rodrigo-ely        |           1|         33.7296|           0.8461|        0.0906|         0.3411|      0.0282|        0.0049|      0.0107| 90.0000|
+|/players/540967/srdjan-babic       |           1|         39.6502|           1.1692|        0.0988|         0.3721|      0.0580|        0.0590|      0.0063| 90.0000|
+|/players/713924/sergio-akieme      |           1|         28.5534|           1.3004|        0.1914|         0.6226|      0.0397|        0.0138|      0.0415| 90.0000|
+|/players/318650/csar-de-la-hoz     |           2|         21.7604|           2.5804|        0.0966|         0.4367|      0.0026|        0.0073|      0.0469| 90.0000|
+|/players/1130583/samu              |           2|         38.2192|           1.9464|        0.1854|         0.8123|      0.0498|        0.0328|      0.0141| 81.2400|
+|/players/358127/leo-baptistao      |           3|         13.9235|           0.8948|        0.4174|         1.2206|      0.1748|        0.1189|      0.0578| 66.0000|
+|/players/787440/lucas-robertone    |           3|         24.2481|           1.0126|        0.1391|         0.6890|      0.0222|        0.0211|      0.0519| 75.2500|
+|/players/482331/adrin-embarba      |           3|         15.9133|           1.1560|        0.3415|         1.0846|      0.0626|        0.0413|      0.0484| 77.0227|
+|/players/792303/luis-surez         |           5|         16.9075|           0.6641|        0.6857|         1.8492|      0.2205|        0.2239|      0.0312| 90.0000|
+|/players/1054114/el-bilal-tour     |          NA|              NA|               NA|        0.0454|         0.1139|      0.0175|        0.0127|      0.0016| 24.0000|
+|/players/617220/gonzalo-melero     |          NA|              NA|               NA|        0.0335|         0.0822|      0.0210|        0.0202|      0.0016| 14.7500|
+|/players/193226/francisco-portillo |          NA|              NA|               NA|        0.0070|         0.0155|      0.0016|        0.0000|      0.0026| 12.9773|
+|/players/785855/alejandro-pozo     |          NA|              NA|               NA|        0.0044|         0.0147|      0.0006|        0.0000|      0.0025|  8.7600|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Rubi         |     20.99394|      3.300845|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Barcelona:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1279040/gavi                 |           5|         34.7457|           2.4229|        0.7717|         1.0275|      0.0644|        0.2731|      0.0618| 90.0000|
+|/players/93447/robert-lewandowski     |           5|         27.7901|           0.3965|        1.6274|         3.9594|      0.8416|        0.7979|      0.2845| 90.0000|
+|/players/881771/ferran-torres         |           5|         32.4090|           0.3346|        0.6913|         2.3176|      0.3069|        0.2446|      0.2388| 80.6190|
+|/players/638622/frenkie-de-jong       |           3|         58.3121|           1.1087|        0.4874|         0.9923|      0.2413|        0.2532|      0.2761| 84.2063|
+|/players/154257/sergio-busquets       |           3|         75.0385|           2.7817|        0.1781|         0.5481|      0.0394|        0.0327|      0.1235| 90.0000|
+|/players/579747/franck-kessi          |           3|         42.0878|           1.5458|        0.5277|         2.2129|      0.1173|        0.1313|      0.0392| 90.0000|
+|/players/150739/jordi-alba            |           1|         69.4321|           2.0156|        0.1769|         0.4720|      0.0444|        0.0316|      0.2190| 90.0000|
+|/players/196169/marcos-alonso         |           1|         57.5492|           1.2269|        0.2381|         1.0378|      0.1522|        0.1595|      0.1164| 83.1333|
+|/players/449232/andreas-christensen   |           1|         61.0946|           1.3828|        0.1025|         0.2418|      0.0215|        0.0154|      0.0186| 84.0328|
+|/players/705450/jules-kound           |           1|         59.0735|           1.7359|        0.1944|         0.5707|      0.0563|        0.0307|      0.0481| 90.0000|
+|/players/184554/marc-andre-ter-stegen |           0|         35.5158|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1086012/ansu-fati            |          NA|              NA|               NA|        0.1285|         0.2595|      0.0819|        0.0898|      0.0121|  9.3810|
+|/players/212472/sergi-roberto         |          NA|              NA|               NA|        0.0120|         0.0116|      0.0016|        0.0045|      0.0103|  6.8667|
+|/players/921253/ronald-araujo         |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000|  5.9672|
+|/players/696679/raphinha              |          NA|              NA|               NA|        0.0559|         0.1242|      0.0313|        0.0220|      0.0135|  5.7937|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Xavi Hernandez |     62.88889|       15.0475|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918164/Soccer_Models'...
+Receiving objects:   1% (48/4728),   63 kb
+Receiving objects:  11% (521/4728),  127 kb
+Receiving objects:  21% (993/4728),  239 kb
+Receiving objects:  31% (1466/4728),  407 kb
+Receiving objects:  41% (1939/4728),  856 kb
+Receiving objects:  51% (2412/4728), 1080 kb
+Receiving objects:  61% (2885/4728), 5787 kb
+Receiving objects:  71% (3357/4728), 10381 kb
+Receiving objects:  81% (3830/4728), 10686 kb
+Receiving objects:  91% (4303/4728), 10854 kb
+Receiving objects: 100% (4728/4728), 11356 kb, done.
