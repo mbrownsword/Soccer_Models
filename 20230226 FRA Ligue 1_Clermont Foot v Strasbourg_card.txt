@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 12:21:20.224"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Clermont Foot 1.4679 to Strasbourg 1.1181"
+[1] "Total: 2.586"
+[1] "Clermont Foot %: 45.49"
+[1] "Draw %: 25.29"
+[1] "Strasbourg %: 29.22"
+[1] "--XG Model--"
+[1] "Score: Clermont Foot 1.3077 to Strasbourg 1.0771"
+[1] "Total: 2.3848"
+[1] "Clermont Foot %: 42.97"
+[1] "Draw %: 26.69"
+[1] "Strasbourg %: 30.34"
+[1] "--XGoT Model--"
+[1] "Score: Clermont Foot 1.3108 to Strasbourg 1.0809"
+[1] "Total: 2.3917"
+[1] "Clermont Foot %: 42.81"
+[1] "Draw %: 26.62"
+[1] "Strasbourg %: 30.57"
+[1] "--XA Model--"
+[1] "Score: Clermont Foot 1.5286 to Strasbourg 1.1908"
+[1] "Total: 2.7194"
+[1] "Clermont Foot %: 44.71"
+[1] "Draw %: 25.27"
+[1] "Strasbourg %: 30.02"
+[1] "--Mean 4 Models--"
+[1] "Clermont Foot has a mean win % of 43.99%; a min win % of 42.81%; a max win % of 45.49%."
+[1] "Draw has a mean win % of 25.97%; a min win % of 25.27%; a max win % of 26.69%."
+[1] "Strasbourg has a mean win % of 30.04%; a min win % of 29.22%; a max win of % 30.57%."
+[1] "Clermont Foot has a mean win of the Double Chance of 69.96%; a min win % of 69.43%, a max win % of 70.78%."
+[1] "Strasbourg has a mean win of the Double Chance of 56.01%; a min win % of 54.51%, a max win % of 57.19%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.9%; max % is 49.7 and min % is 41.51%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.1%; max % is 58.49 and min % is 50.3%."
+[1] "--Sportsbook Odds--"
+[1] "Clermont Foot Barstool Odds are: 40.82"
+[1] "The Barstool Odds of a Draw are: 31.25"
+[1] "Strasbourg Barstool Odds are: 33.9"
+[1] "Clermont Foot Adjusted Barstool Odds are: 38.52"
+[1] "The Adjusted Barstool Odds of a Draw are: 29.489"
+[1] "Strasbourg Adjusted Barstool Odds are: 31.99"
+[1] "Clermont Foot's Barstool Odds to cover the 0 spread are: 56.5"
+[1] "Strasbourg's Barstool Odds to cover the 0 spread are: 48.08"
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.68, which is a 59.52% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+            bet           date_time
+1 Clermont Foot 2023-02-26 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                  |team          | expected_attg| expected_gs|bet |
+|:-----------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/466436/mory-diaw                 |Clermont Foot |      0.000000|   0.1250000|    |
+|/players/1439465/cheick-oumar-konat       |Clermont Foot |      0.049550|   0.0500000|    |
+|/players/555646/mateusz-wieteska          |Clermont Foot |      0.058150|   0.1052632|    |
+|/players/210401/florent-ogier             |Clermont Foot |      0.047850|   0.0588235|    |
+|/players/1011026/jim-allevinah            |Clermont Foot |      0.055400|   0.2040816|    |
+|/players/481044/saif-eddine-khaoui        |Clermont Foot |      0.121100|   0.1886792|    |
+|/players/182923/maxime-gonalons           |Clermont Foot |      0.035650|   0.0588235|    |
+|/players/917628/neto-borges               |Clermont Foot |      0.017300|   0.1333333|    |
+|/players/1301934/aiman-maurer             |Clermont Foot |      0.111400|   0.2040816|    |
+|/players/1092903/muhammed-cham-saracevic  |Clermont Foot |      0.324450|   0.2500000|*   |
+|/players/562695/grejohn-kyei              |Clermont Foot |      0.278325|   0.2500000|    |
+|/players/26392/kvin-gameiro               |Strasbourg    |      0.228625|   0.3030303|    |
+|/players/601145/habibou-mouhamadou-diallo |Strasbourg    |      0.182625|   0.3333333|    |
+|/players/340940/eduard-sobol              |Strasbourg    |      0.072750|   0.0769231|    |
+|/players/466285/dimitri-linard            |Strasbourg    |      0.109325|   0.1960784|    |
+|/players/355901/morgan-sanson             |Strasbourg    |      0.072375|   0.1960784|    |
+|/players/660327/ibrahima-sissoko          |Strasbourg    |      0.071225|   0.1666667|    |
+|/players/612747/frdéric-guilbert          |Strasbourg    |      0.071700|   0.0434783|    |
+|/players/173952/maxime-le-marchand        |Strasbourg    |      0.030000|   0.0434783|    |
+|/players/407765/alexander-djiku           |Strasbourg    |      0.030025|   0.0666667|    |
+|/players/1178332/ismal-doukouré           |Strasbourg    |      0.026250|   0.1111111|    |
+|/players/181069/matz-sels                 |Strasbourg    |      0.000000|   0.1250000|    |
+|/players/196972/elbasan-rashani           |Clermont Foot |      0.000000|   0.2631579|    |
+|/players/396473/jrémie-bela               |Clermont Foot |      0.000000|   0.2040816|    |
+|/players/951972/yohann-magnin             |Clermont Foot |      0.000000|   0.0588235|    |
+|/players/435719/komnen-andric             |Clermont Foot |      0.082275|   0.2500000|    |
+|/players/792008/lebo-mothiba              |Strasbourg    |      0.049575|   0.2380952|    |
+|/players/290022/sanjin-prcic              |Strasbourg    |      0.003425|   0.1333333|    |
+|/players/949213/colin-dagba               |Strasbourg    |      0.000000|   0.0454545|    |
+|/players/863856/lucas-perrin              |Strasbourg    |      0.015625|   0.0625000|    |
+____________________________________________________
+
+[1] "Facts about Clermont Foot:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/466436/mory-diaw                |           0|         35.1498|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1439465/cheick-oumar-konat      |           1|         49.1280|           2.3269|        0.1743|         0.8662|      0.1221|        0.0467|      0.0504| 90.0000|
+|/players/555646/mateusz-wieteska         |           1|         54.2776|           1.4438|        0.1755|         0.3839|      0.0351|        0.0537|      0.0237| 90.0000|
+|/players/210401/florent-ogier            |           1|         69.5266|           1.0651|        0.1743|         0.6405|      0.0350|        0.0467|      0.0206| 90.0000|
+|/players/1011026/jim-allevinah           |           3|         41.4732|           1.1378|        0.4726|         1.5368|      0.0876|        0.0521|      0.0621| 90.0000|
+|/players/481044/saif-eddine-khaoui       |           3|         33.6039|           1.2722|        0.4080|         1.1866|      0.1233|        0.1210|      0.1071| 71.7500|
+|/players/182923/maxime-gonalons          |           3|         43.2720|           2.1552|        0.0699|         0.3164|      0.0345|        0.0327|      0.0340| 70.0000|
+|/players/917628/neto-borges              |           3|         43.5957|           2.0174|        0.0952|         0.4847|      0.0528|        0.0153|      0.1902| 90.0000|
+|/players/1301934/aiman-maurer            |           4|         21.5277|           0.9607|        0.7306|         1.1994|      0.1049|        0.1076|      0.1428| 74.0000|
+|/players/1092903/muhammed-cham-saracevic |           4|         44.6962|           1.1229|        0.6404|         2.4533|      0.3218|        0.3550|      0.1460| 90.0000|
+|/players/562695/grejohn-kyei             |           5|         19.1288|           0.4486|        0.8705|         2.1029|      0.3288|        0.2901|      0.0815| 73.2286|
+|/players/196972/elbasan-rashani          |          NA|              NA|               NA|        0.0828|         0.4873|      0.0178|        0.0000|      0.0230| 20.0000|
+|/players/396473/jrémie-bela              |          NA|              NA|               NA|        0.0941|         0.5538|      0.0292|        0.0000|      0.0715| 18.2500|
+|/players/951972/yohann-magnin            |          NA|              NA|               NA|        0.0000|         0.0000|      0.0013|        0.0000|      0.0089| 16.7714|
+|/players/435719/komnen-andric            |          NA|              NA|               NA|        0.3650|         0.7982|      0.0423|        0.0797|      0.0169| 16.0000|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Pascal Gastien |     60.71212|     -1.077451|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Strasbourg:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                  | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/26392/kvin-gameiro               |           5|         22.7258|           0.7623|        0.7277|         1.5355|      0.2825|        0.2660|      0.0733| 79.1429|
+|/players/601145/habibou-mouhamadou-diallo |           5|         16.9007|           0.5459|        0.6389|         1.8441|      0.2241|        0.2049|      0.0803| 79.9706|
+|/players/340940/eduard-sobol              |           3|         41.7610|           1.8833|        0.5257|         1.3086|      0.1823|        0.0787|      0.0674| 90.0000|
+|/players/466285/dimitri-linard            |           3|         38.5836|           1.5995|        0.4762|         1.1065|      0.0949|        0.1145|      0.1572| 78.8000|
+|/players/355901/morgan-sanson             |           3|         30.4280|           1.8093|        0.0871|         0.5830|      0.0231|        0.0740|      0.0124| 90.0000|
+|/players/660327/ibrahima-sissoko          |           3|         37.2261|           1.7946|        0.0871|         0.6361|      0.0874|        0.0740|      0.0667| 90.0000|
+|/players/612747/frdéric-guilbert          |           3|         34.2487|           2.2794|        0.0871|         0.3899|      0.0156|        0.0740|      0.1130| 90.0000|
+|/players/173952/maxime-le-marchand        |           1|         52.2542|           1.3152|        0.1141|         0.3123|      0.0224|        0.0317|      0.0082| 90.0000|
+|/players/407765/alexander-djiku           |           1|         45.9639|           1.5866|        0.1141|         0.6415|      0.1028|        0.0317|      0.0257| 90.0000|
+|/players/1178332/ismal-doukouré           |           1|         38.2974|           1.6883|        0.1014|         0.2776|      0.0199|        0.0282|      0.0459| 80.0000|
+|/players/181069/matz-sels                 |           0|         22.0963|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/792008/lebo-mothiba              |          NA|              NA|               NA|        0.1938|         0.6590|      0.0580|        0.0503|      0.0013| 11.2000|
+|/players/290022/sanjin-prcic              |          NA|              NA|               NA|        0.1109|         0.5655|      0.0051|        0.0031|      0.0461| 10.8571|
+|/players/949213/colin-dagba               |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0172| 10.0294|
+|/players/863856/lucas-perrin              |          NA|              NA|               NA|        0.1161|         0.1973|      0.0135|        0.0161|      0.0266| 10.0000|
+
+
+|manager_name       | approx_games| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Mathieu Le Scornet |     6.939394|     -2.294286|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904524/Soccer_Models'...
+Receiving objects:   1% (48/4794),   63 kb
+Receiving objects:  11% (528/4794),  127 kb
+Receiving objects:  21% (1007/4794),  239 kb
+Receiving objects:  31% (1487/4794),  463 kb
+Receiving objects:  41% (1966/4794),  856 kb
+Receiving objects:  51% (2445/4794), 1080 kb
+Receiving objects:  61% (2925/4794), 5787 kb
+Receiving objects:  71% (3404/4794), 10438 kb
+Receiving objects:  81% (3884/4794), 10718 kb
+Receiving objects:  91% (4363/4794), 10830 kb
+Receiving objects: 100% (4794/4794), 11418 kb, done.
