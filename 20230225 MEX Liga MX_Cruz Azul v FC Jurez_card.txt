@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-24 17:03:00.988"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Cruz Azul 1.4625 to FC Juárez 1.119"
+[1] "Total: 2.5815"
+[1] "Cruz Azul %: 45.28"
+[1] "Draw %: 25.49"
+[1] "FC Juárez %: 29.23"
+[1] "--XG Model--"
+[1] "Score: Cruz Azul 1.4885 to FC Juárez 1.0577"
+[1] "Total: 2.5462"
+[1] "Cruz Azul %: 47.49"
+[1] "Draw %: 25.29"
+[1] "FC Juárez %: 27.22"
+[1] "--XGoT Model--"
+[1] "Score: Cruz Azul 1.5091 to FC Juárez 1.0386"
+[1] "Total: 2.5477"
+[1] "Cruz Azul %: 48.45"
+[1] "Draw %: 25.22"
+[1] "FC Juárez %: 26.33"
+[1] "--XA Model--"
+[1] "Score: Cruz Azul 1.654 to FC Juárez 1.0593"
+[1] "Total: 2.7133"
+[1] "Cruz Azul %: 52.16"
+[1] "Draw %: 24.21"
+[1] "FC Juárez %: 23.63"
+[1] "--Mean 4 Models--"
+[1] "Cruz Azul has a mean win % of 48.34%; a min win % of 45.28%; a max win % of 52.16%."
+[1] "Draw has a mean win % of 25.05%; a min win % of 24.21%; a max win % of 25.49%."
+[1] "FC Juárez has a mean win % of 26.6%; a min win % of 23.63%; a max win of % 29.23%."
+[1] "Cruz Azul has a mean win of the Double Chance of 73.4%; a min win % of 70.77%, a max win % of 76.37%."
+[1] "FC Juárez has a mean win of the Double Chance of 51.66%; a min win % of 47.84%, a max win % of 54.72%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.31%; max % is 50.13 and min % is 46.22%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 52.69%; max % is 53.78 and min % is 49.87%."
+[1] "--Sportsbook Odds--"
+[1] "Cruz Azul Barstool Odds are: 55.56"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "FC Juárez Barstool Odds are: 23.81"
+[1] "Cruz Azul Adjusted Barstool Odds are: 51.473"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.468"
+[1] "FC Juárez Adjusted Barstool Odds are: 22.059"
+[1] "Cruz Azul's Barstool Odds to cover the -0.5 spread are: 55.25"
+[1] "FC Juárez's Barstool Odds to cover the 0.5 spread are: 50.76"
+[1] "Barstool's line for the total is 2.5 at 1.91, which is a 52.36% chance of the over 2.5 hitting. The line for the under is 1.81, which is a 55.25% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 15:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team       | expected_attg| expected_gs|bet |
+|:-------------------------------------|:----------|-------------:|-----------:|:---|
+|/players/876495/sebastian-jurado-roca |Cruz Azul  |      0.000000|   0.2631579|    |
+|/players/494184/jordan-silva          |Cruz Azul  |      0.089825|   0.0454545|    |
+|/players/747701/juan-escobar          |Cruz Azul  |      0.132800|   0.1666667|    |
+|/players/70199/julio-csar-dominguez   |Cruz Azul  |      0.001500|   0.0555556|    |
+|/players/1244640/rodrigo-huescas      |Cruz Azul  |      0.038900|   0.2325581|    |
+|/players/274099/rafael-baca           |Cruz Azul  |      0.035275|   0.1176471|    |
+|/players/769593/carlos-rodriguez      |Cruz Azul  |      0.220950|   0.2325581|    |
+|/players/971628/erik-lira             |Cruz Azul  |      0.047600|   0.0555556|    |
+|/players/793611/gonzalo-carneiro      |Cruz Azul  |      0.297750|   0.3846154|    |
+|/players/430015/ignacio-rivero        |Cruz Azul  |      0.133800|   0.1666667|    |
+|/players/497330/michael-estrada       |Cruz Azul  |      0.212825|   0.3225806|    |
+|/players/70399/alfredo-talavera       |FC Juárez |      0.000000|   0.1428571|    |
+|/players/199355/alberto-acosta        |FC Juárez |      0.009975|   0.0555556|    |
+|/players/163152/jesus-alberto-duenas  |FC Juárez |      0.024275|   0.1250000|    |
+|/players/431992/carlos-salcedo        |FC Juárez |      0.027100|   0.0454545|    |
+|/players/281238/maximiliano-olivera   |FC Juárez |      0.011900|   0.1111111|    |
+|/players/643756/mauro-lainez          |FC Juárez |      0.289750|   0.1176471|*   |
+|/players/402810/jaime-valencia-gomez  |FC Juárez |      0.007375|   0.1176471|    |
+|/players/730303/jordan-sierra         |FC Juárez |      0.008975|   0.0833333|    |
+|/players/558374/javier-salas          |FC Juárez |      0.043800|   0.0555556|    |
+|/players/281870/carlos-fierro         |FC Juárez |      0.170175|   0.1428571|    |
+|/players/434180/gabriel-fernndez      |FC Juárez |      0.234100|   0.3125000|    |
+|/players/389892/cristian-tabo         |Cruz Azul  |      0.035750|   0.2631579|    |
+|/players/785840/ivan-morales          |Cruz Azul  |      0.000000|   0.3333333|    |
+|/players/277141/jesus-escoboza        |Cruz Azul  |      0.020925|   0.1666667|    |
+|/players/693593/augusto-lotti         |Cruz Azul  |      0.037025|   0.3333333|    |
+|/players/200875/luis-rodriguez        |FC Juárez |      0.000025|   0.1176471|    |
+|/players/1071281/francisco-nevarez    |FC Juárez |      0.000000|   0.0625000|    |
+|/players/303949/candido-ramirez       |FC Juárez |      0.068650|   0.0588235|    |
+|/players/1347199/denzell-garcia       |FC Juárez |      0.000075|   0.1111111|    |
+____________________________________________________
+
+[1] "Facts about Cruz Azul:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/876495/sebastian-jurado-roca |           0|         22.0681|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/494184/jordan-silva          |           1|         51.1452|           1.4518|        0.0798|         0.7833|      0.1463|        0.1086|      0.0149| 90.0000|
+|/players/747701/juan-escobar          |           1|         47.3754|           1.7116|        0.4137|         0.9817|      0.1111|        0.1617|      0.0807| 90.0000|
+|/players/70199/julio-csar-dominguez   |           1|         56.3097|           0.9532|        0.1538|         0.3056|      0.0285|        0.0018|      0.0292| 90.0000|
+|/players/1244640/rodrigo-huescas      |           3|         38.4762|           2.8480|        0.1373|         1.3249|      0.1024|        0.0441|      0.0491| 90.0000|
+|/players/274099/rafael-baca           |           3|         35.8238|           1.5257|        0.1196|         0.5856|      0.0820|        0.0384|      0.0632| 78.4286|
+|/players/769593/carlos-rodriguez      |           3|         40.2674|           0.8307|        0.7442|         1.2697|      0.1504|        0.2720|      0.3213| 79.4259|
+|/players/971628/erik-lira             |           3|         43.2149|           2.1571|        0.1804|         0.8429|      0.0511|        0.0534|      0.0488| 90.0000|
+|/players/793611/gonzalo-carneiro      |           5|         16.4676|           0.6520|        0.6316|         1.3952|      0.2416|        0.3880|      0.0655| 66.8750|
+|/players/430015/ignacio-rivero        |           5|         35.1443|           1.2721|        0.9242|         2.9698|      0.1770|        0.1624|      0.2291| 90.0000|
+|/players/497330/michael-estrada       |           5|         13.0147|           0.4206|        0.8964|         2.1276|      0.3732|        0.2569|      0.0617| 68.1290|
+|/players/389892/cristian-tabo         |           0|              NA|               NA|        0.4236|         1.0546|      0.0725|        0.0423|      0.0453| 23.1250|
+|/players/785840/ivan-morales          |           0|              NA|               NA|        0.0000|         0.6866|      0.0251|        0.0000|      0.0483| 21.8710|
+|/players/277141/jesus-escoboza        |           0|              NA|               NA|        0.1620|         0.3530|      0.0142|        0.0232|      0.0428| 11.5714|
+|/players/693593/augusto-lotti         |           0|              NA|               NA|        0.3120|         0.7930|      0.0313|        0.0418|      0.0073| 10.5741|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Joaquin Moreno |            1|          9.65|3-4-3     |
+____________________________________________________
+
+[1] "Facts about FC Juárez:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/70399/alfredo-talavera      |           0|         26.5462|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/199355/alberto-acosta       |           1|         28.5820|           2.7676|        0.0408|         0.1918|      0.0047|        0.0104|      0.0131| 74.9524|
+|/players/163152/jesus-alberto-duenas |           1|         36.3384|           1.5272|        0.0771|         0.2117|      0.0057|        0.0257|      0.0479| 90.0000|
+|/players/431992/carlos-salcedo       |           1|         50.2529|           1.0299|        0.0990|         0.2793|      0.0579|        0.0309|      0.0297| 90.0000|
+|/players/281238/maximiliano-olivera  |           1|         35.4273|           1.4349|        0.2255|         0.7513|      0.0556|        0.0125|      0.0722| 90.0000|
+|/players/643756/mauro-lainez         |           3|         23.8743|           1.4635|        0.2775|         1.2654|      0.1763|        0.3631|      0.1911| 90.0000|
+|/players/402810/jaime-valencia-gomez |           3|         24.1946|           2.3042|        0.5655|         1.5867|      0.0909|        0.0089|      0.0293| 75.7500|
+|/players/730303/jordan-sierra        |           3|         35.0731|           1.3942|        0.1725|         0.4533|      0.0317|        0.0088|      0.0423| 74.8571|
+|/players/558374/javier-salas         |           3|         43.1334|           1.6903|        0.2074|         0.9093|      0.0773|        0.0460|      0.0548| 90.0000|
+|/players/281870/carlos-fierro        |           5|         13.2789|           0.7197|        0.5365|         0.9226|      0.1172|        0.1931|      0.0080| 72.6667|
+|/players/434180/gabriel-fernndez     |           5|         29.1179|           1.0132|        0.7930|         3.2470|      0.4162|        0.2759|      0.1745| 90.0000|
+|/players/200875/luis-rodriguez       |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0052| 17.3333|
+|/players/1071281/francisco-nevarez   |           0|              NA|               NA|        0.0000|         0.2197|      0.0193|        0.0000|      0.0010| 15.1429|
+|/players/303949/candido-ramirez      |           0|              NA|               NA|        0.6279|         1.5000|      0.0701|        0.0703|      0.0570| 15.0476|
+|/players/1347199/denzell-garcia      |           0|              NA|               NA|        0.0000|         0.5327|      0.0117|        0.0000|      0.0357| 14.2500|
+
+
+|manager_name     | approx_games| m_avg_elo_dif|formation |
+|:----------------|------------:|-------------:|:---------|
+|Hernan Cristante |     61.54949|     -7.123333|4-4-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065373/Soccer_Models'...
+Receiving objects:   1% (47/4656),   63 kb
+Receiving objects:  11% (513/4656),  127 kb
+Receiving objects:  21% (978/4656),  239 kb
+Receiving objects:  31% (1444/4656),  407 kb
+Receiving objects:  41% (1909/4656),  856 kb
+Receiving objects:  51% (2375/4656), 1080 kb
+Receiving objects:  61% (2841/4656), 1416 kb
+Receiving objects:  71% (3306/4656), 10325 kb
+Receiving objects:  81% (3772/4656), 10662 kb
+Receiving objects:  91% (4237/4656), 10830 kb
+Receiving objects: 100% (4656/4656), 11292 kb, done.
