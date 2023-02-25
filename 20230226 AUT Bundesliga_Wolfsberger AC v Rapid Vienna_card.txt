@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 14:12:28.020"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Wolfsberger AC 1.4435 to Rapid Vienna 1.9355"
+[1] "Total: 3.379"
+[1] "Wolfsberger AC %: 28.97"
+[1] "Draw %: 21.99"
+[1] "Rapid Vienna %: 49.04"
+[1] "--XG Model--"
+[1] "Score: Wolfsberger AC 1.3606 to Rapid Vienna 1.8468"
+[1] "Total: 3.2074"
+[1] "Wolfsberger AC %: 28.73"
+[1] "Draw %: 23.08"
+[1] "Rapid Vienna %: 48.19"
+[1] "--XGoT Model--"
+[1] "Score: Wolfsberger AC 1.457 to Rapid Vienna 2.0032"
+[1] "Total: 3.4602"
+[1] "Wolfsberger AC %: 28.59"
+[1] "Draw %: 21.42"
+[1] "Rapid Vienna %: 49.99"
+[1] "--XA Model--"
+[1] "Score: Wolfsberger AC 1.4817 to Rapid Vienna 1.74"
+[1] "Total: 3.2217"
+[1] "Wolfsberger AC %: 31.79"
+[1] "Draw %: 23.58"
+[1] "Rapid Vienna %: 44.63"
+[1] "--Mean 4 Models--"
+[1] "Wolfsberger AC has a mean win % of 29.52%; a min win % of 28.59%; a max win % of 31.79%."
+[1] "Draw has a mean win % of 22.52%; a min win % of 21.42%; a max win % of 23.58%."
+[1] "Rapid Vienna has a mean win % of 47.96%; a min win % of 44.63%; a max win of % 49.99%."
+[1] "Wolfsberger AC has a mean win of the Double Chance of 52.04%; a min win % of 50.01%, a max win % of 55.37%."
+[1] "Rapid Vienna has a mean win of the Double Chance of 70.48%; a min win % of 68.21%, a max win % of 71.41%."
+[1] "The mean likelihood that there are more than 2.5 goals is 63.85%; max % is 66.5 and min % is 61.5%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 36.15%; max % is 38.5 and min % is 33.5%."
+[1] "--Sportsbook Odds--"
+[1] "Wolfsberger AC Barstool Odds are: 34.48"
+[1] "The Barstool Odds of a Draw are: 26.32"
+[1] "Rapid Vienna Barstool Odds are: 46.51"
+[1] "Wolfsberger AC Adjusted Barstool Odds are: 32.131"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.527"
+[1] "Rapid Vienna Adjusted Barstool Odds are: 43.342"
+[1] "Wolfsberger AC's Barstool Odds to cover the 0.5 spread are: 59.52"
+[1] "Rapid Vienna's Barstool Odds to cover the -0.5 spread are: 46.08"
+[1] "Barstool's line for the total is 2.5 at 1.63, which is a 61.35% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                               bet           date_time
+1 over Wolfsberger AC/Rapid Vienna 2023-02-26 05:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team           | expected_attg| expected_gs|bet |
+|:---------------------------------------|:--------------|-------------:|-----------:|:---|
+|/players/458812/hendrik-bonmann         |Wolfsberger AC |      0.000000|   0.2941176|    |
+|/players/1202921/adis-jasic             |Wolfsberger AC |      0.018925|   0.1785714|    |
+|/players/427160/michael-novak           |Wolfsberger AC |      0.008575|   0.0833333|    |
+|/players/1276637/raphael-schifferl      |Wolfsberger AC |      0.073200|   0.0909091|    |
+|/players/240242/simon-piesinger         |Wolfsberger AC |      0.011000|   0.0909091|    |
+|/players/274335/konstantin-kerschbaumer |Wolfsberger AC |      0.057650|   0.2040816|    |
+|/players/1336754/nikolas-veratschnig    |Wolfsberger AC |      0.056925|   0.0833333|    |
+|/players/881492/matthus-taferner        |Wolfsberger AC |      0.069150|   0.1176471|    |
+|/players/134132/mario-leitgeb           |Wolfsberger AC |      0.188750|   0.1694915|    |
+|/players/246344/thorsten-rocher         |Wolfsberger AC |      0.125000|   0.3508772|    |
+|/players/939140/tai-baribo              |Wolfsberger AC |      0.363700|   0.4255319|    |
+|/players/1160392/niklas-hedl            |Rapid Vienna   |      0.000000|   0.2702703|    |
+|/players/1199947/leopold-querfeld       |Rapid Vienna   |      0.077850|   0.0666667|    |
+|/players/954574/jonas-auer              |Rapid Vienna   |      0.058125|   0.1176471|    |
+|/players/264221/kevin-wimmer            |Rapid Vienna   |      0.020925|   0.0666667|    |
+|/players/1199118/martin-moormann        |Rapid Vienna   |      0.028025|   0.0909091|    |
+|/players/646626/dejan-petrovic          |Rapid Vienna   |      0.009050|   0.0909091|    |
+|/players/1083666/aleksa-pejic           |Rapid Vienna   |      0.085225|   0.1000000|    |
+|/players/951245/ante-bajic              |Rapid Vienna   |      0.105225|   0.2702703|    |
+|/players/951250/patrick-greil           |Rapid Vienna   |      0.115925|   0.2000000|    |
+|/players/1024292/marco-grll             |Rapid Vienna   |      0.406500|   0.3030303|*   |
+|/players/873527/ferdy-druijf            |Rapid Vienna   |      0.323425|   0.3333333|    |
+|/players/1343255/ervin-omic             |Wolfsberger AC |      0.086975|   0.1428571|    |
+|/players/1096389/thierno-ballo          |Wolfsberger AC |      0.158625|   0.2040816|    |
+|/players/1381853/tim-oermann            |Wolfsberger AC |      0.000000|   0.0833333|    |
+|/players/1343255/ervin-omic             |Wolfsberger AC |      0.086975|   0.1428571|    |
+|/players/1185198/bernhard-zimmermann    |Rapid Vienna   |      0.248450|   0.3921569|    |
+|/players/1114874/denso-kasius           |Rapid Vienna   |      0.001000|   0.1666667|    |
+|/players/1185210/moritz-oswald          |Rapid Vienna   |      0.001275|   0.1250000|    |
+|/players/195197/christoph-knasmllner    |Rapid Vienna   |      0.042425|   0.2040816|    |
+____________________________________________________
+
+[1] "Facts about Wolfsberger AC:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/458812/hendrik-bonmann         |           0|         29.5231|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1202921/adis-jasic             |           1|         43.0769|           2.4904|        0.0528|         0.5115|      0.0335|        0.0210|      0.0897| 90.0000|
+|/players/427160/michael-novak           |           1|         37.5113|           1.8524|        0.0907|         0.3658|      0.0363|        0.0082|      0.1016| 90.0000|
+|/players/1276637/raphael-schifferl      |           1|         40.4928|           1.3271|        0.1919|         0.6195|      0.0811|        0.0821|      0.0227| 90.0000|
+|/players/240242/simon-piesinger         |           1|         45.2123|           0.9889|        0.0999|         0.5642|      0.0276|        0.0126|      0.0416| 90.0000|
+|/players/274335/konstantin-kerschbaumer |           2|         29.9252|           1.3393|        0.2707|         0.9637|      0.0366|        0.0617|      0.1140| 71.3333|
+|/players/1336754/nikolas-veratschnig    |           2|         33.2046|           1.4269|        0.2884|         0.7228|      0.1211|        0.0657|      0.0225| 76.0000|
+|/players/881492/matthus-taferner        |           2|         43.9565|           2.8408|        0.3415|         1.5275|      0.1065|        0.0778|      0.0937| 90.0000|
+|/players/134132/mario-leitgeb           |           3|         34.9956|           1.0562|        0.7255|         2.0540|      0.2175|        0.2207|      0.2043| 90.0000|
+|/players/246344/thorsten-rocher         |           5|         19.0572|           0.9096|        0.3594|         1.2360|      0.1787|        0.1410|      0.1061| 76.6364|
+|/players/939140/tai-baribo              |           5|         15.6862|           0.1813|        1.2033|         2.5123|      0.4141|        0.4761|      0.0624| 75.7391|
+|/players/1343255/ervin-omic             |           0|              NA|               NA|        0.1945|         0.4012|      0.0528|        0.0987|      0.0576| 18.6667|
+|/players/1096389/thierno-ballo          |           0|              NA|               NA|        0.5312|         0.9133|      0.1405|        0.1798|      0.0021| 14.2609|
+|/players/1381853/tim-oermann            |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 14.0000|
+|/players/1343255/ervin-omic             |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0130| 13.3636|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Robin Dutt   |      42.8899|     -4.650233|4-3-1-2   |
+____________________________________________________
+
+[1] "Facts about Rapid Vienna:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1160392/niklas-hedl         |           0|         29.1168|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1199947/leopold-querfeld    |           1|         44.8560|           1.7057|        0.2182|         0.6850|      0.0932|        0.0834|      0.0482| 90.0000|
+|/players/954574/jonas-auer           |           1|         42.3687|           1.2022|        0.1692|         0.6373|      0.1056|        0.0636|      0.1295| 82.2222|
+|/players/264221/kevin-wimmer         |           1|         44.3179|           1.2787|        0.1038|         0.2607|      0.0170|        0.0233|      0.0340| 90.0000|
+|/players/1199118/martin-moormann     |           1|         40.0485|           1.9769|        0.1546|         0.5175|      0.0245|        0.0279|      0.0494| 90.0000|
+|/players/646626/dejan-petrovic       |           2|         49.4183|           1.7635|        0.2369|         1.2621|      0.0631|        0.0106|      0.1204| 82.8000|
+|/players/1083666/aleksa-pejic        |           2|         37.2101|           2.3724|        0.2575|         0.5094|      0.0982|        0.0867|      0.0243| 90.0000|
+|/players/951245/ante-bajic           |           3|         24.4497|           1.9377|        0.4872|         1.6556|      0.2426|        0.1134|      0.1643| 90.0000|
+|/players/951250/patrick-greil        |           3|         38.9119|           1.2748|        0.5048|         1.7767|      0.1426|        0.1320|      0.1311| 82.2778|
+|/players/1024292/marco-grll          |           3|         24.7264|           0.8012|        1.3923|         2.5137|      0.3424|        0.5285|      0.1521| 90.0000|
+|/players/873527/ferdy-druijf         |           5|         18.0366|           0.4986|        0.8635|         2.2392|      0.4160|        0.4028|      0.0568| 78.8125|
+|/players/1185198/bernhard-zimmermann |           0|              NA|               NA|        0.7041|         0.9908|      0.2097|        0.3024|      0.0251| 11.1875|
+|/players/1114874/denso-kasius        |           0|              NA|               NA|        0.0594|         0.1158|      0.0073|        0.0010|      0.0407|  7.7778|
+|/players/1185210/moritz-oswald       |           0|              NA|               NA|        0.0607|         0.0592|      0.0028|        0.0010|      0.0037|  7.7222|
+|/players/195197/christoph-knasmllner |           0|              NA|               NA|        0.0544|         0.2649|      0.0185|        0.0469|      0.0076|  7.2000|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Zoran Barisic |     6.909091|      9.988571|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3917340/Soccer_Models'...
+Receiving objects:   1% (49/4845),   63 kb
+Receiving objects:  11% (533/4845),  127 kb
+Receiving objects:  21% (1018/4845),  239 kb
+Receiving objects:  31% (1502/4845),  519 kb
+Receiving objects:  41% (1987/4845),  856 kb
+Receiving objects:  51% (2471/4845), 1136 kb
+Receiving objects:  61% (2956/4845), 8901 kb
+Receiving objects:  71% (3440/4845), 10469 kb
+Receiving objects:  81% (3925/4845), 10750 kb
+Receiving objects:  91% (4409/4845), 10862 kb
+Receiving objects: 100% (4845/4845), 11473 kb, done.
