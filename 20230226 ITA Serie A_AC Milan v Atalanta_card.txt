@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 12:12:11.248"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: AC Milan 1.4675 to Atalanta 1.2494"
+[1] "Total: 2.7169"
+[1] "AC Milan %: 42.49"
+[1] "Draw %: 25.7"
+[1] "Atalanta %: 31.81"
+[1] "--XG Model--"
+[1] "Score: AC Milan 1.3531 to Atalanta 1.1485"
+[1] "Total: 2.5016"
+[1] "AC Milan %: 41.26"
+[1] "Draw %: 26.63"
+[1] "Atalanta %: 32.11"
+[1] "--XGoT Model--"
+[1] "Score: AC Milan 1.2884 to Atalanta 1.0438"
+[1] "Total: 2.3322"
+[1] "AC Milan %: 43.53"
+[1] "Draw %: 27.2"
+[1] "Atalanta %: 29.27"
+[1] "--XA Model--"
+[1] "Score: AC Milan 1.522 to Atalanta 1.337"
+[1] "Total: 2.859"
+[1] "AC Milan %: 42.14"
+[1] "Draw %: 24.74"
+[1] "Atalanta %: 33.12"
+[1] "--Mean 4 Models--"
+[1] "AC Milan has a mean win % of 42.35%; a min win % of 41.26%; a max win % of 43.53%."
+[1] "Draw has a mean win % of 26.07%; a min win % of 24.74%; a max win % of 27.2%."
+[1] "Atalanta has a mean win % of 31.58%; a min win % of 29.27%; a max win of % 33.12%."
+[1] "AC Milan has a mean win of the Double Chance of 68.42%; a min win % of 66.88%, a max win % of 70.73%."
+[1] "Atalanta has a mean win of the Double Chance of 57.64%; a min win % of 56.47%, a max win % of 58.74%."
+[1] "The mean likelihood that there are more than 2.5 goals is 47.12%; max % is 53.59 and min % is 40.07%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 52.88%; max % is 59.93 and min % is 46.41%."
+[1] "--Sportsbook Odds--"
+[1] "AC Milan Barstool Odds are: 45.87"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Atalanta Barstool Odds are: 29.85"
+[1] "AC Milan Adjusted Barstool Odds are: 43.632"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.975"
+[1] "Atalanta Adjusted Barstool Odds are: 28.393"
+[1] "AC Milan's Barstool Odds to cover the -0.25 spread are: 52.63"
+[1] "Atalanta's Barstool Odds to cover the 0.25 spread are: 52.63"
+[1] "Barstool's line for the total is 2.5 at 1.88, which is a 53.19% chance of the over 2.5 hitting. The line for the under is 1.92, which is a 52.08% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+           bet           date_time
+1 Atalanta ATS 2023-02-26 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team     | expected_attg| expected_gs|bet |
+|:-------------------------------------|:--------|-------------:|-----------:|:---|
+|/players/103218/ciprian-tatarusanu    |AC Milan |      0.000000|   0.5238095|    |
+|/players/1131217/pierre-kalulu        |AC Milan |      0.024400|   0.0714286|    |
+|/players/1137407/malick-thiaw         |AC Milan |      0.041575|   0.0714286|    |
+|/players/749662/fikayo-tomori         |AC Milan |      0.045625|   0.0555556|    |
+|/players/1003368/junior-messias       |AC Milan |      0.177425|   0.2380952|    |
+|/players/438456/rade-krunic           |AC Milan |      0.071800|   0.1754386|    |
+|/players/867414/sandro-tonali         |AC Milan |      0.007350|   0.1111111|    |
+|/players/724371/theo-hernndez         |AC Milan |      0.018725|   0.1666667|    |
+|/players/750027/brahim-diaz           |AC Milan |      0.294800|   0.2631579|    |
+|/players/848844/rafael-leao           |AC Milan |      0.118550|   0.2941176|    |
+|/players/46469/olivier-giroud         |AC Milan |      0.299175|   0.3636364|    |
+|/players/1199272/rasmus-hjlund        |Atalanta |      0.295825|   0.3125000|    |
+|/players/690516/ademola-lookman       |Atalanta |      0.237900|   0.3125000|    |
+|/players/866516/teun-koopmeiners      |Atalanta |      0.108375|   0.1694915|    |
+|/players/759097/joakim-mhle           |Atalanta |      0.108575|   0.1694915|    |
+|/players/957203/derson                |Atalanta |      0.062300|   0.1000000|    |
+|/players/198559/marten-de-roon        |Atalanta |      0.006525|   0.0714286|    |
+|/players/244811/davide-zappacosta     |Atalanta |      0.017450|   0.1111111|    |
+|/players/1202358/giorgio-scalvini     |Atalanta |      0.040850|   0.0909091|    |
+|/players/260964/berat-djimsiti        |Atalanta |      0.008550|   0.0769231|    |
+|/players/127374/rafael-toloi          |Atalanta |      0.041425|   0.1111111|    |
+|/players/389050/juan-musso            |Atalanta |      0.000000|   0.0294118|    |
+|/players/265725/ante-rebic            |AC Milan |      0.014000|   0.3448276|    |
+|/players/921341/alexis-saelemaekers   |AC Milan |      0.018075|   0.1754386|    |
+|/players/1095432/charles-de-ketelaere |AC Milan |      0.033325|   0.2702703|    |
+|/players/846002/yacine-adli           |AC Milan |      0.024950|   0.2000000|    |
+|/players/196484/luis-muriel           |Atalanta |      0.067425|   0.3703704|    |
+|/players/643229/jeremie-boga          |Atalanta |      0.007325|   0.2173913|    |
+|/players/1178363/brandon-soppy        |Atalanta |      0.002325|   0.0303030|    |
+|/players/185625/jos-luis-palomino     |Atalanta |      0.000000|   0.1250000|    |
+____________________________________________________
+
+[1] "Facts about AC Milan:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/103218/ciprian-tatarusanu    |           0|         31.5036|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1131217/pierre-kalulu        |           1|         55.4519|           1.4435|        0.1115|         0.2884|      0.0144|        0.0254|      0.0722| 90.0000|
+|/players/1137407/malick-thiaw         |           1|         53.2155|           1.6181|        0.2167|         1.0004|      0.0924|        0.0420|      0.0078| 90.0000|
+|/players/749662/fikayo-tomori         |           1|         57.9320|           1.3835|        0.1404|         0.4538|      0.0542|        0.0474|      0.0267| 90.0000|
+|/players/1003368/junior-messias       |           3|         32.0739|           1.1674|        0.4826|         1.5268|      0.1295|        0.1888|      0.0860| 75.7308|
+|/players/438456/rade-krunic           |           3|         30.5080|           1.1432|        0.2013|         0.5800|      0.0495|        0.0753|      0.0447| 72.5000|
+|/players/867414/sandro-tonali         |           3|         53.7536|           1.8790|        0.1845|         0.4726|      0.0055|        0.0072|      0.1214| 90.0000|
+|/players/724371/theo-hernndez         |           3|         54.0505|           2.4572|        0.2460|         1.1815|      0.1375|        0.0180|      0.1526| 90.0000|
+|/players/750027/brahim-diaz           |           4|         31.7009|           0.9465|        0.8538|         1.9403|      0.3246|        0.3300|      0.0623| 74.3333|
+|/players/848844/rafael-leao           |           4|         29.0779|           1.1459|        0.6440|         2.1950|      0.1518|        0.1262|      0.1972| 90.0000|
+|/players/46469/olivier-giroud         |           5|         17.4817|           0.5406|        0.9233|         2.1907|      0.3393|        0.3436|      0.0595| 76.9231|
+|/players/265725/ante-rebic            |          NA|              NA|               NA|        0.2096|         0.7362|      0.0783|        0.0144|      0.0474| 17.5000|
+|/players/921341/alexis-saelemaekers   |          NA|              NA|               NA|        0.0943|         0.3958|      0.0221|        0.0163|      0.0297| 15.6667|
+|/players/1095432/charles-de-ketelaere |          NA|              NA|               NA|        0.1515|         0.3368|      0.0290|        0.0349|      0.0185| 14.2692|
+|/players/846002/yacine-adli           |          NA|              NA|               NA|        0.2550|         0.5398|      0.0349|        0.0244|      0.0373| 13.0769|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Stefano Pioli |     116.6768|      11.07857|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Atalanta:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/1199272/rasmus-hjlund    |           5|         14.6327|           0.3106|        0.8414|         2.2140|      0.3332|        0.3292|      0.0511| 80.1765|
+|/players/690516/ademola-lookman   |           5|         24.9839|           1.0155|        0.6601|         1.6084|      0.2312|        0.2533|      0.1162| 76.0769|
+|/players/866516/teun-koopmeiners  |           4|         36.1203|           1.4386|        0.5264|         1.7765|      0.1527|        0.1103|      0.1326| 90.0000|
+|/players/759097/joakim-mhle       |           3|         41.3726|           1.7814|        0.3249|         0.7608|      0.0934|        0.1079|      0.1204| 90.0000|
+|/players/957203/derson            |           3|         27.8392|           2.5146|        0.4924|         1.1798|      0.0806|        0.0575|      0.0842| 78.2308|
+|/players/198559/marten-de-roon    |           3|         55.6800|           2.2421|        0.0598|         0.3369|      0.0117|        0.0053|      0.0402| 90.0000|
+|/players/244811/davide-zappacosta |           3|         38.6784|           1.1126|        0.1062|         0.9889|      0.0386|        0.0167|      0.1012| 90.0000|
+|/players/1202358/giorgio-scalvini |           1|         44.8564|           1.4685|        0.1094|         0.3788|      0.0611|        0.0396|      0.0196| 76.1667|
+|/players/260964/berat-djimsiti    |           1|         51.2556|           1.0061|        0.0390|         0.4199|      0.0358|        0.0095|      0.0289| 90.0000|
+|/players/127374/rafael-toloi      |           1|         46.6156|           1.3285|        0.1608|         0.5259|      0.0637|        0.0408|      0.0370| 90.0000|
+|/players/389050/juan-musso        |           0|         28.0216|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/196484/luis-muriel       |          NA|              NA|               NA|        0.4866|         1.0690|      0.1023|        0.0645|      0.0465| 13.9231|
+|/players/643229/jeremie-boga      |          NA|              NA|               NA|        0.0654|         0.3980|      0.0231|        0.0062|      0.0526| 13.8333|
+|/players/1178363/brandon-soppy    |          NA|              NA|               NA|        0.0371|         0.2632|      0.0136|        0.0019|      0.0143| 11.7692|
+|/players/185625/jos-luis-palomino |          NA|              NA|               NA|        0.0000|         0.0000|      0.0004|        0.0000|      0.0037|  9.8235|
+
+
+|manager_name         | approx_games| m_avg_elo_dif|formation |
+|:--------------------|------------:|-------------:|:---------|
+|Gian Piero Gasperini |     115.7323|      13.11959|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3919276/Soccer_Models'...
+Receiving objects:   1% (48/4785),   63 kb
+Receiving objects:  11% (527/4785),  127 kb
+Receiving objects:  21% (1005/4785),  239 kb
+Receiving objects:  31% (1484/4785),  463 kb
+Receiving objects:  41% (1962/4785),  856 kb
+Receiving objects:  51% (2441/4785), 1080 kb
+Receiving objects:  61% (2919/4785), 5787 kb
+Receiving objects:  71% (3398/4785), 10438 kb
+Receiving objects:  81% (3876/4785), 10718 kb
+Receiving objects:  91% (4355/4785), 10830 kb
+Receiving objects: 100% (4785/4785), 11408 kb, done.
