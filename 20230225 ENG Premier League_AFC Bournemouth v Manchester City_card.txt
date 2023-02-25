@@ -1,110 +1,133 @@
-[1] "Updated at 2023-02-24 06:27:27.966"
+[1] "Updated at 2023-02-25 09:05:50.176"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: AFC Bournemouth 0.5712 to Manchester City 1.8176"
-[1] "Total: 2.3888"
-[1] "AFC Bournemouth %: 10.98"
-[1] "Draw %: 20.94"
-[1] "Manchester City %: 68.08"
+[1] "Score: AFC Bournemouth 0.4953 to Manchester City 1.5358"
+[1] "Total: 2.0311"
+[1] "AFC Bournemouth %: 11.63"
+[1] "Draw %: 25.46"
+[1] "Manchester City %: 62.91"
 [1] "--XG Model--"
-[1] "Score: AFC Bournemouth 0.4654 to Manchester City 1.9911"
-[1] "Total: 2.4565"
-[1] "AFC Bournemouth %: 7.89"
-[1] "Draw %: 18.82"
-[1] "Manchester City %: 73.29"
+[1] "Score: AFC Bournemouth 0.2827 to Manchester City 1.6509"
+[1] "Total: 1.9336"
+[1] "AFC Bournemouth %: 5.83"
+[1] "Draw %: 22.33"
+[1] "Manchester City %: 71.84"
 [1] "--XGoT Model--"
-[1] "Score: AFC Bournemouth 0.5098 to Manchester City 2.1732"
-[1] "Total: 2.683"
-[1] "AFC Bournemouth %: 7.35"
-[1] "Draw %: 16.38"
-[1] "Manchester City %: 76.27"
+[1] "Score: AFC Bournemouth 0.3713 to Manchester City 1.7792"
+[1] "Total: 2.1505"
+[1] "AFC Bournemouth %: 6.78"
+[1] "Draw %: 20.63"
+[1] "Manchester City %: 72.59"
 [1] "--XA Model--"
-[1] "Score: AFC Bournemouth 0.4743 to Manchester City 2.093"
-[1] "Total: 2.5673"
-[1] "AFC Bournemouth %: 7.61"
-[1] "Draw %: 17.83"
-[1] "Manchester City %: 74.56"
+[1] "Score: AFC Bournemouth 0.3899 to Manchester City 1.7996"
+[1] "Total: 2.1895"
+[1] "AFC Bournemouth %: 7.15"
+[1] "Draw %: 20.76"
+[1] "Manchester City %: 72.09"
 [1] "--Mean 4 Models--"
-[1] "AFC Bournemouth has a mean win % of 8.46%; a min win % of 7.35%; a max win % of 10.98%."
-[1] "Draw has a mean win % of 18.49%; a min win % of 16.38%; a max win % of 20.94%."
-[1] "Manchester City has a mean win % of 73.05%; a min win % of 68.08%; a max win of % 76.27%."
-[1] "AFC Bournemouth has a mean win of the Double Chance of 26.95%; a min win % of 23.73%, a max win % of 31.92%."
-[1] "Manchester City has a mean win of the Double Chance of 91.54%; a min win % of 89.02%, a max win % of 92.65%."
-[1] "The mean likelihood that there are more than 2.5 goals is 45.58%; max % is 49.71 and min % is 42.48%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 54.42%; max % is 57.52 and min % is 50.29%."
+[1] "AFC Bournemouth has a mean win % of 7.85%; a min win % of 5.83%; a max win % of 11.63%."
+[1] "Draw has a mean win % of 22.3%; a min win % of 20.63%; a max win % of 25.46%."
+[1] "Manchester City has a mean win % of 69.86%; a min win % of 62.91%; a max win of % 72.59%."
+[1] "AFC Bournemouth has a mean win of the Double Chance of 30.14%; a min win % of 27.41%, a max win % of 37.09%."
+[1] "Manchester City has a mean win of the Double Chance of 92.15%; a min win % of 88.37%, a max win % of 94.17%."
+[1] "The mean likelihood that there are more than 2.5 goals is 34.13%; max % is 37.13 and min % is 30.31%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 65.87%; max % is 69.69 and min % is 62.87%."
 [1] "--Sportsbook Odds--"
-[1] "AFC Bournemouth Barstool Odds are: 9.52"
-[1] "The Barstool Odds of a Draw are: 17.39"
-[1] "Manchester City Barstool Odds are: 77.78"
-[1] "AFC Bournemouth Adjusted Barstool Odds are: 9.094"
-[1] "The Adjusted Barstool Odds of a Draw are: 16.611"
-[1] "Manchester City Adjusted Barstool Odds are: 74.296"
-[1] "AFC Bournemouth's Barstool Odds to cover the  spread are: NA"
-[1] "Manchester City's Barstool Odds to cover the  spread are: NA"
-[1] "Barstool's line for the total is 2.5 at 1.58, which is a 63.29% chance of the over 2.5 hitting. The line for the under is 2.38, which is a 42.02% chance of the under 2.5 hitting."
+[1] "AFC Bournemouth Barstool Odds are: 11.76"
+[1] "The Barstool Odds of a Draw are: 19.23"
+[1] "Manchester City Barstool Odds are: 73.33"
+[1] "AFC Bournemouth Adjusted Barstool Odds are: 11.273"
+[1] "The Adjusted Barstool Odds of a Draw are: 18.434"
+[1] "Manchester City Adjusted Barstool Odds are: 70.293"
+[1] "AFC Bournemouth's Barstool Odds to cover the 0.5 spread are: 32.26"
+[1] "Manchester City's Barstool Odds to cover the -0.5 spread are: 72.46"
+[1] "Barstool's line for the total is 2.5 at 1.55, which is a 64.52% chance of the over 2.5 hitting. The line for the under is 2.45, which is a 40.82% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                     bet           date_time
-1 under AFC Bournemouth/Manchester City 2023-02-25 09:30:00
+1  draw AFC Bournemouth/Manchester City 2023-02-25 09:30:00
+2 under AFC Bournemouth/Manchester City 2023-02-25 09:30:00
+
+
+|player          |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league      | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:---------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:-----------|-----------:|----------:|---------:|----------:|--------:|
+|Julian Alvarez  |MCI  |      2| 4.90|      0.2041|  0.3463|   0.1422|tackles   |ENG England |          NA|         NA|        NA|         NA|       NA|
+|Jack Grealish   |MCI  |     38| 1.51|          NA|  0.8320|   0.1697|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Erling Haaland  |MCI  |     16| 1.51|          NA|  0.8156|   0.1533|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Ilkay Gundogan  |MCI  |     53| 1.85|          NA|  0.9787|   0.4382|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Ilkay Gundogan  |MCI  |     57| 2.07|          NA|  0.9348|   0.4517|passes    |ENG England |      0.4831|         NA|        NA|         NA|       NA|
+|Ilkay Gundogan  |MCI  |     61| 2.22|          NA|  0.8433|   0.3928|passes    |ENG England |      0.4505|         NA|        NA|         NA|       NA|
+|Ilkay Gundogan  |MCI  |     65| 2.49|          NA|  0.6965|   0.2949|passes    |ENG England |      0.4016|         NA|        NA|         NA|       NA|
+|Ilkay Gundogan  |MCI  |     49| 1.63|          NA|  0.9947|   0.3812|passes    |ENG England |      0.6135|         NA|        NA|         NA|       NA|
+|Ilkay Gundogan  |MCI  |     69| 2.93|          NA|  0.5121|   0.1708|passes    |ENG England |      0.3413|         NA|        NA|         NA|       NA|
+|Julian Alvarez  |MCI  |     32| 2.30|          NA|  0.5933|   0.1585|passes    |ENG England |      0.4348|         NA|        NA|         NA|       NA|
+|Julian Alvarez  |MCI  |     28| 1.85|          NA|  0.8281|   0.2876|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Julian Alvarez  |MCI  |     24| 1.51|          NA|  0.9546|   0.2923|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
+|Phil Foden      |MCI  |     44| 1.85|          NA|  0.8747|   0.3342|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Phil Foden      |MCI  |     52| 2.58|          NA|  0.5065|   0.1189|passes    |ENG England |      0.3876|         NA|        NA|         NA|       NA|
+|Phil Foden      |MCI  |     48| 2.23|          NA|  0.7173|   0.2689|passes    |ENG England |      0.4484|         NA|        NA|         NA|       NA|
+|Phil Foden      |MCI  |     40| 1.55|          NA|  0.9591|   0.3139|passes    |ENG England |      0.6452|         NA|        NA|         NA|       NA|
+|Dominic Solanke |BOU  |     14| 1.85|          NA|  0.6486|   0.1081|passes    |ENG England |      0.5405|         NA|        NA|         NA|       NA|
+|Dominic Solanke |BOU  |     10| 1.51|          NA|  0.9284|   0.2661|passes    |ENG England |      0.6623|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                             |team            | expected_attg| expected_gs|bet |
 |:------------------------------------|:---------------|-------------:|-----------:|:---|
-|/players/731855/mark-travers         |AFC Bournemouth |      0.000000|   0.1000000|    |
-|/players/564794/jack-stacey          |AFC Bournemouth |      0.024575|   0.0196078|    |
-|/players/819762/chris-mepham         |AFC Bournemouth |      0.010250|   0.0270270|    |
-|/players/160447/adam-smith           |AFC Bournemouth |      0.000500|   0.0196078|    |
-|/players/785411/marcos-senesi        |AFC Bournemouth |      0.014125|   0.0196078|    |
-|/players/613182/joe-rothwell         |AFC Bournemouth |      0.025325|   0.0357143|    |
-|/players/439369/ryan-christie        |AFC Bournemouth |      0.055025|   0.1724138|    |
-|/players/1250253/dango-ouattara      |AFC Bournemouth |      0.070400|   0.1176471|    |
-|/players/532743/philip-billing       |AFC Bournemouth |      0.063075|   0.1538462|    |
-|/players/933576/antoine-semenyo      |AFC Bournemouth |      0.046900|   0.1333333|    |
-|/players/591734/dominic-solanke      |AFC Bournemouth |      0.134325|   0.2040816|    |
+|/players/176186/neto                 |AFC Bournemouth |      0.000000|   0.1000000|    |
+|/players/160447/adam-smith           |AFC Bournemouth |      0.001150|   0.0196078|    |
+|/players/215387/jack-stephens        |AFC Bournemouth |      0.008850|   0.0212766|    |
+|/players/819762/chris-mepham         |AFC Bournemouth |      0.012550|   0.0250000|    |
+|/players/785411/marcos-senesi        |AFC Bournemouth |      0.020625|   0.0196078|    |
+|/players/982633/jordan-zemura        |AFC Bournemouth |      0.061150|   0.0277778|    |
+|/players/1250253/dango-ouattara      |AFC Bournemouth |      0.036500|   0.1111111|    |
+|/players/466672/jefferson-lerma      |AFC Bournemouth |      0.007875|   0.0588235|    |
+|/players/532743/philip-billing       |AFC Bournemouth |      0.032850|   0.1428571|    |
+|/players/875672/hamed-traor          |AFC Bournemouth |      0.060375|   0.0909091|    |
+|/players/591734/dominic-solanke      |AFC Bournemouth |      0.102350|   0.1923077|    |
+|/players/737066/erling-braut-haaland |Manchester City |      0.403450|   0.6226415|    |
+|/players/312765/jack-grealish        |Manchester City |      0.171525|   0.2500000|    |
+|/players/974753/julin-álvarez        |Manchester City |      0.171775|   0.4545455|    |
+|/players/815006/phil-foden           |Manchester City |      0.269650|   0.3389831|    |
+|/players/675088/rodri                |Manchester City |      0.012350|   0.1000000|    |
+|/players/178818/ilkay-gndogan        |Manchester City |      0.068450|   0.2631579|    |
+|/players/417068/nathan-ak            |Manchester City |      0.026775|   0.0909091|    |
+|/players/614006/ruben-dias           |Manchester City |      0.143550|   0.0769231|*   |
+|/players/521318/manuel-akanji        |Manchester City |      0.056150|   0.0769231|    |
+|/players/1288450/rico-lewis          |Manchester City |      0.029150|   0.0714286|    |
 |/players/363364/ederson-moraes       |Manchester City |      0.000000|   0.0555556|    |
-|/players/159833/kyle-walker          |Manchester City |      0.035475|   0.0476190|    |
-|/players/417068/nathan-ak            |Manchester City |      0.016725|   0.0909091|    |
-|/players/521318/manuel-akanji        |Manchester City |      0.032925|   0.0769231|    |
-|/players/614006/ruben-dias           |Manchester City |      0.085150|   0.0769231|    |
-|/players/178818/ilkay-gndogan        |Manchester City |      0.158875|   0.2777778|    |
-|/players/488139/bernardo-silva       |Manchester City |      0.117875|   0.2631579|    |
-|/players/675088/rodri                |Manchester City |      0.073475|   0.1052632|    |
-|/players/278343/riyad-mahrez         |Manchester City |      0.272400|   0.4166667|    |
-|/players/815006/phil-foden           |Manchester City |      0.283850|   0.3508772|    |
-|/players/737066/erling-braut-haaland |Manchester City |      0.462950|   0.6363636|    |
-|/players/1171140/jaidon-anthony      |AFC Bournemouth |      0.009500|   0.1428571|    |
-|/players/469202/kieffer-moore        |AFC Bournemouth |      0.008325|   0.1818182|    |
-|/players/194323/ryan-fredericks      |AFC Bournemouth |      0.000000|   0.0555556|    |
-|/players/875672/hamed-traor          |AFC Bournemouth |      0.002775|   0.1000000|    |
-|/players/312765/jack-grealish        |Manchester City |      0.028225|   0.2564103|    |
-|/players/974753/julin-álvarez        |Manchester City |      0.032925|   0.4651163|    |
-|/players/609755/kalvin-phillips      |Manchester City |      0.001200|   0.0833333|    |
-|/players/1096353/cole-palmer         |Manchester City |      0.014675|   0.2631579|    |
+|/players/933576/antoine-semenyo      |AFC Bournemouth |      0.002825|   0.0000000|    |
+|/players/469202/kieffer-moore        |AFC Bournemouth |      0.003400|   0.0000000|    |
+|/players/439369/ryan-christie        |AFC Bournemouth |      0.001850|   0.0000000|    |
+|/players/613182/joe-rothwell         |AFC Bournemouth |      0.000550|   0.0000000|    |
+|/players/844477/sergio-gomez         |Manchester City |      0.005950|   0.0000000|    |
+|/players/169200/kevin-de-bruyne      |Manchester City |      0.009400|   0.0000000|    |
+|/players/278343/riyad-mahrez         |Manchester City |      0.025500|   0.0000000|    |
+|/players/488139/bernardo-silva       |Manchester City |      0.000900|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about AFC Bournemouth:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/731855/mark-travers    |           0|         23.2073|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/564794/jack-stacey     |           1|         24.6488|           1.4595|        0.0971|         0.2916|      0.0193|        0.0308|      0.0280| 90.0000|
-|/players/819762/chris-mepham    |           1|         29.5031|           1.5542|        0.0459|         0.2526|      0.0133|        0.0124|      0.0077| 90.0000|
-|/players/160447/adam-smith      |           1|         21.2778|           1.4682|        0.0121|         0.1087|      0.0051|        0.0009|      0.0613| 90.0000|
-|/players/785411/marcos-senesi   |           1|         37.2213|           1.7139|        0.0608|         0.4266|      0.0586|        0.0205|      0.0313| 90.0000|
-|/players/613182/joe-rothwell    |           3|         27.6096|           0.9755|        0.1159|         0.3577|      0.0274|        0.0346|      0.0424| 76.0811|
-|/players/439369/ryan-christie   |           3|         29.8493|           1.7281|        0.2443|         0.8546|      0.0758|        0.0714|      0.0516| 83.5926|
-|/players/1250253/dango-ouattara |           3|         16.0632|           2.9792|        0.3188|         1.0116|      0.0827|        0.0906|      0.0292| 90.0000|
-|/players/532743/philip-billing  |           3|         21.6104|           1.4006|        0.1874|         0.5167|      0.0531|        0.0792|      0.0281| 82.6136|
-|/players/933576/antoine-semenyo |           5|         17.4307|           1.1223|        0.3527|         1.1976|      0.1157|        0.0608|      0.0532| 82.5600|
-|/players/591734/dominic-solanke |           5|         17.1347|           0.5876|        0.5929|         1.3668|      0.2032|        0.1833|      0.0237| 90.0000|
-|/players/1171140/jaidon-anthony |           0|              NA|               NA|        0.0475|         0.0586|      0.0061|        0.0124|      0.0035| 13.9189|
-|/players/469202/kieffer-moore   |           0|              NA|               NA|        0.0235|         0.0455|      0.0073|        0.0108|      0.0010|  7.4400|
-|/players/194323/ryan-fredericks |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0002|  7.3864|
-|/players/875672/hamed-traor     |           0|              NA|               NA|        0.0159|         0.0399|      0.0038|        0.0037|      0.0009|  6.4074|
+|/players/176186/neto            |           0|         26.2878|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/160447/adam-smith      |           1|         19.8088|           1.5205|        0.0208|         0.1290|      0.0046|        0.0014|      0.0340| 90.0000|
+|/players/215387/jack-stephens   |           1|         27.4774|           1.4684|        0.0800|         0.2207|      0.0293|        0.0104|      0.0058| 90.0000|
+|/players/819762/chris-mepham    |           1|         27.4661|           1.6096|        0.0791|         0.2998|      0.0119|        0.0180|      0.0043| 90.0000|
+|/players/785411/marcos-senesi   |           1|         32.1888|           1.6488|        0.0975|         0.4704|      0.0490|        0.0275|      0.0161| 83.6038|
+|/players/982633/jordan-zemura   |           1|         22.7785|           1.0938|        0.2052|         0.6364|      0.0439|        0.0777|      0.0465| 90.0000|
+|/players/1250253/dango-ouattara |           3|         16.1704|           3.0113|        0.3416|         1.1894|      0.0786|        0.0517|      0.0402| 90.0000|
+|/players/466672/jefferson-lerma |           3|         30.6929|           1.0603|        0.0601|         0.3395|      0.0179|        0.0105|      0.0220| 81.7234|
+|/players/532743/philip-billing  |           3|         21.7547|           1.4157|        0.2007|         0.6075|      0.0505|        0.0452|      0.0387| 82.6136|
+|/players/875672/hamed-traor     |           3|         20.9097|           0.8475|        0.2523|         0.6839|      0.0723|        0.0779|      0.0410| 67.9048|
+|/players/591734/dominic-solanke |           5|         16.1754|           1.3311|        0.4577|         1.4023|      0.1193|        0.1411|      0.0224| 90.0000|
+|/players/933576/antoine-semenyo |           0|              NA|               NA|        0.0213|         0.0824|      0.0048|        0.0041|      0.0027| 22.0952|
+|/players/469202/kieffer-moore   |           0|              NA|               NA|        0.0177|         0.0446|      0.0042|        0.0042|      0.0010|  8.2766|
+|/players/439369/ryan-christie   |           0|              NA|               NA|        0.0128|         0.0497|      0.0021|        0.0022|      0.0017|  7.3864|
+|/players/613182/joe-rothwell    |           0|              NA|               NA|        0.0098|         0.0135|      0.0004|        0.0010|      0.0013|  6.3962|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
@@ -113,40 +136,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Manchester City:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/363364/ederson-moraes       |           0|         30.3277|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/159833/kyle-walker          |           1|         72.6231|           1.6527|        0.1854|         0.5583|      0.0238|        0.0378|      0.1213| 90.0000|
-|/players/417068/nathan-ak            |           1|         69.5176|           1.3764|        0.1330|         0.8901|      0.0787|        0.0164|      0.0687| 90.0000|
-|/players/521318/manuel-akanji        |           1|         72.7280|           1.8506|        0.1696|         0.7299|      0.0695|        0.0357|      0.0571| 90.0000|
-|/players/614006/ruben-dias           |           1|         74.4334|           1.1590|        0.2332|         0.7383|      0.0776|        0.0881|      0.1040| 90.0000|
-|/players/178818/ilkay-gndogan        |           3|         57.8138|           1.6917|        0.5466|         1.7463|      0.2224|        0.1828|      0.1700| 84.9643|
-|/players/488139/bernardo-silva       |           3|         50.3196|           1.6499|        0.4593|         1.1018|      0.1041|        0.1324|      0.1578| 83.2857|
-|/players/675088/rodri                |           3|         87.1793|           2.8470|        0.2594|         1.2947|      0.0644|        0.0840|      0.1063| 90.0000|
-|/players/278343/riyad-mahrez         |           5|         42.0324|           1.4494|        0.8746|         2.4474|      0.3235|        0.3329|      0.1824| 83.1500|
-|/players/815006/phil-foden           |           5|         39.2955|           1.1468|        0.9212|         2.1552|      0.3122|        0.3423|      0.1792| 82.8718|
-|/players/737066/erling-braut-haaland |           5|         18.4666|           0.2261|        1.5812|         3.4087|      0.6927|        0.6468|      0.1196| 90.0000|
-|/players/312765/jack-grealish        |           0|              NA|               NA|        0.0495|         0.0484|      0.0224|        0.0293|      0.0110|  7.1282|
-|/players/974753/julin-álvarez        |           0|              NA|               NA|        0.1170|         0.1717|      0.0167|        0.0386|      0.0033|  6.8500|
-|/players/609755/kalvin-phillips      |           0|              NA|               NA|        0.0239|         0.0234|      0.0046|        0.0012|      0.0008|  6.7143|
-|/players/1096353/cole-palmer         |           0|              NA|               NA|        0.0394|         0.0964|      0.0082|        0.0181|      0.0047|  5.0357|
+|/players/737066/erling-braut-haaland |           5|         20.6051|           1.0339|        1.2415|         2.5785|      0.6039|        0.6108|      0.1095| 85.0645|
+|/players/312765/jack-grealish        |           3|         44.9585|           1.0053|        0.7663|         1.6987|      0.1876|        0.2275|      0.2079| 90.0000|
+|/players/974753/julin-álvarez        |           3|         34.0339|           2.0848|        0.7663|         3.4190|      0.4348|        0.2275|      0.0632| 90.0000|
+|/players/815006/phil-foden           |           3|         52.7858|           0.7971|        1.0283|         2.1453|      0.2512|        0.3613|      0.2693| 83.8235|
+|/players/675088/rodri                |           2|         78.0678|           2.3958|        0.2124|         1.0621|      0.0281|        0.0173|      0.0427| 90.0000|
+|/players/178818/ilkay-gndogan        |           2|         69.9211|           1.3105|        0.2741|         1.5194|      0.1175|        0.0821|      0.1614| 80.6000|
+|/players/417068/nathan-ak            |           1|         70.1632|           0.8686|        0.2392|         0.8979|      0.0834|        0.0332|      0.0853| 85.0882|
+|/players/614006/ruben-dias           |           1|         79.4612|           0.7736|        0.4436|         0.7878|      0.0869|        0.1894|      0.1367| 90.0000|
+|/players/521318/manuel-akanji        |           1|         77.6406|           1.2353|        0.3227|         0.7788|      0.0779|        0.0768|      0.0751| 90.0000|
+|/players/1288450/rico-lewis          |           1|         64.8359|           3.1928|        0.2530|         0.7788|      0.0779|        0.0352|      0.1258| 90.0000|
+|/players/363364/ederson-moraes       |           0|         29.4492|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/844477/sergio-gomez         |           0|              NA|               NA|        0.0603|         0.1296|      0.0073|        0.0070|      0.0087|  9.4000|
+|/players/169200/kevin-de-bruyne      |           0|              NA|               NA|        0.0617|         0.1725|      0.0066|        0.0101|      0.0131|  6.1765|
+|/players/278343/riyad-mahrez         |           0|              NA|               NA|        0.0456|         0.0980|      0.0215|        0.0285|      0.0038|  4.9355|
+|/players/488139/bernardo-silva       |           0|              NA|               NA|        0.0228|         0.0981|      0.0116|        0.0010|      0.0058|  4.9118|
 
 
 |manager_name    | approx_games| m_avg_elo_dif|formation |
 |:---------------|------------:|-------------:|:---------|
 |Josep Guardiola |     137.0273|      21.05423|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3901172/Soccer_Models'...
-Receiving objects:   1% (46/4524),   63 kb
-Receiving objects:  11% (498/4524),  127 kb
-Receiving objects:  21% (951/4524),  183 kb
-Receiving objects:  31% (1403/4524),  351 kb
-Receiving objects:  41% (1855/4524),  856 kb
-Receiving objects:  51% (2308/4524), 1024 kb
-Receiving objects:  61% (2760/4524), 1416 kb
-Receiving objects:  71% (3213/4524), 10269 kb
-Receiving objects:  81% (3665/4524), 10550 kb
-Receiving objects:  91% (4117/4524), 10774 kb
-Receiving objects: 100% (4524/4524), 11190 kb, done.
+Receiving objects:   1% (48/4719),   63 kb
+Receiving objects:  11% (520/4719),  127 kb
+Receiving objects:  21% (991/4719),  239 kb
+Receiving objects:  31% (1463/4719),  407 kb
+Receiving objects:  41% (1935/4719),  856 kb
+Receiving objects:  51% (2407/4719), 1080 kb
+Receiving objects:  61% (2879/4719), 5731 kb
+Receiving objects:  71% (3351/4719), 10381 kb
+Receiving objects:  81% (3823/4719), 10678 kb
+Receiving objects:  91% (4295/4719), 10790 kb
+Receiving objects: 100% (4719/4719), 11358 kb, done.
