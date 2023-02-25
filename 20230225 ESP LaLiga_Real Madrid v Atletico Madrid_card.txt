@@ -1,115 +1,122 @@
-[1] "Updated at 2023-02-23 20:42:05.155"
+[1] "Updated at 2023-02-25 09:30:54.721"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Real Madrid 1.5737 to Atletico Madrid 0.9384"
-[1] "Total: 2.5121"
-[1] "Real Madrid %: 52.26"
-[1] "Draw %: 25.43"
-[1] "Atletico Madrid %: 22.31"
+[1] "Score: Real Madrid 1.4808 to Atletico Madrid 0.9697"
+[1] "Total: 2.4505"
+[1] "Real Madrid %: 49.65"
+[1] "Draw %: 25.59"
+[1] "Atletico Madrid %: 24.76"
 [1] "--XG Model--"
-[1] "Score: Real Madrid 1.735 to Atletico Madrid 0.8239"
-[1] "Total: 2.5589"
-[1] "Real Madrid %: 59"
-[1] "Draw %: 23.42"
-[1] "Atletico Madrid %: 17.58"
+[1] "Score: Real Madrid 1.7968 to Atletico Madrid 0.8039"
+[1] "Total: 2.6007"
+[1] "Real Madrid %: 61.18"
+[1] "Draw %: 22.94"
+[1] "Atletico Madrid %: 15.88"
 [1] "--XGoT Model--"
-[1] "Score: Real Madrid 1.7443 to Atletico Madrid 0.8456"
-[1] "Total: 2.5899"
-[1] "Real Madrid %: 59.03"
-[1] "Draw %: 23.24"
-[1] "Atletico Madrid %: 17.73"
+[1] "Score: Real Madrid 1.8122 to Atletico Madrid 0.7713"
+[1] "Total: 2.5835"
+[1] "Real Madrid %: 62.69"
+[1] "Draw %: 22.42"
+[1] "Atletico Madrid %: 14.89"
 [1] "--XA Model--"
-[1] "Score: Real Madrid 1.6819 to Atletico Madrid 0.8258"
-[1] "Total: 2.5077"
-[1] "Real Madrid %: 57.98"
-[1] "Draw %: 23.88"
-[1] "Atletico Madrid %: 18.14"
+[1] "Score: Real Madrid 1.7643 to Atletico Madrid 0.8178"
+[1] "Total: 2.5821"
+[1] "Real Madrid %: 59.59"
+[1] "Draw %: 23.45"
+[1] "Atletico Madrid %: 16.96"
 [1] "--Mean 4 Models--"
-[1] "Real Madrid has a mean win % of 57.07%; a min win % of 52.26%; a max win % of 59.03%."
-[1] "Draw has a mean win % of 23.99%; a min win % of 23.24%; a max win % of 25.43%."
-[1] "Atletico Madrid has a mean win % of 18.94%; a min win % of 17.58%; a max win of % 22.31%."
-[1] "Real Madrid has a mean win of the Double Chance of 81.06%; a min win % of 77.69%, a max win % of 82.42%."
-[1] "Atletico Madrid has a mean win of the Double Chance of 42.93%; a min win % of 40.97%, a max win % of 47.74%."
-[1] "The mean likelihood that there are more than 2.5 goals is 45.9%; max % is 47.13 and min % is 45.13%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 54.1%; max % is 54.87 and min % is 52.87%."
+[1] "Real Madrid has a mean win % of 58.28%; a min win % of 49.65%; a max win % of 62.69%."
+[1] "Draw has a mean win % of 23.6%; a min win % of 22.42%; a max win % of 25.59%."
+[1] "Atletico Madrid has a mean win % of 18.12%; a min win % of 14.89%; a max win of % 24.76%."
+[1] "Real Madrid has a mean win of the Double Chance of 81.88%; a min win % of 75.24%, a max win % of 85.11%."
+[1] "Atletico Madrid has a mean win of the Double Chance of 41.72%; a min win % of 37.31%, a max win % of 50.35%."
+[1] "The mean likelihood that there are more than 2.5 goals is 46.18%; max % is 47.28 and min % is 43.39%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 53.82%; max % is 56.61 and min % is 52.72%."
 [1] "--Sportsbook Odds--"
-[1] "Real Madrid Barstool Odds are: 56.52"
-[1] "The Barstool Odds of a Draw are: 27.78"
-[1] "Atletico Madrid Barstool Odds are: 21.74"
-[1] "Real Madrid Adjusted Barstool Odds are: 53.301"
-[1] "The Adjusted Barstool Odds of a Draw are: 26.198"
-[1] "Atletico Madrid Adjusted Barstool Odds are: 20.502"
+[1] "Real Madrid Barstool Odds are: 57.14"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Atletico Madrid Barstool Odds are: 19.23"
+[1] "Real Madrid Adjusted Barstool Odds are: 54.018"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.803"
+[1] "Atletico Madrid Adjusted Barstool Odds are: 18.179"
 [1] "Real Madrid's Barstool Odds to cover the -0.5 spread are: 55.87"
-[1] "Atletico Madrid's Barstool Odds to cover the 0.5 spread are: 48.78"
-[1] "Barstool's line for the total is 2.5 at 1.9, which is a 52.63% chance of the over 2.5 hitting. The line for the under is 1.9, which is a 52.63% chance of the under 2.5 hitting."
+[1] "Atletico Madrid's Barstool Odds to cover the 0.5 spread are: 48.54"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.72, which is a 58.14% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                                bet           date_time
-1 under Real Madrid/Atletico Madrid 2023-02-25 09:30:00
+  bet           date_time
+1     2023-02-25 09:30:00
 
 
 |player          |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
 |:---------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
-|Antonio Rudiger |RMD  |     64| 1.59|          NA|  0.7985|   0.1696|passes    |ESP Spain |      0.6289|         NA|        NA|         NA|       NA|
+|Antonio Rudiger |RMD  |     72| 2.16|          NA|  0.7633|   0.3003|passes    |ESP Spain |      0.4630|         NA|        NA|         NA|       NA|
+|Antonio Rudiger |RMD  |     68| 1.86|          NA|  0.8818|   0.3442|passes    |ESP Spain |      0.5376|         NA|        NA|         NA|       NA|
+|Antonio Rudiger |RMD  |     76| 2.40|          NA|  0.6018|   0.1851|passes    |ESP Spain |      0.4167|         NA|        NA|         NA|       NA|
+|Antonio Rudiger |RMD  |     64| 1.59|          NA|  0.9516|   0.3227|passes    |ESP Spain |      0.6289|         NA|        NA|         NA|       NA|
+|Nacho           |RMD  |     53| 1.57|          NA|  0.7516|   0.1147|passes    |ESP Spain |      0.6369|         NA|        NA|         NA|       NA|
+|Eder Militao    |RMD  |     62| 1.82|          NA|  0.7508|   0.2013|passes    |ESP Spain |      0.5495|         NA|        NA|         NA|       NA|
+|Eder Militao    |RMD  |     66| 2.13|          NA|  0.5729|   0.1034|passes    |ESP Spain |      0.4695|         NA|        NA|         NA|       NA|
+|Eder Militao    |RMD  |     58| 1.56|          NA|  0.8812|   0.2402|passes    |ESP Spain |      0.6410|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                           |team            | expected_attg| expected_gs|bet |
 |:----------------------------------|:---------------|-------------:|-----------:|:---|
 |/players/170323/thibaut-courtois   |Real Madrid     |      0.000000|   0.0526316|    |
-|/players/359193/lucas-vzquez       |Real Madrid     |      0.036675|   0.1724138|    |
-|/players/844415/der-militao        |Real Madrid     |      0.060125|   0.1000000|    |
-|/players/282674/daniel-carvajal    |Real Madrid     |      0.001725|   0.0555556|    |
-|/players/276738/antonio-rdiger     |Real Madrid     |      0.051925|   0.0769231|    |
-|/players/914458/aurlien-tchouaméni |Real Madrid     |      0.038700|   0.1176471|    |
-|/players/95078/toni-kroos          |Real Madrid     |      0.095650|   0.1538462|    |
-|/players/31097/luka-modric         |Real Madrid     |      0.125925|   0.1960784|    |
-|/players/498033/marco-asensio      |Real Madrid     |      0.202375|   0.3125000|    |
-|/players/846033/vinicius-junior    |Real Madrid     |      0.249750|   0.3448276|    |
-|/players/26166/karim-benzema       |Real Madrid     |      0.399650|   0.5000000|    |
-|/players/177126/jan-oblak          |Atletico Madrid |      0.000000|   0.1052632|    |
-|/players/726345/nahuel-molina      |Atletico Madrid |      0.021600|   0.0526316|    |
-|/players/474589/jos-giménez        |Atletico Madrid |      0.025950|   0.0625000|    |
-|/players/178955/stefan-savic       |Atletico Madrid |      0.024850|   0.0232558|    |
-|/players/600524/reinildo           |Atletico Madrid |      0.022550|   0.0322581|    |
-|/players/602563/marcos-llorente    |Atletico Madrid |      0.066975|   0.1250000|    |
-|/players/324578/rodrigo-de-paul    |Atletico Madrid |      0.117550|   0.0769231|    |
-|/players/214972/geoffrey-kondogbia |Atletico Madrid |      0.007750|   0.0714286|    |
-|/players/184533/koke               |Atletico Madrid |      0.040375|   0.0909091|    |
-|/players/184138/antoine-griezmann  |Atletico Madrid |      0.146475|   0.2380952|    |
-|/players/213501/lvaro-morata       |Atletico Madrid |      0.210100|   0.2941176|    |
-|/players/1015185/eduardo-camavinga |Real Madrid     |      0.005950|   0.1538462|    |
-|/players/107417/eden-hazard        |Real Madrid     |      0.086775|   0.3030303|    |
-|/players/743533/federico-valverde  |Real Madrid     |      0.016975|   0.2380952|    |
-|/players/531629/daniel-ceballos    |Real Madrid     |      0.023000|   0.1923077|    |
-|/players/432950/ngel-correa        |Atletico Madrid |      0.019375|   0.2272727|    |
-|/players/354467/yannick-carrasco   |Atletico Madrid |      0.015925|   0.1538462|    |
-|/players/468931/thomas-lemar       |Atletico Madrid |      0.003675|   0.1960784|    |
-|/players/303824/memphis-depay      |Atletico Madrid |      0.031875|   0.2941176|    |
+|/players/282674/daniel-carvajal    |Real Madrid     |      0.002675|   0.1923077|    |
+|/players/844415/der-militao        |Real Madrid     |      0.110275|   0.2941176|    |
+|/players/276738/antonio-rdiger     |Real Madrid     |      0.101375|   0.2272727|    |
+|/players/213499/nacho-fernandez    |Real Madrid     |      0.004325|   0.2631579|    |
+|/players/743533/federico-valverde  |Real Madrid     |      0.118525|   0.1666667|    |
+|/players/95078/toni-kroos          |Real Madrid     |      0.097425|   0.0666667|    |
+|/players/531629/daniel-ceballos    |Real Madrid     |      0.027350|   0.1923077|    |
+|/players/498033/marco-asensio      |Real Madrid     |      0.193375|   0.2127660|    |
+|/players/26166/karim-benzema       |Real Madrid     |      0.376500|   0.0714286|*   |
+|/players/846033/vinicius-junior    |Real Madrid     |      0.228825|   0.1666667|*   |
+|/players/184138/antoine-griezmann  |Atletico Madrid |      0.162900|   0.2272727|    |
+|/players/354467/yannick-carrasco   |Atletico Madrid |      0.108975|   0.1923077|    |
+|/players/309334/saul-niguez        |Atletico Madrid |      0.103400|   0.1250000|    |
+|/players/184533/koke               |Atletico Madrid |      0.057250|   0.0500000|    |
+|/players/1338192/pablo-barrios     |Atletico Madrid |      0.032075|   0.1250000|    |
+|/players/602563/marcos-llorente    |Atletico Madrid |      0.091200|   0.2127660|    |
+|/players/600524/reinildo           |Atletico Madrid |      0.021000|   0.1694915|    |
+|/players/671203/mario-hermoso      |Atletico Madrid |      0.022575|   0.0833333|    |
+|/players/178955/stefan-savic       |Atletico Madrid |      0.026975|   0.0434783|    |
+|/players/726345/nahuel-molina      |Atletico Madrid |      0.022725|   0.2857143|    |
+|/players/177126/jan-oblak          |Atletico Madrid |      0.000000|   0.1111111|    |
+|/players/1015185/eduardo-camavinga |Real Madrid     |      0.055675|   0.0000000|*   |
+|/players/359193/lucas-vzquez       |Real Madrid     |      0.024100|   0.0000000|    |
+|/players/914458/aurlien-tchouaméni |Real Madrid     |      0.004975|   0.0000000|    |
+|/players/31097/luka-modric         |Real Madrid     |      0.104000|   0.0000000|*   |
+|/players/432950/ngel-correa        |Atletico Madrid |      0.055850|   0.0000000|*   |
+|/players/213501/lvaro-morata       |Atletico Madrid |      0.032275|   0.0000000|    |
+|/players/468931/thomas-lemar       |Atletico Madrid |      0.007775|   0.0000000|    |
+|/players/39591/axel-witsel         |Atletico Madrid |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Real Madrid:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/170323/thibaut-courtois   |           0|         33.2700|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/359193/lucas-vzquez       |           1|         63.1265|           1.8844|        0.1098|         0.7636|      0.0664|        0.0444|      0.1823| 82.0000|
-|/players/844415/der-militao        |           1|         61.8515|           1.7013|        0.2681|         0.6050|      0.0603|        0.0681|      0.0085| 90.0000|
-|/players/282674/daniel-carvajal    |           1|         57.4085|           1.5897|        0.0990|         0.3442|      0.0177|        0.0018|      0.0787| 90.0000|
-|/players/276738/antonio-rdiger     |           1|         71.6226|           0.9211|        0.1701|         0.6865|      0.0756|        0.0642|      0.0160| 90.0000|
-|/players/914458/aurlien-tchouaméni |           3|         45.1668|           2.5424|        0.2604|         1.2294|      0.1135|        0.0464|      0.0708| 81.6316|
-|/players/95078/toni-kroos          |           3|         74.0095|           1.5316|        0.4894|         1.5270|      0.0959|        0.1152|      0.1600| 90.0000|
-|/players/31097/luka-modric         |           3|         54.5235|           1.1775|        0.3912|         1.0447|      0.1346|        0.1517|      0.1222| 81.8750|
-|/players/498033/marco-asensio      |           5|         28.1982|           0.6411|        0.8259|         2.1063|      0.2263|        0.2536|      0.1145| 74.6061|
-|/players/846033/vinicius-junior    |           5|         31.1808|           1.7934|        0.8567|         1.9298|      0.3254|        0.3155|      0.2023| 90.0000|
-|/players/26166/karim-benzema       |           5|         34.4012|           0.4633|        1.2734|         3.2537|      0.5586|        0.5739|      0.1726| 90.0000|
-|/players/1015185/eduardo-camavinga |           0|              NA|               NA|        0.0627|         0.1868|      0.0151|        0.0063|      0.0200| 15.3939|
-|/players/107417/eden-hazard        |           0|              NA|               NA|        0.1171|         0.1328|      0.0872|        0.1062|      0.0170|  8.3684|
-|/players/743533/federico-valverde  |           0|              NA|               NA|        0.1241|         0.2640|      0.0152|        0.0189|      0.0204|  8.1250|
-|/players/531629/daniel-ceballos    |           0|              NA|               NA|        0.0795|         0.2028|      0.0167|        0.0258|      0.0049|  8.0000|
+|/players/170323/thibaut-courtois   |           0|         33.3523|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/282674/daniel-carvajal    |           1|         57.9914|           1.5881|        0.0998|         0.4250|      0.0197|        0.0033|      0.2067| 82.4783|
+|/players/844415/der-militao        |           1|         68.1774|           1.8545|        0.2947|         0.8153|      0.0732|        0.1320|      0.0243| 90.0000|
+|/players/276738/antonio-rdiger     |           1|         78.9479|           1.0041|        0.1871|         0.9251|      0.0918|        0.1244|      0.0458| 90.0000|
+|/players/213499/nacho-fernandez    |           1|         58.7975|           1.3938|        0.0380|         0.3242|      0.0242|        0.0045|      0.0448| 90.0000|
+|/players/743533/federico-valverde  |           3|         43.8475|           1.9063|        0.5432|         1.5828|      0.1457|        0.1454|      0.1169| 90.0000|
+|/players/95078/toni-kroos          |           3|         67.8705|           1.5070|        0.5331|         1.3705|      0.0980|        0.1158|      0.1495| 84.0000|
+|/players/531629/daniel-ceballos    |           3|         54.6822|           1.9487|        0.1111|         0.5235|      0.0309|        0.0327|      0.1009| 78.7500|
+|/players/498033/marco-asensio      |           5|         27.0284|           0.5412|        0.7114|         1.9400|      0.2343|        0.2380|      0.1041| 74.6061|
+|/players/26166/karim-benzema       |           5|         32.9742|           0.3911|        1.0968|         2.9968|      0.5782|        0.5385|      0.1570| 90.0000|
+|/players/846033/vinicius-junior    |           5|         29.8873|           1.5139|        0.7380|         1.7774|      0.3368|        0.2960|      0.1839| 90.0000|
+|/players/1015185/eduardo-camavinga |           0|              NA|               NA|        0.1787|         0.2719|      0.0445|        0.0693|      0.0343| 15.3939|
+|/players/359193/lucas-vzquez       |           0|              NA|               NA|        0.0838|         0.1530|      0.0796|        0.0268|      0.0538| 11.2500|
+|/players/914458/aurlien-tchouaméni |           0|              NA|               NA|        0.0635|         0.6375|      0.0298|        0.0065|      0.0124|  7.5217|
+|/players/31097/luka-modric         |           0|              NA|               NA|        0.1764|         0.3624|      0.0838|        0.1268|      0.0382|  6.0000|
 
 
 |manager_name    | approx_games| m_avg_elo_dif|formation |
@@ -118,40 +125,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Atletico Madrid:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/177126/jan-oblak          |           0|         27.6292|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/726345/nahuel-molina      |           1|         42.6640|           1.6048|        0.0735|         0.3331|      0.0123|        0.0261|      0.1125| 90.0000|
-|/players/474589/jos-giménez        |           1|         42.2373|           0.9365|        0.1701|         0.8262|      0.0715|        0.0261|      0.0071| 90.0000|
-|/players/178955/stefan-savic       |           1|         43.7218|           1.1821|        0.1240|         0.3515|      0.0557|        0.0277|      0.0085| 90.0000|
-|/players/600524/reinildo           |           1|         37.0406|           2.6269|        0.0735|         0.1104|      0.0092|        0.0261|      0.0210| 90.0000|
-|/players/602563/marcos-llorente    |           3|         25.8193|           1.6320|        0.3687|         0.8498|      0.0540|        0.0754|      0.0801| 82.9792|
-|/players/324578/rodrigo-de-paul    |           3|         37.7557|           1.0728|        0.4623|         1.2447|      0.1241|        0.1438|      0.1284| 82.3731|
-|/players/214972/geoffrey-kondogbia |           3|         35.4686|           2.8265|        0.1702|         1.0460|      0.0415|        0.0097|      0.0161| 83.3462|
-|/players/184533/koke               |           3|         47.0616|           1.6023|        0.1106|         0.4673|      0.0639|        0.0441|      0.0689| 90.0000|
-|/players/184138/antoine-griezmann  |           5|         30.8269|           1.1741|        0.5638|         1.7446|      0.2159|        0.1789|      0.0906| 90.0000|
-|/players/213501/lvaro-morata       |           5|         14.8194|           0.4182|        0.7249|         1.7172|      0.2529|        0.2594|      0.0420| 76.6491|
-|/players/432950/ngel-correa        |           0|              NA|               NA|        0.0982|         0.2213|      0.0217|        0.0211|      0.0139| 13.3509|
-|/players/354467/yannick-carrasco   |           0|              NA|               NA|        0.0565|         0.1082|      0.0105|        0.0175|      0.0067|  7.6269|
-|/players/468931/thomas-lemar       |           0|              NA|               NA|        0.0080|         0.0452|      0.0071|        0.0046|      0.0045|  7.0208|
-|/players/303824/memphis-depay      |           0|              NA|               NA|        0.0669|         0.1319|      0.0330|        0.0355|      0.0066|  6.6538|
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/184138/antoine-griezmann |           5|         21.2887|           0.9257|        0.5872|         1.8137|      0.2379|        0.1870|      0.0420| 90.0000|
+|/players/354467/yannick-carrasco  |           3|         23.6863|           0.8672|        0.4268|         1.5198|      0.1746|        0.1200|      0.1348| 77.6383|
+|/players/309334/saul-niguez       |           3|         31.9274|           2.0941|        0.5672|         1.3990|      0.1273|        0.1123|      0.0326| 78.9286|
+|/players/184533/koke              |           3|         47.9612|           1.4187|        0.1567|         0.5940|      0.0933|        0.0611|      0.0749| 90.0000|
+|/players/1338192/pablo-barrios    |           3|         22.9222|           0.9534|        0.0900|         0.3840|      0.0228|        0.0351|      0.0140| 51.6667|
+|/players/602563/marcos-llorente   |           3|         26.3128|           1.4450|        0.5224|         1.0801|      0.0789|        0.1043|      0.0870| 82.9792|
+|/players/600524/reinildo          |           1|         33.9461|           2.5426|        0.0698|         0.1042|      0.0056|        0.0239|      0.0177| 90.0000|
+|/players/671203/mario-hermoso     |           1|         47.4403|           1.2634|        0.2339|         0.8895|      0.0499|        0.0239|      0.0285| 90.0000|
+|/players/178955/stefan-savic      |           1|         40.0691|           1.1442|        0.1178|         0.3319|      0.0341|        0.0290|      0.0072| 90.0000|
+|/players/726345/nahuel-molina     |           1|         39.0997|           1.5534|        0.0698|         0.3145|      0.0075|        0.0239|      0.0949| 90.0000|
+|/players/177126/jan-oblak         |           0|         28.0805|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/432950/ngel-correa       |           0|              NA|               NA|        0.2293|         0.5439|      0.0710|        0.0603|      0.0361| 38.3333|
+|/players/213501/lvaro-morata      |           0|              NA|               NA|        0.0646|         0.2348|      0.0363|        0.0324|      0.0119| 12.3617|
+|/players/468931/thomas-lemar      |           0|              NA|               NA|        0.0340|         0.1323|      0.0136|        0.0087|      0.0166| 11.0714|
+|/players/39591/axel-witsel        |           0|              NA|               NA|        0.0000|         0.0363|      0.0002|        0.0000|      0.0007|  7.0208|
 
 
 |manager_name  | approx_games| m_avg_elo_dif|formation |
 |:-------------|------------:|-------------:|:---------|
 |Diego Simeone |     120.6354|      10.96108|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918165/Soccer_Models'...
-Receiving objects:   1% (45/4464),   63 kb
-Receiving objects:  11% (492/4464),  127 kb
-Receiving objects:  21% (938/4464),  183 kb
-Receiving objects:  31% (1384/4464),  351 kb
-Receiving objects:  41% (1831/4464),  856 kb
-Receiving objects:  51% (2277/4464),  968 kb
-Receiving objects:  61% (2724/4464), 1360 kb
-Receiving objects:  71% (3170/4464), 10261 kb
-Receiving objects:  81% (3616/4464), 10541 kb
-Receiving objects:  91% (4063/4464), 10766 kb
-Receiving objects: 100% (4464/4464), 11144 kb, done.
+Receiving objects:   1% (48/4722),   63 kb
+Receiving objects:  11% (520/4722),  127 kb
+Receiving objects:  21% (992/4722),  239 kb
+Receiving objects:  31% (1464/4722),  407 kb
+Receiving objects:  41% (1937/4722),  856 kb
+Receiving objects:  51% (2409/4722), 1080 kb
+Receiving objects:  61% (2881/4722), 5731 kb
+Receiving objects:  71% (3353/4722), 10381 kb
+Receiving objects:  81% (3825/4722), 10718 kb
+Receiving objects:  91% (4298/4722), 10830 kb
+Receiving objects: 100% (4722/4722), 11349 kb, done.
