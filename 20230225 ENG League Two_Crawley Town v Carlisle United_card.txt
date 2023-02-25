@@ -1,0 +1,153 @@
+[1] "Updated at 2023-02-24 21:16:05.935"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Crawley Town 1.2153 to Carlisle United 1.311"
+[1] "Total: 2.5263"
+[1] "Crawley Town %: 34.77"
+[1] "Draw %: 27.18"
+[1] "Carlisle United %: 38.05"
+[1] "--XG Model--"
+[1] "Score: Crawley Town 1.2264 to Carlisle United 1.3704"
+[1] "Total: 2.5968"
+[1] "Crawley Town %: 33.85"
+[1] "Draw %: 26.66"
+[1] "Carlisle United %: 39.49"
+[1] "--XGoT Model--"
+[1] "Score: Crawley Town 1.1312 to Carlisle United 1.3699"
+[1] "Total: 2.5011"
+[1] "Crawley Town %: 31.58"
+[1] "Draw %: 26.86"
+[1] "Carlisle United %: 41.56"
+[1] "--XA Model--"
+[1] "Score: Crawley Town 1.1878 to Carlisle United 1.168"
+[1] "Total: 2.3558"
+[1] "Crawley Town %: 36.52"
+[1] "Draw %: 28.19"
+[1] "Carlisle United %: 35.29"
+[1] "--Mean 4 Models--"
+[1] "Crawley Town has a mean win % of 34.18%; a min win % of 31.58%; a max win % of 36.52%."
+[1] "Draw has a mean win % of 27.22%; a min win % of 26.66%; a max win % of 28.19%."
+[1] "Carlisle United has a mean win % of 38.6%; a min win % of 35.29%; a max win of % 41.56%."
+[1] "Crawley Town has a mean win of the Double Chance of 61.4%; a min win % of 58.44%, a max win % of 64.71%."
+[1] "Carlisle United has a mean win of the Double Chance of 65.82%; a min win % of 63.48%, a max win % of 68.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.59%; max % is 47.01 and min % is 40.94%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.41%; max % is 59.06 and min % is 52.99%."
+[1] "--Sportsbook Odds--"
+[1] "Crawley Town Barstool Odds are: 26.32"
+[1] "The Barstool Odds of a Draw are: 29.41"
+[1] "Carlisle United Barstool Odds are: 51.28"
+[1] "Crawley Town Adjusted Barstool Odds are: 24.596"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.483"
+[1] "Carlisle United Adjusted Barstool Odds are: 47.921"
+[1] "Crawley Town's Barstool Odds to cover the 0.5 spread are: 54.95"
+[1] "Carlisle United's Barstool Odds to cover the -0.5 spread are: 51.55"
+[1] "Barstool's line for the total is 2.5 at 2.05, which is a 48.78% chance of the over 2.5 hitting. The line for the under is 1.7, which is a 58.82% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+               bet           date_time
+1     Crawley Town 2023-02-25 07:00:00
+2 Crawley Town ATS 2023-02-25 07:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team            | expected_attg| expected_gs|bet |
+|:------------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/728127/corey-addai          |Crawley Town    |      0.000000|   0.0909091|    |
+|/players/25161/joel-lynch            |Crawley Town    |      0.027175|   0.0333333|    |
+|/players/910949/harry-ransom         |Crawley Town    |      0.025800|   0.0333333|    |
+|/players/1101143/ludwig-francillette |Crawley Town    |      0.032325|   0.0500000|    |
+|/players/1206282/nicholas-tsaroulla  |Crawley Town    |      0.028250|   0.0555556|    |
+|/players/636392/james-tilley         |Crawley Town    |      0.122900|   0.2040816|    |
+|/players/522123/jack-powell          |Crawley Town    |      0.051200|   0.1250000|    |
+|/players/301238/ben-gladwin          |Crawley Town    |      0.050550|   0.1538462|    |
+|/players/1149980/caleb-chukwuemeka   |Crawley Town    |      0.153950|   0.0909091|*   |
+|/players/564813/dominic-telford      |Crawley Town    |      0.231650|   0.3921569|    |
+|/players/767038/ashley-nadesan       |Crawley Town    |      0.230350|   0.2564103|    |
+|/players/279395/tomas-holy           |Carlisle United |      0.000000|   0.3389831|    |
+|/players/760343/morgan-feeney        |Carlisle United |      0.087525|   0.1111111|    |
+|/players/24221/paul-huntington       |Carlisle United |      0.005325|   0.1111111|    |
+|/players/842718/jon-mellish          |Carlisle United |      0.009450|   0.1250000|    |
+|/players/877444/jordan-gibson        |Carlisle United |      0.202625|   0.1818182|    |
+|/players/1285822/fin-back            |Carlisle United |      0.013625|   0.1111111|    |
+|/players/662732/owen-moxon           |Carlisle United |      0.116475|   0.1818182|    |
+|/players/747107/callum-guy           |Carlisle United |      0.021100|   0.1818182|    |
+|/players/1075210/jack-armer          |Carlisle United |      0.062750|   0.1000000|    |
+|/players/938518/ryan-edmondson       |Carlisle United |      0.120750|   0.0588235|*   |
+|/players/109960/kristian-dennis      |Carlisle United |      0.351525|   0.4000000|    |
+|/players/1049811/teddy-jenks         |Crawley Town    |      0.000000|   0.2564103|    |
+|/players/911494/aramide-oteh         |Crawley Town    |      0.077750|   0.2127660|    |
+|/players/1118483/tom-fellows         |Crawley Town    |      0.000000|   0.2127660|    |
+|/players/1308664/jayden-davis        |Crawley Town    |      0.000000|   0.1694915|    |
+|/players/49533/joe-garner            |Carlisle United |      0.043425|   0.3225806|    |
+|/players/873238/jayden-harris        |Carlisle United |      0.000000|   0.1428571|    |
+|/players/702939/omari-patrick        |Carlisle United |      0.046650|   0.3030303|    |
+|/players/702939/omari-patrick        |Carlisle United |      0.046650|   0.3030303|    |
+____________________________________________________
+
+[1] "Facts about Crawley Town:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/728127/corey-addai          |           0|         31.9524|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/25161/joel-lynch            |           1|         42.9465|           0.7003|        0.0900|         0.2947|      0.0235|        0.0252|      0.0143| 75.4706|
+|/players/910949/harry-ransom         |           1|         34.4247|           0.6867|        0.0883|         0.5566|      0.0523|        0.0248|      0.0118| 74.0000|
+|/players/1101143/ludwig-francillette |           1|         44.8500|           1.8479|        0.1074|         0.4073|      0.0301|        0.0301|      0.0188| 90.0000|
+|/players/1206282/nicholas-tsaroulla  |           1|         43.4520|           2.3836|        0.2247|         0.6946|      0.0280|        0.0301|      0.1737| 90.0000|
+|/players/636392/james-tilley         |           3|         20.9563|           2.1314|        0.4828|         1.5435|      0.1385|        0.1218|      0.0193| 78.6190|
+|/players/522123/jack-powell          |           3|         54.2537|           1.8416|        0.1826|         0.6448|      0.0193|        0.0483|      0.0740| 90.0000|
+|/players/301238/ben-gladwin          |           3|         44.7156|           1.5219|        0.2142|         0.9675|      0.0607|        0.0483|      0.1430| 90.0000|
+|/players/1149980/caleb-chukwuemeka   |           5|         15.4779|           1.3189|        0.3616|         0.9618|      0.1433|        0.1502|      0.0641| 55.0000|
+|/players/564813/dominic-telford      |           5|         20.3084|           0.1084|        1.1080|         3.0982|      0.2345|        0.2458|      0.1049| 90.0000|
+|/players/767038/ashley-nadesan       |           5|         25.0216|           0.3638|        0.5917|         1.6132|      0.2345|        0.2458|      0.1049| 90.0000|
+|/players/1049811/teddy-jenks         |           0|              NA|               NA|        0.0000|         0.3444|      0.0347|        0.0000|      0.0141| 35.0000|
+|/players/911494/aramide-oteh         |           0|              NA|               NA|        0.4528|         0.6132|      0.0325|        0.0805|      0.0011| 16.0000|
+|/players/1118483/tom-fellows         |           0|              NA|               NA|        0.0000|         0.2244|      0.0285|        0.0000|      0.0087| 14.5294|
+|/players/1308664/jayden-davis        |           0|              NA|               NA|        0.0000|         0.0875|      0.0012|        0.0000|      0.0143| 11.3810|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Scott Lindsey |     26.63131|      2.315714|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Carlisle United:"
+[1] "Lineup: matt predicted"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/279395/tomas-holy      |           0|         29.1847|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/760343/morgan-feeney   |           1|         43.7636|           1.0590|        0.1515|         0.4613|      0.0563|        0.0956|      0.0383| 90.0000|
+|/players/24221/paul-huntington  |           1|         43.9443|           0.9996|        0.1609|         0.5025|      0.0438|        0.0052|      0.0095| 90.0000|
+|/players/842718/jon-mellish     |           1|         43.9627|           2.3674|        0.0535|         0.3507|      0.0357|        0.0108|      0.0397| 90.0000|
+|/players/877444/jordan-gibson   |           3|         31.9893|           1.9477|        0.7540|         1.6746|      0.1194|        0.2290|      0.1913| 90.0000|
+|/players/1285822/fin-back       |           3|         28.0024|           1.9889|        0.2562|         0.4517|      0.0471|        0.0144|      0.0326| 81.4545|
+|/players/662732/owen-moxon      |           3|         42.6161|           2.2457|        0.2743|         1.5232|      0.1253|        0.1323|      0.1615| 90.0000|
+|/players/747107/callum-guy      |           3|         33.5331|           1.4528|        0.1566|         0.7660|      0.0381|        0.0239|      0.0256| 84.7292|
+|/players/1075210/jack-armer     |           3|         30.8888|           1.4062|        0.2089|         0.7181|      0.0919|        0.0677|      0.0792| 90.0000|
+|/players/938518/ryan-edmondson  |           5|         17.5685|           0.7944|        0.4696|         1.1498|      0.2093|        0.1406|      0.0611| 73.5789|
+|/players/109960/kristian-dennis |           5|         16.3762|           0.4543|        1.1638|         2.7309|      0.3020|        0.4521|      0.0898| 79.0435|
+|/players/49533/joe-garner       |           0|              NA|               NA|        0.2621|         0.7594|      0.0518|        0.0466|      0.0230| 16.4211|
+|/players/873238/jayden-harris   |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0029| 10.9565|
+|/players/702939/omari-patrick   |           0|              NA|               NA|        0.1511|         0.3753|      0.0519|        0.0431|      0.0049|  8.5455|
+|/players/702939/omari-patrick   |           0|              NA|               NA|        0.0656|         0.0815|      0.0037|        0.0075|      0.0074|  5.2708|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Paul Simpson |     31.84444|     -1.563261|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3916777/Soccer_Models'...
+Receiving objects:   1% (47/4671),   63 kb
+Receiving objects:  11% (514/4671),  127 kb
+Receiving objects:  21% (981/4671),  239 kb
+Receiving objects:  31% (1449/4671),  407 kb
+Receiving objects:  41% (1916/4671),  856 kb
+Receiving objects:  51% (2383/4671), 1080 kb
+Receiving objects:  61% (2850/4671), 5394 kb
+Receiving objects:  71% (3317/4671), 10325 kb
+Receiving objects:  81% (3784/4671), 10662 kb
+Receiving objects:  91% (4251/4671), 10830 kb
+Receiving objects: 100% (4671/4671), 11305 kb, done.
