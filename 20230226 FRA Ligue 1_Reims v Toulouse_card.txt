@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 12:26:35.141"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Reims 1.6515 to Toulouse 1.0742"
+[1] "Total: 2.7257"
+[1] "Reims %: 51.53"
+[1] "Draw %: 24.11"
+[1] "Toulouse %: 24.36"
+[1] "--XG Model--"
+[1] "Score: Reims 1.7307 to Toulouse 0.9763"
+[1] "Total: 2.707"
+[1] "Reims %: 55.32"
+[1] "Draw %: 23.79"
+[1] "Toulouse %: 20.89"
+[1] "--XGoT Model--"
+[1] "Score: Reims 1.8158 to Toulouse 0.997"
+[1] "Total: 2.8128"
+[1] "Reims %: 56.96"
+[1] "Draw %: 22.74"
+[1] "Toulouse %: 20.3"
+[1] "--XA Model--"
+[1] "Score: Reims 1.7496 to Toulouse 1.0907"
+[1] "Total: 2.8403"
+[1] "Reims %: 53.86"
+[1] "Draw %: 23.46"
+[1] "Toulouse %: 22.68"
+[1] "--Mean 4 Models--"
+[1] "Reims has a mean win % of 54.42%; a min win % of 51.53%; a max win % of 56.96%."
+[1] "Draw has a mean win % of 23.53%; a min win % of 22.74%; a max win % of 24.11%."
+[1] "Toulouse has a mean win % of 22.06%; a min win % of 20.3%; a max win of % 24.36%."
+[1] "Reims has a mean win of the Double Chance of 77.94%; a min win % of 75.64%, a max win % of 79.7%."
+[1] "Toulouse has a mean win of the Double Chance of 45.58%; a min win % of 43.04%, a max win % of 48.47%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.55%; max % is 53.56 and min % is 49.72%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.45%; max % is 50.28 and min % is 46.44%."
+[1] "--Sportsbook Odds--"
+[1] "Reims Barstool Odds are: 47.62"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Toulouse Barstool Odds are: 30.77"
+[1] "Reims Adjusted Barstool Odds are: 44.853"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.166"
+[1] "Toulouse Adjusted Barstool Odds are: 28.982"
+[1] "Reims's Barstool Odds to cover the -0.25 spread are: 53.48"
+[1] "Toulouse's Barstool Odds to cover the 0.25 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 1.73, which is a 57.8% chance of the over 2.5 hitting. The line for the under is 2.1, which is a 47.62% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+    bet           date_time
+1 Reims 2023-02-26 06:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                              |team     | expected_attg| expected_gs|bet |
+|:-------------------------------------|:--------|-------------:|-----------:|:---|
+|/players/766574/yehvann-diouf         |Reims    |      0.000000|   0.2222222|    |
+|/players/346142/thomas-foket          |Reims    |      0.031850|   0.0312500|    |
+|/players/1406567/cheick-keita         |Reims    |      0.010475|   0.0416667|    |
+|/players/289001/yunis-abdelhamid      |Reims    |      0.131775|   0.0909091|    |
+|/players/784448/thibault-de-smet      |Reims    |      0.009150|   0.0416667|    |
+|/players/801120/jens-lys-cajuste      |Reims    |      0.106050|   0.2325581|    |
+|/players/797594/azor-matusiwa         |Reims    |      0.047725|   0.0555556|    |
+|/players/604044/junya-ito             |Reims    |      0.289725|   0.3571429|    |
+|/players/839680/myziane-maolida       |Reims    |      0.151450|   0.2777778|    |
+|/players/889521/alexis-flips          |Reims    |      0.209075|   0.2500000|    |
+|/players/982677/folarin-balogun       |Reims    |      0.326200|   0.5348837|    |
+|/players/490656/rafael-ratao          |Toulouse |      0.031225|   0.2857143|    |
+|/players/885085/thijs-dallinga        |Toulouse |      0.256700|   0.3333333|    |
+|/players/1345875/fares-chaibi         |Toulouse |      0.214750|   0.2631579|    |
+|/players/505059/branco-van-den-boomen |Toulouse |      0.162500|   0.2631579|    |
+|/players/614602/stijn-spierings       |Toulouse |      0.001900|   0.2173913|    |
+|/players/208929/brecht-dejaeghere     |Toulouse |      0.004050|   0.2380952|    |
+|/players/659490/gabriel-suazo         |Toulouse |      0.028300|   0.0555556|    |
+|/players/656491/rasmus-nicolaisen     |Toulouse |      0.026300|   0.1250000|    |
+|/players/1079554/anthony-rouault      |Toulouse |      0.029100|   0.1000000|    |
+|/players/402995/mikkel-desler         |Toulouse |      0.028075|   0.0303030|    |
+|/players/263511/maxime-dup            |Toulouse |      0.000000|   0.0370370|    |
+|/players/520659/arbr-zeneli           |Reims    |      0.000000|   0.2564103|    |
+|/players/709734/mitchel-van-bergen    |Reims    |      0.046225|   0.2127660|    |
+|/players/786580/marshall-munetsi      |Reims    |      0.105150|   0.2222222|    |
+|/players/1310270/kamory-doumbia       |Reims    |      0.002275|   0.2222222|    |
+|/players/846761/zakaria-aboukhlal     |Toulouse |      0.053050|   0.2702703|    |
+|/players/634310/vincent-sierro        |Toulouse |      0.013300|   0.2040816|    |
+|/players/940735/veljko-birmancevic    |Toulouse |      0.026400|   0.2173913|    |
+|/players/628310/ado-onaiwu            |Toulouse |      0.000000|   0.2631579|    |
+____________________________________________________
+
+[1] "Facts about Reims:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/766574/yehvann-diouf      |           0|         25.4144|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/346142/thomas-foket       |           1|         46.8700|           1.6646|        0.1118|         0.3776|      0.0185|        0.0319|      0.1076| 90.0000|
+|/players/1406567/cheick-keita      |           1|         38.7552|           1.0662|        0.1118|         0.1971|      0.0185|        0.0087|      0.0403| 90.0000|
+|/players/289001/yunis-abdelhamid   |           1|         59.3644|           1.8494|        0.2960|         1.5102|      0.1718|        0.1440|      0.0403| 90.0000|
+|/players/784448/thibault-de-smet   |           1|         49.9284|           1.9307|        0.1118|         0.1971|      0.0202|        0.0087|      0.0750| 90.0000|
+|/players/801120/jens-lys-cajuste   |           2|         38.0756|           1.9239|        0.4091|         1.2581|      0.1399|        0.1160|      0.0855| 76.8421|
+|/players/797594/azor-matusiwa      |           2|         58.6467|           2.4142|        0.1677|         0.6879|      0.0333|        0.0516|      0.0839| 90.0000|
+|/players/604044/junya-ito          |           3|         27.9194|           1.6406|        0.8017|         1.9608|      0.3177|        0.3370|      0.2225| 90.0000|
+|/players/839680/myziane-maolida    |           3|         31.6334|           1.1185|        0.4414|         1.4775|      0.1197|        0.1663|      0.1124| 75.7500|
+|/players/889521/alexis-flips       |           3|         22.7183|           0.9114|        0.7848|         1.8606|      0.2431|        0.2246|      0.1150| 67.6667|
+|/players/982677/folarin-balogun    |           5|         17.2237|           0.5649|        0.9209|         2.2792|      0.3968|        0.3849|      0.0835| 78.0000|
+|/players/520659/arbr-zeneli        |          NA|              NA|               NA|        0.0000|         0.5444|      0.0371|        0.0000|      0.0685| 22.3333|
+|/players/709734/mitchel-van-bergen |          NA|              NA|               NA|        0.1849|         0.3114|      0.0219|        0.0489|      0.0189| 14.2500|
+|/players/786580/marshall-munetsi   |          NA|              NA|               NA|        0.2968|         0.4498|      0.1149|        0.1093|      0.0063| 13.1579|
+|/players/1310270/kamory-doumbia    |          NA|              NA|               NA|        0.0666|         0.1682|      0.0271|        0.0024|      0.0195| 12.0000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Will Still   |     28.90606|     -2.182333|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Toulouse:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/490656/rafael-ratao          |           5|         24.8924|           1.6949|        0.5460|         1.5168|      0.1908|        0.0349|      0.1642| 72.7500|
+|/players/885085/thijs-dallinga        |           5|         20.2419|           0.6332|        1.0221|         2.4622|      0.3044|        0.3446|      0.0863| 90.0000|
+|/players/1345875/fares-chaibi         |           5|         21.2909|           0.7396|        0.4368|         1.2741|      0.1618|        0.2870|      0.0332| 84.0000|
+|/players/505059/branco-van-den-boomen |           3|         44.9144|           1.7612|        0.4810|         1.2327|      0.1763|        0.2028|      0.1503| 90.0000|
+|/players/614602/stijn-spierings       |           3|         49.7497|           2.2963|        0.1650|         0.6862|      0.0242|        0.0021|      0.0165| 84.4545|
+|/players/208929/brecht-dejaeghere     |           3|         25.6784|           1.5524|        0.1702|         0.8387|      0.0380|        0.0048|      0.0699| 76.7500|
+|/players/659490/gabriel-suazo         |           1|         39.0136|           2.4098|        0.0529|         0.3132|      0.0388|        0.0336|      0.0520| 90.0000|
+|/players/656491/rasmus-nicolaisen     |           1|         45.8668|           1.1188|        0.1297|         0.5381|      0.0388|        0.0336|      0.0520| 90.0000|
+|/players/1079554/anthony-rouault      |           1|         51.3629|           1.6042|        0.1944|         0.5988|      0.0388|        0.0336|      0.0520| 90.0000|
+|/players/402995/mikkel-desler         |           1|         44.1137|           1.6148|        0.1344|         0.3584|      0.0388|        0.0336|      0.0520| 90.0000|
+|/players/263511/maxime-dup            |           0|         28.0900|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/846761/zakaria-aboukhlal     |          NA|              NA|               NA|        0.2376|         0.6052|      0.0809|        0.0638|      0.0158| 17.2500|
+|/players/634310/vincent-sierro        |          NA|              NA|               NA|        0.0822|         0.2657|      0.0205|        0.0168|      0.0486| 13.2500|
+|/players/940735/veljko-birmancevic    |          NA|              NA|               NA|        0.0887|         0.2084|      0.0389|        0.0296|      0.0185|  6.0000|
+|/players/628310/ado-onaiwu            |          NA|              NA|               NA|        0.0311|         0.1464|      0.0023|        0.0000|      0.0025|  5.5455|
+
+
+|manager_name       | approx_games| m_avg_elo_dif|formation |
+|:------------------|------------:|-------------:|:---------|
+|Philippe Montanier |     48.79899|      8.677012|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904530/Soccer_Models'...
+Receiving objects:   1% (48/4800),   63 kb
+Receiving objects:  11% (528/4800),  127 kb
+Receiving objects:  21% (1008/4800),  239 kb
+Receiving objects:  31% (1488/4800),  463 kb
+Receiving objects:  41% (1968/4800),  856 kb
+Receiving objects:  51% (2448/4800), 1080 kb
+Receiving objects:  61% (2928/4800), 5787 kb
+Receiving objects:  71% (3408/4800), 10438 kb
+Receiving objects:  81% (3888/4800), 10718 kb
+Receiving objects:  91% (4368/4800), 10830 kb
+Receiving objects: 100% (4800/4800), 11424 kb, done.
