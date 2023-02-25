@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 12:16:27.034"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Lorient 1.8062 to Auxerre 1.2442"
+[1] "Total: 3.0504"
+[1] "Lorient %: 51.04"
+[1] "Draw %: 23.38"
+[1] "Auxerre %: 25.58"
+[1] "--XG Model--"
+[1] "Score: Lorient 1.4532 to Auxerre 1.0396"
+[1] "Total: 2.4928"
+[1] "Lorient %: 47.12"
+[1] "Draw %: 25.82"
+[1] "Auxerre %: 27.06"
+[1] "--XGoT Model--"
+[1] "Score: Lorient 1.5527 to Auxerre 0.9842"
+[1] "Total: 2.5369"
+[1] "Lorient %: 51.08"
+[1] "Draw %: 24.9"
+[1] "Auxerre %: 24.02"
+[1] "--XA Model--"
+[1] "Score: Lorient 1.749 to Auxerre 1.3131"
+[1] "Total: 3.0621"
+[1] "Lorient %: 48.36"
+[1] "Draw %: 23.75"
+[1] "Auxerre %: 27.89"
+[1] "--Mean 4 Models--"
+[1] "Lorient has a mean win % of 49.4%; a min win % of 47.12%; a max win % of 51.08%."
+[1] "Draw has a mean win % of 24.46%; a min win % of 23.38%; a max win % of 25.82%."
+[1] "Auxerre has a mean win % of 26.14%; a min win % of 24.02%; a max win of % 27.89%."
+[1] "Lorient has a mean win of the Double Chance of 73.86%; a min win % of 72.11%, a max win % of 75.98%."
+[1] "Auxerre has a mean win of the Double Chance of 50.6%; a min win % of 48.92%, a max win % of 52.88%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.6%; max % is 58.17 and min % is 44.35%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.4%; max % is 55.65 and min % is 41.83%."
+[1] "--Sportsbook Odds--"
+[1] "Lorient Barstool Odds are: 48.78"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Auxerre Barstool Odds are: 28.57"
+[1] "Lorient Adjusted Barstool Odds are: 46.054"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.973"
+[1] "Auxerre Adjusted Barstool Odds are: 26.973"
+[1] "Lorient's Barstool Odds to cover the -0.25 spread are: 54.95"
+[1] "Auxerre's Barstool Odds to cover the 0.25 spread are: 50.51"
+[1] "Barstool's line for the total is 2.5 at 1.94, which is a 51.55% chance of the over 2.5 hitting. The line for the under is 1.86, which is a 53.76% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-26 04:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team    | expected_attg| expected_gs|bet |
+|:------------------------------------|:-------|-------------:|-----------:|:---|
+|/players/37233/vito-mannone          |Lorient |      0.000000|   0.0526316|    |
+|/players/1022309/gdéon-kalulu        |Lorient |      0.053425|   0.0625000|    |
+|/players/1287489/bamo-meit           |Lorient |      0.020125|   0.1250000|    |
+|/players/846392/montassar-talbi      |Lorient |      0.086425|   0.1000000|    |
+|/players/188467/vincent-le-goff      |Lorient |      0.021700|   0.0833333|    |
+|/players/413525/laurent-abergel      |Lorient |      0.086050|   0.1111111|    |
+|/players/699461/jean-victor-makengo  |Lorient |      0.087025|   0.1428571|    |
+|/players/904021/romain-faivre        |Lorient |      0.257600|   0.2702703|    |
+|/players/1049999/enzo-le-fee         |Lorient |      0.059975|   0.2173913|    |
+|/players/1230848/ahmadou-bamba-dieng |Lorient |      0.267200|   0.3508772|    |
+|/players/928119/ibrahima-kon         |Lorient |      0.321075|   0.3703704|    |
+|/players/671326/nuno-da-costa        |Auxerre |      0.162725|   0.2702703|    |
+|/players/1250492/matthis-abline      |Auxerre |      0.277125|   0.2777778|    |
+|/players/708435/gatan-perrin         |Auxerre |      0.104600|   0.2500000|    |
+|/players/192316/mathias-autret       |Auxerre |      0.184700|   0.2083333|    |
+|/players/348408/birama-tour          |Auxerre |      0.008100|   0.1052632|    |
+|/players/978680/han-noah-massengo    |Auxerre |      0.011400|   0.0625000|    |
+|/players/771630/gideon-mensah        |Auxerre |      0.005075|   0.0250000|    |
+|/players/1180547/souleymane-tour     |Auxerre |      0.004550|   0.0588235|    |
+|/players/493731/jubal                |Auxerre |      0.108800|   0.0769231|    |
+|/players/542777/akim-zedadka         |Auxerre |      0.019850|   0.0909091|    |
+|/players/681213/ionut-andrei-radu    |Auxerre |      0.000000|   0.2500000|    |
+|/players/1047664/adil-aouchiche      |Lorient |      0.087925|   0.2439024|    |
+|/players/566675/bonke-innocent       |Lorient |      0.000000|   0.0714286|    |
+|/players/731036/stphane-diarra       |Lorient |      0.000000|   0.1538462|    |
+|/players/1292354/theo-le-bris        |Lorient |      0.029950|   0.1666667|    |
+|/players/865184/siriki-dembele       |Auxerre |      0.010550|   0.2173913|    |
+|/players/763974/gauthier-hein        |Auxerre |      0.011825|   0.1960784|    |
+|/players/308824/youssouf-mchangama   |Auxerre |      0.006875|   0.1724138|    |
+|/players/923196/lassine-sinayoko     |Auxerre |      0.054850|   0.1886792|    |
+____________________________________________________
+
+[1] "Facts about Lorient:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/37233/vito-mannone          |           0|         27.3825|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1022309/gdéon-kalulu        |           1|         45.7302|           2.7671|        0.1767|         0.3910|      0.0391|        0.0515|      0.0831| 90.0000|
+|/players/1287489/bamo-meit           |           1|         62.8790|           0.7872|        0.1361|         0.3910|      0.0391|        0.0197|      0.0073| 90.0000|
+|/players/846392/montassar-talbi      |           1|         46.9162|           1.1126|        0.1361|         0.5161|      0.0602|        0.0868|      0.0073| 90.0000|
+|/players/188467/vincent-le-goff      |           1|         41.1320|           1.8493|        0.1851|         0.8875|      0.0740|        0.0197|      0.1440| 90.0000|
+|/players/413525/laurent-abergel      |           2|         53.6187|           3.7339|        0.3255|         1.0358|      0.0917|        0.0866|      0.0672| 90.0000|
+|/players/699461/jean-victor-makengo  |           2|         50.5548|           0.9299|        0.3255|         1.0358|      0.0917|        0.0866|      0.1018| 90.0000|
+|/players/904021/romain-faivre        |           3|         36.7310|           0.9201|        0.8198|         1.6596|      0.1571|        0.2776|      0.2166| 82.4634|
+|/players/1049999/enzo-le-fee         |           3|         35.1506|           1.7174|        0.3820|         1.5203|      0.0700|        0.0603|      0.1792| 78.0833|
+|/players/1230848/ahmadou-bamba-dieng |           3|         11.5696|           0.8733|        0.7639|         1.7258|      0.3458|        0.2887|      0.0174| 65.5000|
+|/players/928119/ibrahima-kon         |           5|         17.8039|           0.5798|        0.9501|         2.2420|      0.3783|        0.3639|      0.0787| 80.1200|
+|/players/1047664/adil-aouchiche      |          NA|              NA|               NA|        1.1487|         1.7962|      0.0903|        0.0886|      0.0807| 24.5000|
+|/players/566675/bonke-innocent       |          NA|              NA|               NA|        0.0000|         0.0961|      0.0010|        0.0000|      0.0062| 11.9167|
+|/players/731036/stphane-diarra       |          NA|              NA|               NA|        0.0000|         0.5233|      0.0334|        0.0000|      0.0435|  9.8800|
+|/players/1292354/theo-le-bris        |          NA|              NA|               NA|        0.1264|         0.2196|      0.0184|        0.0286|      0.1300|  7.5366|
+
+
+|manager_name  | approx_games| m_avg_elo_dif|formation |
+|:-------------|------------:|-------------:|:---------|
+|Regis Le Bris |     23.89899|       -6.3024|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Auxerre:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/671326/nuno-da-costa      |           5|         30.3693|           1.1063|        0.5036|         1.9051|      0.1599|        0.1772|      0.2056| 90.0000|
+|/players/1250492/matthis-abline    |           5|         17.6427|           0.8332|        1.0161|         2.5987|      0.5019|        0.3243|      0.0558| 74.7692|
+|/players/708435/gatan-perrin       |           5|         12.3387|           0.8332|        0.2966|         0.4826|      0.0083|        0.1044|      0.0396| 53.0000|
+|/players/192316/mathias-autret     |           3|         45.6484|           1.9110|        0.6936|         2.1685|      0.2297|        0.2050|      0.1568| 90.0000|
+|/players/348408/birama-tour        |           3|         47.0748|           1.6475|        0.1211|         0.3379|      0.0102|        0.0080|      0.0376| 90.0000|
+|/players/978680/han-noah-massengo  |           3|         28.3651|           2.1252|        0.0581|         0.4461|      0.0250|        0.0108|      0.0577| 77.3600|
+|/players/771630/gideon-mensah      |           1|         43.0188|           2.0804|        0.0725|         0.2362|      0.0032|        0.0048|      0.0616| 90.0000|
+|/players/1180547/souleymane-tour   |           1|         43.1812|           2.0464|        0.0625|         0.6272|      0.0803|        0.0041|      0.0255| 77.5000|
+|/players/493731/jubal              |           1|         44.0549|           0.8086|        0.2583|         0.4506|      0.0455|        0.1136|      0.0030| 90.0000|
+|/players/542777/akim-zedadka       |           1|         39.8360|           1.4802|        0.1235|         0.4403|      0.0269|        0.0206|      0.1231| 90.0000|
+|/players/681213/ionut-andrei-radu  |           0|         28.3844|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/865184/siriki-dembele     |          NA|              NA|               NA|        0.4322|         0.6384|      0.0584|        0.0098|      0.1859| 37.0000|
+|/players/763974/gauthier-hein      |          NA|              NA|               NA|        0.1412|         0.4694|      0.0108|        0.0115|      0.0168| 15.2308|
+|/players/308824/youssouf-mchangama |          NA|              NA|               NA|        0.1633|         0.5426|      0.0074|        0.0077|      0.0134| 12.6400|
+|/players/923196/lassine-sinayoko   |          NA|              NA|               NA|        0.2364|         0.5893|      0.0392|        0.0560|      0.0050| 12.5000|
+
+
+|manager_name         | approx_games| m_avg_elo_dif|formation |
+|:--------------------|------------:|-------------:|:---------|
+|Christophe Pelissier |     87.72525|     -8.315978|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904525/Soccer_Models'...
+Receiving objects:   1% (48/4788),   63 kb
+Receiving objects:  11% (527/4788),  127 kb
+Receiving objects:  21% (1006/4788),  239 kb
+Receiving objects:  31% (1485/4788),  463 kb
+Receiving objects:  41% (1964/4788),  856 kb
+Receiving objects:  51% (2442/4788), 1080 kb
+Receiving objects:  61% (2921/4788), 5787 kb
+Receiving objects:  71% (3400/4788), 10421 kb
+Receiving objects:  81% (3879/4788), 10702 kb
+Receiving objects:  91% (4358/4788), 10814 kb
+Receiving objects: 100% (4788/4788), 11411 kb, done.
