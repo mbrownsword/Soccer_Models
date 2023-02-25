@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-25 10:38:29.817"
+[1] "Updated at 2023-02-25 11:49:56.628"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,20 +34,37 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 56.08%; max % is 60.89 and min % is 52.19%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 43.92%; max % is 47.81 and min % is 39.11%."
 [1] "--Sportsbook Odds--"
-[1] "Celta Vigo Barstool Odds are: 60.61"
+[1] "Celta Vigo Barstool Odds are: 60"
 [1] "The Barstool Odds of a Draw are: 26.67"
-[1] "Real Valladolid Barstool Odds are: 17.86"
-[1] "Celta Vigo Adjusted Barstool Odds are: 57.647"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.366"
-[1] "Real Valladolid Adjusted Barstool Odds are: 16.987"
-[1] "Celta Vigo's Barstool Odds to cover the -0.75 spread are: 54.64"
-[1] "Real Valladolid's Barstool Odds to cover the 0.75 spread are: 50.51"
-[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51% chance of the over 2.5 hitting. The line for the under is 1.7, which is a 58.82% chance of the under 2.5 hitting."
+[1] "Real Valladolid Barstool Odds are: 18.52"
+[1] "Celta Vigo Adjusted Barstool Odds are: 57.04"
+[1] "The Adjusted Barstool Odds of a Draw are: 25.354"
+[1] "Real Valladolid Adjusted Barstool Odds are: 17.606"
+[1] "Celta Vigo's Barstool Odds to cover the -0.5 spread are: 59.52"
+[1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 45.45"
+[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                               bet           date_time
 1                 Real Valladolid 2023-02-26 07:15:00
 2 over Celta Vigo/Real Valladolid 2023-02-26 07:15:00
+
+
+|player           |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
+|:----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
+|Sergio Leon      |RVA  |     10| 1.82|          NA|  0.9999|   0.4504|passes    |ESP Spain |      0.5495|         NA|        NA|         NA|       NA|
+|Sergio Leon      |RVA  |     14| 2.26|          NA|  0.9975|   0.5550|passes    |ESP Spain |      0.4425|         NA|        NA|         NA|       NA|
+|Sergio Leon      |RVA  |     22| 3.48|          NA|  0.8599|   0.5725|passes    |ESP Spain |      0.2874|         NA|        NA|         NA|       NA|
+|Sergio Leon      |RVA  |     18| 2.71|          NA|  0.9723|   0.6033|passes    |ESP Spain |      0.3690|         NA|        NA|         NA|       NA|
+|Sergio Leon      |RVA  |     26| 4.80|          NA|  0.6146|   0.4063|passes    |ESP Spain |      0.2083|         NA|        NA|         NA|       NA|
+|Luis Perez       |RVA  |     27| 1.50|          NA|  0.7814|   0.1147|passes    |ESP Spain |      0.6667|         NA|        NA|         NA|       NA|
+|Cyle Larin       |RVA  |     11| 1.53|          NA|  0.7568|   0.1032|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
+|Luca de la Torre |CEL  |     30| 1.85|          NA|  0.9998|   0.4593|passes    |ESP Spain |      0.5405|         NA|        NA|         NA|       NA|
+|Luca de la Torre |CEL  |     34| 2.30|          NA|  0.9980|   0.5632|passes    |ESP Spain |      0.4348|         NA|        NA|         NA|       NA|
+|Luca de la Torre |CEL  |     38| 2.76|          NA|  0.9880|   0.6257|passes    |ESP Spain |      0.3623|         NA|        NA|         NA|       NA|
+|Luca de la Torre |CEL  |     26| 1.51|          NA|  1.0000|   0.3377|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
+|Luca de la Torre |CEL  |     42| 3.55|          NA|  0.9516|   0.6699|passes    |ESP Spain |      0.2817|         NA|        NA|         NA|       NA|
+|Luca de la Torre |CEL  |     46| 4.90|          NA|  0.8603|   0.6562|passes    |ESP Spain |      0.2041|         NA|        NA|         NA|       NA|
 [1] "____________Anytime Goalscorers______________________"
 
 
@@ -140,14 +157,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Pacheta      |      41.9899|    -0.0112903|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918161/Soccer_Models'...
-Receiving objects:   1% (48/4734),   63 kb
-Receiving objects:  11% (521/4734),  127 kb
-Receiving objects:  21% (995/4734),  239 kb
-Receiving objects:  31% (1468/4734),  463 kb
-Receiving objects:  41% (1941/4734),  856 kb
-Receiving objects:  51% (2415/4734), 1080 kb
-Receiving objects:  61% (2888/4734), 5787 kb
-Receiving objects:  71% (3362/4734), 10381 kb
-Receiving objects:  81% (3835/4734), 10718 kb
-Receiving objects:  91% (4308/4734), 10830 kb
-Receiving objects: 100% (4734/4734), 11362 kb, done.
+Receiving objects:   1% (48/4767),   63 kb
+Receiving objects:  11% (525/4767),  127 kb
+Receiving objects:  21% (1002/4767),  239 kb
+Receiving objects:  31% (1478/4767),  463 kb
+Receiving objects:  41% (1955/4767),  856 kb
+Receiving objects:  51% (2432/4767), 1080 kb
+Receiving objects:  61% (2908/4767), 5787 kb
+Receiving objects:  71% (3385/4767), 10381 kb
+Receiving objects:  81% (3862/4767), 10718 kb
+Receiving objects:  91% (4338/4767), 10830 kb
+Receiving objects: 100% (4767/4767), 11396 kb, done.
