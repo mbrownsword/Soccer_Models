@@ -1,58 +1,57 @@
-[1] "Updated at 2023-02-24 15:02:24.732"
+[1] "Updated at 2023-02-25 16:18:04.978"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: FC Cincinnati 2.0117 to Houston Dynamo 0.8215"
-[1] "Total: 2.8332"
-[1] "FC Cincinnati %: 65.91"
-[1] "Draw %: 20.49"
-[1] "Houston Dynamo %: 13.6"
+[1] "Score: FC Cincinnati 1.881 to Houston Dynamo 0.8933"
+[1] "Total: 2.7743"
+[1] "FC Cincinnati %: 60.76"
+[1] "Draw %: 22.12"
+[1] "Houston Dynamo %: 17.12"
 [1] "--XG Model--"
-[1] "Score: FC Cincinnati 2.129 to Houston Dynamo 0.6322"
-[1] "Total: 2.7612"
-[1] "FC Cincinnati %: 72.05"
-[1] "Draw %: 18.7"
-[1] "Houston Dynamo %: 9.25"
+[1] "Score: FC Cincinnati 1.9779 to Houston Dynamo 0.6863"
+[1] "Total: 2.6642"
+[1] "FC Cincinnati %: 68.69"
+[1] "Draw %: 20.12"
+[1] "Houston Dynamo %: 11.19"
 [1] "--XGoT Model--"
-[1] "Score: FC Cincinnati 2.125 to Houston Dynamo 0.6143"
-[1] "Total: 2.7393"
-[1] "FC Cincinnati %: 72.09"
-[1] "Draw %: 18.79"
-[1] "Houston Dynamo %: 9.12"
+[1] "Score: FC Cincinnati 2.0033 to Houston Dynamo 0.7383"
+[1] "Total: 2.7416"
+[1] "FC Cincinnati %: 67.96"
+[1] "Draw %: 20.42"
+[1] "Houston Dynamo %: 11.62"
 [1] "--XA Model--"
-[1] "Score: FC Cincinnati 2.1038 to Houston Dynamo 0.8223"
-[1] "Total: 2.9261"
-[1] "FC Cincinnati %: 66.56"
-[1] "Draw %: 20.48"
-[1] "Houston Dynamo %: 12.96"
+[1] "Score: FC Cincinnati 1.9439 to Houston Dynamo 0.8075"
+[1] "Total: 2.7514"
+[1] "FC Cincinnati %: 64.95"
+[1] "Draw %: 21.03"
+[1] "Houston Dynamo %: 14.02"
 [1] "--Mean 4 Models--"
-[1] "FC Cincinnati has a mean win % of 69.15%; a min win % of 65.91%; a max win % of 72.09%."
-[1] "Draw has a mean win % of 19.61%; a min win % of 18.7%; a max win % of 20.49%."
-[1] "Houston Dynamo has a mean win % of 11.23%; a min win % of 9.12%; a max win of % 13.6%."
-[1] "FC Cincinnati has a mean win of the Double Chance of 88.77%; a min win % of 86.4%, a max win % of 90.88%."
-[1] "Houston Dynamo has a mean win of the Double Chance of 30.85%; a min win % of 27.91%, a max win % of 34.09%."
-[1] "The mean likelihood that there are more than 2.5 goals is 52.82%; max % is 55.14 and min % is 51.02%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 47.18%; max % is 48.98 and min % is 44.86%."
+[1] "FC Cincinnati has a mean win % of 65.59%; a min win % of 60.76%; a max win % of 68.69%."
+[1] "Draw has a mean win % of 20.92%; a min win % of 20.12%; a max win % of 22.12%."
+[1] "Houston Dynamo has a mean win % of 13.49%; a min win % of 11.19%; a max win of % 17.12%."
+[1] "FC Cincinnati has a mean win of the Double Chance of 86.51%; a min win % of 82.88%, a max win % of 88.81%."
+[1] "Houston Dynamo has a mean win of the Double Chance of 34.41%; a min win % of 31.31%, a max win % of 39.24%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.94%; max % is 52.07 and min % is 49.12%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.06%; max % is 50.88 and min % is 47.93%."
 [1] "--Sportsbook Odds--"
-[1] "FC Cincinnati Barstool Odds are: 62.5"
-[1] "The Barstool Odds of a Draw are: 23.08"
-[1] "Houston Dynamo Barstool Odds are: 20.83"
-[1] "FC Cincinnati Adjusted Barstool Odds are: 58.735"
-[1] "The Adjusted Barstool Odds of a Draw are: 21.69"
-[1] "Houston Dynamo Adjusted Barstool Odds are: 19.575"
-[1] "FC Cincinnati's Barstool Odds to cover the -0.5 spread are: 62.5"
-[1] "Houston Dynamo's Barstool Odds to cover the 0.5 spread are: 41.67"
-[1] "Barstool's line for the total is 2.5 at 1.52, which is a 65.79% chance of the over 2.5 hitting. The line for the under is 2.43, which is a 41.15% chance of the under 2.5 hitting."
+[1] "FC Cincinnati Barstool Odds are: 65.79"
+[1] "The Barstool Odds of a Draw are: 21.74"
+[1] "Houston Dynamo Barstool Odds are: 19.05"
+[1] "FC Cincinnati Adjusted Barstool Odds are: 61.728"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.398"
+[1] "Houston Dynamo Adjusted Barstool Odds are: 17.874"
+[1] "FC Cincinnati's Barstool Odds to cover the -0.5 spread are: 65.79"
+[1] "Houston Dynamo's Barstool Odds to cover the 0.5 spread are: 38.02"
+[1] "Barstool's line for the total is 2.5 at 1.6, which is a 62.5% chance of the over 2.5 hitting. The line for the under is 2.23, which is a 44.84% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                  bet           date_time
-1                      FC Cincinnati 2023-02-25 16:30:00
-2 under FC Cincinnati/Houston Dynamo 2023-02-25 16:30:00
+1 under FC Cincinnati/Houston Dynamo 2023-02-25 16:30:00
 [1] "____________Anytime Goalscorers______________________"
 ____________________________________________________
 
 [1] "Facts about FC Cincinnati:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
@@ -65,7 +64,7 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Houston Dynamo:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
@@ -76,14 +75,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Ben Olsen    |     14.90404|     -7.022667|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084680/Soccer_Models'...
-Receiving objects:   1% (47/4647),   63 kb
-Receiving objects:  11% (512/4647),  127 kb
-Receiving objects:  21% (976/4647),  239 kb
-Receiving objects:  31% (1441/4647),  407 kb
-Receiving objects:  41% (1906/4647),  856 kb
-Receiving objects:  51% (2370/4647), 1080 kb
-Receiving objects:  61% (2835/4647), 1416 kb
-Receiving objects:  71% (3300/4647), 10325 kb
-Receiving objects:  81% (3765/4647), 10606 kb
-Receiving objects:  91% (4229/4647), 10830 kb
-Receiving objects: 100% (4647/4647), 11289 kb, done.
+Receiving objects:   1% (49/4875),   63 kb
+Receiving objects:  11% (537/4875),  127 kb
+Receiving objects:  21% (1024/4875),  239 kb
+Receiving objects:  31% (1512/4875),  519 kb
+Receiving objects:  41% (1999/4875),  856 kb
+Receiving objects:  51% (2487/4875), 1136 kb
+Receiving objects:  61% (2974/4875), 10157 kb
+Receiving objects:  71% (3462/4875), 10437 kb
+Receiving objects:  81% (3949/4875), 10718 kb
+Receiving objects:  91% (4437/4875), 10830 kb
+Receiving objects: 100% (4875/4875), 11494 kb, done.
