@@ -1,0 +1,88 @@
+[1] "Updated at 2023-02-25 16:24:42.791"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Philadelphia Union 1.8959 to Columbus Crew 0.7714"
+[1] "Total: 2.6673"
+[1] "Philadelphia Union %: 64.35"
+[1] "Draw %: 21.37"
+[1] "Columbus Crew %: 14.28"
+[1] "--XG Model--"
+[1] "Score: Philadelphia Union 1.8871 to Columbus Crew 0.6766"
+[1] "Total: 2.5637"
+[1] "Philadelphia Union %: 66.53"
+[1] "Draw %: 21.54"
+[1] "Columbus Crew %: 11.93"
+[1] "--XGoT Model--"
+[1] "Score: Philadelphia Union 1.906 to Columbus Crew 0.6818"
+[1] "Total: 2.5878"
+[1] "Philadelphia Union %: 66.84"
+[1] "Draw %: 21.27"
+[1] "Columbus Crew %: 11.89"
+[1] "--XA Model--"
+[1] "Score: Philadelphia Union 2.1668 to Columbus Crew 0.7946"
+[1] "Total: 2.9614"
+[1] "Philadelphia Union %: 68.87"
+[1] "Draw %: 19.41"
+[1] "Columbus Crew %: 11.72"
+[1] "--Mean 4 Models--"
+[1] "Philadelphia Union has a mean win % of 66.65%; a min win % of 64.35%; a max win % of 68.87%."
+[1] "Draw has a mean win % of 20.9%; a min win % of 19.41%; a max win % of 21.54%."
+[1] "Columbus Crew has a mean win % of 12.46%; a min win % of 11.72%; a max win of % 14.28%."
+[1] "Philadelphia Union has a mean win of the Double Chance of 87.54%; a min win % of 85.72%, a max win % of 88.28%."
+[1] "Columbus Crew has a mean win of the Double Chance of 33.35%; a min win % of 31.13%, a max win % of 35.65%."
+[1] "The mean likelihood that there are more than 2.5 goals is 49.96%; max % is 56.2 and min % is 46.83%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 50.04%; max % is 53.17 and min % is 43.8%."
+[1] "--Sportsbook Odds--"
+[1] "Philadelphia Union Barstool Odds are: 65.22"
+[1] "The Barstool Odds of a Draw are: 25"
+[1] "Columbus Crew Barstool Odds are: 16.67"
+[1] "Philadelphia Union Adjusted Barstool Odds are: 61.016"
+[1] "The Adjusted Barstool Odds of a Draw are: 23.389"
+[1] "Columbus Crew Adjusted Barstool Odds are: 15.595"
+[1] "Philadelphia Union's Barstool Odds to cover the -0.5 spread are: 64.94"
+[1] "Columbus Crew's Barstool Odds to cover the 0.5 spread are: 39.22"
+[1] "Barstool's line for the total is 2.5 at 1.8, which is a 55.56% chance of the over 2.5 hitting. The line for the under is 1.94, which is a 51.55% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+  bet           date_time
+1     2023-02-25 16:30:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Philadelphia Union:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Jim Curtin   |     90.80909|      7.351771|4-3-1-2   |
+____________________________________________________
+
+[1] "Facts about Columbus Crew:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Wilfried Nancy |     62.80707|     -2.611642|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084682/Soccer_Models'...
+Receiving objects:   1% (49/4881),   63 kb
+Receiving objects:  11% (537/4881),  127 kb
+Receiving objects:  21% (1026/4881),  239 kb
+Receiving objects:  31% (1514/4881),  519 kb
+Receiving objects:  41% (2002/4881),  856 kb
+Receiving objects:  51% (2490/4881), 1136 kb
+Receiving objects:  61% (2978/4881), 10157 kb
+Receiving objects:  71% (3466/4881), 10438 kb
+Receiving objects:  81% (3954/4881), 10774 kb
+Receiving objects:  91% (4442/4881), 10830 kb
+Receiving objects: 100% (4881/4881), 11496 kb, done.
