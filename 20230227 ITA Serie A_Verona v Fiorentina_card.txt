@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-26 15:59:19.355"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Verona 1.2748 to Fiorentina 1.6659"
+[1] "Total: 2.9407"
+[1] "Verona %: 28.62"
+[1] "Draw %: 25.26"
+[1] "Fiorentina %: 46.12"
+[1] "--XG Model--"
+[1] "Score: Verona 1.0008 to Fiorentina 1.4445"
+[1] "Total: 2.4453"
+[1] "Verona %: 26.75"
+[1] "Draw %: 26.5"
+[1] "Fiorentina %: 46.75"
+[1] "--XGoT Model--"
+[1] "Score: Verona 1.0926 to Fiorentina 1.5353"
+[1] "Total: 2.6279"
+[1] "Verona %: 28.1"
+[1] "Draw %: 25.5"
+[1] "Fiorentina %: 46.4"
+[1] "--XA Model--"
+[1] "Score: Verona 1.269 to Fiorentina 1.7102"
+[1] "Total: 2.9792"
+[1] "Verona %: 27.91"
+[1] "Draw %: 24.82"
+[1] "Fiorentina %: 47.27"
+[1] "--Mean 4 Models--"
+[1] "Verona has a mean win % of 27.85%; a min win % of 26.75%; a max win % of 28.62%."
+[1] "Draw has a mean win % of 25.52%; a min win % of 24.82%; a max win % of 26.5%."
+[1] "Fiorentina has a mean win % of 46.64%; a min win % of 46.12%; a max win of % 47.27%."
+[1] "Verona has a mean win of the Double Chance of 53.36%; a min win % of 52.73%, a max win % of 53.88%."
+[1] "Fiorentina has a mean win of the Double Chance of 72.16%; a min win % of 71.38%, a max win % of 73.25%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.74%; max % is 55.99 and min % is 43.54%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.26%; max % is 56.46 and min % is 44.01%."
+[1] "--Sportsbook Odds--"
+[1] "Verona Barstool Odds are: 29.85"
+[1] "The Barstool Odds of a Draw are: 30.3"
+[1] "Fiorentina Barstool Odds are: 45.45"
+[1] "Verona Adjusted Barstool Odds are: 28.267"
+[1] "The Adjusted Barstool Odds of a Draw are: 28.693"
+[1] "Fiorentina Adjusted Barstool Odds are: 43.04"
+[1] "Verona's Barstool Odds to cover the 0.25 spread are: 53.48"
+[1] "Fiorentina's Barstool Odds to cover the -0.25 spread are: 52.08"
+[1] "Barstool's line for the total is 2.5 at 2.12, which is a 47.17% chance of the over 2.5 hitting. The line for the under is 1.72, which is a 58.14% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+         bet           date_time
+1 Fiorentina 2023-02-27 09:30:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                            |team       | expected_attg| expected_gs|bet |
+|:-----------------------------------|:----------|-------------:|-----------:|:---|
+|/players/491784/lorenzo-montipo     |Verona     |      0.000000|   0.0454545|    |
+|/players/834956/giangiacomo-magnani |Verona     |      0.033825|   0.0384615|    |
+|/players/939780/isak-hien           |Verona     |      0.036650|   0.0714286|    |
+|/players/1321562/diego-coppola      |Verona     |      0.033500|   0.0294118|    |
+|/players/722983/fabio-depaoli       |Verona     |      0.051900|   0.0833333|    |
+|/players/426393/adrien-tamze        |Verona     |      0.029225|   0.0952381|    |
+|/players/350634/ondrej-duda         |Verona     |      0.046775|   0.2631579|    |
+|/players/1130330/josh-doig          |Verona     |      0.102650|   0.1176471|    |
+|/players/994403/cyril-ngonge        |Verona     |      0.159900|   0.2500000|    |
+|/players/119014/darko-lazovic       |Verona     |      0.203325|   0.2040816|    |
+|/players/957220/adolfo-gaich        |Verona     |      0.249025|   0.2127660|    |
+|/players/776940/christian-kouam     |Fiorentina |      0.188100|   0.2702703|    |
+|/players/670948/arthur-cabral       |Fiorentina |      0.492025|   0.3125000|*   |
+|/players/841672/nicols-gonzález     |Fiorentina |      0.121425|   0.2631579|    |
+|/players/577911/rolando-mandragora  |Fiorentina |      0.116300|   0.1176471|    |
+|/players/593116/sofyan-amrabat      |Fiorentina |      0.028575|   0.0833333|    |
+|/players/127460/giacomo-bonaventura |Fiorentina |      0.071500|   0.2439024|    |
+|/players/239350/cristiano-biraghi   |Fiorentina |      0.089100|   0.1111111|    |
+|/players/768331/igor                |Fiorentina |      0.021075|   0.0454545|    |
+|/players/766611/nikola-milenkovic   |Fiorentina |      0.026075|   0.1000000|    |
+|/players/750734/dodo                |Fiorentina |      0.015175|   0.0454545|    |
+|/players/281762/pietro-terracciano  |Fiorentina |      0.000000|   0.0833333|    |
+|/players/187360/simone-verdi        |Verona     |      0.044325|   0.2127660|    |
+|/players/299886/kevin-lasagna       |Verona     |      0.023275|   0.2857143|    |
+|/players/766868/deyovaisio-zeefuik  |Verona     |      0.000000|   0.0476190|    |
+|/players/1257907/yayah-kallon       |Verona     |      0.000000|   0.2127660|    |
+|/players/463291/luka-jovic          |Fiorentina |      0.018375|   0.2777778|    |
+|/players/212645/riccardo-saponara   |Fiorentina |      0.024650|   0.2127660|    |
+|/players/688668/josip-brekalo       |Fiorentina |      0.021050|   0.2702703|    |
+|/players/637745/jonathan-ikon       |Fiorentina |      0.026075|   0.1923077|    |
+____________________________________________________
+
+[1] "Facts about Verona:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/491784/lorenzo-montipo     |           0|         26.0663|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/834956/giangiacomo-magnani |           1|         32.4004|           1.4262|        0.0896|         0.8624|      0.0871|        0.0320|      0.0038| 90.0000|
+|/players/939780/isak-hien           |           1|         53.0779|           1.8263|        0.2294|         0.3514|      0.0276|        0.0320|      0.0365| 90.0000|
+|/players/1321562/diego-coppola      |           1|         40.0758|           0.8379|        0.0896|         0.1535|      0.0154|        0.0320|      0.0083| 90.0000|
+|/players/722983/fabio-depaoli       |           3|         23.3768|           1.8513|        0.1486|         0.5803|      0.0377|        0.0463|      0.0675| 78.0000|
+|/players/426393/adrien-tamze        |           3|         44.3424|           2.0598|        0.1028|         0.4092|      0.0168|        0.0242|      0.0514| 90.0000|
+|/players/350634/ondrej-duda         |           3|         38.8937|           1.7366|        0.3487|         1.2252|      0.0938|        0.0425|      0.0960| 77.8529|
+|/players/1130330/josh-doig          |           3|         30.9359|           1.6755|        0.3313|         0.7843|      0.0696|        0.0917|      0.0930| 90.0000|
+|/players/994403/cyril-ngonge        |           4|         16.5712|           0.8415|        0.5401|         1.7613|      0.1691|        0.1434|      0.0194| 77.0000|
+|/players/119014/darko-lazovic       |           4|         33.0757|           0.9835|        0.4410|         1.0866|      0.1685|        0.1933|      0.1845| 90.0000|
+|/players/957220/adolfo-gaich        |           5|         14.6661|           0.6413|        0.5998|         1.4642|      0.2185|        0.2488|      0.0472| 69.6000|
+|/players/187360/simone-verdi        |          NA|              NA|               NA|        0.2819|         0.6967|      0.0296|        0.0393|      0.0666| 20.4000|
+|/players/299886/kevin-lasagna       |          NA|              NA|               NA|        0.1528|         0.3926|      0.0316|        0.0203|      0.0128| 13.0000|
+|/players/766868/deyovaisio-zeefuik  |          NA|              NA|               NA|        0.0000|         0.0406|      0.0024|        0.0000|      0.0059| 12.1471|
+|/players/1257907/yayah-kallon       |          NA|              NA|               NA|        0.0658|         0.1627|      0.0037|        0.0000|      0.0166| 12.0000|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Marco Zaffaroni |      7.99798|         -9.59|3-5-2     |
+____________________________________________________
+
+[1] "Facts about Fiorentina:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/776940/christian-kouam     |           5|         25.0850|           0.9194|        0.7542|         1.5911|      0.2277|        0.1927|      0.1944| 79.4375|
+|/players/670948/arthur-cabral       |           5|         21.8656|           0.5776|        1.5411|         3.2460|      0.5485|        0.6241|      0.0790| 90.0000|
+|/players/841672/nicols-gonzález     |           5|         29.0841|           1.0896|        0.4022|         1.7678|      0.1203|        0.1230|      0.0633| 78.6667|
+|/players/577911/rolando-mandragora  |           3|         47.5192|           2.2089|        0.4031|         1.3464|      0.1164|        0.1184|      0.0839| 90.0000|
+|/players/593116/sofyan-amrabat      |           3|         62.0176|           1.7211|        0.1258|         0.3231|      0.0108|        0.0272|      0.0425| 90.0000|
+|/players/127460/giacomo-bonaventura |           3|         38.4845|           1.5895|        0.3617|         1.2521|      0.1182|        0.0688|      0.1039| 78.5122|
+|/players/239350/cristiano-biraghi   |           1|         54.7915|           1.4014|        0.1903|         0.7493|      0.0565|        0.0861|      0.1656| 90.0000|
+|/players/768331/igor                |           1|         68.8181|           1.7748|        0.0761|         0.2368|      0.0173|        0.0203|      0.0098| 90.0000|
+|/players/766611/nikola-milenkovic   |           1|         56.1502|           1.6289|        0.1675|         0.6163|      0.0699|        0.0233|      0.0144| 90.0000|
+|/players/750734/dodo                |           1|         46.8397|           1.4278|        0.0776|         0.2714|      0.0220|        0.0147|      0.0608| 80.1905|
+|/players/281762/pietro-terracciano  |           0|         37.6200|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/463291/luka-jovic          |          NA|              NA|               NA|        0.1621|         0.4966|      0.0361|        0.0190|      0.0196| 11.4878|
+|/players/212645/riccardo-saponara   |          NA|              NA|               NA|        0.2389|         0.5228|      0.0198|        0.0237|      0.0408| 11.3333|
+|/players/688668/josip-brekalo       |          NA|              NA|               NA|        0.1608|         0.3050|      0.0114|        0.0200|      0.0577| 10.5625|
+|/players/637745/jonathan-ikon       |          NA|              NA|               NA|        0.1407|         0.3736|      0.0301|        0.0247|      0.0188|  9.8095|
+
+
+|manager_name      | approx_games| m_avg_elo_dif|formation |
+|:-----------------|------------:|-------------:|:---------|
+|Vincenzo Italiano |     103.5889|      1.041591|4-3-3     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3919272/Soccer_Models'...
+Receiving objects:   1% (50/4920),   63 kb
+Receiving objects:  11% (542/4920),  127 kb
+Receiving objects:  21% (1034/4920),  239 kb
+Receiving objects:  31% (1526/4920),  576 kb
+Receiving objects:  41% (2018/4920),  856 kb
+Receiving objects:  51% (2510/4920), 1136 kb
+Receiving objects:  61% (3002/4920), 10157 kb
+Receiving objects:  71% (3494/4920), 10486 kb
+Receiving objects:  81% (3986/4920), 10766 kb
+Receiving objects:  91% (4478/4920), 10822 kb
+Receiving objects: 100% (4920/4920), 11534 kb, done.
