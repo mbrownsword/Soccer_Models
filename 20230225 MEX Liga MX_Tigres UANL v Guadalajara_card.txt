@@ -1,38 +1,38 @@
-[1] "Updated at 2023-02-24 17:05:07.953"
+[1] "Updated at 2023-02-25 16:33:31.558"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Tigres UANL 1.4569 to Guadalajara 1.0182"
-[1] "Total: 2.4751"
-[1] "Tigres UANL %: 47.29"
-[1] "Draw %: 26.32"
-[1] "Guadalajara %: 26.39"
+[1] "Score: Tigres UANL 1.4153 to Guadalajara 0.9793"
+[1] "Total: 2.3946"
+[1] "Tigres UANL %: 47.58"
+[1] "Draw %: 26.33"
+[1] "Guadalajara %: 26.09"
 [1] "--XG Model--"
-[1] "Score: Tigres UANL 1.8264 to Guadalajara 0.8137"
-[1] "Total: 2.6401"
-[1] "Tigres UANL %: 61.6"
-[1] "Draw %: 22.74"
-[1] "Guadalajara %: 15.66"
+[1] "Score: Tigres UANL 1.7331 to Guadalajara 0.7479"
+[1] "Total: 2.481"
+[1] "Tigres UANL %: 61.66"
+[1] "Draw %: 22.91"
+[1] "Guadalajara %: 15.43"
 [1] "--XGoT Model--"
-[1] "Score: Tigres UANL 1.7335 to Guadalajara 0.9128"
-[1] "Total: 2.6463"
-[1] "Tigres UANL %: 56.81"
-[1] "Draw %: 23.85"
-[1] "Guadalajara %: 19.34"
+[1] "Score: Tigres UANL 1.5783 to Guadalajara 0.7922"
+[1] "Total: 2.3705"
+[1] "Tigres UANL %: 56.63"
+[1] "Draw %: 25.11"
+[1] "Guadalajara %: 18.26"
 [1] "--XA Model--"
-[1] "Score: Tigres UANL 1.718 to Guadalajara 0.8181"
-[1] "Total: 2.5361"
-[1] "Tigres UANL %: 58.74"
-[1] "Draw %: 23.67"
-[1] "Guadalajara %: 17.59"
+[1] "Score: Tigres UANL 1.8307 to Guadalajara 0.8571"
+[1] "Total: 2.6878"
+[1] "Tigres UANL %: 60.78"
+[1] "Draw %: 22.37"
+[1] "Guadalajara %: 16.85"
 [1] "--Mean 4 Models--"
-[1] "Tigres UANL has a mean win % of 56.11%; a min win % of 47.29%; a max win % of 61.6%."
-[1] "Draw has a mean win % of 24.14%; a min win % of 22.74%; a max win % of 26.32%."
-[1] "Guadalajara has a mean win % of 19.75%; a min win % of 15.66%; a max win of % 26.39%."
-[1] "Tigres UANL has a mean win of the Double Chance of 80.25%; a min win % of 73.61%, a max win % of 84.34%."
-[1] "Guadalajara has a mean win of the Double Chance of 43.89%; a min win % of 38.4%, a max win % of 52.71%."
-[1] "The mean likelihood that there are more than 2.5 goals is 46.54%; max % is 48.3 and min % is 43.86%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 53.46%; max % is 56.14 and min % is 51.7%."
+[1] "Tigres UANL has a mean win % of 56.66%; a min win % of 47.58%; a max win % of 61.66%."
+[1] "Draw has a mean win % of 24.18%; a min win % of 22.37%; a max win % of 26.33%."
+[1] "Guadalajara has a mean win % of 19.16%; a min win % of 15.43%; a max win of % 26.09%."
+[1] "Tigres UANL has a mean win of the Double Chance of 80.84%; a min win % of 73.91%, a max win % of 84.57%."
+[1] "Guadalajara has a mean win of the Double Chance of 43.34%; a min win % of 38.34%, a max win % of 52.42%."
+[1] "The mean likelihood that there are more than 2.5 goals is 44.44%; max % is 49.7 and min % is 41.73%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 55.56%; max % is 58.27 and min % is 50.3%."
 [1] "--Sportsbook Odds--"
 [1] "Tigres UANL Barstool Odds are: 60.61"
 [1] "The Barstool Odds of a Draw are: 27.78"
@@ -40,22 +40,71 @@
 [1] "Tigres UANL Adjusted Barstool Odds are: 56.319"
 [1] "The Adjusted Barstool Odds of a Draw are: 25.813"
 [1] "Guadalajara Adjusted Barstool Odds are: 17.868"
-[1] "Tigres UANL's Barstool Odds to cover the -0.5 spread are: 61.35"
-[1] "Guadalajara's Barstool Odds to cover the 0.5 spread are: 44.84"
-[1] "Barstool's line for the total is 2.5 at 1.97, which is a 50.76% chance of the over 2.5 hitting. The line for the under is 1.76, which is a 56.82% chance of the under 2.5 hitting."
+[1] "Tigres UANL's Barstool Odds to cover the -0.75 spread are: 54.35"
+[1] "Guadalajara's Barstool Odds to cover the 0.75 spread are: 51.55"
+[1] "Barstool's line for the total is 2.5 at 2.18, which is a 45.87% chance of the over 2.5 hitting. The line for the under is 1.62, which is a 61.73% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
   bet           date_time
 1     2023-02-25 17:05:00
 [1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                             |team        | expected_attg| expected_gs|bet |
+|:------------------------------------|:-----------|-------------:|-----------:|:---|
+|/players/193993/nahuel-guzman        |Tigres UANL |      0.000000|   0.2380952|    |
+|/players/1075104/jesus-garza         |Tigres UANL |      0.022300|   0.0769231|    |
+|/players/201111/diego-reyes          |Tigres UANL |      0.058525|   0.1176471|    |
+|/players/453324/samir                |Tigres UANL |      0.046175|   0.1000000|    |
+|/players/882469/jesus-angulo         |Tigres UANL |      0.017375|   0.0909091|    |
+|/players/127373/rafael-carioca       |Tigres UANL |      0.074250|   0.0769231|    |
+|/players/188116/guido-pizarro        |Tigres UANL |      0.075525|   0.0555556|    |
+|/players/172324/javier-aquino        |Tigres UANL |      0.032275|   0.2083333|    |
+|/players/495198/fernando-gorriaran   |Tigres UANL |      0.313050|   0.2380952|*   |
+|/players/915602/francisco-cordova    |Tigres UANL |      0.217225|   0.1000000|*   |
+|/players/996018/nicols-ibánez        |Tigres UANL |      0.405050|   0.4166667|    |
+|/players/571171/ronaldo-cisneros     |Guadalajara |      0.183075|   0.1666667|    |
+|/players/723480/daniel-rios          |Guadalajara |      0.138250|   0.2380952|    |
+|/players/430764/fernando-gonzalez    |Guadalajara |      0.008650|   0.2000000|    |
+|/players/429345/carlos-cisneros      |Guadalajara |      0.107600|   0.1000000|    |
+|/players/720737/roberto-alvarado     |Guadalajara |      0.082550|   0.1724138|    |
+|/players/643749/victor-guzman        |Guadalajara |      0.069625|   0.2500000|    |
+|/players/748811/cristian-calderon    |Guadalajara |      0.064400|   0.0909091|    |
+|/players/1249286/jesus-orozco        |Guadalajara |      0.001350|   0.0500000|    |
+|/players/988723/gilberto-sepulveda   |Guadalajara |      0.001750|   0.0322581|    |
+|/players/671944/alan-mozo            |Guadalajara |      0.045125|   0.0204082|    |
+|/players/251275/miguel-ponce-jimenez |Guadalajara |      0.000000|   0.0952381|    |
+|/players/828972/diego-lainez         |Tigres UANL |      0.068925|   0.0000000|*   |
+|/players/350153/juan-pablo-vigon     |Tigres UANL |      0.006650|   0.0000000|    |
+|/players/862169/eduardo-tercero      |Tigres UANL |      0.000000|   0.0000000|    |
+|/players/425810/luis-quinones        |Tigres UANL |      0.000000|   0.0000000|    |
+|/players/861896/fernando-beltran     |Guadalajara |      0.000000|   0.0000000|    |
+|/players/1053696/alan-torres         |Guadalajara |      0.015650|   0.0000000|    |
+|/players/1179357/pavel-perez         |Guadalajara |      0.000000|   0.0000000|    |
+|/players/848043/manuel-mayorga       |Guadalajara |      0.023425|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Tigres UANL:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/193993/nahuel-guzman      |           0|         28.1562|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1075104/jesus-garza       |           1|         36.4534|           1.5452|        0.2415|         0.3845|      0.0629|        0.0240|      0.1018| 72.0000|
+|/players/201111/diego-reyes        |           1|         57.2330|           1.1940|        0.0585|         0.5127|      0.0633|        0.0652|      0.0385| 84.5152|
+|/players/453324/samir              |           1|         54.0147|           1.3328|        0.1904|         0.9476|      0.0771|        0.0499|      0.0126| 90.0000|
+|/players/882469/jesus-angulo       |           1|         50.4383|           1.7139|        0.0765|         0.5483|      0.0203|        0.0178|      0.1029| 90.0000|
+|/players/127373/rafael-carioca     |           2|         59.9576|           0.9449|        0.1530|         1.0021|      0.0874|        0.0845|      0.1550| 90.0000|
+|/players/188116/guido-pizarro      |           2|         53.1198|           3.1641|        0.4193|         1.0982|      0.0841|        0.0845|      0.0466| 90.0000|
+|/players/172324/javier-aquino      |           3|         29.0238|           1.5372|        0.3560|         1.3030|      0.0703|        0.0360|      0.0533| 80.0952|
+|/players/495198/fernando-gorriaran |           3|         45.4682|           1.0491|        0.5935|         2.1773|      0.4074|        0.3807|      0.2341| 90.0000|
+|/players/915602/francisco-cordova  |           3|         23.2159|           1.1022|        1.0903|         2.4910|      0.1989|        0.2577|      0.2398| 79.7812|
+|/players/996018/nicols-ibánez      |           5|         19.9687|           0.5298|        1.1807|         2.9307|      0.5951|        0.5373|      0.1054| 90.0000|
+|/players/828972/diego-lainez       |           0|              NA|               NA|        0.3241|         1.0429|      0.0708|        0.0737|      0.0846| 18.0000|
+|/players/350153/juan-pablo-vigon   |           0|              NA|               NA|        0.1954|         1.0478|      0.0507|        0.0066|      0.0038| 10.2188|
+|/players/862169/eduardo-tercero    |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0048|  9.9048|
+|/players/425810/luis-quinones      |           0|              NA|               NA|        0.0000|         0.2847|      0.0182|        0.0000|      0.0796|  5.4848|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
@@ -64,25 +113,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Guadalajara:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/571171/ronaldo-cisneros     |           5|         15.3893|           0.2947|        0.5871|         1.4180|      0.2104|        0.2110|      0.0526| 71.2941|
+|/players/723480/daniel-rios          |           5|         19.4719|           0.9667|        0.5253|         1.3562|      0.1368|        0.1573|      0.0519| 68.6316|
+|/players/430764/fernando-gonzalez    |           3|         44.7815|           2.3642|        0.0385|         0.3416|      0.0200|        0.0101|      0.0320| 90.0000|
+|/players/429345/carlos-cisneros      |           3|         28.2106|           2.2970|        0.5610|         0.7658|      0.1157|        0.1205|      0.0199| 90.0000|
+|/players/720737/roberto-alvarado     |           3|         30.7075|           1.3483|        0.2415|         0.8990|      0.0785|        0.0907|      0.0873| 79.2174|
+|/players/643749/victor-guzman        |           3|         30.2256|           1.4715|        0.3787|         1.6585|      0.0685|        0.0733|      0.0843| 76.8125|
+|/players/748811/cristian-calderon    |           1|         36.4125|           1.3466|        0.3281|         0.9349|      0.0755|        0.0679|      0.0207| 90.0000|
+|/players/1249286/jesus-orozco        |           1|         38.8784|           1.9473|        0.0227|         0.1615|      0.0282|        0.0018|      0.0108| 90.0000|
+|/players/988723/gilberto-sepulveda   |           1|         43.2869|           1.0765|        0.0227|         0.1836|      0.0164|        0.0018|      0.0085| 90.0000|
+|/players/671944/alan-mozo            |           1|         34.6162|           2.7350|        0.0841|         0.3595|      0.0114|        0.0460|      0.0990| 90.0000|
+|/players/251275/miguel-ponce-jimenez |           0|         24.7441|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/861896/fernando-beltran     |           0|              NA|               NA|        0.0581|         0.3235|      0.0145|        0.0000|      0.0151| 21.3684|
+|/players/1053696/alan-torres         |           0|              NA|               NA|        0.1419|         0.3388|      0.0106|        0.0157|      0.0065| 18.7059|
+|/players/1179357/pavel-perez         |           0|              NA|               NA|        0.0000|         0.5065|      0.0300|        0.0000|      0.0510| 13.1875|
+|/players/848043/manuel-mayorga       |           0|              NA|               NA|        0.1325|         0.2637|      0.0086|        0.0251|      0.0014| 10.7826|
 
 
 |manager_name    | approx_games| m_avg_elo_dif|formation |
 |:---------------|------------:|-------------:|:---------|
 |Veljko Paunovic |     83.96061|     -1.280118|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065374/Soccer_Models'...
-Receiving objects:   1% (47/4659),   63 kb
-Receiving objects:  11% (513/4659),  127 kb
-Receiving objects:  21% (979/4659),  239 kb
-Receiving objects:  31% (1445/4659),  407 kb
-Receiving objects:  41% (1911/4659),  856 kb
-Receiving objects:  51% (2377/4659), 1080 kb
-Receiving objects:  61% (2842/4659), 1416 kb
-Receiving objects:  71% (3308/4659), 10325 kb
-Receiving objects:  81% (3774/4659), 10662 kb
-Receiving objects:  91% (4240/4659), 10830 kb
-Receiving objects: 100% (4659/4659), 11295 kb, done.
+Receiving objects:   1% (49/4887),   63 kb
+Receiving objects:  11% (538/4887),  127 kb
+Receiving objects:  21% (1027/4887),  239 kb
+Receiving objects:  31% (1515/4887),  576 kb
+Receiving objects:  41% (2004/4887),  856 kb
+Receiving objects:  51% (2493/4887), 1136 kb
+Receiving objects:  61% (2982/4887), 10149 kb
+Receiving objects:  71% (3470/4887), 10486 kb
+Receiving objects:  81% (3959/4887), 10766 kb
+Receiving objects:  91% (4448/4887), 10822 kb
+Receiving objects: 100% (4887/4887), 11500 kb, done.
