@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-25 12:31:46.723"
+[1] "Updated at 2023-02-26 11:04:00.011"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -34,14 +34,14 @@
 [1] "The mean likelihood that there are more than 2.5 goals is 41.46%; max % is 43 and min % is 38.57%."
 [1] "The mean likelihood that there are fewer than 2.5 goals is 58.54%; max % is 61.43 and min % is 57%."
 [1] "--Sportsbook Odds--"
-[1] "Marseille Barstool Odds are: 37.04"
-[1] "The Barstool Odds of a Draw are: 26.67"
-[1] "Paris Saint-Germain Barstool Odds are: 41.67"
-[1] "Marseille Adjusted Barstool Odds are: 35.149"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.308"
-[1] "Paris Saint-Germain Adjusted Barstool Odds are: 39.543"
-[1] "Marseille's Barstool Odds to cover the 0 spread are: 49.5"
-[1] "Paris Saint-Germain's Barstool Odds to cover the 0 spread are: 55.25"
+[1] "Marseille Barstool Odds are: 33.33"
+[1] "The Barstool Odds of a Draw are: 27.78"
+[1] "Paris Saint-Germain Barstool Odds are: 44.44"
+[1] "Marseille Adjusted Barstool Odds are: 31.577"
+[1] "The Adjusted Barstool Odds of a Draw are: 26.319"
+[1] "Paris Saint-Germain Adjusted Barstool Odds are: 42.103"
+[1] "Marseille's Barstool Odds to cover the 0.5 spread are: 59.88"
+[1] "Paris Saint-Germain's Barstool Odds to cover the -0.5 spread are: 44.44"
 [1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11% chance of the over 2.5 hitting. The line for the under is 2.33, which is a 42.92% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
@@ -53,32 +53,32 @@
 
 |pageUrl2                             |team                | expected_attg| expected_gs|bet |
 |:------------------------------------|:-------------------|-------------:|-----------:|:---|
-|/players/532942/pau-lopez            |Marseille           |      0.000000|   0.2040816|    |
-|/players/958464/leonardo-balerdi     |Marseille           |      0.079275|   0.0666667|    |
-|/players/574200/eric-bailly          |Marseille           |      0.026725|   0.0625000|    |
-|/players/304345/sead-kolasinac       |Marseille           |      0.010200|   0.0952381|    |
-|/players/715301/jonathan-clauss      |Marseille           |      0.044325|   0.2040816|    |
-|/players/562719/valentin-rongier     |Marseille           |      0.010950|   0.1538462|    |
-|/players/261313/jordan-veretout      |Marseille           |      0.108225|   0.2040816|    |
-|/players/957118/nuno-tavares         |Marseille           |      0.034000|   0.1886792|    |
-|/players/459658/ruslan-malinovsky    |Marseille           |      0.160100|   0.2702703|    |
-|/players/800609/matteo-guendouzi     |Marseille           |      0.168225|   0.1694915|    |
-|/players/50047/alexis-snchez         |Marseille           |      0.239725|   0.3703704|    |
-|/players/701154/kylian-mbapp         |Paris Saint-Germain |      0.246825|   0.4878049|    |
+|/players/532942/pau-lopez            |Marseille           |      0.000000|   0.2500000|    |
+|/players/958464/leonardo-balerdi     |Marseille           |      0.079275|   0.0625000|    |
+|/players/574200/eric-bailly          |Marseille           |      0.026725|   0.0588235|    |
+|/players/304345/sead-kolasinac       |Marseille           |      0.010200|   0.0909091|    |
+|/players/715301/jonathan-clauss      |Marseille           |      0.044325|   0.1960784|    |
+|/players/562719/valentin-rongier     |Marseille           |      0.010950|   0.1428571|    |
+|/players/261313/jordan-veretout      |Marseille           |      0.108225|   0.1960784|    |
+|/players/957118/nuno-tavares         |Marseille           |      0.034000|   0.1818182|    |
+|/players/459658/ruslan-malinovsky    |Marseille           |      0.160100|   0.2631579|    |
+|/players/800609/matteo-guendouzi     |Marseille           |      0.168225|   0.1666667|    |
+|/players/50047/alexis-snchez         |Marseille           |      0.239725|   0.3571429|    |
+|/players/701154/kylian-mbapp         |Paris Saint-Germain |      0.246825|   0.4761905|    |
 |/players/30981/lionel-messi          |Paris Saint-Germain |      0.235650|   0.4166667|    |
 |/players/1158945/nuno-mendes         |Paris Saint-Germain |      0.001600|   0.0909091|    |
-|/players/1061249/vitinha             |Paris Saint-Germain |      0.076375|   0.0625000|    |
+|/players/1061249/vitinha             |Paris Saint-Germain |      0.076375|   0.0952381|    |
 |/players/190972/marco-verratti       |Paris Saint-Germain |      0.003075|   0.1111111|    |
 |/players/605654/fabin-ruiz           |Paris Saint-Germain |      0.178000|   0.1538462|    |
-|/players/770881/achraf-hakimi        |Paris Saint-Germain |      0.161800|   0.1754386|    |
+|/players/770881/achraf-hakimi        |Paris Saint-Germain |      0.161800|   0.2941176|    |
 |/players/562035/presnel-kimpembe     |Paris Saint-Germain |      0.004825|   0.0588235|    |
 |/players/267365/marquinhos           |Paris Saint-Germain |      0.027525|   0.0952381|    |
 |/players/30962/sergio-ramos          |Paris Saint-Germain |      0.060275|   0.1333333|    |
 |/players/618878/gianluigi-donnarumma |Paris Saint-Germain |      0.000000|   0.0952381|    |
-|/players/603477/cengiz-nder          |Marseille           |      0.021050|   0.2702703|    |
-|/players/1099974/issa-kabor          |Marseille           |      0.000000|   0.1428571|    |
-|/players/780815/amine-harit          |Marseille           |      0.000425|   0.3448276|    |
-|/players/1215057/vitor-oliveira      |Marseille           |      0.051075|   0.0344828|    |
+|/players/603477/cengiz-nder          |Marseille           |      0.021050|   0.2564103|    |
+|/players/1099974/issa-kabor          |Marseille           |      0.000000|   0.1333333|    |
+|/players/780815/amine-harit          |Marseille           |      0.000425|   0.3225806|    |
+|/players/1215057/vitor-oliveira      |Marseille           |      0.051075|   0.0952381|    |
 |/players/1197030/hugo-ekitike        |Paris Saint-Germain |      0.074450|   0.2941176|    |
 |/players/602304/nordi-mukiele        |Paris Saint-Germain |      0.005475|   0.0555556|    |
 |/players/240235/danilo-pereira       |Paris Saint-Germain |      0.000000|   0.0952381|    |
@@ -140,14 +140,14 @@ ____________________________________________________
 |:------------------|------------:|-------------:|:---------|
 |Christophe Galtier |     114.5626|      11.63685|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3904529/Soccer_Models'...
-Receiving objects:   1% (49/4806),   63 kb
-Receiving objects:  11% (529/4806),  127 kb
-Receiving objects:  21% (1010/4806),  239 kb
-Receiving objects:  31% (1490/4806),  464 kb
-Receiving objects:  41% (1971/4806),  856 kb
-Receiving objects:  51% (2452/4806), 1136 kb
-Receiving objects:  61% (2932/4806), 7860 kb
-Receiving objects:  71% (3413/4806), 10438 kb
-Receiving objects:  81% (3893/4806), 10702 kb
-Receiving objects:  91% (4374/4806), 10814 kb
-Receiving objects: 100% (4806/4806), 11431 kb, done.
+Receiving objects:   1% (50/4914),   63 kb
+Receiving objects:  11% (541/4914),  127 kb
+Receiving objects:  21% (1032/4914),  239 kb
+Receiving objects:  31% (1524/4914),  576 kb
+Receiving objects:  41% (2015/4914),  856 kb
+Receiving objects:  51% (2507/4914), 1136 kb
+Receiving objects:  61% (2998/4914), 10157 kb
+Receiving objects:  71% (3489/4914), 10494 kb
+Receiving objects:  81% (3981/4914), 10774 kb
+Receiving objects:  91% (4472/4914), 10830 kb
+Receiving objects: 100% (4914/4914), 11528 kb, done.
