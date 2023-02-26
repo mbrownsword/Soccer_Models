@@ -1,128 +1,110 @@
-[1] "Updated at 2023-02-25 11:49:56.628"
+[1] "Updated at 2023-02-26 07:03:07.200"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Celta Vigo 1.8058 to Real Valladolid 1.1991"
-[1] "Total: 3.0049"
-[1] "Celta Vigo %: 51.53"
-[1] "Draw %: 23.36"
-[1] "Real Valladolid %: 25.11"
+[1] "Score: Celta Vigo 1.6955 to Real Valladolid 1.1417"
+[1] "Total: 2.8372"
+[1] "Celta Vigo %: 51.4"
+[1] "Draw %: 23.6"
+[1] "Real Valladolid %: 25"
 [1] "--XG Model--"
-[1] "Score: Celta Vigo 1.8921 to Real Valladolid 0.9856"
-[1] "Total: 2.8777"
-[1] "Celta Vigo %: 58.56"
-[1] "Draw %: 21.83"
-[1] "Real Valladolid %: 19.61"
+[1] "Score: Celta Vigo 1.7018 to Real Valladolid 0.8932"
+[1] "Total: 2.595"
+[1] "Celta Vigo %: 57.21"
+[1] "Draw %: 23.78"
+[1] "Real Valladolid %: 19.01"
 [1] "--XGoT Model--"
-[1] "Score: Celta Vigo 2.0566 to Real Valladolid 1.0848"
-[1] "Total: 3.1414"
-[1] "Celta Vigo %: 59.65"
-[1] "Draw %: 20.77"
-[1] "Real Valladolid %: 19.58"
+[1] "Score: Celta Vigo 1.8273 to Real Valladolid 0.97"
+[1] "Total: 2.7973"
+[1] "Celta Vigo %: 57.57"
+[1] "Draw %: 22.67"
+[1] "Real Valladolid %: 19.76"
 [1] "--XA Model--"
-[1] "Score: Celta Vigo 1.8158 to Real Valladolid 0.9867"
-[1] "Total: 2.8025"
-[1] "Celta Vigo %: 57.08"
-[1] "Draw %: 22.79"
-[1] "Real Valladolid %: 20.13"
+[1] "Score: Celta Vigo 1.7392 to Real Valladolid 0.9538"
+[1] "Total: 2.693"
+[1] "Celta Vigo %: 56.28"
+[1] "Draw %: 23.73"
+[1] "Real Valladolid %: 19.99"
 [1] "--Mean 4 Models--"
-[1] "Celta Vigo has a mean win % of 56.71%; a min win % of 51.53%; a max win % of 59.65%."
-[1] "Draw has a mean win % of 22.19%; a min win % of 20.77%; a max win % of 23.36%."
-[1] "Real Valladolid has a mean win % of 21.11%; a min win % of 19.58%; a max win of % 25.11%."
-[1] "Celta Vigo has a mean win of the Double Chance of 78.89%; a min win % of 74.89%, a max win % of 80.42%."
-[1] "Real Valladolid has a mean win of the Double Chance of 43.3%; a min win % of 40.35%, a max win % of 48.47%."
-[1] "The mean likelihood that there are more than 2.5 goals is 56.08%; max % is 60.89 and min % is 52.19%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 43.92%; max % is 47.81 and min % is 39.11%."
+[1] "Celta Vigo has a mean win % of 55.62%; a min win % of 51.4%; a max win % of 57.57%."
+[1] "Draw has a mean win % of 23.44%; a min win % of 22.67%; a max win % of 23.78%."
+[1] "Real Valladolid has a mean win % of 20.94%; a min win % of 19.01%; a max win of % 25%."
+[1] "Celta Vigo has a mean win of the Double Chance of 79.06%; a min win % of 75%, a max win % of 80.99%."
+[1] "Real Valladolid has a mean win of the Double Chance of 44.39%; a min win % of 42.43%, a max win % of 48.6%."
+[1] "The mean likelihood that there are more than 2.5 goals is 50.6%; max % is 53.31 and min % is 47.38%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 49.4%; max % is 52.62 and min % is 46.69%."
 [1] "--Sportsbook Odds--"
-[1] "Celta Vigo Barstool Odds are: 60"
-[1] "The Barstool Odds of a Draw are: 26.67"
+[1] "Celta Vigo Barstool Odds are: 60.98"
+[1] "The Barstool Odds of a Draw are: 26.32"
 [1] "Real Valladolid Barstool Odds are: 18.52"
-[1] "Celta Vigo Adjusted Barstool Odds are: 57.04"
-[1] "The Adjusted Barstool Odds of a Draw are: 25.354"
-[1] "Real Valladolid Adjusted Barstool Odds are: 17.606"
-[1] "Celta Vigo's Barstool Odds to cover the -0.5 spread are: 59.52"
-[1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 45.45"
-[1] "Barstool's line for the total is 2.5 at 2.14, which is a 46.73% chance of the over 2.5 hitting. The line for the under is 1.71, which is a 58.48% chance of the under 2.5 hitting."
+[1] "Celta Vigo Adjusted Barstool Odds are: 57.626"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.872"
+[1] "Real Valladolid Adjusted Barstool Odds are: 17.501"
+[1] "Celta Vigo's Barstool Odds to cover the -0.5 spread are: 60.24"
+[1] "Real Valladolid's Barstool Odds to cover the 0.5 spread are: 44.44"
+[1] "Barstool's line for the total is 2.5 at 1.98, which is a 50.51% chance of the over 2.5 hitting. The line for the under is 1.83, which is a 54.64% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
-                              bet           date_time
-1                 Real Valladolid 2023-02-26 07:15:00
-2 over Celta Vigo/Real Valladolid 2023-02-26 07:15:00
-
-
-|player           |team | number| odds| prob_tackle| ex_prob| prob_dif|statistic |league    | prob_passes| prob_shots| prob_sogs| prob_goals| prob_ast|
-|:----------------|:----|------:|----:|-----------:|-------:|--------:|:---------|:---------|-----------:|----------:|---------:|----------:|--------:|
-|Sergio Leon      |RVA  |     10| 1.82|          NA|  0.9999|   0.4504|passes    |ESP Spain |      0.5495|         NA|        NA|         NA|       NA|
-|Sergio Leon      |RVA  |     14| 2.26|          NA|  0.9975|   0.5550|passes    |ESP Spain |      0.4425|         NA|        NA|         NA|       NA|
-|Sergio Leon      |RVA  |     22| 3.48|          NA|  0.8599|   0.5725|passes    |ESP Spain |      0.2874|         NA|        NA|         NA|       NA|
-|Sergio Leon      |RVA  |     18| 2.71|          NA|  0.9723|   0.6033|passes    |ESP Spain |      0.3690|         NA|        NA|         NA|       NA|
-|Sergio Leon      |RVA  |     26| 4.80|          NA|  0.6146|   0.4063|passes    |ESP Spain |      0.2083|         NA|        NA|         NA|       NA|
-|Luis Perez       |RVA  |     27| 1.50|          NA|  0.7814|   0.1147|passes    |ESP Spain |      0.6667|         NA|        NA|         NA|       NA|
-|Cyle Larin       |RVA  |     11| 1.53|          NA|  0.7568|   0.1032|passes    |ESP Spain |      0.6536|         NA|        NA|         NA|       NA|
-|Luca de la Torre |CEL  |     30| 1.85|          NA|  0.9998|   0.4593|passes    |ESP Spain |      0.5405|         NA|        NA|         NA|       NA|
-|Luca de la Torre |CEL  |     34| 2.30|          NA|  0.9980|   0.5632|passes    |ESP Spain |      0.4348|         NA|        NA|         NA|       NA|
-|Luca de la Torre |CEL  |     38| 2.76|          NA|  0.9880|   0.6257|passes    |ESP Spain |      0.3623|         NA|        NA|         NA|       NA|
-|Luca de la Torre |CEL  |     26| 1.51|          NA|  1.0000|   0.3377|passes    |ESP Spain |      0.6623|         NA|        NA|         NA|       NA|
-|Luca de la Torre |CEL  |     42| 3.55|          NA|  0.9516|   0.6699|passes    |ESP Spain |      0.2817|         NA|        NA|         NA|       NA|
-|Luca de la Torre |CEL  |     46| 4.90|          NA|  0.8603|   0.6562|passes    |ESP Spain |      0.2041|         NA|        NA|         NA|       NA|
+              bet           date_time
+1 Real Valladolid 2023-02-26 07:15:00
 [1] "____________Anytime Goalscorers______________________"
 
 
-|pageUrl2                            |team            | expected_attg| expected_gs|bet |
-|:-----------------------------------|:---------------|-------------:|-----------:|:---|
-|/players/786630/ivn-villar          |Celta Vigo      |      0.000000|   0.1538462|    |
-|/players/638734/kevin-vzquez        |Celta Vigo      |      0.085250|   0.0434783|    |
-|/players/643998/joseph-aidoo        |Celta Vigo      |      0.013900|   0.1176471|    |
-|/players/805352/unai-nunez          |Celta Vigo      |      0.071375|   0.0666667|    |
-|/players/695062/javi-galn           |Celta Vigo      |      0.003950|   0.0434783|    |
-|/players/873297/carles-prez         |Celta Vigo      |      0.166650|   0.2702703|    |
-|/players/785511/fran-beltrn         |Celta Vigo      |      0.028175|   0.0625000|    |
-|/players/1116734/gabriel-veiga      |Celta Vigo      |      0.129675|   0.3703704|    |
-|/players/780418/luca-de-la-torre    |Celta Vigo      |      0.070850|   0.1176471|    |
-|/players/174472/iago-aspas          |Celta Vigo      |      0.378425|   0.5121951|    |
-|/players/821100/jrgen-strand-larsen |Celta Vigo      |      0.276725|   0.4166667|    |
-|/players/544312/cyle-larin          |Real Valladolid |      0.184850|   0.3225806|    |
-|/players/658658/selim-amallah       |Real Valladolid |      0.287075|   0.1538462|*   |
-|/players/359198/oscar-plano         |Real Valladolid |      0.058375|   0.1333333|    |
-|/players/980311/gonzalo-plata       |Real Valladolid |      0.007975|   0.1724138|    |
-|/players/907253/monchu              |Real Valladolid |      0.043075|   0.0909091|    |
-|/players/888167/kike-prez           |Real Valladolid |      0.030775|   0.0666667|    |
-|/players/390235/lucas-olaza         |Real Valladolid |      0.023025|   0.0714286|    |
-|/players/683761/javi-snchez         |Real Valladolid |      0.025000|   0.0285714|    |
-|/players/797758/martin-hongla       |Real Valladolid |      0.024950|   0.0909091|    |
-|/players/766957/luis-prez           |Real Valladolid |      0.025650|   0.0212766|    |
-|/players/96623/sergio-asenjo        |Real Valladolid |      0.000000|   0.2380952|    |
-|/players/388514/goncalo-paciencia   |Celta Vigo      |      0.110175|   0.3703704|    |
-|/players/170775/haris-seferovic     |Celta Vigo      |      0.207775|   0.3773585|    |
-|/players/863168/oscar-rodriguez     |Celta Vigo      |      0.023800|   0.2127660|    |
-|/players/407796/augusto-solari      |Celta Vigo      |      0.014025|   0.2000000|    |
-|/players/289278/darwin-machis       |Real Valladolid |      0.074375|   0.1538462|    |
-|/players/482512/sergio-leon         |Real Valladolid |      0.094400|   0.2380952|    |
-|/players/795309/lvaro-aguado        |Real Valladolid |      0.035000|   0.1052632|    |
-|/players/640611/joaquin-fernndez    |Real Valladolid |      0.000000|   0.0312500|    |
+|pageUrl2                          |team            | expected_attg| expected_gs|bet |
+|:---------------------------------|:---------------|-------------:|-----------:|:---|
+|/players/786630/ivn-villar        |Celta Vigo      |      0.000000|   0.0952381|    |
+|/players/183462/hugo-mallo        |Celta Vigo      |      0.061625|   0.0833333|    |
+|/players/643998/joseph-aidoo      |Celta Vigo      |      0.019925|   0.1250000|    |
+|/players/805352/unai-nunez        |Celta Vigo      |      0.088625|   0.0714286|    |
+|/players/695062/javi-galn         |Celta Vigo      |      0.006150|   0.0454545|    |
+|/players/873297/carles-prez       |Celta Vigo      |      0.175025|   0.2857143|    |
+|/players/785511/fran-beltrn       |Celta Vigo      |      0.028400|   0.0666667|    |
+|/players/1116734/gabriel-veiga    |Celta Vigo      |      0.130675|   0.3921569|    |
+|/players/780418/luca-de-la-torre  |Celta Vigo      |      0.075225|   0.1250000|    |
+|/players/174472/iago-aspas        |Celta Vigo      |      0.352025|   0.5348837|    |
+|/players/170775/haris-seferovic   |Celta Vigo      |      0.321900|   0.4000000|    |
+|/players/544312/cyle-larin        |Real Valladolid |      0.197450|   0.3508772|    |
+|/players/553256/ivn-sánchez       |Real Valladolid |      0.118800|   0.1250000|    |
+|/players/359198/oscar-plano       |Real Valladolid |      0.119550|   0.1428571|    |
+|/players/980311/gonzalo-plata     |Real Valladolid |      0.136175|   0.1886792|    |
+|/players/907253/monchu            |Real Valladolid |      0.042775|   0.0952381|    |
+|/players/888167/kike-prez         |Real Valladolid |      0.033350|   0.0714286|    |
+|/players/390235/lucas-olaza       |Real Valladolid |      0.018975|   0.0769231|    |
+|/players/683761/javi-snchez       |Real Valladolid |      0.019300|   0.0312500|    |
+|/players/798736/jawad-el-yamiq    |Real Valladolid |      0.049100|   0.0454545|    |
+|/players/766957/luis-prez         |Real Valladolid |      0.020025|   0.0238095|    |
+|/players/96623/sergio-asenjo      |Real Valladolid |      0.000000|   0.0500000|    |
+|/players/388514/goncalo-paciencia |Celta Vigo      |      0.135150|   0.0000000|*   |
+|/players/863168/oscar-rodriguez   |Celta Vigo      |      0.039050|   0.0000000|    |
+|/players/407796/augusto-solari    |Celta Vigo      |      0.019175|   0.0000000|    |
+|/players/541588/franco-cervi      |Celta Vigo      |      0.000775|   0.0000000|    |
+|/players/482512/sergio-leon       |Real Valladolid |      0.075050|   0.0000000|*   |
+|/players/658658/selim-amallah     |Real Valladolid |      0.010875|   0.0000000|    |
+|/players/795309/lvaro-aguado      |Real Valladolid |      0.024125|   0.0000000|    |
+|/players/640611/joaquin-fernndez  |Real Valladolid |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Celta Vigo:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/786630/ivn-villar          |           0|         26.8508|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/638734/kevin-vzquez        |           1|         47.6066|           1.5231|        0.1343|         0.2135|      0.0704|        0.1058|      0.1606| 90.0000|
-|/players/643998/joseph-aidoo        |           1|         54.3559|           1.5555|        0.0514|         0.7359|      0.0587|        0.0170|      0.0153| 90.0000|
-|/players/805352/unai-nunez          |           1|         55.6820|           0.7998|        0.3502|         0.8815|      0.0827|        0.0877|      0.0137| 90.0000|
-|/players/695062/javi-galn           |           1|         45.3755|           2.3173|        0.1886|         0.6372|      0.0296|        0.0050|      0.1260| 90.0000|
-|/players/873297/carles-prez         |           3|         29.4304|           0.9897|        0.7472|         2.2638|      0.1028|        0.2146|      0.0935| 77.8750|
-|/players/785511/fran-beltrn         |           3|         43.8073|           1.1939|        0.1581|         0.7124|      0.0510|        0.0344|      0.1301| 73.9524|
-|/players/1116734/gabriel-veiga      |           3|         26.9899|           1.7595|        0.5535|         1.4436|      0.2171|        0.1637|      0.0649| 71.8333|
-|/players/780418/luca-de-la-torre    |           3|         54.4465|           2.4346|        0.1598|         0.7579|      0.1406|        0.0883|      0.2142| 90.0000|
-|/players/174472/iago-aspas          |           5|         33.5115|           0.6353|        1.1555|         2.7848|      0.4801|        0.5563|      0.2240| 90.0000|
-|/players/821100/jrgen-strand-larsen |           5|         12.4677|           0.8064|        1.0363|         2.4186|      0.3754|        0.3790|      0.0437| 79.9091|
-|/players/388514/goncalo-paciencia   |          NA|              NA|               NA|        0.4869|         1.3059|      0.1082|        0.1420|      0.0222| 18.1667|
-|/players/170775/haris-seferovic     |          NA|              NA|               NA|        0.5252|         1.0565|      0.1856|        0.2625|      0.0485| 16.0476|
-|/players/863168/oscar-rodriguez     |          NA|              NA|               NA|        0.2842|         0.7204|      0.0227|        0.0284|      0.0904| 12.1250|
-|/players/407796/augusto-solari      |          NA|              NA|               NA|        0.0373|         0.1800|      0.0149|        0.0155|      0.0374| 10.0909|
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/786630/ivn-villar        |           0|         26.8156|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/183462/hugo-mallo        |           1|         48.7818|           1.8026|        0.3320|         0.7186|      0.0819|        0.0777|      0.1334| 90.0000|
+|/players/643998/joseph-aidoo      |           1|         53.8517|           1.4625|        0.0341|         0.5700|      0.0547|        0.0214|      0.0179| 90.0000|
+|/players/805352/unai-nunez        |           1|         55.1656|           0.7520|        0.2324|         0.6828|      0.0770|        0.1100|      0.0160| 90.0000|
+|/players/695062/javi-galn         |           1|         44.9546|           2.1787|        0.1252|         0.4935|      0.0275|        0.0063|      0.1477| 90.0000|
+|/players/873297/carles-prez       |           3|         29.3918|           0.9897|        0.7462|         2.2609|      0.1026|        0.2143|      0.0934| 77.8750|
+|/players/785511/fran-beltrn       |           3|         43.7498|           1.1939|        0.1579|         0.7115|      0.0509|        0.0344|      0.1299| 73.9524|
+|/players/1116734/gabriel-veiga    |           3|         26.9545|           1.7595|        0.5528|         1.4417|      0.2168|        0.1635|      0.0649| 71.8333|
+|/players/780418/luca-de-la-torre  |           3|         54.3751|           2.4346|        0.1596|         0.7570|      0.1405|        0.0882|      0.2139| 90.0000|
+|/players/174472/iago-aspas        |           5|         31.2853|           0.9126|        1.0916|         2.1881|      0.3550|        0.4877|      0.2084| 90.0000|
+|/players/170775/haris-seferovic   |           5|         14.2562|           0.5550|        1.0803|         2.9150|      0.4809|        0.4347|      0.0567| 79.1724|
+|/players/388514/goncalo-paciencia |           0|              NA|               NA|        0.5177|         1.3822|      0.1062|        0.1662|      0.0116| 18.1667|
+|/players/863168/oscar-rodriguez   |           0|              NA|               NA|        0.4000|         1.0092|      0.0295|        0.0440|      0.0626| 16.0476|
+|/players/407796/augusto-solari    |           0|              NA|               NA|        0.0476|         0.2289|      0.0176|        0.0218|      0.0235| 12.1250|
+|/players/541588/franco-cervi      |           0|              NA|               NA|        0.0496|         0.1905|      0.0083|        0.0010|      0.0278| 10.8276|
 
 
 |manager_name     | approx_games| m_avg_elo_dif|formation |
@@ -131,40 +113,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Real Valladolid:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                         | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:--------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/544312/cyle-larin       |           5|         14.2040|           0.4551|        0.5595|         1.3351|      0.1935|        0.1830|      0.0443| 74.6087|
-|/players/658658/selim-amallah    |           3|         26.0000|           1.3192|        0.5443|         1.9674|      0.2278|        0.2925|      0.0902| 90.0000|
-|/players/359198/oscar-plano      |           3|         21.4539|           0.8975|        0.2837|         1.1718|      0.0944|        0.0549|      0.0819| 78.7097|
-|/players/980311/gonzalo-plata    |           3|         21.7706|           1.4430|        0.3664|         0.7946|      0.0255|        0.0071|      0.0450| 78.9375|
-|/players/907253/monchu           |           2|         38.5142|           2.1555|        0.2274|         0.5198|      0.0470|        0.0352|      0.0425| 90.0000|
-|/players/888167/kike-prez        |           2|         29.8022|           1.6966|        0.0814|         0.6509|      0.0364|        0.0276|      0.0320| 71.4000|
-|/players/390235/lucas-olaza      |           1|         35.9549|           1.5230|        0.1182|         0.4246|      0.0397|        0.0225|      0.0653| 90.0000|
-|/players/683761/javi-snchez      |           1|         38.6694|           1.2319|        0.0438|         0.5017|      0.0241|        0.0225|      0.0065| 90.0000|
-|/players/797758/martin-hongla    |           1|         37.2580|           1.2319|        0.0438|         0.2892|      0.0241|        0.0225|      0.0048| 90.0000|
-|/players/766957/luis-prez        |           1|         31.9538|           2.4144|        0.1431|         0.2892|      0.0241|        0.0225|      0.0452| 90.0000|
-|/players/96623/sergio-asenjo     |           0|         28.1985|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/289278/darwin-machis    |          NA|              NA|               NA|        0.3821|         0.9011|      0.0626|        0.0664|      0.0615| 18.6000|
-|/players/482512/sergio-leon      |          NA|              NA|               NA|        0.2722|         0.7085|      0.0596|        0.0893|      0.0030| 15.3913|
-|/players/795309/lvaro-aguado     |          NA|              NA|               NA|        0.0548|         0.2350|      0.0174|        0.0317|      0.0187| 11.2903|
-|/players/640611/joaquin-fernndez |          NA|              NA|               NA|        0.0000|         0.1727|      0.0123|        0.0000|      0.0005| 11.0625|
+|/players/544312/cyle-larin       |           5|         14.2211|           0.4551|        0.5602|         1.3367|      0.1937|        0.1832|      0.0444| 74.6087|
+|/players/553256/ivn-sánchez      |           3|         28.9447|           0.3917|        0.4042|         1.5012|      0.1048|        0.1044|      0.0676| 77.5000|
+|/players/359198/oscar-plano      |           3|         18.1838|           1.1879|        0.3129|         1.2914|      0.1065|        0.1061|      0.0686| 78.7097|
+|/players/980311/gonzalo-plata    |           3|         21.0382|           2.1774|        0.4608|         0.9984|      0.1218|        0.1213|      0.0785| 90.0000|
+|/players/907253/monchu           |           2|         38.5605|           2.1555|        0.2277|         0.5205|      0.0471|        0.0353|      0.0426| 90.0000|
+|/players/888167/kike-prez        |           2|         29.8380|           1.6966|        0.0815|         0.6517|      0.0364|        0.0276|      0.0320| 71.4000|
+|/players/390235/lucas-olaza      |           1|         34.0936|           1.5556|        0.0772|         0.3673|      0.0303|        0.0164|      0.0440| 90.0000|
+|/players/683761/javi-snchez      |           1|         36.6675|           1.2582|        0.0286|         0.4340|      0.0184|        0.0164|      0.0044| 90.0000|
+|/players/798736/jawad-el-yamiq   |           1|         42.9483|           1.1216|        0.1501|         0.4552|      0.0450|        0.0410|      0.0431| 90.0000|
+|/players/766957/luis-prez        |           1|         30.2996|           2.4659|        0.0935|         0.2502|      0.0184|        0.0164|      0.0304| 90.0000|
+|/players/96623/sergio-asenjo     |           0|         28.2324|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/482512/sergio-leon      |           0|              NA|               NA|        0.3124|         0.8187|      0.0345|        0.0648|      0.0070| 18.6000|
+|/players/658658/selim-amallah    |           0|              NA|               NA|        0.1690|         0.4864|      0.0238|        0.0092|      0.0055| 15.3913|
+|/players/795309/lvaro-aguado     |           0|              NA|               NA|        0.0576|         0.2488|      0.0092|        0.0210|      0.0395| 12.5000|
+|/players/640611/joaquin-fernndez |           0|              NA|               NA|        0.0000|         0.1685|      0.0060|        0.0000|      0.0009| 11.2903|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Pacheta      |      41.9899|    -0.0112903|4-4-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3918161/Soccer_Models'...
-Receiving objects:   1% (48/4767),   63 kb
-Receiving objects:  11% (525/4767),  127 kb
-Receiving objects:  21% (1002/4767),  239 kb
-Receiving objects:  31% (1478/4767),  463 kb
-Receiving objects:  41% (1955/4767),  856 kb
-Receiving objects:  51% (2432/4767), 1080 kb
-Receiving objects:  61% (2908/4767), 5787 kb
-Receiving objects:  71% (3385/4767), 10381 kb
-Receiving objects:  81% (3862/4767), 10718 kb
-Receiving objects:  91% (4338/4767), 10830 kb
-Receiving objects: 100% (4767/4767), 11396 kb, done.
+Receiving objects:   1% (49/4893),   63 kb
+Receiving objects:  11% (539/4893),  127 kb
+Receiving objects:  21% (1028/4893),  239 kb
+Receiving objects:  31% (1517/4893),  576 kb
+Receiving objects:  41% (2007/4893),  856 kb
+Receiving objects:  51% (2496/4893), 1136 kb
+Receiving objects:  61% (2985/4893), 10149 kb
+Receiving objects:  71% (3475/4893), 10486 kb
+Receiving objects:  81% (3964/4893), 10766 kb
+Receiving objects:  91% (4453/4893), 10822 kb
+Receiving objects: 100% (4893/4893), 11506 kb, done.
