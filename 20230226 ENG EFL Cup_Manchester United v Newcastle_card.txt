@@ -1,111 +1,77 @@
-[1] "Updated at 2023-02-25 15:14:27.261"
+[1] "Updated at 2023-02-26 08:31:57.274"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Manchester United 1.4357 to Newcastle 1.194"
-[1] "Total: 2.6297"
-[1] "Manchester United %: 41.96"
-[1] "Draw %: 26.23"
-[1] "Newcastle %: 31.81"
+[1] "Score: Manchester United 1.4509 to Newcastle 1.2075"
+[1] "Total: 2.6584"
+[1] "Manchester United %: 42.17"
+[1] "Draw %: 26.42"
+[1] "Newcastle %: 31.41"
 [1] "--XG Model--"
-[1] "Score: Manchester United 1.4811 to Newcastle 1.2815"
-[1] "Total: 2.7626"
-[1] "Manchester United %: 42.1"
-[1] "Draw %: 25.18"
-[1] "Newcastle %: 32.72"
+[1] "Score: Manchester United 1.4724 to Newcastle 1.2747"
+[1] "Total: 2.7471"
+[1] "Manchester United %: 42.16"
+[1] "Draw %: 25.06"
+[1] "Newcastle %: 32.78"
 [1] "--XGoT Model--"
-[1] "Score: Manchester United 1.5716 to Newcastle 1.3164"
-[1] "Total: 2.888"
-[1] "Manchester United %: 43.43"
-[1] "Draw %: 24.42"
-[1] "Newcastle %: 32.15"
+[1] "Score: Manchester United 1.55 to Newcastle 1.2981"
+[1] "Total: 2.8481"
+[1] "Manchester United %: 43.65"
+[1] "Draw %: 24.67"
+[1] "Newcastle %: 31.68"
 [1] "--XA Model--"
-[1] "Score: Manchester United 1.6285 to Newcastle 1.3104"
-[1] "Total: 2.9389"
-[1] "Manchester United %: 45.46"
-[1] "Draw %: 24.38"
-[1] "Newcastle %: 30.16"
+[1] "Score: Manchester United 1.6497 to Newcastle 1.327"
+[1] "Total: 2.9767"
+[1] "Manchester United %: 45.88"
+[1] "Draw %: 24.53"
+[1] "Newcastle %: 29.59"
 [1] "--Mean 4 Models--"
-[1] "Manchester United has a mean win % of 43.24%; a min win % of 41.96%; a max win % of 45.46%."
-[1] "Draw has a mean win % of 25.05%; a min win % of 24.38%; a max win % of 26.23%."
-[1] "Newcastle has a mean win % of 31.71%; a min win % of 30.16%; a max win of % 32.72%."
-[1] "Manchester United has a mean win of the Double Chance of 68.29%; a min win % of 67.28%, a max win % of 69.84%."
-[1] "Newcastle has a mean win of the Double Chance of 56.76%; a min win % of 54.54%, a max win % of 58.04%."
-[1] "The mean likelihood that there are more than 2.5 goals is 52.4%; max % is 55.88 and min % is 47.54%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 47.6%; max % is 52.46 and min % is 44.12%."
+[1] "Manchester United has a mean win % of 43.46%; a min win % of 42.16%; a max win % of 45.88%."
+[1] "Draw has a mean win % of 25.17%; a min win % of 24.53%; a max win % of 26.42%."
+[1] "Newcastle has a mean win % of 31.36%; a min win % of 29.59%; a max win of % 32.78%."
+[1] "Manchester United has a mean win of the Double Chance of 68.64%; a min win % of 67.22%, a max win % of 70.41%."
+[1] "Newcastle has a mean win of the Double Chance of 56.54%; a min win % of 54.12%, a max win % of 57.84%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.29%; max % is 56.37 and min % is 48.37%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.71%; max % is 51.63 and min % is 43.63%."
 [1] "--Sportsbook Odds--"
-[1] "Manchester United Barstool Odds are: 48.08"
-[1] "The Barstool Odds of a Draw are: 29.85"
-[1] "Newcastle Barstool Odds are: 26.32"
-[1] "Manchester United Adjusted Barstool Odds are: 46.12"
-[1] "The Adjusted Barstool Odds of a Draw are: 28.633"
-[1] "Newcastle Adjusted Barstool Odds are: 25.247"
-[1] "Manchester United's Barstool Odds to cover the -0.25 spread are: 55.87"
-[1] "Newcastle's Barstool Odds to cover the 0.25 spread are: 49.5"
-[1] "Barstool's line for the total is 2.5 at 2.1, which is a 47.62% chance of the over 2.5 hitting. The line for the under is 1.75, which is a 57.14% chance of the under 2.5 hitting."
+[1] "Manchester United Barstool Odds are: 46.51"
+[1] "The Barstool Odds of a Draw are: 28.57"
+[1] "Newcastle Barstool Odds are: 29.41"
+[1] "Manchester United Adjusted Barstool Odds are: 44.511"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.342"
+[1] "Newcastle Adjusted Barstool Odds are: 28.146"
+[1] "Manchester United's Barstool Odds to cover the -0.25 spread are: 53.48"
+[1] "Newcastle's Barstool Odds to cover the 0.25 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 1.97, which is a 50.76% chance of the over 2.5 hitting. The line for the under is 1.86, which is a 53.76% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
             bet           date_time
 1     Newcastle 2023-02-26 08:30:00
 2 Newcastle ATS 2023-02-26 08:30:00
 [1] "____________Anytime Goalscorers______________________"
-
-
-|pageUrl2                            |team              | expected_attg| expected_gs|bet |
-|:-----------------------------------|:-----------------|-------------:|-----------:|:---|
-|/players/182917/david-de-gea        |Manchester United |      0.000000|   0.0833333|    |
-|/players/760320/aaron-wan-bissaka   |Manchester United |      0.037650|   0.0285714|    |
-|/players/230982/raphal-varane       |Manchester United |      0.021275|   0.0434783|    |
-|/players/847983/lisandro-martinez   |Manchester United |      0.057650|   0.0416667|    |
-|/players/362694/luke-shaw           |Manchester United |      0.041100|   0.0344828|    |
-|/players/208494/casemiro            |Manchester United |      0.087925|   0.0909091|    |
-|/players/322049/fred                |Manchester United |      0.048075|   0.1176471|    |
-|/players/967622/antony              |Manchester United |      0.251225|   0.2500000|    |
-|/players/422685/bruno-fernandes     |Manchester United |      0.162500|   0.2439024|    |
-|/players/846381/jadon-sancho        |Manchester United |      0.165425|   0.2173913|    |
-|/players/351999/wout-weghorst       |Manchester United |      0.317075|   0.3125000|    |
-|/players/466482/allan-saint-maximin |Newcastle         |      0.144125|   0.1666667|    |
-|/players/184321/callum-wilson       |Newcastle         |      0.294750|   0.2857143|    |
-|/players/442277/miguel-almiron      |Newcastle         |      0.203850|   0.1666667|    |
-|/players/535936/joelinton           |Newcastle         |      0.043000|   0.1666667|    |
-|/players/850354/bruno-guimaraes     |Newcastle         |      0.081700|   0.1176471|    |
-|/players/820024/sean-longstaff      |Newcastle         |      0.084675|   0.0833333|    |
-|/players/188058/daniel-burn         |Newcastle         |      0.011000|   0.0416667|    |
-|/players/956682/sven-botman         |Newcastle         |      0.054925|   0.0416667|    |
-|/players/189982/fabian-schr         |Newcastle         |      0.077550|   0.0500000|    |
-|/players/191869/kieran-trippier     |Newcastle         |      0.004825|   0.0500000|    |
-|/players/287894/loris-karius        |Newcastle         |      0.000000|   0.0833333|    |
-|/players/696365/marcus-rashford     |Manchester United |      0.065275|   0.3846154|    |
-|/players/215151/marcel-sabitzer     |Manchester United |      0.032225|   0.1785714|    |
-|/players/612836/donny-van-de-beek   |Manchester United |      0.007700|   0.2500000|    |
-|/players/1073402/facundo-pellistri  |Manchester United |      0.000000|   0.1666667|    |
-|/players/521148/jacob-murphy        |Newcastle         |      0.011275|   0.1176471|    |
-|/players/906937/anthony-gordon      |Newcastle         |      0.019275|   0.3333333|    |
-|/players/690107/alexander-isak      |Newcastle         |      0.053250|   0.2500000|    |
-|/players/230916/ryan-fraser         |Newcastle         |      0.004375|   0.1428571|    |
 ____________________________________________________
 
 [1] "Facts about Manchester United:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
-|pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/182917/david-de-gea       |           0|         23.0375|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/760320/aaron-wan-bissaka  |           1|         41.3246|           2.3059|        0.0452|         0.1625|      0.0305|        0.0404|      0.0603| 90.0000|
-|/players/230982/raphal-varane      |           1|         47.8431|           0.9842|        0.1018|         0.5187|      0.0659|        0.0232|      0.0098| 90.0000|
-|/players/847983/lisandro-martinez  |           1|         65.0681|           1.7206|        0.2316|         1.0418|      0.0830|        0.0645|      0.0749| 90.0000|
-|/players/362694/luke-shaw          |           1|         46.7762|           1.4616|        0.2464|         0.5356|      0.0362|        0.0475|      0.1262| 90.0000|
-|/players/208494/casemiro           |           2|         48.1287|           2.3365|        0.3511|         1.1013|      0.1116|        0.0992|      0.1229| 83.7619|
-|/players/322049/fred               |           2|         50.0296|           1.9790|        0.2340|         0.8673|      0.0572|        0.0550|      0.0533| 82.3036|
-|/players/967622/antony             |           3|         25.3799|           0.9866|        0.8535|         2.3153|      0.2523|        0.3007|      0.1568| 77.5769|
-|/players/422685/bruno-fernandes    |           3|         37.1943|           1.9380|        0.8845|         2.2525|      0.2555|        0.1897|      0.2153| 90.0000|
-|/players/846381/jadon-sancho       |           3|         30.1980|           1.0073|        0.4156|         1.0838|      0.1698|        0.1908|      0.1214| 83.8065|
-|/players/351999/wout-weghorst      |           5|         20.7415|           0.6530|        1.0497|         2.6050|      0.4283|        0.4019|      0.0995| 90.0000|
-|/players/696365/marcus-rashford    |          NA|              NA|               NA|        0.1734|         0.3734|      0.0655|        0.0755|      0.0206| 12.4231|
-|/players/215151/marcel-sabitzer    |          NA|              NA|               NA|        0.1205|         0.2259|      0.0281|        0.0323|      0.0191|  7.6964|
-|/players/612836/donny-van-de-beek  |          NA|              NA|               NA|        0.0119|         0.0587|      0.0103|        0.0084|      0.0146|  6.2381|
-|/players/1073402/facundo-pellistri |          NA|              NA|               NA|        0.0000|         0.0139|      0.0002|        0.0000|      0.0042|  6.1935|
+|pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/182917/david-de-gea        |           0|         23.0497|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/751550/diogo-dalot         |           1|         39.2350|           2.3492|        0.2216|         0.7747|      0.0800|        0.0732|      0.0649| 90.0000|
+|/players/230982/raphal-varane       |           1|         48.5012|           0.9740|        0.0708|         0.3675|      0.0483|        0.0176|      0.0096| 90.0000|
+|/players/847983/lisandro-martinez   |           1|         65.9631|           1.7027|        0.1613|         0.7381|      0.0609|        0.0489|      0.0733| 90.0000|
+|/players/362694/luke-shaw           |           1|         47.4196|           1.4464|        0.1715|         0.3794|      0.0265|        0.0360|      0.1235| 90.0000|
+|/players/208494/casemiro            |           2|         48.1543|           2.3365|        0.3512|         1.1019|      0.1116|        0.0993|      0.1229| 83.7619|
+|/players/322049/fred                |           2|         50.0562|           1.9790|        0.2341|         0.8677|      0.0573|        0.0550|      0.0533| 82.3036|
+|/players/967622/antony              |           3|         28.0445|           1.1257|        0.6911|         2.0166|      0.2266|        0.2658|      0.1695| 77.5769|
+|/players/422685/bruno-fernandes     |           3|         41.0993|           2.2112|        0.7163|         1.9619|      0.2295|        0.1677|      0.2328| 90.0000|
+|/players/696365/marcus-rashford     |           3|         23.4557|           0.5956|        0.7400|         1.6604|      0.2195|        0.2465|      0.0906| 82.8298|
+|/players/351999/wout-weghorst       |           5|         20.7525|           0.6530|        1.0502|         2.6063|      0.4285|        0.4021|      0.0995| 90.0000|
+|/players/215151/marcel-sabitzer     |           0|              NA|               NA|        0.2019|         0.3738|      0.0519|        0.0604|      0.0227| 12.4231|
+|/players/846381/jadon-sancho        |           0|              NA|               NA|        0.0334|         0.1086|      0.0195|        0.0074|      0.0258|  7.6964|
+|/players/843099/scott-mctominay     |           0|              NA|               NA|        0.0845|         0.1153|      0.0166|        0.0197|      0.0052|  7.1702|
+|/players/1203665/alejandro-garnacho |           0|              NA|               NA|        0.0434|         0.1692|      0.0090|        0.0080|      0.0263|  6.2381|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
@@ -114,40 +80,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Newcastle:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/466482/allan-saint-maximin |           5|         26.2327|           0.6680|        0.7737|         1.7150|      0.1168|        0.1712|      0.1796| 82.3333|
-|/players/184321/callum-wilson       |           5|         14.3431|           0.6935|        1.0441|         2.3506|      0.4953|        0.3790|      0.0534| 90.0000|
-|/players/442277/miguel-almiron      |           5|         30.3499|           1.8129|        0.4332|         1.5756|      0.1979|        0.2492|      0.1027| 79.8000|
-|/players/535936/joelinton           |           3|         33.5988|           1.4371|        0.2285|         0.8588|      0.1027|        0.0483|      0.0558| 82.3529|
-|/players/850354/bruno-guimaraes     |           3|         49.8998|           2.1210|        0.3329|         0.8939|      0.0656|        0.0958|      0.1494| 79.2286|
-|/players/820024/sean-longstaff      |           3|         40.9329|           1.9586|        0.3114|         1.1426|      0.1047|        0.0966|      0.0497| 90.0000|
-|/players/188058/daniel-burn         |           1|         40.5690|           1.8016|        0.0843|         0.3783|      0.0431|        0.0121|      0.0241| 90.0000|
-|/players/956682/sven-botman         |           1|         54.6219|           1.0873|        0.1252|         0.4297|      0.0476|        0.0610|      0.0172| 90.0000|
-|/players/189982/fabian-schr         |           1|         46.9649|           1.1373|        0.3040|         0.9204|      0.0808|        0.0857|      0.0484| 90.0000|
-|/players/191869/kieran-trippier     |           1|         47.2332|           2.6402|        0.0476|         0.1760|      0.0132|        0.0045|      0.1452| 90.0000|
-|/players/287894/loris-karius        |           0|         27.6124|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/521148/jacob-murphy        |          NA|              NA|               NA|        0.0491|         0.1121|      0.0087|        0.0134|      0.0148| 10.7714|
-|/players/906937/anthony-gordon      |          NA|              NA|               NA|        0.0699|         0.1598|      0.0227|        0.0200|      0.0082| 10.2000|
-|/players/690107/alexander-isak      |          NA|              NA|               NA|        0.1044|         0.1767|      0.0428|        0.0604|      0.0119|  7.6667|
-|/players/230916/ryan-fraser         |          NA|              NA|               NA|        0.0319|         0.1134|      0.0144|        0.0051|      0.0115|  7.6471|
+|/players/466482/allan-saint-maximin |           5|         26.2189|           0.6680|        0.7732|         1.7141|      0.1167|        0.1712|      0.1795| 82.3333|
+|/players/184321/callum-wilson       |           5|         14.3356|           0.6935|        1.0435|         2.3494|      0.4950|        0.3788|      0.0534| 90.0000|
+|/players/442277/miguel-almiron      |           5|         30.3340|           1.8129|        0.4330|         1.5748|      0.1978|        0.2491|      0.1027| 79.8000|
+|/players/535936/joelinton           |           3|         33.5812|           1.4371|        0.2283|         0.8584|      0.1026|        0.0483|      0.0558| 82.3529|
+|/players/850354/bruno-guimaraes     |           3|         49.8736|           2.1210|        0.3327|         0.8934|      0.0656|        0.0957|      0.1493| 79.2286|
+|/players/820024/sean-longstaff      |           3|         40.9115|           1.9586|        0.3112|         1.1420|      0.1047|        0.0965|      0.0497| 90.0000|
+|/players/188058/daniel-burn         |           1|         40.5477|           1.8016|        0.0842|         0.3781|      0.0431|        0.0121|      0.0241| 90.0000|
+|/players/956682/sven-botman         |           1|         54.5932|           1.0873|        0.1251|         0.4295|      0.0476|        0.0609|      0.0172| 90.0000|
+|/players/189982/fabian-schr         |           1|         46.9402|           1.1373|        0.3039|         0.9200|      0.0807|        0.0856|      0.0484| 90.0000|
+|/players/191869/kieran-trippier     |           1|         47.2084|           2.6402|        0.0476|         0.1759|      0.0131|        0.0045|      0.1451| 90.0000|
+|/players/287894/loris-karius        |           0|         27.5979|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/521148/jacob-murphy        |           0|              NA|               NA|        0.0508|         0.1179|      0.0056|        0.0070|      0.0239| 10.7714|
+|/players/690107/alexander-isak      |           0|              NA|               NA|        0.1439|         0.2473|      0.0368|        0.0417|      0.0256| 10.2000|
+|/players/860975/joseph-willock      |           0|              NA|               NA|        0.0699|         0.2162|      0.0152|        0.0147|      0.0060|  7.6667|
+|/players/155913/matt-ritchie        |           0|              NA|               NA|        0.0388|         0.0601|      0.0248|        0.0179|      0.0080|  7.6471|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Eddie Howe   |     54.84141|     -3.121757|4-3-3     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4100320/Soccer_Models'...
-Receiving objects:   1% (49/4866),   63 kb
-Receiving objects:  11% (536/4866),  127 kb
-Receiving objects:  21% (1022/4866),  239 kb
-Receiving objects:  31% (1509/4866),  520 kb
-Receiving objects:  41% (1996/4866),  856 kb
-Receiving objects:  51% (2482/4866), 1136 kb
-Receiving objects:  61% (2969/4866), 10141 kb
-Receiving objects:  71% (3455/4866), 10478 kb
-Receiving objects:  81% (3942/4866), 10758 kb
-Receiving objects:  91% (4429/4866), 10814 kb
-Receiving objects: 100% (4866/4866), 11489 kb, done.
+Receiving objects:   1% (50/4902),   63 kb
+Receiving objects:  11% (540/4902),  127 kb
+Receiving objects:  21% (1030/4902),  239 kb
+Receiving objects:  31% (1520/4902),  576 kb
+Receiving objects:  41% (2010/4902),  856 kb
+Receiving objects:  51% (2501/4902), 1136 kb
+Receiving objects:  61% (2991/4902), 10181 kb
+Receiving objects:  71% (3481/4902), 10461 kb
+Receiving objects:  81% (3971/4902), 10742 kb
+Receiving objects:  91% (4461/4902), 10854 kb
+Receiving objects: 100% (4902/4902), 11515 kb, done.
