@@ -1,0 +1,152 @@
+[1] "Updated at 2023-02-25 21:49:45.608"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Brisbane Roar 1.2364 to Perth Glory 0.9168"
+[1] "Total: 2.1532"
+[1] "Brisbane Roar %: 44.11"
+[1] "Draw %: 28.46"
+[1] "Perth Glory %: 27.43"
+[1] "--XG Model--"
+[1] "Score: Brisbane Roar 1.163 to Perth Glory 0.8556"
+[1] "Total: 2.0186"
+[1] "Brisbane Roar %: 42.86"
+[1] "Draw %: 30.14"
+[1] "Perth Glory %: 27"
+[1] "--XGoT Model--"
+[1] "Score: Brisbane Roar 1.4511 to Perth Glory 1.0926"
+[1] "Total: 2.5437"
+[1] "Brisbane Roar %: 45.53"
+[1] "Draw %: 25.71"
+[1] "Perth Glory %: 28.76"
+[1] "--XA Model--"
+[1] "Score: Brisbane Roar 1.3789 to Perth Glory 1.1339"
+[1] "Total: 2.5128"
+[1] "Brisbane Roar %: 43.13"
+[1] "Draw %: 26.2"
+[1] "Perth Glory %: 30.67"
+[1] "--Mean 4 Models--"
+[1] "Brisbane Roar has a mean win % of 43.91%; a min win % of 42.86%; a max win % of 45.53%."
+[1] "Draw has a mean win % of 27.63%; a min win % of 25.71%; a max win % of 30.14%."
+[1] "Perth Glory has a mean win % of 28.46%; a min win % of 27%; a max win of % 30.67%."
+[1] "Brisbane Roar has a mean win of the Double Chance of 71.53%; a min win % of 69.33%, a max win % of 73%."
+[1] "Perth Glory has a mean win of the Double Chance of 56.09%; a min win % of 54.47%, a max win % of 57.14%."
+[1] "The mean likelihood that there are more than 2.5 goals is 39.65%; max % is 45.58 and min % is 32.31%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 60.35%; max % is 67.69 and min % is 54.42%."
+[1] "--Sportsbook Odds--"
+[1] "Brisbane Roar Barstool Odds are: 44.44"
+[1] "The Barstool Odds of a Draw are: 28.99"
+[1] "Perth Glory Barstool Odds are: 32.79"
+[1] "Brisbane Roar Adjusted Barstool Odds are: 41.838"
+[1] "The Adjusted Barstool Odds of a Draw are: 27.292"
+[1] "Perth Glory Adjusted Barstool Odds are: 30.87"
+[1] "Brisbane Roar's Barstool Odds to cover the -0.25 spread are: 50.76"
+[1] "Perth Glory's Barstool Odds to cover the 0.25 spread are: 53.76"
+[1] "Barstool's line for the total is 2.5 at 2.02, which is a 49.5% chance of the over 2.5 hitting. The line for the under is 1.8, which is a 55.56% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+              bet           date_time
+1 Perth Glory ATS 2023-02-25 22:00:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                 |team          | expected_attg| expected_gs|bet |
+|:----------------------------------------|:-------------|-------------:|-----------:|:---|
+|/players/750901/jordan-holmes            |Brisbane Roar |      0.000000|   0.0666667|    |
+|/players/180096/jack-hingert             |Brisbane Roar |      0.033775|   0.1176471|    |
+|/players/1101030/kai-trewin              |Brisbane Roar |      0.030975|   0.0625000|    |
+|/players/184449/tom-aldred               |Brisbane Roar |      0.036625|   0.0476190|    |
+|/players/1101031/jordan-courtney-perkins |Brisbane Roar |      0.031625|   0.0909091|    |
+|/players/1312753/henry-hore              |Brisbane Roar |      0.220325|   0.2000000|    |
+|/players/1169230/taras-gomulka           |Brisbane Roar |      0.021550|   0.0588235|    |
+|/players/886617/rahmat-akbari            |Brisbane Roar |      0.019950|   0.1666667|    |
+|/players/951753/jez-lofthouse            |Brisbane Roar |      0.003475|   0.1754386|    |
+|/players/971570/carlo-armiento           |Brisbane Roar |      0.180700|   0.2564103|    |
+|/players/799052/nikola-mileusnic         |Brisbane Roar |      0.234750|   0.2702703|    |
+|/players/243068/adam-taggart             |Perth Glory   |      0.162200|   0.3389831|    |
+|/players/424602/jack-clisby              |Perth Glory   |      0.187600|   0.0833333|*   |
+|/players/1224986/keegan-jelacic          |Perth Glory   |      0.068600|   0.1333333|    |
+|/players/279829/ryan-williams            |Perth Glory   |      0.069225|   0.1851852|    |
+|/players/1069830/luke-bodnar             |Perth Glory   |      0.033450|   0.0714286|    |
+|/players/207023/mustafa-amini            |Perth Glory   |      0.032275|   0.1333333|    |
+|/players/50396/mark-beevers              |Perth Glory   |      0.026175|   0.0526316|    |
+|/players/158841/darryl-lachman           |Perth Glory   |      0.021000|   0.0555556|    |
+|/players/392183/jordan-elsey             |Perth Glory   |      0.019625|   0.0666667|    |
+|/players/274781/selim-khelifi            |Perth Glory   |      0.016775|   0.1333333|    |
+|/players/1207844/cameron-cook            |Perth Glory   |      0.000000|   0.2000000|    |
+|/players/494571/josh-brindell-south      |Brisbane Roar |      0.284500|   0.0000000|*   |
+|/players/460620/marcel-canadi            |Brisbane Roar |      0.000000|   0.0000000|    |
+|/players/1329010/louis-zabala            |Brisbane Roar |      0.000000|   0.0000000|    |
+|/players/1110665/noah-smith              |Brisbane Roar |      0.000000|   0.0000000|    |
+|/players/31358/david-williams            |Perth Glory   |      0.010375|   0.0000000|    |
+|/players/1336874/adam-zimarino           |Perth Glory   |      0.012200|   0.0000000|    |
+|/players/1207848/giordano-colli          |Perth Glory   |      0.000000|   0.0000000|    |
+|/players/664503/aaron-mceneff            |Perth Glory   |      0.206100|   0.0000000|*   |
+____________________________________________________
+
+[1] "Facts about Brisbane Roar:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                                 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:----------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/750901/jordan-holmes            |           0|         23.1476|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/180096/jack-hingert             |           1|         38.7115|           1.7227|        0.1597|         0.3037|      0.0197|        0.0438|      0.1412| 90.0000|
+|/players/1101030/kai-trewin              |           1|         54.3435|           2.1730|        0.1597|         0.6470|      0.0708|        0.0438|      0.0590| 90.0000|
+|/players/184449/tom-aldred               |           1|         41.5002|           1.2210|        0.1795|         0.6314|      0.0470|        0.0491|      0.0374| 90.0000|
+|/players/1101031/jordan-courtney-perkins |           1|         46.3424|           1.5683|        0.1597|         0.7900|      0.0807|        0.0438|      0.0186| 90.0000|
+|/players/1312753/henry-hore              |           3|         31.3407|           0.5488|        1.1125|         1.7864|      0.1878|        0.3239|      0.1242| 70.0000|
+|/players/1169230/taras-gomulka           |           3|         37.0258|           2.5607|        0.1146|         0.5292|      0.0709|        0.0273|      0.0742| 90.0000|
+|/players/886617/rahmat-akbari            |           3|         42.7960|           2.0778|        0.1146|         0.7888|      0.0864|        0.0273|      0.0891| 90.0000|
+|/players/951753/jez-lofthouse            |           3|          6.9329|           0.4116|        0.0196|         0.3828|      0.0182|        0.0047|      0.0281| 15.4000|
+|/players/971570/carlo-armiento           |           5|         17.6920|           0.2907|        0.5731|         1.7701|      0.3499|        0.2682|      0.0152| 71.2000|
+|/players/799052/nikola-mileusnic         |           5|         19.0859|           0.8810|        1.0420|         2.3244|      0.2377|        0.3456|      0.1533| 69.6364|
+|/players/494571/josh-brindell-south      |           0|              NA|               NA|        0.5865|         1.0232|      0.1383|        0.4399|      0.2236| 74.6000|
+|/players/460620/marcel-canadi            |           0|              NA|               NA|        0.0000|         0.4206|      0.0458|        0.0000|      0.0107| 20.3636|
+|/players/1329010/louis-zabala            |           0|              NA|               NA|        0.0000|         0.2528|      0.0315|        0.0000|      0.0086| 20.0000|
+|/players/1110665/noah-smith              |           0|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0109| 18.8000|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Warren Moon  |     62.84949|     -4.403235|3-4-2-1   |
+____________________________________________________
+
+[1] "Facts about Perth Glory:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/243068/adam-taggart    |           5|         15.1959|           0.4291|        0.6468|         1.5787|      0.2691|        0.2688|      0.0544| 66.6667|
+|/players/424602/jack-clisby     |           3|         35.8925|           1.0731|        0.7545|         1.6355|      0.1207|        0.3129|      0.0524| 90.0000|
+|/players/1224986/keegan-jelacic |           3|         27.8431|           1.9618|        0.4816|         1.7939|      0.3643|        0.1078|      0.1826| 90.0000|
+|/players/279829/ryan-williams   |           3|         33.4641|           1.2274|        0.4816|         1.6182|      0.0243|        0.1078|      0.1646| 90.0000|
+|/players/1069830/luke-bodnar    |           2|         32.5585|           1.8197|        0.1811|         0.6705|      0.0537|        0.0490|      0.0252| 74.0000|
+|/players/207023/mustafa-amini   |           2|         53.8300|           1.8935|        0.1884|         0.6976|      0.0559|        0.0510|      0.1007| 77.0000|
+|/players/50396/mark-beevers     |           1|         43.9121|           0.8578|        0.1161|         0.5400|      0.0576|        0.0430|      0.0095| 90.0000|
+|/players/158841/darryl-lachman  |           1|         58.9184|           1.6472|        0.1161|         0.1587|      0.0081|        0.0321|      0.0238| 90.0000|
+|/players/392183/jordan-elsey    |           1|         59.8973|           0.9315|        0.1538|         1.0214|      0.0815|        0.0321|      0.0126| 90.0000|
+|/players/274781/selim-khelifi   |           1|         27.0660|           2.7944|        0.0987|         0.1349|      0.0069|        0.0273|      0.1411| 76.5000|
+|/players/1207844/cameron-cook   |           0|         30.2723|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/31358/david-williams   |           0|              NA|               NA|        0.2680|         0.7916|      0.0319|        0.0156|      0.0342| 23.3333|
+|/players/1336874/adam-zimarino  |           0|              NA|               NA|        0.0969|         0.2148|      0.0228|        0.0200|      0.0318| 16.0000|
+|/players/1207848/giordano-colli |           0|              NA|               NA|        0.0000|         0.1591|      0.0143|        0.0000|      0.1926| 13.5000|
+|/players/664503/aaron-mceneff   |           0|              NA|               NA|        0.1545|         0.5133|      0.1232|        0.3499|      0.0042| 13.0000|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Ruben Zadkovich |     25.89192|     -9.094231|3-5-2     |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3978803/Soccer_Models'...
+Receiving objects:   1% (49/4890),   63 kb
+Receiving objects:  11% (538/4890),  127 kb
+Receiving objects:  21% (1027/4890),  239 kb
+Receiving objects:  31% (1516/4890),  576 kb
+Receiving objects:  41% (2005/4890),  856 kb
+Receiving objects:  51% (2494/4890), 1136 kb
+Receiving objects:  61% (2983/4890), 10141 kb
+Receiving objects:  71% (3472/4890), 10478 kb
+Receiving objects:  81% (3961/4890), 10758 kb
+Receiving objects:  91% (4450/4890), 10870 kb
+Receiving objects: 100% (4890/4890), 11503 kb, done.
