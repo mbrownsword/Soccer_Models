@@ -1,48 +1,48 @@
-[1] "Updated at 2023-02-25 10:52:08.381"
+[1] "Updated at 2023-02-26 07:38:57.552"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Bayern Munich 1.9099 to 1. FC Union Berlin 0.6468"
-[1] "Total: 2.5567"
-[1] "Bayern Munich %: 67.58"
-[1] "Draw %: 21.07"
-[1] "1. FC Union Berlin %: 11.35"
+[1] "Score: Bayern Munich 1.935 to 1. FC Union Berlin 0.6584"
+[1] "Total: 2.5934"
+[1] "Bayern Munich %: 68.07"
+[1] "Draw %: 20.78"
+[1] "1. FC Union Berlin %: 11.15"
 [1] "--XG Model--"
-[1] "Score: Bayern Munich 2.2852 to 1. FC Union Berlin 0.6708"
-[1] "Total: 2.956"
-[1] "Bayern Munich %: 74.66"
-[1] "Draw %: 16.5"
-[1] "1. FC Union Berlin %: 8.84"
+[1] "Score: Bayern Munich 2.2691 to 1. FC Union Berlin 0.66"
+[1] "Total: 2.9291"
+[1] "Bayern Munich %: 74.62"
+[1] "Draw %: 16.69"
+[1] "1. FC Union Berlin %: 8.69"
 [1] "--XGoT Model--"
-[1] "Score: Bayern Munich 2.034 to 1. FC Union Berlin 0.5902"
-[1] "Total: 2.6242"
-[1] "Bayern Munich %: 71.72"
-[1] "Draw %: 19.21"
-[1] "1. FC Union Berlin %: 9.07"
+[1] "Score: Bayern Munich 2.0845 to 1. FC Union Berlin 0.6208"
+[1] "Total: 2.7053"
+[1] "Bayern Munich %: 71.46"
+[1] "Draw %: 19.04"
+[1] "1. FC Union Berlin %: 9.5"
 [1] "--XA Model--"
-[1] "Score: Bayern Munich 2.2474 to 1. FC Union Berlin 0.5965"
-[1] "Total: 2.8439"
-[1] "Bayern Munich %: 75.41"
-[1] "Draw %: 16.72"
-[1] "1. FC Union Berlin %: 7.87"
+[1] "Score: Bayern Munich 2.2475 to 1. FC Union Berlin 0.601"
+[1] "Total: 2.8485"
+[1] "Bayern Munich %: 75.26"
+[1] "Draw %: 16.75"
+[1] "1. FC Union Berlin %: 7.99"
 [1] "--Mean 4 Models--"
-[1] "Bayern Munich has a mean win % of 72.34%; a min win % of 67.58%; a max win % of 75.41%."
-[1] "Draw has a mean win % of 18.38%; a min win % of 16.5%; a max win % of 21.07%."
-[1] "1. FC Union Berlin has a mean win % of 9.28%; a min win % of 7.87%; a max win of % 11.35%."
-[1] "Bayern Munich has a mean win of the Double Chance of 90.72%; a min win % of 88.65%, a max win % of 92.13%."
-[1] "1. FC Union Berlin has a mean win of the Double Chance of 27.66%; a min win % of 24.59%, a max win % of 32.42%."
-[1] "The mean likelihood that there are more than 2.5 goals is 51.44%; max % is 56.18 and min % is 46.71%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 48.56%; max % is 53.29 and min % is 43.82%."
+[1] "Bayern Munich has a mean win % of 72.35%; a min win % of 68.07%; a max win % of 75.26%."
+[1] "Draw has a mean win % of 18.32%; a min win % of 16.69%; a max win % of 20.78%."
+[1] "1. FC Union Berlin has a mean win % of 9.33%; a min win % of 7.99%; a max win of % 11.15%."
+[1] "Bayern Munich has a mean win of the Double Chance of 90.67%; a min win % of 88.85%, a max win % of 92.01%."
+[1] "1. FC Union Berlin has a mean win of the Double Chance of 27.65%; a min win % of 24.74%, a max win % of 31.93%."
+[1] "The mean likelihood that there are more than 2.5 goals is 52.05%; max % is 55.84 and min % is 47.77%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 47.95%; max % is 52.23 and min % is 44.16%."
 [1] "--Sportsbook Odds--"
-[1] "Bayern Munich Barstool Odds are: 73.33"
-[1] "The Barstool Odds of a Draw are: 20"
-[1] "1. FC Union Berlin Barstool Odds are: 12.5"
-[1] "Bayern Munich Adjusted Barstool Odds are: 69.29"
-[1] "The Adjusted Barstool Odds of a Draw are: 18.898"
-[1] "1. FC Union Berlin Adjusted Barstool Odds are: 11.811"
-[1] "Bayern Munich's Barstool Odds to cover the -1.5 spread are: 49.5"
-[1] "1. FC Union Berlin's Barstool Odds to cover the 1.5 spread are: 54.95"
-[1] "Barstool's line for the total is 2.5 at 1.56, which is a 64.1% chance of the over 2.5 hitting. The line for the under is 2.43, which is a 41.15% chance of the under 2.5 hitting."
+[1] "Bayern Munich Barstool Odds are: 71.43"
+[1] "The Barstool Odds of a Draw are: 20.83"
+[1] "1. FC Union Berlin Barstool Odds are: 13.33"
+[1] "Bayern Munich Adjusted Barstool Odds are: 67.648"
+[1] "The Adjusted Barstool Odds of a Draw are: 19.727"
+[1] "1. FC Union Berlin Adjusted Barstool Odds are: 12.624"
+[1] "Bayern Munich's Barstool Odds to cover the -1.25 spread are: 53.19"
+[1] "1. FC Union Berlin's Barstool Odds to cover the 1.25 spread are: 51.81"
+[1] "Barstool's line for the total is 2.5 at 1.64, which is a 60.98% chance of the over 2.5 hitting. The line for the under is 2.28, which is a 43.86% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                                      bet           date_time
@@ -52,59 +52,59 @@
 
 |pageUrl2                                |team               | expected_attg| expected_gs|bet |
 |:---------------------------------------|:------------------|-------------:|-----------:|:---|
-|/players/41618/yann-sommer              |Bayern Munich      |      0.000000|   0.1724138|    |
-|/players/611223/benjamin-pavard         |Bayern Munich      |      0.059350|   0.1250000|    |
-|/players/769895/matthijs-de-ligt        |Bayern Munich      |      0.029950|   0.1333333|    |
-|/players/751202/alphonso-davies         |Bayern Munich      |      0.061275|   0.2083333|    |
-|/players/361757/joao-cancelo            |Bayern Munich      |      0.039075|   0.1538462|    |
-|/players/460632/joshua-kimmich          |Bayern Munich      |      0.039900|   0.1724138|    |
-|/players/343748/leon-goretzka           |Bayern Munich      |      0.176375|   0.2222222|    |
-|/players/1156141/jamal-musiala          |Bayern Munich      |      0.136350|   0.3571429|    |
-|/players/429265/kingsley-coman          |Bayern Munich      |      0.119450|   0.3333333|    |
-|/players/116772/thomas-mller            |Bayern Munich      |      0.388900|   0.3636364|    |
-|/players/95082/eric-maxim-choupo-moting |Bayern Munich      |      0.408725|   0.4878049|    |
-|/players/614923/kevin-behrens           |1. FC Union Berlin |      0.118200|   0.2500000|    |
-|/players/495222/sheraldo-becker         |1. FC Union Berlin |      0.117425|   0.2702703|    |
-|/players/359312/niko-giesselmann        |1. FC Union Berlin |      0.046225|   0.0909091|    |
-|/players/304354/janik-haberer           |1. FC Union Berlin |      0.073775|   0.1538462|    |
-|/players/304348/rani-khedira            |1. FC Union Berlin |      0.026025|   0.0625000|    |
-|/players/715642/aissa-laidouni          |1. FC Union Berlin |      0.003650|   0.1250000|    |
-|/players/166733/christopher-trimmel     |1. FC Union Berlin |      0.017650|   0.0625000|    |
-|/players/824635/diogo-leite             |1. FC Union Berlin |      0.009775|   0.0476190|    |
-|/players/259296/robin-knoche            |1. FC Union Berlin |      0.032175|   0.1176471|    |
-|/players/724196/danilho-doekhi          |1. FC Union Berlin |      0.030475|   0.1176471|    |
-|/players/186557/frederik-rnnow          |1. FC Union Berlin |      0.000000|   0.4081633|    |
-|/players/530859/leroy-san               |Bayern Munich      |      0.147825|   0.4081633|    |
-|/players/385437/serge-gnabry            |Bayern Munich      |      0.103125|   0.4255319|    |
-|/players/956683/ryan-gravenberch        |Bayern Munich      |      0.031850|   0.1428571|    |
-|/players/278341/bouna-sarr              |Bayern Munich      |      0.000000|   0.1666667|    |
-|/players/660383/milos-pantovic          |1. FC Union Berlin |      0.032325|   0.1666667|    |
-|/players/469764/levin-mete-ztunali      |1. FC Union Berlin |      0.000450|   0.1000000|    |
-|/players/419774/sven-michel             |1. FC Union Berlin |      0.037525|   0.2380952|    |
-|/players/290105/kevin-mhwald            |1. FC Union Berlin |      0.015450|   0.2500000|    |
+|/players/41618/yann-sommer              |Bayern Munich      |      0.000000|   0.1666667|    |
+|/players/611223/benjamin-pavard         |Bayern Munich      |      0.074700|   0.1250000|    |
+|/players/769895/matthijs-de-ligt        |Bayern Munich      |      0.036300|   0.1250000|    |
+|/players/950824/josip-stanisic          |Bayern Munich      |      0.037425|   0.0714286|    |
+|/players/429265/kingsley-coman          |Bayern Munich      |      0.117525|   0.3225806|    |
+|/players/1156141/jamal-musiala          |Bayern Munich      |      0.135750|   0.3448276|    |
+|/players/460632/joshua-kimmich          |Bayern Munich      |      0.037700|   0.1666667|    |
+|/players/343748/leon-goretzka           |Bayern Munich      |      0.173700|   0.2127660|    |
+|/players/751202/alphonso-davies         |Bayern Munich      |      0.037725|   0.2040816|    |
+|/players/116772/thomas-mller            |Bayern Munich      |      0.384175|   0.3508772|    |
+|/players/95082/eric-maxim-choupo-moting |Bayern Munich      |      0.403125|   0.4761905|    |
+|/players/613714/jordan-pefok            |1. FC Union Berlin |      0.154325|   0.1428571|    |
+|/players/495222/sheraldo-becker         |1. FC Union Berlin |      0.061900|   0.2380952|    |
+|/players/244558/jrome-roussillon        |1. FC Union Berlin |      0.010350|   0.0500000|    |
+|/players/439148/morten-thorsby          |1. FC Union Berlin |      0.077225|   0.1111111|    |
+|/players/304348/rani-khedira            |1. FC Union Berlin |      0.055125|   0.0555556|    |
+|/players/715642/aissa-laidouni          |1. FC Union Berlin |      0.007725|   0.1111111|    |
+|/players/166733/christopher-trimmel     |1. FC Union Berlin |      0.038450|   0.0555556|    |
+|/players/824635/diogo-leite             |1. FC Union Berlin |      0.009375|   0.0434783|    |
+|/players/259296/robin-knoche            |1. FC Union Berlin |      0.032650|   0.1052632|    |
+|/players/724196/danilho-doekhi          |1. FC Union Berlin |      0.030100|   0.1052632|    |
+|/players/186557/frederik-rnnow          |1. FC Union Berlin |      0.000000|   0.4000000|    |
+|/players/530859/leroy-san               |Bayern Munich      |      0.166950|   0.0000000|*   |
+|/players/385437/serge-gnabry            |Bayern Munich      |      0.116325|   0.0000000|*   |
+|/players/956683/ryan-gravenberch        |Bayern Munich      |      0.036425|   0.0000000|    |
+|/players/278341/bouna-sarr              |Bayern Munich      |      0.000000|   0.0000000|    |
+|/players/614923/kevin-behrens           |1. FC Union Berlin |      0.020400|   0.0000000|    |
+|/players/419774/sven-michel             |1. FC Union Berlin |      0.051100|   0.0000000|*   |
+|/players/304354/janik-haberer           |1. FC Union Berlin |      0.014250|   0.0000000|    |
+|/players/520342/paul-seguin             |1. FC Union Berlin |      0.007525|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Bayern Munich:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/41618/yann-sommer              |           0|         46.1639|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/611223/benjamin-pavard         |           1|         84.4737|           1.7160|        0.1781|         0.7214|      0.0645|        0.0634|      0.0571| 90.0000|
-|/players/769895/matthijs-de-ligt        |           1|         73.4544|           1.1228|        0.2125|         0.6733|      0.0973|        0.0301|      0.0160| 90.0000|
-|/players/751202/alphonso-davies         |           1|         72.8794|           1.9128|        0.1765|         0.4558|      0.0640|        0.0644|      0.0746| 90.0000|
-|/players/361757/joao-cancelo            |           3|         50.5624|           2.9501|        0.3451|         0.3819|      0.0551|        0.0402|      0.1405| 90.0000|
-|/players/460632/joshua-kimmich          |           3|         89.8571|           2.1455|        0.3451|         1.2731|      0.0378|        0.0402|      0.1935| 90.0000|
-|/players/343748/leon-goretzka           |           3|         48.9155|           0.8780|        0.7909|         2.3758|      0.2055|        0.1896|      0.1008| 90.0000|
-|/players/1156141/jamal-musiala          |           3|         33.6136|           1.4750|        0.4026|         1.4005|      0.1326|        0.1482|      0.1051| 73.2273|
-|/players/429265/kingsley-coman          |           3|         37.6404|           0.9287|        0.4218|         1.3810|      0.1331|        0.1271|      0.2260| 75.9444|
-|/players/116772/thomas-mller            |           5|         33.8996|           0.7795|        1.5597|         2.7466|      0.4258|        0.4753|      0.1795| 80.6000|
-|/players/95082/eric-maxim-choupo-moting |           5|         16.7126|           0.4872|        0.8356|         2.7466|      0.4766|        0.5136|      0.0763| 77.3125|
-|/players/530859/leroy-san               |          NA|              NA|               NA|        0.1914|         0.4365|      0.1050|        0.1587|      0.0593| 16.7727|
-|/players/385437/serge-gnabry            |          NA|              NA|               NA|        0.2175|         0.3410|      0.0974|        0.1041|      0.0686| 14.0556|
-|/players/956683/ryan-gravenberch        |          NA|              NA|               NA|        0.1123|         0.3122|      0.0701|        0.0326|      0.0160| 12.6875|
-|/players/278341/bouna-sarr              |          NA|              NA|               NA|        0.0000|         0.1054|      0.0194|        0.0000|      0.0032|  9.4000|
+|/players/41618/yann-sommer              |           0|         46.1812|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/611223/benjamin-pavard         |           1|         87.4535|           1.7790|        0.1993|         0.6690|      0.0763|        0.0810|      0.0818| 90.0000|
+|/players/769895/matthijs-de-ligt        |           1|         76.0456|           1.1640|        0.2377|         0.6244|      0.1150|        0.0385|      0.0229| 90.0000|
+|/players/950824/josip-stanisic          |           1|         67.3949|           1.8086|        0.1303|         0.5576|      0.0347|        0.0385|      0.0431| 90.0000|
+|/players/429265/kingsley-coman          |           3|         37.3360|           1.0008|        0.4336|         1.2704|      0.1242|        0.1272|      0.2416| 75.9444|
+|/players/1156141/jamal-musiala          |           3|         33.3418|           1.5895|        0.4139|         1.2883|      0.1238|        0.1482|      0.1124| 73.2273|
+|/players/460632/joshua-kimmich          |           3|         89.1306|           2.3120|        0.3547|         1.1712|      0.0353|        0.0403|      0.2069| 90.0000|
+|/players/343748/leon-goretzka           |           3|         48.5200|           0.9461|        0.8130|         2.1855|      0.1918|        0.1897|      0.1078| 90.0000|
+|/players/751202/alphonso-davies         |           3|         52.4821|           2.4893|        0.2865|         0.9457|      0.0931|        0.0403|      0.0930| 90.0000|
+|/players/116772/thomas-mller            |           5|         33.9123|           0.7795|        1.5602|         2.7475|      0.4260|        0.4754|      0.1796| 80.6000|
+|/players/95082/eric-maxim-choupo-moting |           5|         16.7189|           0.4872|        0.8358|         2.7475|      0.4768|        0.5138|      0.0763| 77.3125|
+|/players/530859/leroy-san               |           0|              NA|               NA|        0.2225|         0.4752|      0.0977|        0.1855|      0.0609| 16.7727|
+|/players/385437/serge-gnabry            |           0|              NA|               NA|        0.2528|         0.3712|      0.0906|        0.1217|      0.0705| 14.0556|
+|/players/956683/ryan-gravenberch        |           0|              NA|               NA|        0.1306|         0.3399|      0.0652|        0.0381|      0.0165| 12.6875|
+|/players/278341/bouna-sarr              |           0|              NA|               NA|        0.0000|         0.1147|      0.0181|        0.0000|      0.0033|  9.4000|
 
 
 |manager_name      | approx_games| m_avg_elo_dif|formation |
@@ -113,40 +113,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about 1. FC Union Berlin:"
-[1] "Lineup: expected"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                            | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/614923/kevin-behrens       |           5|         23.4649|           0.3785|        0.5157|         1.3720|      0.1927|        0.1604|      0.0328| 83.8065|
-|/players/495222/sheraldo-becker     |           5|         12.6377|           0.5377|        0.4758|         1.3147|      0.1722|        0.1630|      0.0863| 75.4333|
-|/players/359312/niko-giesselmann    |           3|         31.0108|           1.1357|        0.1501|         0.7251|      0.0762|        0.0642|      0.0819| 80.5000|
-|/players/304354/janik-haberer       |           3|         22.3926|           1.0686|        0.2763|         0.9423|      0.0655|        0.1025|      0.0146| 71.0000|
-|/players/304348/rani-khedira        |           3|         28.9053|           2.0147|        0.0876|         0.3385|      0.0179|        0.0379|      0.0229| 90.0000|
-|/players/715642/aissa-laidouni      |           3|         42.2545|           2.3263|        0.1757|         0.5991|      0.0265|        0.0051|      0.0296| 90.0000|
-|/players/166733/christopher-trimmel |           3|         31.0966|           2.1329|        0.0805|         0.4349|      0.0231|        0.0271|      0.1019| 90.0000|
-|/players/824635/diogo-leite         |           1|         42.7510|           1.2903|        0.0729|         0.4419|      0.0290|        0.0143|      0.0124| 90.0000|
-|/players/259296/robin-knoche        |           1|         39.8746|           1.2788|        0.1160|         0.2581|      0.0495|        0.0466|      0.0112| 90.0000|
-|/players/724196/danilho-doekhi      |           1|         35.1047|           1.9512|        0.1408|         0.3559|      0.0269|        0.0408|      0.0213| 90.0000|
-|/players/186557/frederik-rnnow      |           0|         34.6440|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/660383/milos-pantovic      |          NA|              NA|               NA|        0.0726|         0.2211|      0.0712|        0.0429|      0.0279| 19.0000|
-|/players/469764/levin-mete-ztunali  |          NA|              NA|               NA|        0.0172|         0.0675|      0.0051|        0.0006|      0.0141| 14.5667|
-|/players/419774/sven-michel         |          NA|              NA|               NA|        0.0790|         0.1719|      0.0270|        0.0532|      0.0069|  9.5000|
-|/players/290105/kevin-mhwald        |          NA|              NA|               NA|        0.0382|         0.1121|      0.0139|        0.0188|      0.0033|  6.1935|
+|/players/613714/jordan-pefok        |           5|         16.4404|           0.6021|        0.5048|         1.4750|      0.2603|        0.2228|      0.0295| 76.1739|
+|/players/495222/sheraldo-becker     |           5|         17.4665|           0.2821|        0.4398|         1.0882|      0.0878|        0.0867|      0.0866| 75.4333|
+|/players/244558/jrome-roussillon    |           3|         21.8246|           0.5701|        0.1014|         0.5574|      0.0272|        0.0121|      0.0444| 80.3333|
+|/players/439148/morten-thorsby      |           3|         28.3619|           1.7845|        0.2580|         0.8725|      0.0845|        0.1043|      0.0260| 81.9348|
+|/players/304348/rani-khedira        |           3|         30.9960|           2.0226|        0.1184|         0.4424|      0.0299|        0.0777|      0.0276| 90.0000|
+|/players/715642/aissa-laidouni      |           3|         45.3107|           2.3354|        0.2374|         0.7830|      0.0441|        0.0105|      0.0357| 90.0000|
+|/players/166733/christopher-trimmel |           3|         33.3458|           2.1413|        0.1088|         0.5683|      0.0384|        0.0555|      0.1228| 90.0000|
+|/players/824635/diogo-leite         |           1|         42.7368|           1.2903|        0.0728|         0.4417|      0.0290|        0.0142|      0.0124| 90.0000|
+|/players/259296/robin-knoche        |           1|         39.8613|           1.2788|        0.1160|         0.2580|      0.0495|        0.0465|      0.0112| 90.0000|
+|/players/724196/danilho-doekhi      |           1|         35.0931|           1.9512|        0.1408|         0.3558|      0.0269|        0.0408|      0.0213| 90.0000|
+|/players/186557/frederik-rnnow      |           0|         34.6325|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/614923/kevin-behrens       |           0|              NA|               NA|        0.0510|         0.1442|      0.0303|        0.0303|      0.0077| 14.5667|
+|/players/419774/sven-michel         |           0|              NA|               NA|        0.1184|         0.2788|      0.0407|        0.0742|      0.0140| 13.8261|
+|/players/304354/janik-haberer       |           0|              NA|               NA|        0.0433|         0.1427|      0.0237|        0.0219|      0.0083|  9.6667|
+|/players/520342/paul-seguin         |           0|              NA|               NA|        0.0287|         0.0609|      0.0137|        0.0106|      0.0243|  8.0652|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Urs Fischer  |     95.77677|      1.065887|3-5-2     |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3903733/Soccer_Models'...
-Receiving objects:   1% (48/4743),   63 kb
-Receiving objects:  11% (522/4743),  127 kb
-Receiving objects:  21% (997/4743),  239 kb
-Receiving objects:  31% (1471/4743),  463 kb
-Receiving objects:  41% (1945/4743),  856 kb
-Receiving objects:  51% (2419/4743), 1080 kb
-Receiving objects:  61% (2894/4743), 5787 kb
-Receiving objects:  71% (3368/4743), 10381 kb
-Receiving objects:  81% (3842/4743), 10718 kb
-Receiving objects:  91% (4317/4743), 10830 kb
-Receiving objects: 100% (4743/4743), 11372 kb, done.
+Receiving objects:   1% (49/4896),   63 kb
+Receiving objects:  11% (539/4896),  127 kb
+Receiving objects:  21% (1029/4896),  239 kb
+Receiving objects:  31% (1518/4896),  576 kb
+Receiving objects:  41% (2008/4896),  856 kb
+Receiving objects:  51% (2497/4896), 1136 kb
+Receiving objects:  61% (2987/4896), 10181 kb
+Receiving objects:  71% (3477/4896), 10462 kb
+Receiving objects:  81% (3966/4896), 10742 kb
+Receiving objects:  91% (4456/4896), 10854 kb
+Receiving objects: 100% (4896/4896), 11509 kb, done.
