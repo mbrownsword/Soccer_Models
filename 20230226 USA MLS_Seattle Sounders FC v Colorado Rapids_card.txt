@@ -1,0 +1,43 @@
+[1] "Updated at 2023-02-26 16:52:30.368"
+[1] "_____________________________________________________________________"
+  bet           date_time
+1     2023-02-26 17:00:00
+[1] "____________Anytime Goalscorers______________________"
+____________________________________________________
+
+[1] "Facts about Seattle Sounders FC:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Brian Schmetzer |      88.2596|      5.548526|4-2-3-1   |
+____________________________________________________
+
+[1] "Facts about Colorado Rapids:"
+[1] "Lineup: confirmed"
+
+
+|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+
+
+|manager_name | approx_games| m_avg_elo_dif|formation |
+|:------------|------------:|-------------:|:---------|
+|Robin Fraser |     78.81515|      1.100127|4-2-3-1   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084677/Soccer_Models'...
+Receiving objects:   1% (50/4937),   63 kb
+Receiving objects:  11% (544/4937),  127 kb
+Receiving objects:  21% (1037/4937),  239 kb
+Receiving objects:  31% (1531/4937),  576 kb
+Receiving objects:  41% (2025/4937),  856 kb
+Receiving objects:  51% (2518/4937), 1136 kb
+Receiving objects:  61% (3012/4937), 10157 kb
+Receiving objects:  71% (3506/4937), 10494 kb
+Receiving objects:  81% (3999/4937), 10774 kb
+Receiving objects:  91% (4493/4937), 10830 kb
+Receiving objects: 100% (4937/4937), 11547 kb, done.
