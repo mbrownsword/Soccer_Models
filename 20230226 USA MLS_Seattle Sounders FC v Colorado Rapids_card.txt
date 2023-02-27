@@ -1,7 +1,52 @@
-[1] "Updated at 2023-02-26 16:52:30.368"
+[1] "Updated at 2023-02-26 16:56:02.592"
 [1] "_____________________________________________________________________"
-  bet           date_time
-1     2023-02-26 17:00:00
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Seattle Sounders FC 1.7882 to Colorado Rapids 0.8509"
+[1] "Total: 2.6391"
+[1] "Seattle Sounders FC %: 59.43"
+[1] "Draw %: 23.28"
+[1] "Colorado Rapids %: 17.29"
+[1] "--XG Model--"
+[1] "Score: Seattle Sounders FC 1.9429 to Colorado Rapids 0.8561"
+[1] "Total: 2.799"
+[1] "Seattle Sounders FC %: 63.55"
+[1] "Draw %: 21.23"
+[1] "Colorado Rapids %: 15.22"
+[1] "--XGoT Model--"
+[1] "Score: Seattle Sounders FC 1.9599 to Colorado Rapids 0.8913"
+[1] "Total: 2.8512"
+[1] "Seattle Sounders FC %: 62.95"
+[1] "Draw %: 21.43"
+[1] "Colorado Rapids %: 15.62"
+[1] "--XA Model--"
+[1] "Score: Seattle Sounders FC 1.8828 to Colorado Rapids 0.8394"
+[1] "Total: 2.7222"
+[1] "Seattle Sounders FC %: 62.37"
+[1] "Draw %: 21.84"
+[1] "Colorado Rapids %: 15.79"
+[1] "--Mean 4 Models--"
+[1] "Seattle Sounders FC has a mean win % of 62.08%; a min win % of 59.43%; a max win % of 63.55%."
+[1] "Draw has a mean win % of 21.94%; a min win % of 21.23%; a max win % of 23.28%."
+[1] "Colorado Rapids has a mean win % of 15.98%; a min win % of 15.22%; a max win of % 17.29%."
+[1] "Seattle Sounders FC has a mean win of the Double Chance of 84.02%; a min win % of 82.71%, a max win % of 84.78%."
+[1] "Colorado Rapids has a mean win of the Double Chance of 37.92%; a min win % of 36.45%, a max win % of 40.57%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.15%; max % is 53.63 and min % is 48.11%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.85%; max % is 51.89 and min % is 46.37%."
+[1] "--Sportsbook Odds--"
+[1] "Seattle Sounders FC Barstool Odds are: 62.5"
+[1] "The Barstool Odds of a Draw are: 25.64"
+[1] "Colorado Rapids Barstool Odds are: 18.52"
+[1] "Seattle Sounders FC Adjusted Barstool Odds are: 58.597"
+[1] "The Adjusted Barstool Odds of a Draw are: 24.039"
+[1] "Colorado Rapids Adjusted Barstool Odds are: 17.364"
+[1] "Seattle Sounders FC's Barstool Odds to cover the -0.5 spread are: 62.5"
+[1] "Colorado Rapids's Barstool Odds to cover the 0.5 spread are: 41.67"
+[1] "Barstool's line for the total is 2.5 at 2.15, which is a 46.51% chance of the over 2.5 hitting. The line for the under is 1.65, which is a 60.61% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                                       bet           date_time
+1 over Seattle Sounders FC/Colorado Rapids 2023-02-26 17:00:00
 [1] "____________Anytime Goalscorers______________________"
 ____________________________________________________
 
@@ -9,8 +54,23 @@ ____________________________________________________
 [1] "Lineup: confirmed"
 
 
-|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|pageUrl2                        | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:-------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/168176/stefan-frei     |           0|         27.5961|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/924391/alex-roldan     |           1|         50.9539|           1.8906|        0.1945|         0.4283|      0.0199|        0.0295|      0.1461| 90.0000|
+|/players/590039/yeimar-gomez    |           1|         54.9416|           1.6381|        0.1726|         0.8107|      0.0791|        0.0300|      0.0303| 90.0000|
+|/players/1285885/jackson-ragen  |           1|         60.6560|           1.1941|        0.1744|         0.6146|      0.0738|        0.0616|      0.0294| 90.0000|
+|/players/797551/nouhou-tolo     |           1|         38.7605|           1.4437|        0.1255|         0.5253|      0.0563|        0.0591|      0.0725| 85.0455|
+|/players/278725/joao-paulo      |           2|         54.1253|           2.4122|        0.2911|         0.8245|      0.0482|        0.0739|      0.1098| 82.3125|
+|/players/484858/albert-rusnak   |           2|         50.9278|           1.7285|        0.3974|         1.4067|      0.1579|        0.1098|      0.0759| 90.0000|
+|/players/621946/cristian-roldan |           3|         30.9498|           1.6396|        0.6081|         1.7530|      0.1559|        0.1123|      0.1346| 90.0000|
+|/players/107987/nicols-lodeiro  |           3|         48.6947|           1.6311|        0.8785|         2.1923|      0.2999|        0.3198|      0.2559| 90.0000|
+|/players/578643/jordan-morris   |           3|         19.8966|           0.6789|        1.0664|         2.5275|      0.3405|        0.3838|      0.1378| 84.9091|
+|/players/264084/heber           |           5|         17.8055|           0.5336|        0.9997|         2.4254|      0.4145|        0.3747|      0.0901| 78.8182|
+|/players/74077/fredy-montero    |           0|              NA|               NA|        0.5240|         1.4421|      0.2463|        0.3232|      0.0827| 11.1818|
+|/players/308827/kelyn-rowe      |           0|              NA|               NA|        0.0850|         0.0936|      0.0023|        0.0048|      0.0262|  7.6875|
+|/players/1045163/danny-leyva    |           0|              NA|               NA|        0.0403|         0.1330|      0.0105|        0.0021|      0.0133|  5.0909|
+|/players/1118169/leo-chu        |           0|              NA|               NA|        0.1176|         0.5611|      0.0564|        0.0561|      0.0207|  4.9545|
 
 
 |manager_name    | approx_games| m_avg_elo_dif|formation |
@@ -22,22 +82,37 @@ ____________________________________________________
 [1] "Lineup: confirmed"
 
 
-|pageUrl2 | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
-|:--------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|pageUrl2                             | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/391041/sam-nicholson        |           5|         27.2444|           0.7694|        0.5115|         2.0375|      0.2217|        0.2186|      0.0955| 90.0000|
+|/players/1190710/darren-yapi         |           5|         10.0653|           0.9204|        0.6119|         1.2187|      0.1527|        0.1506|      0.0658| 62.0000|
+|/players/521250/michael-barrios      |           5|         24.2046|           1.0739|        0.4589|         1.2187|      0.1864|        0.1837|      0.0803| 75.6667|
+|/players/672484/connor-ronan         |           3|         40.8712|           1.6406|        0.1139|         0.8655|      0.0585|        0.0697|      0.0687| 90.0000|
+|/players/1082109/ralph-priso-mbongue |           3|         23.4361|           0.9860|        0.1112|         0.1537|      0.0137|        0.0278|      0.0659| 47.0000|
+|/players/955472/cole-bassett         |           3|         30.2478|           1.9259|        0.3824|         1.3448|      0.1262|        0.0616|      0.0233| 76.9375|
+|/players/589816/alex-gersbach        |           1|         38.7581|           1.8212|        0.0839|         0.3499|      0.0355|        0.0319|      0.0451| 90.0000|
+|/players/825694/lalas-abubakar       |           1|         42.2340|           2.1514|        0.0839|         0.3908|      0.0355|        0.0319|      0.0451| 90.0000|
+|/players/408570/andreas-maxs         |           1|         49.5817|           0.7613|        0.1644|         0.3499|      0.0355|        0.0319|      0.0451| 90.0000|
+|/players/729473/keegan-rosenberry    |           1|         39.4821|           1.6701|        0.1289|         0.5717|      0.0355|        0.0319|      0.0451| 90.0000|
+|/players/342699/william-yarbrough    |           0|         24.4394|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/876275/braian-galvan        |           0|              NA|               NA|        0.3344|         0.7051|      0.1161|        0.1517|      0.0315| 43.0000|
+|/players/520424/bryan-acosta         |           0|              NA|               NA|        0.0000|         0.3409|      0.0237|        0.0000|      0.0218| 28.0000|
+|/players/967089/kvin-cabral          |           0|              NA|               NA|        0.0600|         0.1898|      0.0170|        0.0197|      0.0012| 14.3333|
+|/players/1235079/max-alves           |           0|              NA|               NA|        0.0199|         0.1675|      0.0158|        0.0372|      0.0219| 13.0625|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Robin Fraser |     78.81515|      1.100127|4-2-3-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4084677/Soccer_Models'...
-Receiving objects:   1% (50/4937),   63 kb
-Receiving objects:  11% (544/4937),  127 kb
-Receiving objects:  21% (1037/4937),  239 kb
-Receiving objects:  31% (1531/4937),  576 kb
-Receiving objects:  41% (2025/4937),  856 kb
-Receiving objects:  51% (2518/4937), 1136 kb
-Receiving objects:  61% (3012/4937), 10157 kb
-Receiving objects:  71% (3506/4937), 10494 kb
-Receiving objects:  81% (3999/4937), 10774 kb
-Receiving objects:  91% (4493/4937), 10830 kb
-Receiving objects: 100% (4937/4937), 11547 kb, done.
+Receiving objects:   1% (50/4940),   63 kb
+Receiving objects:  11% (544/4940),  127 kb
+Receiving objects:  21% (1038/4940),  239 kb
+Receiving objects:  31% (1532/4940),  576 kb
+Receiving objects:  41% (2026/4940),  856 kb
+Receiving objects:  51% (2520/4940), 1192 kb
+Receiving objects:  61% (3014/4940), 10189 kb
+Receiving objects:  71% (3508/4940), 10461 kb
+Receiving objects:  81% (4002/4940), 10750 kb
+Receiving objects:  91% (4496/4940), 10862 kb
+Receiving objects: 100% (4940/4940), 11548 kb, done.
