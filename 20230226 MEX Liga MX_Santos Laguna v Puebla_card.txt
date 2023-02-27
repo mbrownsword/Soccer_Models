@@ -1,110 +1,112 @@
-[1] "Updated at 2023-02-25 13:06:41.279"
+[1] "Updated at 2023-02-26 16:21:03.594"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
-[1] "Score: Santos Laguna 1.6707 to Puebla 1.0106"
-[1] "Total: 2.6813"
-[1] "Santos Laguna %: 53.22"
-[1] "Draw %: 24.41"
-[1] "Puebla %: 22.37"
+[1] "Score: Santos Laguna 1.687 to Puebla 1.061"
+[1] "Total: 2.748"
+[1] "Santos Laguna %: 53.28"
+[1] "Draw %: 23.85"
+[1] "Puebla %: 22.87"
 [1] "--XG Model--"
-[1] "Score: Santos Laguna 1.6413 to Puebla 0.8385"
-[1] "Total: 2.4798"
-[1] "Santos Laguna %: 56.48"
-[1] "Draw %: 24.71"
-[1] "Puebla %: 18.81"
+[1] "Score: Santos Laguna 1.6965 to Puebla 1.0292"
+[1] "Total: 2.7257"
+[1] "Santos Laguna %: 53.73"
+[1] "Draw %: 24.17"
+[1] "Puebla %: 22.1"
 [1] "--XGoT Model--"
-[1] "Score: Santos Laguna 1.8087 to Puebla 0.8226"
-[1] "Total: 2.6313"
-[1] "Santos Laguna %: 61.04"
-[1] "Draw %: 22.72"
-[1] "Puebla %: 16.24"
+[1] "Score: Santos Laguna 1.9086 to Puebla 1.0138"
+[1] "Total: 2.9224"
+[1] "Santos Laguna %: 58.38"
+[1] "Draw %: 21.62"
+[1] "Puebla %: 20"
 [1] "--XA Model--"
-[1] "Score: Santos Laguna 1.5524 to Puebla 1.004"
-[1] "Total: 2.5564"
-[1] "Santos Laguna %: 50.53"
-[1] "Draw %: 25.1"
-[1] "Puebla %: 24.37"
+[1] "Score: Santos Laguna 1.6859 to Puebla 1.0023"
+[1] "Total: 2.6882"
+[1] "Santos Laguna %: 54.11"
+[1] "Draw %: 24.1"
+[1] "Puebla %: 21.79"
 [1] "--Mean 4 Models--"
-[1] "Santos Laguna has a mean win % of 55.32%; a min win % of 50.53%; a max win % of 61.04%."
-[1] "Draw has a mean win % of 24.24%; a min win % of 22.72%; a max win % of 25.1%."
-[1] "Puebla has a mean win % of 20.45%; a min win % of 16.24%; a max win of % 24.37%."
-[1] "Santos Laguna has a mean win of the Double Chance of 79.55%; a min win % of 75.63%, a max win % of 83.76%."
-[1] "Puebla has a mean win of the Double Chance of 44.68%; a min win % of 38.96%, a max win % of 49.47%."
-[1] "The mean likelihood that there are more than 2.5 goals is 47.12%; max % is 49.49 and min % is 44.45%."
-[1] "The mean likelihood that there are fewer than 2.5 goals is 52.89%; max % is 55.55 and min % is 50.51%."
+[1] "Santos Laguna has a mean win % of 54.88%; a min win % of 53.28%; a max win % of 58.38%."
+[1] "Draw has a mean win % of 23.43%; a min win % of 21.62%; a max win % of 24.17%."
+[1] "Puebla has a mean win % of 21.69%; a min win % of 20%; a max win of % 22.87%."
+[1] "Santos Laguna has a mean win of the Double Chance of 78.31%; a min win % of 77.13%, a max win % of 80%."
+[1] "Puebla has a mean win of the Double Chance of 45.12%; a min win % of 41.62%, a max win % of 46.72%."
+[1] "The mean likelihood that there are more than 2.5 goals is 51.7%; max % is 55.43 and min % is 49.68%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 48.3%; max % is 50.32 and min % is 44.57%."
 [1] "--Sportsbook Odds--"
-[1] "Santos Laguna Barstool Odds are: 57.89"
-[1] "The Barstool Odds of a Draw are: 26.32"
-[1] "Puebla Barstool Odds are: 23.81"
-[1] "Santos Laguna Adjusted Barstool Odds are: 53.592"
-[1] "The Adjusted Barstool Odds of a Draw are: 24.366"
-[1] "Puebla Adjusted Barstool Odds are: 22.042"
-[1] "Santos Laguna's Barstool Odds to cover the -0.5 spread are: 57.8"
-[1] "Puebla's Barstool Odds to cover the 0.5 spread are: 48.08"
-[1] "Barstool's line for the total is 2.5 at 1.61, which is a 62.11% chance of the over 2.5 hitting. The line for the under is 2.2, which is a 45.45% chance of the under 2.5 hitting."
+[1] "Santos Laguna Barstool Odds are: 65.79"
+[1] "The Barstool Odds of a Draw are: 22.73"
+[1] "Puebla Barstool Odds are: 19.05"
+[1] "Santos Laguna Adjusted Barstool Odds are: 61.16"
+[1] "The Adjusted Barstool Odds of a Draw are: 21.13"
+[1] "Puebla Adjusted Barstool Odds are: 17.709"
+[1] "Santos Laguna's Barstool Odds to cover the -0.5 spread are: 66.67"
+[1] "Puebla's Barstool Odds to cover the 0.5 spread are: 40"
+[1] "Barstool's line for the total is 2.5 at 1.47, which is a 68.03% chance of the over 2.5 hitting. The line for the under is 2.5, which is a 40% chance of the under 2.5 hitting."
 [1] "-------------------------------------------------------------------------"
 [1] "_____________________________________________________________________________________________________________________________"
                          bet           date_time
-1 under Santos Laguna/Puebla 2023-02-26 17:05:00
+1                     Puebla 2023-02-26 17:05:00
+2 under Santos Laguna/Puebla 2023-02-26 17:05:00
+3                 Puebla ATS 2023-02-26 17:05:00
 [1] "____________Anytime Goalscorers______________________"
 
 
 |pageUrl2                              |team          | expected_attg| expected_gs|bet |
 |:-------------------------------------|:-------------|-------------:|-----------:|:---|
-|/players/751164/carlos-acevedo        |Santos Laguna |      0.000000|   0.0384615|    |
-|/players/432851/raul-lopez            |Santos Laguna |      0.039375|   0.1754386|    |
-|/players/320686/matheus-doria         |Santos Laguna |      0.049825|   0.0833333|    |
-|/players/200588/hugo-rodriguez        |Santos Laguna |      0.033700|   0.0909091|    |
-|/players/1222470/omar-campos          |Santos Laguna |      0.019725|   0.1333333|    |
-|/players/1174785/jair-gonzalez        |Santos Laguna |      0.006025|   0.1754386|    |
-|/players/301391/cecilio-dominguez     |Santos Laguna |      0.258125|   0.3333333|    |
-|/players/793586/juan-brunetta         |Santos Laguna |      0.188150|   0.3508772|    |
-|/players/848049/alan-cervantes        |Santos Laguna |      0.007375|   0.0476190|    |
-|/players/564613/javier-correa         |Santos Laguna |      0.149750|   0.3773585|    |
-|/players/466600/harold-preciado       |Santos Laguna |      0.431575|   0.5348837|    |
-|/players/244289/anthony-silva         |Puebla        |      0.000000|   0.0322581|    |
-|/players/315460/gaston-silva          |Puebla        |      0.011775|   0.0322581|    |
-|/players/848035/emanuel-gularte       |Puebla        |      0.026850|   0.0909091|    |
-|/players/782189/lucas-maia            |Puebla        |      0.043000|   0.0588235|    |
-|/players/602570/gustavo-ferrareis     |Puebla        |      0.007075|   0.1538462|    |
-|/players/272616/diego-de-buen         |Puebla        |      0.017050|   0.1250000|    |
-|/players/198567/pablo-parra           |Puebla        |      0.163925|   0.2127660|    |
-|/players/579659/omar-andres-fernandez |Puebla        |      0.055025|   0.2564103|    |
-|/players/659034/fernando-juarez       |Puebla        |      0.053275|   0.2272727|    |
-|/players/161344/federico-mancuello    |Puebla        |      0.068750|   0.1666667|    |
-|/players/211146/fernando-aristeguieta |Puebla        |      0.251550|   0.1333333|*   |
-|/players/1200713/emerson-rodriguez    |Santos Laguna |      0.093675|   0.2439024|    |
-|/players/1096623/diego-medina         |Santos Laguna |      0.010875|   0.2631579|    |
-|/players/1085770/jose-lozano          |Santos Laguna |      0.070525|   0.2173913|    |
-|/players/1138422/aldo-lopez           |Santos Laguna |      0.000000|   0.1538462|    |
-|/players/612772/daniel-alvarez        |Puebla        |      0.022050|   0.1666667|    |
-|/players/494183/martin-barragan       |Puebla        |      0.069750|   0.3333333|    |
-|/players/1295524/alberto-herrera      |Puebla        |      0.003750|   0.1250000|    |
-|/players/1108516/ivo-vazquez          |Puebla        |      0.000000|   0.0500000|    |
+|/players/751164/carlos-acevedo        |Santos Laguna |      0.000000|   0.2380952|    |
+|/players/1222470/omar-campos          |Santos Laguna |      0.022300|   0.1538462|    |
+|/players/320686/matheus-doria         |Santos Laguna |      0.051300|   0.4255319|    |
+|/players/200588/hugo-rodriguez        |Santos Laguna |      0.036575|   0.1000000|    |
+|/players/432851/raul-lopez            |Santos Laguna |      0.039400|   0.1960784|    |
+|/players/793586/juan-brunetta         |Santos Laguna |      0.111100|   0.3921569|    |
+|/players/1088057/lucas-gonzalez       |Santos Laguna |      0.099650|   0.1960784|    |
+|/players/1138422/aldo-lopez           |Santos Laguna |      0.132850|   0.1666667|    |
+|/players/1174785/jair-gonzalez        |Santos Laguna |      0.110800|   0.1960784|    |
+|/players/564613/javier-correa         |Santos Laguna |      0.154775|   0.4255319|    |
+|/players/466600/harold-preciado       |Santos Laguna |      0.428150|   0.5918367|    |
+|/players/602570/gustavo-ferrareis     |Puebla        |      0.196600|   0.1538462|    |
+|/players/494183/martin-barragan       |Puebla        |      0.221025|   0.3225806|    |
+|/players/161344/federico-mancuello    |Puebla        |      0.030725|   0.1666667|    |
+|/players/1248072/angel-robles         |Puebla        |      0.021800|   0.2500000|    |
+|/players/579659/omar-andres-fernandez |Puebla        |      0.024975|   0.2500000|    |
+|/players/251277/luis-garcia           |Puebla        |      0.102925|   0.2777778|    |
+|/players/272616/diego-de-buen         |Puebla        |      0.024925|   0.1250000|    |
+|/players/315460/gaston-silva          |Puebla        |      0.014325|   0.0312500|    |
+|/players/848035/emanuel-gularte       |Puebla        |      0.037175|   0.0909091|    |
+|/players/782189/lucas-maia            |Puebla        |      0.053050|   0.0588235|    |
+|/players/244289/anthony-silva         |Puebla        |      0.000000|   0.0312500|    |
+|/players/1096623/diego-medina         |Santos Laguna |      0.000000|   0.0000000|    |
+|/players/1200713/emerson-rodriguez    |Santos Laguna |      0.066800|   0.0000000|*   |
+|/players/1085770/jose-lozano          |Santos Laguna |      0.200350|   0.0000000|*   |
+|/players/848049/alan-cervantes        |Santos Laguna |      0.000000|   0.0000000|    |
+|/players/612772/daniel-alvarez        |Puebla        |      0.106950|   0.0000000|*   |
+|/players/558539/guillermo-martinez    |Puebla        |      0.054550|   0.0000000|*   |
+|/players/1108516/ivo-vazquez          |Puebla        |      0.000000|   0.0000000|    |
+|/players/659034/fernando-juarez       |Puebla        |      0.000000|   0.0000000|    |
 ____________________________________________________
 
 [1] "Facts about Santos Laguna:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                           | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:----------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/751164/carlos-acevedo     |           0|         19.1976|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/432851/raul-lopez         |           1|         41.1534|           2.3091|        0.2127|         0.5460|      0.0317|        0.0498|      0.1496| 90.0000|
-|/players/320686/matheus-doria      |           1|         46.2081|           0.9301|        0.2175|         0.9255|      0.1200|        0.0660|      0.0246| 90.0000|
-|/players/200588/hugo-rodriguez     |           1|         46.3924|           1.1792|        0.1634|         0.6291|      0.0503|        0.0429|      0.0069| 90.0000|
-|/players/1222470/omar-campos       |           1|         41.4882|           1.9399|        0.0990|         0.6139|      0.0316|        0.0243|      0.1056| 90.0000|
-|/players/1174785/jair-gonzalez     |           3|         22.3596|           0.4226|        0.1137|         0.7260|      0.0216|        0.0069|      0.0625| 71.5000|
-|/players/301391/cecilio-dominguez  |           3|         23.3575|           1.5213|        0.8641|         1.9748|      0.3333|        0.3393|      0.1223| 70.8000|
-|/players/793586/juan-brunetta      |           3|         42.4490|           1.4489|        0.5847|         2.1781|      0.1781|        0.2545|      0.2240| 73.8571|
-|/players/848049/alan-cervantes     |           3|         47.6976|           3.0566|        0.1175|         0.6302|      0.0329|        0.0087|      0.0354| 90.0000|
-|/players/564613/javier-correa      |           5|         17.9176|           0.7219|        1.1646|         3.0863|      0.2238|        0.1991|      0.0505| 79.0400|
-|/players/466600/harold-preciado    |           5|         23.1162|           0.7199|        1.2590|         2.9293|      0.5271|        0.6812|      0.1411| 90.0000|
-|/players/1200713/emerson-rodriguez |           0|              NA|               NA|        0.7527|         1.2587|      0.0799|        0.1226|      0.0532| 19.2000|
-|/players/1096623/diego-medina      |           0|              NA|               NA|        0.1801|         0.6254|      0.0231|        0.0127|      0.0746| 18.5000|
-|/players/1085770/jose-lozano       |           0|              NA|               NA|        0.2114|         0.2448|      0.0980|        0.0879|      0.0020| 16.1429|
-|/players/1138422/aldo-lopez        |           0|              NA|               NA|        0.0000|         0.4855|      0.0116|        0.0000|      0.0061| 10.9600|
+|/players/751164/carlos-acevedo     |           0|         18.5938|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/1222470/omar-campos       |           1|         44.8702|           1.8759|        0.1199|         0.6556|      0.0305|        0.0251|      0.1019| 90.0000|
+|/players/320686/matheus-doria      |           1|         49.9748|           0.8994|        0.2635|         0.9883|      0.1157|        0.0681|      0.0237| 90.0000|
+|/players/200588/hugo-rodriguez     |           1|         50.1741|           1.1403|        0.1979|         0.6719|      0.0485|        0.0443|      0.0066| 90.0000|
+|/players/432851/raul-lopez         |           1|         44.5081|           2.2329|        0.2577|         0.5831|      0.0305|        0.0514|      0.1443| 90.0000|
+|/players/793586/juan-brunetta      |           3|         39.3129|           1.5255|        0.8870|         2.4194|      0.1315|        0.1460|      0.1016| 73.8571|
+|/players/1088057/lucas-gonzalez    |           3|         27.1083|           1.2014|        0.3104|         1.6452|      0.1190|        0.1320|      0.0919| 66.8000|
+|/players/1138422/aldo-lopez        |           3|         48.2610|           3.0034|        0.5174|         0.7258|      0.1603|        0.1779|      0.1239| 90.0000|
+|/players/1174785/jair-gonzalez     |           3|         20.7077|           0.4449|        0.1725|         0.8065|      0.1273|        0.1413|      0.0984| 71.5000|
+|/players/564613/javier-correa      |           5|         17.2368|           0.7811|        1.0381|         2.8074|      0.2200|        0.1941|      0.0594| 79.0400|
+|/players/466600/harold-preciado    |           5|         22.2378|           0.7790|        1.1223|         2.6646|      0.5182|        0.6640|      0.1662| 90.0000|
+|/players/1096623/diego-medina      |           0|              NA|               NA|        0.0000|         1.1759|      0.0630|        0.0000|      0.1269| 23.2000|
+|/players/1200713/emerson-rodriguez |           0|              NA|               NA|        0.4137|         0.7800|      0.0332|        0.0871|      0.0263| 18.5000|
+|/players/1085770/jose-lozano       |           0|              NA|               NA|        0.6846|         0.4303|      0.2206|        0.2648|      0.0881| 16.1429|
+|/players/848049/alan-cervantes     |           0|              NA|               NA|        0.0000|         0.2607|      0.0000|        0.0000|      0.0326| 10.9600|
 
 
 |manager_name     | approx_games| m_avg_elo_dif|formation |
@@ -113,40 +115,40 @@ ____________________________________________________
 ____________________________________________________
 
 [1] "Facts about Puebla:"
-[1] "Lineup: matt predicted"
+[1] "Lineup: confirmed"
 
 
 |pageUrl2                              | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
 |:-------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
-|/players/244289/anthony-silva         |           0|         22.5250|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
-|/players/315460/gaston-silva          |           1|         56.9125|           1.5002|        0.0874|         0.3391|      0.0263|        0.0136|      0.0347| 90.0000|
-|/players/848035/emanuel-gularte       |           1|         36.0599|           2.4169|        0.0963|         0.1869|      0.0283|        0.0329|      0.0161| 90.0000|
-|/players/782189/lucas-maia            |           1|         41.2739|           1.3779|        0.1070|         0.3560|      0.0402|        0.0474|      0.0240| 90.0000|
-|/players/602570/gustavo-ferrareis     |           1|         33.4614|           1.8467|        0.1491|         0.7443|      0.0321|        0.0077|      0.1241| 90.0000|
-|/players/272616/diego-de-buen         |           2|         44.2390|           2.3659|        0.1664|         0.7244|      0.0281|        0.0178|      0.0536| 90.0000|
-|/players/198567/pablo-parra           |           3|         17.6343|           0.9103|        0.6899|         2.2273|      0.2411|        0.1987|      0.0685| 69.5714|
-|/players/579659/omar-andres-fernandez |           3|         25.9095|           0.9803|        0.2672|         0.7626|      0.0610|        0.0615|      0.1153| 73.8261|
-|/players/659034/fernando-juarez       |           3|         23.4963|           1.2417|        0.0585|         0.5847|      0.0481|        0.0578|      0.0237| 71.1333|
-|/players/161344/federico-mancuello    |           3|         43.2719|           1.6543|        0.5388|         1.4450|      0.0471|        0.0771|      0.1455| 90.0000|
-|/players/211146/fernando-aristeguieta |           5|         16.1713|           0.4614|        0.7437|         1.8111|      0.3149|        0.3195|      0.0381| 74.4815|
-|/players/612772/daniel-alvarez        |           0|              NA|               NA|        0.2549|         0.6143|      0.0232|        0.0251|      0.0449| 20.4286|
-|/players/494183/martin-barragan       |           0|              NA|               NA|        0.3805|         0.8062|      0.0883|        0.0822|      0.0123| 18.8667|
-|/players/1295524/alberto-herrera      |           0|              NA|               NA|        0.0575|         0.2131|      0.0062|        0.0040|      0.0130| 16.1739|
-|/players/1108516/ivo-vazquez          |           0|              NA|               NA|        0.0000|         0.0521|      0.0013|        0.0000|      0.0248| 15.5185|
+|/players/602570/gustavo-ferrareis     |           5|         22.2573|           0.9996|        0.8057|         2.1824|      0.1262|        0.2613|      0.0698| 90.0000|
+|/players/494183/martin-barragan       |           5|         19.6295|           0.4035|        0.8942|         2.2755|      0.4235|        0.2983|      0.0702| 90.0000|
+|/players/161344/federico-mancuello    |           3|         57.0141|           2.0618|        0.2546|         1.2880|      0.0522|        0.0385|      0.0777| 90.0000|
+|/players/1248072/angel-robles         |           3|          9.7212|           0.4073|        0.0992|         0.2895|      0.0229|        0.0242|      0.0300| 58.0000|
+|/players/579659/omar-andres-fernandez |           3|         34.1379|           1.2218|        0.1263|         0.6797|      0.0677|        0.0307|      0.0616| 73.8261|
+|/players/251277/luis-garcia           |           3|         16.2642|           3.0545|        0.4149|         1.3028|      0.1090|        0.1245|      0.1187| 67.0000|
+|/players/272616/diego-de-buen         |           3|         32.7528|           1.5883|        0.1199|         0.3474|      0.0238|        0.0292|      0.0618| 70.1000|
+|/players/315460/gaston-silva          |           1|         54.5983|           1.1835|        0.1149|         0.5071|      0.0406|        0.0188|      0.0360| 90.0000|
+|/players/848035/emanuel-gularte       |           1|         34.5937|           1.9066|        0.1266|         0.2795|      0.0437|        0.0453|      0.0167| 90.0000|
+|/players/782189/lucas-maia            |           1|         39.5957|           1.0870|        0.1407|         0.5323|      0.0621|        0.0653|      0.0249| 90.0000|
+|/players/244289/anthony-silva         |           0|         23.1850|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/612772/daniel-alvarez        |           0|              NA|               NA|        0.4063|         0.9345|      0.1302|        0.1364|      0.0499| 32.0000|
+|/players/558539/guillermo-martinez    |           0|              NA|               NA|        0.2898|         0.7014|      0.0687|        0.0640|      0.0209| 23.0000|
+|/players/1108516/ivo-vazquez          |           0|              NA|               NA|        0.0000|         0.0724|      0.0020|        0.0000|      0.0845| 19.9000|
+|/players/659034/fernando-juarez       |           0|              NA|               NA|        0.0000|         0.1269|      0.0041|        0.0000|      0.0141| 16.1739|
 
 
 |manager_name | approx_games| m_avg_elo_dif|formation |
 |:------------|------------:|-------------:|:---------|
 |Eduardo Arce |     7.990909|       -6.2325|4-1-4-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065380/Soccer_Models'...
-Receiving objects:   1% (49/4827),   63 kb
-Receiving objects:  11% (531/4827),  127 kb
-Receiving objects:  21% (1014/4827),  239 kb
-Receiving objects:  31% (1497/4827),  520 kb
-Receiving objects:  41% (1980/4827),  856 kb
-Receiving objects:  51% (2462/4827), 1136 kb
-Receiving objects:  61% (2945/4827), 8909 kb
-Receiving objects:  71% (3428/4827), 10422 kb
-Receiving objects:  81% (3910/4827), 10758 kb
-Receiving objects:  91% (4393/4827), 10814 kb
-Receiving objects: 100% (4827/4827), 11453 kb, done.
+Receiving objects:   1% (50/4929),   63 kb
+Receiving objects:  11% (543/4929),  127 kb
+Receiving objects:  21% (1036/4929),  239 kb
+Receiving objects:  31% (1528/4929),  576 kb
+Receiving objects:  41% (2021/4929),  856 kb
+Receiving objects:  51% (2514/4929), 1136 kb
+Receiving objects:  61% (3007/4929), 10157 kb
+Receiving objects:  71% (3500/4929), 10494 kb
+Receiving objects:  81% (3993/4929), 10774 kb
+Receiving objects:  91% (4486/4929), 10830 kb
+Receiving objects: 100% (4929/4929), 11543 kb, done.
