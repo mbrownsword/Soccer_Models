@@ -1,4 +1,4 @@
-[1] "Updated at 2023-02-26 16:21:03.594"
+[1] "Updated at 2023-02-26 16:32:26.169"
 [1] "_____________________________________________________________________"
 [1] "-----Model Predictions Below-----"
 [1] "--Pass/Shot Model--"
@@ -54,7 +54,7 @@
 
 |pageUrl2                              |team          | expected_attg| expected_gs|bet |
 |:-------------------------------------|:-------------|-------------:|-----------:|:---|
-|/players/751164/carlos-acevedo        |Santos Laguna |      0.000000|   0.2380952|    |
+|/players/751164/carlos-acevedo        |Santos Laguna |      0.000000|   0.2439024|    |
 |/players/1222470/omar-campos          |Santos Laguna |      0.022300|   0.1538462|    |
 |/players/320686/matheus-doria         |Santos Laguna |      0.051300|   0.4255319|    |
 |/players/200588/hugo-rodriguez        |Santos Laguna |      0.036575|   0.1000000|    |
@@ -141,14 +141,14 @@ ____________________________________________________
 |:------------|------------:|-------------:|:---------|
 |Eduardo Arce |     7.990909|       -6.2325|4-1-4-1   |
 cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/4065380/Soccer_Models'...
-Receiving objects:   1% (50/4929),   63 kb
-Receiving objects:  11% (543/4929),  127 kb
-Receiving objects:  21% (1036/4929),  239 kb
-Receiving objects:  31% (1528/4929),  576 kb
-Receiving objects:  41% (2021/4929),  856 kb
-Receiving objects:  51% (2514/4929), 1136 kb
-Receiving objects:  61% (3007/4929), 10157 kb
-Receiving objects:  71% (3500/4929), 10494 kb
-Receiving objects:  81% (3993/4929), 10774 kb
-Receiving objects:  91% (4486/4929), 10830 kb
-Receiving objects: 100% (4929/4929), 11543 kb, done.
+Receiving objects:   1% (50/4934),   63 kb
+Receiving objects:  11% (543/4934),  127 kb
+Receiving objects:  21% (1037/4934),  239 kb
+Receiving objects:  31% (1530/4934),  576 kb
+Receiving objects:  41% (2023/4934),  856 kb
+Receiving objects:  51% (2517/4934), 1136 kb
+Receiving objects:  61% (3010/4934), 10157 kb
+Receiving objects:  71% (3504/4934), 10494 kb
+Receiving objects:  81% (3997/4934), 10774 kb
+Receiving objects:  91% (4490/4934), 10830 kb
+Receiving objects: 100% (4934/4934), 11547 kb, done.
