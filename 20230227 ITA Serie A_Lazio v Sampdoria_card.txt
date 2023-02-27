@@ -1,0 +1,153 @@
+[1] "Updated at 2023-02-26 16:01:52.936"
+[1] "_____________________________________________________________________"
+[1] "-----Model Predictions Below-----"
+[1] "--Pass/Shot Model--"
+[1] "Score: Lazio 2.103 to Sampdoria 1.1444"
+[1] "Total: 3.2474"
+[1] "Lazio %: 59.81"
+[1] "Draw %: 20.63"
+[1] "Sampdoria %: 19.56"
+[1] "--XG Model--"
+[1] "Score: Lazio 2.231 to Sampdoria 0.9837"
+[1] "Total: 3.2147"
+[1] "Lazio %: 65.4"
+[1] "Draw %: 19.48"
+[1] "Sampdoria %: 15.12"
+[1] "--XGoT Model--"
+[1] "Score: Lazio 2.0279 to Sampdoria 0.9161"
+[1] "Total: 2.944"
+[1] "Lazio %: 63.67"
+[1] "Draw %: 20.99"
+[1] "Sampdoria %: 15.34"
+[1] "--XA Model--"
+[1] "Score: Lazio 2.1912 to Sampdoria 0.9305"
+[1] "Total: 3.1217"
+[1] "Lazio %: 66"
+[1] "Draw %: 19.76"
+[1] "Sampdoria %: 14.24"
+[1] "--Mean 4 Models--"
+[1] "Lazio has a mean win % of 63.72%; a min win % of 59.81%; a max win % of 66%."
+[1] "Draw has a mean win % of 20.22%; a min win % of 19.48%; a max win % of 20.99%."
+[1] "Sampdoria has a mean win % of 16.07%; a min win % of 14.24%; a max win of % 19.56%."
+[1] "Lazio has a mean win of the Double Chance of 83.94%; a min win % of 80.44%, a max win % of 85.76%."
+[1] "Sampdoria has a mean win of the Double Chance of 36.28%; a min win % of 34%, a max win % of 40.19%."
+[1] "The mean likelihood that there are more than 2.5 goals is 60.19%; max % is 63.05 and min % is 56.09%."
+[1] "The mean likelihood that there are fewer than 2.5 goals is 39.81%; max % is 43.91 and min % is 36.95%."
+[1] "--Sportsbook Odds--"
+[1] "Lazio Barstool Odds are: 71.43"
+[1] "The Barstool Odds of a Draw are: 22.22"
+[1] "Sampdoria Barstool Odds are: 12.5"
+[1] "Lazio Adjusted Barstool Odds are: 67.292"
+[1] "The Adjusted Barstool Odds of a Draw are: 20.933"
+[1] "Sampdoria Adjusted Barstool Odds are: 11.776"
+[1] "Lazio's Barstool Odds to cover the  spread are: NA"
+[1] "Sampdoria's Barstool Odds to cover the  spread are: NA"
+[1] "Barstool's line for the total is 2.5 at 1.92, which is a 52.08% chance of the over 2.5 hitting. The line for the under is 1.88, which is a 53.19% chance of the under 2.5 hitting."
+[1] "-------------------------------------------------------------------------"
+[1] "_____________________________________________________________________________________________________________________________"
+                   bet           date_time
+1            Sampdoria 2023-02-27 11:45:00
+2 over Lazio/Sampdoria 2023-02-27 11:45:00
+[1] "____________Anytime Goalscorers______________________"
+
+
+|pageUrl2                                |team      | expected_attg| expected_gs|bet |
+|:---------------------------------------|:---------|-------------:|-----------:|:---|
+|/players/364822/ivan-provedel           |Lazio     |      0.000000|   0.1052632|    |
+|/players/478447/adam-marusic            |Lazio     |      0.054700|   0.1000000|    |
+|/players/814398/nicolo-casale           |Lazio     |      0.031350|   0.0909091|    |
+|/players/358149/patric                  |Lazio     |      0.076575|   0.0625000|    |
+|/players/293160/elseid-hysaj            |Lazio     |      0.035425|   0.0384615|    |
+|/players/463301/sergej-milinkovic-savic |Lazio     |      0.161450|   0.2631579|    |
+|/players/362120/danilo-cataldi          |Lazio     |      0.009200|   0.1333333|    |
+|/players/198566/luis-alberto            |Lazio     |      0.176575|   0.2631579|    |
+|/players/230190/felipe-anderson         |Lazio     |      0.156900|   0.3703704|    |
+|/players/161660/ciro-immobile           |Lazio     |      0.483825|   0.6153846|    |
+|/players/541555/mattia-zaccagni         |Lazio     |      0.231475|   0.3921569|    |
+|/players/665164/sam-lammers             |Sampdoria |      0.127875|   0.1923077|    |
+|/players/172899/manolo-gabbiadini       |Sampdoria |      0.243350|   0.2222222|    |
+|/players/769644/abdelhamid-sabiri       |Sampdoria |      0.152125|   0.1428571|    |
+|/players/693160/tommaso-augello         |Sampdoria |      0.085225|   0.0454545|    |
+|/players/528453/harry-winks             |Sampdoria |      0.013250|   0.0769231|    |
+|/players/861445/michal-cuisance         |Sampdoria |      0.008800|   0.0769231|    |
+|/players/916710/alessandro-zanoli       |Sampdoria |      0.008600|   0.0196078|    |
+|/players/1192255/bruno-amione           |Sampdoria |      0.034025|   0.0344828|    |
+|/players/178758/bram-nuytinck           |Sampdoria |      0.032500|   0.0526316|    |
+|/players/282420/marios-oikonomou        |Sampdoria |      0.003300|   0.0476190|    |
+|/players/602845/emil-audero             |Sampdoria |      0.000000|   0.2631579|    |
+|/players/150250/pedro-rodriguez         |Lazio     |      0.265775|   0.0833333|*   |
+|/players/206322/matias-vecino           |Lazio     |      0.026575|   0.1818182|    |
+|/players/807148/luca-pellegrini         |Lazio     |      0.000000|   0.0952381|    |
+|/players/651435/toma-basic              |Lazio     |      0.018750|   0.4000000|    |
+|/players/39540/fabio-quagliarella       |Sampdoria |      0.132375|   0.2564103|    |
+|/players/52243/tomas-rincon             |Sampdoria |      0.000000|   0.0400000|    |
+|/players/847357/mehdi-leris             |Sampdoria |      0.010925|   0.1176471|    |
+|/players/178538/filip-djuricic          |Sampdoria |      0.011225|   0.1333333|    |
+____________________________________________________
+
+[1] "Facts about Lazio:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                                | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/364822/ivan-provedel           |           0|         38.4598|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/478447/adam-marusic            |           1|         54.1517|           1.3589|        0.3717|         0.7657|      0.0278|        0.0555|      0.0657| 90.0000|
+|/players/814398/nicolo-casale           |           1|         51.9488|           1.7114|        0.1308|         0.8839|      0.0497|        0.0310|      0.0514| 90.0000|
+|/players/358149/patric                  |           1|         65.6079|           1.1287|        0.0970|         0.6121|      0.0917|        0.0782|      0.0351| 81.7500|
+|/players/293160/elseid-hysaj            |           1|         59.5984|           1.8990|        0.1462|         0.3074|      0.0288|        0.0335|      0.1268| 90.0000|
+|/players/463301/sergej-milinkovic-savic |           3|         48.4216|           2.3496|        0.6843|         1.9921|      0.2059|        0.1726|      0.0881| 90.0000|
+|/players/362120/danilo-cataldi          |           3|         42.7310|           1.2164|        0.0616|         0.2771|      0.0167|        0.0086|      0.0611| 72.0385|
+|/players/198566/luis-alberto            |           3|         49.3196|           1.6494|        0.6510|         2.0609|      0.1922|        0.1868|      0.1841| 81.0000|
+|/players/230190/felipe-anderson         |           5|         35.9098|           1.9255|        0.5582|         1.4993|      0.2116|        0.1663|      0.2083| 90.0000|
+|/players/161660/ciro-immobile           |           5|         22.3303|           0.2193|        1.6391|         4.1153|      0.6616|        0.6276|      0.1133| 90.0000|
+|/players/541555/mattia-zaccagni         |           5|         25.6936|           0.6562|        0.6734|         1.9028|      0.1929|        0.2457|      0.1519| 79.5161|
+|/players/150250/pedro-rodriguez         |          NA|              NA|               NA|        1.2102|         2.9043|      0.4387|        0.2954|      0.1845| 17.9615|
+|/players/206322/matias-vecino           |          NA|              NA|               NA|        0.1115|         0.8453|      0.0726|        0.0274|      0.0110| 10.4839|
+|/players/807148/luca-pellegrini         |          NA|              NA|               NA|        0.0000|         0.3739|      0.0121|        0.0000|      0.0349|  9.0000|
+|/players/651435/toma-basic              |          NA|              NA|               NA|        0.3735|         0.4717|      0.0346|        0.0172|      0.0435|  8.2500|
+
+
+|manager_name   | approx_games| m_avg_elo_dif|formation |
+|:--------------|------------:|-------------:|:---------|
+|Maurizio Sarri |     74.70909|      9.589901|4-3-3     |
+____________________________________________________
+
+[1] "Facts about Sampdoria:"
+[1] "Lineup: expected"
+
+
+|pageUrl2                          | positionRow| expected_passes| expected_tackles| expected_sogs| expected_shots| expected_xg| expected_xgot| expected_xa| exp_min|
+|:---------------------------------|-----------:|---------------:|----------------:|-------------:|--------------:|-----------:|-------------:|-----------:|-------:|
+|/players/665164/sam-lammers       |           5|         15.7736|           0.9949|        0.4548|         1.1892|      0.1163|        0.1318|      0.0281| 73.8824|
+|/players/172899/manolo-gabbiadini |           5|         20.2474|           0.6268|        0.6876|         1.9477|      0.2688|        0.2575|      0.0898| 90.0000|
+|/players/769644/abdelhamid-sabiri |           4|         29.6213|           1.5538|        0.5324|         1.5219|      0.1591|        0.1598|      0.0999| 90.0000|
+|/players/693160/tommaso-augello   |           3|         26.9656|           0.6437|        0.3012|         0.6364|      0.0462|        0.0813|      0.0740| 90.0000|
+|/players/528453/harry-winks       |           3|         45.0947|           1.4013|        0.0781|         0.4123|      0.0522|        0.0121|      0.0738| 90.0000|
+|/players/861445/michal-cuisance   |           3|         20.5229|           1.8221|        0.1853|         0.8811|      0.0311|        0.0092|      0.0194| 68.9231|
+|/players/916710/alessandro-zanoli |           3|         28.9666|           2.3172|        0.0627|         0.3310|      0.0326|        0.0097|      0.0287| 72.2500|
+|/players/1192255/bruno-amione     |           1|         33.9500|           1.6647|        0.1236|         0.2470|      0.0380|        0.0340|      0.0281| 90.0000|
+|/players/178758/bram-nuytinck     |           1|         36.5300|           1.1853|        0.0852|         0.1362|      0.0222|        0.0340|      0.0013| 90.0000|
+|/players/282420/marios-oikonomou  |           1|          3.9290|           0.0861|        0.0078|         0.0766|      0.0064|        0.0031|      0.0043|  8.2500|
+|/players/602845/emil-audero       |           0|         31.4838|           0.0000|        0.0000|         0.0000|      0.0000|        0.0000|      0.0000| 90.0000|
+|/players/39540/fabio-quagliarella |          NA|              NA|               NA|        0.7346|         2.0362|      0.2314|        0.1353|      0.0773| 81.7500|
+|/players/52243/tomas-rincon       |          NA|              NA|               NA|        0.0000|         0.0000|      0.0000|        0.0000|      0.0007| 21.0769|
+|/players/847357/mehdi-leris       |          NA|              NA|               NA|        0.0636|         0.1080|      0.0103|        0.0097|      0.0040| 17.7500|
+|/players/178538/filip-djuricic    |          NA|              NA|               NA|        0.0535|         0.2078|      0.0152|        0.0101|      0.0308| 16.1176|
+
+
+|manager_name    | approx_games| m_avg_elo_dif|formation |
+|:---------------|------------:|-------------:|:---------|
+|Dejan Stankovic |     13.94747|       -13.705|3-4-1-2   |
+cloning into 'C:/Users/CORSAIR GAMING/Documents/Fotmob Soccer Modelling/All Match Data/3919274/Soccer_Models'...
+Receiving objects:   1% (50/4923),   63 kb
+Receiving objects:  11% (542/4923),  127 kb
+Receiving objects:  21% (1034/4923),  239 kb
+Receiving objects:  31% (1527/4923),  576 kb
+Receiving objects:  41% (2019/4923),  856 kb
+Receiving objects:  51% (2511/4923), 1136 kb
+Receiving objects:  61% (3004/4923), 10157 kb
+Receiving objects:  71% (3496/4923), 10494 kb
+Receiving objects:  81% (3988/4923), 10774 kb
+Receiving objects:  91% (4480/4923), 10830 kb
+Receiving objects: 100% (4923/4923), 11537 kb, done.
